@@ -1,0 +1,41 @@
+regel;pdf;id;signatur;seite;urteil;kurz
+a;D512.pdf;12;V.B.c.70.:1.11.;12;besser;Saison-Zeitraum 1968–1969 aus dem Titel statt Einzeldatum
+a;D512.pdf;13;V.B.c.70.:1.12.;14;besser;Saison-Zeitraum 1969–1970 aus dem Titel statt Einzeldatum
+a;D512.pdf;14;V.B.c.70.:1.13.;15;besser;Saison-Zeitraum 1970–1971 aus dem Titel statt Einzeldatum
+a;D512.pdf;15;V.B.c.70.:1.14.;16;besser;Saison-Zeitraum 1971–1972 aus dem Titel statt Einzeldatum
+a;D512.pdf;17;V.B.c.70.:1.16.;20;besser;Saison-Zeitraum 1973–1974 aus dem Titel statt Einzeldatum
+a;D512.pdf;18;V.B.c.70.:1.17.;23;besser;Saison-Zeitraum 1974–1975 aus dem Titel statt Einzeldatum
+a;D512.pdf;21;V.B.c.70.:1.20.;32;besser;Saison-Zeitraum 1977–1978 aus dem Titel statt Einzeldatum
+a;D512.pdf;24;V.B.c.70.:1.23.;38;besser;Saison-Zeitraum 1980–1981 aus dem Titel statt Einzeldatum
+a;D512.pdf;39;V.B.c.70.:1.38.;58;besser;Saison-Zeitraum 1995–1996 aus dem Titel statt Einzeldatum
+a;D512.pdf;42;V.B.c.70.:1.41.;61;besser;Saison-Zeitraum 1998–1999 aus dem Titel statt Einzeldatum
+a;D512.pdf;9;V.B.c.70.:1.8.;5;unklar;28.09.1964–1966: PDF nennt «28. Sept. 1964» in der Saison 1965/66 (vermutlich Tippfehler im PDF), Regel folgt dem PDF
+a;D512.pdf;20;V.B.c.70.:1.19.;28;schlechter;1938–1977 aus «(… aus den Jahren 1938 - 1945)»
+a;D3530.pdf;1;VII.327.:1.;1;schlechter;= 20.04.1999 aus dem Inventarvermerk
+a;D151150.pdf;54;V.F.c.150.:9.;5;schlechter;1517–1964: Dossiernummer «1517» als Jahr
+a;D1739.pdf;1;V.G.c.105.:1;1;besser;Quelle «Datumsspalte» statt «Darin (geschätzt)», 1922–1925 wie Spalte
+a;D1739.pdf;2;V.G.c.105.:2;1;besser;Quelle «Datumsspalte», 1889–1933 wie Spalte
+a;D3828.pdf;16;VII.76.:3.12.;9;gleich;"1929–1946 → 1929–1945: 1946 stammte aus «SBB-Budget 1946»; Einträge 27.–29. sind wegen der bewusst offenen Gliederung eigene Einheiten"
+a;D3828.pdf;20;VII.76.:3.16.;11;besser;1940–1946 → 1940–1945: 1946 stammte aus «Amtsperiode 1942 – 1946» im Text
+a;D3828.pdf;44;VII.76.:13.;15;besser;Teil 3: 1912–1927 aus allen Einträgen, Anm «o.D. / 1922»
+a;D152810.pdf;572;VI.HO.D.5.;21;besser;1804–1893: Eintrag 4. «Wertschriften-Übergabeprotokoll 1893» liegt ausserhalb der Titelzeile 1804-1892, Anm «1804-1892»
+a;D152810.pdf;575;VI.HO.D.8.;21;besser;1831–1872: Eintrag 2. 1868-1872, Anm «1831-1871»
+b;D152810.pdf;154;VI.HO.C.25.:12;8;schlechter;1843 → 1843–1875 durch Tippfehler-Teil aus Reihe C.26.
+b;D152810.pdf;156;VI.HO.C.25.:13;8;schlechter;1844 → 1844–1865 durch Tippfehler-Teil aus Reihe C.97.
+b;D3828.pdf;;VII.76.:13.;2;schlechter;Erstnennung S. 2 1939–1945 → 1912–1945 über die gleichnamige Nummer aus Abschnitt 6. 5. (bewusst offene Gliederung)
+b;D3828.pdf;;VII.76.:12.;2;schlechter;1939–1940 → 1917–1940 ebenso
+c;D3099.pdf;9;VII.199.:1.2.5.;2;besser;zweite Nennung Teil 2, Schlüssel eindeutig
+c;D3530.pdf;9;VII.327.:3.;34;gleich;Teil 2 der zweiten «3.» (bewusst offene Gliederung)
+c;D3828.pdf;;VII.76.:4./5./9.–13.;5;gleich;Teile 2/3 in Reihenfolge, keine Lücken
+c;D152810.pdf;155;VI.HO.C.25.:12;9;gleich;Teil 2 der Tippfehler-Nennung
+i;D3581.pdf;2;VII.352.:1.1.;1;schlechter;erster Listeneintrag samt «Schachtel 1» im Titel
+i;D867.pdf;5;V.C.c.81.:5.;1;schlechter;erster von 12 Listeneinträgen im Titel
+i;D3271.pdf;20;VII.24.:3.4.2.;8;besser;Untertitel «Vermietung, Verpachtung, …» gehört zum Titel
+i;D3271.pdf;21;VII.24.:3.4.3.;8;besser;Untertitel «Rekurse, Prozesse» gehört zum Titel
+i;D1237.pdf;2;V.E.c.89.:2;1;besser;Untertitel «Drucksachen und Vervielfältigungen …» gehört zum Titel
+i;D175949.pdf;;VII.310.:Q;;besser;[ohne Titel] → «Internet: Message-Board» wie PDF
+i;D2921.pdf;;VII.133.:3.;;besser;[ohne Titel] → «Notizheft: „Memoiren Nr. 3, Fortsetzung“»
+i;D3587.pdf;;VII.357.:1.;1;besser;[ohne Titel] → «Postkarte, Motiv: Federzeichnung …»
+i;D8952.pdf;;V.L.222.:2;;besser;[ohne Titel] → «Beschriftung: Das Grossmünster»
+i;D8952.pdf;;V.L.222.:7;;besser;[ohne Titel] → «Beschriftung: Das Rathhaus»
+a;D2850.pdf;49;VII.109.:A.;6;unklar;01.06.1925–22.12.1956 aus den Daten der Publikationen im eigenen Darin – plausibel, aber Quelle «Untereinheiten» falsch

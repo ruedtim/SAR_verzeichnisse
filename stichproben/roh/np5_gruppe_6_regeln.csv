@@ -1,0 +1,137 @@
+regel;pdf;id;signatur;seite;urteil;kurz
+a;D149835.pdf;3;V.C.b.368.:2.;1;schlechter;1759–03.02.1890 → 1759–1881 (Untereinheiten): umbrochene Zeile «1881» als Jahreszeile, Gruppe verwirft Textschätzung
+a;D1746.pdf;31;V.G.c.107.:XIV.;7;schlechter;1970–1971 → = 1970: Spaltendaten «1971» nicht abgetrennt, Spalte trägt allein
+a;D1877.pdf;2;V.G.c.43.:2.;1;schlechter;19.06.1903–1994 → 1903–1994: Folge von 2.1. (gering)
+a;D1877.pdf;3;V.G.c.43.:2.1.;1;schlechter;19.06.1903–1994 → 1903–1994 (Untereinheiten): Gruppe nimmt Spaltenjahre statt Textdaten, Tag geht verloren (gering)
+a;D2620.pdf;114;V.L.167.:10.2.;17;besser;"neu ab 1917: «1917 ff.» (Folgezeile zu B.) – Beginn stimmt, Ende offen; Quelle «Untereinheiten» stammt aus eigenem Darin"
+a;D2828.pdf;61;VII.1.:23.;6;besser;1834–1845 → 1834–1840: 1845 war Werktitel («… im Jahre 1845 sein könnte»), Spalte 1834–1840
+a;D2940.pdf;3;VII.141.:2. Teil 2;2;besser;1850–1945 → 1908–1945: 1850 aus Aufsatztitel «… 1850 – 1940», Spalte 1908–1945
+a;D2940.pdf;7;VII.141.:6.;4;besser;1901–04.2009 → 1901–1951: 2009 = Umlagerungsvermerk, Spalte 1901–1951
+a;D2940.pdf;8;VII.141.:7.;6;besser;1848–1963 → 1881–1963 (Untereinheiten): Kinder jetzt Datumsspalte
+a;D2940.pdf;11;VII.141.:7.3.;8;besser;1848–1962 → 1888–1962: 1848 aus Lebensdaten «Hans Pestalozzi 1848 – 1909»
+a;D2945.pdf;17;VII.143.:4.;2;besser;1800–1958 → 1937–1958: 1287/1800 aus Werktiteln, Spalte 1937–1958
+a;D3038.pdf;29;VII.181.:V.;3;unklar;1932–1983 → 1950–1983 (Untereinheiten): hängt an Teil 2
+a;D3038.pdf;30;VII.181.:V. Teil 2;3;unklar;1932–1983 → = 1983: «- Gründungsjahr l932» ohne Spaltendatum – Material von 1932 oder nur Angabe? (eher Material)
+a;D3170.pdf;327;VII.209.:6.4.;32;besser;1965–2005 → 05.1966–05.2005: Spielzeit-Überschriften zählen nicht mehr, Plakatdaten Mai 1966 – Mai 2005
+a;D32837.pdf;164;VII.237.:1.6.1.;31;gleich;"1918–2005 → 1920–2005: umbrochene Erscheinungsjahre «2002», «1996» ersetzen die Textschätzung; Beginn beide Male aus Titeljahren (Teil 3 «1920 – 1970»)"
+a;D3313.pdf;7;VII.254.:4.;2;schlechter;"1818–01.1994 → = 1896 (Untereinheiten): umbrochene Zeile «1896» als einziges Spaltendatum; Titel (1858 – 1895)"
+k;D3647.pdf;17;VII.381.:5.4.;2;schlechter;= 1851 → = 01.05.1351 (Titel): Titel jetzt richtig (Regel k), aber Ereignisdatum «1. Mai 1351» wird Zeitraum
+k;D3647.pdf;15;VII.381.:5.;2;schlechter;1833–1954 → 01.05.1351–1954: Folge von 5.4.
+a;D3727.pdf;39;VII.411.:9.2.;10;besser;1901–1989 → 1939–1989: 1901 aus Lebensdaten «Bonomo, 1901 – 1984», Spalte 1939–1989
+a;D3988.pdf;12;VII.28.:4.2.;1;unklar;"18.03.1893–1983 → 1895–1983: PDF-Spalte «1983 – 1895» (Tippfehler; Text 18. März 1893 – 4. Dezember 1895); beides falsch, neu Hinweis bei 4."
+a;D446.pdf;4;V.B.c.56.:2.;2;besser;1912–1925 → 1913–1925: Spalte «1913 – 1925» (1912–1924 = Rechnungsjahre im Titel)
+a;D446.pdf;28;V.B.c.56.:5.;3;besser;1917–1953 → 1917–1952: Spalte «1917 – 1952» (Voranschläge für 1918–1953)
+a;D9985.pdf;1;VII.12.B.:27.2.1.;3;schlechter;"1834–1996 → 1914–1996: umbrochene Datumszeile «1914» (S. 9) ersetzt Textschätzung; Plakate ab 30. Dez. 1838"
+a;D2710.pdf;1;V.L.5.:1;1;schlechter;"1692–1986 → 1803–1967 (Untereinheiten): umbrochene «1967)» als Jahreszeile; Zeitungsausschnitte bis 1986"
+a;D3063.pdf;5;VII.190.:1.4.;5;besser;Quelle → Datumsspalte (1919 - 1945 in der Spalte), Zeitraum gleich
+a;D3063.pdf;6;VII.190.:1.5.;5;besser;Quelle → Datumsspalte (= 1932)
+a;D3063.pdf;8;VII.190.:1.9.;5;schlechter;1911–1957 → 1882–1987: Ende 1987 und 1903 richtig, Beginn 1882 = Lebensdaten «Nachruf Edouard Chardon ¦ 1882 - 1945»
+a;D3063.pdf;22;VII.190.:3.1.;7;besser;Quelle → Datumsspalte (1918 - 1920 … 1922 - 1934)
+a;D3063.pdf;25;VII.190.:3.4.;7;schlechter;1911–1934 → 1911–1918: «1919 - 1934*» (mit Sternchen) nicht als Spaltendatum erkannt, Spalte trägt allein
+a;D3063.pdf;27;VII.190.:3.6.;8;besser;Quelle → Datumsspalte (02.1934 – 09.1936)
+a;D3063.pdf;34;VII.190.:3.10.;9;besser;Quelle → Datumsspalte (1912–1945)
+a;D3063.pdf;39;VII.190.:4.3.;10;besser;"= 1918 → 1918–1944 (Spalte 1938, 1944); «Werbung 1948» steht im Text, nicht in der Spalte – bleibt aussen"
+a;D3063.pdf;44;VII.190.:5.3.;11;besser;05.1911–05.1932 → 05.1911–01.1948 (Untereinheiten) – Z126
+a;D3063.pdf;45;VII.190.:5.3. Teil 2;11;besser;04.1932–05.1932 → 04.1932–01.1948 (Bücher Schachtel 14)
+a;D3063.pdf;50;VII.190.:6.2.;12;besser;1942–1947 → 1940–1948 (Regel a + b), Hinweis «Untereinheiten reichen …» entfällt zu Recht
+a;D3063.pdf;51;VII.190.:6.2. Teil 2;12;besser;1942–1948 → 1940–1948 (Kontokorrenthefte 1940 - 1948)
+a;D3063.pdf;52;VII.190.:7.;12;besser;1944–1947 → 1944–1951 (Korrespondenz divers 1945 - 1951, S. 13)
+a;D3063.pdf;54;VII.190.:9.;13;besser;Anm neu «undatiert» (einziges Spaltendatum «ohne Datum»)
+a;D3063.pdf;57;VII.190.:12.;13;besser;Quelle → Datumsspalte (1914–1954)
+a;D3063.pdf;58;VII.190.:20.;14;besser;Quelle → Datumsspalte (1905–1911, «Sept.1909» usw.)
+a;D3063.pdf;69;VII.190.:40.4.;16;gleich;"Quelle → Datumsspalte 1912–1939; «ca.»/«vor 1939» der Spalte gehen wie vorher verloren (Z. 3639 ohne ca)"
+a;D3063.pdf;70;VII.190.:40.5.;17;besser;Quelle → Datumsspalte (1911-1917, 1920, ca. 1920)
+a;D176795.pdf;12;VII.388.:2.1.1.;6;besser;1780–1814 → 1780–1815 (Brief an Ehefrau 1815)
+a;D176795.pdf;22;VII.388.:2.3.1.;7;besser;1752–1790 → 1752–1801 (Erbschaftsakten 1795-1801)
+a;D176795.pdf;23;VII.388.:2.3.2.;7;besser;= 1849 → 1833–1849 (Briefe 1833-1834, 1833-1847)
+a;D176795.pdf;24;VII.388.:2.3.3.;7;besser;1811–1833 → 1794–1863 (Haushaltbücher 1794-1836 … 1863)
+a;D176795.pdf;30;VII.388.:2.3.9.;10;besser;1816–1925 → 1816–1953 (Untereinheiten (geschätzt), folgt)
+a;D176795.pdf;32;VII.388.:2.3.9.2.;10;besser;= 1851 → 1847–1899 (Skizzenbücher 1847-1860 … 1899)
+a;D176795.pdf;40;VII.388.:2.3.10.1.;13;besser;1862–1863 → 1855–1929 (Militärisches 1855-1907 … 1929)
+a;D176795.pdf;41;VII.388.:2.3.10.2.;14;besser;= 1878 → 1872–1913 (Schulhefte 1872 … 1912-1913)
+a;D176795.pdf;45;VII.388.:2.3.11.2.;15;besser;= 1944 → 1897–1966 (Briefe 1897-1946, 1909-1966)
+a;D176795.pdf;55;VII.388.:2.3.13.6.;19;besser;1944–1945 → 1925–1954 (Lohnfragen ¦ 1925-1954)
+a;D176795.pdf;57;VII.388.:2.3.13.8.;20;besser;1954–1959 → 1937–1966 (Von Cousine … 1937-1966)
+a;D176795.pdf;59;VII.388.:2.3.13.10.;21;besser;1904–1913 → 1904–1949 (1914, 1915, 1934, 1949)
+a;D176795.pdf;63;VII.388.:5.;22;besser;1746–24.03.2017 → 1746–1888: Übergabedatum weg – Z282
+a;D176795.pdf;10;VII.388.:2.;6;besser;1752–1959 → 1752–1966 (Untereinheiten (geschätzt), folgt)
+a;D4175.pdf;1;VII.232.:1.;1;gleich;1805–1991 → 1805–1992: 1805 bleibt (bekannt Z331), Ende jetzt richtig
+a;D4175.pdf;2;VII.232.:1.A.;2;besser;1950–1967 → 1929–1992 (Untereinheiten)
+a;D4175.pdf;3;VII.232.:1.A.1.;2;besser;1950–1967 → 1929–1992 (Hotelrechnungen 1929 … Einladungen 1992)
+a;D4175.pdf;4;VII.232.:1.B.;2;besser;Quelle → Untereinheiten (1.B.4. jetzt Datumsspalte)
+a;D4175.pdf;8;VII.232.:1.B.4.;3;besser;Quelle → Datumsspalte (1941–1978)
+a;D4175.pdf;9;VII.232.:1.C.;3;schlechter;1939–1975 → 1805–1975 (Untereinheiten): Folge von 1.C.1.
+a;D4175.pdf;10;VII.232.:1.C.1.;3;schlechter;1939–1953 → 1805–1966: Ende richtig (1961, 1966), Beginn aus «150 years of development ¦ 1805 - 1955»
+a;D4175.pdf;11;VII.232.:1.C.2.;3;besser;1960–1967 → 1952–1967 (Kalender 1952, 1955)
+a;D4175.pdf;12;VII.232.:1.C.3.;3;besser;= 1971 → 1953–1971 (VSM 1958 - 1959, Verschiedenes 1953)
+a;D4175.pdf;22;VII.232.:2.A.;7;besser;Quelle → Datumsspalte (1918–1990)
+a;D4175.pdf;23;VII.232.:2.B.;7;besser;1927–1966 → 1927–1990 (Untereinheiten)
+a;D4175.pdf;24;VII.232.:2.B.1.;7;besser;1939–1943 → 1935–1990 (Spalte 1935 … 1970 - 1990)
+a;D4175.pdf;28;VII.232.:2.E.;8;besser;Quelle → Datumsspalte (1948 - 1983, 1961 - 1991)
+a;D4175.pdf;32;VII.232.:2.F.3.;8;besser;= 1973 → 1973–1978 (Reise nach Strassburg 1978)
+a;D4175.pdf;37;VII.232.:2.G.2.;9;besser;1939–1951 → 1939–1989 (Englisch 1950 - 1989)
+a;D4175.pdf;45;VII.232.:2.N.;11;besser;Quelle → Datumsspalte (1888 - 1991)
+a;D176151.pdf;3;VII.371.:1.1.1.;2;besser;"Quelle → Datumsspalte (= 1925; Spalte 20. April 1925, Juli 1925)"
+a;D176151.pdf;8;VII.371.:1.5.;3;besser;Quelle → Datumsspalte, Tagesdaten 30.09.1926–01.1997 aus dem Text
+a;D176151.pdf;13;VII.371.:2.4.;5;besser;Quelle → Datumsspalte (1948 – 1958 … 2005 – 2018)
+a;D176151.pdf;15;VII.371.:4.;7;besser;neuer Hinweis «Untereinheiten reichen … (1932–1993)» richtig (TOC 1925–1986, 4.2.3. bis 1993)
+a;D176151.pdf;17;VII.371.:4.2.;7;besser;Quelle → Untereinheiten (1932–1993)
+a;D176151.pdf;22;VII.371.:5.;8;besser;neuer Hinweis «Untereinheiten reichen … (1924–1995)» richtig (TOC 1932–1995, 5.1. ab 1924)
+a;D176151.pdf;23;VII.371.:5.1.;8;besser;Quelle → Datumsspalte (1924 – 1925 … 1925 – 1943)
+a;D176151.pdf;34;VII.371.:11.1.;10;besser;1864–2002 → 1933–2002: 1864 aus Aufsatztitel «Das Wetter am Sechseläuten 1864 – 1978»
+a;D175994.pdf;24;IV.A.24.;2;besser;1845–1848 → 1845–1858 (Spalte «1845,1848, / 1858»)
+a;D175994.pdf;26;IV.A.26.;3;besser;1845–1849 → 1845–1878 (Spalte «1845, 1849, / 1858, 1878»)
+a;D175994.pdf;57;IV.A.57.;5;besser;1903–1955 → 1903–1985 (Spalte «1903–1955 / 1961–1985»)
+a;D175994.pdf;65;IV.A.65.;5;besser;1894–1896 → 1894–1980 – Z104 (Anm nur 1. Zeile)
+a;D1924.pdf;1;V.G.c.7.:1;1;besser;Quelle → Datumsspalte, 1861–1863 = Spalte «Jahr» der Schachtel 1
+a;D1924.pdf;10;V.G.c.7.:10;13;besser;Quelle → Datumsspalte, = 1879 wie Spalte
+a;D1924.pdf;20;V.G.c.7.:19;18;besser;Quelle → Datumsspalte, = 1884 wie Spalte
+a;D1924.pdf;33;V.G.c.7.:31;24;besser;Quelle → Datumsspalte, = 1891 wie Spalte
+a;D1924.pdf;35;V.G.c.7.:33-34;25;besser;Quelle → Datumsspalte, = 1892 wie Spalte
+a;D1924.pdf;60;V.G.c.7.:59;47;besser;Quelle → Datumsspalte, = 1881 wie Spalte
+a;D1924.pdf;80;V.G.c.7.:79;57;besser;Quelle → Datumsspalte, = 1892 wie Spalte
+a;D1924.pdf;82;V.G.c.7.:81;58;besser;Anm neu «undatiert» – Spalte durchgehend «undatiert»
+a;D1924.pdf;83;V.G.c.7.:82;60;besser;Anm neu «undatiert» – Spalte durchgehend «undatiert»
+a;D3718.pdf;39;VII.409.:4.1.8.;6;besser;1904–1906 → 1904–1912 (Spalte «1904-1906, / 1910/1912»)
+a;D3718.pdf;55;VII.409.:4.2.2.;6;besser;neuer Hinweis «Untereinheiten reichen … (1897–1993)» richtig
+a;D3718.pdf;57;VII.409.:4.2.2.2.;7;besser;1942–1945 → 1942–1949
+a;D3718.pdf;58;VII.409.:4.2.2.3.;7;besser;1935–1942 → 1935–1993 (Jahresrückblick 1992-1993)
+a;D3718.pdf;64;VII.409.:4.2.8.;8;besser;1914–1951 → 1902–1992 (Anstellungsunterlagen 1902-1926 … 1992)
+a;D3718.pdf;72;VII.409.:4.2.11.5.;9;besser;Quelle → Datumsspalte (Bauabrechnung ¦ 1954)
+a;D3718.pdf;74;VII.409.:4.2.12.;9;besser;"1906–1976 → 1889–1976 (1. Werbebrief 1889); Anm jetzt «ca. 1906-1976» (ca. nur aus Einträgen, kosmetisch)"
+a;D3718.pdf;75;VII.409.:4.2.13.;10;schlechter;1890–2005 → 1890–20.09.2010: umbrochene Zeile «20. September 2010).» des Erwerbsvermerks
+a;D3718.pdf;53;VII.409.:4.2.;6;schlechter;1887–2006 → 1887–20.09.2010: Folge von 4.2.13.
+a;D3718.pdf;30;VII.409.:4.;5;schlechter;1887–2006 → 1887–20.09.2010: Folge von 4.2.13.
+a;D3718.pdf;77;VII.409.:4.2.15.;11;schlechter;1947–1956 → 1955–1956: «1947-1954 Sch. 52» nicht als Spaltendatum erkannt, Spalte trägt allein
+a;D3718.pdf;81;VII.409.:4.2.19.;12;schlechter;1894–1961 → 1911–1948: «1894-1961 Sch. 64» u. a. im Text, Rest trägt allein
+a;D3718.pdf;83;VII.409.:4.2.21.;12;besser;"= 1933 → 1917–1985 (Kalender 1917 … Plakatkalender 1985); Erwerbsvermerk «Februar 2009» zählt richtig nicht"
+a;D3718.pdf;122;VII.409.:8.2.2.;21;besser;1915–1995 → 1913–1995 (Jahreszeile «1913-1924»)
+a;D3718.pdf;118;VII.409.:8.;21;besser;1915–1995 → 1913–1995, Quelle → Untereinheiten
+a;D2901.pdf;1;VII.124.:1;1;besser;Quelle → Datumsspalte (1929 – 1939 … 1962 – 1981)
+a;D2901.pdf;2;VII.124.:3;1;besser;Quelle → Datumsspalte (1949 … 1979)
+a;D2901.pdf;6;VII.124.:8;2;besser;Quelle → Untereinheiten
+a;D2901.pdf;10;VII.124.:11;2;besser;"Quelle → Datumsspalte (1888–1967); Schlussnotiz bleibt (Z43)"
+a;D3628.pdf;2;VII.376.:1.1.;2;besser;"1940–1981 → 1885–1983 (Spalte 1885 … 1983); Anm «1940, 1981» irreführend wie vorher"
+a;D3628.pdf;3;VII.376.:1.2.;2;besser;Quelle → Datumsspalte (1885, 1894 … 1997 - 1998)
+a;D3628.pdf;27;VII.376.:2.5.;4;besser;Quelle → Datumsspalte (Aug. 1874 - Nov. 1897)
+a;D3628.pdf;34;VII.376.:4.1.2.;5;besser;1958–1974 → 1930–1974 – Z320
+a;D3628.pdf;40;VII.376.:5.1.;6;besser;= 1966 → 1965–1967, Titel «Fahnenweihe 1966» behält Datum (Z. 3566–3570)
+a;D3628.pdf;48;VII.376.:7. Teil 2;8;besser;1904–1917 → 1904–1985 (3. Neumünster Turner 1934 - 1985)
+a;D140969.pdf;6;VII.80.:7.;2;schlechter;= 1941 → 1940–1941: Datum der verschluckten Einheit 8:1–3
+a;D140969.pdf;8;VII.80.:10.;2;schlechter;= 1936 → 1936–1939: Datum der verschluckten Einheit 11:1–2
+a;D140969.pdf;18;VII.80.:21.;3;besser;1927–1939 → 1927–1940 (Presse-Komitee 1936 – 1940)
+a;D140969.pdf;21;VII.80.:24.;3;besser;1937–1939 → 1937–1940 (Sport, Landi-Film bis 1940)
+a;D3077.pdf;16;VII.194.:16.;2;besser;= 04.12.1856 → 04.12.1856–1977 – Z130
+a;D3077.pdf;17;VII.194.:17.;2;schlechter;1949–25.01.1978 → 1949–1964: Spalte trägt allein, Textdaten «NZZ 2.6.1975 und 25.1.1978» fallen weg
+a;D3060.pdf;2;VII.189.:2;5;besser;"Quelle → Datumsspalte; 04.11.1974 aus dem Text bei gleichen Jahren"
+a;D2839.pdf;9;VII.103.:2.5.;7;unklar;"= 1955 → 24.02.1954–1955: PDF-Tippfehler «Rumänische Note ¦ 24. Febr. 1954» in Mappe 5 (1955); Mischgenauigkeit"
+a;D2839.pdf;23;VII.103.:4.;23;gleich;"Quelle → Datumsspalte, aber aus umbrochenen Datumslisten im Text («26.04.1967, 08.06.1966, 30.07.1958»); Zeitraum gleich"
+a;D176367.pdf;70;VII.215.:7.1.;8;schlechter;1934–2017 → 2006–2017: umbrochene Folgezeile «2006 – 2017» trägt allein
+a;D141.pdf;76;V.A.c.115.:75;5;schlechter;= 1969 → 1969–1970: Jahre der verschluckten Einheiten :76–:85
+a;D141.pdf;77;V.A.c.115.:86;5;schlechter;= 1970 → 1970–1972: Jahre der verschluckten Einheiten :87–:99
+a;D3057.pdf;2;VII.188.:1.1.;2;besser;1868–1873 → 1868–1921 (Band 1–4)
+a;D3057.pdf;4;VII.188.:2.1.;2;besser;1894–1903 → 1894–1918 (Band 2 1903 – 1918)
+a;D3057.pdf;9;VII.188.:4.2.;2;besser;1911–1926 → 1911–1971 (Band 2/3 bis 1971)
+a;D3429.pdf;3;VII.295.:1.2.;2;schlechter;1974–1995 → 1975–1995: Jahreszeilen mit Klammerzusatz («1974 (Protokoll der Gründungsversammlung …)») zählen nicht
+a;D3429.pdf;6;VII.295.:1.5.;2;besser;Quelle → Datumsspalte (1985 – 1995)
+a;D3429.pdf;9;VII.295.:3.1.;2;besser;Quelle → Datumsspalte (1970 – 1980, 1981 – 1996)

@@ -1,0 +1,10 @@
+# PDFs des Stadtarchivs Zürich: Quelle, mit findmittel_laden.py neu ladbar – nicht im Repository
+*.pdf
+# Excel-Ergebnisse erst mit einer stabilen Konvertierungsfassung
+findmittel_excel/
+testdaten_excel/
+*_scope_import.xlsx
+# Python, macOS
+__pycache__/
+*.pyc
+.DS_Store

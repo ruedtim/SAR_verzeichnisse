@@ -1,0 +1,71 @@
+regel;pdf;id;signatur;seite;urteil;kurz
+c;D150689.pdf;34;VII.277.:1.6.;20;besser;"Übersicht 1.6.1.–1.6.11. im Darin, eigener Titel «Wilhelm Caspar Escher-Abegg (1859 – 1929)» statt Titel von 1.; «1.6.1. … Papiere 1.6.2. Privatkorrespondenz» verschmolzen (kosmetisch)"
+c;D150689.pdf;47;VII.277.:1.8.;34;besser;"Übersicht 1.8.1.–1.8.3. vollständig im Darin; Titel von 1.8.1. (ID 48) weiter vom Elternteil (Z228, alt)"
+c;D150689.pdf;53;VII.277.:2.;38;besser;"Übersicht 2.1.–2.4. vollständig im Darin; doppelte 2. weg, wiederholte Detailüberschrift im Blatt Vollständigkeit als «Wiederholte Abschnittsüberschrift»"
+c;D150689.pdf;64;VII.277.:3.;63;besser;"Übersicht 3.1.–3.14. vollständig im Darin; Teilbestand 3. nicht mehr doppelt (S. 63/64)"
+c;D150689.pdf;80;VII.277.:3.10.;84;gleich;"eingerückte Übersicht 3.10.1.–3.10.6. (S. 84) weiter nur «Übersichtszeilen ignoriert», «Übersicht:» jetzt nicht übernommen statt Darin; Untereinheiten vollständig"
+c;D150689.pdf;91;VII.277.:4.;96;besser;"Übersicht 4.1.–4.6. im Darin; 4.2.-Übersichtseintrag in zwei Darin-Einträge geteilt (kosmetisch)"
+c;D150689.pdf;97;VII.277.:4.2.;98;besser;"nur noch eine Einheit 4.2. (Dossier unter 4.) statt Übersichts-Serie + Teil; Darin (1)/(2), (4)/(5) getrennt"
+c;D150689.pdf;102;VII.277.:5.;102;besser;"Übersicht 5.1.–5.5. im Darin; «Übersicht: 5.1. …» verschmolzen (kosmetisch)"
+c;D150689.pdf;127;VII.277.:6.;122;besser;Übersicht 6.1.–6.11. samt Unterzeilen zu 6.2./6.4. vollständig im Darin
+c;D150689.pdf;146;VII.277.:6.2.;132;besser;"nur noch Serie an der Detailstelle S. 132; Kinder 6.2.1.–6.2.4. (IDs 147–150) mit unverändertem Inhalt"
+c;D150689.pdf;156;VII.277.:6.4.;136;besser;nur noch Serie S. 136 (Generationenfolge im Darin), Kinder 6.4.1.–6.4.11. (IDs 157–167) richtig eingeordnet
+c;D150689.pdf;219;VII.277.:7.;176;besser;Übersicht fast ganz im Darin (08:25 ganz ignoriert), bricht bei der zweiten «7.2.1.» ab: Aufteilung von 7.2. fehlt, «Aufteilung:» hängt am Ende (neue Zeile, gering)
+c;D150689.pdf;220;VII.277.:7.1.;177;besser;Teil «Diapositive …» weg, Hinweis «… Zwischenüberschrift «7. Diapositive und Photonegative»» (auch Regel d), S. 177
+c;D150689.pdf;243;VII.277.:7.2.;187;besser;Übersichts-Serie S. 176 und Teil weg, eine Serie S. 187
+c;D150689.pdf;254;VII.277.:7.2.11.;190;besser;erfundene Serie «-7.2.13. Personen» (S. 176) weg, 7.2.11. nur noch als Dossier S. 190
+c;D9983.pdf;104;VII.12.A.:5.;11;schlechter;"Übersicht 5.1.–5.23. und «Drucksachensammlung, Detailverzeichnis:» richtig im Darin, aber 53 Einträge der Repertorien-Liste von 5.6. (S. 14–16) angehängt (neue Zeile, kritisch); «5.19. … 5.20. …» verschmolzen"
+c;D9983.pdf;156;VII.12.A.:5.6.;15;schlechter;Darin 1 statt 54 Einträge – «Es liegen Repertorien vor (Fotokopien):» bis «Journale 1834 – 1889, Originale …» stehen bei 5.
+c;D9983.pdf;298;VII.12.A.:5.23.;30;besser;"nicht mehr doppelt (keine Übersichts-Serie S. 12, keine Teil-Ebene), Dossier unter 5.; Hinweis «nach 23 folgt 1» weg"
+c;D9983.pdf;alt 105;VII.12.A.:5.23.;12;besser;entfernte Übersichts-Serie 5.23.: Text steht jetzt in der Übersicht im Darin von 5.
+d;D3067.pdf;66;VII.191.:VIII.;19;besser;"nur noch Teilbestand «Nachträge»; Teile «Nachtrag A vom 28. August 2000» / «Nachtrag B vom 30. April 2001» weg"
+d;D3067.pdf;67;VII.191.:VIII.A.;19;besser;Hinweis «Steht im Findmittel unter der Zwischenüberschrift «VIII. Nachtrag A vom 28. August 2000»», Serie mit Titel «Abgabe von Materialien …»
+d;D3067.pdf;68;VII.191.:VIII.A.;19;gleich;neuer Teil für «SCHACHTEL 1» (08:25 Darin der Serie): Inhalt vollständig, Titel = erste Gruppenüberschrift «Drucksachen (I)», wie schon beim Teil Schachtel 2 (ID 69)
+d;D3067.pdf;70;VII.191.:VIII.B.;23;besser;Hinweis «… «VIII. Nachtrag B vom 30. April 2001»», kein Teil mehr
+d;D3031.pdf;139;VII.179.:IV.q.2.;25;besser;"leerer Teil «Andere Zünfte» (S. 25) weg; Hinweis «… unter der Zwischenüberschrift «q) Andere Zünfte»», Schachtel 33 jetzt bei IV.q.2."
+d;D3031.pdf;137;VII.179.:IV.q.;23;gleich;"Serie unverändert; Teil «F) Widder» (Schachtel 32, ID 138) unverändert (alter Mangel: Listeneintrag als Teiltitel)"
+f;D3060.pdf;8;VII.189.:8;2;besser;"«Schachteln 8 und 9» / «Bilder» eigene Einheit, Schachtel 8-9, Hinweis «Umfasst Schachteln 8-9 …»; Umfang «Schachteln 8 und 9» (Nummern statt Menge – Gestaltungsfrage)"
+f;D3060.pdf;7;VII.189.:7;2;besser;Darin ohne «Schachteln 8 und 9» / «Bilder»
+f;D3060.pdf;9;VII.189.:10;2;besser;Titel ohne «=», kein «Detailverzeichnis» im Darin
+f;D3725.pdf;7;VII.410.:7;2;besser;"«Mappen 7 – 10» eigene Einheit: Titel «30 Photographien …», 5 Darin-Einträge, Hinweis «Umfasst Mappen 7-10»; Zeitraum 1862–2001 Darin geschätzt"
+f;D3725.pdf;6;VII.410.:6;2;besser;"Darin ohne Text von Mappen 7–10; Zeitraum 1911–2005 statt 1862–2005"
+a;D3060.pdf;5;VII.189.:5;7;besser;PS-Satz vollständig im Darin
+a;D3060.pdf;6;VII.189.:6;7;besser;Titel «Photos / Bilder» ohne Satzrest
+a;D3067.pdf;3;VII.191.:II.A.;4;besser;"«Doppelgrösse» Darin; «… (Fotokopien), 3.11.1978» / «Fotokopien Familien-Stammbuch, Schachtel 11» getrennt"
+a;D3067.pdf;18;VII.191.:III.D.;7;besser;«(Bilanz- und Erfolgsrechnungen)» vom ersten Eintrag getrennt
+a;D3067.pdf;20;VII.191.:III.F.;8;besser;"«Kassa:» / «Korrespondenz:» eigene Einträge; Kosmetik «Kassa:, Schachtel 112» (neue Zeile, gering)"
+a;D3067.pdf;51;VII.191.:IV.E.1.;11;besser;Einträge getrennt, Datum am Eintrag, Zeitraum = 1901
+a;D3067.pdf;52;VII.191.:IV.E.2.;12;besser;«Einladung, 10.8.1904», 06.1904–10.08.1904
+a;D3067.pdf;55;VII.191.:V.A.;12;besser;Bemerkungszeilen getrennt, «, 1584» am Eintrag
+a;D3067.pdf;56;VII.191.:V.B.;12;gleich;«zur Abgabe … 119 Bände», «14 Mal vorhanden», «plus dazugehörende Handmanuskripte» eigene Einträge – im PDF eigene Absätze (20 pt)
+a;D3067.pdf;57;VII.191.:V.B.;13;schlechter;Titel nur noch erstes Buch (besser), aber Zeitraum = 1958 statt 1943–1958 (Stucki 1943 nur im Darin) – Z309
+a;D3067.pdf;63;VII.191.:VI.C.;14;besser;"Titel «Zeitungsausschnitte», Datum am Eintrag; Zeitraum 1841–27.08.1936 aus Lebensdaten (Z312)"
+a;D3067.pdf;64;VII.191.:VI.D.;15;besser;"Titel «FOTOS wie folgt», VI.D.1./2. jetzt Darin, Einträge getrennt; Kosmetik «No 318,, 1818 – 1883»; Schachtel weiter 400 (Z311)"
+a;D3067.pdf;71;VII.191.:VIII.B.1.;23;besser;«Ahnentafel …, undatiert» / «“Andenken Familie Schwyzer”, 1841 – 1896»
+a;D3067.pdf;78;VII.191.:VIII.B.8.;28;besser;"zwei Einträge richtig getrennt; alte Fehler (Seitenwechsel S. 28/29) bleiben (neue Zeile, vor 08:25)"
+a;D150689.pdf;56;VII.277.:2.1.2.;39;besser;(1) / (2) getrennt
+a;D150689.pdf;150;VII.277.:6.2.4.;132;besser;Kinderliste (1)–(7) getrennt
+a;D150689.pdf;151;VII.277.:6.3.;134;besser;Generationen (1)–(3) getrennt
+a;D150689.pdf;210;VII.277.:6.10.;169;besser;(1)–(3) getrennt
+b;D3063.pdf;52;VII.190.:7.;12;besser;erfundener Teil 6.2. «VERBANDSTAETIGKEIT/MILITÄRDIENST/ETC.» weg, Hinweis bei 7., Schachtel 18 bei 7.
+unklar;D3067.pdf;7;VII.191.:III.A.;6;besser;Darin «Acht Aktenstücke enthaltend:», «Weitere Handschriften:» + 11 Einträge (Umleitung Z. 2163–2172)
+unklar;D3067.pdf;15;VII.191.:III.A.8.;6;besser;Titel nur «Uebergabe derselben an die Herren Curatoren»
+unklar;D3067.pdf;22;VII.191.:IV.A.;8;besser;«Carte de membre …», «Versicherungspolice …», «Sämtliche Akten … wie folgt:» im Darin von IV.A. (08:25 bei d))
+unklar;D3067.pdf;26;VII.191.:IV.A.d.;9;besser;"nur noch eigene Einträge, Stufe Dossier; alter Fehler «Verdienstmedaille, 2. 10.5.1879» bleibt (neue Zeile, vor 08:25)"
+unklar;D3067.pdf;27–46;VII.191.:IV.A.1.–IV.A.18.;9–10;besser;"Akten 1.–18. unter IV.A. statt unter d); Titel/Darin/Zeitraum unverändert"
+unklar;D9983.pdf;14;VII.12.A.:2.;3;besser;Titel ohne «1830», Zeitraum 1830–1835 (Titel) statt = 1835
+unklar;D150689.pdf;15;VII.277.:1.2.1.;7;besser;Titel ganz, 02.12.1856–06.06.1862 aus dem Darin (Dokumentdaten, stimmt)
+unklar;D150689.pdf;22;VII.277.:1.3.1.;10;schlechter;"Titel ganz (besser), aber Darin-Eintrag am «; » geteilt und Zeitraum 1600–02.1947 aus «um 1600» (zwei neue Zeilen)"
+unklar;D150689.pdf;51;VII.277.:1.9.;36;gleich;"Titel ganz; Zeitraum 10.07.1926–23.09.1960 = Lebensdaten (08:25 = 1992, auch falsch)"
+unklar;D150689.pdf;168;VII.277.:6.5.;140;gleich;unverändert: «(1868» / «– 1924)» (Strich am Zeilenanfang) nicht erkannt
+unklar;D150689.pdf;199;VII.277.:6.9.16.;165;besser;Album-Zeile ganz, Zeitraum 1903–1904 statt Lebensdaten 1868–1924
+unklar;D150689.pdf;1;VII.277.:1.;5;schlechter;1600–22.08.1996 (Beginn aus 1.3.1. «um 1600») statt 11.07.1717–22.08.1996
+unklar;D150689.pdf;21;VII.277.:1.3.;10;gleich;1600–02.1947 statt = 1807 (beides falsch)
+unklar;D150689.pdf;14;VII.277.:1.2.;7;gleich;bis 1985 aus 1.2.2. («vgl. Escher-Genealogie 1985», Literaturangabe) statt bis 10.06.1941 – Schätzung mit Hinweis
+unklar;D150689.pdf;257;VII.277.:8.;192;gleich;1845–1917 aus geschätzten Untereinheiten (statt 1870–1900), mit Hinweis
+unklar;D3031.pdf;41;VII.179.:II.F.;6;gleich;1415–1913: II.F.1. «a) Friedrich VII. Graf von Toggenburg … ¦ 1415-1444» steht in der Datumsspalte
+unklar;D3031.pdf;143;VII.179.:V.;28;gleich;1520–1986 aus V.1. (Darin «Saaldecken 1520 und 1901», schon 08:25 so)
+unklar;D3063.pdf;36;VII.190.:4.;10;besser;1918–1944 statt = 1918 (4.1.–4.3.)
+unklar;D9983.pdf;26;VII.12.A.:3.1.;5;gleich;1825–02.01.1890 (3.1.5. Brandphoto 2. Januar 1890), mit Hinweis
+unklar;D3067.pdf;54;VII.191.:V.;12;gleich;1401–1958 statt = 1584 (beides falsch, Z309)
+unklar;D3067.pdf;60;VII.191.:VI.;14;gleich;1684–1957 statt = 31.08.1901 (Ende aus Lebensdaten «1917 – 1957», Z312)

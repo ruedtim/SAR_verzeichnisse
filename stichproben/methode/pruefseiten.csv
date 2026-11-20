@@ -1,0 +1,51 @@
+Nr;PDF;Bestand;Gliederung;Seiten;Einheiten;Status;Text erfasst;Seiten mit Einheiten;Prüfseiten (Zufall);Lückenzeilen;Seiten mit Lücken;Schicht
+1;D10575.pdf;VII.494.;dezimal;38;201;OK;0.9996;7–38;24,33,34;4;19,20,27,34;A: Text erfasst < 100 %
+2;D141005.pdf;VII.380.;fortlaufend;3;43;Prüfen;0.9985;2–3;alle;1;2;A: Text erfasst < 100 %
+3;D149634.pdf;VII.3.;Vollsignatur;8;157;OK;0.9994;1–8;1,3,5;1;5;A: Text erfasst < 100 %
+4;D150296.pdf;VII.298.;dezimal;35;153;OK;0.9996;2–34;5,25,30;3;7,22;A: Text erfasst < 100 %
+5;D151217.pdf;VII.416.;dezimal;36;724;Prüfen;0.9998;1–36;4,12,18;2;2;A: Text erfasst < 100 %
+6;D175994.pdf;IV.A.;Vollsignatur;6;65;OK;0.999;1–5;1,3,5;1;4;A: Text erfasst < 100 %
+7;D175996.pdf;IV.B.;Vollsignatur;100;1322;OK;0.9999;1–99;43,63,65;1;93;A: Text erfasst < 100 %
+8;D175997.pdf;IV.C.;Vollsignatur;10;126;OK;0.9994;1–10;4,5,9;1;2;A: Text erfasst < 100 %
+9;D176151.pdf;VII.371.;dezimal;25;70;Prüfen;0.9998;2–25;2,3,5;1;2;A: Text erfasst < 100 %
+10;D176367.pdf;VII.215.;dezimal;15;85;OK;0.9995;2–15;2,5,9;2;5;A: Text erfasst < 100 %
+11;D2366.pdf;V.J.c.66.;ohne Signaturen;1;1;Prüfen;0.9886;1–1;alle;1;1;A: Text erfasst < 100 %
+12;D2641.pdf;V.L.197.;Vollsignatur;10;155;OK;0.998;1–10;3,6,7;6;5,7,9;A: Text erfasst < 100 %
+13;D2839.pdf;VII.103.;dezimal;23;23;OK;0.9991;2–23;2,3,6;6;3,4,7,9;A: Text erfasst < 100 %
+14;D2872.pdf;VII.118.;dezimal;6;104;Prüfen;0.9868;2–6;2,4,6;13;6;A: Text erfasst < 100 %
+15;D3018.pdf;VII.174.;dezimal;78;194;Prüfen;0.9999;2–76;17,33,40;1;17;A: Text erfasst < 100 %
+16;D3038.pdf;VII.181.;römisch/Buchstaben;3;30;Prüfen;0.9955;1–3;alle;1;3;A: Text erfasst < 100 %
+17;D3060.pdf;VII.189.;römisch/Buchstaben;8;8;Prüfen;0.9985;4–7;6,7,8;1;4;A: Text erfasst < 100 %
+18;D3063.pdf;VII.190.;dezimal;21;68;Prüfen;0.9916;5–17;8,9,13;10;7,10;A: Text erfasst < 100 %
+19;D3067.pdf;VII.191.;römisch/Buchstaben;31;91;Prüfen;0.9988;4–27;5,11,17;3;5,8;A: Text erfasst < 100 %
+20;D3077.pdf;VII.194.;fortlaufend;3;22;Prüfen;0.9974;1–2;alle;1;2;A: Text erfasst < 100 %
+21;D3089.pdf;VII.197.;römisch/Buchstaben;38;49;Prüfen;0.9992;3–36;3,5,6;3;3,5,11;A: Text erfasst < 100 %
+22;D3398.pdf;VII.282.;Vollsignatur;4;33;OK;0.9962;1–4;alle;2;3,4;A: Text erfasst < 100 %
+23;D3432.pdf;VII.296.;dezimal;2;24;Prüfen;0.9927;1–2;alle;1;1;A: Text erfasst < 100 %
+24;D3589.pdf;VII.359.;fortlaufend;11;262;OK;0.9993;1–11;3,7,8;1;8;A: Text erfasst < 100 %
+25;D4007.pdf;VII.435.;ohne Signaturen;6;1;Prüfen;0.9971;1–1;alle;2;1,6;A: Text erfasst < 100 %
+26;D4039.pdf;V.F.c.119.;ohne Signaturen;6;1;Prüfen;0.9978;1–1;alle;2;2,5;A: Text erfasst < 100 %
+27;D4054.pdf;VII.151.;dezimal;152;443;Prüfen;0.9998;6–151;20,119,143;5;29,49,55,120;A: Text erfasst < 100 %
+28;D406.pdf;V.B.c.3.;Vollsignatur;3;65;Prüfen;0.9988;1–3;alle;1;2;A: Text erfasst < 100 %
+29;D414.pdf;V.B.c.34.;römisch/Buchstaben;2;16;Prüfen;0.9887;2–2;alle;3;1;A: Text erfasst < 100 %
+30;D512.pdf;V.B.c.70.;dezimal;68;63;Prüfen;0.9995;2–68;36,62,68;6;3,27,34,41,42,58;A: Text erfasst < 100 %
+31;D537.pdf;V.B.c.9.;Mappen/Schachteln;132;27;Prüfen;0.9998;1–126;19,47,63;8;47,54,59,60,61;A: Text erfasst < 100 %
+32;D860.pdf;V.C.c.75.;Mappen/Schachteln;4;37;Prüfen;0.9344;1–4;alle;37;1,2,3,4;A: Text erfasst < 100 %
+33;D3472.pdf;VII.308.F.a.;römisch/Buchstaben;70;1714;Prüfen;1;1–70;53,60,62;0;;B: Firmenarchiv Locher VII.308
+34;D3484.pdf;VII.308.D.a.;fortlaufend;32;696;OK;1;1–32;15,28,32;0;;B: Firmenarchiv Locher VII.308
+35;D2323.pdf;V.J.c.5.;Vollsignatur;1;4;OK;1;1–1;alle;0;;C: Vollsignatur, klein
+36;D1616.pdf;V.G.b.405.;Vollsignatur;1;5;OK;1;1–1;alle;0;;C: Vollsignatur, klein
+37;D1120.pdf;V.E.c.13.;Vollsignatur;4;50;OK;1;1–4;alle;0;;C: Vollsignatur, mittel
+38;D3533.pdf;VII.328.;dezimal;1;15;OK;1;1–1;alle;0;;C: dezimal, klein
+39;D442.pdf;V.B.c.54.;dezimal;7;117;OK;1;2–7;2,3,5;0;;C: dezimal, mittel
+40;D3672.pdf;VII.389.;dezimal;50;1363;OK;1;3–50;7,24,33;0;;C: dezimal, gross
+41;D2677.pdf;V.L.32.;fortlaufend;1;2;OK;1;1–1;alle;0;;C: fortlaufend, klein
+42;D2562.pdf;V.L.123.;fortlaufend;1;2;OK;1;1–1;alle;0;;C: fortlaufend, klein
+43;D140955.pdf;VII.442.;fortlaufend;2;16;OK;1;1–2;alle;0;;C: fortlaufend, mittel
+44;D2352.pdf;V.J.c.57.;ohne Signaturen;1;1;Prüfen;1;1–1;alle;0;;C: ohne Signaturen, klein
+45;D3206.pdf;VII.220.;ohne Signaturen;2;1;Prüfen;1;1–1;alle;0;;C: ohne Signaturen, mittel
+46;D3795.pdf;VII.57.;römisch/Buchstaben;1;10;Prüfen;1;1–1;alle;0;;C: römisch/Buchstaben, klein
+47;D71.pdf;III.S.;römisch/Buchstaben;3;5;Prüfen;1;3–3;alle;0;;C: römisch/Buchstaben, mittel
+48;D2329.pdf;V.J.c.502.;Mappen/Schachteln;1;3;Prüfen;1;1–1;alle;0;;C: Mappen/Schachteln, klein
+49;D1739.pdf;V.G.c.105.;Mappen/Schachteln;10;28;Prüfen;1;1–10;3,8,9;0;;C: Mappen/Schachteln, mittel
+50;D2990.pdf;VII.161.;Buchstabe+Nr.;2;5;Prüfen;1;1–1;alle;0;;C: Buchstabe+Nr., alle Grössen

@@ -1,0 +1,250 @@
+Zellvergleich Stand 11:30 (Nachprüfung 4, Schnappschuss neu4) -> Stand 13:15 (findmittel_excel/), je Datei: Zeilenzahl alt -> neu; geänderte Spalten (Anzahl Zeilen)
+
+D10675_scope_import.xlsx: Zeilen 619 -> 619; Prüfhinweise 73, Darin 26, Entstehungszeitraum 8, von 8, Zeitraum-Quelle 8, bis 2, Titel 2
+D10744_scope_import.xlsx: Zeilen 153 -> 153; Darin 6, Prüfhinweise 5
+D109662_scope_import.xlsx: Zeilen 449 -> 449; Zeitraum-Quelle 2, Prüfhinweise 2
+D109666_scope_import.xlsx: Zeilen 23 -> 23; Teil 21
+D1180_scope_import.xlsx: Zeilen 204 -> 204; Titel 27, Entstehungszeitraum 1, von 1, bis 1, Zeitraum-Quelle 1, Prüfhinweise 1
+D1182_scope_import.xlsx: Zeilen 34 -> 34; Entstehungszeitraum, Anm. 1, Prüfhinweise 1
+D1220_scope_import.xlsx: Zeilen 55 -> 55; Teil 8
+D1237_scope_import.xlsx: Zeilen 6 -> 6; Titel 1, Entstehungszeitraum, Anm. 1, Darin 1, Zeitraum-Quelle 1, Prüfhinweise 1
+D1343_scope_import.xlsx: Zeilen 44 -> 44; Teil 9, bis 8, Entstehungszeitraum, Anm. 7, Prüfhinweise 5, Entstehungszeitraum 4, von 1
+D134644_scope_import.xlsx: Zeilen 89 -> 89; Teil 4, Prüfhinweise 3, bis 3, Entstehungszeitraum 2
+D1387_scope_import.xlsx: Zeilen 33 -> 33; Teil 2
+D1395_scope_import.xlsx: Zeilen 29 -> 29; Titel 5, Prüfhinweise 2, Darin 1, Zeitraum-Quelle 1
+D1404_scope_import.xlsx: Zeilen 54 -> 54; Zeitraum-Quelle 2, Prüfhinweise 2
+D140969_scope_import.xlsx: Zeilen 83 -> 83; bis 4, Entstehungszeitraum 2, Entstehungszeitraum, Anm. 2, von 1, Titel 1
+D141020_scope_import.xlsx: Zeilen 601 -> 601; Titel 21, Teil 4, Prüfhinweise 4, Zeitraum-Quelle 3, bis 2, Entstehungszeitraum, Anm. 2
+D141056_scope_import.xlsx: Zeilen 38 -> 38; Entstehungszeitraum, Anm. 6, bis 6, von 3, Prüfhinweise 2, Zeitraum-Quelle 1
+D141_scope_import.xlsx: Zeilen 228 -> 228; Entstehungszeitraum 2, bis 2
+D1439_scope_import.xlsx: Zeilen 4 -> 4; Zeitraum-Quelle 3, Prüfhinweise 3
+D144912_scope_import.xlsx: Zeilen 63 -> 63; Zeitraum-Quelle 1, Prüfhinweise 1
+D1473_scope_import.xlsx: Zeilen 153 -> 153; Entstehungszeitraum 1, bis 1, Prüfhinweise 1, Teil 1
+D1479_scope_import.xlsx: Zeilen 34 -> 34; Entstehungszeitraum 1, bis 1, Prüfhinweise 1, Teil 1
+D149628_scope_import.xlsx: Zeilen 5235 -> 5235; Teil 457, bis 32, Entstehungszeitraum, Anm. 30, Prüfhinweise 28, von 24, Zeitraum-Quelle 17, Entstehungszeitraum 13, Titel 13, Darin 8
+D149835_scope_import.xlsx: Zeilen 26 -> 26; Teil 6, bis 2, Prüfhinweise 2, Zeitraum-Quelle 1, Entstehungszeitraum 1
+D149888_scope_import.xlsx: Zeilen 262 -> 262; Teil 3, bis 1, Zeitraum-Quelle 1, Prüfhinweise 1, Titel 1
+D150296_scope_import.xlsx: Zeilen 153 -> 153; Teil 20, Prüfhinweise 9, Zeitraum-Quelle 7, bis 2, von 1
+D150306_scope_import.xlsx: Zeilen 447 -> 447; Zeitraum-Quelle 33, Prüfhinweise 33
+D150491_scope_import.xlsx: Zeilen 101 -> 101; Entstehungszeitraum 1, bis 1
+D150589_scope_import.xlsx: Zeilen 1853 -> 1853; Titel 7, Prüfhinweise 1
+D150829_scope_import.xlsx: Zeilen 518 -> 518; Prüfhinweise 9, Titel 8, Darin 7, Zeitraum-Quelle 7
+D151150_scope_import.xlsx: Zeilen 356 -> 356; Darin 36, bis 18, Entstehungszeitraum, Anm. 15, Zeitraum-Quelle 12, Prüfhinweise 12, von 3, Titel 1
+D151210_scope_import.xlsx: Zeilen 3162 -> 3162; Teil 314, Titel 8, Prüfhinweise 6, bis 3, Entstehungszeitraum, Anm. 2, Zeitraum-Quelle 1, von 1
+D151217_scope_import.xlsx: Zeilen 724 -> 724; Prüfhinweise 8, Zeitraum-Quelle 6, Darin 2
+D151730_scope_import.xlsx: Zeilen 20 -> 20; bis 3, Entstehungszeitraum 2, Prüfhinweise 2, Teil 1, Entstehungszeitraum, Anm. 1, Zeitraum-Quelle 1
+D151733_scope_import.xlsx: Zeilen 5 -> 5; bis 1, Entstehungszeitraum, Anm. 1
+D152390_scope_import.xlsx: Zeilen 10 -> 10; bis 4, Entstehungszeitraum, Anm. 4, Prüfhinweise 4, Teil 4
+D152398_scope_import.xlsx: Zeilen 9 -> 9; Teil 7
+D152400_scope_import.xlsx: Zeilen 7 -> 7; Entstehungszeitraum 1, von 1, bis 1
+D152781_scope_import.xlsx: Zeilen 17 -> 17; Titel 1, Darin 1, Prüfhinweise 1
+D152817_scope_import.xlsx: Zeilen 704 -> 704; Teil 54, von 12, Entstehungszeitraum, Anm. 10, bis 9, Titel 2
+D1739_scope_import.xlsx: Zeilen 28 -> 28; Zeitraum-Quelle 25, Prüfhinweise 25
+D1746_scope_import.xlsx: Zeilen 31 -> 31; Prüfhinweise 7, bis 7, Zeitraum-Quelle 6, Entstehungszeitraum 5, Entstehungszeitraum, Anm. 4, von 4
+D175561_scope_import.xlsx: Zeilen 1 -> 1; von 1, bis 1, Entstehungszeitraum, Anm. 1
+D175949_scope_import.xlsx: Zeilen 16 -> 16; Titel 1, Darin 1, Prüfhinweise 1
+D175994_scope_import.xlsx: Zeilen 65 -> 65; bis 4, Entstehungszeitraum, Anm. 2
+D175996_scope_import.xlsx: Zeilen 1337 -> 1337; von 1, Entstehungszeitraum, Anm. 1
+D176060_scope_import.xlsx: Zeilen 1293 -> 1293; Prüfhinweise 80, Zeitraum-Quelle 71, Entstehungszeitraum, Anm. 10, Titel 6, bis 5, von 4, Entstehungszeitraum 3, Darin 2, Teil 1
+D176151_scope_import.xlsx: Zeilen 70 -> 70; Prüfhinweise 23, Zeitraum-Quelle 21, von 1
+D176367_scope_import.xlsx: Zeilen 85 -> 85; von 1, Zeitraum-Quelle 1, Prüfhinweise 1
+D176772_scope_import.xlsx: Zeilen 22 -> 22; Teil 11, von 2, bis 2, Zeitraum-Quelle 1, Prüfhinweise 1, Entstehungszeitraum, Anm. 1
+D176793_scope_import.xlsx: Zeilen 151 -> 151; bis 1, Entstehungszeitraum, Anm. 1
+D176795_scope_import.xlsx: Zeilen 63 -> 63; bis 35, Entstehungszeitraum, Anm. 19, von 14, Entstehungszeitraum 13, Zeitraum-Quelle 1, Prüfhinweise 1
+D177448_scope_import.xlsx: Zeilen 442 -> 442; bis 18, Entstehungszeitraum, Anm. 12, Entstehungszeitraum 7, Titel 5, Prüfhinweise 3, von 2
+D177470_scope_import.xlsx: Zeilen 45 -> 45; bis 1, Entstehungszeitraum, Anm. 1
+D1797_scope_import.xlsx: Zeilen 1 -> 1; von 1, bis 1, Entstehungszeitraum, Anm. 1
+D1803_scope_import.xlsx: Zeilen 6 -> 6; Entstehungszeitraum, Anm. 3, von 2, Teil 2, bis 2
+D1820_scope_import.xlsx: Zeilen 19 -> 19; Entstehungszeitraum 1, bis 1
+D1832_scope_import.xlsx: Zeilen 8 -> 8; von 1, Entstehungszeitraum, Anm. 1
+D1858_scope_import.xlsx: Zeilen 92 -> 92; Teil 82, Entstehungszeitraum 1, bis 1, Prüfhinweise 1
+D1874_scope_import.xlsx: Zeilen 303 -> 303; Titel 2, Darin 2, bis 1, Entstehungszeitraum, Anm. 1, Teil 1
+D1877_scope_import.xlsx: Zeilen 51 -> 51; Teil 22, Zeitraum-Quelle 13, Prüfhinweise 13, bis 12, von 11, Entstehungszeitraum, Anm. 6, Entstehungszeitraum 4
+D1880_scope_import.xlsx: Zeilen 146 -> 151; Titel 91, Teil 90, Signatur 88, Nr. im PDF 88, Übergeordnete Signatur 82, Darin 80, Parent-ID 79, Prüfhinweise 73, PDF-Seite 70, Schachtel-Nr. 69, bis 68, von 62, Ebene 59, Stufe 50, Zeitraum-Quelle 46, Entstehungszeitraum 38, Entstehungszeitraum, Anm. 17
+D188_scope_import.xlsx: Zeilen 16 -> 16; Titel 1
+D1916_scope_import.xlsx: Zeilen 1 -> 1; bis 1, Entstehungszeitraum, Anm. 1
+D1918_scope_import.xlsx: Zeilen 1 -> 1; bis 1, Entstehungszeitraum, Anm. 1
+D1924_scope_import.xlsx: Zeilen 83 -> 83; Prüfhinweise 81, Zeitraum-Quelle 79, Entstehungszeitraum, Anm. 2
+D1935_scope_import.xlsx: Zeilen 37 -> 37; Titel 1, von 1, Darin 1
+D1937_scope_import.xlsx: Zeilen 2 -> 2; Teil 1
+D2137_scope_import.xlsx: Zeilen 17 -> 17; bis 1, Entstehungszeitraum, Anm. 1
+D2141_scope_import.xlsx: Zeilen 1 -> 1; Titel 1, bis 1
+D2329_scope_import.xlsx: Zeilen 3 -> 3; Zeitraum-Quelle 3, Prüfhinweise 3
+D2346_scope_import.xlsx: Zeilen 1 -> 1; Zeitraum-Quelle 1, Prüfhinweise 1
+D2510_scope_import.xlsx: Zeilen 107 -> 107; Entstehungszeitraum 3, von 3, bis 3, Entstehungszeitraum, Anm. 1
+D2534_scope_import.xlsx: Zeilen 85 -> 78; Schachtel-Nr. 61, Prüfhinweise 61, Titel 1
+D253_scope_import.xlsx: Zeilen 34 -> 34; bis 1, Entstehungszeitraum, Anm. 1
+D2558_scope_import.xlsx: Zeilen 2 -> 3; Darin 1
+D2562_scope_import.xlsx: Zeilen 2 -> 2; Zeitraum-Quelle 1, Prüfhinweise 1
+D260_scope_import.xlsx: Zeilen 25 -> 25; Entstehungszeitraum 1, bis 1
+D2620_scope_import.xlsx: Zeilen 139 -> 139; Prüfhinweise 6, Entstehungszeitraum 1, von 1, Zeitraum-Quelle 1
+D2630_scope_import.xlsx: Zeilen 12 -> 12; Teil 3
+D2653_scope_import.xlsx: Zeilen 17 -> 17; Zeitraum-Quelle 1, Prüfhinweise 1
+D2710_scope_import.xlsx: Zeilen 12 -> 12; von 2, Prüfhinweise 2, Teil 2, bis 1, Zeitraum-Quelle 1, Entstehungszeitraum, Anm. 1
+D2735_scope_import.xlsx: Zeilen 23 -> 23; Teil 13, Zeitraum-Quelle 3, Prüfhinweise 3, Entstehungszeitraum 2, bis 2, Titel 2, Darin 1, von 1
+D2737_scope_import.xlsx: Zeilen 5 -> 5; bis 2, von 1, Prüfhinweise 1, Entstehungszeitraum, Anm. 1
+D2765_scope_import.xlsx: Zeilen 4 -> 4; Titel 1
+D2767_scope_import.xlsx: Zeilen 9 -> 9; Titel 1
+D2828_scope_import.xlsx: Zeilen 90 -> 90; bis 2, Zeitraum-Quelle 1, Prüfhinweise 1, Entstehungszeitraum 1, von 1
+D2834_scope_import.xlsx: Zeilen 2 -> 2; von 1, bis 1, Entstehungszeitraum, Anm. 1
+D2839_scope_import.xlsx: Zeilen 23 -> 23; Entstehungszeitraum 1, von 1, bis 1, Zeitraum-Quelle 1, Prüfhinweise 1
+D2841_scope_import.xlsx: Zeilen 21 -> 21; bis 1
+D2848_scope_import.xlsx: Zeilen 22 -> 22; Prüfhinweise 2, Zeitraum-Quelle 1, Entstehungszeitraum, Anm. 1
+D2850_scope_import.xlsx: Zeilen 54 -> 54; Entstehungszeitraum, Anm. 10, bis 8, von 6, Entstehungszeitraum 1, Zeitraum-Quelle 1, Prüfhinweise 1, Teil 1
+D2853_scope_import.xlsx: Zeilen 25 -> 25; Teil 9
+D2857_scope_import.xlsx: Zeilen 419 -> 419; Teil 6, Prüfhinweise 5, Zeitraum-Quelle 3, Entstehungszeitraum, Anm. 1
+D2894_scope_import.xlsx: Zeilen 59 -> 59; von 1, bis 1, Zeitraum-Quelle 1, Prüfhinweise 1, Teil 1
+D2901_scope_import.xlsx: Zeilen 10 -> 10; Zeitraum-Quelle 10, Prüfhinweise 10, Teil 1
+D2921_scope_import.xlsx: Zeilen 7 -> 7; Titel 1, Darin 1, Prüfhinweise 1
+D2925_scope_import.xlsx: Zeilen 25 -> 25; Zeitraum-Quelle 3, Prüfhinweise 3
+D2935_scope_import.xlsx: Zeilen 240 -> 240; Titel 4
+D2937_scope_import.xlsx: Zeilen 66 -> 66; Zeitraum-Quelle 28, Prüfhinweise 28, bis 7, Entstehungszeitraum 5, von 2
+D2940_scope_import.xlsx: Zeilen 16 -> 16; Prüfhinweise 12, Zeitraum-Quelle 11, von 3, bis 2, Entstehungszeitraum, Anm. 2, Teil 1
+D2945_scope_import.xlsx: Zeilen 17 -> 17; Zeitraum-Quelle 2, Prüfhinweise 2, von 1
+D2951_scope_import.xlsx: Zeilen 50 -> 50; Titel 1, Darin 1, Prüfhinweise 1
+D2953_scope_import.xlsx: Zeilen 10 -> 10; Entstehungszeitraum 1, von 1, bis 1
+D2958_scope_import.xlsx: Zeilen 41 -> 41; Titel 1
+D2960_scope_import.xlsx: Zeilen 14 -> 14; Entstehungszeitraum, Anm. 3, bis 2, von 1
+D2962_scope_import.xlsx: Zeilen 77 -> 77; bis 1, Entstehungszeitraum, Anm. 1, Zeitraum-Quelle 1, Prüfhinweise 1, Teil 1
+D2975_scope_import.xlsx: Zeilen 74 -> 74; Titel 1, Zeitraum-Quelle 1, Prüfhinweise 1
+D2979_scope_import.xlsx: Zeilen 167 -> 167; bis 34, Titel 33, Entstehungszeitraum 33, von 16, Teil 3, Zeitraum-Quelle 2, Prüfhinweise 2
+D2988_scope_import.xlsx: Zeilen 65 -> 65; Titel 1
+D2994_scope_import.xlsx: Zeilen 29 -> 29; Teil 1
+D3008_scope_import.xlsx: Zeilen 8 -> 8; Teil 2
+D3012_scope_import.xlsx: Zeilen 5 -> 5; Teil 2, Entstehungszeitraum 1, von 1, bis 1, Entstehungszeitraum, Anm. 1, Prüfhinweise 1
+D3018_scope_import.xlsx: Zeilen 201 -> 200; Titel 146, Parent-ID 144, Signatur 142, Nr. im PDF 142, Darin 142, von 134, Zeitraum-Quelle 122, bis 118, Prüfhinweise 101, Entstehungszeitraum 67, Schachtel-Nr. 67, Ebene 65, Übergeordnete Signatur 65, Stufe 64, PDF-Seite 45, Teil 13, Entstehungszeitraum, Anm. 8, Umfang 6
+D3021_scope_import.xlsx: Zeilen 11 -> 11; Teil 6, Entstehungszeitraum 2, von 2, bis 2
+D3038_scope_import.xlsx: Zeilen 32 -> 32; Teil 6, Zeitraum-Quelle 3, Prüfhinweise 3, von 2, Entstehungszeitraum 1, bis 1
+D3043_scope_import.xlsx: Zeilen 6 -> 6; Zeitraum-Quelle 4, Prüfhinweise 4
+D3057_scope_import.xlsx: Zeilen 15 -> 15; bis 3, Entstehungszeitraum, Anm. 3
+D3060_scope_import.xlsx: Zeilen 9 -> 9; Zeitraum-Quelle 1, Prüfhinweise 1
+D3063_scope_import.xlsx: Zeilen 72 -> 72; Prüfhinweise 20, Zeitraum-Quelle 16, bis 7, Entstehungszeitraum, Anm. 6, Teil 5, von 3, Entstehungszeitraum 1
+D3067_scope_import.xlsx: Zeilen 80 -> 80; Prüfhinweise 11, Zeitraum-Quelle 9, Teil 5, bis 4, von 2, Entstehungszeitraum, Anm. 2, Entstehungszeitraum 2
+D3077_scope_import.xlsx: Zeilen 17 -> 17; bis 2, Entstehungszeitraum 1, Zeitraum-Quelle 1, Prüfhinweise 1
+D3087_scope_import.xlsx: Zeilen 1 -> 1; bis 1
+D3089_scope_import.xlsx: Zeilen 47 -> 46; bis 5, Zeitraum-Quelle 5, Prüfhinweise 5, von 4, Entstehungszeitraum 1, Entstehungszeitraum, Anm. 1, Darin 1
+D3099_scope_import.xlsx: Zeilen 161 -> 161; Teil 1
+D3133_scope_import.xlsx: Zeilen 5 -> 5; Teil 3
+D3142_scope_import.xlsx: Zeilen 18 -> 18; Titel 1, Darin 1
+D3161_scope_import.xlsx: Zeilen 24 -> 24; Zeitraum-Quelle 4, Prüfhinweise 4, bis 3, von 2, Entstehungszeitraum 1, Entstehungszeitraum, Anm. 1
+D3170_scope_import.xlsx: Zeilen 384 -> 384; bis 7, Teil 4, von 2, Zeitraum-Quelle 1, Prüfhinweise 1
+D3186_scope_import.xlsx: Zeilen 108 -> 108; bis 1, Prüfhinweise 1, Teil 1
+D3190_scope_import.xlsx: Zeilen 22 -> 22; Teil 1
+D3225_scope_import.xlsx: Zeilen 87 -> 87; bis 4, Entstehungszeitraum, Anm. 4, von 3, Titel 2, Entstehungszeitraum 1
+D3231_scope_import.xlsx: Zeilen 130 -> 130; Teil 75, Prüfhinweise 5, bis 4, Zeitraum-Quelle 4, von 3, Entstehungszeitraum 1
+D323_scope_import.xlsx: Zeilen 9 -> 9; Zeitraum-Quelle 1, Prüfhinweise 1
+D3253_scope_import.xlsx: Zeilen 7 -> 7; Darin 1, Prüfhinweise 1
+D3256_scope_import.xlsx: Zeilen 10 -> 10; Teil 5, von 2
+D3271_scope_import.xlsx: Zeilen 123 -> 120; Signatur 71, Nr. im PDF 71, Titel 70, von 65, bis 37, Darin 34, Prüfhinweise 28, Parent-ID 26, Übergeordnete Signatur 19, Zeitraum-Quelle 18, PDF-Seite 16, Ebene 15, Stufe 14, Entstehungszeitraum, Anm. 12, Entstehungszeitraum 11
+D32837_scope_import.xlsx: Zeilen 266 -> 266; Teil 133, Zeitraum-Quelle 4, Prüfhinweise 4, von 1
+D3293_scope_import.xlsx: Zeilen 22 -> 22; von 2, bis 2, Entstehungszeitraum, Anm. 1
+D3313_scope_import.xlsx: Zeilen 50 -> 50; Teil 4, Entstehungszeitraum 1, von 1, bis 1, Zeitraum-Quelle 1, Prüfhinweise 1
+D3324_scope_import.xlsx: Zeilen 14 -> 14; Teil 2, Zeitraum-Quelle 2, Prüfhinweise 2, bis 1
+D3343_scope_import.xlsx: Zeilen 4 -> 4; Teil 1
+D3352_scope_import.xlsx: Zeilen 9 -> 9; bis 1, Entstehungszeitraum, Anm. 1, Prüfhinweise 1, Teil 1
+D3357_scope_import.xlsx: Zeilen 68 -> 68; Teil 25, bis 4, Entstehungszeitraum 3, Zeitraum-Quelle 1, Prüfhinweise 1
+D3363_scope_import.xlsx: Zeilen 128 -> 128; bis 1, Entstehungszeitraum, Anm. 1, Zeitraum-Quelle 1, Prüfhinweise 1
+D3412_scope_import.xlsx: Zeilen 1 -> 1; Zeitraum-Quelle 1, Prüfhinweise 1
+D3429_scope_import.xlsx: Zeilen 28 -> 28; Zeitraum-Quelle 3, Prüfhinweise 3, von 1
+D3466_scope_import.xlsx: Zeilen 1196 -> 1197; Darin 884, Titel 822, Parent-ID 818, Teil 693, Schachtel-Nr. 468, Stufe 424, Ebene 423, Übergeordnete Signatur 423, Signatur 411, Nr. im PDF 411, von 223, Zeitraum-Quelle 142, Entstehungszeitraum 103, PDF-Seite 88, Entstehungszeitraum, Anm. 71, bis 65, Prüfhinweise 35
+D3468_scope_import.xlsx: Zeilen 852 -> 852; Teil 291
+D3470_scope_import.xlsx: Zeilen 554 -> 554; Teil 4, Entstehungszeitraum 1, von 1, bis 1, Prüfhinweise 1
+D3472_scope_import.xlsx: Zeilen 1721 -> 1721; Teil 23
+D3474_scope_import.xlsx: Zeilen 52 -> 52; Teil 9
+D3482_scope_import.xlsx: Zeilen 1929 -> 1929; Teil 1035
+D3484_scope_import.xlsx: Zeilen 704 -> 704; Teil 313, bis 75, Prüfhinweise 63, von 49, Entstehungszeitraum 42, Entstehungszeitraum, Anm. 41, Titel 2, Darin 2
+D3505_scope_import.xlsx: Zeilen 27 -> 27; Prüfhinweise 2, Teil 2, von 1, Entstehungszeitraum, Anm. 1
+D3509_scope_import.xlsx: Zeilen 9 -> 9; Prüfhinweise 5, Zeitraum-Quelle 4, Teil 3, bis 1
+D3515_scope_import.xlsx: Zeilen 192 -> 192; Zeitraum-Quelle 5, Prüfhinweise 5, Titel 2
+D3520_scope_import.xlsx: Zeilen 31 -> 31; Prüfhinweise 2, Zeitraum-Quelle 1
+D3528_scope_import.xlsx: Zeilen 119 -> 119; Titel 4, Darin 4, Prüfhinweise 4
+D3530_scope_import.xlsx: Zeilen 69 -> 69; Prüfhinweise 3, Entstehungszeitraum 1, von 1, Zeitraum-Quelle 1, Teil 1
+D3545_scope_import.xlsx: Zeilen 43 -> 43; Zeitraum-Quelle 1, Prüfhinweise 1
+D3548_scope_import.xlsx: Zeilen 62 -> 62; Teil 11, Prüfhinweise 4, Zeitraum-Quelle 3, Entstehungszeitraum 3, von 3, bis 3
+D3566_scope_import.xlsx: Zeilen 8 -> 8; Teil 2
+D3575_scope_import.xlsx: Zeilen 2 -> 2; Zeitraum-Quelle 1, Prüfhinweise 1
+D3581_scope_import.xlsx: Zeilen 8 -> 8; Zeitraum-Quelle 2, Prüfhinweise 2, Titel 1, Darin 1, von 1, Entstehungszeitraum, Anm. 1
+D3585_scope_import.xlsx: Zeilen 88 -> 88; Teil 1
+D3587_scope_import.xlsx: Zeilen 6 -> 6; Titel 1, Darin 1, Zeitraum-Quelle 1, Prüfhinweise 1
+D3589_scope_import.xlsx: Zeilen 262 -> 262; Teil 251, Entstehungszeitraum 9, bis 9, Prüfhinweise 9, von 1, Entstehungszeitraum, Anm. 1
+D3596_scope_import.xlsx: Zeilen 55 -> 55; Zeitraum-Quelle 1, Prüfhinweise 1
+D3612_scope_import.xlsx: Zeilen 79 -> 79; Teil 13, Prüfhinweise 5, Zeitraum-Quelle 3, bis 1, Entstehungszeitraum, Anm. 1, Titel 1, Darin 1
+D3628_scope_import.xlsx: Zeilen 49 -> 49; Zeitraum-Quelle 5, Prüfhinweise 5, von 3, bis 3, Titel 1, Entstehungszeitraum 1, Teil 1, Entstehungszeitraum, Anm. 1
+D3647_scope_import.xlsx: Zeilen 29 -> 29; von 2, Titel 2, Darin 2, Prüfhinweise 2, Zeitraum-Quelle 1
+D3657_scope_import.xlsx: Zeilen 21 -> 21; Prüfhinweise 2, Entstehungszeitraum 1, bis 1, Teil 1
+D3672_scope_import.xlsx: Zeilen 1498 -> 1498; Titel 1
+D3698_scope_import.xlsx: Zeilen 24 -> 24; Entstehungszeitraum, Anm. 2, bis 1, von 1
+D3702_scope_import.xlsx: Zeilen 108 -> 108; Teil 2
+D3709_scope_import.xlsx: Zeilen 18 -> 18; Zeitraum-Quelle 7, Prüfhinweise 7
+D3718_scope_import.xlsx: Zeilen 191 -> 191; bis 9, Prüfhinweise 9, von 8, Zeitraum-Quelle 7, Entstehungszeitraum, Anm. 6, Entstehungszeitraum 1, Titel 1, Darin 1
+D3727_scope_import.xlsx: Zeilen 49 -> 49; Prüfhinweise 27, Zeitraum-Quelle 26, von 3, bis 3, Entstehungszeitraum, Anm. 2, Entstehungszeitraum 2
+D3736_scope_import.xlsx: Zeilen 7 -> 7; Zeitraum-Quelle 1, Prüfhinweise 1
+D3761_scope_import.xlsx: Zeilen 58 -> 58; bis 5, Entstehungszeitraum 4, Entstehungszeitraum, Anm. 3, von 1
+D3769_scope_import.xlsx: Zeilen 4 -> 4; Entstehungszeitraum 1, bis 1
+D3774_scope_import.xlsx: Zeilen 19 -> 32; Titel 19, Nr. im PDF 19, Signatur 18, Darin 18, PDF-Seite 17, Prüfhinweise 17, bis 15, Übergeordnete Signatur 15, von 15, Schachtel-Nr. 13, Zeitraum-Quelle 13, Parent-ID 11, Entstehungszeitraum 7, Entstehungszeitraum, Anm. 7, Stufe 7, Ebene 7, Teil 1
+D3791_scope_import.xlsx: Zeilen 21 -> 21; Prüfhinweise 4, Zeitraum-Quelle 3
+D3793_scope_import.xlsx: Zeilen 227 -> 227; Titel 5, Prüfhinweise 2, Teil 2, Zeitraum-Quelle 1, Darin 1
+D3808_scope_import.xlsx: Zeilen 5 -> 5; bis 1, Entstehungszeitraum, Anm. 1, Prüfhinweise 1, Teil 1
+D3820_scope_import.xlsx: Zeilen 715 -> 715; Teil 17, Titel 1, Zeitraum-Quelle 1, Prüfhinweise 1
+D3826_scope_import.xlsx: Zeilen 23 -> 23; Teil 3, Prüfhinweise 3, Zeitraum-Quelle 2, von 1, Entstehungszeitraum, Anm. 1
+D3828_scope_import.xlsx: Zeilen 99 -> 99; Prüfhinweise 30, Teil 24, Zeitraum-Quelle 18, bis 13, von 11, Entstehungszeitraum, Anm. 9, Entstehungszeitraum 8
+D3842_scope_import.xlsx: Zeilen 4 -> 4; Zeitraum-Quelle 2, Prüfhinweise 2
+D3861_scope_import.xlsx: Zeilen 63 -> 63; Teil 5, bis 1, Entstehungszeitraum, Anm. 1, Prüfhinweise 1
+D3874_scope_import.xlsx: Zeilen 10 -> 10; Teil 3, Prüfhinweise 2, bis 1, Entstehungszeitraum, Anm. 1, Zeitraum-Quelle 1
+D3894_scope_import.xlsx: Zeilen 89 -> 89; Teil 4
+D3943_scope_import.xlsx: Zeilen 237 -> 237; Teil 18, Entstehungszeitraum 5, bis 5, Prüfhinweise 5, von 1, Entstehungszeitraum, Anm. 1
+D3986_scope_import.xlsx: Zeilen 56 -> 56; Zeitraum-Quelle 5, Prüfhinweise 5
+D3988_scope_import.xlsx: Zeilen 34 -> 34; Prüfhinweise 6, Zeitraum-Quelle 4, von 1
+D3990_scope_import.xlsx: Zeilen 17 -> 17; bis 1, Entstehungszeitraum, Anm. 1
+D3993_scope_import.xlsx: Zeilen 19 -> 19; Prüfhinweise 4, Entstehungszeitraum, Anm. 3, Zeitraum-Quelle 1
+D4013_scope_import.xlsx: Zeilen 15 -> 15; Zeitraum-Quelle 1, Prüfhinweise 1
+D4015_scope_import.xlsx: Zeilen 14 -> 14; bis 1, Entstehungszeitraum, Anm. 1
+D4024_scope_import.xlsx: Zeilen 4 -> 4; bis 2, Entstehungszeitraum, Anm. 1
+D4054_scope_import.xlsx: Zeilen 463 -> 463; Teil 31, bis 30, Prüfhinweise 25, Entstehungszeitraum, Anm. 24, Zeitraum-Quelle 13, Entstehungszeitraum 6, Titel 4, von 3
+D4057_scope_import.xlsx: Zeilen 22 -> 22; Teil 6
+D4058_scope_import.xlsx: Zeilen 147 -> 147; Teil 1, Zeitraum-Quelle 1, Prüfhinweise 1
+D406_scope_import.xlsx: Zeilen 65 -> 65; Titel 1
+D408_scope_import.xlsx: Zeilen 143 -> 143; Prüfhinweise 2, von 1, Entstehungszeitraum, Anm. 1
+D414_scope_import.xlsx: Zeilen 20 -> 20; Titel 2, Darin 2, Zeitraum-Quelle 2, Prüfhinweise 2
+D4173_scope_import.xlsx: Zeilen 44 -> 44; Titel 1, Darin 1
+D4175_scope_import.xlsx: Zeilen 45 -> 45; bis 10, Zeitraum-Quelle 8, Prüfhinweise 8, von 7, Entstehungszeitraum, Anm. 4, Entstehungszeitraum 2
+D434_scope_import.xlsx: Zeilen 72 -> 72; Zeitraum-Quelle 12, Prüfhinweise 12
+D438_scope_import.xlsx: Zeilen 256 -> 256; Titel 77, Zeitraum-Quelle 2, Prüfhinweise 2, Entstehungszeitraum, Anm. 1
+D442_scope_import.xlsx: Zeilen 118 -> 118; Zeitraum-Quelle 15, Prüfhinweise 15, bis 2, Entstehungszeitraum, Anm. 1
+D446_scope_import.xlsx: Zeilen 44 -> 44; Zeitraum-Quelle 16, Prüfhinweise 16, von 1, bis 1
+D448_scope_import.xlsx: Zeilen 14 -> 14; Zeitraum-Quelle 10, Prüfhinweise 10, Teil 1
+D450_scope_import.xlsx: Zeilen 45 -> 45; Zeitraum-Quelle 12, Prüfhinweise 12
+D452_scope_import.xlsx: Zeilen 15 -> 15; Zeitraum-Quelle 14, Prüfhinweise 14
+D454_scope_import.xlsx: Zeilen 45 -> 45; Zeitraum-Quelle 20, Prüfhinweise 20
+D456_scope_import.xlsx: Zeilen 18 -> 18; Zeitraum-Quelle 6, Prüfhinweise 6
+D458_scope_import.xlsx: Zeilen 5 -> 5; Zeitraum-Quelle 3, Prüfhinweise 3
+D49_scope_import.xlsx: Zeilen 16 -> 13; Signatur 2, Titel 2, Nr. im PDF 2, PDF-Seite 1
+D512_scope_import.xlsx: Zeilen 63 -> 63; von 19, bis 19, Entstehungszeitraum, Anm. 19, Entstehungszeitraum 11, Prüfhinweise 1
+D631_scope_import.xlsx: Zeilen 1 -> 1; Titel 1
+D65_scope_import.xlsx: Zeilen 14 -> 12; Teil 1
+D67_scope_import.xlsx: Zeilen 35 -> 32; bis 5, Entstehungszeitraum, Anm. 2, Entstehungszeitraum 2, von 2, Signatur 2, Titel 2, Nr. im PDF 2, Teil 1, Darin 1, PDF-Seite 1, Zeitraum-Quelle 1, Prüfhinweise 1
+D69_scope_import.xlsx: Zeilen 34 -> 31; bis 4, Entstehungszeitraum 2, Teil 2, Titel 2, Signatur 1, Darin 1, Nr. im PDF 1
+D812_scope_import.xlsx: Zeilen 17 -> 17; bis 2, Entstehungszeitraum, Anm. 1
+D817_scope_import.xlsx: Zeilen 15 -> 15; Titel 1
+D845_scope_import.xlsx: Zeilen 202 -> 202; Teil 5, bis 3, Entstehungszeitraum, Anm. 3, Prüfhinweise 2, von 1
+D847_scope_import.xlsx: Zeilen 274 -> 274; Teil 2
+D867_scope_import.xlsx: Zeilen 45 -> 45; Zeitraum-Quelle 30, Prüfhinweise 30, von 10, bis 8, Entstehungszeitraum, Anm. 5, Entstehungszeitraum 5, Titel 1, Darin 1
+D8949_scope_import.xlsx: Zeilen 7 -> 7; Teil 1
+D8952_scope_import.xlsx: Zeilen 8 -> 8; Titel 2, Darin 2, Prüfhinweise 2
+D9978_scope_import.xlsx: Zeilen 168 -> 168; Teil 5
+D9983_scope_import.xlsx: Zeilen 299 -> 299; Prüfhinweise 3, Darin 3, Titel 3, bis 2, Entstehungszeitraum 1, von 1, Zeitraum-Quelle 1
+D9985_scope_import.xlsx: Zeilen 5 -> 5; von 1
+Dateien je Spalte: {'Darin': 40, 'Entstehungszeitraum': 67, 'von': 88, 'Zeitraum-Quelle': 118, 'Prüfhinweise': 151, 'bis': 116, 'Titel': 64, 'Teil': 96, 'Entstehungszeitraum, Anm.': 88, 'Parent-ID': 5, 'Signatur': 8, 'Ebene': 5, 'Übergeordnete Signatur': 5, 'Schachtel-Nr.': 5, 'Nr. im PDF': 8, 'PDF-Seite': 7, 'Stufe': 5, 'Umfang': 1}
+
+Testdaten (testdaten_excel/): Stand 11:30 -> 13:15
+D149628_scope_import.xlsx: Zeilen 5235 -> 5235; Teil 457, bis 32, Entstehungszeitraum, Anm. 30, Prüfhinweise 28, von 24, Zeitraum-Quelle 17, Entstehungszeitraum 13, Titel 13, Darin 8
+D151210_scope_import.xlsx: Zeilen 3162 -> 3162; Teil 314, Titel 8, Prüfhinweise 6, bis 3, Entstehungszeitraum, Anm. 2, Zeitraum-Quelle 1, von 1
+D152810_scope_import.xlsx: Zeilen 616 -> 616; bis 4, Entstehungszeitraum 2, Prüfhinweise 2, Teil 2, Entstehungszeitraum, Anm. 2
+D177470_scope_import.xlsx: Zeilen 45 -> 45; bis 1, Entstehungszeitraum, Anm. 1
+D2945_scope_import.xlsx: Zeilen 17 -> 17; Zeitraum-Quelle 2, Prüfhinweise 2, von 1
+D3031_scope_import.xlsx: Zeilen 311 -> 311; Teil 54, bis 27, von 18, Prüfhinweise 17, Entstehungszeitraum, Anm. 16, Entstehungszeitraum 11, Zeitraum-Quelle 5, Titel 1
+D3186_scope_import.xlsx: Zeilen 108 -> 108; bis 1, Prüfhinweise 1, Teil 1
+D3515_scope_import.xlsx: Zeilen 192 -> 192; Zeitraum-Quelle 5, Prüfhinweise 5, Titel 2
+D9983_scope_import.xlsx: Zeilen 299 -> 299; Prüfhinweise 3, Darin 3, Titel 3, bis 2, Entstehungszeitraum 1, von 1, Zeitraum-Quelle 1
+D9985_scope_import.xlsx: Zeilen 5 -> 5; von 1
+Dateien je Spalte: {'Zeitraum-Quelle': 6, 'Prüfhinweise': 8, 'von': 6, 'Entstehungszeitraum, Anm.': 5, 'Entstehungszeitraum': 4, 'bis': 7, 'Teil': 5, 'Titel': 5, 'Darin': 2}

@@ -1,0 +1,123 @@
+regel;pdf;id;signatur;seite;urteil;kurz
+e;D3672;1020;VII.389.:1.1.1018.;36;besser;«1.1.1018..» jetzt eigene Einheit mit Hinweis, Titel/Datum wie PDF
+e;D3672;1019;VII.389.:1.1.1017.;36;schlechter;Darin-Zeile weg (gut), aber Zeitraum 21.05.1944 → = 1944 (neue Zeile)
+e;D3672;1021;VII.389.:1.1.1019.;36;besser;Hinweis «nach 1017 folgt 1019» entfällt
+e;D3672;1144;VII.389.:1.2.1.-1.2.14.;39;besser;«1.2.1. –»/«1.2.14.» eine Einheit unter 1.2., Anm undatiert, Darin «ohne Auswertung»
+e;D3672;1146;VII.389.:1.3.1.-1.3.49.;39;besser;Bereich als eine Einheit unter 1.3.
+e;D3672;1339;VII.389.:2.2.1.-2.2.25.;45;besser;Bereich als eine Einheit unter 2.2.
+e;D3672;1466;VII.389.:7.2.1.-7.2.6.;49;besser;Bereich als eine Einheit unter 7.2.
+e;D3672;1483;VII.389.:10.1.-10.48.;50;besser;wie soll Z55 «VII.389.:10.1.-10.48.», unter 10.
+e;D3672;1485;VII.389.:11.1.-11.20.;50;besser;Bereich als eine Einheit unter 11.
+e;D141005;21;VII.380.:1.20/21.;2;besser;Doppelnummer «20./21.» → 20/21, = 26.11.1948, unter 1.
+e;D141005;20;VII.380.:1.19.;2;besser;Darin ohne die Zeile 20./21.
+e;D3484;618;VII.308.D.a.:594/595.;29;besser;«594 / 595» eigene Einheit, Sch. 324 (Z195-Muster bleibt: Darin «Wasserkraftanlage, 1934 – 1938»)
+e;D3484;617;VII.308.D.a.:593.;29;besser;Darin ohne die zwei Zeilen von 594/595
+e;D3484;619;VII.308.D.a.:595.;29;schlechter;gering: neuer Hinweis «nach 595 folgt 595» irreführend
+e;D176060;1098;VII.423.:14.3.16.;68;besser;"«14.316..» → 14.3.16. mit Hinweis; Titel aber bei «in:» abgeschnitten (Regel g, eigene Zeile)"
+e;D176060;1097;VII.423.:14.3.15.;68;besser;Darin ohne die Zeile 14.316..
+e;D176060;1099;VII.423.:14.3.17.;68;besser;Hinweis «nach 15 folgt 17» entfällt
+e;D141020;482;VII.171.:5.4.2.;51;besser;«5.4.2..» → 5.4.2. mit Hinweis, = 12.1967
+e;D141020;481;VII.171.:5.4.1.;51;besser;falsches 12.1967 aus der fremden Zeile weg («Januar-April 1966» im Titel weiter nicht erkannt)
+e;D141020;483;VII.171.:5.4.3.;51;besser;Hinweis «nach 1 folgt 3» entfällt
+e;D2857;357;VII.111.:1.224.3.;8;besser;PDF-Tippfehler «1.224.3..» eigene Einheit mit Hinweis, unter 1. eingehängt (Entscheid 5)
+e;D2857;185;VII.111.:1.2.25.2.;8;besser;Darin ohne die Zeile 1.224.3..
+e;D2857;358;VII.111.:1.3.;14;schlechter;gering: neuer Hinweis «nach 3 folgt 3» irreführend
+h;D3089;alt 46;VII.197.:B.;19;besser;erfundene Einheit aus Autoren-Initiale entfernt, Text im Darin von X. (kein Textverlust)
+h;D3089;alt 47;VII.197.:B.;20;besser;erfundene Einheit aus Autoren-Initiale entfernt, Text im Darin von X. (kein Textverlust)
+h;D3089;alt 48;VII.197.:B.;20;besser;erfundene Einheit aus Autoren-Initiale entfernt, Text im Darin von X. (kein Textverlust)
+h;D3089;alt 49;VII.197.:B.;20;besser;erfundene Einheit aus Autoren-Initiale entfernt, Text im Darin von X. (kein Textverlust)
+h;D3089;alt 50;VII.197.:H.;21;besser;erfundene Einheit aus Autoren-Initiale entfernt, Text im Darin von X. (kein Textverlust)
+h;D3089;alt 51;VII.197.:H.;23;besser;erfundene Einheit aus Autoren-Initiale entfernt, Text im Darin von X. (kein Textverlust)
+h;D3089;alt 52;VII.197.:H.;24;besser;erfundene Einheit aus Autoren-Initiale entfernt, Text im Darin von X. (kein Textverlust)
+h;D3089;alt 53;VII.197.:H.;24;besser;erfundene Einheit aus Autoren-Initiale entfernt, Text im Darin von X. (kein Textverlust)
+h;D3089;alt 54;VII.197.:H.;36;besser;erfundene Einheit aus Autoren-Initiale entfernt, Text im Darin von X. (kein Textverlust)
+h;D3089;alt 55;VII.197.:A.;25;besser;erfundene Einheit aus Autoren-Initiale entfernt, Text im Darin von X. (kein Textverlust)
+h;D3089;alt 56;VII.197.:C.;33;besser;erfundene Einheit aus Autoren-Initiale entfernt, Text im Darin von X. (kein Textverlust)
+h;D3089;45;VII.197.:X.;13;besser;"Darin jetzt durchgehend (inkl. «… von B. Grützner-Zaugg, 1916, Schachtel 60»); Schachtel «55-61, 68-73» weiter falsch"
+h;D3089;46;VII.197.:X. (Teil 2);13;gleich;"Darin > 30 000 Zeichen auf Teil 2 verteilt (Konvention); endet «… X. und»"
+h;D3089;47;VII.197.:XI.;37;schlechter;erfundene Einheit aus «X. und / XI. Jahrbuch …» (neue Zeile)
+h;D3089;12;VII.197.:II.2.;5;besser;Titel «MUTATIONEN IM MITGLIEDER-BESTAND» vollständig
+h;D3089;13;VII.197.:II.3.;5;besser;falscher Hinweis «Zwischenüberschrift BESTAND» weg
+h;D3089;20;VII.197.:III.1.;7;besser;Titel «… / GASTSPIELE» vollständig
+h;D3089;21;VII.197.:III.2.;7;besser;falscher Hinweis «Zwischenüberschrift GASTSPIELE» weg
+h;D3089;22;VII.197.:III.3.;8;besser;Titel vollständig, aber «, Schachtel 41» und «(siehe auch Schachtel 42)» im Titel (neue Zeile)
+h;D3089;23;VII.197.:III.4.;9;besser;falscher Hinweis «Zwischenüberschrift GESELLIGE ANLÄSSE» weg
+h;D3684;alt 1;VII.394.:4. («4 Kinder:»);1;besser;"erfundene Einheit entfernt; Einleitungszeilen jetzt «Text vor der ersten Signatur» (+10 Nicht übernommen, kein Verlust)"
+h;D3684;4;VII.394.:4.;2;besser;echte 4. auf oberster Ebene
+h;D3684;1;VII.394.:1.;1;besser;Hinweis «nach 4 folgt 1» entfällt
+h;D3684;5;VII.394.:5.;2;besser;Hinweis «nach 3 folgt 5» entfällt (Z128 bleibt)
+h;D2589;alt 1;V.L.136.b.:9. «Stadträte»;1;besser;Überschrift «9 Stadträte» keine Einheit mehr
+h;D2589;9;V.L.136.b.:9.;1;besser;9. auf oberster Ebene, Darin «Stadtschreiber» weg
+h;D2589;1;V.L.136.b.:1.;1;besser;"Hinweis «Zwischenüberschrift 9 Stadträte» (Entscheid 4); Nicht übernommen +3 = die 3 Überschriften"
+h;D2589;10;V.L.136.b.:10.;1;besser;Hinweis «Stadtschreiber», Darin sauber (Regel b)
+h;D2589;11;V.L.136.b.:11.;2;besser;Hinweis «Gemeinderatspräsident, Fraktionspräsidenten» (Regel b)
+h;D414;alt 21;V.B.c.34.:XV.2.12.;2;besser;Datumsliste keine Einheit mehr
+h;D414;20;V.B.c.34.:XV.;2;besser;Dossier, Notiz nicht mehr zerteilt (Schlussnotiz bleibt im Darin, Z211)
+h;D3466;alt 364;VII.308.C.a.:251. (Teil 1928);31;besser;«Teil 1928» kein Teil mehr
+h;D3466;363;VII.308.C.a.:251.;31;besser;«Teil 1928» im Darin der Widnau-Einheit
+h;D3466;362;VII.308.C.a.:251.;31;gleich;nur Hinweis «Untereinheiten reichen …» angepasst
+h;D71;4;III.S.:d.;3;besser;Kategorie «d) Rechnungen» Teilbestand, 1788–1797 aus Untereinheiten
+h;D71;5;III.S.1.;3;besser;Vollsignatur unter d) (Parent 4, Eb 2)
+h;D2708;1;V.L.45.:1.;1;besser;Titel «Akten und Drucksachen» aus Abschnittsüberschrift, Darin getrennt, 1889–1892
+h;D2729;1;V.L.68.:1.;1;besser;Titel «Akten» aus Abschnittsüberschrift, Darin getrennt, 29.06.–13.07.1910
+h;D49;15;III.G.:d.;4;gleich;unverändert: d)-Einheiten unter III.G.17.-18. (richtig), aber leeres Doppel :d. (vor 08:25, neue Zeile)
+h;D65;13;III.P.:d.;3;gleich;unverändert: 1.–6. unter III.P.1.-6. «d) Rechnungen», leeres Doppel :d. (vor 08:25)
+h;D67;34;III.Q.:d.;3;gleich;unverändert: 11.–33. unter III.Q.11.-33., leeres Doppel :d. (vor 08:25)
+h;D69;33;III.R.:d.;3;gleich;unverändert: 5.–28. unter III.R.5.-28., leeres Doppel :d. (vor 08:25)
+g;D141005;48;VII.380.:6.;3;besser;fetter Titel, Beschreibung mit Datum ins Darin (Z12)
+g;D176060;348;VII.423.:5.4.;23;besser;Titel = fette Überschrift, Beschreibung mit «, 1986 – 1987» im Darin
+g;D176060;349;VII.423.:5.5.;23;besser;wie 5.4.
+g;D176060;554;VII.423.:9.11.;36;besser;Titel «Schweizerische Liga gegen Drogenprohibition», Darin mit Datum
+g;D176060;69;VII.423.:1.68.;7;schlechter;Titel bei «in:» abgeschnitten, Zeitraum 07.02.1990 → 1990
+g;D176060;803;VII.423.:14.1.98.;51;schlechter;Titel bei «in:» abgeschnitten
+g;D176060;176;VII.423.:2.5.;13;gleich;"Wert gleich; nur Quelle «Darin (geschätzt)» + Hinweis (gering)"
+g;D176060;177;VII.423.:2.6.;13;gleich;wie 2.5.
+g;D176060;208;VII.423.:3.4.;15;gleich;= 15.05.1992 aus Text («vom 15. Mai 1992»), Spalte 1992 – plausibel
+g;D176060;551;VII.423.:9.8.;36;besser;1989 → 1989–1992 (zweite Zeile «JBB … Grundsatzpapier ¦ 1992»)
+g;D176060;631;VII.423.:11.9.;40;besser;1989 → 1989–1990 (zweite Zeile 1990)
+g;D176060;1211;VII.423.:16.1.;74;besser;1988 → 1988–1991 (Flugblätter 1988, 1988, 1991)
+g;D176060;1271;VII.423.:18.4.;77;besser;1995 → 1990–03.01.1999 (DVD-Zeilen bis S. 78)
+g;D176060;1267;VII.423.:18.;77;besser;1987–1995 → 12.05.1987–03.01.1999
+g;D176060;180;VII.423.:3.;13;besser;1991–2002 → 1986–2002 (3.1. «1986 – 1990»)
+g;D176060;575;VII.423.:10.2.;38;unklar;1998 → 1997–1998 («Jahresbericht 1997 ¦ 1998»)
+g;D176060;462;VII.423.:7.3.4.;30;unklar;1991 → 04.1990–1991 (Betriebszeit im Titel, Spalte 1991)
+g;D176060;1274;VII.423.:18.7.;78;unklar;1992 → 05.09.1989–1992 (Sendung 1989, Spalte 1992)
+g;D176060;433;VII.423.:7.2.1.;28;schlechter;Anm «undatiert» verloren (Spalte «o. D.»)
+g;D176060;534;VII.423.:8.13.;35;schlechter;Anm «undatiert» verloren
+g;D176060;544;VII.423.:9.1.;35;schlechter;Titel/Darin jetzt richtig getrennt, aber Anm «undatiert» verloren
+g;D176060;1277;VII.423.:18.10.;78;schlechter;Anm «undatiert» verloren (4 × «o.D.»)
+g;D176060;1293;VII.423.:21.1.;79;schlechter;Anm «undatiert» verloren, ohne Hinweis
+g;D176060;1265;VII.423.:17.1.;77;schlechter;«ca. 1992» → = 1992 ohne «ca.»
+g;D176060;503;VII.423.:7.4.1.38.;32;besser;Darin-Rest «2002» wieder im Titel («… 1999 –2002»)
+g;D176060;189;VII.423.:3.3.1.2.;14;besser;Darin-Rest «1991» wieder im Titel («… 1989 –1991»)
+g;D3993;7;VII.20.:2.4.;2;schlechter;Gesamtvergleich: Anm «undatiert» verloren (Spalte «undatiert»)
+a;D3466;11;VII.308.C.a.:41.;2;gleich;Titel 1. Zeile, «Holländergebäude» ins Darin – folgt dem Absatz (20 pt) im PDF
+a;D3466;28;VII.308.C.a.:79.;3;besser;= 1916 → 1916–1919 (Datumsspalte der vier Einträge)
+a;D3466;129;VII.308.C.a.:143.;10;gleich;"Darin getrennt; «1924 / 25» bleibt im Titel, = 1924 (vor 08:25, neue Zeile)"
+a;D3466;130;VII.308.C.a.:144.;10;besser;= 1923 → 1923–1924 (Einträge 1923, 1924, 1924)
+a;D3466;178;VII.308.C.a.:166.;15;gleich;"Darin getrennt; 168 fehlt weiter als Einheit (vor 08:25, neue Zeile)"
+a;D3466;239;VII.308.C.a.:194.;20;gleich;zwei Beschreibungszeilen ins Darin
+a;D3466;263;VII.308.C.a.:208.;22;besser;«Pläne 7000 –7200» wieder ein Eintrag
+a;D3466;297;VII.308.C.a.:228.;25;gleich;26.04.1930 → 1930: Datum jetzt im Darin «Eingabe 26. April 1930», Spalte 1930
+a;D3466;337;VII.308.C.a.:237.;29;besser;falsches 1929–2000 («2000 KW») → = 1929
+a;D3466;455;VII.308.C.a.:288.;40;gleich;Beschreibung ins Darin
+a;D3466;500;VII.308.C.a.:308.;43;besser;Titel «Irish Free State Electricity: Pigeon House Fort Dublin» wie PDF
+a;D3466;586;VII.308.C.a.:351.;49;gleich;1932–1933 → nur «undatiert» (Spalte «o.D.»), «Agenden 1932/33» im Darin
+a;D3466;588;VII.308.C.a.:352.;50;gleich;Beschreibung ins Darin (Teile 352)
+a;D3466;721;VII.308.C.a.:423.;59;schlechter;Darin «Garage: Grundrisse und» / «Schnitte, Details …» falsch getrennt (3 Fälle)
+a;D3466;728;VII.308.C.a.:425.;60;gleich;«Diverse Arbeiten» ins Darin
+a;D3466;862;VII.308.C.a.:477.;70;gleich;Beschreibung ins Darin
+a;D3466;963;VII.308.C.a.:504.;80;gleich;Beschreibung ins Darin
+a;D3466;1008;VII.308.C.a.:525.;85;gleich;«dito» ins Darin (18 Teile)
+a;D3466;1029;VII.308.C.a.:527.;86;besser;Darin nach Absätzen getrennt, «Projekt 1941» nicht mehr umgestellt
+a;D3466;1050;VII.308.C.a.:539.;90;gleich;Beschreibung ins Darin
+a;D3466;1149;VII.308.C.a.:579.;100;gleich;Beschreibung ins Darin
+a;D3484;216;VII.308.D.a.:365.;11;schlechter;zweite Objektzeile «Wasserkraftanlage» ins Darin
+a;D3484;622;VII.308.D.a.:596.;29;schlechter;«Turbinenumbau» ins Darin, Vorzeile endet mit Komma
+a;D3484;61;VII.308.D.a.:227.;5;gleich;«(Überformat)» ins Darin
+a;D2857;417;VII.111.:2.1.;17;besser;Darin-Einträge getrennt, Daten richtig zugeordnet («o. D.» / 1919)
+a;D2857;418;VII.111.:2.2.;18;besser;Literaturangaben nach Absätzen getrennt
+unklar;D141020;206;VII.171.:2.21.;19;gleich;15.09.1954 → 1954 (geschätzte Untereinheit 2.21.1. eingerechnet, Hinweis)
+unklar;D141020;523;VII.171.:6.1.2.;54;besser;1913–1966 → 1913–05.1968 (6.1.2.3. bis «Mai 1968»)
+unklar;D2857;1;VII.111.:1.;1;gleich;Wert gleich, Quelle «Untereinheiten (geschätzt)»
+unklar;D3089;39;VII.197.:IX.;12;unklar;1916–1926 → 1866–1926: übernimmt die alte Schätzung von IX.5. («gegründet 1866»)
