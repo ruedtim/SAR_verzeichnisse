@@ -547,6 +547,12 @@ RAHMEN_VORLAUF = 150  # Jahre: so weit vor dem Bestandszeitraum zählt eine Jahr
 HEUTE_JAHR = dt.date.today().year
 
 
+def _jubilaeum_ende(f: Zeitraum) -> Zeitraum:
+    """Gefeierte Spanne «1849 – 1949» → nur das Endjahr (Wortlaut und Stelle bleiben für Titel und Anmerkung)."""
+    return Zeitraum(Datum(f.bis.jahr), Datum(f.bis.jahr), f.original, ca=f.ca, ereignis=f.ereignis,
+                    start=f.start, ende=f.ende)
+
+
 def jahre_im_text(text: str, rahmen: tuple[int, int] | None = None) -> Zeitraum | None:
     """Grobe Schätzung aus allen Jahreszahlen eines Textes (ohne Lebensdaten und Signaturen).
     rahmen: Zeitraum des Bestands laut Online-Archiv – Jahreszahlen weit davor sind Bezüge oder Nummern («Die
@@ -560,11 +566,11 @@ def jahre_im_text(text: str, rahmen: tuple[int, int] | None = None) -> Zeitraum 
     # Lebensdaten «30. August 1895–4. April 1961» weglassen, lange Reihen «1906 bis Juni 2018» nicht
     funde = [f for f in finde_zeitraeume(text, klammern_ignorieren=False)
              if not (f.von and f.bis and f.bis.jahr - f.von.jahr > 50 and f.von.tag and f.bis.tag)]
-    # gefeierte Spannen «1834 – 1959, 125 Jahre Stadttheater» (VII.12.B.) sind keine Laufzeit
+    # gefeierte Spannen «1834 – 1959, 125 Jahre Stadttheater» (VII.12.B.) sind keine Laufzeit – nur ihr Endjahr zählt
     def zeile_von(f: Zeitraum) -> str:
         return text[text.rfind("\n", 0, f.start) + 1:(text.find("\n", f.ende) + 1 or len(text) + 1) - 1]
-    funde = [f for f in funde if not (f.von and f.bis and f.bis.jahr > f.von.jahr and re.search(
-        rf"\b{f.bis.jahr - f.von.jahr}\s*(?:Jahre|years|ans|anni)\b", zeile_von(f), re.I))]
+    funde = [_jubilaeum_ende(f) if f.von and f.bis and f.bis.jahr > f.von.jahr and re.search(
+        rf"\b{f.bis.jahr - f.von.jahr}\s*(?:Jahre|years|ans|anni)\b", zeile_von(f), re.I) else f for f in funde]
     if rahmen:
         a = rahmen[0] - RAHMEN_VORLAUF
         behalten, enden = [], []
@@ -2152,6 +2158,14 @@ def baue_vorkommen(zeilen: list[Zeile], gl: Gliederung, info: dict) -> list[Vork
                                          f"{treffer.anzeige}-{pfad_text(bis)}", f"{treffer.roh} – {nach.text.strip()}",
                                          treffer.rest, treffer.fett, treffer.typ, treffer.hinweis)
                     ueberspringen = nach
+            # «5.2.4.1. - Early Morning (Trauer zu früh), Komödie von Edward Bond (02.10.1969)» (VII.200.): der Strich
+            # trennt nur Signatur und Titel – kein Listenpunkt, sonst wird der Titel zum Darin (nicht beim Bereich
+            # «1.2.1. – ohne Auswertung» / «1.2.14.», VII.389., und nicht vor einer Zahl)
+            # (und nicht, wenn darunter eine «-»-Liste weitergeht: dann ist es ihr erster Punkt, VII.368., VII.397.)
+            if not (nach is not None and ueberspringen is nach) and not _liste_folgt(zeilen, i):
+                while treffer.rest is not None and len(treffer.rest.worte) > 1 \
+                        and treffer.rest.worte[0].text in ("-", "–", "—") and not treffer.rest.worte[1].text[:1].isdigit():
+                    treffer.rest = treffer.rest.ab(1)  # (auch doppelt: «5.2.4.3. - - Die Hebamme …»)
             if treffer.eltern and treffer.eltern[0] not in gesehen:  # «II) A) …»: die Gruppe II. selbst anlegen
                 vor_neuer_einheit()
                 gruppe = Vorkommen(treffer.eltern[0], pfad_text(treffer.eltern[0]), treffer.eltern[1], z.seite, [],
@@ -2381,6 +2395,9 @@ def baue_vorkommen(zeilen: list[Zeile], gl: Gliederung, info: dict) -> list[Vork
                 rest = Zeile(z.seite, z.top, z.bottom,
                              [Wort(m.group(2), w0.x0, w0.x1, w0.font, w0.size)] + (rest.worte if rest else []),
                              z.datum, z.umfang, z.schachtel)
+            while rest is not None and len(rest.worte) > 1 and rest.worte[0].text in ("-", "–", "—") \
+                    and not rest.worte[1].text[:1].isdigit() and not _liste_folgt(zeilen, i):
+                rest = rest.ab(1)  # «5.2.4.3. - - Die Hebamme, Theaterstück …» (VII.200.): Strich nach der Signatur
             if aktuell.x0 and abs(z.x0 - aktuell.x0) <= 5 and rest and not aktuell.aus_marke:
                 # in der Signaturspalte wie die Einheit selbst: ein weiterer Eintrag mit derselben Nummer
                 # («1.2.5. 5. Generation …» / «1.2.5. 6. Generation …», VII.199.) – eigener Teil mit Hinweis
@@ -2785,6 +2802,32 @@ def datumszeile_setzt_fort(zeilen: list[Zeile], i: int, rand: float) -> bool:
     return i == 1 and abs(z.x0 - zeilen[0].x0) <= 6 and vorher.x1 + 4 + (w.x1 - w.x0) > min(rand, 470) - 2
 
 
+# Unterlagen einer Produktion (VII.200.): beginnt eine Zeile so, ist sie Inhalt, nicht Fortsetzung des Titels
+UNTERLAGEN_MUSTER = (r"(?:Korrespondenz|Bühnenpl|Bühnenbild|Besetzung|Notizen|Skizze|Akten|Aktennotiz|Aktenvermerk|"
+                     r"Probe|Programm|Foto|Szenarium|Vertr[aä]g|Aufführungsvertr|Pressemat|Presse|Zeitungs|Kritik|"
+                     r"Beleuchtung|Kosten|Kostüm|Informationsblatt|Unterlagen|Brief|Ankündigung|Plakat|Manuskript|"
+                     r"Lebenslauf|Liste der|Verzeichnis der|Textbuch|Stückeinteilung|Regiebuch|Tonband|Strichfassung|"
+                     r"Auszug|Einladung|Mitteilung|Vereinbarung|Ablauf|Entwurf|Stückvertr|Bauprobe)")
+UNTERLAGEN_RE = re.compile(UNTERLAGEN_MUSTER)
+# nach «… von X:» nur typische Unterlagen einer Produktion oder Bewerbung (nicht «Plakatserie …», «Entwurf für …»)
+UNTERLAGEN_DOPPELPUNKT = (r"(?:Korrespondenz|Besetzung|Notizen|Akten|Aktennotiz|Aktenvermerk|Probe|Programm|Szenarium|"
+                          r"Vertr[aä]g|Aufführungsvertr|Presse|Zeitungs|Kritik|Beleuchtung|Informationsblatt|"
+                          r"Unterlagen|Briefe|Einladung|Mitteilung|Vereinbarung|Ablauf|Stückvertr|Bauprobe|Auszug|"
+                          r"Bühnenpl|Skizzen)")
+TITEL_KLAMMERDATUM_RE = re.compile(r"\((?:\d{1,2}\.\d{1,2}\.\d{4}|undatiert|nicht aufgeführt|o\.\s?J\.)\)\s*$")
+
+
+def _liste_folgt(zeilen: list[Zeile], i: int, weit: int = 4) -> bool:
+    """Folgen unter der Signaturzeile zeilen[i] weitere «-»-Punkte (auch nach einer umbrochenen Zeile), bevor die
+    nächste Signatur am linken Rand kommt? Dann ist «3.2. - Beschluss …» der erste Punkt einer Liste (VII.397.)."""
+    for z in zeilen[i + 1:i + 1 + weit]:
+        if not z.worte or z.x0 <= zeilen[i].x0 + 3:
+            return False  # nächste Signatur (oder Zeile am Rand)
+        if ist_aufzaehlung(z):
+            return True
+    return False
+
+
 def _allein_vor_absatz(zeilen: list[Zeile], i: int) -> bool:
     """Steht zeilen[i] allein vor einem neuen Absatz (Untertitel «Vermietung, Verpachtung, … ¦ 1873 bis 1902» unter
     «Akten zu Liegenschaften (2):», VII.24.) – und nicht als erster Punkt einer dichten Liste («Zürcher Theaterverein
@@ -2822,6 +2865,20 @@ def kopf_und_rumpf(zeilen: list[Zeile], rand: float, doppelpunkt: bool = False) 
             kopf.append(z)  # (danach folgt ein neuer Absatz oder nichts mehr)
             continue
         if ist_aufzaehlung(z) or ist_aufzaehlung_mit_marke(z) or (a is not None and a > ABSATZ_ABSTAND):
+            return kopf, zeilen[i:], False
+        # Titel endet mit dem Datum in Klammern: «… Komödie von Edward Bond (02.10.1969)» / eingerückt «Notizen,
+        # Besetzungsliste, Programmheft» (VII.200.) – die Folgezeile ist Inhalt
+        if TITEL_KLAMMERDATUM_RE.search(vorher.text):
+            return kopf, zeilen[i:], False
+        # Produktion «Affabulazione oder Der Königsmord, Theaterstück von Pier Paolo Pasolini» / «Szenarium,
+        # Aktenvermerk über Proben, Besetzungsliste» (VII.200.): die Zeile mit den Unterlagen ist Inhalt
+        letztes_v = vorher.text.rstrip().split()[-1] if vorher.text.split() else ""
+        vt_u = vorher.text
+        if i == 1 and " von " in vt_u and (letztes_v[:1].isupper() or letztes_v.endswith(")")) \
+                and not letztes_v.endswith((",", "-", "–", ":", "/")) and UNTERLAGEN_RE.match(z.text) \
+                and vt_u.count("„") <= vt_u.count("“") and vt_u.count("«") <= vt_u.count("»") \
+                and vt_u.count("(") <= vt_u.count(")") and vt_u.count('"') % 2 == 0:
+            # (nicht im offenen Zitat «„Versuche mit … Betäubungsmitteln.» / «Entwurf einer Resolution …“», VII.423.)
             return kopf, zeilen[i:], False
         # kurzer Titel mit Doppelpunkt am Ende: was folgt, ist die Liste («Zeitungsausschnitte:» / «Franz Schwyzer,
         # Kaufmann, Shanghai …», «FOTOS wie folgt:» / «Fotos von Nr. 274 …», VII.191.)
@@ -2976,8 +3033,10 @@ def verarbeite(v: Vorkommen, e: Einheit, rand: float, rand_spalte: float | None 
                 titel = geflickt[0]
             elif not NAMENSEINTRAG_RE.match(geflickt[0]) and ist_namensliste(geflickt[1:]):
                 titel, darin = geflickt[0], geflickt[1:]  # Überschrift + Liste ohne Leerzeile
-            elif ist_namensliste(geflickt) or sum(1 for g in geflickt if KLAMMEREINTRAG_RE.match(g)) >= \
-                    max(2, 0.6 * len(geflickt)):
+            elif (ist_namensliste(geflickt) and sum(1 for g in geflickt if NAMENSEINTRAG_RE.match(g)) >= 2) \
+                    or sum(1 for g in geflickt if KLAMMEREINTRAG_RE.match(g)) >= max(2, 0.6 * len(geflickt)):
+                # (mindestens zwei «Name: Werk» – nicht «Engelchens Sturmlied, Theaterstück von Harald Kuhlmann:
+                # Korrespondenz, …» mit einer Zeile Inhalt, VII.200., oder «Seeuntersuchungen: Walensee», V.F.c.204.)
                 darin = teile_inline(geflickt)  # Kopf ist eine Liste (Rollenbücher/Fotos einer Schachtel)
             else:  # «124 Gerlafingen Escher Wyss & Cie …» / «Dampfturbinenfundamente»: eigener Titel
                 titel, darin = geflickt[0], teile_inline(geflickt[1:])
@@ -3001,6 +3060,18 @@ def verarbeite(v: Vorkommen, e: Einheit, rand: float, rand_spalte: float | None 
                             or (KLAMMEREINTRAG_RE.match(titel)
                                 and sum(1 for d in darin if KLAMMEREINTRAG_RE.match(d)) >= max(2, len(darin) * 0.6))):
         darin, titel = [titel] + darin, ""
+    # «Engelchens Sturmlied, Theaterstück von Harald Kuhlmann: Korrespondenz, Aufführungsvertrag, Aktennotizen»
+    # (VII.200.): nach dem Doppelpunkt folgen die Unterlagen – sie sind Inhalt, nicht Titel
+    m_u = re.match(rf"(?P<t>.+?\bvon\s[^:]{{2,80}}?):\s+(?P<r>{UNTERLAGEN_DOPPELPUNKT}.*)$", titel) if titel else None
+    if m_u and m_u.group("t").count("[") == m_u.group("t").count("]") \
+            and m_u.group("t").count("(") == m_u.group("t").count(")"):
+        titel, darin = m_u.group("t"), [m_u.group("r")] + darin
+    # ebenso nach dem Premierendatum in derselben Zeile: «Der Preis von Arthur Miller (03.05.1968) Bühnenpläne und
+    # Skizzen», auch mit fehlender Klammer «… Nestroy (16.09.1971 Bühnenpläne …» (VII.200.)
+    m_k = re.match(rf"(?P<t>.+?\(\d{{1,2}}\.\d{{1,2}}\.\d{{4}})\)?\s+(?P<r>{UNTERLAGEN_MUSTER}.*)$", titel) \
+        if titel else None
+    if m_k:
+        titel, darin = m_k.group("t") + ")", [m_k.group("r")] + darin
     darin, geflickt = flicke_listen(darin)
     if geflickt:
         e.hinweise.append("Verschobene Zeilenumbrüche in Listen repariert – Stichprobe prüfen.")
@@ -3776,6 +3847,10 @@ def zeitraum_aus_titel(e: Einheit, rahmen: tuple[int, int] | None = None) -> Non
         # Jahreszahlen sind Amtszeiten, keine Laufzeit der Unterlagen
         for f in funde:
             f.ereignis = True
+    # gefeierte Spanne «Zürich 600 Jahre im Bund der Eidgenossen 1352 – 1952», «100 Jahre Studentengesangverein
+    # 1849 – 1949» (V.L.111., VII.267.): keine Laufzeit – es zählt das Endjahr (Jubiläums- bzw. Erscheinungsjahr)
+    funde = [_jubilaeum_ende(f) if f.von and f.bis and f.bis.jahr > f.von.jahr and re.search(
+        rf"\b{f.bis.jahr - f.von.jahr}\s*(?:Jahre|years|ans|anni)\b", e.titel, re.I) else f for f in funde]
     laufzeit = [f for f in funde if not f.ereignis]
     ereignisse = [f for f in funde if f.ereignis]
     if rahmen and not e.bestand:
@@ -3838,6 +3913,11 @@ def zeitraum_aus_titel(e: Einheit, rahmen: tuple[int, int] | None = None) -> Non
         return
     f = laufzeit[-1]
     vorn, hinten = e.titel[:f.start].rstrip(), e.titel[f.ende:]
+    if vorn.endswith("(") and re.fullmatch(r"\)\s*[.:]?\s*", hinten) and f.von is not None and f.von.monat \
+            and f.bis is not None and f.bis.jahr - f.von.jahr <= 2:
+        # (nur ein Datum wie die Premiere, nicht Lebensdaten «(16. Oktober 1718 – 17. März 1767)», VII.277.)
+        # «Early Morning (Trauer zu früh), Komödie von Edward Bond (02.10.1969)» (VII.200.): Datum samt Klammer weg
+        vorn, hinten = vorn[:-1].rstrip(), ""
     letztes = vorn.split()[-1].lower() if vorn.split() else ""
     if letztes in {"von", "vom", "am", "im", "bis", "seit", "um", "der", "des", "spielzeit", "saison", "jahr",
                    "jahre", "jahren", "jahrgang", "jg.", "jg", "sommer", "winter", "frühling", "herbst", "ende",
@@ -4152,7 +4232,10 @@ def ergaenze_titel(einheiten: list[Einheit]) -> None:
                 t.darin.insert(0, t.titel)  # «3.1.2. A» / «Jürg Acklin, …» (VII.298.): Buchstabe der Liste, kein Titel
                 t.titel = ""
             if t.titel and not TEIL_NUR_RE.match(t.titel):
-                quelle = t
+                # (ein Teil mit Werk- oder Personentitel ist ein eigenes Stück, kein Titel für die Teile danach:
+                # «6.4. Shakespeare, William: König Johann» / «6.4.» Schiller …, VII.200.)
+                quelle = k if NAMENSEINTRAG_RE.match(t.titel + " ") or WERKNAME_RE.search(t.titel) \
+                    or TITEL_KLAMMERDATUM_RE.search(t.titel) else t
                 continue
             basis = quelle.titel or k.titel
             t.titel = f"{basis}, Teil {t.teil_nr}" if TEIL_IM_TITEL else basis
