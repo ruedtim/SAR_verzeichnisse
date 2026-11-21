@@ -1,9 +1,8 @@
 # PDFs des Stadtarchivs Zürich: Quelle, mit findmittel_laden.py neu ladbar – nicht im Repository
 *.pdf
-# Excel-Ergebnisse erst mit einer stabilen Konvertierungsfassung
-findmittel_excel/
-testdaten_excel/
-*_scope_import.xlsx
+# Excel-Ergebnisse (findmittel_excel/, testdaten_excel/, D151210_scope_import.xlsx) gehören ins Repository,
+# Vergleichskopien der Stichproben nicht
+stichproben/**/*.xlsx
 # Python, macOS
 __pycache__/
 *.pyc

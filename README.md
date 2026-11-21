@@ -10,9 +10,15 @@ Excel-Dateien für den scope-Import um: eine Datei je Findmittel mit den Blätte
 - `findmittel_laden.py` – lädt das Verzeichnis und die Findmittel-PDFs aus dem Online-Archiv.
 - `findmittel_pdf/verzeichnis.csv` – Verzeichnis der Findmittel (Signatur, Titel, Datei) aus dem Online-Archiv.
 - `stichproben/` – Stichprobenprüfung und Nachprüfungen am PDF: Berichte, Fundlisten, Werkzeuge.
+- `findmittel_excel/` – die Excel-Dateien aller 715 Findmittel und die Übersicht `uebersicht_scope_import.xlsx`.
+- `testdaten_excel/` und `D151210_scope_import.xlsx` – Testdaten und das Findmittel VII.200.
 
-Nicht im Repository: die PDFs (Quelle: Online-Archiv des Stadtarchivs) und vorerst die erzeugten Excel-Dateien –
-sie kommen mit einer stabilen Konvertierungsfassung dazu.
+Die Excel-Dateien sind mit dem Skript dieses Stands erzeugt (Gliederungsrunde mit Nachtrag, 22.11.2026). Geprüft
+wurden sie in `stichproben/nachpruefung8.md`; Änderungen und offene Punkte stehen in
+`stichproben/runde7/AENDERUNGEN_RUNDE7.md`. Jede Excel-Datei enthält im Blatt «Prüfliste» die Einheiten mit
+Prüfhinweisen.
+
+Nicht im Repository: die PDFs (Quelle: Online-Archiv des Stadtarchivs).
 
 ## Aufruf
 
