@@ -1,0 +1,8 @@
+### D3313: vorher 50 Einheiten, nachher 50 Einheiten
+GEÄ  VII.254.:2. [ID 3, Serie, E1, Eltern -, S.1] Jahrgängerverein 1804 (1854) | Von/bis (>= x und <=y)
+        Titel: '[ohne Titel]' => 'Jahrgängerverein 1804 (1854)'
+        bis: '1854' => '12.05.1854'
+        [Darin]
+           -Jahrgängerverein 1804 (1854)
+        [Prüfhinweise]
+           -Kein Titel erkannt.

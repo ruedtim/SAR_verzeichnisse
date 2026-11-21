@@ -1,0 +1,19 @@
+### D150689: vorher 299 Einheiten, nachher 299 Einheiten
+GEÄ  VII.277.:1.8.1. [ID 48, Dossier, E3, Eltern VII.277.:1.8., S.34] Wilhelm Karl Escher (1895 – 1971) | Von/bis (>= x und <=y)
+        Titel: 'Kinder von Wilhelm Caspar Escher-Abegg (1859 – 1929) und Emma Escher-Abegg (1869 – 1949)' => 'Wilhelm Karl Escher (1895 – 1971)'
+        [Darin]
+           -Wilhelm Karl Escher (1895 – 1971)
+        [Prüfhinweise]
+           -Kein eigener Titel im Findmittel – Titel der übergeordneten Einheit übernommen.
+GEÄ  VII.277.:6.3. [ID 151, Serie, E2, Eltern VII.277.:6., S.134] Familie Arter von Hottingen | Von/bis (>= x und <=y)
+        Zeitraum-Quelle: 'Untereinheiten (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.' => ''
+GEÄ  VII.277.:6.3.2. [ID 153, Dossier, E3, Eltern VII.277.:6.3., S.135] 'Emil' Salomon Arter (26. Dezember 1841 – 12. April 1874) | Von/bis (>= x und <=y)
+        Titel: 'Familie Arter von Hottingen' => "'Emil' Salomon Arter (26. Dezember 1841 – 12. April 1874)"
+        [Darin]
+           -'Emil' Salomon Arter (26. Dezember 1841 – 12. April 1874)
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Titel'
+        [Prüfhinweise]
+           -Kein eigener Titel im Findmittel – Titel der übergeordneten Einheit übernommen.
+           -Zeitraum aus den Jahreszahlen im Darin geschätzt.
+           +

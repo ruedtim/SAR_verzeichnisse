@@ -1,0 +1,170 @@
+### D151730: vorher 20 Einheiten, nachher 42 Einheiten
+WEG  V.J.c.402.:15./T2 [ID 16, Dossier, E2, Eltern V.J.c.402.:15., S.3] 15.4. Korrespondenz mit dem | Von/bis (>= x und <=y)
+        D: Wohlfahrtsamt
+        D: 15.5. Kontrollhefte des, 1952-1964
+        D: Personalbestandes
+        D: 15.6. Stellenverzeichnisse zum Voranschlag, 1955-1966
+NEU  V.J.c.402.:1.1. [ID 2, Dossier, E2, Eltern V.J.c.402.:1., S.1] Verweis auf andere Archivbestände | 
+NEU  V.J.c.402.:1.2. [ID 3, Dossier, E2, Eltern V.J.c.402.:1., S.1] Zur geschichtlichen Entwicklung des Mädchenheims | 
+NEU  V.J.c.402.:4.1. [ID 7, Dossier, E2, Eltern V.J.c.402.:4., S.1] Gedruckte Jahresberichte | Von/bis (>= x und <=y)
+NEU  V.J.c.402.:4.2. [ID 8, Dossier, E2, Eltern V.J.c.402.:4., S.1] Jahresberichte im Manuskript | Von/bis (>= x und <=y)
+        D: Jahresbericht des Städtischen
+        D: Mädchenheims Tannenhof (mit Statistiken und Betriebsrechnungen) 1946-1979
+        D: Jahresberichte des Städtischen Mädchenheims Riesbach (um 1973: Beobachtungsheim Riesbach)
+NEU  V.J.c.402.:8.1. [ID 13, Dossier, E2, Eltern V.J.c.402.:8., S.1] Zur Frage der Umgestaltung des Tannenhofs an der Winterthurerstrasse 147 | 
+        H: Kein Zeitraum gefunden.
+NEU  V.J.c.402.:8.2. [ID 14, Dossier, E2, Eltern V.J.c.402.:8., S.1] Kauf und Umbau des Wohnhauses Neumünsterstrasse 2 | Von/bis (>= x und <=y)
+        D: Umgestaltungsvorschläge/Korrespondenz; Pläne 1:50 des Wohnhauses Neumünsterstr. 2 (Juni 1943)
+        D: Pläne 1:100 Umbauprojekt Neumünsterstr. 2 (Januar/Mai 1944)
+        D: Pläne 1:20 Umbau Dachgeschoss (Februar 1948) Weisungen des Stadtrates zu Kauf und Umbau der Liegenschaft Neumünsterstrasse 2 (1943/44
+        H: Verschobene Zeilenumbrüche in Listen repariert – Stichprobe prüfen.
+Zeitraum aus der Datumsspalte und den Jahreszahlen im Darin geschätzt.
+NEU  V.J.c.402.:14.1. [ID 21, Dossier, E2, Eltern V.J.c.402.:14., S.2] Organigramme der Heimleitung | Von/bis (>= x und <=y)
+NEU  V.J.c.402.:14.2. [ID 22, Dossier, E2, Eltern V.J.c.402.:14., S.2] Stellenbeschreibungen | 
+        D: Heimerzieherin (Gruppenleiterin); Heimgehilfin; Dienstzeiten
+        H: Kein Zeitraum gefunden.
+NEU  V.J.c.402.:14.3. [ID 23, Dossier, E2, Eltern V.J.c.402.:14., S.2] Hausordnung | 
+        D: Tagesplan
+        D: Ämtli
+        D: Hauswäsche
+        D: Waschordnung
+        D: Waschplan
+        D: Ausgangsregelung für Externe; Budgetposten
+        H: Kein Zeitraum gefunden.
+NEU  V.J.c.402.:14.4. [ID 24, Dossier, E2, Eltern V.J.c.402.:14., S.2] Anamnese (Merkblätter | 
+        D: Gesprächsleitfaden; Aktenauszug; Aktenkontrolle; Einholen von Auskünften
+        H: Kein Zeitraum gefunden.
+NEU  V.J.c.402.:14.5. [ID 25, Dossier, E2, Eltern V.J.c.402.:14., S.2] Fallführung (Merkblätter) | Genau (=)
+        D: Anmeldeunterlagen
+        D: Ärztlicher Fragebogen
+        D: Hinweise zur Fallführung
+        D: Elternbrief
+        D: Aufnahmebogen/-karte
+        D: Einweisung in die Buchhaltung
+        D: Abrechnungsformulare
+        D: Unterlagen für die Erzieherin (Erhebungsbogen, Gesprächsleitfaden, Leitfaden für Beo-Bericht und pädagog. Bericht, Rapport, Journalblatt, Mitteilungsblatt, Wochenrapport)
+        D: … (15 Zeilen)
+        H: Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.J.c.402.:14.6. [ID 26, Dossier, E2, Eltern V.J.c.402.:14., S.3] Arbeitsrapporte der Erzieher und Erzieherinnen (Muster) | 
+        H: Kein Zeitraum gefunden.
+NEU  V.J.c.402.:15.1. [ID 28, Dossier, E2, Eltern V.J.c.402.:15., S.3] Erzieherinnen (Gehilfin mit erzieherischen Aufgaben) alphabetisch geordnet (Verfügungen des Wohlfahrtsamtes, Zeugnisse, Praktikumsberichte, Bewerbungen, Kündigungen, Besoldung) | Von/bis (>= x und <=y)
+NEU  V.J.c.402.:15.2. [ID 29, Dossier, E2, Eltern V.J.c.402.:15., S.3] Praktikanntinnen (Verfügungen des Wohlfahrtsamtes, Zeugnisse, Praktikumsbericht) | Von/bis (>= x und <=y)
+NEU  V.J.c.402.:15.3. [ID 30, Dossier, E2, Eltern V.J.c.402.:15., S.3] Hilfsangestellte (Anträge und Verfügungen) | Von/bis (>= x und <=y)
+NEU  V.J.c.402.:15.4. [ID 31, Dossier, E2, Eltern V.J.c.402.:15., S.3] Korrespondenz mit dem | Von/bis (>= x und <=y)
+        D: Wohlfahrtsamt
+NEU  V.J.c.402.:15.5. [ID 32, Dossier, E2, Eltern V.J.c.402.:15., S.3] Kontrollhefte des | Von/bis (>= x und <=y)
+        D: Personalbestandes
+NEU  V.J.c.402.:15.6. [ID 33, Dossier, E2, Eltern V.J.c.402.:15., S.3] Stellenverzeichnisse zum Voranschlag | Von/bis (>= x und <=y)
+NEU  V.J.c.402.:19.1. [ID 38, Dossier, E2, Eltern V.J.c.402.:19., S.3] Mitarbeit in Kommissionen / Heimleitertagungen | 
+        H: Kein Zeitraum gefunden.
+NEU  V.J.c.402.:19.2. [ID 39, Dossier, E2, Eltern V.J.c.402.:19., S.3] Anschaffungen | 
+        H: Kein Zeitraum gefunden.
+NEU  V.J.c.402.:19.3. [ID 40, Dossier, E2, Eltern V.J.c.402.:19., S.3] Mitgliedschaften | 
+        H: Kein Zeitraum gefunden.
+NEU  V.J.c.402.:19.4. [ID 41, Dossier, E2, Eltern V.J.c.402.:19., S.3] Bauliche Veränderungen | 
+        H: Kein Zeitraum gefunden.
+NEU  V.J.c.402.:19.5. [ID 42, Dossier, E2, Eltern V.J.c.402.:19., S.3] Zigarettenausgabe an die Mädchen Anhang | Von/bis (>= x und <=y)
+        D: Verweis auf andere Archivbestände
+        D: V.J. b.301. Aufnahmeprotokoll, 1913-1915
+        D: V.J. b.302. Kassabuch (Muster), 1912-1914
+        D: V.J. b.303. Journal-Hauptbuch, 1914-1926
+        D: V.J. b.304. Jahresrechnungen, 1929-1943
+        D: V.J. b.305. 17 Tagehefte von Insassen, 1915-1923
+        D: V.J. b.306. Debitoren-Journal (Muster), 1914-1923
+        D: V.J. b.307. Beiträge (an Institutionen ähnlicher Ausrichtung), 1918-1923
+        D: … (27 Zeilen)
+GEÄ  V.J.c.402.:1. [ID 1, Teilbestand, E1, Eltern -, S.1] Allgemeine Hinweise | 
+        Stufe: 'Dossier' => 'Teilbestand'
+        [Darin]
+           -1.1. Verweis auf andere Archivbestände
+           -1.2. Zur geschichtlichen Entwicklung des Mädchenheims
+           +
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => 'Kein Zeitraum gefunden (auch nicht in den Untereinheiten).'
+GEÄ  V.J.c.402.:4. [ID 6, Teilbestand, E1, Eltern -, S.1] Jahresberichte | Genau (=)
+        Stufe: 'Dossier' => 'Teilbestand'
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => 'Genau (=)'
+        bis: '1925' => ''
+        [Darin]
+           -4.1. Gedruckte Jahresberichte, 1914-1925
+           -4.2. Jahresberichte im Manuskript 1929-1945 Jahresbericht des Städtischen; Mädchenheims Tannenhof (mit Statistiken und Betriebsrechnungen) 1946-1979; Jahresberichte des Städtischen Mädchenheims Riesb
+           +
+        Prüfhinweise: '' => 'Untereinheiten reichen über den Zeitraum hinaus (1914–1945).'
+GEÄ  V.J.c.402.:8. [ID 12, Teilbestand, E1, Eltern -, S.1] Umgestaltung des Mädchenheims Tannenhof und Umzug nach Riesbach | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Teilbestand'
+        [Darin]
+           -8.1. Zur Frage der Umgestaltung des Tannenhofs an der Winterthurerstrasse 147
+           -8.2. Kauf und Umbau des Wohnhauses Neumünsterstrasse 2
+           -Umgestaltungsvorschläge/Korrespondenz; Pläne 1:50 des Wohnhauses Neumünsterstr. 2 (Juni 1943); Pläne 1:100 Umbauprojekt Neumünsterstr. 2 (Januar/Mai 1944); Pläne 1:20 Umbau Dachgeschoss (Februar 1948
+           +
+GEÄ  V.J.c.402.:14. [ID 20, Teilbestand, E1, Eltern -, S.2] Arbeitspapiere aus der Ära der Heimleiterin R. Hürlimann | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Teilbestand'
+        [Darin]
+           -14.1. Organigramme der Heimleitung 1965-1979 14.2. Stellenbeschreibungen
+           -Heimerzieherin (Gruppenleiterin); Heimgehilfin; Dienstzeiten
+           -14.3. Hausordnung; Tagesplan; Ämtli; Hauswäsche; Waschordnung; Waschplan
+           -Ausgangsregelung für Externe; Budgetposten
+           -14.4. Anamnese (Merkblätter
+           -Gesprächsleitfaden; Aktenauszug; Aktenkontrolle; Einholen von Auskünften
+           -14.5. Fallführung (Merkblätter); Anmeldeunterlagen
+           -Ärztlicher Fragebogen; Hinweise zur Fallführung; Elternbrief; Aufnahmebogen/-karte; Einweisung in die Buchhaltung Abrechnungsformulare; Unterlagen für die Erzieherin (Erhebungsbogen, Gesprächsleitfad
+           -14.6. Arbeitsrapporte der Erzieher und Erzieherinnen (Muster)
+           +
+GEÄ  V.J.c.402.:15. [ID 27, Teilbestand, E1, Eltern -, S.3] Personal | Genau (=)
+        Stufe: 'Serie' => 'Teilbestand'
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => 'Genau (=)'
+        bis: '1966' => ''
+        [Darin]
+           -15.1. Erzieherinnen (Gehilfin mit erzieherischen Aufgaben) alphabetisch geordnet (Verfügungen des Wohlfahrtsamtes, Zeugnisse, Praktikumsberichte, Bewerbungen, Kündigungen, Besoldung), 1946-1966
+           -15.2. Praktikanntinnen (Verfügungen des Wohlfahrtsamtes, Zeugnisse, Praktikumsbericht), 1940-1965
+           -15.3. Hilfsangestellte (Anträge und Verfügungen), 1930-1965
+           +
+        Prüfhinweise: '' => 'Untereinheiten reichen über den Zeitraum hinaus (1930–1966).'
+GEÄ  V.J.c.402.:16. [ID 34, Dossier, E1, Eltern -, S.3] Garten- und Bebauungspläne der Gartengruppe | Von/bis (>= x und <=y)
+        Signatur: 'V.J.c.402.16.' => 'V.J.c.402.:16.'
+        [Prüfhinweise]
+           +Signatur im Findmittel «V.J. c.402.16.» ohne Doppelpunkt – als «V.J.c.402.:16.» übernommen (wie die übrigen Signaturen), bitte prüfen.
+GEÄ  V.J.c.402.:17. [ID 35, Dossier, E1, Eltern -, S.3] Taschengeldzuteilung (2 Hefte) | Von/bis (>= x und <=y)
+        Signatur: 'V.J.c.402.17.' => 'V.J.c.402.:17.'
+        Prüfhinweise: '' => 'Signatur im Findmittel «V.J. c.402.17.» ohne Doppelpunkt – als «V.J.c.402.:17.» übernommen (wie die übrigen Signaturen), bitte prüfen.'
+GEÄ  V.J.c.402.:18. [ID 36, Dossier, E1, Eltern -, S.3] Beschwerden über das Heim und Antworten der Heimleiterin | Von/bis (>= x und <=y)
+        Signatur: 'V.J.c.402.18.' => 'V.J.c.402.:18.'
+        Prüfhinweise: '' => 'Signatur im Findmittel «V.J. c.402.18.» ohne Doppelpunkt – als «V.J.c.402.:18.» übernommen (wie die übrigen Signaturen), bitte prüfen.'
+GEÄ  V.J.c.402.:19. [ID 37, Teilbestand, E1, Eltern -, S.3] Diverses | Von/bis (>= x und <=y)
+        Signatur: 'V.J.c.402.19.' => 'V.J.c.402.:19.'
+        Stufe: 'Dossier' => 'Teilbestand'
+        [Darin]
+           -19.1. Mitarbeit in Kommissionen / Heimleitertagungen 19.2. Anschaffungen
+           -19.3. Mitgliedschaften
+           -19.4. Bauliche Veränderungen
+           -19.5. Zigarettenausgabe an die Mädchen
+           -Anhang
+           -Verweis auf andere Archivbestände
+           -V.J. b.301. Aufnahmeprotokoll, 1913-1915
+           -V.J. b.302. Kassabuch (Muster), 1912-1914
+           -V.J. b.303. Journal-Hauptbuch, 1914-1926
+           -V.J. b.304. Jahresrechnungen, 1929-1943
+           -V.J. b.305. 17 Tagehefte von Insassen, 1915-1923
+           -V.J. b.306. Debitoren-Journal (Muster), 1914-1923
+           -V.J. b.307. Beiträge (an Institutionen ähnlicher Ausrichtung), 1918-1923
+           -V.J. b.308. Insassenverzeichnis, 1928-1939/40
+           -V.J. b.309. Menus (Muster), 1941-1942
+           -V.J. c.401. Aufnahmebogen und Aufnahmekarten, 1914
+           -1. Schachtel, 1914-1924
+           -2. Schachtel, 1925-1929
+           -3. Schachtel, 1930-1934
+           -4. Schachtel, 1935-1940
+           -Verzeichnete Angaben: Eintrittsdaten (durch wen eingewiesen)
+           -Letzter Ort
+           -Geburtsdatum
+           -Beruf
+           -Familienverhältnisse (Erziehung)
+           -Geschwister
+           -Barschaft
+           -Gesundheit
+           -Anlass der Einlieferung (Verfügung)
+           -Austritt (Wohin?)
+           -V.J. c.17. Akten des Zentralsekretariates des Wohlfahrtsamtes b. 10. Mädchenheim Tannenhof, 1942-1945
+           -g. 13. Mädchenheim Riesbach, 1943-1947
+           +
+        Zeitraum-Quelle: 'Datumsspalte' => 'Untereinheiten'
+        Prüfhinweise: '' => 'Signatur im Findmittel «V.J. c.402.19.» ohne Doppelpunkt – als «V.J.c.402.:19.» übernommen (wie die übrigen Signaturen), bitte prüfen.'

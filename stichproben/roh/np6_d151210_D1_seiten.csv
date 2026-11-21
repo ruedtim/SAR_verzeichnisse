@@ -1,0 +1,107 @@
+seite;einheiten;geprueft;fehler;bemerkung
+1;0;ja;0;"Vorspann: Titelblatt, Übersicht 1.–11. (mit Zeiträumen); 15 Abschnitte der Übersicht = 15 Teilbestände, Titel und Zeiträume (Anm «1938/39–…») stimmen"
+2;0;ja;0;"Vorspann: Übersicht 12.–15. (14., 15. ohne Zeitraum; im Excel aus Untereinheiten)"
+3;0;ja;0;"Vorspann: Inhaltsverzeichnis 1.–2.5.; alle Nummern als Einheit vorhanden (Wortlaut teils abweichend vom Detail, Detail gilt)"
+4;0;ja;0;"Vorspann: Inhaltsverzeichnis 2.5.1–3.5.; alle Nummern vorhanden, «2.5.1» ohne Punkt = 2.5.1."
+5;0;ja;0;"Vorspann: Inhaltsverzeichnis 3.5.1.–4.1.4.; alle Nummern vorhanden"
+6;0;ja;0;"Vorspann: Inhaltsverzeichnis 4.1.5.–5.1.2.; alle Nummern vorhanden"
+7;0;ja;0;"Vorspann: Inhaltsverzeichnis 5.1.3.–7.4.3.; alle Nummern vorhanden («5.2.4», «7.2.1» ohne Punkt)"
+8;0;ja;0;"Vorspann: Inhaltsverzeichnis 8.–12.1.; alle Nummern vorhanden"
+9;0;ja;0;"Vorspann: Inhaltsverzeichnis 12.1.1.–15.; alle 208 Nummern von S. 1–9 im Excel vorhanden"
+10;7;ja;0;"1. – 1.5.1.: Grenze Vorspann/Detail richtig: «DETAILVERZEICHNIS» nicht importiert, erste Einheit 1.; 1.3. zwei Striche im PDF («- Almanach …,» / «- Direktion: …») – PDF-treu; «Siehe auch …» in Verwandte"
+11;2;ja;0;1.5.2. – 1.6.: ohne Befund
+12;8;ja;2;2. – 2.1.3.: 2.1.1. Teile 2–4: Titel = erstes Dokument, Zeitraum nur dessen Datum (IDs 14, 15)
+13;5;ja;0;"2.1.3. T2 – 2.2.1.: 2.1.3. Teile 2/3 titellose Fortsetzungen, Titel richtig; Teil 2 erbt 1953–1991, Darin 1946 (in Notizen, Zeile ID 182 erwähnt)"
+14;6;ja;0;"2.2.2. – 2.2.6.1.: ohne Befund (ID 23 «Front; ""Die Wahrheit …""» vertretbar)"
+15;5;ja;0;"2.2.6.2. – 2.2.7.3.: ohne Befund; 2.2.7.2. Genau 1971 bei Dokumenten 1969–1970 (Titeljahr, nur Notiz)"
+16;7;ja;0;"2.2.7.4. – 2.3.1.2.: ohne Befund; 2.3.1.1. Emil Oprecht Genau 04.1990 (Schätzung aus Einzeldatum, nur Notiz)"
+17;8;ja;0;"2.3.1.3. – 2.3.2.1. T2: ID 47 Serie 2.3.2.1. Folgefehler von ID 50 (Zeile S. 18); 2.3.1.6./7. «keine Unterlagen» mit Hinweis"
+18;7;ja;1;2.3.2.1. T3 – 2.3.2.2. T3: 2.3.2.1. Teil 4 «Zum Tod …» 1933–1945 statt ab 1961 (ID 50)
+19;10;ja;0;"2.3.2.2. T4 – 2.3.2.3. T8: 2.3.2.3. Teile 2–5 seit 15:43 in PDF-Reihenfolge (Regel G, besser); Teile 3–5 richtige Fortsetzungen"
+20;6;ja;0;2.3.2.3. T9 – 2.3.2.5. T2: ohne Befund
+21;7;ja;0;2.3.2.5. T3 – 2.3.2.7.: ohne Befund
+22;8;ja;1;2.3.2.7. T2 – 2.3.2.8. T4: 2.3.2.7. Teil 3 ohne Zeitraum («16. Heft 1967/68», ID 80)
+23;3;ja;0;2.3.2.8. T5 – 2.3.2.8. T7: ohne Befund
+24;6;ja;2;"2.3.2.8. T8 – 2.3.2.9. T5: 2.3.2.9. Teil 3 Genau 02.11.1957 (ID 93); Teil 5 Titel mit «Todesanzeigen» (ID 95); Teil-Nr. 2/3 seit 15:43 richtig"
+25;9;ja;1;2.3.2.9. T6 – 2.3.2.11. T2: 2.3.2.10. Teil 2 zwei Darin-Einträge verschmolzen (ID 99)
+26;11;ja;0;2.3.2.11. T3 – 2.4.1.2. T2: ohne Befund (leere Strich-Zeile im PDF ignoriert)
+27;3;ja;0;2.4.1.2. T3 – 2.4.1.2. T5: ohne Befund
+28;4;ja;0;"2.4.1.2. T6 – 2.4.1.2. T9: ohne Befund (fehlende Striche im PDF, «; »-Anhang vertretbar)"
+29;6;ja;0;2.4.1.2. T10 – 2.4.1.2. T15: ohne Befund
+30;3;ja;0;2.4.1.2. T16 – 2.4.1.2. T18: ohne Befund
+31;3;ja;0;2.4.1.2. T19 – 2.4.1.2. T21: ohne Befund
+32;6;ja;0;2.4.1.2. T22 – 2.4.2.1. T4: 2.4.2.1. Teile 2–4 seit 15:43 in PDF-Reihenfolge (Regel G, besser)
+33;4;ja;0;2.4.2.1. T5 – 2.4.2.1. T8: 2.4.2.1. Teil 5 richtige Fortsetzung von Teil 4, Teil-Nr. jetzt 5 (besser)
+34;3;ja;1;2.4.2.1. T9 – 2.4.2.1. T11: 2.4.2.1. Teil 11 Darin verschmolzen «… Rosenbusch - diverse …» (ID 147)
+35;3;ja;0;2.4.2.1. T12 – 2.4.2.1. T14: ohne Befund
+36;4;ja;0;"2.4.2.1. T15 – 2.4.2.2.: ohne Befund; Zahl «31» rechts (10 pt, x 542) = Streu-Seitenzahl, kein Inhalt; «2.4.2.2» ohne Punkt richtig"
+37;6;ja;0;2.4.2.2. T2 – 2.4.2.2. T7: ohne Befund (2.4.2.2. Teil 5: Datum mitten im Titel entfernt, vertretbar)
+38;2;ja;0;2.4.2.2. T8 – 2.4.2.2. T9: ohne Befund
+39;4;ja;0;2.4.2.2. T10 – 2.4.2.2. T13: ohne Befund
+40;1;ja;0;2.4.2.2. T14: ohne Befund
+41;3;ja;0;2.4.2.2. T15 – 2.4.2.2. T17: ohne Befund
+42;3;ja;0;2.4.2.2. T18 – 2.4.2.2. T20: ohne Befund
+43;4;ja;0;2.4.2.2. T21 – 2.4.3.2.: ohne Befund
+44;3;ja;0;2.4.3.3. – 2.4.4.: ohne Befund
+45;12;ja;1;2.5. – 2.5.2.3. T4: 2.5.1. Zeitraum aus Inhaltsverzeichnis 1938–1960, Darin bis 1999 (ID 182)
+46;6;ja;0;3. – 3.1.1.3.: ohne Befund
+47;3;ja;0;3.1.1.4. – 3.1.1.6.: ohne Befund («3.1.1.6» ohne Punkt richtig)
+48;4;ja;0;3.1.1.7. – 3.1.1.10.: ohne Befund («3.1.1.7» ohne Punkt richtig)
+49;3;ja;0;3.1.1.11. – 3.1.1.13.: ohne Befund (ID 205: Zeile ohne Strich über Seitenwechsel angehängt – PDF)
+50;5;ja;0;3.1.1.14. – 3.1.1.18.: ohne Befund («10. Kinder- …» keine Signatur, richtig)
+51;5;ja;1;3.1.1.19. – 3.1.2.1.: 3.1.1.21. Darin verschmolzen «… - diverse Formulare» (ID 216)
+52;3;ja;0;3.1.2.2. – 3.1.2.4.: ohne Befund
+53;15;ja;0;3.1.3. – 3.2.2.1.: ohne Befund
+54;5;ja;0;3.2.2.2. – 3.2.2.6.: ohne Befund
+55;5;ja;0;3.2.2.7. – 3.2.2.11.: ohne Befund
+56;6;ja;0;3.2.2.12. – 3.2.3.4.: ohne Befund
+57;6;ja;0;3.2.3.5. – 3.2.3.10.: ohne Befund
+58;4;ja;1;3.2.3.11. – 3.2.3.14.: 3.2.3.13. Darin verschmolzen «… Abo-Werbung - diverse …» (ID 261)
+59;6;ja;0;3.2.3.15. – 3.2.4.: ohne Befund
+60;12;ja;0;3.2.4.1. – 3.3.1.2.: ohne Befund
+61;4;ja;0;3.3.1.3. – 3.3.1.6.: ohne Befund
+62;3;ja;1;"3.3.1.7. – 3.3.1.9.: 3.3.1.9. «Opernhauses; Zürich» (ID 287)"
+63;7;ja;0;3.3.1.10. – 3.3.2.5.: ohne Befund
+64;9;ja;0;3.3.2.6. – 3.3.2.14.: ohne Befund
+65;8;ja;0;3.3.2.15. – 3.3.2.22.: ohne Befund
+66;7;ja;0;3.3.2.23. – 3.3.2.29.: ohne Befund
+67;14;ja;0;3.3.2.30. – 3.3.3.8.: 3.3.3.2. «B Personaldossiers, Teil 1/2»: Sammeleinheit + Teil 1 + Teil 2 (spalte_teil1_ab, gewollt)
+68;17;ja;0;3.3.3.9. – 3.3.3.21. T2: 3.3.3.10./3.3.3.21. wie 3.3.3.2. (Sammeleinheit + Teil 1/2, gewollt)
+69;9;ja;0;3.3.3.22. – 3.3.5.2.: ohne Befund («19. Juni 1947» keine Signatur, richtig)
+70;6;ja;1;3.3.5.2. T2 – 3.3.5.7.: 3.3.5.2. Teil 2 «Budget» 1961–1962, Darin bis 1968 (ID 359)
+71;6;ja;0;3.3.5.8. – 3.3.6.1.: ohne Befund
+72;7;ja;0;3.3.6.2. – 3.3.7.4.: ohne Befund
+73;9;ja;0;3.3.7.5. – 3.3.9.1.: ohne Befund (3.3.8. ohne Inhalt, Zeitraum aus Inhaltsverzeichnis)
+74;4;ja;0;3.3.9.2. – 3.3.9.5.: ohne Befund
+75;8;ja;0;3.3.9.6. – 3.4.1.1.: ohne Befund
+76;5;ja;0;3.4.1.2. – 3.4.2.3.: ohne Befund
+77;5;ja;0;3.4.2.4. – 3.4.2.8.: ohne Befund
+78;4;ja;0;3.4.2.9. – 3.4.2.12.: ohne Befund
+79;2;ja;0;3.4.3. – 3.4.3.1.: ohne Befund
+80;6;ja;0;3.4.3.2. – 3.4.4.3.: ohne Befund
+81;6;ja;1;3.4.4.4. – 3.4.4.9.: 3.4.4.7. Darin verschmolzen «… 1988 - statistisches …» (ID 424)
+82;5;ja;0;3.4.4.10. – 3.4.4.14.: ohne Befund
+83;7;ja;0;3.4.4.15. – 3.4.5.3.: ohne Befund
+84;6;ja;0;3.4.5.4. – 3.5.1.2.: ohne Befund
+85;4;ja;0;3.5.2. – 3.5.2.3.: ohne Befund (3.5.2.1./3.5.2.2. stark eingerückt, richtig erkannt)
+86;5;ja;1;"3.5.3. – 3.5.4.: 3.5.3.3. «Englischviertelstrasse; 9:» (ID 452)"
+87;2;ja;0;3.5.4.1. – 3.5.4.2.: ohne Befund
+88;1;ja;0;3.5.4.3.: ohne Befund
+89;6;ja;0;3.5.4.4. – 3.5.6.: 3.5.4.4. Teil 2 richtige Fortsetzung
+90;3;ja;0;3.5.6.1. – 3.5.6.3.: ohne Befund
+91;4;ja;0;"3.5.6.4. – 3.5.7.: ohne Befund; 3.5.6.4./3.5.6.6. Titeldatum enger als Darin (nur Notiz)"
+92;4;ja;0;3.5.7.1. – 3.5.7.4.: ohne Befund
+93;5;ja;0;"3.5.8. – 3.5.10.2.: ohne Befund; 3.5.8. Genau 1976, Darin 1975–1978 (Titeljahr, nur Notiz)"
+94;4;ja;0;3.5.11. – 3.5.12.: ohne Befund
+95;3;ja;0;3.6. – 3.6.1.1.: ohne Befund
+96;3;ja;0;3.6.1.2. – 3.6.1.4.: ohne Befund
+97;3;ja;0;3.6.1.5. – 3.6.1.7.: ohne Befund
+98;4;ja;0;3.6.1.8. – 3.6.1.11.: ohne Befund («8. Okt. 1980» keine Signatur, richtig)
+99;7;ja;0;3.6.2. – 3.6.5.1.: ohne Befund
+100;5;ja;0;3.6.5.2. – 3.6.5.3. T4: 3.6.5.3. Anm «erste Nennung: 1977–1993» (Regel F, richtig)
+101;6;ja;0;3.6.5.4. – 3.6.6.3. T2: 3.6.6.3. Anm «erste Nennung: 1978–1996» (Regel F, richtig)
+102;5;ja;0;3.6.6.3. T3 – 3.6.7.2.: ohne Befund
+103;6;ja;0;3.6.8. – 3.6.9.2.: ohne Befund
+104;6;ja;0;3.6.10. – 3.6.11.: ohne Befund
+105;5;ja;1;"3.6.12. – 3.6.13.3.: 3.6.13.2. «Friedrich; Schütze» (ID 534)"
+106;12;ja;0;"4. – 4.1.3.: ohne Befund; ID 547 (4.1.2.38., S. 115, Tippfehler für 4.1.3.38.) steht in der Excel-Reihenfolge nach 4.1.2.4. (Entscheid 5, Bereich D2)"

@@ -1,0 +1,35 @@
+D134644_scope_import.xlsx: Zeilen 89 -> 89; Titel 1, Darin 1, Prüfhinweise 1
+D140969_scope_import.xlsx: Zeilen 86 -> 93; Signatur 86, Nr. im PDF 86, Titel 84, Parent-ID 81, Ebene 81, Übergeordnete Signatur 81, Prüfhinweise 62, Darin 55, von 46, bis 35, PDF-Seite 31, Entstehungszeitraum 29, Zeitraum-Quelle 22, Umfang 12, Entstehungszeitraum, Anm. 10, Stufe 6
+D141_scope_import.xlsx: Zeilen 254 -> 254; Signatur 1, Prüfhinweise 1
+D149835_scope_import.xlsx: Zeilen 26 -> 19; von 19, Signatur 18, Titel 18, Nr. im PDF 18, Prüfhinweise 16, Entstehungszeitraum 15, bis 15, Zeitraum-Quelle 14, PDF-Seite 14, Darin 13, Stufe 6, Parent-ID 6, Ebene 6, Teil 6, Übergeordnete Signatur 6, Entstehungszeitraum, Anm. 5, Umfang 2
+D150689_scope_import.xlsx: Zeilen 299 -> 299; Prüfhinweise 3, Titel 2, Darin 2, Zeitraum-Quelle 2
+D151730_scope_import.xlsx: Zeilen 20 -> 42; Signatur 19, Titel 19, Nr. im PDF 19, von 18, bis 16, PDF-Seite 12, Entstehungszeitraum 8, Entstehungszeitraum, Anm. 8, Darin 7, Parent-ID 7, Ebene 7, Übergeordnete Signatur 7, Schachtel-Nr. 6, Stufe 5, Prüfhinweise 5, Zeitraum-Quelle 5, Teil 1
+D151761_scope_import.xlsx: Zeilen 6 -> 6; Signatur 1, Prüfhinweise 1
+D152390_scope_import.xlsx: Zeilen 10 -> 10; Signatur 1, Prüfhinweise 1
+D152400_scope_import.xlsx: Zeilen 7 -> 11; Stufe 1, Darin 1
+D152781_scope_import.xlsx: Zeilen 17 -> 17; bis 2, Titel 1, Entstehungszeitraum 1, Darin 1, Zeitraum-Quelle 1, Prüfhinweise 1
+D152817_scope_import.xlsx: Zeilen 704 -> 704; Titel 38, Übergeordnete Signatur 34, Prüfhinweise 31, Zeitraum-Quelle 30, Signatur 29, Nr. im PDF 29, Parent-ID 29, PDF-Seite 28, bis 27, von 26, Stufe 26, Teil 26, Entstehungszeitraum, Anm. 24, Ebene 21, Darin 6, Entstehungszeitraum 4
+D176721_scope_import.xlsx: Zeilen 191 -> 191; Signatur 4, Prüfhinweise 4
+D176772_scope_import.xlsx: Zeilen 22 -> 22; Prüfhinweise 1
+D1874_scope_import.xlsx: Zeilen 303 -> 105; Signatur 66, Titel 66, Nr. im PDF 66, PDF-Seite 66, Parent-ID 65, Übergeordnete Signatur 65, Ebene 56, Prüfhinweise 54, Darin 31, Stufe 16, Entstehungszeitraum 7, von 7, Zeitraum-Quelle 7, bis 2, Teil 1
+D2270_scope_import.xlsx: Zeilen 16 -> 16; Signatur 1, Prüfhinweise 1
+D2620_scope_import.xlsx: Zeilen 139 -> 139; Darin 1
+D2687_scope_import.xlsx: Zeilen 2 -> 2; Darin 2, Signatur 1, Titel 1, Entstehungszeitraum 1, von 1, bis 1, Entstehungszeitraum, Anm. 1, Nr. im PDF 1, Zeitraum-Quelle 1, Prüfhinweise 1
+D2737_scope_import.xlsx: Zeilen 5 -> 8; Darin 3, Signatur 3, Titel 3, von 3, Entstehungszeitraum, Anm. 3, Nr. im PDF 3, Prüfhinweise 3, bis 2
+D2745_scope_import.xlsx: Zeilen 2 -> 2; bis 2, Darin 2, Signatur 1, Titel 1, Entstehungszeitraum 1, Nr. im PDF 1, PDF-Seite 1, Zeitraum-Quelle 1, Prüfhinweise 1
+D2850_scope_import.xlsx: Zeilen 54 -> 71; Signatur 52, Titel 52, Nr. im PDF 52, von 50, bis 45, Darin 41, Entstehungszeitraum, Anm. 23, Prüfhinweise 19, PDF-Seite 14, Zeitraum-Quelle 8, Parent-ID 7, Übergeordnete Signatur 7, Ebene 6, Stufe 5, Entstehungszeitraum 3, Teil 1
+D3256_scope_import.xlsx: Zeilen 10 -> 5; Darin 5, Schachtel-Nr. 4, Signatur 4, Titel 4, Nr. im PDF 4, Stufe 3, Zeitraum-Quelle 3, bis 3, PDF-Seite 3, Entstehungszeitraum, Anm. 2, Parent-ID 2, Ebene 2, Teil 2, Übergeordnete Signatur 2, Prüfhinweise 2, von 1
+D3313_scope_import.xlsx: Zeilen 50 -> 50; Titel 1, bis 1, Darin 1, Prüfhinweise 1
+D3530_scope_import.xlsx: Zeilen 69 -> 8; bis 2, Darin 2, Entstehungszeitraum 1, von 1, Titel 1, Stufe 1, Umfang 1, Nr. im PDF 1, PDF-Seite 1, Zeitraum-Quelle 1, Prüfhinweise 1
+D3677_scope_import.xlsx: Zeilen 98 -> 98; Titel 1, Entstehungszeitraum, Anm. 1, Darin 1, Zeitraum-Quelle 1, Prüfhinweise 1
+D3698_scope_import.xlsx: Zeilen 24 -> 25; Signatur 18, Titel 18, Nr. im PDF 18, bis 14, von 13, Parent-ID 11, Umfang 9, Ebene 7, Übergeordnete Signatur 7, Darin 5, Stufe 5, Entstehungszeitraum, Anm. 3, PDF-Seite 2
+D3774_scope_import.xlsx: Zeilen 34 -> 59; Übergeordnete Signatur 28, Signatur 25, Prüfhinweise 24, Titel 24, Schachtel-Nr. 24, Nr. im PDF 24, von 23, PDF-Seite 23, bis 19, Parent-ID 19, Darin 18, Ebene 17, Entstehungszeitraum 11, Entstehungszeitraum, Anm. 11, Zeitraum-Quelle 8, Stufe 6, Teil 1
+D3776_scope_import.xlsx: Zeilen 18 -> 20; Signatur 17, Titel 17, Nr. im PDF 17, Darin 14, von 11, bis 10, Zeitraum-Quelle 10, Prüfhinweise 10, Entstehungszeitraum 9, Parent-ID 6, Ebene 6, Übergeordnete Signatur 6, Entstehungszeitraum, Anm. 3, PDF-Seite 3, Stufe 2, Umfang 2
+D3810_scope_import.xlsx: Zeilen 21 -> 21; bis 1, Darin 1
+D3816_scope_import.xlsx: Zeilen 125 -> 125; Signatur 8, Prüfhinweise 8
+D3826_scope_import.xlsx: Zeilen 23 -> 20; Titel 20, von 20, Signatur 19, Nr. im PDF 19, bis 16, Prüfhinweise 9, Darin 6, Entstehungszeitraum 5, Stufe 3, PDF-Seite 3, Parent-ID 3, Ebene 3, Teil 3, Übergeordnete Signatur 3, Zeitraum-Quelle 2
+D3828_scope_import.xlsx: Zeilen 99 -> 31; von 29, Darin 28, Titel 28, Nr. im PDF 28, bis 27, Signatur 26, Parent-ID 26, PDF-Seite 23, Prüfhinweise 16, Zeitraum-Quelle 11, Übergeordnete Signatur 10, Ebene 8, Teil 8, Entstehungszeitraum 7, Stufe 6, Entstehungszeitraum, Anm. 6, Umfang 2
+D3951_scope_import.xlsx: Zeilen 8 -> 8; Titel 1, Darin 1, Prüfhinweise 1
+D448_scope_import.xlsx: Zeilen 14 -> 13; Signatur 8, Titel 8, von 8, bis 8, Darin 8, Nr. im PDF 8, Verwandte Verzeichnungseinheiten 5, Zeitraum-Quelle 3, Prüfhinweise 3, Entstehungszeitraum 2, Stufe 1, Parent-ID 1, Ebene 1, Teil 1, Übergeordnete Signatur 1
+D845_scope_import.xlsx: Zeilen 202 -> 202; Signatur 2, Prüfhinweise 2
+Dateien je Spalte: {'Titel': 23, 'Darin': 26, 'Prüfhinweise': 30, 'Signatur': 23, 'Stufe': 15, 'bis': 20, 'Umfang': 6, 'Nr. im PDF': 17, 'Zeitraum-Quelle': 18, 'Parent-ID': 13, 'Ebene': 13, 'Übergeordnete Signatur': 13, 'von': 16, 'Entstehungszeitraum': 15, 'PDF-Seite': 14, 'Entstehungszeitraum, Anm.': 13, 'Teil': 10, 'Schachtel-Nr.': 3, 'Verwandte Verzeichnungseinheiten': 1}

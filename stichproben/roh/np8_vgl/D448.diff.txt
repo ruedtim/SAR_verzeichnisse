@@ -1,0 +1,19 @@
+### D448: vorher 14 Einheiten, nachher 13 Einheiten
+WEG  V.B.c.57.:10./T2 [ID 7, Dossier, E2, Eltern V.B.c.57.:10., S.2] Passiver Luftschutz | Von/bis (>= x und <=y)
+        D: Passiver Luftschutz, 1931 – 1947
+        D: (2 Schachteln)
+GEÄ  V.B.c.57.:5. [ID 5, Dossier, E1, Eltern -, S.2] Behelfsmässiger Luftschutz | Von/bis (>= x und <=y)
+        Verwandte Verzeichnungseinheiten: 'Siehe auch unten Aktiver Luftschutz V.B. c.57.:6. und Passiver Luftschutz' => 'Siehe auch unten Aktiver Luftschutz V.B. c.57.:6. und Passiver Luftschutz V.B. c.57.:10.'
+GEÄ  V.B.c.57.:10. [ID 10, Dossier, E1, Eltern -, S.2] Passiver Luftschutz | Von/bis (>= x und <=y)
+        Titel: '[ohne Titel]' => 'Passiver Luftschutz'
+        Stufe: 'Serie' => 'Dossier'
+        [Darin]
+           -
+           +Passiver Luftschutz, 1931 – 1947
+           +(2 Schachteln)
+        Verwandte Verzeichnungseinheiten: '' => 'Siehe auch oben Behelfsmässiger Luftschutz V.B. c.57.:5. und Aktiver Luftschutz V.B. c.57.:6.'
+        Nr. im PDF: 'V.B. c.57.:10.' => '10.'
+        Zeitraum-Quelle: 'Untereinheiten' => 'Datumsspalte'
+        Prüfhinweise: 'Kein Titel erkannt.' => ''
+GEÄ  V.B.c.57.:6. [ID 6, Dossier, E1, Eltern -, S.2] Aktiver Luftschutz | Von/bis (>= x und <=y)
+        Prüfhinweise: 'Nummerierung springt: nach 10 folgt 6. Möglicher Tippfehler in der Signatur.' => ''

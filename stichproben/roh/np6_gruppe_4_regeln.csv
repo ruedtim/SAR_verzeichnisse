@@ -1,0 +1,107 @@
+regel;pdf;id;signatur;seite;urteil;kurz
+I;D1180;64;V.E.c.53.:11.9.;8;besser;«vom 19. / 20. April 1959» → 19.04.–20.04.1959 (vorher nur 20.04.), Titel bleibt vollständig (nach «vom»)
+I;D1180;60;V.E.c.53.:11.5.;8;besser;23.06.–24.06.1956
+I;D1180;84;V.E.c.53.:11.29.;10;besser;«vom 13 – 15. September 1969» (ohne Punkt) → 13.09.–15.09.1969
+I;D1180;164;V.E.c.53.:11.109.;17;besser;"16.06.–17.06.1979; alle 27 Titel «vom N. / M.» in D1180 per Skript richtig"
+I;D1180;78;V.E.c.53.:11.23.;10;gleich;«Jugendfest 1968 … vom 22. / 23. Juni 1968» bleibt = 1968 (Mehrere Zeitangaben), Anm jetzt vollständig
+I;D1180;151;V.E.c.53.:11.96.;16;gleich;Folgezeile «– 18. Juni 1978» weiter Spalte, unverändert (Z126)
+I;D438;89;V.B.c.52.:6.2.2.;4;besser;Spalte «Juni – August 1943» → 06.–08.1943, Titel ohne Datum
+I;D438;—;V.B.c.52.:6.2.1.–6.6.1. (125 Einheiten);4–9;besser;per Skript: alle 125 Spaltendaten «Monat – Monat Jahr» = von/bis, keine Titelreste ausser 6.2.1.
+I;D438;88;V.B.c.52.:6.2.1.;4;schlechter;Titel «… vom Jahrhundert», «16. bis 19.» als Tage in die Anm gezogen (neue Zeile)
+I;D438;99;V.B.c.52.:6.2.12.;5;besser;Klammerzusatz bleibt im Titel, 09.–10.1944
+I;D438;126;V.B.c.52.:6.2.39.;5;besser;«XV. bis XX. Jahrhundert» bleibt im Titel, 08.–10.1947
+I;D438;148;V.B.c.52.:6.2.61.;6;besser;06.–07.1950 statt 1400–07.1950, Titel «… Thing-Dynastien 1400 – 1750 …» ganz
+I;D438;156;V.B.c.52.:6.2.69.;6–7;besser;«Swissair: Das Flugbild der Schweiz» (oben S. 7) jetzt Darin statt hinter dem Datum im Titel
+I;D438;130;V.B.c.52.:6.2.43.;6;besser;02.–04.1948 (Spalte) statt 1798–1948 aus dem Titel
+I;D438;205;V.B.c.52.:6.4.1.;8;besser;Titel «Zürich um 1900», 04.–10.1950 statt 1900–10.1950
+I;D438;195;V.B.c.52.:6.2.108.;8;besser;Titel «Zürcher Künstlerinnen stellen aus» richtig (Anzeichen «endet aus» in titelschnitt.csv falsch-positiv)
+I;D140969;15;VII.80.:15.;2;besser;«April – Dez. 1936» → 04.–12.1936, Titel «Allgemeine Akten»
+I;D10675;532;V.F.c.28.:745.16;18;besser;«13./14. April 1987» → 13.04.–14.04.1987
+I;D10675;538;V.F.c.28.:745.22;19;besser;07.10.–08.10.1987
+I;D150589;147;VII.142.:2.2.2.22.;82;besser;30.05.–31.05.1950
+I;D150589;382;VII.142.:2.2.9.5.;90;besser;29.09.–30.09.1964
+I;D150589;383;VII.142.:2.2.9.6.;90;gleich;«Städtetag 1964 … 9./10. Oktober 1964» bleibt = 1964 (Mehrere Zeitangaben), Anm vollständig
+I;D150589;974;VII.142.:7.6.27.;117;besser;«27. Januar / 26. Juli 1942» → Beginn 27.01.1942
+I;D3018;128;VII.174.:06.1.4.;49;schlechter;«ca.1890- / 1964» (Jahr umbrochen an den linken Rand): 1890– offen, ca. nur in Anm, «1964» eigener Darin-Eintrag (Fundzeile Z162 von Gruppe 2, keine neue Zeile)
+I;D3018;147;VII.174.:06.6.9.;56;besser;«1920. - 1963» → 1920–1963, Titel sauber, Hinweis «Mehrere Zeitangaben» weg
+I;D3466;129;VII.308.C.a.:143.;10;besser;"«1924 / 25» → 1924–1925 (Datumsspalte, Anm «1924 / 25»); 191 Titel per Skript geprüft"
+I;D3466;18;VII.308.C.a.:57.;2;besser;1909–1914
+I;D3466;62;VII.308.C.a.:125. Teil 2;6;besser;1920–1921, Titel «Powell-Duffryn … Dampfturbinenfundamente»
+I;D3466;416;VII.308.C.a.:274.;36;besser;1927–1929 statt 1926–1927
+I;D3466;596;VII.308.C.a.:357.;50;besser;1932–1933, Titel «… Hotel Tagesrapporte»
+I;D3466;86;VII.308.C.a.:131.;7;gleich;«1921 & / 1922» weiter nicht erkannt (Z246 teilweise)
+I;D3466;963;VII.308.C.a.:503. Teil 2;79;gleich;PDF-Tippfehler «1940 / 14» bleibt im Titel, Zeitraum 1940–1941 von der Serie
+I;D3466;332;VII.308.C.a.:237. Teil 3;28;besser;schmaler Spaltenrand: «… Maschinenfabrik» / «Oerlikon» jetzt ein Eintrag (ebenso Teil 4, 6, 9–11)
+I;D3466;593;VII.308.C.a.:354.;50;besser;umbrochene Planliste jetzt ein Eintrag (ebenso :353., :355., :356.)
+I;D3466;1039;VII.308.C.a.:532.;88;besser;«… von Jul.» / «Hartmann …» / «& Cie Baden» zusammengeführt
+I;D3466;1045;VII.308.C.a.:535.;89;besser;«… Ingenieurbüro Schubert» / «& Schwarzenbach …» zusammengeführt
+I;D3466;1054;VII.308.C.a.:541.;90;besser;«… Ingenieurbüro P.» / «Soutter …» zusammengeführt
+I;D3466;978;VII.308.C.a.:515.;81;besser;«… Th. Bell» / «Kriens» zusammengeführt
+I;D3466;365;VII.308.C.a.:252.;31;besser;2. Zeile «Société d’Eléctricité de Paris» aus dem Titel ins Darin wie bei den übrigen Einheiten (ebenso :246., :309. T2, :343., :383., :528., :537. T2, :559.)
+I;D3466;178;VII.308.C.a.:166.;15;besser;Darin getrennt «… Rühle & Kern» / «Pausen und Skizzen zum Projekt 1924» (ebenso :213.)
+I;D3466;342;VII.308.C.a.:239.;29;schlechter;Darin «… Büros» + «Eisenbetonpläne …» verschmolzen (neue Zeile, 14 Einheiten)
+I;D3466;389;VII.308.C.a.:261.;33;schlechter;zwei Paare verschmolzen, u. a. «Hochbau: …» + «Maschinenhaus: Pläne 1:100»
+I;D3466;392;VII.308.C.a.:263.;34;schlechter;«Wohn- und Geschäftshaus Schaffhauserplatz 10» + «Vertrag mit Offerten …» verschmolzen
+I;D3466;420;VII.308.C.a.:275.;36;schlechter;«4. Dach zwischen Kohleturm & Maschinenbahn» + «Pläne Locher & Co» verschmolzen
+I;D3466;300;VII.308.C.a.:230.;25;schlechter;«Ofenanlagen … diverse Kanäle» + «Abrechnung, …» verschmolzen (im PDF kein Absatz, Zeile ohne Komma)
+I;D3466;1032;VII.308.C.a.:528. Teil 2;87;schlechter;«… Originalskizzen und Aufnahmen» + «Senkungen der Verwaltungsgebäude …» verschmolzen
+I;D3466;1086;VII.308.C.a.:549.;94;schlechter;«Neubau … neue Kanalisation» + «Kesselhaus, Pläne der Baustelle …» verschmolzen
+I;D3466;361;VII.308.C.a.:249.;30–31;schlechter;«Rohrkanal» (Inhaltszeile S. 31) jetzt im Titel (neue Zeile)
+I;D3466;333;VII.308.C.a.:237. Teil 4;28;schlechter;Ortsname «Court-» / «St.Etienne»: zweiter Teil jetzt eigener Darin-Eintrag (neue Zeile, auch :283., :461.)
+I;D2935;53;VII.14.:2.16.;7;besser;«30. September / 3. Oktober 1889» → 30.09.–03.10.1889 (Z21)
+I;D2935;60;VII.14.:2.23.;7;besser;«September/Oktober 1889» → 09.–10.1889
+I;D2935;207;VII.14.:5.5.;19;besser;«19. Mai / 22. Juni 1888» → 19.05.–22.06.1888
+I;D406;11;V.B.c.3.:11.;1;besser;«2./3. April 1949» → 02.04.–03.04.1949, Titel sauber (Z114)
+I;D3672;1341;VII.389.:2.3.1.;45;besser;«Juli / August 1930» → 07.–08.1930
+I;D3672;61;VII.389.:1.1.59.;5;schlechter;Briefdatum 28.2.1932 durch Inhaltsangabe «März / April 1932» ersetzt (neue Zeile)
+I;D149628;2559;VII.12.B.:20.1.3.5.;368;besser;«17. / 19. Mai 1974» → 17.05.–19.05.1974
+I;D149628;720;VII.12.B.:6.5.3.;151;besser;07.06.1980–04.12.1983, Anm vollständig
+I;D149628;3262;VII.12.B.:23.1.1.188.;424;gleich;"Saison 1940–1941 → Aufführungstage 12.–14.06.1941 (Titel), Anm Saison; Einzeltermine (z. B. 23.1.1.912. «5. Juni 1990») behalten die Saison – uneinheitlich, kein Widerspruch zum PDF"
+I;D149628;3354;VII.12.B.:23.1.1.280.;430;schlechter;«1./ 5./ 7. Juni 1946» → 05.06.–07.06.1946, 1. Juni fehlt (neue Zeile)
+I;D149628;4872;VII.12.B.:26.2.4.;555;schlechter;«Sept./Okt. 1935» ersetzt die um 1938 erweiterte Spalte: 09.–10.1935 (neue Zeile)
+I;D9983;208;VII.12.A.:5.8.1.;22;schlechter;Zeitraum 06.–07.01.1835 richtig, Titel endet aber «…, Zürich, den (4 Exemplare)» (neue Zeile, gering)
+I;D2975;30;VII.153.:1.4.1.;2;besser;«1917 / 18» → 1917–1918
+I;D3761;23;VII.429.:3.14.;3;besser;"Spalte «Juli/Dez. 1991» → 07.–12.1991; «1988 bis Ende Juni 1991» bleibt als Thema im Titel"
+I;D258;12;V.A.c.22.:12.;2;besser;«4./7. Dez. 1911» → 04.–07.12.1911, Datum aus der Titelmitte entfernt
+I;D258;9;V.A.c.22.:9.;1;gleich;"02.–03.09.1911 richtig; «Städtetages in Glarus» im Darin = bekannter offener Punkt D258 9."
+I;D4058;104;VII.151.:19.11.3.;16;besser;Darin «19. Januar / 14. Februar 1895» → 19.01.–14.02.1895 (Schätzung)
+I;D3067;78;VII.191.:VIII.B.8.;28;gleich;Darin-Spaltendatum «um 1907 – 1908» wird nicht mehr angehängt, weil «ungef. 1907 / 08» jetzt als 1907–1908 gelesen wird (_mit_zusatz Z. 2594) – nur das Duplikat entfällt
+J;D2975;8;VII.153.:1.2.3.;1;besser;«SS 1907» bleibt im Titel (vorher «…, SS»)
+J;D2975;6;VII.153.:1.2.1.;1;besser;«zwischen WS 1907 / 08und SS 1908» bleibt ganz («08und» schon im PDF-Text)
+J;D151217;96;VII.416.:3.3.7.;6;besser;«Sommersemester 1988» bleibt
+J;D152817;418;VI.SB.C.109.:10;17;besser;«Heft 10: Lichtverleger 2. Semester 1907»
+J;D149628;4885;VII.12.B.:26.2.17.;557;besser;«36. Jg. 1907 – 48. Jg. 1919» bleibt ganz
+J;D10585;243;VII.510.:8.5.3.;20;besser;«… dat. Nauplia, den 24. Oktober 1828, in» statt «den, in» (Rest «, in» wegen Folgezeile «in: …», Muster wie Z46)
+J;D2947;68;VII.144.:6.5.;7;besser;"kein «;» mehr am Titelende"
+J;D149888;153;VII.159.:10.1.34.;31;besser;«id., Zürich / Sechseläuten» ohne «/»-Rest, = 1897
+J;D150589;1520;VII.142.:17.49.;149;besser;«(Db 1322)» kein Jahr mehr: = 1965 statt 1322–1965 (ebenso 11 weitere 17.x)
+J;D150589;1388;VII.142.:15.1.19.;140;besser;historisches «14. September 1354» nicht mehr unter den Zeitangaben
+J;D150589;1474;VII.142.:17.3.;146;gleich;«(Bb 1686)» weiter Jahr (nur Nummern vor 1661 verworfen) → 1686–1946 (neue Zeile, vor 13:15)
+J;D3647;17;VII.381.:5.4.;2;besser;= 01.05.1851 (Jubelfeier) statt 01.05.1351
+J;D2657;1;V.L.208.;1;besser;Bestand 1963–2005 statt 1805–2005 («gegründet 1805»), = Online-Archiv
+J;D2958;14;VII.149.:5.1.;2;gleich;«1853 – ca. 1873» bleibt im Titel (wie 13:15)
+J;D3793;197;VII.55.:5.8.23.;27;schlechter;Titel endet «(vom» – Klammer verhindert die Ausnahme für «vom» (neue Zeile, gering)
+J;D3672;1419;VII.389.:4.31.;48;gleich;"«… 1937/» am Titelende unverändert (zweizeilige Spalte; neue Zeile vor 13:15)"
+K;D3581;2;VII.352.:1.1.;1;besser;Titel «Jahres-Abschlüsse», beide datierten Einträge im Darin (Z339)
+K;D867;5;V.C.c.81.:5.;1;besser;Titel «Verschiedene Probleme», alle 14 Einträge mit Datum im Darin
+K;D152817;630;VI.SB.D.7.:1-2;31;besser;Titel «b) Lehrer», 5 datierte Einträge, «Besoldungen, 1841-1932» wieder vollständig (Z297)
+K;D2850;29;VII.109.:29.;4;besser;Titel «Bahngesellschaft Zürich-Uetliberg», «Protokolle … 1935 – 1962» und «Akten, 1909 – 1962» im Darin
+K;D3271;20;VII.24.:3.4.2.;8;gleich;Untertitel «Vermietung, Verpachtung, … Varia 1873 bis 1902» bleibt im Titel (soll)
+K;D152781;13;VII.239.:3.3.;3;besser;"Titel «Manuskripte» statt Titel der Gruppe (Z294; Darin-Trennung «… Nichte» / «Olga Dubs-Lüssi (1989)» bleibt)"
+K;D149628;3910;VII.12.B.:23.1.1.836.;470;besser;ganze Werkliste als Titel (Z284)
+K;D149628;3981;VII.12.B.:23.1.1.907.;476;besser;ganze Werkliste als Titel (Z284)
+K;D149628;3830;VII.12.B.:23.1.1.756.;464;besser;kein Schnitt mehr nach «… Christoph Willibald Gluck»
+K;D149628;3906;VII.12.B.:23.1.1.832.;470;besser;ganzer Eintrag Titel wie 873. (2 Namen: Bernstein, Allerödder)
+K;D149628;3817;VII.12.B.:23.1.1.743.;463;gleich;«Aufführungen des Internationalen Opernstudios:» jetzt mit der ganzen Werkliste im Titel (Hinweis langer Titel) – vertretbar, vorher Kopf + Darin
+K;D149628;3977;VII.12.B.:23.1.1.903.;476;gleich;"ganzer Eintrag Titel; «1989-1990» (Spalte) steht wie vorher im Darin jetzt mitten im Titel, Zeitraum gleich"
+K;D3316;30;VII.255.:1.29.;4;besser;Literaturangabe nicht mehr nach «Hans Schulthess:» geteilt, «2 Exemplare» im Darin
+L;D3466;1009;VII.308.C.a.:525. Teil 2;85;besser;«dito» im Darin statt im Titel (ebenso Teil 3–18, 20: 18 Fälle)
+L;D3466;1027;VII.308.C.a.:525. Teil 20;86;besser;wie Teil 2
+L;D3466;1026;VII.308.C.a.:525. Teil 19;85–86;gleich;"«dito» nach Seitenwechsel bleibt im Titel (wie 11:30; neue Zeile, vor 13:15)"
+M;D408;4;V.B.c.32.:1.2.1.;1;besser;Hinweis «Nummer 1 kommt … zweimal vor» weg (Z357)
+M;D408;14;V.B.c.32.:1.3.;1;besser;«nach 1 folgt 3» statt «nach 10 folgt 3. Möglicher Tippfehler»
+M;D408;21;V.B.c.32.:1.10.1.;1;besser;irreführender Hinweis «nach 9 folgt 1» weg (ebenso 1.20.1., 1.33.1., 1.40.1., 1.41.1., 1.46.1.)
+M;D2857;358;VII.111.:1.3.;14;besser;Hinweis «Nummer 3 … zweimal» weg (Z225)
+M;D150589;126;VII.142.:2.2.2.1.;82;besser;"«nach 17 folgt 1» weg (2.2.1./2.2.2. fehlen im PDF; ebenso 2.2.3.1.–2.2.9.0.)"
+M;D152817;393;VI.SB.C.104.;16;besser;«nach 102 folgt 104» statt «nach 5 folgt 104»
+M;D10744;6;V.F.c.29.:430.1.023.3.;1;gleich;zutreffende Sprung-Hinweise «nach 1 folgt 3»/«nach 4 folgt 6» (023.2/023.5 fehlen im PDF) entfallen mit dem falschen «nach 22 folgt 1» – nur Hinweise

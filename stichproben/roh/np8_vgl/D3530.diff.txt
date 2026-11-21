@@ -1,0 +1,200 @@
+### D3530: vorher 69 Einheiten, nachher 8 Einheiten
+WEG  VII.327.:3./T2 [ID 9, Dossier, E2, Eltern VII.327.:3., S.34] Inventare | Von/bis (>= x und <=y)
+        D: Geschlechter-Register [der Sammlung Walser-Battaglia], Geschlechter grobalphabetisch geordnet, handschriftlich, o. O. u. J.
+        D: 34 x 21 x 2 cm (Anmerkungen in roter Farbe: W = Wappen, We-Be = Wappenbeschrieb, N = Auszüge aus Wappenbuch oder andere leicht aufzufindende Notizen, E = eigene Forschungen)
+        D: Mario von Moos, Verzeichnis der heraldischen und genealogischen Forschungen des Aargauer Heraldikers Heinrich Walser-Battaglia im Besitze der Genealogisch-Heraldischen Gesellschaft Zürich, maschinensc
+        D: Mario von Moos, Der genealogische Nachlass von Dr. Konrad Schulthess 1890 - 1980, von Zürich, maschinenschriftliches Manuskript, Fehraltorf 1981
+        D: Stadtarchiv Zürich VII. 327., Detailverzeichnis
+WEG  VII.327.:4. [ID 10, Dossier, E1, Eltern -, S.31] Gottfried Kellers Vorfahren der Vaterseite. | Genau (=)
+        D: In: Schweizer Familienforscher 26, 1959, S. 1-23, 140-142, 159
+WEG  VII.327.:5. [ID 11, Dossier, E1, Eltern -, S.31] Anna Barbara Müller, Gottfried Kellers mütterliche Urgrossmutter. | Genau (=)
+        D: In: Schweizer Familienforscher 26, 1959, S. 23-24
+WEG  VII.327.:6. [ID 12, Dossier, E1, Eltern -, S.31] Eine Kette von 11 Ehen. | Genau (=)
+        D: In: Schweizer Familienforscher 26, 1959, S. 24-27, 144
+WEG  VII.327.:7. [ID 13, Dossier, E1, Eltern -, S.31] Salomon Gessners zweiundsechzig Ahnen. | Genau (=)
+        D: In: Schweizer Familienforscher 26, 1959, S. 51-56.
+        D: Auch in: Familienarchiv Gessner, Nr. 4, Okt. 1959, S. 44-51
+WEG  VII.327.:8. [ID 14, Dossier, E1, Eltern -, S.31] Badische Kirchenbücher in der Schweiz (Altenburg, Kadelburg, Reckingen). | Genau (=)
+        D: In: Familie und Volk 8, 1959, S. 346-347
+WEG  VII.327.:9. [ID 15, Dossier, E1, Eltern -, S.31] Schweizer in Lahr (Baden). | Genau (=)
+        D: In: Schweizer Familienforscher 27, 1960, S 16
+WEG  VII.327.:10. [ID 16, Dossier, E1, Eltern -, S.31] Bäbe Schulthess (geb. Wolf) und ihre Vorfahren. | Genau (=)
+        D: In: Schweizer Familienforscher 27, 1960, S. 35-41
+WEG  VII.327.:11. [ID 17, Dossier, E1, Eltern -, S.31] Johanna Spyri in genealogischer Sicht. | Genau (=)
+        D: In: Schweizer Familienforscher 27, 1960, S. 41-49
+WEG  VII.327.:12. [ID 18, Dossier, E1, Eltern -, S.31] Die Ahnen des Dichters Heinrich Leuthold (1827-1879). | Genau (=)
+        D: In: Schweizer Familienforscher 28, 1961, S. 1-7
+WEG  VII.327.:13. [ID 19, Dossier, E1, Eltern -, S.31] Bertram de Born, Notiz im Kirchenbuch Rheinau. | Genau (=)
+        D: In: Schweizer Familienforscher 28, 1961, S. 22
+WEG  VII.327.:14. [ID 20, Dossier, E1, Eltern -, S.31] Reformierte Ortsfremde im Sterberegister von Otelfingen | Von/bis (>= x und <=y)
+        D: In: Schweizer Familienforscher 28, 1961, S. 43-53
+WEG  VII.327.:15. [ID 21, Dossier, E1, Eltern -, S.31] „Tell“ aus Italien. | Genau (=)
+        D: In: Schweizer Familienforscher 28, 1961, S. 102
+WEG  VII.327.:16. [ID 22, Dossier, E1, Eltern -, S.32] Stammen die Holbein aus Uri? | Genau (=)
+        D: In: Familie und Volk 10, 1961, S. 382-384
+WEG  VII.327.:17. [ID 23, Dossier, E1, Eltern -, S.32] Die Ahnen von Goethes Freund Heinrich Meyer | Von/bis (>= x und <=y)
+        D: In: Schweizer Familienforscher 29, 1962, S. 1-10
+WEG  VII.327.:18. [ID 24, Dossier, E1, Eltern -, S.32] Zur Einwanderung von Schweizern in Schriesheim (Baden). | Genau (=)
+        D: In: Schweizer Familienforscher 29, 1962, S. 43-45
+WEG  VII.327.:19. [ID 25, Dossier, E1, Eltern -, S.32] Anregung zum Studium (oder zur Bestimmung) des „Budenberg“ Teppichs. | Genau (=)
+        D: In: Archivum heraldicum 76, 1962, S. 33-34
+WEG  VII.327.:20. [ID 26, Dossier, E1, Eltern -, S.32] Heinrich Federers Zürcher Vorfahren und Ahnengemeinschaft mit Gottfried Keller. In: Schweizer Familienforscher 30, 1963, S. 73-111 | Genau (=)
+WEG  VII.327.:21. [ID 27, Dossier, E1, Eltern -, S.32] Elsässer und Lothringer im Ehebuch Rheinau (Schweiz). | Genau (=)
+        D: In: Genealogie 12, 1963, S. 478-479
+WEG  VII.327.:22. [ID 28, Dossier, E1, Eltern -, S.32] Weitere Schweizer Vorfahren Bernhard Stavenhgens | Von/bis (>= x und <=y)
+        D: In: Genealogie 13, 1964, S. 29-33
+WEG  VII.327.:23. [ID 29, Dossier, E1, Eltern -, S.32] Anna Amalia von Hohenems, (geb. von Sulz), eine vornehme Patin und ihre genealogischen Beziehungen. | Genau (=)
+        D: In: Schweizer Familienforscher 31, 1964, S. 37-41
+WEG  VII.327.:24. [ID 30, Dossier, E1, Eltern -, S.32] Kaffeetrinken und Genealogie. | Genau (=)
+        D: In: Schweizer Familienforscher 32, 1965, S. 51
+WEG  VII.327.:25. [ID 31, Dossier, E1, Eltern -, S.32] Schweizer im Eheregister Rheinau (Kanton Zürich) | Von/bis (>= x und <=y)
+        D: In: Schweizer Familienforscher 32, 1965, S. 71-88
+WEG  VII.327.:26. [ID 32, Dossier, E1, Eltern -, S.32] Gemeinsame Vorfahren Heinrich Federers und Jakob Bosshards (1826-1924). (ohne Nachweis) | 
+WEG  VII.327.:27. [ID 33, Dossier, E1, Eltern -, S.32] Ahnenliste des Johannes Kunz von Riedt-Steinmaur. (ohne Nachweis) | 
+WEG  VII.327.:28. [ID 34, Dossier, E1, Eltern -, S.32] Zürcher Auswanderer nach Brandenburg | Von/bis (>= x und <=y)
+        D: In: Genealogie 14, 1965, S. 409-415, 494-498, 584-586, 691-695
+WEG  VII.327.:29. [ID 35, Dossier, E1, Eltern -, S.32] Bernhard Stavenhagens Schweizer Ahn Jos Häberlig und seine Vorfahren. | Genau (=)
+        D: In: Genealogie 14, 1965, S. 780-783
+WEG  VII.327.:30. [ID 36, Dossier, E1, Eltern -, S.32] [ohne Titel] | Genau (=)
+        D: Nochmals: Einwanderung von Schweizern in Schriesheim (Baden).
+        D: In: Schweizer Familienforscher 33, 1966, S. 50-54
+WEG  VII.327.:31. [ID 37, Dossier, E1, Eltern -, S.32] Aargauer und Luzerner im ältesten Ehebuch Dietikon (Zürich) | Von/bis (>= x und <=y)
+        D: In: Schweizer Familienforscher 33, 1966, S. 84-91
+WEG  VII.327.:32. [ID 38, Dossier, E1, Eltern -, S.33] Bayern und Oesterreicher am Rheinfall | Von/bis (>= x und <=y)
+        D: In: Genealogie 15, 1966, S. 66-69, 113-116, 165-166, 333-336, 424-426
+WEG  VII.327.:33. [ID 39, Dossier, E1, Eltern -, S.33] Mitteldeutsche, wo man sie nicht vermutet. | Genau (=)
+        D: In: Mitteldeutsche Familienkunde 7, 1966, S. 376-377
+WEG  VII.327.:34. [ID 40, Dossier, E1, Eltern -, S.33] Süddeutsche und Elsässer im katholischen Kirchenbuch Dietikon (Schweiz) 1622-1808. In: Genealogie 16, 1967, S. 811-826 | Von/bis (>= x und <=y)
+WEG  VII.327.:35. [ID 41, Dossier, E1, Eltern -, S.33] Familie und Vorfahren von (Konradin) Kreutzers erster Frau Anna Huber. | Genau (=)
+        D: In: Genealogie 16, 1967 S. 898-900
+        D: Anhang zu Wolfgang Huschke: Familie und Vorfahren des Komponisten Konradin Kreutzer. (S. 890-898)
+WEG  VII.327.:36. [ID 42, Dossier, E1, Eltern -, S.33] Zwei Geburten im Abstand von 10 Tagen. | Genau (=)
+        D: In: Genealogie 17, 1968, S. 95
+WEG  VII.327.:37. [ID 43, Dossier, E1, Eltern -, S.33] Zur Herkunft des Geschlechtes Astor. | Genau (=)
+        D: In: Genealogie 17, 1968, S. 279-281
+WEG  VII.327.:38. [ID 44, Dossier, E1, Eltern -, S.33] Deutsche und Elsässer im Totenbuch Rheinau (Schweiz) | Von/bis (>= x und <=y)
+        D: In: Genealogie 17, 1968, S. 300-307, 339-346, 406-409
+WEG  VII.327.:39. [ID 45, Dossier, E1, Eltern -, S.33] Glaubensflüchtlinge aus Chiavenna und aus dem Veltlin in Zürcher Kirchenbüchern | Von/bis (>= x und <=y)
+        D: In: Schweizer Familienforscher 36, 1969, S. 77-114
+WEG  VII.327.:40. [ID 46, Dossier, E1, Eltern -, S.33] Eheschliessungen Deutscher in Zürich | Von/bis (>= x und <=y)
+        D: In: Genealogie, 18, 1969, S. 715-722
+WEG  VII.327.:41. [ID 47, Dossier, E1, Eltern -, S.33] Deutsche als Handwerksgesellen in Zürich | Genau (=)
+        D: In: Genealogie 19, 1970, S. 39-46
+WEG  VII.327.:42. [ID 48, Dossier, E1, Eltern -, S.33] Bündner in Zürcher Kirchenbüchern und Bevölkerungsverzeichnissen 1600-1700. In: Schweizer Familienforscher 37, 1970, S. 73-102 | Genau (=)
+WEG  VII.327.:43. [ID 49, Dossier, E1, Eltern -, S.33] Nachträge zur Ahnenliste des Jakob Meyer, *Meilen | Genau (=)
+        D: In: Schweizer Familienforscher 37, 1970, S. 126-127
+WEG  VII.327.:44. [ID 50, Dossier, E1, Eltern -, S.33] Altösterreicher in Zürich und Umgebung | Von/bis (>= x und <=y)
+        D: In: Adler, Bd. 9, 1971, Heft 1, S. 8-13
+WEG  VII.327.:45. [ID 51, Dossier, E1, Eltern -, S.33] Taufen von Flüchtlingskindern in Zürich | Von/bis (>= x und <=y)
+        D: In: Genealogie 20, 1971, Heft 1-6
+WEG  VII.327.:46. [ID 52, Dossier, E1, Eltern -, S.33] Innerschweizer im Kirchenbuch Fahr (Aargau). | Genau (=)
+        D: In: Schweizer Familienforscher 39, 1972, S. 15-25
+WEG  VII.327.:47. [ID 53, Dossier, E1, Eltern -, S.33] Aus Stüssi wird Steissel. | Genau (=)
+        D: In: Schweizer Familienforscher 39, 1972, S. 52-53
+WEG  VII.327.:48. [ID 54, Dossier, E1, Eltern -, S.34] Entstellte Namen von Schweizer Einwanderern. | Genau (=)
+        D: In: Genealogie 21, 1972, S. 377-384
+WEG  VII.327.:49. [ID 55, Dossier, E1, Eltern -, S.34] Schweizer Vorfahren von Thomas Mann. | Genau (=)
+        D: In: Genealogie 22, 1973, S. 553-556
+WEG  VII.327.:50. [ID 56, Dossier, E1, Eltern -, S.34] Bündner im Ausland. | Genau (=)
+        D: In: Bündner Monatsblätter 1973, Nr. 1/2, S. 1-20
+WEG  VII.327.:51. [ID 57, Dossier, E1, Eltern -, S.34] Badener und Württemberger im Ehebuch Rheinau (Schweiz) | Von/bis (>= x und <=y)
+        D: In: Genealogie, 22, 1973, S. 637-641, 743-749, 780-788
+WEG  VII.327.:52. [ID 58, Dossier, E1, Eltern -, S.34] Pfälzische Pfarrer in den Kantonen Thurgau und Zürich zur Zeit des Dreissigjährigen Krieges. | Genau (=)
+        D: In: Blätter für pfälzische Kirchengeschichte und religiöse Volkskunde
+        D: 41, 1974, S. 59- 62
+WEG  VII.327.:53. [ID 59, Dossier, E1, Eltern -, S.34] Vorfahren von Johann Heinrich Füssli, Maler, Dichter und Schriftsteller. | Genau (=)
+        D: In: Genealogie 24, 1975, S. 689-695
+WEG  VII.327.:54. [ID 60, Dossier, E1, Eltern -, S.34] Stammbuch der Familie Schulthess-Würth. Zürich 1922, 31 S. 1 Taf. | Genau (=)
+WEG  VII.327.:55. [ID 61, Dossier, E1, Eltern -, S.34] Die Posth (eine Zusammenfassung). Leipzig 1930, 7 S. | Genau (=)
+WEG  VII.327.:56. [ID 62, Dossier, E1, Eltern -, S.34] Würth von Lichtensteig (Stammtafel). Zürich o.J. 1 Bl. | 
+WEG  VII.327.:57. [ID 63, Dossier, E1, Eltern -, S.34] Steger von Lichtensteig (Stammtafel) Zürich 1929, 1 Bl. | Genau (=)
+WEG  VII.327.:58. [ID 64, Dossier, E1, Eltern -, S.34] Posth von Idstein i.T., Saarbrücken und Lahr i.B. Stammtafel Zürich | Genau (=)
+WEG  VII.327.:59. [ID 65, Dossier, E1, Eltern -, S.34] Landolt von Näfels und Glarus. Zürich 1929, 1 Bl. | Genau (=)
+WEG  VII.327.:60. [ID 66, Dossier, E1, Eltern -, S.34] Brunner von Oberrieden (Stammtafel). Zürich 1929, 1 Bl. | Genau (=)
+WEG  VII.327.:61. [ID 67, Dossier, E1, Eltern -, S.34] Ammann von Wittenwil (Stammtafel). Zürich 1929, 1 Bl. | Genau (=)
+WEG  VII.327.:62. [ID 68, Dossier, E1, Eltern -, S.34] Ahnenbuch der Familie Bodmer Meyer. Zürich 1925, 78 S, 3 Taf. | Genau (=)
+WEG  VII.327.:63. [ID 69, Dossier, E1, Eltern -, S.34] Ahnentafel Schulthess-Würth. Zürich 1932, 59 Taf. und Registerband | Genau (=)
+GEÄ  VII.327.:2. [ID 4, Teilbestand, E1, Eltern -, S.16] Sammlung Konrad Schulthess (1890 - 1980) | Von/bis (>= x und <=y)
+        bis: '1957' => '1975'
+GEÄ  VII.327.:2.3. [ID 7, Dossier, E2, Eltern VII.327.:2., S.31] Bibliographie der gedruckten Arbeiten von Konrad Schulthess (in chronologischer Reihenfolge; Familie Schulthess am Schluss) | Von/bis (>= x und <=y)
+        Entstehungszeitraum: 'Genau (=)' => 'Von/bis (>= x und <=y)'
+        von: '1957' => '1862'
+        bis: '' => '1975'
+        [Darin]
+           +3 Zu „Kreisfremde in den evangelischen Kirchenbüchern von Lahr i.B. (1681-1804)“ von Landrat i.R. Paul Stark. (Ergänzungen); In: Familie und Volk 1958, S. 73-76
+           +4 Gottfried Kellers Vorfahren der Vaterseite.; In: Schweizer Familienforscher 26, 1959, S. 1-23, 140-142, 159
+           +5 Anna Barbara Müller, Gottfried Kellers mütterliche Urgrossmutter.; In: Schweizer Familienforscher 26, 1959, S. 23-24
+           +6 Eine Kette von 11 Ehen.; In: Schweizer Familienforscher 26, 1959, S. 24-27, 144
+           +7 Salomon Gessners zweiundsechzig Ahnen.; In: Schweizer Familienforscher 26, 1959, S. 51-56.; Auch in: Familienarchiv Gessner, Nr. 4, Okt. 1959, S. 44-51
+           +8 Badische Kirchenbücher in der Schweiz (Altenburg, Kadelburg, Reckingen).; In: Familie und Volk 8, 1959, S. 346-347
+           +9 Schweizer in Lahr (Baden).; In: Schweizer Familienforscher 27, 1960, S 16
+           +10 Bäbe Schulthess (geb. Wolf) und ihre Vorfahren.; In: Schweizer Familienforscher 27, 1960, S. 35-41
+           +11 Johanna Spyri in genealogischer Sicht.; In: Schweizer Familienforscher 27, 1960, S. 41-49
+           +12 Die Ahnen des Dichters Heinrich Leuthold (1827-1879).; In: Schweizer Familienforscher 28, 1961, S. 1-7
+           +13 Bertram de Born, Notiz im Kirchenbuch Rheinau.; In: Schweizer Familienforscher 28, 1961, S. 22
+           +14 Reformierte Ortsfremde im Sterberegister von Otelfingen 1650-1785.; In: Schweizer Familienforscher 28, 1961, S. 43-53
+           +15 „Tell“ aus Italien.; In: Schweizer Familienforscher 28, 1961, S. 102
+           +16 Stammen die Holbein aus Uri?; In: Familie und Volk 10, 1961, S. 382-384
+           +17 Die Ahnen von Goethes Freund Heinrich Meyer, 1760-1832.; In: Schweizer Familienforscher 29, 1962, S. 1-10
+           +18 Zur Einwanderung von Schweizern in Schriesheim (Baden).; In: Schweizer Familienforscher 29, 1962, S. 43-45
+           +19 Anregung zum Studium (oder zur Bestimmung) des „Budenberg“ Teppichs.; In: Archivum heraldicum 76, 1962, S. 33-34
+           +20 Heinrich Federers Zürcher Vorfahren und Ahnengemeinschaft mit Gottfried Keller. In: Schweizer Familienforscher 30, 1963, S. 73-111
+           +21 Elsässer und Lothringer im Ehebuch Rheinau (Schweiz).; In: Genealogie 12, 1963, S. 478-479
+           +22 Weitere Schweizer Vorfahren Bernhard Stavenhgens 1862-1914.; In: Genealogie 13, 1964, S. 29-33
+           +23 Anna Amalia von Hohenems, (geb. von Sulz), eine vornehme Patin und ihre genealogischen Beziehungen.; In: Schweizer Familienforscher 31, 1964, S. 37-41
+           +24 Kaffeetrinken und Genealogie.; In: Schweizer Familienforscher 32, 1965, S. 51
+           +25 Schweizer im Eheregister Rheinau (Kanton Zürich) 1602-1806.; In: Schweizer Familienforscher 32, 1965, S. 71-88
+           +26 Gemeinsame Vorfahren Heinrich Federers und Jakob Bosshards (1826-1924). (ohne Nachweis)
+           +27 Ahnenliste des Johannes Kunz von Riedt-Steinmaur. (ohne Nachweis)
+           +28 Zürcher Auswanderer nach Brandenburg 1691-1711.; In: Genealogie 14, 1965, S. 409-415, 494-498, 584-586, 691-695
+           +29 Bernhard Stavenhagens Schweizer Ahn Jos Häberlig und seine Vorfahren.; In: Genealogie 14, 1965, S. 780-783
+           +30 Nochmals: Einwanderung von Schweizern in Schriesheim (Baden).; In: Schweizer Familienforscher 33, 1966, S. 50-54
+           +31 Aargauer und Luzerner im ältesten Ehebuch Dietikon (Zürich) 1622-1689.; In: Schweizer Familienforscher 33, 1966, S. 84-91
+           +32 Bayern und Oesterreicher am Rheinfall 1600-1800.; In: Genealogie 15, 1966, S. 66-69, 113-116, 165-166, 333-336, 424-426
+           +33 Mitteldeutsche, wo man sie nicht vermutet.; In: Mitteldeutsche Familienkunde 7, 1966, S. 376-377
+           +34 Süddeutsche und Elsässer im katholischen Kirchenbuch Dietikon (Schweiz) 1622-1808. In: Genealogie 16, 1967, S. 811-826
+           +35 Familie und Vorfahren von (Konradin) Kreutzers erster Frau Anna Huber.; In: Genealogie 16, 1967 S. 898-900; Anhang zu Wolfgang Huschke: Familie und Vorfahren des Komponisten Konradin Kreutzer. (S.
+           +36 Zwei Geburten im Abstand von 10 Tagen.; In: Genealogie 17, 1968, S. 95
+           +37 Zur Herkunft des Geschlechtes Astor.; In: Genealogie 17, 1968, S. 279-281
+           +38 Deutsche und Elsässer im Totenbuch Rheinau (Schweiz) 1601-1800.; In: Genealogie 17, 1968, S. 300-307, 339-346, 406-409
+           +39 Glaubensflüchtlinge aus Chiavenna und aus dem Veltlin in Zürcher Kirchenbüchern, 1620-1700.; In: Schweizer Familienforscher 36, 1969, S. 77-114
+           +40 Eheschliessungen Deutscher in Zürich 1600-1700.; In: Genealogie, 18, 1969, S. 715-722
+           +41 Deutsche als Handwerksgesellen in Zürich 1637.; In: Genealogie 19, 1970, S. 39-46
+           +42 Bündner in Zürcher Kirchenbüchern und Bevölkerungsverzeichnissen 1600-1700. In: Schweizer Familienforscher 37, 1970, S. 73-102
+           +43 Nachträge zur Ahnenliste des Jakob Meyer, *Meilen 1768.; In: Schweizer Familienforscher 37, 1970, S. 126-127
+           +44 Altösterreicher in Zürich und Umgebung 1600-1800.; In: Adler, Bd. 9, 1971, Heft 1, S. 8-13
+           +45 Taufen von Flüchtlingskindern in Zürich 1618-1650.; In: Genealogie 20, 1971, Heft 1-6
+           +46 Innerschweizer im Kirchenbuch Fahr (Aargau).; In: Schweizer Familienforscher 39, 1972, S. 15-25
+           +47 Aus Stüssi wird Steissel.; In: Schweizer Familienforscher 39, 1972, S. 52-53
+           +48 Entstellte Namen von Schweizer Einwanderern.; In: Genealogie 21, 1972, S. 377-384
+           +49 Schweizer Vorfahren von Thomas Mann.; In: Genealogie 22, 1973, S. 553-556
+           +50 Bündner im Ausland.; In: Bündner Monatsblätter 1973, Nr. 1/2, S. 1-20
+           +51 Badener und Württemberger im Ehebuch Rheinau (Schweiz) 1608-1810.; In: Genealogie, 22, 1973, S. 637-641, 743-749, 780-788
+           +52 Pfälzische Pfarrer in den Kantonen Thurgau und Zürich zur Zeit des Dreissigjährigen Krieges.; In: Blätter für pfälzische Kirchengeschichte und religiöse Volkskunde; 41, 1974, S. 59- 62
+           +53 Vorfahren von Johann Heinrich Füssli, Maler, Dichter und Schriftsteller.; In: Genealogie 24, 1975, S. 689-695
+           +Genealogische Forschungsarbeiten zur Familie von Konrad Schulthess (1890 - 1980)
+           +54 Stammbuch der Familie Schulthess-Würth. Zürich 1922, 31 S. 1 Taf.
+           +55 Die Posth (eine Zusammenfassung). Leipzig 1930, 7 S.
+           +56 Würth von Lichtensteig (Stammtafel). Zürich o.J. 1 Bl.
+           +57 Steger von Lichtensteig (Stammtafel) Zürich 1929, 1 Bl.
+           +58 Posth von Idstein i.T., Saarbrücken und Lahr i.B. Stammtafel Zürich 1929, 1929
+           +59 Landolt von Näfels und Glarus. Zürich 1929, 1 Bl.
+           +60 Brunner von Oberrieden (Stammtafel). Zürich 1929, 1 Bl.
+           +61 Ammann von Wittenwil (Stammtafel). Zürich 1929, 1 Bl.
+           +62 Ahnenbuch der Familie Bodmer Meyer. Zürich 1925, 78 S, 3 Taf.
+           +63 Ahnentafel Schulthess-Würth. Zürich 1932, 59 Taf. und Registerband
+GEÄ  VII.327.:3. [ID 8, Dossier, E1, Eltern -, S.34] Inventare | Von/bis (>= x und <=y)
+        Titel: 'Zu „Kreisfremde in den evangelischen Kirchenbüchern von Lahr i.B. (1681-1804)“ von Landrat i.R. Paul Stark. (Ergänzungen)' => 'Inventare'
+        Stufe: 'Serie' => 'Dossier'
+        [Darin]
+           -In: Familie und Volk 1958, S. 73-76
+           +Geschlechter-Register [der Sammlung Walser-Battaglia], Geschlechter grobalphabetisch geordnet, handschriftlich, o. O. u. J.
+           +34 x 21 x 2 cm (Anmerkungen in roter Farbe: W = Wappen, We-Be = Wappenbeschrieb, N = Auszüge aus Wappenbuch oder andere leicht aufzufindende Notizen, E = eigene Forschungen)
+           +Mario von Moos, Verzeichnis der heraldischen und genealogischen Forschungen des Aargauer Heraldikers Heinrich Walser-Battaglia im Besitze der Genealogisch-Heraldischen Gesellschaft Zürich, maschinens
+           +Mario von Moos, Der genealogische Nachlass von Dr. Konrad Schulthess 1890 - 1980, von Zürich, maschinenschriftliches Manuskript, Fehraltorf 1981
+           +Stadtarchiv Zürich VII. 327., Detailverzeichnis
+        Umfang: '' => '1 Band (schwarz)'
+        Nr. im PDF: '3' => '3.'
+        PDF-Seite: '31' => '34'
+        Zeitraum-Quelle: 'Untereinheiten (geschätzt)' => 'Darin (geschätzt)'
+        Prüfhinweise: 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.' => 'Zeitraum aus den Jahreszahlen im Darin geschätzt.'

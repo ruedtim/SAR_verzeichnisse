@@ -1,0 +1,11 @@
+### D3677: vorher 98 Einheiten, nachher 98 Einheiten
+GEÄ  VII.390.:1.24. [ID 25, Dossier, E2, Eltern VII.390.:1., S.5] Journal 1858 (Beginn im Januar 1858, Ende im Dezember 1859) | Von/bis (>= x und <=y)
+        Titel: 'Tagebücher von Hans Conrad Pestalozzi (25 Bände)' => 'Journal 1858 (Beginn im Januar 1858, Ende im Dezember 1859)'
+        Entstehungszeitraum, Anm.: '' => '1858, Januar 1858, Dezember 1859'
+        [Darin]
+           -Journal 1858 (Beginn im Januar 1858, Ende im Dezember 1859)
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Titel'
+        [Prüfhinweise]
+           -Kein eigener Titel im Findmittel – Titel der übergeordneten Einheit übernommen.
+           -Zeitraum aus den Jahreszahlen im Darin geschätzt.
+           +Mehrere Zeitangaben im Titel (1858, Januar 1858, Dezember 1859).

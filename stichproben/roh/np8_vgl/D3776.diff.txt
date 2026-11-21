@@ -1,0 +1,59 @@
+### D3776: vorher 18 Einheiten, nachher 20 Einheiten
+NEU  VII.48.:2-3 [ID 2, Teilbestand, E1, Eltern -, S.1] 1. Überblick | Von/bis (>= x und <=y)
+        D: 1.1. Zeittafel (1763 - 1936)
+        H: Sammelmarke «Mappen 2 - 3» über den einzeln verzeichneten Mappen – als Bereich 2-3 übernommen, bitte prüfen.
+Signatur aus der Nummer der Mappe gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+NEU  VII.48.:6-9 [ID 7, Teilbestand, E1, Eltern -, S.1] 1.3.7. Persönlichkeiten aus Baufach, Ingenieurwesen, angewandten Künsten sowie aus Kultur, Politik, Wirtschaft, Gewerbe und Industrie, die zwischen 1850 und 1920 in Zürich bestimmend waren (alphabetis | Von/bis (>= x und <=y)
+        H: Sammelmarke «Mappen 6 - 9» über den einzeln verzeichneten Mappen – als Bereich 6-9 übernommen, bitte prüfen.
+Signatur aus der Nummer der Mappe gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Sehr langer Titel – evtl. Darin-Text im Titel.
+GEÄ  VII.48.:1 [ID 1, Dossier, E1, Eltern -, S.1] Verzeichnis | 
+        [Darin]
+           -Mappen 2 - 3 1. Überblick; 1.1. Zeittafel (1763 - 1936)
+           +
+GEÄ  VII.48.:2 [ID 3, Dossier, E2, Eltern VII.48.:2-3, S.1] Erster Teil: Zeittafel | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.48.' => 'VII.48.:2-3'
+        Eltern: '-' => 'VII.48.:2-3'
+GEÄ  VII.48.:3 [ID 4, Dossier, E2, Eltern VII.48.:2-3, S.1] Zweiter Teil: Zeittafel | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.48.' => 'VII.48.:2-3'
+        Eltern: '-' => 'VII.48.:2-3'
+GEÄ  VII.48.:5 [ID 6, Dossier, E1, Eltern -, S.1] 1.3. Persönlichkeiten (biographisches Material) | 
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => ''
+        von: '1850' => ''
+        bis: '1920' => ''
+        [Darin]
+           -Mappen 6 - 9 1.3.7. Persönlichkeiten aus Baufach, Ingenieurwesen, angewandten Künsten sowie aus Kultur, Politik, Wirtschaft, Gewerbe und Industrie, die zwischen 1850 und 1920 in Zürich bestimmend war
+        Zeitraum-Quelle: 'Darin (geschätzt)' => ''
+        [Prüfhinweise]
+           -Zeitraum aus den Jahreszahlen im Darin geschätzt.
+           +Kein Zeitraum gefunden.
+GEÄ  VII.48.:6 [ID 8, Dossier, E2, Eltern VII.48.:6-9, S.1] Erster Teil: Abegg bis J. J. Frey | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.48.' => 'VII.48.:6-9'
+        Eltern: '-' => 'VII.48.:6-9'
+GEÄ  VII.48.:7 [ID 9, Dossier, E2, Eltern VII.48.:6-9, S.1] Zweiter Teil: K. Frei bis Mandrino | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.48.' => 'VII.48.:6-9'
+        Eltern: '-' => 'VII.48.:6-9'
+GEÄ  VII.48.:8 [ID 10, Dossier, E2, Eltern VII.48.:6-9, S.1] Dritter Teil: Mantel bis Stapfer | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.48.' => 'VII.48.:6-9'
+        Eltern: '-' => 'VII.48.:6-9'
+GEÄ  VII.48.:9 [ID 11, Dossier, E2, Eltern VII.48.:6-9, S.2] Vierter Teil: Staub bis Zysset | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.48.' => 'VII.48.:6-9'
+        Eltern: '-' => 'VII.48.:6-9'
+GEÄ  VII.48.:12 [ID 14, Dossier, E1, Eltern -, S.2] 2. Siedlungsentwicklung | Von/bis (>= x und <=y)
+        Titel: 'Zürich. Manuskript von Hanspeter Rebsamen (1992), Mappe 12' => '2. Siedlungsentwicklung'
+        [Darin]
+           -2. Siedlungsentwicklung
+GEÄ  VII.48.:15 [ID 17, Dossier, E1, Eltern -, S.2] 3. Topographisches Inventar | 
+        Titel: 'Zürich. Manuskript von Hanspeter Rebsamen (1992), Mappe 15' => '3. Topographisches Inventar'
+        [Darin]
+           -3. Topographisches Inventar
+GEÄ  VII.48.:16 [ID 18, Dossier, E1, Eltern -, S.2] 4. Anhang | 
+        Titel: 'Zürich. Manuskript von Hanspeter Rebsamen (1992), Mappe 16' => '4. Anhang'
+        [Darin]
+           -4. Anhang

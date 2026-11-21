@@ -1,0 +1,124 @@
+### D152817: vorher 704 Einheiten, nachher 704 Einheiten
+GEÄ  VI.SB.D.5.:1-2 [ID 589, Serie, E3, Eltern VI.SB.D.5., S.26] f) Arbeitslosenfürsorge | Von/bis (>= x und <=y)
+        Prüfhinweise: '' => 'Untereinheiten reichen über den Zeitraum hinaus (1852–1934).'
+GEÄ  VI.SB.D.6.:8 [ID 620, Serie, E5, Eltern VI.SB.D.6.:8-11, S.27] Schachtel 8: e.1 (Wasserversorgung) | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        Übergeordnete Signatur: 'VI.SB.D.6.:8-12' => 'VI.SB.D.6.:8-11'
+        Eltern: 'VI.SB.D.6.:8-12' => 'VI.SB.D.6.:8-11'
+GEÄ  VI.SB.D.6.:8/T2 [ID 621, Dossier, E6, Eltern VI.SB.D.6.:8, S.29] Allgemeine Verwaltung | Von/bis (>= x und <=y)
+        Ebene: '5' => '6'
+GEÄ  VI.SB.D.6.:9 [ID 622, Dossier, E5, Eltern VI.SB.D.6.:8-11, S.27] Schachtel 9: e.2 (Wasserversorgung) | 
+        Ebene: '4' => '5'
+        Übergeordnete Signatur: 'VI.SB.D.6.:8-12' => 'VI.SB.D.6.:8-11'
+        Eltern: 'VI.SB.D.6.:8-12' => 'VI.SB.D.6.:8-11'
+GEÄ  VI.SB.D.6.:10 [ID 623, Dossier, E5, Eltern VI.SB.D.6.:8-11, S.27] Schachtel 10: e.3 (Wasserversorgung) | 
+        Ebene: '4' => '5'
+        Übergeordnete Signatur: 'VI.SB.D.6.:8-12' => 'VI.SB.D.6.:8-11'
+        Eltern: 'VI.SB.D.6.:8-12' => 'VI.SB.D.6.:8-11'
+GEÄ  VI.SB.D.6.:11 [ID 624, Serie, E5, Eltern VI.SB.D.6.:8-11, S.27] Schachtel 11: e.4 (Wasser- und Gasversorgung) | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        Übergeordnete Signatur: 'VI.SB.D.6.:8-12' => 'VI.SB.D.6.:8-11'
+        Eltern: 'VI.SB.D.6.:8-12' => 'VI.SB.D.6.:8-11'
+GEÄ  VI.SB.D.6.:11/T2 [ID 625, Dossier, E6, Eltern VI.SB.D.6.:11, S.30] Gasversorgung | Von/bis (>= x und <=y)
+        Ebene: '5' => '6'
+GEÄ  VI.SB.D.6.:8-11 [ID 619, Serie, E4, Eltern VI.SB.D.6.:8-12, S.29] Wasserversorgung | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        Ebene: '3' => '4'
+        Übergeordnete Signatur: 'VI.SB.D.6.' => 'VI.SB.D.6.:8-12'
+        Prüfhinweise: '' => 'Untereinheiten reichen über den Zeitraum hinaus (1864–1932).'
+        Eltern: 'VI.SB.D.6.' => 'VI.SB.D.6.:8-12'
+GEÄ  VI.SB.D.7.:1-2 [ID 630, Serie, E3, Eltern VI.SB.D.7., S.31] b) Lehrer | Von/bis (>= x und <=y)
+        Prüfhinweise: '' => 'Untereinheiten reichen über den Zeitraum hinaus (1743–1933).'
+GEÄ  VI.SB.D.7.:7 [ID 643, Serie, E5, Eltern VI.SB.D.7.:7-15, S.30] Schachtel 7: i.1 | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        Übergeordnete Signatur: 'VI.SB.D.7.:7-19' => 'VI.SB.D.7.:7-15'
+        Eltern: 'VI.SB.D.7.:7-19' => 'VI.SB.D.7.:7-15'
+GEÄ  VI.SB.D.7.:7/T2 [ID 644, Dossier, E6, Eltern VI.SB.D.7.:7, S.33] 1870/71 - 1898/99 | Von/bis (>= x und <=y)
+        Ebene: '5' => '6'
+GEÄ  VI.SB.D.7.:8 [ID 645, Serie, E5, Eltern VI.SB.D.7.:7-15, S.30] Schachtel 8: i.2 | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        Übergeordnete Signatur: 'VI.SB.D.7.:7-19' => 'VI.SB.D.7.:7-15'
+        Eltern: 'VI.SB.D.7.:7-19' => 'VI.SB.D.7.:7-15'
+GEÄ  VI.SB.D.7.:8/T2 [ID 646, Dossier, E6, Eltern VI.SB.D.7.:8, S.33] 1899/1900 - 1905/1906 | Von/bis (>= x und <=y)
+        Ebene: '5' => '6'
+GEÄ  VI.SB.D.7.:9 [ID 647, Serie, E5, Eltern VI.SB.D.7.:7-15, S.30] Schachtel 9: i.3 | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        Übergeordnete Signatur: 'VI.SB.D.7.:7-19' => 'VI.SB.D.7.:7-15'
+        Eltern: 'VI.SB.D.7.:7-19' => 'VI.SB.D.7.:7-15'
+GEÄ  VI.SB.D.7.:9/T2 [ID 648, Dossier, E6, Eltern VI.SB.D.7.:9, S.33] 1906/07 - 1909/10 | Von/bis (>= x und <=y)
+        Ebene: '5' => '6'
+GEÄ  VI.SB.D.7.:10 [ID 649, Serie, E5, Eltern VI.SB.D.7.:7-15, S.30] Schachtel 10: i.4 | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        Übergeordnete Signatur: 'VI.SB.D.7.:7-19' => 'VI.SB.D.7.:7-15'
+        Eltern: 'VI.SB.D.7.:7-19' => 'VI.SB.D.7.:7-15'
+GEÄ  VI.SB.D.7.:10/T2 [ID 650, Dossier, E6, Eltern VI.SB.D.7.:10, S.33] 1910/11 - 1913/14 | Von/bis (>= x und <=y)
+        Ebene: '5' => '6'
+GEÄ  VI.SB.D.7.:11 [ID 651, Serie, E5, Eltern VI.SB.D.7.:7-15, S.30] Schachtel 11: i.5 | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        Übergeordnete Signatur: 'VI.SB.D.7.:7-19' => 'VI.SB.D.7.:7-15'
+        Eltern: 'VI.SB.D.7.:7-19' => 'VI.SB.D.7.:7-15'
+GEÄ  VI.SB.D.7.:11/T2 [ID 652, Dossier, E6, Eltern VI.SB.D.7.:11, S.33] 1013/14 - 1916/17 | Von/bis (>= x und <=y)
+        Ebene: '5' => '6'
+GEÄ  VI.SB.D.7.:12 [ID 653, Serie, E5, Eltern VI.SB.D.7.:7-15, S.30] Schachtel 12: i.6 | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        Übergeordnete Signatur: 'VI.SB.D.7.:7-19' => 'VI.SB.D.7.:7-15'
+        Eltern: 'VI.SB.D.7.:7-19' => 'VI.SB.D.7.:7-15'
+GEÄ  VI.SB.D.7.:12/T2 [ID 654, Dossier, E6, Eltern VI.SB.D.7.:12, S.33] 1917/18 - 1920/21 | Von/bis (>= x und <=y)
+        Ebene: '5' => '6'
+GEÄ  VI.SB.D.7.:13 [ID 655, Serie, E5, Eltern VI.SB.D.7.:7-15, S.30] Schachtel 13: i.7 | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        Übergeordnete Signatur: 'VI.SB.D.7.:7-19' => 'VI.SB.D.7.:7-15'
+        Eltern: 'VI.SB.D.7.:7-19' => 'VI.SB.D.7.:7-15'
+GEÄ  VI.SB.D.7.:13/T2 [ID 656, Dossier, E6, Eltern VI.SB.D.7.:13, S.33] 1920/21 - 1923/24 | Von/bis (>= x und <=y)
+        Ebene: '5' => '6'
+GEÄ  VI.SB.D.7.:14 [ID 657, Serie, E5, Eltern VI.SB.D.7.:7-15, S.30] Schachtel 14: i.8 | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        Übergeordnete Signatur: 'VI.SB.D.7.:7-19' => 'VI.SB.D.7.:7-15'
+        Eltern: 'VI.SB.D.7.:7-19' => 'VI.SB.D.7.:7-15'
+GEÄ  VI.SB.D.7.:14/T2 [ID 658, Dossier, E6, Eltern VI.SB.D.7.:14, S.33] 1924/25 - 1927/28 | Von/bis (>= x und <=y)
+        Ebene: '5' => '6'
+GEÄ  VI.SB.D.7.:15 [ID 659, Serie, E5, Eltern VI.SB.D.7.:7-15, S.30] Schachtel 15: i.9 | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        Übergeordnete Signatur: 'VI.SB.D.7.:7-19' => 'VI.SB.D.7.:7-15'
+        Eltern: 'VI.SB.D.7.:7-19' => 'VI.SB.D.7.:7-15'
+GEÄ  VI.SB.D.7.:15/T2 [ID 660, Dossier, E6, Eltern VI.SB.D.7.:15, S.33] 1927/28 - 1932/33 | Von/bis (>= x und <=y)
+        Ebene: '5' => '6'
+GEÄ  VI.SB.D.7.:16 [ID 662, Serie, E5, Eltern VI.SB.D.7.:16-17, S.30] Schachtel 16: i.10 | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        Übergeordnete Signatur: 'VI.SB.D.7.:7-19' => 'VI.SB.D.7.:16-17'
+        Eltern: 'VI.SB.D.7.:7-19' => 'VI.SB.D.7.:16-17'
+GEÄ  VI.SB.D.7.:16/T2 [ID 663, Dossier, E6, Eltern VI.SB.D.7.:16, S.33] 1903/04 - 1924/25 | Von/bis (>= x und <=y)
+        Ebene: '5' => '6'
+GEÄ  VI.SB.D.7.:17 [ID 664, Serie, E5, Eltern VI.SB.D.7.:16-17, S.30] Schachtel 17: i.11 | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        Übergeordnete Signatur: 'VI.SB.D.7.:7-19' => 'VI.SB.D.7.:16-17'
+        Eltern: 'VI.SB.D.7.:7-19' => 'VI.SB.D.7.:16-17'
+GEÄ  VI.SB.D.7.:17/T2 [ID 665, Dossier, E6, Eltern VI.SB.D.7.:17, S.33] 1925/26 - 1933/34 | Von/bis (>= x und <=y)
+        Ebene: '5' => '6'
+GEÄ  VI.SB.D.7.:18 [ID 667, Serie, E5, Eltern VI.SB.D.7.:18-19, S.30] Schachtel 18: i.12 | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        Übergeordnete Signatur: 'VI.SB.D.7.:7-19' => 'VI.SB.D.7.:18-19'
+        Eltern: 'VI.SB.D.7.:7-19' => 'VI.SB.D.7.:18-19'
+GEÄ  VI.SB.D.7.:18/T2 [ID 668, Dossier, E6, Eltern VI.SB.D.7.:18, S.33] Arbeitsschule (Primar- und Sekundarschule | Von/bis (>= x und <=y)
+        Ebene: '5' => '6'
+GEÄ  VI.SB.D.7.:19 [ID 669, Serie, E5, Eltern VI.SB.D.7.:18-19, S.30] Schachtel 19: i.13 | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        Übergeordnete Signatur: 'VI.SB.D.7.:7-19' => 'VI.SB.D.7.:18-19'
+        Eltern: 'VI.SB.D.7.:7-19' => 'VI.SB.D.7.:18-19'
+GEÄ  VI.SB.D.7.:19/T2 [ID 670, Dossier, E6, Eltern VI.SB.D.7.:19, S.33] Arbeitsschule (Sekundarschule) | Von/bis (>= x und <=y)
+        Ebene: '5' => '6'
+GEÄ  VI.SB.D.7.:7-15 [ID 642, Serie, E4, Eltern VI.SB.D.7.:7-19, S.33] Absenzenlisten Primarschule (Alltagsschule, Repetierschule, Singschule, Ergänzungsschule, Realschule und Primarschule) | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        Ebene: '3' => '4'
+        Übergeordnete Signatur: 'VI.SB.D.7.' => 'VI.SB.D.7.:7-19'
+        Eltern: 'VI.SB.D.7.' => 'VI.SB.D.7.:7-19'
+GEÄ  VI.SB.D.7.:16-17 [ID 661, Serie, E4, Eltern VI.SB.D.7.:7-19, S.33] Absenzenlisten Sekundarschule | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        Ebene: '3' => '4'
+        Übergeordnete Signatur: 'VI.SB.D.7.' => 'VI.SB.D.7.:7-19'
+        Eltern: 'VI.SB.D.7.' => 'VI.SB.D.7.:7-19'
+GEÄ  VI.SB.D.7.:18-19 [ID 666, Serie, E4, Eltern VI.SB.D.7.:7-19, S.33] Verschiedene Absenzenlisten | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        Ebene: '3' => '4'
+        Übergeordnete Signatur: 'VI.SB.D.7.' => 'VI.SB.D.7.:7-19'
+        Eltern: 'VI.SB.D.7.' => 'VI.SB.D.7.:7-19'

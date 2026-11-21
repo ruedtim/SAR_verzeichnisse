@@ -1,0 +1,37 @@
+--- findmittel_zu_scope.py (8e2bd7f9)
++++ findmittel_zu_scope.py (nur F)
+@@ -4200,13 +4200,32 @@
+     """Setzt der Teil die Einheit fort (ohne eigenen Titel oder mit demselben, direkt anschliessend)? Nicht bei einer
+     anderen Einheit mit derselben Nummer: Zählung je Abschnitt (VII.76.), andere Objekte einer Locher-Nummer
+     (VII.308.), Bücher einer Schachtel (VII.359.), Tippfehler (VI.HO.C.25.)."""
+-    if any("taucht erneut auf" in h or "Tippfehler" in h for h in t.hinweise):
++    # (die Signatur zweimal direkt hintereinander – «… zweimal hintereinander – Tippfehler? Als weiterer Teil
++    # übernommen» – ist gerade eine Fortsetzung, VII.151. 5.5.3.)
++    if any("taucht erneut auf" in h or ("Tippfehler" in h and "zweimal hintereinander" not in h) for h in t.hinweise):
+         return False
+     def norm(s: str) -> str:
+         return re.sub(r"[\W_]+", " ", re.sub(r",\s*Teil\s+\d+$", "", s)).strip().lower()
+     a, b = norm(t.titel), norm(k.titel)
+     # gleicher Titel oder der eine beginnt mit dem anderen («Kolben Papierfabrik Perlen» / «… Wasserkraftanlage»)
+-    return t.titel_uebernommen or a == b or (min(len(a), len(b)) >= 12 and (a.startswith(b) or b.startswith(a)))
++    if t.titel_uebernommen or a == b or (min(len(a), len(b)) >= 12 and (a.startswith(b) or b.startswith(a))):
++        return True
++    def kern(s: str) -> str:
++        s = re.sub(r",\s*Teil\s+\d+$", "", s)
++        s = re.sub(r"\((?:[IVX]{1,4}|\d{1,2})\)", " ", s)
++        s = re.sub(r"\b(?:Nachtrag|Nachträge|Fortsetzung|Forts\.)", " ", s, flags=re.I)
++        s = re.sub(rf"{JAHR}(?:\s*/\s*\d{{2,4}})?", " ", s)
++        return re.sub(r"[\W\d_]+", " ", s).strip().lower()
++    ka, kb = kern(t.titel), kern(k.titel)
++    # gleicher Titel ohne Jahreszahlen, Zählung «(I)», «(II)» und «Nachtrag» («Konzerte (I)» / «Konzerte 1926 - 1967
++    # (II), Nachtrag», VII.269.; «Jahresberichte … von 1924,1926,1927,1928» / «… von 1959-1961, 1963-1966», VII.212.)
++    if ka and ka == kb:
++        return True
++    # der Teil hat nur eine Zählung oder Zeitangabe als Titel: «(I)» (VII.151. 5.5.3.), «Saison 1985/86» (VII.298.)
++    if not ka or re.fullmatch(r"(?:saison|spielzeit|jahrgang|jahr|jahre|band|bd|heft|teil|nr)", ka):
++        return True
++    # der Titel der Einheit, gefolgt von einer Zeitangabe: «Akten» / «Akten 2000 – 2005: Statuten» (VII.93.)
++    return bool(k.titel.strip()) and re.match(rf"{re.escape(k.titel.strip())}\s*,?\s*(?:[(\[]\s*)?{JAHR}", t.titel) is not None
+ 
+ 
+ # ----------------------------------------------------------------------------- Titel ergänzen

@@ -1,0 +1,452 @@
+### D140969: vorher 86 Einheiten, nachher 93 Einheiten
+NEU  VII.80.:1-12 [ID 1, Teilbestand, E1, Eltern -, S.1] Gebundene Akten und Publikationen (16 Bände in 4 Schachteln) | Von/bis (>= x und <=y)
+        H: Im Findmittel «1 – 12» – als Bereich 1-12 über den einzelnen Nummern übernommen, bitte prüfen.
+NEU  VII.80.:13-34 [ID 14, Teilbestand, E1, Eltern -, S.2] Akten | Von/bis (>= x und <=y)
+        H: Im Findmittel «13 – 34» – als Bereich 13-34 über den einzelnen Nummern übernommen, bitte prüfen.
+NEU  VII.80.:35-49 [ID 37, Teilbestand, E1, Eltern -, S.4] Akten von Stadtrat Heinrich Oetiker (27 Schachteln) | 
+        H: Im Findmittel «35 – 49» – als Bereich 35-49 über den einzelnen Nummern übernommen, bitte prüfen.
+Kein Zeitraum gefunden (auch nicht in den Untereinheiten).
+NEU  VII.80.:50-58 [ID 53, Teilbestand, E1, Eltern -, S.5] Publikationen und Zeitungsausschnitte | Von/bis (>= x und <=y)
+        D: Übersicht über die Publikationen und Zeitungsausschnitte: 50 Offizielle Publikationen und Drucksachen
+        D: 51 Publikationen zur Architektur
+        D: 52 Zeitschriften
+        D: 53 Allgemeines
+        D: 54 “Heimat und Volk”
+        D: 55 Industrie und Verkehr
+        D: 56 Landwirtschaft, Sport, tägliches Leben
+        D: 57 Zeitungsausschnitte (1)
+        D: … (9 Zeilen)
+        H: Im Findmittel «50 – 58» – als Bereich 50-58 über den einzelnen Nummern übernommen, bitte prüfen.
+Zeitraum aus geschätzten Zeiträumen der Untereinheiten.
+NEU  VII.80.:57-58 [ID 61, Serie, E2, Eltern VII.80.:50-58, S.13] Zeitungsausschnitte (2 Schachteln) | Von/bis (>= x und <=y)
+        H: Im Findmittel «57 – 58» – als Bereich 57-58 über den einzelnen Nummern übernommen, bitte prüfen.
+NEU  VII.80.:59-81 [ID 63, Teilbestand, E1, Eltern -, S.13] Offizielle Bilddokumentation | 
+        D: (neu archiviert von Prof. Werner G. Zimmermann im August 1990)
+        D: Vgl. Schweizerische Landesausstellung 1939 Zürich. Offizieller Führer mit Ausstellerverzeichnis und Orientierungsplan. Zürich 1939.
+        D: Die Nummern in Klammern entsprechen den Nummern auf dem Orientierungsplan und jenen im Katalog.
+        D: Prinzipielle Ordnung des Bildmaterials: linkes Seeufer, rechtes Seeufer
+        H: Im Findmittel «59 – 81» – als Bereich 59-81 über den einzelnen Nummern übernommen, bitte prüfen.
+Kein Zeitraum gefunden (auch nicht in den Untereinheiten).
+NEU  VII.80.:82-86 [ID 87, Teilbestand, E1, Eltern -, S.15] Bild- und Ausstellungsdokumentationen inkl. Retrospektiven und später beigefügtes Material | Von/bis (>= x und <=y)
+        H: Im Findmittel «82 – 86» – als Bereich 82-86 über den einzelnen Nummern übernommen, bitte prüfen.
+GEÄ  VII.80.:1. [ID 2, Dossier, E2, Eltern VII.80.:1-12, S.1] Protokoll der Grossen Ausstellungskommission | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:1-12'
+        Eltern: '-' => 'VII.80.:1-12'
+GEÄ  VII.80.:2. [ID 3, Dossier, E2, Eltern VII.80.:1-12, S.1] Protokoll des Organisationskomitees | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:1-12'
+        Eltern: '-' => 'VII.80.:1-12'
+GEÄ  VII.80.:3:1-3 [ID 4, Dossier, E2, Eltern VII.80.:1-12, S.1] Protokoll des Arbeitsausschusses des Organisationskomitees | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:1-12'
+        Eltern: '-' => 'VII.80.:1-12'
+GEÄ  VII.80.:4. [ID 5, Dossier, E2, Eltern VII.80.:1-12, S.1] Protokoll des Liquidationskomitees | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:1-12'
+        Eltern: '-' => 'VII.80.:1-12'
+GEÄ  VII.80.:5. [ID 6, Dossier, E2, Eltern VII.80.:1-12, S.1] Administrativer Bericht des Liquidationskomitees | Genau (=)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:1-12'
+        Eltern: '-' => 'VII.80.:1-12'
+GEÄ  VII.80.:6. [ID 7, Dossier, E2, Eltern VII.80.:1-12, S.1] Schlussbericht des Organisationskomitees an die grosse Ausstellungskommission [Bibliotheksexemplar benützen: Fc 202] | Genau (=)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:1-12'
+        Eltern: '-' => 'VII.80.:1-12'
+GEÄ  VII.80.:7. [ID 8, Dossier, E2, Eltern VII.80.:1-12, S.2] Vollständiges Verzeichnis der Fachkomitees der Aussteller und des Ausstellungsgutes | Genau (=)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:1-12'
+        Eltern: '-' => 'VII.80.:1-12'
+GEÄ  VII.80.:8:1-3 [ID 9, Dossier, E2, Eltern VII.80.:1-12, S.2] Die Schweiz im Spiegel der Landesausstellung | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:1-12'
+        Eltern: '-' => 'VII.80.:1-12'
+GEÄ  VII.80.:9. [ID 10, Dossier, E2, Eltern VII.80.:1-12, S.2] Archivverzeichnis der Landesausstellung | Genau (=)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:1-12'
+        Eltern: '-' => 'VII.80.:1-12'
+GEÄ  VII.80.:10. [ID 11, Dossier, E2, Eltern VII.80.:1-12, S.2] Berichte des Direktors an das Organisationskomitee bis Ende 1936 | Genau (=)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:1-12'
+        Eltern: '-' => 'VII.80.:1-12'
+GEÄ  VII.80.:11:1-2 [ID 12, Dossier, E2, Eltern VII.80.:1-12, S.2] Ausstellungszeitung der Schweizerischen Landesausstellung | Genau (=)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:1-12'
+        Eltern: '-' => 'VII.80.:1-12'
+GEÄ  VII.80.:12. [ID 13, Dossier, E2, Eltern VII.80.:1-12, S.2] Administrativer Schlussbericht | Genau (=)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:1-12'
+        [Darin]
+           -13 – 34 Akten 1925 – 1940
+        Umfang: '1 Band; 22 Schachteln (pro Nr. 1 Schachtel)' => '1 Band'
+        Eltern: '-' => 'VII.80.:1-12'
+GEÄ  VII.80.:13. [ID 15, Dossier, E2, Eltern VII.80.:13-34, S.2] Zur Vorgeschichte der Schweizerischen Landesausstellung 1939 Allgemeine Akten | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:13-34'
+        Eltern: '-' => 'VII.80.:13-34'
+GEÄ  VII.80.:14. [ID 16, Dossier, E2, Eltern VII.80.:13-34, S.2] Allgemeine Akten 1.8.1935 | Genau (=)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:13-34'
+        Eltern: '-' => 'VII.80.:13-34'
+GEÄ  VII.80.:15. [ID 17, Dossier, E2, Eltern VII.80.:13-34, S.2] Allgemeine Akten | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:13-34'
+        Eltern: '-' => 'VII.80.:13-34'
+GEÄ  VII.80.:16. [ID 18, Dossier, E2, Eltern VII.80.:13-34, S.2] Allgemeine Akten | Genau (=)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:13-34'
+        Eltern: '-' => 'VII.80.:13-34'
+GEÄ  VII.80.:17. [ID 19, Dossier, E2, Eltern VII.80.:13-34, S.2] Allgemeine Akten 1.1.1938 | Genau (=)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:13-34'
+        Eltern: '-' => 'VII.80.:13-34'
+GEÄ  VII.80.:18. [ID 20, Dossier, E2, Eltern VII.80.:13-34, S.2] Allgemeine Akten | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:13-34'
+        Eltern: '-' => 'VII.80.:13-34'
+GEÄ  VII.80.:19. [ID 21, Dossier, E2, Eltern VII.80.:13-34, S.2] Berichte des Direktors und der Fachgruppen-Komitees | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:13-34'
+        Eltern: '-' => 'VII.80.:13-34'
+GEÄ  VII.80.:20. [ID 22, Dossier, E2, Eltern VII.80.:13-34, S.2] Subventionen | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:13-34'
+        Eltern: '-' => 'VII.80.:13-34'
+GEÄ  VII.80.:21. [ID 23, Dossier, E2, Eltern VII.80.:13-34, S.3] Propaganda-Komitee | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:13-34'
+        Eltern: '-' => 'VII.80.:13-34'
+GEÄ  VII.80.:22. [ID 24, Dossier, E2, Eltern VII.80.:13-34, S.3] LA-Lotterie | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:13-34'
+        Eltern: '-' => 'VII.80.:13-34'
+GEÄ  VII.80.:23. [ID 25, Dossier, E2, Eltern VII.80.:13-34, S.3] Festspiele | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:13-34'
+        Eltern: '-' => 'VII.80.:13-34'
+GEÄ  VII.80.:24. [ID 26, Dossier, E2, Eltern VII.80.:13-34, S.3] Studien zur Abteilung "Heimat und Volk" Musik (Kantate, Tonsignet, Marsch, Diverses) | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:13-34'
+        Eltern: '-' => 'VII.80.:13-34'
+GEÄ  VII.80.:25. [ID 27, Dossier, E2, Eltern VII.80.:13-34, S.3] Kantonaltagungen und andere Veranstaltungen | Genau (=)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:13-34'
+        Eltern: '-' => 'VII.80.:13-34'
+GEÄ  VII.80.:26. [ID 28, Dossier, E2, Eltern VII.80.:13-34, S.3] Besuche in der LA | Genau (=)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:13-34'
+        Eltern: '-' => 'VII.80.:13-34'
+GEÄ  VII.80.:27. [ID 29, Dossier, E2, Eltern VII.80.:13-34, S.3] Finanzkomitee | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:13-34'
+        Eltern: '-' => 'VII.80.:13-34'
+GEÄ  VII.80.:28. [ID 30, Dossier, E2, Eltern VII.80.:13-34, S.3] Frauenkommission | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:13-34'
+        Eltern: '-' => 'VII.80.:13-34'
+GEÄ  VII.80.:29. [ID 31, Dossier, E2, Eltern VII.80.:13-34, S.3] Beschlüsse und Verfügungen der Stadt Zürich zum Bau der LA | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:13-34'
+        Eltern: '-' => 'VII.80.:13-34'
+GEÄ  VII.80.:30. [ID 32, Dossier, E2, Eltern VII.80.:13-34, S.3] Baukomitee | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:13-34'
+        Eltern: '-' => 'VII.80.:13-34'
+GEÄ  VII.80.:31. [ID 33, Dossier, E2, Eltern VII.80.:13-34, S.3] Wirtschaftskomitee | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:13-34'
+        Eltern: '-' => 'VII.80.:13-34'
+GEÄ  VII.80.:32. [ID 34, Dossier, E2, Eltern VII.80.:13-34, S.3] Komitee für künstlerische und sportliche Veranstaltungen | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:13-34'
+        Eltern: '-' => 'VII.80.:13-34'
+GEÄ  VII.80.:33. [ID 35, Dossier, E2, Eltern VII.80.:13-34, S.4] Liquidationskomitee | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:13-34'
+        Eltern: '-' => 'VII.80.:13-34'
+GEÄ  VII.80.:34. [ID 36, Dossier, E2, Eltern VII.80.:13-34, S.4] Administrativer Bericht | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:13-34'
+        [Darin]
+           -35 – 49 Akten von Stadtrat Heinrich Oetiker (27 Schachteln)
+        Eltern: '-' => 'VII.80.:13-34'
+GEÄ  VII.80.:35. [ID 38, Dossier, E2, Eltern VII.80.:35-49, S.4] Verträge, Bauabrechnungs- und Rechnungsdoppel | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:35-49'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+        Eltern: '-' => 'VII.80.:35-49'
+GEÄ  VII.80.:36a. [ID 39, Dossier, E2, Eltern VII.80.:35-49, S.4] Bauabrechnungs- und Rechnungsdoppel Ufergestaltung, Strandbadweg | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:35-49'
+        [Prüfhinweise]
+           -Kein Zeitraum gefunden.
+        Eltern: '-' => 'VII.80.:35-49'
+GEÄ  VII.80.:37a. [ID 40, Dossier, E2, Eltern VII.80.:35-49, S.4] Verträge, Bauabrechnungs- und Rechnungsdoppel Vermessungen, Abbrucharbeiten | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:35-49'
+        [Prüfhinweise]
+           -Kein Zeitraum gefunden.
+        Eltern: '-' => 'VII.80.:35-49'
+GEÄ  VII.80.:38a. [ID 41, Dossier, E2, Eltern VII.80.:35-49, S.4] Verträge, Bauabrechnungs- und Rechnungsdoppel Gärtnerarbeiten, Höhenstrasse | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:35-49'
+        [Prüfhinweise]
+           -Kein Zeitraum gefunden.
+        Eltern: '-' => 'VII.80.:35-49'
+GEÄ  VII.80.:39a. [ID 42, Dossier, E2, Eltern VII.80.:35-49, S.4] Verträge, Bauabrechnungs- und Rechnungsdoppel | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:35-49'
+        [Prüfhinweise]
+           -Kein Zeitraum gefunden.
+        Eltern: '-' => 'VII.80.:35-49'
+GEÄ  VII.80.:40a. [ID 43, Dossier, E2, Eltern VII.80.:35-49, S.4] Verträge, Bauabrechnungs- und Rechnungsdoppel | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:35-49'
+        [Prüfhinweise]
+           -Kein Zeitraum gefunden.
+        Eltern: '-' => 'VII.80.:35-49'
+GEÄ  VII.80.:41a. [ID 44, Dossier, E2, Eltern VII.80.:35-49, S.4] Verträge, Bauabrechnungs- und Rechnungsdoppel Uhren, Weindegustationen | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:35-49'
+        [Prüfhinweise]
+           -Kein Zeitraum gefunden.
+        Eltern: '-' => 'VII.80.:35-49'
+GEÄ  VII.80.:42a. [ID 45, Dossier, E2, Eltern VII.80.:35-49, S.4] Verträge, Bauabrechnungs- und Rechnungsdoppel, Situationspläne Milchwirtschaft, Fischzucht | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:35-49'
+        [Prüfhinweise]
+           -Kein Zeitraum gefunden.
+        Eltern: '-' => 'VII.80.:35-49'
+GEÄ  VII.80.:43a. [ID 46, Dossier, E2, Eltern VII.80.:35-49, S.4] Verträge, Bauabrechnungs- und Rechnungsdoppel Hilfsstoffe, Landgasthof | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:35-49'
+        [Prüfhinweise]
+           -Kein Zeitraum gefunden.
+        Eltern: '-' => 'VII.80.:35-49'
+GEÄ  VII.80.:44. [ID 47, Dossier, E2, Eltern VII.80.:35-49, S.4] Pläne Landgasthof | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:35-49'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+        Eltern: '-' => 'VII.80.:35-49'
+GEÄ  VII.80.:45a. [ID 48, Dossier, E2, Eltern VII.80.:35-49, S.4] Verträge, Bauabrechnungs- und Rechnungsdoppel | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:35-49'
+        [Prüfhinweise]
+           -Kein Zeitraum gefunden.
+        Eltern: '-' => 'VII.80.:35-49'
+GEÄ  VII.80.:46a. [ID 49, Dossier, E2, Eltern VII.80.:35-49, S.4] Verträge, Bauabrechnungs- und Rechnungsdoppel Veska-Spital, Wohnen | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:35-49'
+        [Prüfhinweise]
+           -Kein Zeitraum gefunden.
+        Eltern: '-' => 'VII.80.:35-49'
+GEÄ  VII.80.:47b. [ID 50, Dossier, E2, Eltern VII.80.:35-49, S.5] Verträge, Bauabrechnungs- und Rechnungsdoppel Textilmaschinen, Schulen | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:35-49'
+        [Prüfhinweise]
+           -Kein Zeitraum gefunden.
+        Eltern: '-' => 'VII.80.:35-49'
+GEÄ  VII.80.:48a. [ID 51, Dossier, E2, Eltern VII.80.:35-49, S.5] Verträge, Bauabrechnungs- und Rechnungsdoppel | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:35-49'
+        [Prüfhinweise]
+           -Kein Zeitraum gefunden.
+        Eltern: '-' => 'VII.80.:35-49'
+GEÄ  VII.80.:49. [ID 52, Dossier, E2, Eltern VII.80.:35-49, S.5] Verträge, Bauabrechnungs- und Rechnungsdoppel | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:35-49'
+        [Darin]
+           -50 – 58 Publikationen und Zeitungsausschnitte
+           -Übersicht über die Publikationen und Zeitungsausschnitte: 50 Offizielle Publikationen und Drucksachen
+           -51 Publikationen zur Architektur
+           -52 Zeitschriften
+           -53 Allgemeines
+           -54 “Heimat und Volk”
+           -55 Industrie und Verkehr
+           -56 Landwirtschaft, Sport, tägliches Leben
+           -57 Zeitungsausschnitte (1)
+           -58 Zeitungsausschnitte (2)
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+        Eltern: '-' => 'VII.80.:35-49'
+GEÄ  VII.80.:50. [ID 54, Dossier, E2, Eltern VII.80.:50-58, S.5] Offizielle Publikationen und Drucksachen | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:50-58'
+        Eltern: '-' => 'VII.80.:50-58'
+GEÄ  VII.80.:51. [ID 55, Dossier, E2, Eltern VII.80.:50-58, S.7] Publikationen zur Architektur | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:50-58'
+        Eltern: '-' => 'VII.80.:50-58'
+GEÄ  VII.80.:52. [ID 56, Dossier, E2, Eltern VII.80.:50-58, S.7] Zeitschriften | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:50-58'
+        Eltern: '-' => 'VII.80.:50-58'
+GEÄ  VII.80.:53. [ID 57, Dossier, E2, Eltern VII.80.:50-58, S.8] Allgemeines | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:50-58'
+        Eltern: '-' => 'VII.80.:50-58'
+GEÄ  VII.80.:54. [ID 58, Dossier, E2, Eltern VII.80.:50-58, S.9] “Heimat und Volk” | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:50-58'
+        Eltern: '-' => 'VII.80.:50-58'
+GEÄ  VII.80.:55. [ID 59, Dossier, E2, Eltern VII.80.:50-58, S.10] Industrie und Verkehr | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:50-58'
+        Eltern: '-' => 'VII.80.:50-58'
+GEÄ  VII.80.:56. [ID 60, Dossier, E2, Eltern VII.80.:50-58, S.12] Landwirtschaft, Sport, tägliches Leben | Genau (=)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:50-58'
+        [Darin]
+           -57 – 58 Zeitungsausschnitte (2 Schachteln)
+        Eltern: '-' => 'VII.80.:50-58'
+GEÄ  VII.80.:58. [ID 62, Dossier, E3, Eltern VII.80.:57-58, S.13] NZZ 7. Mai 1939 (verschiedene Beiträge zur Eröffnung der LA, bes. (Blatt 15 – 22); Tagblatt der Stadt Zürich 6. Mai 1939 (Beilage) u. a. | Von/bis (>= x und <=y)
+        Ebene: '1' => '3'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:57-58'
+        [Darin]
+           -59 – 81 Offizielle Bilddokumentation
+           -(neu archiviert von Prof. Werner G. Zimmermann im August 1990)
+           -Vgl. Schweizerische Landesausstellung 1939 Zürich. Offizieller Führer mit Ausstellerverzeichnis und Orientierungsplan. Zürich 1939.
+           -Die Nummern in Klammern entsprechen den Nummern auf dem Orientierungsplan und jenen im Katalog.
+           -Prinzipielle Ordnung des Bildmaterials: linkes Seeufer, rechtes Seeufer
+           +
+        Umfang: '24 Schachteln' => ''
+        Eltern: '-' => 'VII.80.:57-58'
+GEÄ  VII.80.:59. [ID 64, Dossier, E2, Eltern VII.80.:59-81, S.13] Frühere Ausstellungen | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:59-81'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+        Eltern: '-' => 'VII.80.:59-81'
+GEÄ  VII.80.:60. [ID 65, Dossier, E2, Eltern VII.80.:59-81, S.14] Eingänge linkes Ufer (1 bis 3) – Festplatz (8) – Schifflibach (9) – Schwebebahn (12) – Kongresshaus und Tonhalle (D) | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:59-81'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+        Eltern: '-' => 'VII.80.:59-81'
+GEÄ  VII.80.:61. [ID 66, Dossier, E2, Eltern VII.80.:59-81, S.14] Höhenstrasse | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:59-81'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+        Eltern: '-' => 'VII.80.:59-81'
+GEÄ  VII.80.:62. [ID 67, Dossier, E2, Eltern VII.80.:59-81, S.14] Uhren (22) – Schweiz als Ferienland (24) | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:59-81'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+        Eltern: '-' => 'VII.80.:59-81'
+GEÄ  VII.80.:63. [ID 68, Dossier, E2, Eltern VII.80.:59-81, S.14] Verkehr und Transport (25) – Bahnverkehr (26) – PTT (27) | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:59-81'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+        Eltern: '-' => 'VII.80.:59-81'
+GEÄ  VII.80.:64. [ID 69, Dossier, E2, Eltern VII.80.:59-81, S.14] Kleider machen Leute (28) – Modetheater (178) | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:59-81'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+        Eltern: '-' => 'VII.80.:59-81'
+GEÄ  VII.80.:65. [ID 70, Dossier, E2, Eltern VII.80.:59-81, S.14] Zubereiten und Essen (29) – Elektrizität (30) | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:59-81'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+        Eltern: '-' => 'VII.80.:59-81'
+GEÄ  VII.80.:66. [ID 71, Dossier, E2, Eltern VII.80.:59-81, S.14] Eisen, Metalle und Maschinen (31) – Gummi (32) – Aluminium (33) – Chemie (34) Soll und Haben (35) | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:59-81'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+        Eltern: '-' => 'VII.80.:59-81'
+GEÄ  VII.80.:67. [ID 72, Dossier, E2, Eltern VII.80.:59-81, S.14] Unser Holz (36) – Bauen (37) | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:59-81'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+        Eltern: '-' => 'VII.80.:59-81'
+GEÄ  VII.80.:68. [ID 73, Dossier, E2, Eltern VII.80.:59-81, S.14] Wohnen (38) – Vorbeugen und Heilen (39) – Sport (40) – Alpinismus (40.1) | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:59-81'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+        Eltern: '-' => 'VII.80.:59-81'
+GEÄ  VII.80.:69. [ID 74, Dossier, E2, Eltern VII.80.:59-81, S.14] Blumenhalle (41) – Kinderparadies (42) – Lernen und Wissen (43) | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:59-81'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+        Eltern: '-' => 'VII.80.:59-81'
+GEÄ  VII.80.:70. [ID 75, Dossier, E2, Eltern VII.80.:59-81, S.14] Wehrwesen und Waffenschau (44) – Graphisches Gewerbe (45) – Theater (46) Schrifttum (47) – Kunst (48) | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:59-81'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+        Eltern: '-' => 'VII.80.:59-81'
+GEÄ  VII.80.:71. [ID 76, Dossier, E2, Eltern VII.80.:59-81, S.14] Turm-Restaurant (112) – Konditorei (123) – Vergnügungspalais (129) – Bierhus (130) – Terrassen-Restaurant (131) – Alkoholfreies Restaurant (132) – Kaffee-Schiff (133) | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:59-81'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+        Eltern: '-' => 'VII.80.:59-81'
+GEÄ  VII.80.:72. [ID 77, Dossier, E2, Eltern VII.80.:59-81, S.14] Haupteingang Riesbach (51) – Ausgang Tiefenbrunnen (53) – Dörfli (58 bis 91) Dorfplatz (58) – Festhalle (62) – Landwirtschaft (71 ff.) – Pflanzenbau (74) Obstbau/Weinbau (76) – Gemüsebau (77) – Tempor | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:59-81'
+        [Prüfhinweise]
+           -Kein Zeitraum gefunden.
+        Eltern: '-' => 'VII.80.:59-81'
+GEÄ  VII.80.:73. [ID 78, Dossier, E2, Eltern VII.80.:59-81, S.14] Landwirtschaftliche Maschinen (82) – Bauernhäuser (84 bis 87) – Gemeindehaus (88) – Genossenschaftshaus VOLG (89) – Trachtenhof/Heimatwerk (90) Jagd/Fischerei (92 bis 94) – Attraktionen (95) | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:59-81'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+        Eltern: '-' => 'VII.80.:59-81'
+GEÄ  VII.80.:74. [ID 79, Dossier, E2, Eltern VII.80.:59-81, S.14] Wein-Degustation (176) – Milchbar (180) – Chäs-Stube (181) – Landgasthof (187) | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:59-81'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+        Eltern: '-' => 'VII.80.:59-81'
+GEÄ  VII.80.:75. [ID 80, Dossier, E2, Eltern VII.80.:59-81, S.15] Gesamtaufnahmen – Nachtaufnahmen – Architektur – Gartenanlagen | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:59-81'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+        Eltern: '-' => 'VII.80.:59-81'
+GEÄ  VII.80.:76. [ID 81, Dossier, E2, Eltern VII.80.:59-81, S.15] Schöne Künste an der Landesausstellung – Religiöse Kunst – Plastiken – Plastik-Wettbewerb – Restaurants | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:59-81'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+        Eltern: '-' => 'VII.80.:59-81'
+GEÄ  VII.80.:77. [ID 82, Dossier, E2, Eltern VII.80.:59-81, S.15] Veranstaltungen: Eröffnung – Landesausstellung: Schluss – Eröffnungstag Eröffnungsstafette – Festspiel – "Steinbruch" – Tag der Arbeit – Arbeitskonferenz Auslandschweizertag – Ballon-Wettfliegen – Pfe | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:59-81'
+        [Prüfhinweise]
+           -Kein Zeitraum gefunden.
+        Eltern: '-' => 'VII.80.:59-81'
+GEÄ  VII.80.:78. [ID 83, Dossier, E2, Eltern VII.80.:59-81, S.15] Trachtenfest – Jodlerfest – Landesausstellungs-Schwinget – Sektionsturnen | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:59-81'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+        Eltern: '-' => 'VII.80.:59-81'
+GEÄ  VII.80.:79. [ID 84, Dossier, E2, Eltern VII.80.:59-81, S.15] Besucher: Eintrittsmillionäre, Kuriosa, General Guisan, Soldaten – Kantonaltage (Aargau bis Luzern) | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:59-81'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+        Eltern: '-' => 'VII.80.:59-81'
+GEÄ  VII.80.:80. [ID 85, Dossier, E2, Eltern VII.80.:59-81, S.15] Kantonaltage (Fortsetzung: Solothurn bis Zug) – Höfner-Tag – Einsiedler Messe Liechtensteiner Tag | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:59-81'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+        Eltern: '-' => 'VII.80.:59-81'
+GEÄ  VII.80.:81. [ID 86, Dossier, E2, Eltern VII.80.:59-81, S.15] Ausländische Besucher | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:59-81'
+        [Darin]
+           -82 – 86 Bild- und Ausstellungsdokumentationen inkl. Retrospektiven und später beigefügtes Material
+           +
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+        Eltern: '-' => 'VII.80.:59-81'
+GEÄ  VII.80.:82. [ID 88, Dossier, E2, Eltern VII.80.:82-86, S.15] Photonegative (in gelben Kuverts) | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:82-86'
+        Eltern: '-' => 'VII.80.:82-86'
+GEÄ  VII.80.:83. [ID 89, Dossier, E2, Eltern VII.80.:82-86, S.15] Fotoalben, Fotonegativsammlung a. Sammlung A. Schnöller, Höhenring 7, 8052 Zürich (“Landi 1939”) | Genau (=)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:82-86'
+        Eltern: '-' => 'VII.80.:82-86'
+GEÄ  VII.80.:84. [ID 90, Dossier, E2, Eltern VII.80.:82-86, S.15] Fotoalben, Bildmaterial a. 13 Fotografien (Photoglob-Wehrli & Vouga & Co. A.-G.) | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:82-86'
+        Eltern: '-' => 'VII.80.:82-86'
+GEÄ  VII.80.:85. [ID 91, Dossier, E2, Eltern VII.80.:82-86, S.16] Ausstellungs- und Zeitungausschnitt-Dokumentation (Retrospektiven) 1979 – 1989 Dokumentation der Ausstellung 1979 (40 Jahre LA 1939) | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:82-86'
+        Eltern: '-' => 'VII.80.:82-86'
+GEÄ  VII.80.:86. [ID 92, Dossier, E2, Eltern VII.80.:82-86, S.16] Ausstellungsdokumentation zu Hans Ernis Wandbild “Die Schweiz, das Ferienland der Völker 1939” (2003) a. 1 Schachtel mit Dias, hergestellt vom Landesmuseum Zürich für die Ausstellung “Hans Erni, das L | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.80.' => 'VII.80.:82-86'
+        Eltern: '-' => 'VII.80.:82-86'

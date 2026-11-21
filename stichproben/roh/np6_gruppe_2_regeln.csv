@@ -1,0 +1,96 @@
+regel;pdf;id;signatur;seite;urteil;kurz
+A;D3018;40;VII.174.:02.3.1.19.;26;besser;"13:15 2022–2028 → = 2022: Plannummern 2053/2030/2028 «nach heute» verworfen; Plannummer 2022 bleibt (Z85)"
+A;D3018;42;VII.174.:02.3.1.21.;27;besser;"Plannummern 1274–1330 weit vor dem Rahmen (1820) verworfen; kein Zeitraum + Hinweis"
+A;D3018;43;VII.174.:02.3.1.22.;27;besser;"«Plan Nr. 1297» verworfen; kein Zeitraum + Hinweis"
+A;D67;6;III.Q.4.;3;besser;«(Fortsetzung im Bestand Schulamt … 1812 – 1833)» zählt nicht: 1788–1812 wie Spalte
+A;D67;30;III.Q.33.;5;besser;«… V.H. b.2., eingegliedert.» ¦ 1773-1831 zählt nicht: = 1798
+A;D69;2;III.R.1.;3;besser;«Ordnung … siehe V.H. b.4.» ¦ 1794-1806 zählt nicht: = 1774
+A;D69;29;III.R.36.;5;besser;«Schülerinnenverzeichnis … siehe Abteilung V.H. b.3.» ¦ 1790-1797 zählt nicht: 1774–1786
+A;D4175;10;VII.232.:1.C.1.;3;besser;«150 years of development ¦ 1805 - 1955» als Jubiläum erkannt: 1939–1966 (Z358)
+A;D4175;9;VII.232.:1.C.;3;besser;Gruppe jetzt 1939–1975 statt 1805–1975
+A;D3063;8;VII.190.:1.9.;5;besser;«Nachruf Edouard Chardon ¦ 1882 - 1945» nur Todesjahr: 1903–1987
+A;D9985;3;VII.12.B.:27.2.2.;38;besser;«100 Jahre Opernhaus Zürich, 1891 – 1991» als Jubiläum erkannt: 01.02.1970–25.09.1994
+A;D149628;4196;VII.12.B.:23.4.4.3.;518;besser;«125 Jahre Stadttheater … 1834 – 1959» verworfen: = 08.11.1959 (Quelle «Datumsspalte» aus der Folgezeile, etwas zu stark)
+A;D149628;1679;VII.12.B.:11.9.2.;285;gleich;«In Memoriam Hans Fretz» / «1863 – 1925» als Jahreszeile, Nachruf-Regel greift nicht: weiter 1863–1932 (neue Zeile)
+A;D151150;54;V.F.c.150.:9.;5;besser;Dossiernummer «1517» weit vor dem Rahmen verworfen: 1923–1964
+A;D2141;1;V.H.c.53.;1;besser;umgekehrter Bereich «Kreis III ¦ 1995-1897» verworfen: 1893–1912, Titel ohne Datum (Z305)
+A;D3225;42;VII.227.:7.5.;7;besser;halber Bereich «erbaut 1918» / «– 1920» zählt nicht: 1976–1983
+A;D2710;1;V.L.5.:1;1;besser;«1967)» (Satzende) keine Jahreszeile mehr: Ende 1986 wie PDF (Z307)
+A;D9983;47;VII.12.A.:3.3.4.;7;besser;«– 1860» (halber Bereich) keine Jahreszeile mehr: 1849–1860 (Z372)
+A;D2534;7;V.L.111.:2.1.;4;schlechter;Jubiläumsfilter streicht «1351 / 1951. Zürich 600 Jahre im Bunde …» ganz: kein Zeitraum statt 1951 (neue Zeile)
+A;D150589;1440;VII.142.:16.2.10.;145;schlechter;"Jubiläumsfilter «75 Jahre Wirteverein … 1884 – 1959»: kein Zeitraum statt 1959; 16.2.9. (Text im Titel) = 1884–1959 (neue Zeile)"
+A;D3067;56;VII.191.:V.B.;12;gleich;«seit 1401» zählt weiter über die Textschätzung (jahre_im_text): 1401–1958 (vor 13:15)
+B;D9983;156;VII.12.A.:5.6.;15;besser;Tippfehler «Oktober 1846 bis März 1947» erweitert nicht mehr: «Journale», 1834–1889 (Z371)
+B;D3087;1;VII.197.;1;besser;Tippfehler «25.09.1990» (zwischen 21.09.1920 und 1922) verworfen: 1866–1941 (Z305)
+B;D2960;11;VII.15.:11.;1;besser;"«Band 10 ¦ 1892-1993» zerlegt: 1883–1892 statt 1883–1993; Soll 1883–1893 (Z305)"
+B;D141056;21;VII.31.:6.1.;4;besser;Tippfehler «Jahresrechnung 1883 – 1991» verworfen: 1873–1943
+B;D141056;38;VII.31.:9.2.;8;besser;Tippfehler «Karte vom Uetliberg … 1987» (zwischen 1897 und 1902) verworfen: 1897–1914
+B;D3018;67;VII.174.:03.6.;34;besser;«Unterlagen BAB ¦ 1857 - 1962» (Tippfehler) zerlegt: 1952–1962
+B;D3842;1;VII.83.:1.;1;besser;Tippfehler «1902-1991», «1872-1991» (Escher-Ziegler † 1919) verworfen: 1850–1919
+B;D3089;45;VII.197.:X.;13;gleich;1837 (Textbücherliste VIII.2.) schliesst an (29 J.): bleibt 1837–1956, wie angekündigt (Z319)
+B;D3089;5;VII.197.:I.3.a.;3;gleich;Spalte 1875 + Darin 1882–1984 lückenlos: 1875–1984 wie PDF
+B;D3018;77;VII.174.:04.1.1.;38;gleich;«(Buch) ¦ 1819 - 1964» überlappt die Spalte 1898–1964 und bleibt (Hinweis Inhaltsverzeichnis 1898-1964 vorhanden)
+B;D151150;12;V.F.c.150.:3.2.;3;gleich;«Voranschläge 1956 – 1970 ¦ 1955 – 1969» schliesst an (27 J.): 1909–1969 richtig
+B;D1877;1;V.G.c.43.:1.;1;schlechter;reine Spalte 1916/1916/1917 + «Korrespondenz … ¦ 1989 – 1990»: Mehrheit verwirft das echte 1989–1990 → 1916–1917 (neue Zeile)
+B;D1877;5;V.G.c.43.:2.1. Teil 3;3;schlechter;"Basis = erste Zeile «EWZ, diverse Weisungen ¦ 1992 – 1994»; «Schätzungsentscheid ¦ 1955», «Vergleich … ¦ 1955» verworfen → 1992–1994"
+B;D1877;17;V.G.c.43.:4.1. Teil 2;7;schlechter;"Basis = erste Zeile ¦ 1974 – 1976; 16 Gasverträge 1898–1923 verworfen → 1974–1976 (Folge ID 16 4.1. 1970–1987, ID 15 4. 1968–1992)"
+B;D3018;106;VII.174.:05.2.1.;43;schlechter;"«Prospekt … C.Schlickeysen, Berlin ¦ 10.02.1872» verworfen → 06.04.1910–01.10.1935 (Folge 05.2.; Z160)"
+B;D3018;11;VII.174.:02.2.1.;15;unklar;"«Plan Kammerofen, Grundriss ¦ 28.05.1938» verworfen (Titel «… Kammerofens 1898») → 22.10.1893–1898; Tippfehler nicht belegt"
+B;D175994;65;IV.A.65.;5;schlechter;«Inventare Stadt Zürich 1961–1964 und 1965–1968 ¦ 1961–1980» verworfen → 1894–1896
+B;D2737;5;V.L.73.:9.;1;schlechter;«Umbau, Neubau ZB ¦ 1975 ff.», «Automation ¦ 1977 ff.», «Mitwirkung … ¦ 1979 – 1987» verworfen → 1914–1918
+B;D2857;417;VII.111.:2.1.;17;schlechter;«Diverse Artikel zu Hotelbauten … ¦ 1964 – 1965» verworfen → 1919–1926
+B;D3077;16;VII.194.:16.;2;schlechter;«+ Korrespondenz mit Herrn Jürg Winkler … ¦ 1977» verworfen → = 04.12.1856
+B;D3363;50;VII.272.:2.2.18.;3;schlechter;zweiter Block der Datumsspalte «(2 Schachteln) ¦ 1958 – 1971» verworfen → 1897–1915
+B;D3718;58;VII.409.:4.2.2.3.;7;schlechter;«Jahresrückblick und Geschäftszahlen ¦ 1992-1993» verworfen → 1935–1945
+B;D3727;42;VII.411.:10.2.;11;schlechter;Darstellungen 1982 und 2005 (3×) verworfen → 1936–1939 (Kapitel 10. «1936 – 2005»)
+B;D3067;58;VII.191.:V.B. Teil 3;13;schlechter;"Bücher 1948, 1951, 1958, 1959 verworfen (Basis = erstes Buch 1901) → 1901–1909; Folge V.B./V. 1959 → 1958"
+B;D149628;433;VII.12.B.:5.2.1.5.;109;schlechter;«Schätzungs-Gutachten vom Juni 1979 … ¦ 1979-1981» verworfen → 1891–1940
+B;D176795;63;VII.388.:5.;22;schlechter;"«Kochbuch … Goelern von Ravensburg ¦ 1746» verworfen → 1787–…; Ende 24.03.2017 = Übergabedatum (Regel C)"
+B;D1739;27;V.G.c.105.:27;9;schlechter;lange echte Spanne «Seeauffüllung ¦ 1830 – 1925» zerlegt, 1830 verworfen → 1877–1933
+B;D2940;2;VII.141.:2.;2;schlechter;Überformate 1899, 1911, 1914, 1919 verworfen → 1808–1810 (Einheit selbst falsch gebildet: «2 Handwerkskundschaften» als Signatur)
+B;D149628;4872;VII.12.B.:26.2.4.;555;schlechter;"Spalte um Darin 1938 erweitert, dann ersetzt das Titeldatum «Sept./Okt. 1935» den Zeitraum → 09.1935–10.1935, Anm «1935; Darin: 1938» (neue Zeile)"
+B;D149628;2429;VII.12.B.:18.1.4.;345;gleich;"weiter 05.01.–10.02.1989, neue Anm «1989; Darin: 1988» widerspricht (Einladung «vom 4. März 1988»; vor 13:15 zu eng)"
+B;D4054;372;VII.151.:12.4. Teil 2;117;gleich;"weiter 25.–29.04.1979, neue Anm «1979; Darin: 1983–1984» widerspricht (vor 13:15 zu eng)"
+D;D3313;7;VII.254.:4.;2;besser;"Jahreszeile «1896» (1 von 10 Einträgen) trägt nicht mehr; Schätzung 1818–01.1994 bleibt falsch (Z331)"
+D;D149835;3;V.C.b.368.:2.;1;besser;Jahreszeile «1881» trägt nicht mehr: 1759–03.02.1890, Ende richtig (Z286)
+D;D2710;1;V.L.5.:1;1;besser;Gruppe nimmt die Schätzung aus dem eigenen Darin: 1692–1986 (Z307)
+D;D1877;3;V.G.c.43.:2.1.;1;gleich;"1903–1994 jetzt «Untereinheiten (geschätzt)»; Tag 19.06.1903 fehlt weiter (Z303)"
+D;D9985;1;VII.12.B.:27.2.1.;3;besser;Jahreszeile «1914» trägt nicht mehr: 1838–1996 (Z373)
+D;D67;2;III.Q.1.;3;besser;keine datierte Untereinheit: Quelle «Datumsspalte» statt «Untereinheiten», 1773–1784
+D;D3018;163;VII.174.:06.10.;64;besser;1 Eintrag mit Spaltendatum = alle Einträge: Quelle «Datumsspalte» statt «Darin (geschätzt)», 1942–1963
+D;D3089;26;VII.197.:IV.1.;9;besser;Quelle «Datumsspalte» statt «Darin (geschätzt)»: 1867–1960 wie PDF «(1867-1960)»
+D;D1877;6;V.G.c.43.:2.2.;3;besser;Quelle «Datumsspalte» statt «Darin (geschätzt)»: 1984–1989
+D;D2620;114;V.L.167.:10.2.;17;schlechter;Gruppe verliert ihren Zeitraum (vorher 1917–): Jahreszeile «1917 ff.» trägt nicht, eigenes Darin 1917–1936 wird nicht geschätzt (neue Zeile)
+D;D3067;56;VII.191.:V.B.;12;gleich;eigene Spalte (4 von 9 Einträgen) trägt nicht → Textschätzung mit «seit 1401»: 1401–1958
+J;D3647;17;VII.381.:5.4.;2;besser;«1. Mai 1351» weit vor dem Rahmen zählt nicht: = 01.05.1851 (Ereignisdatum), Titel unverändert (Z341)
+J;D3647;15;VII.381.:5.;2;besser;Gruppe 1833–1954 statt 01.05.1351–1954
+J;D2657;1;V.L.208.;1;besser;«gegründet 1805» zählt nicht: 1963–2005, Titel unverändert
+J;D3316;61;VII.255.:3.3.;7;besser;«seit 1559» zählt nicht: = 1900 (Erscheinungsjahr)
+J;D151217;522;VII.416.:9.2.2.;25;besser;«Augsburg 1483» (Erstausgabe) zählt nicht: = 1923
+J;D2975;8;VII.153.:1.2.3.;1;besser;Titel behält «SS 1907» (13:15 «Völkerrecht von Max Huber, SS»)
+J;D2975;6;VII.153.:1.2.1.;1;besser;"Titel behält «zwischen WS 1907 / 08und SS 1908»; 1907–1908"
+J;D2975;10;VII.153.:1.2.5.;1;besser;Titel behält «… zwischen WS 1907 / 08 und SS 1908»
+J;D152817;418;VI.SB.C.109.:10;17;besser;Titel behält «2. Semester 1907»
+J;D149628;4885;VII.12.B.:26.2.17.;557;besser;Titel behält «36. Jg. 1907 – 48. Jg. 1919» (13:15 «… 48. Jg.»)
+J;D149628;4893;VII.12.B.:26.2.25.;558;besser;Titel behält «8. Jg. 1910, 10. Jg. 1911 –1912»
+J;D151210;2946;VII.200.:12.1.2.1.;407;besser;"kein «;» mehr vor «(lose)»"
+J;D151217;597;VII.416.:9.2.77.;29;besser;"kein «;» mehr am Titelende"
+J;D2947;68;VII.144.:6.5.;7;besser;"kein «;» mehr am Titelende"
+J;D9983;208;VII.12.A.:5.8.1.;22;schlechter;"Titel endet «Zürich, den (4 Exemplare)» (Datum «6./7. Januar 1835» entfernt; neue Zeile)"
+J;D3793;197;VII.55.:5.8.23.;27;schlechter;Titel endet «… vom 5. Juli 1931 (vom» (neue Zeile)
+J;D2975;23;VII.153.:1.2.18.;2;gleich;Titel endet «WS 1906 / 07», Rest «(spätestens) SS 1908» im Darin → 1906–1907 statt 1906–1908 (Umbruch, vor 13:15)
+E;D3089;3;VII.197.:I.2.;3;gleich;"Anm «1865,1866; Darin: 1827–1861», Zeitraum 1827–1866 richtig (Z97)"
+E;D3018;70;VII.174.:03.7.2.;35;besser;"Titel «Schlussbilanzen und Inventare» ohne Datum, 1940–1960, Anm «Titel: 1940 - 1952; Darin: 30.04.1940–1960»"
+E;D4175;3;VII.232.:1.A.1.;2;gleich;"Anm «1950 - 1967; Darin: 1929–1992», Zeitraum 1929–1992 wie PDF"
+E;D151150;22;V.F.c.150.:5.3.;3;gleich;"nur Anm «1916 – 1923; Darin: 1916–1983»"
+I;D3018;128;VII.174.:06.1.4.;49;schlechter;"Titel «Briefumschläge» richtig, Zeitraum nur 1890– (offen), «1964» eigener Darin-Eintrag; Folge 06.1. 1872–1949 (neue Zeile)"
+I;D3018;147;VII.174.:06.6.9.;56;besser;«Werbebriefe an die Grossabnehmer», 1920–1963 (Z162)
+I;D3018;175;VII.174.:08.1.3.;68;gleich;1903–1927 richtig, aber Darin «Ofenmannschaft,, ca.1910» (neue Zeile, gering)
+I;D9983;31;VII.12.A.:3.1.5.;6;gleich;«Brand 1./2. Januar 1890» → 01.01.–02.01.1890 (Foto vom 2. Januar)
+C;D3018;155;VII.174.:06.7.5.;60;besser;"Ende 1960 aus «Ampeln 1960» ergänzt; Beginn 1935 statt 03.1935 (Z311)"
+C;D4175;20;VII.232.:1.F.;5;gleich;"weiter 1805–1980 aus «Medaille ""Escher Wyss 1805-1980""» (Z261)"
+C;D1877;13;V.G.c.43.:3.2.;5;besser;19.06.1981–1994 (Tag aus «vom 19. Juni 1981»)
+N;D151150;83;V.F.c.150.:10.5.2.;16;besser;"«10.5..2.» jetzt eigene Einheit 1914–1941; 10.5.1. 1909–1910"
+F;D149835;9;V.C.b.368.:6.;2;besser;Teil 2 «Expertenbericht … 1875» (taucht erneut auf) erweitert nicht: = 1851, Hinweis «Untereinheiten reichen … (1875–1875)»
+F;D2710;3;V.L.5.:2;2;gleich;"1893–1928 aus dem ersten Eintrag (Titel); Schachtel 2 enthält 1856–1978 (vor 13:15)"
+F;D1343;1;V.F.c.111.:1;1;besser;zweite Ablieferung mit gleicher Nummer («Krankenpflegeverband -1938») erweitert nicht: 1897–1928 wie PDF

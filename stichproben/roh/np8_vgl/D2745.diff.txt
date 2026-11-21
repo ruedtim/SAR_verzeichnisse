@@ -1,0 +1,49 @@
+### D2745: vorher 2 Einheiten, nachher 2 Einheiten
+WEG  V.L.80.:7. [ID 2, Dossier, E1, Eltern -, S.1] Einladungen zur Erinnerung an die vor 25 Jahren erfolgte Stadtvereinigung | Genau (=)
+        D: 16 Antworten auf die Einladungen zur Erinnerung an die vor 25 Jahren erfolgte Stadtvereinigung, 12. bis 16. Januar 1918
+        D: Verzeichnis der Eingeladenen zur Gedenkfeier, undatiert
+        D: Auszug aus dem Protokoll des Stadtrates von Zürich Nr. 27 vom 9. Januar 1918
+        D: Brief vom Stadtpräsidenten an Dr. Hans Müller, 9. Januar 1918
+        D: Brief vom Stadtpräsidenten an Ständerat Dr. Paul Usteri, 9. Januar 1918
+        D: Brief vom Stadtpräsidenten an den Stadtrat von Winterthur, 9. Januar 1918
+        D: Brief vom Stadtpräsidenten an das Präsidium des Bezirksrates, Statthalter Süsli, 9. Januar 1918
+        D: Brief vom Stadtpräsidenten an das Büro des Kantonsrates Zürich, 9. Januar 1918
+        D: … (33 Zeilen)
+NEU  V.L.80.:2. [ID 2, Dossier, E1, Eltern -, S.2] Drucksachen | Von/bis (>= x und <=y)
+        D: Gedruckte Einladungen (blanko9
+        D: Von den Schulen der Stadt Zürich seit der Stadtvereinigung. aus einer Ansprache des Schulvorstandes Arnold Heinrich Bosshardt (Separatabdruck aus der Neuen Zürcher Zeitung, Nrn. 134, 144 und 150, 27 v
+        D: 25-järhiges Jubiläum der Stadtvereinigung von Zürich. Festrede von Stadtpräsident Nägeli bei der Feier des Grossen Stadtrates auf der „Schmidstube“ am 19. Januar 1918
+        D: Zeitungsausschnitt aus der Neuen Zürcher Zeitung Nr. 134, 27. Januar 1918
+        D: Zeitungsausschnitt aus der Neuen Zürcher Zeitung Nr. 144, 9. Januar 1918
+        D: Zeitungsausschnitt aus der Neuen Zürcher Zeitung Nr. 151, 30. Januar 1918
+        H: Zeitraum aus den Jahreszahlen im Darin geschätzt.
+GEÄ  V.L.80.:1. [ID 1, Dossier, E1, Eltern -, S.1] Akten | Von/bis (>= x und <=y)
+        bis: '1892' => '22.01.1918'
+        [Darin]
+           +7 Einladungen zur Erinnerung an die vor 25 Jahren erfolgte Stadtvereinigung, 9. Januar 1918
+           +16 Antworten auf die Einladungen zur Erinnerung an die vor 25 Jahren erfolgte Stadtvereinigung, 12. bis 16. Januar 1918
+           +Verzeichnis der Eingeladenen zur Gedenkfeier, undatiert
+           +Auszug aus dem Protokoll des Stadtrates von Zürich Nr. 27 vom 9. Januar 1918
+           +Brief vom Stadtpräsidenten an Dr. Hans Müller, 9. Januar 1918
+           +Brief vom Stadtpräsidenten an Ständerat Dr. Paul Usteri, 9. Januar 1918
+           +Brief vom Stadtpräsidenten an den Stadtrat von Winterthur, 9. Januar 1918
+           +Brief vom Stadtpräsidenten an das Präsidium des Bezirksrates, Statthalter Süsli, 9. Januar 1918
+           +Brief vom Stadtpräsidenten an das Büro des Kantonsrates Zürich, 9. Januar 1918
+           +Brief vom Stadtpräsidenten an den Regierungsrat, 9. Januar 1918
+           +Brief vom Stadtpräsidenten an Redaktor S. Zurlinden, 9. Januar 1918
+           +Brief von Redaktor S. Zurlinden an Stadtpräsident Nägeli, 12. Januar 1918
+           +Brief vom Stadthalteramt Zürich an den Stadtrat, 12. Januar 1918
+           +Brief vom Stadtrat von Winterthur an den Stadtrat von Zürich, 12. Januar 1918
+           +Brief von Dr. Paul Usteri an den Stadtrat von Zürich, 13. Januar 1918
+           +Brief von alt Bezirksrat Zuppinger-Spitzer an den Stadtrat von Zürich, 13. Januar 1918
+           +Brief von Dr. Hans Müller, Dozent für Wirtschafts- und Sozialpolitik an der Universität Zürich den Stadtrat von Zürich, 14. Januar 1918
+           +Brief vom Stadtingenieur Wenner an das Tiefbauamt der Stadt Zürich, 14. Januar 1918
+           +Karte der Redaktion der Zürcher Wochen-Chronik an die Stadtkanzlei Zürich, 14. Januar 1918
+           +Brief von Schwarber & Sohn Zürich an die Stadtkanzlei Zürich, 14. Januar 1918
+           +Brief der Städtischen Strassenbahn Zürich an die Stadtkanzlei Zürich, 15. Januar 1918
+           +Brief vom Regierungsrat des Kantons Zürich an den Stadtrat von Zürich, 15. Januar 1918
+           +Brief vom Rektorat der Handelsabteilung der Höheren Töchterschule an den Stadtrat, 16. Januar 1918
+           +Brief vom Stadtarzt an die Stadtkanzlei, 16. Januar 1918
+           +Brief von Rektorat Joh. Schurter der höheren Töchterschule, 16. Januar 1918
+           +Brief vom Stadtpräsidenten an Bankrat E. Hafner, 18. Januar 1918
+           +Brief von der Stadt Genf an Stadtpräsident Nägeli, 22. Januar 1918

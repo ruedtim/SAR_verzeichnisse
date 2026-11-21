@@ -1,0 +1,27 @@
+### D3826: vorher 23 Einheiten, nachher 20 Einheiten
+WEG  VII.75.:1./T2 [ID 2, Dossier, E2, Eltern VII.75.:1., S.2] Weisungen und Berichte an Stadtrat und Grossen Stadtrat | Von/bis (>= x und <=y)
+WEG  VII.75.:2./T2 [ID 4, Dossier, E2, Eltern VII.75.:2., S.2] Aktenstücke betr. Stadtvereinigung 1893 | Von/bis (>= x und <=y)
+WEG  VII.75.:3./T2 [ID 6, Dossier, E2, Eltern VII.75.:3., S.2] Reden bei Eröffnungssitzungen von Stadtrat und Grossem Stadtrat und Vortrag über Entwicklung der Stadt | Von/bis (>= x und <=y)
+GEÄ  VII.75.:1. [ID 1, Dossier, E1, Eltern -, S.2] Weisungen und Berichte an Stadtrat und Grossen Stadtrat | Von/bis (>= x und <=y)
+        Titel: 'Amtliches' => 'Weisungen und Berichte an Stadtrat und Grossen Stadtrat'
+        Stufe: 'Serie' => 'Dossier'
+        von: '1869' => '1881'
+        bis: '1908' => '1905'
+        PDF-Seite: '1' => '2'
+GEÄ  VII.75.:2. [ID 2, Dossier, E1, Eltern -, S.2] Aktenstücke betr. Stadtvereinigung 1893 | Von/bis (>= x und <=y)
+        Titel: 'Privates' => 'Aktenstücke betr. Stadtvereinigung 1893'
+        Stufe: 'Serie' => 'Dossier'
+        von: '1866' => '1891'
+        bis: '1909' => '1893'
+        PDF-Seite: '1' => '2'
+GEÄ  VII.75.:3. [ID 3, Dossier, E1, Eltern -, S.2] Reden bei Eröffnungssitzungen von Stadtrat und Grossem Stadtrat und Vortrag über Entwicklung der Stadt | Von/bis (>= x und <=y)
+        Titel: 'Gratulationsdiplome' => 'Reden bei Eröffnungssitzungen von Stadtrat und Grossem Stadtrat und Vortrag über Entwicklung der Stadt'
+        Stufe: 'Serie' => 'Dossier'
+        von: '1906' => '1892'
+        bis: '1919' => '1902'
+        [Darin]
+           -Porträt in Mappe (Grossformat)
+           -Verzeichnis der Diplome (Bibliothek Nc)
+           +
+        PDF-Seite: '1' => '2'
+        Prüfhinweise: 'Untereinheiten reichen über den Zeitraum hinaus (1892–1902).' => ''

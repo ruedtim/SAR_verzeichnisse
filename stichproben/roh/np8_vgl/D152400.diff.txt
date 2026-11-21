@@ -1,0 +1,17 @@
+### D152400: vorher 7 Einheiten, nachher 11 Einheiten
+NEU  V.J.W.c.15.:7.1. [ID 8, Dossier, E2, Eltern V.J.W.c.15.:7., S.1] Abschriften grundlegender Urkunden der Spezialfonds für die Waisenhäuser | 
+        H: Kein Zeitraum gefunden.
+NEU  V.J.W.c.15.:7.2. [ID 9, Dossier, E2, Eltern V.J.W.c.15.:7., S.1] Kopien einiger Waisenhausordnungen im Staatsarchiv Zürich | 
+        H: Kein Zeitraum gefunden.
+NEU  V.J.W.c.15.:7.3. [ID 10, Dossier, E2, Eltern V.J.W.c.15.:7., S.1] Transkripte von Ordnungen und Satzungen des Waisenhauses. Erstellt von Stadtarchivar | 
+        D: Dr. P. Guyer
+        H: Kein Zeitraum gefunden.
+NEU  V.J.W.c.15.:7.4. [ID 11, Dossier, E2, Eltern V.J.W.c.15.:7., S.2] Korrespondenz und Berichte von Dr. P. Guyer an Dr. A. Ziegler, alt Stadtrat, anlässlich der Zusammenarbeit zwecks Herausgabe der Jubiläumsschrift von 1971 | Genau (=)
+GEÄ  V.J.W.c.15.:7. [ID 7, Teilbestand, E1, Eltern -, S.1] Materialien für die Jubiläumsschrift | Genau (=)
+        Stufe: 'Dossier' => 'Teilbestand'
+        [Darin]
+           -„Das Waisenhaus in Zürich im Wandel der Zeit 1637-1971“, 1971 erstellt von alt Stadtrat Dr. A. Ziegler. 7.1. Abschriften grundlegender Urkunden der Spezialfonds für die Waisenhäuser
+           -7.2. Kopien einiger Waisenhausordnungen im Staatsarchiv Zürich
+           -7.3. Transkripte von Ordnungen und Satzungen des Waisenhauses. Erstellt von Stadtarchivar Dr. P. Guyer
+           -7.4 Korrespondenz und Berichte von Dr. P. Guyer an Dr. A. Ziegler, alt Stadtrat, anlässlich der Zusammenarbeit zwecks Herausgabe der Jubiläumsschrift von 1971
+           +„Das Waisenhaus in Zürich im Wandel der Zeit 1637-1971“, 1971 erstellt von alt Stadtrat Dr. A. Ziegler.

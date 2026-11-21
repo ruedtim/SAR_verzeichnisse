@@ -1,0 +1,233 @@
+--- findmittel_zu_scope.py (fde790ac)
++++ findmittel_zu_scope.py (Vorschlag Runde 2)
+@@ -372,7 +372,12 @@
+ EREIGNIS_RE = re.compile(r"(?:^|\s)(vom|am)\s+$", re.I)
+ NICHT_JAHR_VOR_RE = re.compile(r"(?:Nr\.?|Nrn\.?|No\.?|Sign\.?|Seite|S\.|Bd\.|Heft|Tel\.?|Mappe|Fach|Schachtel|Ass\.)\s*$")
+ LEBENSDATEN_RE = re.compile(r"^\s*(?:geb\.|gest\.|\*|†)|^\s*\d{4}\s*[–-]\s*\d{4}\s*$")
+-PERSON_RE = re.compile(r"\((?:geb\.|gest\.|\*|†)?\s*(?:ca\.\s*)?\d{4}\s*(?:[–-]\s*(?:ca\.\s*)?\d{4})?\s*\)")
++# Lebensdaten einer Person im Titel: «(1865)», «(geb. 1865)», «(1865–1932)», auch nur das Todesjahr «(-1838)» bzw.
++# das Geburtsjahr «(1765-)» («Ludwig Heinrich Friedrich von Podewils (-1838)», VII.388.)
++PERSON_RE = re.compile(r"\((?:geb\.|gest\.|\*|†|[–-])?\s*(?:ca\.\s*)?\d{4}\s*(?:[–-]\s*(?:(?:ca\.\s*)?\d{4})?)?\s*\)")
++# nur eindeutige Lebensdaten – sie zählen gar nicht als Datum des Titels (ein blosses «(1937)» kann das Datum der
++# Unterlagen sein und bleibt Ereignisdatum)
++LEBENSDATEN_KLAMMER_RE = re.compile(r"\((?:(?:geb\.|gest\.|\*|†)\s*(?:ca\.\s*)?\d{4}|[–-]\s*\d{4}|\d{4}\s*[–-])\s*\)")
+ UNDATIERT_RE = re.compile(r"\b(undatiert|o\.\s?J\.|o\.\s?D\.|ohne Datum|s\.\s?d\.)", re.I)
+ 
+ 
+@@ -762,8 +767,11 @@
+     links, rechts = tabstopps
+     segment = " ".join(w.text for w in worte[i:])
+     noetig = 2.5 if SCHACHTEL_RE.match(segment) else 6.0
+-    if worte[i - 1].text.lower().rstrip(",") in {"vom", "von", "am", "an", "bis", "im", "in", "ab", "seit", "um",
+-                                                  "ca.", "per", "vor", "nach", "zum", "zur", "und", "–", "-", "/"}:
++    # (nur bei kleiner Lücke: nach einem Sprung von 10 pt und mehr an einen Tabulator ist es die Datumsspalte, und die
++    # Folgezeile setzt den Text fort – «… mit Registerband und ¦ 1957-1958» / «Unterlagen», VII.12.B. 3.3.1.40.)
++    if luecke < 10 and worte[i - 1].text.lower().rstrip(",") in {"vom", "von", "am", "an", "bis", "im", "in", "ab",
++                                                                 "seit", "um", "ca.", "per", "vor", "nach", "zum", "zur",
++                                                                 "und", "–", "-", "/"}:
+         return False
+     return (luecke >= noetig and any(abs(worte[i].x0 - x) <= 1.5 for x in links)) \
+         or (luecke >= 8 and any(abs(worte[-1].x1 - x) <= 1.5 for x in rechts))
+@@ -888,6 +896,54 @@
+ # «12. Juni 2007 / Dr. Robert Dünki» am Schluss: Datum und Bearbeiter
+ SCHLUSS_DATUM_RE = re.compile(r"^(?:Stadtarchiv Zürich,?\s*/?\s*)?\d{1,2}\.\s?(?:\d{1,2}\.|[A-ZÄÖÜ][a-zäöü]+\.?)"
+                               r"(?:\s?bzw\.\s?\d{1,2}\.\s?[A-ZÄÖÜ][a-zäöü]+)?\s?\d{2,4}\s*/\s*\S")
++
++
++# Anfang einer Notiz zum Bestand nach der letzten Einheit (Schlussblock in der Signaturspalte, baue_vorkommen):
++# «Anmerkungen:», «Beilagen:», «Literatur», «Zu diesem Bestand vgl. auch: …», «Der Bestand wurde am … übergeben»,
++# «Lagerung: …», «Stand: 06.07.1992», Bearbeitervermerk «Urs Scherer/ 7. Juni 1996»
++SCHLUSSNOTIZ_RE = re.compile(
++    r"^(?:Anmerkung(?:en)?|Bemerkung(?:en)?|Hinweis(?:e)?|Nota|Notiz|Beilagen?\s*:|Anlagen?\s*:|Literatur|Quellen\s*:"
++    r"|Vgl\.|Zu diesem Bestand|Zur (?:Überlieferungs|Bestands|Archiv)geschichte|Der (?:Archiv)?[Bb]estand|Dieser Bestand"
++    r"|Die Bestände|Der Nachlass|Das (?:Theater)?[Aa]rchiv\b|Dem Bestand|Lagerung|Umfang\s*:|Benützung|Total\s*:"
++    r"|Zusätzlich|Des Weiteren|Weitere Akten|Wenn keine|Die (?:Protokolle|Akten|Archivalien|Dokumente|Bücher|Pläne"
++    r"|verzeichneten)\b|Bei der Dokumentation|Der Inhalt der|Verzeichnis überarbeitet|endarchiviert)"
++    r"|\b(?:übergeben|überbracht|zugeordnet|erhalten am)\b|\bStand:\s*\d"
++    r"|(?:^|\s)[A-ZÄÖÜ][\w.\-]+(?:\s[A-ZÄÖÜ][\w.\-]+)*\s?/\s?\d{1,2}\.\s?(?:\d{1,2}\.|[A-ZÄÖÜ][a-zäöü]+\.?)\s?\d{2,4}\s*$")
++
++
++def _spaltenanfaenge(z: Zeile, luecke: float = 15.0) -> list[float]:
++    """x0 der Spalten einer Zeile (neue Spalte nach einer Lücke > luecke); eine abgetrennte Datums-, Umfang- oder
++    Schachtelspalte zählt als weitere Spalte."""
++    xs = [z.worte[0].x0] if z.worte else []
++    xs += [b.x0 for a, b in zip(z.worte, z.worte[1:]) if b.x0 - a.x1 > luecke]
++    return xs + ([999.0] if (z.datum or z.umfang or z.schachtel or z.spalten) else [])
++
++
++def ist_namenstabellenzeile(zeilen: list[Zeile], i: int) -> bool:
++    """«D. Lasserre ⟨Tab⟩ Der 4. November 1440 ⟨Tab⟩ Dezember 1940, Heft 8» in einer Tabelle Autor | Titel | Heft
++    (V.L.205.): Initiale(n) und Name, danach drei Spalten wie in den Zeilen ohne Initiale davor («Ernst Fischer ⟨Tab⟩
++    Ibsen und das Dritte Reich ⟨Tab⟩ April 1940 …») – ein Autorenname, keine Buchstaben-Signatur."""
++    z = zeilen[i]
++    w = z.worte
++    if len(w) < 3 or not re.fullmatch(r"[A-ZÄÖÜ]\.", w[0].text) or w[1].x0 - w[0].x1 > 6:
++        return False
++    xs = _spaltenanfaenge(z)
++    if len(xs) < 3 or sum(1 for a in w if a.x0 < xs[1]) > 4:
++        return False
++    gleich = 0
++    for x in zeilen[max(0, i - 15):i]:
++        if not x.worte or abs(x.x0 - z.x0) > 2 or re.fullmatch(r"[A-ZÄÖÜ]\.", x.worte[0].text):
++            continue
++        xs_x = _spaltenanfaenge(x)
++        if len(xs_x) >= 3 and abs(xs_x[1] - xs[1]) <= 3 and sum(1 for a in x.worte if a.x0 < xs_x[1]) <= 4:
++            gleich += 1
++    return gleich >= 2
++
++
++def schlusszeile(z: Zeile, text: str) -> str:
++    """Text einer Schlussvermerk-Zeile samt abgetrennten Spalten («V.J. b.202.17. Städtisches Waisenhaus Entlisberg ¦
++    1947-1956», V.J.W.c.15.) – sonst fehlen Datum, Umfang und Schachtel im Blatt Info."""
++    return " ".join([text] + [x for x in (z.datum, z.umfang, z.schachtel, z.spalten) if x and x not in text])
+ 
+ 
+ def ist_schlussvermerk(text: str, vor: "Zeile | None" = None, z: "Zeile | None" = None) -> bool:
+@@ -903,7 +959,8 @@
+ KOPFWORTE = {"nr", "signatur", "titel", "inhalt", "datum", "jahr", "jahre", "zeit", "zeitraum", "laufzeit", "schachtel",
+              "mappe", "fach", "allg", "umfang", "bemerkung", "bemerkungen", "ort", "bauherr", "objekt", "gesuch",
+              "medium", "hinweise", "hinweis", "expl", "anzahl", "band", "bände", "seite", "seiten", "bezeichnung",
+-             "saison", "aufführung", "aufführungen", "zitat", "standort", "format", "sprache", "verfasser", "autor"}
++             "saison", "aufführung", "aufführungen", "zitat", "standort", "format", "sprache", "verfasser", "autor",
++             "gegenstand"}  # «Nr. ¦ Gegenstand ¦ Datum» (VII.37.)
+ 
+ 
+ def ist_tabellenkopf(text: str) -> bool:
+@@ -1428,10 +1485,15 @@
+         if gl.punktnummern and gl.modus != "dezimal" and len(komps) == 1 and rest_ab == 1 and not band \
+                 and re.fullmatch(r"\d{1,3}", erstes) \
+                 and (int(erstes) != gl.letzte.get((zahltyp, gl._praefix(zahltyp)), 0) + 1
+-                     or (gl.letzte_marke and w[0].x0 > gl.letzte_marke[0] + 12)):
++                     or (gl.letzte_marke and w[0].x0 > gl.letzte_marke[0] + 12)
++                     or (gl.listen_nr and gl.listen_nr[0] == int(erstes) - 1 and abs(gl.listen_nr[1] - w[0].x0) <= 3
++                         and gl.listen_nr[2] in (z.seite, z.seite - 1))):
+             # «1 Rapport des Polizeiinspektorates …» nach «1.»–«4.» (VII.65.): eine Stückzahl – auch in der Folge,
+             # wenn sie eingerückt in der Textspalte steht («1. Caspar Wehrli» / «2 Rechnungen der
+-            # Zehntloskaufkommission ¦ 1834, 1846», VII.257.)
++            # Zehntloskaufkommission ¦ 1834, 1846», VII.257.) oder die Zählung einer Liste ohne Punkt fortsetzt
++            # («2. Numerierte Akten» / «Nr. Gegenstand Datum» / «1 Hans Waldmann …», «2 …», «3 Stadtratsprotokoll …»
++            # bis «59», VII.37. – sonst werden 3–8 zu Signaturen und die echten 3.–8. zu deren Teil 2)
++            gl.listen_nr = (int(erstes), w[0].x0, z.seite)
+             return None
+         if gl.modus == "dezimal" and gl.text_x0 and len(komps) == 1 and w[0].x0 >= gl.text_x0 - 4 \
+                 and not (erstes.endswith(".") and gl.vorschau.startswith(f"{komps[0]}.1.")):
+@@ -1694,9 +1756,15 @@
+     """Tragen die Signaturen einen Punkt und bilden eine Folge («1. Protokoll», «2. Kassenbuch», … «4.», VII.65.)?
+     Dann ist eine blosse Zahl ohne Punkt, die die Folge nicht fortsetzt, eine Menge («1 Rapport des
+     Polizeiinspektorates …» unter «Beilagen:»; «6 Reproduktionen in Lichtdruck» vor «1.», V.L.221.)."""
+-    nummern = [int(z.worte[0].text[:-1]) for z in zeilen
+-               if len(z.worte) > 1 and z.worte[0].x0 <= SIGNATUR_SPALTE_MAX_GLIEDERUNG
+-               and re.fullmatch(r"\d{1,3}\.", z.worte[0].text)]
++    kand = [(int(z.worte[0].text[:-1]), z.worte[0].x0) for z in zeilen
++            if len(z.worte) > 1 and z.worte[0].x0 <= SIGNATUR_SPALTE_MAX_GLIEDERUNG
++            and re.fullmatch(r"\d{1,3}\.", z.worte[0].text)]
++    # nur die Signaturspalte (die linkeste mit mindestens 3 Nummern) – nicht Tagesangaben umbrochener Zeilen
++    # («… Gustav Stähli,» / «24. Juli 1935 und Zürichsee-Zeitung …», eingerückt, VII.37.), die die Folge 1., 2., 3. …
++    # sonst unterbrechen
++    spalten = Counter(round(x) for _, x in kand)
++    links = min((x for x in spalten if sum(n for xx, n in spalten.items() if abs(xx - x) <= 3) >= 3), default=None)
++    nummern = [n for n, x in kand if links is None or abs(x - links) <= 3]
+     lauf = best = 0
+     for a, b in zip(nummern, nummern[1:]):
+         lauf = lauf + 1 if b == a + 1 else 0
+@@ -2136,12 +2204,22 @@
+             zwischentitel, kopfblock = z.text.strip(), True
+             continue
+         # Initiale am Zeilenanfang als Fortsetzung der Zeile davor: «"En unfehlbars Schönheitsmittel" von» /
+-        # «B. Grützner-Zaugg 1916» (VII.197.) – kein Buchstabe «B.» der Gliederung
++        # «B. Grützner-Zaugg 1916» (VII.197.) – kein Buchstabe «B.» der Gliederung; ebenso nach einer
++        # Personenbezeichnung: «- Schreiben des Stadtpräsidenten R. Billeter an Herrn ¦ 25. Mai 1912» / «A. Bodmer»
++        # (VII.37.: sonst erfundene Einheiten 3.A., 3.E.)
+         if probe is not None and vor is not None and re.fullmatch(r"[A-ZÄÖÜ]\.|[IVXL]{1,5}\.", z.worte[0].text) \
+                 and luft(vor, z) <= 4 and vor.text.split() \
+                 and (vor.text.split()[-1] in ANSCHLUSS_WOERTER or vor.text.split()[-1].lower() in ANSCHLUSS_KLEIN
+-                     or vor.text.rstrip()[-1:] in ",&+"):
++                     or vor.text.rstrip()[-1:] in ",&+" or PERSONENBEZEICHNUNG_AM_ENDE_RE.search(vor.text.rstrip())):
+             inhaltsliste = True  # (nicht «a)» nach «… Handwerks:», VII.179.)
++        if probe is not None and ist_namenstabellenzeile(zeilen, i):
++            inhaltsliste = True  # Autor in einer Tabelle Autor | Titel | Heft (V.L.205.)
++        # zwei Initialen vor einem Nachnamen: «B. G. Mantegazzi, Hans Waldmann, Komposition (Marsch) …» unter «Mappe 6»
++        # (VII.37.) – ein Personenname, kein Buchstabe der Gliederung (sonst erfundene Einheit 6.B.)
++        if probe is not None and len(z.worte) >= 3 and re.fullmatch(r"[A-ZÄÖÜ]\.", z.worte[0].text) \
++                and re.fullmatch(r"[A-ZÄÖÜ]\.", z.worte[1].text) and z.worte[1].x0 - z.worte[0].x1 < 6 \
++                and re.fullmatch(r"[A-ZÄÖÜ][a-zäöüßéèàç'’\-]+,?", z.worte[2].text):
++            inhaltsliste = True
+         # Überschrift mit Anzahl vor einer bei 1 beginnenden Liste: «9 Stadträte» / «1. Dr. Emil Landolt …»
+         # (V.L.136.b.) – keine Signatur 9, sondern eine Zwischenüberschrift
+         if probe is not None and aktuell is None and len(probe.pfad) == 1 and probe.pfad[0].isdigit() \
+@@ -2285,10 +2363,25 @@
+                 merke(z, "einheit", aktuell)
+                 continue
+         if ist_schlussvermerk(text, vor, z) or (im_schluss and z.x0 <= SIGNATUR_SPALTE_MAX):
+-            info.setdefault("schluss", []).append(text)
++            info.setdefault("schluss", []).append(schlusszeile(z, text))
+             merke(z, "schluss")
+             im_schluss = True
+             continue
++        # Schlussblock nach der letzten Einheit, der in der Signaturspalte beginnt, während der Text der Einheit
++        # eingerückt ist: «Beilagen:» / «1 Rapport des Polizeiinspektorates …» (VII.65.), «Zu diesem Bestand vgl.
++        # auch: „Schenkungsurkunde …“» (VII.37.) – nach einem Absatz auf den letzten Zeilen und ohne weitere
++        # Signatur danach: Schlussvermerk, nicht Darin der letzten Einheit
++        #   (nur wenn er wie eine Notiz zum Bestand beginnt – nicht die Beschreibung der letzten Einheit «Messingpokal,
++        #   versilbert, mit Deckel» (VII.10.), «Nc 4-6 mit Beilage in grüner … Mappe» (V.C.b.368.) oder eine Liste)
++        if aktuell is not None and aktuell.x0 and vor is not None and abs(z.x0 - aktuell.x0) <= 3 \
++                and aktuell.zeilen and aktuell.zeilen[0].x0 > aktuell.x0 + 15 \
++                and (abstand(vor, z) or 0) > 25 and not ist_aufzaehlung(z) and SCHLUSSNOTIZ_RE.search(text) \
++                and (z.seite == zeilen[-1].seite or i > len(zeilen) - 15) \
++                and not any(lies_signatur(x, gl.kopie()) is not None for x in zeilen[i:]):
++            info.setdefault("schluss", []).append(schlusszeile(z, text))
++            merke(z, "schluss")
++            im_schluss = True
++            continue
+         s = SCHACHTEL_RE.match(text) or re.match(r"^\d{1,4}\s+Schachtel\s+(\d+[a-z]?)\s*$", text)
+         # auch «2 ¦ Schachtel 14» mit abgetrennter Spalte (2. Schachtel der Gruppe, VII.179.)
+         nr_box = s.group(1) if s else z.schachtel if z.schachtel and re.fullmatch(r"\d{1,3}", text) else None
+@@ -2348,7 +2441,15 @@
+         # fette Zwischenüberschrift ohne Signatur direkt vor einer Einheit («Energie- und Verkehrsfragen, Radio,
+         # Fernsehen», VII.109.): nicht ins Darin der vorigen Einheit, sondern als Hinweis zur folgenden
+         # (auch in grösserer Schrift: «Stadtschreiber» / «10. Dr. Willy Bosshard», V.L.136.b.)
+-        if (all("Bold" in w.font for w in z.worte)
++        # (nicht die letzte Zeile einer nummerierten Liste, die eben als Listenpunkt verworfen wurde: «10 Enthüllung
++        # des Denkmals ¦ 26 - 32» / «11 Denkschrift ¦ 33, 34, 35» fett vor «4. Drucksachen», VII.11.)
++        listenzeile = bool(gl.listen_nr and aktuell is not None and z.worte
++                           and re.fullmatch(r"\d{1,3}\.?", z.worte[0].text)
++                           and gl.listen_nr[0] == int(z.worte[0].text.rstrip(".")) and gl.listen_nr[2] == z.seite
++                           and abs(gl.listen_nr[1] - z.worte[0].x0) <= 3
++                           and any(x.worte and x.worte[0].text.rstrip(".") == str(gl.listen_nr[0] - 1)
++                                   and abs(x.worte[0].x0 - z.worte[0].x0) <= 3 for x in aktuell.zeilen[-40:]))
++        if not listenzeile and (all("Bold" in w.font for w in z.worte)
+             or nach is not None and nach.worte
+                 and min(w.size for w in z.worte) >= max(grund_groesse, max(w.size for w in nach.worte)) + 1.5) \
+                 and len(text) <= 100 and z.x0 <= SIGNATUR_SPALTE_MAX_GLIEDERUNG \
+@@ -2381,7 +2482,7 @@
+                 and (nach is None or lies_signatur(nach, gl.kopie()) is None)
+                 and (z.seite == zeilen[-1].seite or i > len(zeilen) - 15)) \
+                 or (i > len(zeilen) - 15 and SCHLUSS_DATUM_RE.match(text)):
+-            info.setdefault("schluss", []).append(text)
++            info.setdefault("schluss", []).append(schlusszeile(z, text))
+             merke(z, "schluss")
+             im_schluss = True
+             continue
+@@ -3453,6 +3554,9 @@
+         nummern = [int(m.group(1)) for z in ohne_z for m in [re.match(r"(\d{1,4})[a-z]?\.?\s+\S", z.text)] if m]
+         laufnummern = len(nummern) >= 3 and min(nummern) < 1000
+         texte_c = [z.text[:auch_ab[id(z)]] if id(z) in auch_ab else z.text for z in ohne_z]  # ohne «siehe auch …»
++        # ohne eindeutige Lebensdaten «(-1838)» («Ludwig Heinrich Friedrich von Podewils (-1838)» / «Vertrag … ¦ 1810»,
++        # VII.388.)
++        texte_c = [LEBENSDATEN_KLAMMER_RE.sub(" ", t) for t in texte_c]
+         e.darin_ohne_spalte = "\n".join(
+             re.sub(r"^\d{1,4}[a-z]?\.?\s+", "", t) if laufnummern else t for t in texte_c)
+     elif darin_daten and not e.spalten_zeitraum and all(UNDATIERT_RE.search(d) for d in darin_daten):
+@@ -4146,7 +4250,11 @@
+     funde = finde_zeitraeume(e.titel) if e.titel else []
+     if PERSON_RE.search(e.titel):
+         # Personen-Überschrift «Oskar Wälterlin (1895–1961), Direktor … 1938–1961»: weitere
+-        # Jahreszahlen sind Amtszeiten, keine Laufzeit der Unterlagen
++        # Jahreszahlen sind Amtszeiten, keine Laufzeit der Unterlagen; die Lebensdaten selbst zählen gar nicht – auch
++        # nicht als Ersatz vor den Daten im Darin («Ludwig Heinrich Friedrich von Podewils (-1838)» / «Vertrag über das
++        # Rittergut Weisdorf ¦ 1810», VII.388.)
++        lebensdaten = [(m.start(), m.end()) for m in LEBENSDATEN_KLAMMER_RE.finditer(e.titel)]
++        funde = [f for f in funde if not any(a <= f.start and f.ende <= b for a, b in lebensdaten)]
+         for f in funde:
+             f.ereignis = True
+     # gefeierte Spanne «Zürich 600 Jahre im Bund der Eidgenossen 1352 – 1952», «100 Jahre Studentengesangverein

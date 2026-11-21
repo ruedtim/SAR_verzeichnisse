@@ -1,0 +1,150 @@
+### D3774: vorher 34 Einheiten, nachher 59 Einheiten
+WEG  VII.47.:2./T2 [ID 11, Dossier, E2, Eltern VII.47.:2., S.8] 2.38. Belege zu Nr. 174 | Von/bis (>= x und <=y)
+        D: Korrespondenz von R. Hirzel, Küsnacht, zur Erhebung zu den Eigentumsverhältnissen von 1908/1909
+        D: 2.4. Allgemeine Korrespondenz, 1843
+        D: 2.41. Korrespondenz, 1843-1899
+        D: 2.42. Korrespondenz, 1900-1949
+        D: 2.43. Korrespondenz, 1950-1959
+        D: 2.44. Korrespondenz, 1960
+        D: 2.5. Besondere Korrespondenz, 1951
+        D: 2.51. Einladungen zu Vorstandssitzungen und GV, 1951-1963
+        D: … (12 Zeilen)
+NEU  VII.47.:2.31. [ID 11, Dossier, E3, Eltern VII.47.:2.3., S.8] Nr. 9-20 Zum Jahr 1848 | Genau (=)
+        H: Im Findmittel «2.31.» – als Unternummer 2.3.1. von 2.3. gelesen, bitte prüfen.
+NEU  VII.47.:2.32. [ID 12, Dossier, E3, Eltern VII.47.:2.3., S.8] Nr.21-42 | Von/bis (>= x und <=y)
+        H: Im Findmittel «2.32.» – als Unternummer 2.3.2. von 2.3. gelesen, bitte prüfen.
+NEU  VII.47.:2.33. [ID 13, Dossier, E3, Eltern VII.47.:2.3., S.8] Nr.43-76 | Von/bis (>= x und <=y)
+        H: Im Findmittel «2.33.» – als Unternummer 2.3.3. von 2.3. gelesen, bitte prüfen.
+NEU  VII.47.:2.34. [ID 14, Dossier, E3, Eltern VII.47.:2.3., S.8] Nr.77-105 | Von/bis (>= x und <=y)
+        H: Im Findmittel «2.34.» – als Unternummer 2.3.4. von 2.3. gelesen, bitte prüfen.
+NEU  VII.47.:2.35. [ID 15, Dossier, E3, Eltern VII.47.:2.3., S.8] Nr.106-133 | Von/bis (>= x und <=y)
+        H: Im Findmittel «2.35.» – als Unternummer 2.3.5. von 2.3. gelesen, bitte prüfen.
+NEU  VII.47.:2.36. [ID 16, Dossier, E3, Eltern VII.47.:2.3., S.8] Nr.134-157 | Von/bis (>= x und <=y)
+        H: Im Findmittel «2.36.» – als Unternummer 2.3.6. von 2.3. gelesen, bitte prüfen.
+NEU  VII.47.:2.37. [ID 17, Dossier, E3, Eltern VII.47.:2.3., S.8] Nr.158-191 | Von/bis (>= x und <=y)
+        D: Fehlende Nummern: 26, 27, 32, 40, 58, 60, 75, 82, 137, 149, 156
+        D: 158-160, 164, 167-169,171, 172, 176-179, 184-190
+        H: Im Findmittel «2.37.» – als Unternummer 2.3.7. von 2.3. gelesen, bitte prüfen.
+NEU  VII.47.:2.38. [ID 18, Dossier, E3, Eltern VII.47.:2.3., S.8] Belege zu Nr. 174 | Von/bis (>= x und <=y)
+        D: Korrespondenz von R. Hirzel, Küsnacht, zur Erhebung zu den Eigentumsverhältnissen von 1908/1909
+        H: Im Findmittel «2.38.» – als Unternummer 2.3.8. von 2.3. gelesen, bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  VII.47.:2.4. [ID 19, Serie, E2, Eltern VII.47.:2., S.9] Allgemeine Korrespondenz | Von/bis (>= x und <=y)
+        H: Schachtel aus der Aufteilung in der Zusammenfassung übernommen.
+Offener Zeitraum (nur Beginn oder nur Ende).
+NEU  VII.47.:2.41. [ID 20, Dossier, E3, Eltern VII.47.:2.4., S.9] Korrespondenz | Von/bis (>= x und <=y)
+        H: Im Findmittel «2.41.» – als Unternummer 2.4.1. von 2.4. gelesen, bitte prüfen.
+NEU  VII.47.:2.42. [ID 21, Dossier, E3, Eltern VII.47.:2.4., S.9] Korrespondenz | Von/bis (>= x und <=y)
+        H: Im Findmittel «2.42.» – als Unternummer 2.4.2. von 2.4. gelesen, bitte prüfen.
+NEU  VII.47.:2.43. [ID 22, Dossier, E3, Eltern VII.47.:2.4., S.9] Korrespondenz | Von/bis (>= x und <=y)
+        H: Im Findmittel «2.43.» – als Unternummer 2.4.3. von 2.4. gelesen, bitte prüfen.
+NEU  VII.47.:2.44. [ID 23, Dossier, E3, Eltern VII.47.:2.4., S.9] Korrespondenz | Von/bis (>= x und <=y)
+        H: Im Findmittel «2.44.» – als Unternummer 2.4.4. von 2.4. gelesen, bitte prüfen.
+Offener Zeitraum (nur Beginn oder nur Ende).
+NEU  VII.47.:2.5. [ID 24, Serie, E2, Eltern VII.47.:2., S.9] Besondere Korrespondenz | Von/bis (>= x und <=y)
+        H: Offener Zeitraum (nur Beginn oder nur Ende).
+NEU  VII.47.:2.51. [ID 25, Dossier, E3, Eltern VII.47.:2.5., S.9] Einladungen zu Vorstandssitzungen und GV | Von/bis (>= x und <=y)
+        H: Im Findmittel «2.51.» – als Unternummer 2.5.1. von 2.5. gelesen, bitte prüfen.
+NEU  VII.47.:2.52. [ID 26, Dossier, E3, Eltern VII.47.:2.5., S.9] Rechtsstreit von C.E. Trümpler und Maurice Villars | Genau (=)
+        H: Im Findmittel «2.52.» – als Unternummer 2.5.2. von 2.5. gelesen, bitte prüfen.
+NEU  VII.47.:2.53. [ID 27, Dossier, E3, Eltern VII.47.:2.5., S.9] Gesuch des Privatfriedhofvereins betreffend ausserordentliche Ersitzung von Grabplätzen | Genau (=)
+        H: Im Findmittel «2.53.» – als Unternummer 2.5.3. von 2.5. gelesen, bitte prüfen.
+NEU  VII.47.:2.54. [ID 28, Dossier, E3, Eltern VII.47.:2.5., S.9] Bereinigung der Eigentumsverhältnisse an den Grabplätzen | Von/bis (>= x und <=y)
+        H: Im Findmittel «2.54» – als Unternummer 2.5.4. von 2.5. gelesen, bitte prüfen.
+NEU  VII.47.:2.55. [ID 29, Dossier, E3, Eltern VII.47.:2.5., S.9] Vorbereitungen zu Vereinsversammlungen (Traktanden) | Von/bis (>= x und <=y)
+        H: Im Findmittel «2.55» – als Unternummer 2.5.5. von 2.5. gelesen, bitte prüfen.
+NEU  VII.47.:3.51. [ID 36, Dossier, E3, Eltern VII.47.:3.5., S.9] Totenregister | Von/bis (>= x und <=y)
+        D: 1 Registerband
+        D: 1 Heftlage 1848-1906* 1 Heftlage 1897-1908** *(Zusammenstellung der Toten nach Friedhofabteilungen) **(unvollständige Fortsetzung des Registerbandes)
+        H: Im Findmittel «3.51» – als Unternummer 3.5.1. von 3.5. gelesen, bitte prüfen.
+NEU  VII.47.:3.52. [ID 37, Dossier, E3, Eltern VII.47.:3.5., S.9] Verzeichnis der Eigentümer von Grabplätzen (gemäss Grundbucheinträgen) | Von/bis (>= x und <=y)
+        D: 1884 Sept. Verzeichnis der Eigentümer (chronol. nach Kat. Nr.)
+        D: 1917 16.7. Verzeichnis der Eigentümer (chronol. nach Kat. Nr.)
+        D: 1919 9.12. Auszug aus dem Grundbuchprotokoll mit den Kat. Nrn., die im Eigentum des Privatfriedhofvereins sind.
+        D: 1943 20.3. Verzeichnis der Grabplatzeigentümer (chronologisch nach Kat. Nr.)
+        D: 1958 19.11. Verzeichnis der Grabplätze (mit Kat. Nr. und Erwerbsdatum); Dazu ein Rundschreiben des Grundbuchamtes betr. Bereinigung derEigentumsverhältnisse 1958 27.12. Liste Nr. 1 der definitiv berei
+        D: 1959 14.2. Verzeichnis der Grabplätze, deren Bereinigung eingeleitet ist
+        D: 1960 1.4. Liste der bereinigten Grabplätze
+        D: 1967 1.11. Parzellierung der Kat. Nr. 946 (ganzes Friedhofareal) in die Flächen der Privatgräber 1978 1.6. Stand der Bereinigung
+        D: … (9 Zeilen)
+        H: Im Findmittel «3.52» – als Unternummer 3.5.2. von 3.5. gelesen, bitte prüfen.
+Offener Zeitraum (nur Beginn oder nur Ende).
+NEU  VII.47.:3.53. [ID 38, Dossier, E3, Eltern VII.47.:3.5., S.11] Adresslisten undatiert Adressliste? ca.1891/ 3 Hefte Adressbuch des Privatfriedhofes | Von/bis (>= x und <=y)
+        D: 1906 zur Hohen Promenade Zürich (nach Friedhofabt.geordnet)
+        D: 1925 30.4. Adressen der Grabplatzbesitzer
+        D: Nachträge 22.3.1926
+        D: 1958 24.6. Adressliste für die Einladungen zur GV gegliedert nach: Eigentümer, bekannte Nachkommen verstorbener Eigentümer. 1960 24.6. Adressliste für Einladungen zur GV gegliedert nach: Eigentümer, M
+        D: 1962 21.6. dieselbe Gliederung wie 1960
+        D: 1968 geänderte Gliederung: Gruppen A-E
+        D: A Juristische Personen
+        D: B Lebende Eigentümer
+        D: … (12 Zeilen)
+        H: Im Findmittel «3.53» – als Unternummer 3.5.3. von 3.5. gelesen, bitte prüfen.
+Offener Zeitraum (nur Beginn oder nur Ende).
+NEU  VII.47.:4.51. [ID 45, Dossier, E3, Eltern VII.47.:4.5., S.12] Kaufverträge | Von/bis (>= x und <=y)
+        D: 1850 14.8. Kaufbrief (inkl. Detailplan) des Grafen Ludwig von Langenstein (Hztm Baden).
+        D: 1850 22.11. Kaufbrief desHans Caspar Ott-Muralt
+        D: 1853 8.3. Kaufbrief von J. Ulrich Oswald, Kaufmann in Zürich
+        D: 1866 10.10. Kaufbrief (inkl. Detailplan) von Caspar Ott-Trümpler
+        H: Im Findmittel «4.51.» – als Unternummer 4.5.1. von 4.5. gelesen, bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  VII.47.:4.52. [ID 46, Dossier, E3, Eltern VII.47.:4.5., S.12] Mietverträge | Von/bis (>= x und <=y)
+        D: 1949 23.5. Mietvertrag für den Grabplatz von Frl. Marie Baronesse Stempel von Russland für Anton Zellweger, obere Heslibachstr. 7, Küsnacht. 1959 Vertrag für die Vermietung von Grabplätzen (Entwurf mi
+        H: Im Findmittel «4.52.» – als Unternummer 4.5.2. von 4.5. gelesen, bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  VII.47.:4.53. [ID 47, Dossier, E3, Eltern VII.47.:4.5., S.12] Unterhaltsverträge ohne Datum Prof. Usteri-Trümpler in Zürich für die Gräber: Abt. C 6a Louise Marie Usteri-Trümpler 6d Elise Usteri-Wirz | 
+        H: Im Findmittel «4.53.» – als Unternummer 4.5.3. von 4.5. gelesen, bitte prüfen.
+NEU  VII.47.:4.54. [ID 48, Dossier, E3, Eltern VII.47.:4.5., S.12] Musterverträge | 
+        H: Im Findmittel «4.54.» – als Unternummer 4.5.4. von 4.5. gelesen, bitte prüfen.
+Kein Zeitraum gefunden.
+GEÄ  VII.47.:1. [ID 1, Teilbestand, E1, Eltern -, S.7] Protokolle | Von/bis (>= x und <=y)
+        Signatur: 'VII.47.1.' => 'VII.47.:1.'
+        [Prüfhinweise]
+           +Signatur im Findmittel «VII. 47.1.» ohne Doppelpunkt – als «VII.47.:1.» übernommen (wie die übrigen Signaturen), bitte prüfen.
+GEÄ  VII.47.:1.1. [ID 2, Dossier, E2, Eltern VII.47.:1., S.7] Protokollband 1 | Von/bis (>= x und <=y)
+        Übergeordnete Signatur: 'VII.47.1.' => 'VII.47.:1.'
+        Eltern: 'VII.47.1.' => 'VII.47.:1.'
+GEÄ  VII.47.:1.2. [ID 3, Dossier, E2, Eltern VII.47.:1., S.7] Protokollband 2 | Von/bis (>= x und <=y)
+        Übergeordnete Signatur: 'VII.47.1.' => 'VII.47.:1.'
+        Eltern: 'VII.47.1.' => 'VII.47.:1.'
+GEÄ  VII.47.:1.3. [ID 4, Dossier, E2, Eltern VII.47.:1., S.7] Notitzbüchlein enthält Sitzungsnotitzen, z.B. der Kirchhofkommission, Notzitzen zuEinnahmen und Ausgaben des Vereins. | Von/bis (>= x und <=y)
+        Übergeordnete Signatur: 'VII.47.1.' => 'VII.47.:1.'
+        Eltern: 'VII.47.1.' => 'VII.47.:1.'
+GEÄ  VII.47.:1.4. [ID 5, Dossier, E2, Eltern VII.47.:1., S.7] Protokolle des Vorstandes | Von/bis (>= x und <=y)
+        Übergeordnete Signatur: 'VII.47.1.' => 'VII.47.:1.'
+        Eltern: 'VII.47.1.' => 'VII.47.:1.'
+GEÄ  VII.47.:1.5. [ID 6, Dossier, E2, Eltern VII.47.:1., S.7] Protokolle der Generalversammlung bzw. Vereinsversammlung | Von/bis (>= x und <=y)
+        Übergeordnete Signatur: 'VII.47.1.' => 'VII.47.:1.'
+        Eltern: 'VII.47.1.' => 'VII.47.:1.'
+GEÄ  VII.47.:2. [ID 7, Teilbestand, E1, Eltern -, S.7] Akten | Von/bis (>= x und <=y)
+        bis: '1963' => '1951'
+GEÄ  VII.47.:2.3. [ID 10, Serie, E2, Eltern VII.47.:2., S.7] Verschiedene Akten zur Vereinsgeschichte (erschlossen durch das Archivregister) | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -2.31. Nr. 9-20 Zum Jahr 1848
+           -2.32. Nr.21-42, 1849-1865
+           -2.33. Nr.43-76, 1866-1875
+           -2.34. Nr.77-105, 1876-1880
+           -2.35. Nr.106-133, 1881-1890
+           -2.36. Nr.134-157, 1891-1900
+           -2.37. Nr.158-191, 1901-1919; Fehlende Nummern: 26, 27, 32, 40, 58, 60, 75, 82, 137, 149, 156; 158-160, 164, 167-169,171, 172, 176-179, 184-190
+           +
+GEÄ  VII.47.:3.5. [ID 35, Serie, E2, Eltern VII.47.:3., S.9] Mitgliedschaften (vgl. auch das Archivregister) | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -3.51 Totenregister
+           -1 Registerband, 1848-1896
+           -1 Heftlage 1848-1906* 1 Heftlage 1897-1908** *(Zusammenstellung der Toten nach Friedhofabteilungen) **(unvollständige Fortsetzung des Registerbandes)
+           -3.52 Verzeichnis der Eigentümer von Grabplätzen (gemäss Grundbucheinträgen), 1884-; 1884 Sept. Verzeichnis der Eigentümer (chronol. nach Kat. Nr.); 1917 16.7. Verzeichnis der Eigentümer (chronol. nac
+           +
+GEÄ  VII.47.:4.5. [ID 44, Serie, E2, Eltern VII.47.:4., S.12] Verträge (vgl. auch Archivregister, Gründungsakten 2.2) | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -4.51. Kaufverträge
+           -1850 14.8. Kaufbrief (inkl. Detailplan) des Grafen Ludwig von Langenstein (Hztm Baden). 1850 22.11. Kaufbrief desHans Caspar Ott-Muralt
+           -1853 8.3. Kaufbrief von J. Ulrich Oswald, Kaufmann in Zürich
+           -1866 10.10. Kaufbrief (inkl. Detailplan) von Caspar Ott-Trümpler
+           -4.52. Mietverträge
+           -1949 23.5. Mietvertrag für den Grabplatz von Frl. Marie Baronesse Stempel von Russland für Anton Zellweger, obere Heslibachstr. 7, Küsnacht. 1959 Vertrag für die Vermietung von Grabplätzen (Entwurf m
+           -4.54. Musterverträge
+           +

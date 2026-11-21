@@ -1,0 +1,519 @@
+### D3828: vorher 99 Einheiten, nachher 31 Einheiten
+WEG  VII.76.:3./T2 [ID 5, Dossier, E2, Eltern VII.76.:3., S.5] Vortragstexte, Referate, Ansprachen und Anträge zu Handen des Stadtarchivs | Von/bis (>= x und <=y)
+        D: “Teilsammlung von Vortragstexten, Referaten, Ansprachen, und Anträgen zu Handen des Stadtachivs von Zürich.
+        D: Die Sammlung weist verschiedene Lücken auf, da die Texte manchmal nicht aufbehalten oder Pressevertretern ausgehändigt wurden.
+        D: Viele Referate wurden mehrmals gehalten.”
+WEG  VII.76.:4./T2 [ID 25, Dossier, E2, Eltern VII.76.:4., S.5] Unteroffiziers-Veranstaltung auf der Forch, Kranzniederlegung | 
+WEG  VII.76.:4./T3 [ID 26, Dossier, E2, Eltern VII.76.:4., S.14] Vorschlag zur Schaffung einer Schweizerischen Kunstakademie | Von/bis (>= x und <=y)
+        D: 3 Dossiers mit, 1943 - 1948
+        D: sämtlichen Akten über den Vorschlag zur Schaffung einer Schweizerischen Kunstakademie
+        D: Unterlagen zur Kleinen Anfrage von Nationalrat Stirnemann zu einem Erinnerungswerk über künstlerische Arbeiten, die von der Truppe während dem Aktivdienst 1939 – 1945 ausgeführt wurden, und
+        D: Unterlagen zur Kleinen Anfrage von Nationalrat Stirnemann im Nationalrat betreffend Ateliers für Maler und Bildhauer bei der Eidgenössichen Turn- und Sportschule in Magglingen
+        D: 5.
+        D: 6. 5. Brückenbauten
+        D: “Pläne, Berechnungen und Berichte über Brückenbauten, ausgeführt von den Genie-Bautruppen der schweiz. Armee, in der Zeit vor, während und nach dem Aktivdienst 1914/19, bis ca. 1930.”
+        D: 1. Hängesteg über die Limmat zwischen Würenlos und Killwangen, 1919
+        D: … (11 Zeilen)
+WEG  VII.76.:5./T2 [ID 28, Dossier, E2, Eltern VII.76.:5., S.5] E.M.D. Budgetbemerkungen | 
+WEG  VII.76.:5./T3 [ID 29, Dossier, E2, Eltern VII.76.:5., S.15] Birsbrücke Münchenstein | Genau (=)
+WEG  VII.76.:9./T2 [ID 31, Dossier, E2, Eltern VII.76.:9., S.5] Betrachtungen zur Wehrvorlage (ca 10 Mal gehalten) | Von/bis (>= x und <=y)
+WEG  VII.76.:9./T3 [ID 32, Dossier, E2, Eltern VII.76.:9., S.15] Hängesteg über den Rhein bei Chur | Genau (=)
+        D: Drehbrücke für Gebirgssaumkolonnen, o.D.
+WEG  VII.76.:10. [ID 33, Serie, E1, Eltern -, S.2] Weisungen für Sprengkolonnen und Sprengtechnik, herausgegeben vom Geniechef der Armee | Genau (=)
+        D: Feldmässige Zerstörungen, Zerstörungstechnik, Sprengkolonnen, Karte 1:100’000 mit Eintragungen der Tankhindernisse und der zu zerstörenden Objekte
+WEG  VII.76.:10./T2 [ID 34, Dossier, E2, Eltern VII.76.:10., S.5] Dornacher Schlachtfeier | Genau (=)
+WEG  VII.76.:10./T3 [ID 35, Dossier, E2, Eltern VII.76.:10., S.15] Passerelle über den Tessin bei Airolo | Von/bis (>= x und <=y)
+        D: Notbrücke in Unterägeri, 1934
+        D: Steg über die Reuss bei Andermatt, 1926
+        D: Brettersteg, 1931
+WEG  VII.76.:11. [ID 36, Serie, E1, Eltern -, S.2] Bericht und Antrag mit Kostenberechnung zum Bau einer Brückenkopfstellung am rechten See- und Limmatufer (13 Seiten) | Von/bis (>= x und <=y)
+        D: Vorschlag von Genie-Oberst Erwin Stirnemann, 1938
+        D: Erster summarischer Bericht über die Stadtbefestigungen im Jahre 1939/40 von Genie-Chef Oberst Stirnemann (2 Seiten)
+        D: Grundsätzliches über Verteidigungsanlagen,unter besonderer Berücksichtigung der Verhältnisse im Abschnitt Zürich. Herausgabe am 17. April 1940 (2 Seiten) Weisungen zum Stellungsbau von Oberst Stirnema
+        D: Weisung zum Stellungsbau in der Stadtstellung (1 Blatt)
+        D: Bericht über das Telephonnetz im Stadtabschnitt (3 Seiten) von HD. Helbock. Vortrag Oberleutnant F. Rüegsegger über "Einrichtung vom Gelände" (11 Seiten)
+        D: Vortag Oberleutnant F. Rüegsegger über "Wert von Befestigungen" (7 Seiten) Vortrag Oberleutnant F. Rüegsegger "Ueber den Krieg" (18 Seiten)
+        D: Befehl für den Einführungskurs beim Stadtkommando, I. Teil (8 Seiten)
+        D: Befehl für den Einführungskurs beim Stadtkommando, II. Teil (15 Seiten) Befehl für die Unterkunft beim Stadtkommando (15 Seiten)
+        D: … (13 Zeilen)
+WEG  VII.76.:11./T2 [ID 37, Dossier, E2, Eltern VII.76.:11., S.5] Wehrmannsfeier auf der Forch | Genau (=)
+WEG  VII.76.:11./T3 [ID 38, Dossier, E2, Eltern VII.76.:11., S.15] Bericht über den Hochwasserdienst im Liechtenstein, Bündner Oberland und Bergell | Genau (=)
+        D: Skizzen und Berechnungen, mit Material und Zeit vom Hochwasserdienst im Emmental, 1927
+WEG  VII.76.:12. [ID 39, Serie, E1, Eltern -, S.2] Pläne zur Stadtbefestigung von Zürich | Von/bis (>= x und <=y)
+        D: Plan 1:5000, Befestigungsanlagen auf Stadtgebiet, 1. Projekt vom 4. Dezember 1939 (3 Riegelstellungen)
+        D: Übersichtsplan 1:5000 über die projektierten permanenten Werke, vom 26. März 1940 vgl. Bericht (156/2)
+        D: Übersichtsplan 1:10'000, Taktische Gliederung, 28. März 1940 (170/1) Übersichtsplan 1:10'000, Taktische Gliederung, Originalpause
+        D: Plan der Evakuationszonen (Pause)
+        D: Übersichtsplan 1:150'000 der städtischen Luftschutzanlagen
+        D: Original-Pause mit Signaturen zu den Blättern 1:2500 (Überformat)
+WEG  VII.76.:12./T2 [ID 40, Dossier, E2, Eltern VII.76.:12., S.5] Kadetten-Korps der Stadt Zürich, Kundgebung zur Förderung des Wehrgeistes der Schweizerjugend, Ansprache: “Geistige und körperliche Wehrbereitschaft der Jugend” | Genau (=)
+WEG  VII.76.:12./T3 [ID 41, Dossier, E2, Eltern VII.76.:12., S.15] Schwere Pfahljochbrücke unterhalb von Mellingen | Von/bis (>= x und <=y)
+        D: Verstärkte Kolonnenbrücke über den Linthkanal bei Grinau, 1927
+        D: Pfahljochbrücke über die alte Aare bei Unterworben, 1917
+        D: Typenpläne von schweren Pfahljochbrücken, 1922 / 1924
+        D: Klötzliträgerbrücke über die kleine Aare bei Brugg, o.D.
+        D: Schwere Brücke über die Aare bei Brugg, 1927
+        D: Bremgartenbrücke über die Aare, 1929
+        D: Klötzliträgerbrücke über die Gürbe oberhalb der Blumensteinbrücke, 1926
+        D: Statische Berechnung einer Kolonnenbrücke für 9 Tonnen Lastwagen, o.D.
+WEG  VII.76.:13. [ID 42, Serie, E1, Eltern -, S.2] Karton-Mappe mit dem definitiven Befestigungsplan der Stadt Zürich von 1939- 1939 – 1945 1940 bzw. 1945, Massstab 1:2500 mit Legende und Nummerierung sämtlicher | Von/bis (>= x und <=y)
+        D: Werke (Vgl. No. 6, Album mit Photos von Ergänzungsplänen zum Ausbau der Sihltalsperre in Wollishofen.)
+        D: Aus Formatgründen liegt der Plan (Mappe) auf der Compactus-Anlage (z.Z. UG 3 / 81).
+WEG  VII.76.:13./T2 [ID 43, Dossier, E2, Eltern VII.76.:13., S.5] 100-jähriges Jubiläum der Unteroffiziers-Gesellschaft aller Waffen | Genau (=)
+WEG  VII.76.:13./T3 [ID 44, Dossier, E2, Eltern VII.76.:13., S.15] Pont sue la Broye | Von/bis (>= x und <=y)
+        D: Pont sur la Sarine, o.D.
+        D: Pont de pilotis, o.D.
+        D: Schwere Kolonnenbrücke in Yverdon, 1926
+        D: Doppeltes Sprengwerk über den Kanal in Yverdon, 1912
+        D: Pont sur la Glàne, Salavaux, o.D.
+        D: Pont-route en bois, o.D.
+        D: Hölzerne Bogenbrücke über die kleine Aare bei Brugg, 1927
+        D: Plan zu einer Hängebrücke, o.D.
+        D: … (10 Zeilen)
+WEG  VII.76.:14. [ID 45, Serie, E1, Eltern -, S.2] 26 Tabellen-Blättern, enthaltend sämtliche Objekte der Befestigungsanlage von Abschnitt | Von/bis (>= x und <=y)
+        D: Sperrstellung im Sihltal (Wollishofen) No. 1-171 Bendlikon-Sperrstellung Wollishofen No. 191-249 Sperrstellung Wollishofen-Schanzengraben No. 271-454 Schanzengraben-Sihl No. 481-632 Sihl-Hardturmstras
+WEG  VII.76.:14./T2 [ID 46, Dossier, E2, Eltern VII.76.:14., S.5] Eidgenössisches Pontonierwettfahren in Bremgarten | Genau (=)
+WEG  VII.76.:14./T3 [ID 47, Dossier, E2, Eltern VII.76.:14., S.16] Hängwerksteg in Yverdon | Von/bis (>= x und <=y)
+        D: Brettersteg bei Savatan, 1920
+        D: Plan einer Klappsteg-Type, o.D.
+        D: Hängesteg bei Yverdon, 1909
+        D: Sprengwerkbrücke über die Unteralpreuss, 1925
+        D: Brettersteg, 1931
+        D: Laufbrücke, o.D.
+        D: Ladensteg, o.D.
+        D: Hängesteg, o.D.
+        D: … (10 Zeilen)
+WEG  VII.76.:15. [ID 48, Serie, E1, Eltern -, S.3] Stadtplan 1:15'000 mit Eintragung der begehbaren Kanäle | Genau (=)
+        D: Stadtplan 1:2500 zu einem Inf. Rekogn.-Bericht
+        D: Armierungsplan für die Tankmauer in Leimbach
+        D: Situationsplan zu einem Leicht-Kampfstand beim Lindenhof 1:250 Situationsplan zu einem Leicht-Kampfstand beim Lindenhof, 1:500 mit Luftschutzkeller
+        D: Konstruktionsvorschlag für Mg. und Lmg.
+        D: Hilfslaffete in feldmässigen Kampfständen, Massstab 1:5
+        D: Konstruktionsvorschlag für Mg-Laffete 1:10 von Büchser-Gefr. IV/156 Gnädinger (Überformat)
+WEG  VII.76.:15./T2 [ID 49, Dossier, E2, Eltern VII.76.:15., S.5] Soldatenfürsorge in der Schweizerarmee | Genau (=)
+WEG  VII.76.:15./T3 [ID 50, Dossier, E2, Eltern VII.76.:15., S.16] Verschiedene Kolonnen-Brückentypen | 
+        D: Pfahljochbrücke über die Thur bei Halden, 1925
+WEG  VII.76.:19. [ID 51, Serie, E1, Eltern -, S.3] Vorprojekt-Skizzen von Werken und Ständen: 15 Blätter Sihltalsperre (Wollishofen) | Genau (=)
+        D: 11 Blätter Unteres Seebecken, und Kostenvoranschlag
+        D: 14 Blätter Limmatabschnitt
+        D: 27 Blätter Hardstellung
+        D: 57 Blätter plus Kostenvoranschläge
+WEG  VII.76.:19./T2 [ID 52, Dossier, E2, Eltern VII.76.:19., S.5] Kadetten-Korps der Stadt Zürich | Genau (=)
+WEG  VII.76.:22. [ID 53, Serie, E1, Eltern -, S.3] Stand SBB-Viadukt | Genau (=)
+        D: Situations- und Katasterplan,
+        D: Projektplan mit Grundriss und Schnitten, Schussbereiche,
+        D: Plan zur Wasserfassung,
+        D: Plan zur Inneneinrichtung (Telefon)
+        D: Plan mit sanitären Installationen (total 5 Pläne)
+        D: Stand Traugottstrasse
+        D: Situations- und Katasterplan
+        D: Plan Inneneinrichtung,
+        D: … (13 Zeilen)
+WEG  VII.76.:22./T2 [ID 54, Dossier, E2, Eltern VII.76.:22., S.5] Orientierungsläufe des Militärischen Vorunterrichtes im Gelände | Genau (=)
+WEG  VII.76.:26. [ID 55, Serie, E1, Eltern -, S.3] 35 Blätter zum "technischen Dienst" von Oberst Stirnemann | Von/bis (>= x und <=y)
+        D: Buch mit Elementen der Feldbefestigung Ausgabe 1939
+        D: Zeichnung vom Lmg.-Stand, Eisenbeton L. perm. Ausf. 1:50
+        D: Zeichnung vom Mg.-Stand, Eisenbeton verstärkt 1:50
+        D: Zeichnung vom Mg.-Stand, Eisenbeton 1:50
+        D: Zeichnung vom I.K.-Stand, Eisenbeton 1:50
+        D: Kostenangaben f. l. Kampfstände
+        D: Kostenangaben für Kampfstände
+        D: 24 Blätter Feldbefestigungen von Oberleutnant Rüegsegger
+        D: … (11 Zeilen)
+WEG  VII.76.:26./T2 [ID 56, Dossier, E2, Eltern VII.76.:26., S.9] ZIA, Bahnhoffragen in Zürich | Genau (=)
+WEG  VII.76.:27. [ID 57, Serie, E1, Eltern -, S.4] Entstehungsgeschichte der aktiven Fliegerabwehr der Stadt Zürich, 20 m/m | Von/bis (>= x und <=y)
+        D: Kanonen Artillerie
+        D: Korrespondenzen, Berichte und Beschlüsse, Verhandlungen mit dem EMD Gst. Abt.
+        D: Referate des Bauvorstandes I vor den Militärdirektoren der Kantone, Kommissionen, Parteien und so weiter
+        D: Protokolle
+        D: Presseberichte, Flugwehr und Flugtechnik
+        D: Pläne von Werken der Stadt die geschützt werden sollen
+        D: Stadtplan mit den eingetragenen Werken
+        D: Karte 1:100'000 mit den eingetragenen Wirkungsradien der 20 m/m Kanonen Kataloge der Werkzeug-Maschinen-Fabrik Oerlikon
+        D: … (9 Zeilen)
+WEG  VII.76.:27./T2 [ID 58, Dossier, E2, Eltern VII.76.:27., S.10] Verschiedene parlamentarische Anfragen im Nationalrat zu Strassenverkehr und Touristikwagen der Bahn | Genau (=)
+WEG  VII.76.:17. [ID 62, Dossier, E1, Eltern -, S.5] Zuschriften an die Wehrmänner im Felde und die Beamten, Angestellten und Arbeiter des Bauamtes I | Von/bis (>= x und <=y)
+WEG  VII.76.:18. [ID 63, Dossier, E1, Eltern -, S.5] Weihnachtsfeier der Arbeits-Kp. 243 | Genau (=)
+WEG  VII.76.:20. [ID 64, Dossier, E1, Eltern -, S.5] Delegierten-Versammlung der Schweizerischen Offiziersgesellschaft in Fribourg | Genau (=)
+WEG  VII.76.:21. [ID 65, Dossier, E1, Eltern -, S.5] Generalversammlung Unteroffizier-Verein Zürich | Genau (=)
+WEG  VII.76.:23. [ID 66, Dossier, E1, Eltern -, S.5] Jubiläumstage des Unteroffiziervereins Zürich | Genau (=)
+WEG  VII.76.:24. [ID 67, Dossier, E1, Eltern -, S.5] Waldmannschiessen in Dübendorf | Genau (=)
+WEG  VII.76.:25. [ID 68, Dossier, E1, Eltern -, S.6] Budget E.M.D. | Genau (=)
+WEG  VII.76.:28. [ID 69, Dossier, E1, Eltern -, S.10] Walenseetalstrasse | Genau (=)
+WEG  VII.76.:29. [ID 70, Dossier, E1, Eltern -, S.10] Dankschreiben an die Mitglieder der Kommission für verkehrstechnische Fragen | Genau (=)
+WEG  VII.76.:30. [ID 71, Dossier, E1, Eltern -, S.12] “Sport im Aktivdienst”, Artikel erschienen im “Sport” | Genau (=)
+WEG  VII.76.:31. [ID 72, Dossier, E1, Eltern -, S.12] “Sport an der Landesausstellung”, Artikel im Sport und der LA-Zeitung | Genau (=)
+WEG  VII.76.:32. [ID 73, Dossier, E1, Eltern -, S.12] “Sportliche Veranstaltungen”, Erinnerungswerk der LA | Genau (=)
+WEG  VII.76.:33. [ID 74, Dossier, E1, Eltern -, S.12] Diverse Begrüssungen von Sportlern | Von/bis (>= x und <=y)
+WEG  VII.76.:34. [ID 75, Dossier, E1, Eltern -, S.12] Empfang der Delegationen zum Eishockey-Länderspiel Italien-Schweiz im Restaurant Huguenin | Genau (=)
+WEG  VII.76.:35. [ID 76, Dossier, E1, Eltern -, S.12] Sportabzeichen-Kundgebung, Stadthalle | Genau (=)
+WEG  VII.76.:36. [ID 77, Dossier, E1, Eltern -, S.13] Presse-Orientierung über Sportplätze und Anbauwerk | Genau (=)
+WEG  VII.76.:37. [ID 78, Dossier, E1, Eltern -, S.13] Turn- und Sportausschuss | Genau (=)
+WEG  VII.76.:38. [ID 79, Dossier, E1, Eltern -, S.13] “Sport, eine Lebensbejahung”, Radio-Vortrag und dann für andere Veranstaltungen abgeändertes Referat in verschiedenen Vereinen | Genau (=)
+WEG  VII.76.:39. [ID 80, Dossier, E1, Eltern -, S.13] Begrüssung spanischer Amateur-Boxkämpfer | Genau (=)
+WEG  VII.76.:40. [ID 81, Dossier, E1, Eltern -, S.13] Schweizerische Gerätemeisterschaft | Genau (=)
+WEG  VII.76.:41. [ID 82, Dossier, E1, Eltern -, S.13] Kampf zur Einführung der 3. Schul-Turnstunde | Genau (=)
+WEG  VII.76.:42. [ID 83, Dossier, E1, Eltern -, S.13] Referat in der Freisinnigen Partei im Kongresshaus | Genau (=)
+WEG  VII.76.:43. [ID 84, Dossier, E1, Eltern -, S.13] Staatsbürgerliche Vorträge, Spiel- Sportanlagen in Zürich | Genau (=)
+WEG  VII.76.:44. [ID 85, Dossier, E1, Eltern -, S.13] “Turnen, Sport und Wehrgeist”, Vortrag bei der Freisinnigen Partei Enge | Genau (=)
+WEG  VII.76.:45. [ID 86, Dossier, E1, Eltern -, S.13] Besprechung über ein Eidgenössisches Turn- und Sport-Institut | Genau (=)
+WEG  VII.76.:46. [ID 87, Dossier, E1, Eltern -, S.13] “Über den erzieherischen Wert der sportlichen Betätigung oder von der Bedeutung des Sportes für die Wehrtüchtigkeit des Landes”, Votum im Nationalrat | Genau (=)
+WEG  VII.76.:47. [ID 88, Dossier, E1, Eltern -, S.13] Anregung zum Geschäftsbericht des EDI im Nationalrat | Genau (=)
+WEG  VII.76.:48. [ID 89, Dossier, E1, Eltern -, S.13] “Heimat und Vaterland – Turnen und Sport”, Referat in der Freisinnigen Partei in Wohlen Aargau | Genau (=)
+WEG  VII.76.:49. [ID 90, Dossier, E1, Eltern -, S.13] “Erstellung von Uebungsstätten zur Förderung der körperlichen Ertüchtigung unserer Jugend”, Interpellation Stirnemann im Nationalrat | Genau (=)
+WEG  VII.76.:50. [ID 91, Dossier, E1, Eltern -, S.13] Turnverein Alte Sektion, 125-jähriges Jubiläum | Genau (=)
+WEG  VII.76.:51. [ID 92, Dossier, E1, Eltern -, S.13] Turnfest Glatt- und Limmattal in Seebach | Genau (=)
+WEG  VII.76.:52. [ID 93, Dossier, E1, Eltern -, S.13] USA-Urlauber-Empfang, Organisation dieser Empfänge | Genau (=)
+WEG  VII.76.:53. [ID 94, Dossier, E1, Eltern -, S.13] Schwimm-Wettkämpfe Frankreich-Schweiz | Genau (=)
+WEG  VII.76.:54. [ID 95, Dossier, E1, Eltern -, S.13] Eishockey-Wettkampf Schweiz-Tschechoslowakei | Genau (=)
+        D: “Viele Notizen, Texte von Referaten, Zeitungsartikeln etc. wurden weggeworfen.”
+WEG  VII.76.:16. [ID 99, Dossier, E1, Eltern -, S.16] Technischer Dienst des Sap. Bat. 4 im Wiederholungskurs in Aarburg Verschiedene Berichte von technischem Dienst in WK | Von/bis (>= x und <=y)
+        D: “Schweizer Soldat”, o.D.
+        D: Organisation und Verwendung der Genie-Baitruppen, o.D.
+        D: Anleitung zum Bau schwerer Brücken, o.D.
+        D: Organisation von Wiederholungskursen, o.D.
+        D: W.-K.-Bericht von Sap. Bat. 1, o.D.
+        D: Anleitung zum Anbringen von Sprengladungen an Brücken, o.D.
+        D: Instruktion zum Bau von Pfahljochbrücken, o.D.
+        D: Verschiedenes, o.D.
+        D: … (65 Zeilen)
+GEÄ  VII.76.:1. [ID 1, Dossier, E1, Eltern -, S.1] Fortifikation von Zürich | Von/bis (>= x und <=y)
+        von: '1939' => '1923'
+        [Darin]
+           +2. Tagebuch des Stadt-Kommando-Stabes (Abschrift), mit einigen Ergänzungen und Beilagen (80 Seiten) Tagebuchführung vom 2. Oktober 1939 bis 6. Juli 1940
+           +3. Tagebuch des Geniechefs des Stadt-Kommandos vom 4. November 1939 bis 13. Juni 1940 mit verschiednene Photos, Befehlsbeilagen, technischen Befehlen und Richtlinien, Skizzen und so weiter (92 Seiten
+           +4. Tagebuch des Geniechefs des Stadtkommandos vom 14. Juni 1940 bis 10. Dezember 1940, mit Skizzen, Photos, Berichten und verschiedenen anderen Beilagen (60 Seiten); Diese beiden Tagebücher sind Absc
+           +5. Album mit 190 Photos und Bildern, hauptsächlich Aufnahmen von Feldbefestigungen, ausgeführt durch die Truppe in der Stadt Zürich in den Jahren 1939/1940.; Die Aufnahmen erfolgten durch 2 Photograp
+           +6. Album mit 168 Photos und Bildern, über den Besuch des Generals, von Tankversuchen, Zeitungsbeilagen, des Stadtkommandostabes und so weiter, 1940
+           +7. Berichte über die Arbeiten der Ter. Regimenter 75, 82 und 83, beim Stadtkommando, bis und mit Kompagnie (110 Blätter bzw. Schreibmaschinenseiten), 1940
+           +8. Berichte und Befehle des Sappeur-Bat 24. Kommando-Bericht und Kp.-Berichte und Befehle über die Tätigkeit beim Stadtkommando (140 Blätter bzw. Schreibseiten), 1939 – 1940
+           +9. Berichte von Hauptmann W. Trüb, Dir. EWZ., 1940; 1. Evakuationsvorschläge ?! (4 Seiten); 2. Wasserversorgung, Gas, Elektrizität (3 Seiten); 3. Wasser- Gas- und Elektrizitätsversorgung (28 Seiten);
+           +10. Weisungen für Sprengkolonnen und Sprengtechnik, herausgegeben vom Geniechef der Armee, 1940; Feldmässige Zerstörungen, Zerstörungstechnik, Sprengkolonnen, Karte 1:100’000 mit Eintragungen der Tan
+           +11. Bericht und Antrag mit Kostenberechnung zum Bau einer Brückenkopfstellung am rechten See- und Limmatufer (13 Seiten), 1938 - 1940; Vorschlag von Genie-Oberst Erwin Stirnemann, 1938; Erster summar
+           +12. Pläne zur Stadtbefestigung von Zürich: Plan 1:5000, Befestigungsanlagen auf Stadtgebiet, 1. Projekt vom 4. Dezember 1939 (3 Riegelstellungen), 1939 – 1940; Übersichtsplan 1:5000 über die projekti
+           +13. Karton-Mappe mit dem definitiven Befestigungsplan der Stadt Zürich von 1939- 1939 – 1945 1940 bzw. 1945, Massstab 1:2500 mit Legende und Nummerierung sämtlicher Werke (Vgl. No. 6, Album mit Photo
+           +14. 26 Tabellen-Blättern, enthaltend sämtliche Objekte der Befestigungsanlage von Abschnitt: Sperrstellung im Sihltal (Wollishofen) No. 1-171 Bendlikon-Sperrstellung Wollishofen No. 191-249 Sperrstel
+           +15. Stadtplan 1:15'000 mit Eintragung der begehbaren Kanäle, o. D.; Stadtplan 1:2500 zu einem Inf. Rekogn.-Bericht; Armierungsplan für die Tankmauer in Leimbach; Situationsplan zu einem Leicht-Kampfs
+           +16. Projekt-Skizzen, Originale, für permanente Befestigungen der Stadtstellung, 25 Blätter No. 1-25, 1940
+           +17. Projekt-Skizzen, Originale, für permanente Befestigungen der Stadtstellung, 25 Blätter Originalpausen No. 26-50, 1940
+           +18. Projekt-Skizzen, Originale, für permanente Befestigungen der Stadtstellung, 19 Blätter Originalpausen No. 51-71 (No. 54 und 67 fehlen), 1940
+           +19. Vorprojekt-Skizzen von Werken und Ständen: 15 Blätter Sihltalsperre (Wollishofen), 1940; 11 Blätter Unteres Seebecken, und Kostenvoranschlag; 14 Blätter Limmatabschnitt; 27 Blätter Hardstellung; 
+           +20. 40 Projektpläne von permanentenWerken und Kampfständen mit Verzeichnis, 1940
+           +21. Siehe 1.23 (Doppelt auf der Liste aufgeführt)
+           +22. Stand SBB-Viadukt, 1940
+           +Situations- und Katasterplan,
+           +Projektplan mit Grundriss und Schnitten, Schussbereiche,
+           +Plan zur Wasserfassung,
+           +Plan zur Inneneinrichtung (Telefon)
+           +Plan mit sanitären Installationen (total 5 Pläne)
+           +Stand Traugottstrasse
+           +Situations- und Katasterplan
+           +Plan Inneneinrichtung,
+           +Plan sanitäre Installation
+           +Telephon & Inneinrichtung
+           +2 Pläne Grundwasserfassung für Mattensteg-Drahtschmidli 1:50
+           +Plan Grundwasserfassung SBB-Viadukt 1:50
+           +Plan Grundwasserfassung Traugottstrasse 1:50
+           +23. 9 Tarnungs- bzw. Verkleidungspläne zu den Werken Arboretum, Bauschänzli, Bahnhof, 2 Pl. Landesmuseum West, Lettensteg, SBB-Viadukt und Verkleidung, Traugottstrasse, 1940
+           +24. Allgemeine bautechnische Korrespondenz, 1939 – 1940
+           +25. Allgemeine bautechnische Korrespondenz, Rechnungen und so weiter vom technischen Bureau Hauptmann Abegg, 1940 – 1941
+           +26. 35 Blätter zum "technischen Dienst" von Oberst Stirnemann, 1923 – 1939; Buch mit Elementen der Feldbefestigung Ausgabe 1939; Zeichnung vom Lmg.-Stand, Eisenbeton L. perm. Ausf. 1:50; Zeichnung vo
+           +27. Entstehungsgeschichte der aktiven Fliegerabwehr der Stadt Zürich, 20 m/m, 1936 – 1939
+           +Kanonen Artillerie
+           +Korrespondenzen, Berichte und Beschlüsse, Verhandlungen mit dem EMD Gst. Abt.
+           +Referate des Bauvorstandes I vor den Militärdirektoren der Kantone, Kommissionen, Parteien und so weiter
+           +Protokolle
+           +Presseberichte, Flugwehr und Flugtechnik
+           +Pläne von Werken der Stadt die geschützt werden sollen
+           +Stadtplan mit den eingetragenen Werken
+           +Karte 1:100'000 mit den eingetragenen Wirkungsradien der 20 m/m Kanonen Kataloge der Werkzeug-Maschinen-Fabrik Oerlikon
+           +Passiver Luftschutz der Stadt Zürich
+           +28. Schachtel mit 13 Platten und 1 Film Format 9/12 cm mit Aufnahmen perspektivischer Skizzen von permanenten Kampfständen (Copien im Album 1.6), o. D.
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Datumsspalte'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.76.:3. [ID 5, Teilbestand, E1, Eltern -, S.5] Vortragstexte, Referate, Ansprachen und Anträge zu Handen des Stadtarchivs | Von/bis (>= x und <=y)
+        Titel: 'Tagebuch des Geniechefs des Stadt-Kommandos vom 4. November 1939 bis 13. Juni 1940 mit verschiednene Photos, Befehlsbeilagen, technischen Befehlen und Richtlinien, Skizzen und so weiter (92 Seiten)' => 'Vortragstexte, Referate, Ansprachen und Anträge zu Handen des Stadtarchivs'
+        von: '04.11.1939' => '1927'
+        bis: '13.06.1940' => '1991'
+        [Darin]
+           -
+           +“Teilsammlung von Vortragstexten, Referaten, Ansprachen, und Anträgen zu Handen des Stadtachivs von Zürich.
+           +Die Sammlung weist verschiedene Lücken auf, da die Texte manchmal nicht aufbehalten oder Pressevertretern ausgehändigt wurden.
+           +Viele Referate wurden mehrmals gehalten.”
+        Umfang: '' => '4 Schachteln'
+        PDF-Seite: '1' => '5'
+        Zeitraum-Quelle: 'Datumsspalte' => 'Untereinheiten'
+        [Prüfhinweise]
+           -Nummerierung springt: nach 1 folgt 3.
+           -Untereinheiten reichen über den Zeitraum hinaus (1927–1991).
+           +
+GEÄ  VII.76.:3.1. [ID 8, Dossier, E2, Eltern VII.76.:3., S.5] Militärisches | Von/bis (>= x und <=y)
+        Entstehungszeitraum: '' => 'Von/bis (>= x und <=y)'
+        von: '' => '1934'
+        bis: '' => '1946'
+        Entstehungszeitraum, Anm.: 'undatiert' => ''
+        [Darin]
+           +4. Unteroffiziers-Veranstaltung auf der Forch, Kranzniederlegung, o.D.
+           +5. E.M.D. Budgetbemerkungen, o.D.
+           +6. E.M.D. Budget, o.D.
+           +7. Begrüssungen von Referenten in der Offiziersgesellschaft, o.D.
+           +8. Abschriften aus dem “Goldenen Buch” der Kantonalen Offiziersgesellschaft, 1934
+           +“27 Blätter mit Copien von Eintragungen in das Goldene Buch der Kantonalen Uffiziersgesellschaft, enthaltend Äusserungen hochgestellter Persönlichkeiten über den Wert der ausserdienstlichen Tätigkeit
+           +9. Betrachtungen zur Wehrvorlage (ca 10 Mal gehalten), 1935/1936
+           +10. Dornacher Schlachtfeier, 1936
+           +11. Wehrmannsfeier auf der Forch, 1936
+           +12. Kadetten-Korps der Stadt Zürich, Kundgebung zur Förderung des Wehrgeistes der Schweizerjugend, Ansprache: “Geistige und körperliche Wehrbereitschaft der Jugend”, 1938
+           +13. 100-jähriges Jubiläum der Unteroffiziers-Gesellschaft aller Waffen, 1939
+           +14. Eidgenössisches Pontonierwettfahren in Bremgarten, 1939
+           +15. Soldatenfürsorge in der Schweizerarmee, 1940
+           +16. Militärischer Vorunterricht, 1940/1941
+           +17. Zuschriften an die Wehrmänner im Felde und die Beamten, Angestellten und Arbeiter des Bauamtes I, 1940/1944
+           +18. Weihnachtsfeier der Arbeits-Kp. 243, 1941
+           +19. Kadetten-Korps der Stadt Zürich, 1942
+           +20. Delegierten-Versammlung der Schweizerischen Offiziersgesellschaft in Fribourg, 1942
+           +21. Generalversammlung Unteroffizier-Verein Zürich, 1942
+           +22. Orientierungsläufe des Militärischen Vorunterrichtes im Gelände, 1943
+           +23. Jubiläumstage des Unteroffiziervereins Zürich, 1946
+           +24. Waldmannschiessen in Dübendorf, 1946
+           +25. Budget E.M.D., 1946
+        Zeitraum-Quelle: '' => 'Datumsspalte'
+GEÄ  VII.76.:3.10. [ID 16, Dossier, E2, Eltern VII.76.:3., S.8] Planungsfragen, Besprechung mit Ingenieuren und Architekten, Baukollegium | Von/bis (>= x und <=y)
+        bis: '1945' => '1947'
+        [Darin]
+           +26. ZIA, Bahnhoffragen in Zürich, 1947
+GEÄ  VII.76.:3.12. [ID 18, Dossier, E2, Eltern VII.76.:3., S.9] Verkehrsfragen | Von/bis (>= x und <=y)
+        bis: '1945' => '1946'
+        [Darin]
+           +27. Verschiedene parlamentarische Anfragen im Nationalrat zu Strassenverkehr und Touristikwagen der Bahn, 1945
+           +28. Walenseetalstrasse, 1946
+           +29. Dankschreiben an die Mitglieder der Kommission für verkehrstechnische Fragen, 1946
+GEÄ  VII.76.:3.17. [ID 23, Dossier, E2, Eltern VII.76.:3., S.12] Sportliches | Von/bis (>= x und <=y)
+        bis: '1939' => '1946'
+        [Darin]
+           +30. “Sport im Aktivdienst”, Artikel erschienen im “Sport”, 1939
+           +31. “Sport an der Landesausstellung”, Artikel im Sport und der LA-Zeitung, 1939
+           +32. “Sportliche Veranstaltungen”, Erinnerungswerk der LA 1939
+           +33. Diverse Begrüssungen von Sportlern, 1939
+           +34. Empfang der Delegationen zum Eishockey-Länderspiel Italien-Schweiz im Restaurant Huguenin, 1941
+           +35. Sportabzeichen-Kundgebung, Stadthalle, 1941
+           +36. Presse-Orientierung über Sportplätze und Anbauwerk, 1941
+           +37. Turn- und Sportausschuss, 1941
+           +38. “Sport, eine Lebensbejahung”, Radio-Vortrag und dann für andere Veranstaltungen abgeändertes Referat in verschiedenen Vereinen, 1942
+           +39. Begrüssung spanischer Amateur-Boxkämpfer, 1942
+           +40. Schweizerische Gerätemeisterschaft, 1942
+           +41. Kampf zur Einführung der 3. Schul-Turnstunde, 1943
+           +42. Referat in der Freisinnigen Partei im Kongresshaus, 1943
+           +43. Staatsbürgerliche Vorträge, Spiel- Sportanlagen in Zürich, 1943
+           +44. “Turnen, Sport und Wehrgeist”, Vortrag bei der Freisinnigen Partei Enge, 1943
+           +45. Besprechung über ein Eidgenössisches Turn- und Sport-Institut, 1943
+           +46. “Über den erzieherischen Wert der sportlichen Betätigung oder von der Bedeutung des Sportes für die Wehrtüchtigkeit des Landes”, Votum im Nationalrat, 1944
+           +47. Anregung zum Geschäftsbericht des EDI im Nationalrat, 1944
+           +48. “Heimat und Vaterland – Turnen und Sport”, Referat in der Freisinnigen Partei in Wohlen Aargau, 1945
+           +49. “Erstellung von Uebungsstätten zur Förderung der körperlichen Ertüchtigung unserer Jugend”, Interpellation Stirnemann im Nationalrat, 1945
+           +50. Turnverein Alte Sektion, 125-jähriges Jubiläum, 1945
+           +51. Turnfest Glatt- und Limmattal in Seebach, 1945
+           +52. USA-Urlauber-Empfang, Organisation dieser Empfänge, 1945
+           +53. Schwimm-Wettkämpfe Frankreich-Schweiz, 1945
+           +54. Eishockey-Wettkampf Schweiz-Tschechoslowakei, 1946
+           +“Viele Notizen, Texte von Referaten, Zeitungsartikeln etc. wurden weggeworfen.”
+GEÄ  VII.76.:4. [ID 26, Dossier, E1, Eltern -, S.14] Vorschlag zur Schaffung einer Schweizerischen Kunstakademie | Von/bis (>= x und <=y)
+        Titel: 'Tagebuch des Geniechefs des Stadtkommandos vom 14. Juni 1940 bis 10. Dezember 1940, mit Skizzen, Photos, Berichten und verschiedenen anderen Beilagen (60 Seiten)' => 'Vorschlag zur Schaffung einer Schweizerischen Kunstakademie'
+        Stufe: 'Serie' => 'Dossier'
+        von: '14.06.1940' => '1939'
+        bis: '10.12.1940' => '1948'
+        [Darin]
+           -Diese beiden Tagebücher sind Abschriften mit Ergänzungen zu den Originalen
+           +3 Dossiers mit, 1943 - 1948
+           +sämtlichen Akten über den Vorschlag zur Schaffung einer Schweizerischen Kunstakademie
+           +Unterlagen zur Kleinen Anfrage von Nationalrat Stirnemann zu einem Erinnerungswerk über künstlerische Arbeiten, die von der Truppe während dem Aktivdienst 1939 – 1945 ausgeführt wurden, und
+           +Unterlagen zur Kleinen Anfrage von Nationalrat Stirnemann im Nationalrat betreffend Ateliers für Maler und Bildhauer bei der Eidgenössichen Turn- und Sportschule in Magglingen
+        PDF-Seite: '1' => '14'
+        Zeitraum-Quelle: 'Datumsspalte' => 'Darin (geschätzt)'
+        Prüfhinweise: '' => 'Zeitraum aus den Jahreszahlen im Darin geschätzt.'
+GEÄ  VII.76.:5. [ID 27, Dossier, E1, Eltern -, S.15] Brückenbauten | Von/bis (>= x und <=y)
+        Titel: 'Album mit 190 Photos und Bildern, hauptsächlich Aufnahmen von Feldbefestigungen, ausgeführt durch die Truppe in der Stadt Zürich in den Jahren 1939/1940.' => 'Brückenbauten'
+        Stufe: 'Serie' => 'Dossier'
+        von: '1939' => '1909'
+        bis: '1940' => '1934'
+        Entstehungszeitraum, Anm.: '1939/1940' => '1914 – / 1918 / 1922; Darin: 1909–1934'
+        [Darin]
+           -Die Aufnahmen erfolgten durch 2 Photographen vom Armeestab
+           +“Pläne, Berechnungen und Berichte über Brückenbauten, ausgeführt von den Genie-Bautruppen der schweiz. Armee, in der Zeit vor, während und nach dem Aktivdienst 1914/19, bis ca. 1930.”
+           +1. Hängesteg über die Limmat zwischen Würenlos und Killwangen, 1919
+           +2. Kontinuierliche Hängewerk-Pfahljoch-Brücke bei Lauffohr über die Aare, 1919
+           +3. Holzbrücke zwischen Gottstatt und Scheuren über den Nidaukanal, 1926
+           +4. Brücke Muttenz-Neue Welt, 1914
+           +5. Birsbrücke Münchenstein, 1915
+           +6. Brücke aus Rundholz bei Menziken-Burg über ein Tobel, 1929
+           +7. Doppeltes Sprengwerk, Pont en bois, en amont de Salavaux, 1925
+           +8. Offene Holzbrücke über den Inn bei Samaden-Promalis, o.D.; Gedeckte Holzbrücke über die Roffla, Graubünden, 1914
+           +Hängesteg über die Rofnaschlucht, 1918
+           +Gedeckte Rheinbrücke bei Sufers, 1930
+           +Hängebrücke über die Seez, Graubünden, 1914
+           +Statistische Berechnungen und Bericht über Verstärkungsarbeiten an den, 1918
+           +Brücken Graubündens während dem Aktivdienst, o.D.
+           +9. Hängesteg über den Rhein bei Chur, 1927
+           +Drehbrücke für Gebirgssaumkolonnen, o.D.
+           +10. Passerelle über den Tessin bei Airolo, 1922
+           +Notbrücke in Unterägeri, 1934
+           +Steg über die Reuss bei Andermatt, 1926
+           +Brettersteg, 1931
+           +11. Bericht über den Hochwasserdienst im Liechtenstein, Bündner Oberland und Bergell, 1927
+           +Skizzen und Berechnungen, mit Material und Zeit vom Hochwasserdienst im Emmental, 1927
+           +12. Schwere Pfahljochbrücke unterhalb von Mellingen, 1923
+           +Verstärkte Kolonnenbrücke über den Linthkanal bei Grinau, 1927
+           +Pfahljochbrücke über die alte Aare bei Unterworben, 1917
+           +Typenpläne von schweren Pfahljochbrücken, 1922 / 1924
+           +Klötzliträgerbrücke über die kleine Aare bei Brugg, o.D.
+           +Schwere Brücke über die Aare bei Brugg, 1927
+           +Bremgartenbrücke über die Aare, 1929
+           +Klötzliträgerbrücke über die Gürbe oberhalb der Blumensteinbrücke, 1926
+           +Statische Berechnung einer Kolonnenbrücke für 9 Tonnen Lastwagen, o.D.
+           +13. Pont sue la Broye, o.D.; Pont sur la Sarine, o.D.; Pont de pilotis, o.D.; Schwere Kolonnenbrücke in Yverdon, 1926
+           +Doppeltes Sprengwerk über den Kanal in Yverdon, 1912
+           +Pont sur la Glàne, Salavaux, o.D.
+           +Pont-route en bois, o.D.
+           +Hölzerne Bogenbrücke über die kleine Aare bei Brugg, 1927
+           +Plan zu einer Hängebrücke, o.D.
+           +Kolonnenbrücke (Bockbrücke) für 9 Tonnen Lastwagen, 1914
+           +Sprengwerkbrücke in Wiedlisbach, 1918
+           +14. Hängwerksteg in Yverdon, 1924
+           +Brettersteg bei Savatan, 1920
+           +Plan einer Klappsteg-Type, o.D.
+           +Hängesteg bei Yverdon, 1909
+           +Sprengwerkbrücke über die Unteralpreuss, 1925
+           +Brettersteg, 1931
+           +Laufbrücke, o.D.
+           +Ladensteg, o.D.
+           +Hängesteg, o.D.
+           +Steg über den Süssbach bei Brugg, o.D.
+           +Steg über die Aare beim Elektrizitätswerk Aarau, Howe-Träger, 1923
+           +15. Verschiedene Kolonnen-Brückentypen, o.D.; Pfahljochbrücke über die Thur bei Halden, 1925
+           +16. Technischer Dienst des Sap. Bat. 4 im Wiederholungskurs in Aarburg, 1928
+           +Verschiedene Berichte von technischem Dienst in WK “Schweizer Soldat”, o.D., o.D.
+           +Organisation und Verwendung der Genie-Baitruppen, o.D.
+           +Anleitung zum Bau schwerer Brücken, o.D.
+           +Organisation von Wiederholungskursen, o.D.
+           +W.-K.-Bericht von Sap. Bat. 1, o.D.
+           +Anleitung zum Anbringen von Sprengladungen an Brücken, o.D.
+           +Instruktion zum Bau von Pfahljochbrücken, o.D.
+           +Verschiedenes, o.D.
+           +Genauere Angaben siehe im Verzeichnis in Schachtel 1
+        Umfang: '' => '2 Schachteln'
+        Nr. im PDF: '5.' => '6. 5.'
+        PDF-Seite: '1' => '15'
+        [Prüfhinweise]
+           -Untereinheiten reichen über den Zeitraum hinaus (1915–1915).
+           +Steht im Findmittel unter der Zwischenüberschrift «5.».
+           +Im Findmittel «6. 5.» mit zwei Nummern – als «5.» gelesen (fortlaufende Zählung), bitte prüfen.
+GEÄ  VII.76.:9. [ID 31, Dossier, E1, Eltern -, S.18] Buch “Zürich, Geschichte Kultur Wirtschaft” | Genau (=)
+        Titel: 'Berichte von Hauptmann W. Trüb, Dir. EWZ.' => 'Buch “Zürich, Geschichte Kultur Wirtschaft”'
+        Stufe: 'Serie' => 'Dossier'
+        [Darin]
+           -1. Evakuationsvorschläge ?! (4 Seiten)
+           -2. Wasserversorgung, Gas, Elektrizität (3 Seiten)
+           -3. Wasser- Gas- und Elektrizitätsversorgung (28 Seiten)
+           -4. Fortsetzung, mit Beilagen (25 Seiten)
+           +Mit Widmung des Stadtrates: “An die Offiziere der Truppen des Stadtkommandos.
+           +Der Stadtrat von Zürich beehrt sich, Ihnen zur Erinnerung an Ihre Aktivdienstzeit in Zürich 1940 das Stadtbuch Zürich zu überreichen.
+           +Der Stadtrat.
+           +Zürich, den 29. Juni 1940.”
+           +Mit Unterschrift und feldpostgestempelten Briefmarken der beteiligten Einheiten
+        Nr. im PDF: '9.' => '10. 9.'
+        PDF-Seite: '1' => '18'
+        Zeitraum-Quelle: 'Datumsspalte' => 'Darin (geschätzt)'
+        [Prüfhinweise]
+           -Nummerierung springt: nach 5 folgt 9.
+           -Untereinheiten reichen über den Zeitraum hinaus (1927–1936).
+           +Im Findmittel «10. 9.» mit zwei Nummern – als «9.» gelesen (fortlaufende Zählung), bitte prüfen.
+           +Zeitraum aus den Jahreszahlen im Darin geschätzt.
+GEÄ  VII.76.:2. [ID 2, Teilbestand, E1, Eltern -, S.4] Weitere militärische Geheimakten | Von/bis (>= x und <=y)
+        Prüfhinweise: 'Nummerierung springt: nach 27 folgt 2. Möglicher Tippfehler in der Signatur.' => ''
+GEÄ  VII.76.:6. [ID 28, Dossier, E1, Eltern -, S.16] Brücken im Sihltal | Von/bis (>= x und <=y)
+        Titel: 'Brücke aus Rundholz bei Menziken-Burg über ein Tobel' => 'Brücken im Sihltal'
+        Entstehungszeitraum: 'Genau (=)' => 'Von/bis (>= x und <=y)'
+        von: '1929' => '1932'
+        bis: '' => '1956'
+        Entstehungszeitraum, Anm.: '' => '1956; Darin: 1932–1955'
+        [Darin]
+           -
+           +Die Bezeichnung und Nummerierung der einzelnen Dossiers als “Mappe No. 34” – “Mappe No. 42” stammen ebenso vom Autor wie die Inhaltsangaben zu den einzelnen Mappen. Die Mappen No. 17 – 33 und 37 und 
+           +Mappe No.34. Projekte von neuen Sihlbrücken, mit einer statischen, 1949
+           +Berechnung, Plänen, Drucken und Bleistiftzeichnungen des Projektes, 1951
+           +Mappe No.35. 71 Blätter mit Brückenskizzen sämtlicher Sihlübergänge von Zürich bis zur Obersihl am Drusberg. Sie stellen mit dem Text dazu die ersten Aufzeichnungen dar. Beigegeben sind eine Anzahl P
+           +Mappe No.36. Sammlung von Berichten und technischen Angaben, 1939
+           +verschiedener Amtsstellen, sowie Auszügen aus Publikationen Kopien von Dokumenten u.s.w., 1955
+           +Mappe No.39. Sammlung von Plänen, Skizzen, Photos, Publikationen,, 1932
+           +Beschreibungen und Bilder der Brücken von Zürich bis Hütten, 1955
+           +Mappe No.40. Sammlung wie in Mappe No. 39 mit den Brücken von, 1935
+           +Schindellegi bis Obersihl (Enthält auch Fotografien von Brücken, die durch das Stauen des Sihlsees überflüssig und deshalb abgebrochen geworden sind), 1953
+           +Mappe No.41. Korrepondenz mit Amtsstellen und Privaten, 1953
+           +Mappe No.42. Entwürfe zu einer Monographie, Vorarbeiten, 1953
+        Nr. im PDF: '6.' => '7. 6.'
+        PDF-Seite: '15' => '16'
+        Prüfhinweise: 'Nummerierung springt: nach 54 folgt 6. Möglicher Tippfehler in der Signatur.' => 'Im Findmittel «7. 6.» mit zwei Nummern – als «6.» gelesen (fortlaufende Zählung), bitte prüfen.'
+GEÄ  VII.76.:7. [ID 29, Dossier, E1, Eltern -, S.17] Zeitungen, Plakate | Von/bis (>= x und <=y)
+        Titel: 'Doppeltes Sprengwerk, Pont en bois, en amont de Salavaux' => 'Zeitungen, Plakate'
+        Entstehungszeitraum: 'Genau (=)' => 'Von/bis (>= x und <=y)'
+        von: '1925' => '1912'
+        bis: '' => '1949'
+        Entstehungszeitraum, Anm.: '' => '1940 / 1949; Darin: 1912–1940'
+        [Darin]
+           -
+           +Überformate
+           +“Sammlung von Bildern aus Tageszeitungen und illustrierten Zeitschriften, beginnend in einer Zeit, wo die bildliche Ausschmückung von Texten einsetzte. Einiges davon hat geschichtliche Bedeutung und 
+           +1. 4 Alben mit Bildern zum Thema Militär aus der Presse, 1912
+           +2. Zeitungsartikelsammlung zum Thema Militär und Landesverteidigung, 1927
+           +3. „Verdunkelungs-Übungen […] 25./26. April 1940 und […] 26./27. April 1940“ Plakat
+           +4. „Waffenverbot für Ausländer“, 13. Mai 1940; Plakat
+           +5. „Verbot des Photographierens und anderer bildlicher Wiedergabe militärischer Anlagen“, o.D.; Plakat
+           +6. „Verbot“ [betreffend Zugang zu bestimmten Gebieten], o.D.; Plakat
+        Nr. im PDF: '7.' => '8. 7.'
+        PDF-Seite: '15' => '17'
+        Prüfhinweise: '' => 'Im Findmittel «8. 7.» mit zwei Nummern – als «7.» gelesen (fortlaufende Zählung), bitte prüfen.'
+GEÄ  VII.76.:8. [ID 30, Dossier, E1, Eltern -, S.17] Fotografien | Von/bis (>= x und <=y)
+        Titel: 'Offene Holzbrücke über den Inn bei Samaden-Promalis' => 'Fotografien'
+        von: '1914' => '1935'
+        bis: '1930' => '1945'
+        Entstehungszeitraum, Anm.: 'o.D. / 1914 – / 1918; Darin: 1914–1930' => ''
+        [Darin]
+           -Gedeckte Holzbrücke über die Roffla, Graubünden, 1914
+           -Hängesteg über die Rofnaschlucht, 1918
+           -Gedeckte Rheinbrücke bei Sufers, 1930
+           -Hängebrücke über die Seez, Graubünden, 1914
+           -Statistische Berechnungen und Bericht über Verstärkungsarbeiten an den, 1918
+           -Brücken Graubündens während dem Aktivdienst, o.D.
+           +1. Mappe mit beschrifteten Bildern vom Sihlwaldumgang, teilweise Grossformat, fotografiert von Gugelmann, 1936
+           +2. Album mit beschrifteten Bildern, 1935 - 1938
+           +des Bureau des Bauvorstandes I,
+           +Stadtratreise ins Elsass,
+           +Sihlwaldumgang des Bureau des Gemeinderates, der Rechnungsprüfungs-, Geschäftsprüfung- und Bürgerrechtskommission,
+           +Armbrust-, Pistolen- und Flobertschiessen,
+           +Besichtigung des Wildgartens Langenberg durch die Wildgarten- und Schonrevierkommission,
+           +Waldumgang des Bureaus des Gemeinderates und der ständigen Kommissionen im Höngger- und Zürichberg (Überformat)
+           +3. Album mit beschrifteten Bildern, 1938 – 1942
+           +der Dienstchefs des Bauamtes I
+           +Waldumgang 1938
+           +vom Langenberg
+           +Schonrevierkommission in Hönggerberg-Waid
+           +Sihlwaldumgang mit dem Stadtrat, dem Bureau des Gemeinderates, der Rechnungsprüfungs-, Geschäftsprüfungs- und Bürgerrechtskommission
+           +Forstbeamtenexkursion Baden
+           +Exkursion Forstwirtschaftliche Abteilung der ETH
+           +Kraftwerk Innertkirchen
+           +der alte Stadtrat im Sihlwald (Überformat)
+           +4. Album mit beschrifteten Bildern, 1943 – 1945
+           +Stadtrat besucht das “Drachenreid”
+           +Fraktionsausflug der Freisinnigen Franktion
+           +Exkursion der Forstwissenschaftlichen Abteilung der ETH
+           +Beurteilung des Wettbewerbs Freibad Letzigraben
+           +Regierungsratsbesuch auf dem Langenberg
+           +Waldumgang
+           +Besuch in Bern
+           +Amerikanische Wirtschaftsdelegation an der ETH und auf der Waid
+        Nr. im PDF: '8.' => '9. 8.'
+        PDF-Seite: '15' => '17'
+        Zeitraum-Quelle: 'Datumsspalte' => 'Darin (geschätzt)'
+        [Prüfhinweise]
+           -
+           +Im Findmittel «9. 8.» mit zwei Nummern – als «8.» gelesen (fortlaufende Zählung), bitte prüfen.
+           +Zeitraum aus den Jahreszahlen im Darin geschätzt.

@@ -1,0 +1,5 @@
+### D152390: vorher 10 Einheiten, nachher 10 Einheiten
+GEÄ  V.J.W.b.53.:6 [ID 10, Dossier, E1, Eltern -, S.1] Unser Blatt, Hauszeitung, Nr. 122 bis 123 (Mappe) | Von/bis (>= x und <=y)
+        Signatur: 'V.J.W.b.53.6' => 'V.J.W.b.53.:6'
+        [Prüfhinweise]
+           +Signatur im Findmittel «V.J.W. b.53..6» ohne Doppelpunkt – als «V.J.W.b.53.:6» übernommen (wie die übrigen Signaturen), bitte prüfen.

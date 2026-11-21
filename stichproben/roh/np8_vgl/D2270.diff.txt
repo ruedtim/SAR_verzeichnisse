@@ -1,0 +1,4 @@
+### D2270: vorher 16 Einheiten, nachher 16 Einheiten
+GEÄ  V.J.c.11.:8. [ID 8, Dossier, E1, Eltern -, S.1] Übersicht der Unterstützungen 2 aus dem Armengute der Stadt Zürich | Von/bis (>= x und <=y)
+        Signatur: 'V.J.c.11.8.' => 'V.J.c.11.:8.'
+        Prüfhinweise: '' => 'Signatur im Findmittel «V.J. c.11.8.» ohne Doppelpunkt – als «V.J.c.11.:8.» übernommen (wie die übrigen Signaturen), bitte prüfen.'

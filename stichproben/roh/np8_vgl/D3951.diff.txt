@@ -1,0 +1,6 @@
+### D3951: vorher 8 Einheiten, nachher 8 Einheiten
+GEÄ  X.T.2.:3 [ID 3, Dossier, E1, Eltern -, S.1] Emil Zopfi Die grüen Linie (Seite A) | Genau (=)
+        Titel: '[ohne Titel]' => 'Emil Zopfi Die grüen Linie (Seite A)'
+        [Darin]
+           -Emil Zopfi Die grüen Linie (Seite A)
+        Prüfhinweise: 'Kein Titel erkannt.' => ''

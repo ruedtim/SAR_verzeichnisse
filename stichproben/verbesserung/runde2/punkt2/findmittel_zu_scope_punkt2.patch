@@ -1,0 +1,132 @@
+--- findmittel_zu_scope.py (5e333035 + Runde 2)
++++ findmittel_zu_scope.py (Punkt 2)
+@@ -4329,6 +4329,41 @@
+ 
+ ZUVERLAESSIG = {"Datumsspalte", "Titel", "Inhaltsverzeichnis", "Untereinheiten", "übergeordnete Einheit",
+                 "Titel (Ereignisdatum)"}
++
++
++def _ist_premierendatum(titel: str, f: Zeitraum) -> bool:
++    """Ein einzelnes Tagesdatum in Klammern am Titelende: «… Theaterstück von Tom Stoppard (03.02.1977)»."""
++    return bool(f.von and f.von.tag and f.von == f.bis and titel[:f.start].rstrip().endswith("(")
++                and re.fullmatch(r"\)\s*[.:]?\s*", titel[f.ende:]))
++
++
++def _spielzeit_fuer_teil(e: Einheit, knoten_zr: Zeitraum | None) -> Zeitraum | None:
++    """Spielzeit der Serie für einen Teil mit eigenem Titel («5.2.4.6. - Der Tag, an dem der Papst gekidnappt wurde …»
++    unter «Produktionen … 1974/75», VII.200.): Zeitraum der übergeordneten Einheit aus Spalte, Titel oder
++    Inhaltsverzeichnis über genau zwei aufeinanderfolgende Jahre («1974/75», «1997–1998»). Nicht, wenn der Teil die
++    Einheit fortsetzt (gleicher Titel): dann hat er eigene Jahre («Gemeindegesetz ¦ 1938–1940» nach «Gemeindegesetz ¦
++    1934–1935», V.G.c.50.; zweite Ausgabe eines Buchs, X.G.)."""
++    if e.art != "teil" or e.titel_uebernommen or e.eltern is None or knoten_zr is None \
++            or not (knoten_zr.von and knoten_zr.bis) or knoten_zr.bis.jahr != knoten_zr.von.jahr + 1:
++        return None
++    # (auch nicht bei einer anderen Einheit mit derselben Nummer weiter hinten: «Signatur taucht erneut auf»)
++    if any("taucht erneut auf" in h for h in e.hinweise) or _ist_fortsetzung(e.eltern, e):
++        return None
++    return knoten_zr
++
++
++def _lage_zur_spielzeit(zr: Zeitraum, spielzeit: Zeitraum) -> str:
++    """Wie liegt ein Zeitraum zur Spielzeit? «aussen» (keine Überschneidung), «punkt» (ein einzelnes Datum oder Jahr
++    darin), «innen» (eine Spanne darin), «ueber» (eine Spanne, die die Spielzeit schneidet und über sie hinausreicht),
++    «offen» (ohne Beginn oder Ende)."""
++    if not (zr.von and zr.bis):
++        return "offen"
++    if zr.bis.schluessel(ende=True) < spielzeit.von.schluessel() \
++            or zr.von.schluessel() > spielzeit.bis.schluessel(ende=True):
++        return "aussen"
++    if zr.von == zr.bis:
++        return "punkt"
++    return "innen" if _innerhalb(zr, spielzeit) else "ueber"
+ 
+ 
+ def zeitraum_aus_titel(e: Einheit, rahmen: tuple[int, int] | None = None) -> None:
+@@ -4346,6 +4381,16 @@
+             gesamt.original = f"{e.spalten_zeitraum.original}; Darin: {_spanne(zr_d)}"
+             e.spalten_zeitraum, e.spalte_erweitert, e.darin_erweiterung = gesamt, True, zr_d
+     funde = finde_zeitraeume(e.titel) if e.titel else []
++    # Daten in einer Klammer mitten im Titel zählen sonst nicht (meist Lebensdaten o. Ä.): ohne anderes Titeldatum gilt
++    # ein volles Datum daraus («E. Utzinger, Die finanziellen Beziehungen … (Vortrag … vom 14. August 1938 in Stäfa),
++    # Broschüre, 40 Seiten», VII.55. 5.9.3.) – nicht Lebensdaten «(16. Oktober 1718 – 17. März 1767)» (VII.277.)
++    klammer_rueckfall = False
++    if not funde and e.titel and "(" in e.titel and not e.spalten_zeitraum:
++        klammern = _klammer_bereiche(e.titel)
++        funde = [f for f in finde_zeitraeume(e.titel, klammern_ignorieren=False)
++                 if f.von and f.bis and f.von.tag and f.bis.tag and f.bis.jahr - f.von.jahr <= 1
++                 and any(a < f.start and f.ende <= b for a, b in klammern)]
++        klammer_rueckfall = bool(funde)
+     if PERSON_RE.search(e.titel):
+         # Personen-Überschrift «Oskar Wälterlin (1895–1961), Direktor … 1938–1961»: weitere
+         # Jahreszahlen sind Amtszeiten, keine Laufzeit der Unterlagen; die Lebensdaten selbst zählen gar nicht – auch
+@@ -4361,6 +4406,11 @@
+         rf"\b{f.bis.jahr - f.von.jahr}\s*(?:Jahre|years|ans|anni)\b", e.titel, re.I) else f for f in funde]
+     laufzeit = [f for f in funde if not f.ereignis]
+     ereignisse = [f for f in funde if f.ereignis]
++    # Teil mit eigenem Titel und Premierendatum am Ende («Travesties oder Zürich 1917, Theaterstück von Tom Stoppard
++    # (03.02.1977)», «Aus dem Leben der Regenwürmer. Ein Familiengemälde von 1856, … (01.04.1984)», VII.200.): nur das
++    # Premierendatum zählt, die übrigen Jahre gehören zum Werktitel
++    if e.art == "teil" and len(laufzeit) > 1 and _ist_premierendatum(e.titel, laufzeit[-1]):
++        laufzeit = laufzeit[-1:]
+     if rahmen and not e.bestand:
+         # Jahre weit vor dem Bestandszeitraum sind ein Bezug, keine Laufzeit («Zürichs Beitritt zur Eidgenossenschaft,
+         # 1. Mai 1351. Denkschrift … am 1. Mai 1851», VII.381.) – nur wenn noch ein anderes Datum bleibt
+@@ -4412,6 +4462,16 @@
+         e.zeitraum, e.zeitraum_quelle = vereinige(laufzeit), "Titel"
+         if len(laufzeit) > 1:
+             e.hinweise.append(f"Mehrere Zeitangaben im Titel ({', '.join(f.original for f in laufzeit)}).")
++        if klammer_rueckfall and e.darin:
++            # das Klammerdatum nennt oft nur einen Anlass: nahe Jahre im Darin zählen mit («Tagesseminar … (3. April
++            # 1992)» / «… (8. März 1993)», V.F.c.28.; «Chlaus Lymbacher … (02.10.1990), Akten» / «1989–1991:
++            # Besetzungsliste …», VII.200.)
++            zr_d = jahre_im_text(_darin_text(e), rahmen_b)
++            g = vereinige([e.zeitraum, zr_d]) if zr_d and _ausserhalb(zr_d, e.zeitraum) else None
++            if g is not None and g.von and g.bis and e.zeitraum.von.jahr - g.von.jahr <= 10 \
++                    and g.bis.jahr - e.zeitraum.bis.jahr <= 10:
++                e.zeitraum, e.zeitraum_quelle = Zeitraum(g.von, g.bis), "Titel und Darin (geschätzt)"
++                e.hinweise.append("Zeitraum aus dem Datum in der Titelklammer und den Jahreszahlen im Darin geschätzt.")
+         # «Personendossiers 1886» / «Nüssli, Emil … ¦ 1886 – 1928» (VII.158.): die Spaltendaten der Einträge zählen
+         # mit, wenn sie lückenlos anschliessen (kein Tippfehler «Kreis III ¦ 1995-1897», V.H.c.53.); die Anmerkung
+         # nennt beide Angaben, das Titeldatum kommt wie sonst aus dem Titel
+@@ -4498,6 +4558,20 @@
+             if e.zeitraum is None and e.ereignis_zeitraum:
+                 e.zeitraum, e.zeitraum_quelle = e.ereignis_zeitraum, "Titel (Ereignisdatum)"
+         else:  # einzelne Einheit: Datum im Titel, geerbter Zeitraum, Schätzung aus dem Darin
++            # Teil mit eigenem Titel in einer Spielzeit: ohne Premierendatum gilt die Spielzeit der Serie – Jahre aus
++            # dem Werktitel («Das verschonte Land / … / Landi-Wiese 1939–1945, diverse Projekte», «(Wiederaufnahme von
++            # 1973)») und einzelne Jahre im Darin («Die Verborgenen 1948», «Radierung von 1893») sind kein Zeitraum der
++            # Unterlagen (VII.200.)
++            #   Ein Tages- oder Monatsdatum (Premiere, Gastspiel) bleibt, ebenso eine Spanne, die über die Spielzeit
++            #   hinausreicht («Professor Bernhardi … (Akten 1989–1991)», «Requiem für eine Nonne (1955/56–1956/57)»)
++            spielzeit = _spielzeit_fuer_teil(e, knoten_zr)
++            if spielzeit is not None and e.zeitraum is not None and e.zeitraum_quelle == "Titel":
++                lage = _lage_zur_spielzeit(e.zeitraum, spielzeit)
++                genau = e.zeitraum.von is not None and e.zeitraum.von.monat is not None
++                if lage == "aussen" and not (genau and e.zeitraum.von.tag) or lage == "punkt" and not genau:
++                    e.zeitraum, e.zeitraum_quelle = None, ""
++                    e.titel = e.titel_mit_datum or e.titel  # die Jahre bleiben im Titel
++                    e.hinweise = [h for h in e.hinweise if not h.startswith("Mehrere Zeitangaben im Titel")]
+             if e.zeitraum is None and e.ereignis_zeitraum and not e.undatiert:
+                 e.zeitraum, e.zeitraum_quelle = e.ereignis_zeitraum, "Titel (Ereignisdatum)"
+             if e.zeitraum is None and knoten_zr and e.titel_uebernommen and not e.undatiert:
+@@ -4514,7 +4588,19 @@
+             nur_erster = bool(re.search(r"\bo\.\s?[JD]\.", e.titel)) and not re.search(r"undatiert", e.titel, re.I)
+             if e.zeitraum is None and (not e.undatiert or (nur_erster and len(e.darin) >= 2)):
+                 zr = jahre_im_text(_darin_text(e), rahmen if not e.bestand else None)
+-                if zr:
++                if zr and spielzeit is not None and _lage_zur_spielzeit(zr, spielzeit) in ("aussen", "punkt", "offen"):
++                    # Teil einer Spielzeit-Serie: ein einzelnes Jahr oder Datum im Darin («Papier zur Klausur vom 17.
++                    # Mai 1994», «Theatertreffen Berlin 1999») oder eines ausserhalb («Die Verborgenen 1948», «Radierung
++                    # von 1893») ist kein Zeitraum – es gilt die Spielzeit; eine genauere Spanne darin bleibt
++                    # («Züglete …, S’Süess Gheimnis … (16.10./01.12.1982)», VII.200.)
++                    e.zeitraum, e.zeitraum_quelle = spielzeit, "übergeordnete Einheit"
++                elif zr and spielzeit is not None and _lage_zur_spielzeit(zr, spielzeit) == "ueber":
++                    # eine Spanne im Darin, die über die Spielzeit hinausreicht: beides («Korrespondenz … über geplante
++                    # Gastspiele 1997/98» in der Spielzeit 1996/97 → 1996–1998)
++                    g = vereinige([spielzeit, Zeitraum(zr.von, zr.bis)])
++                    e.zeitraum, e.zeitraum_quelle = Zeitraum(g.von, g.bis), "übergeordnete Einheit und Darin (geschätzt)"
++                    e.hinweise.append("Zeitraum aus der Spielzeit der Serie und den Jahreszahlen im Darin geschätzt.")
++                elif zr:
+                     e.zeitraum, e.zeitraum_quelle = Zeitraum(zr.von, zr.bis), "Darin (geschätzt)"
+                     e.hinweise.append("Zeitraum aus den Jahreszahlen im Darin geschätzt.")
+                 elif rahmen and not e.bestand and jahre_im_text(_darin_text(e)):

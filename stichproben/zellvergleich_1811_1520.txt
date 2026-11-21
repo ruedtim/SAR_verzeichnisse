@@ -1,0 +1,19 @@
+Zellvergleich 20.11. 18:11 (gesamt105) -> 21.11. 15:20 (gesamt111), Skript sha256 5e3330355bb65f47… (ohne den Patch der Prüfsession dieser Runde)
+Zeilenweise nach Position; nach entfernten Einheiten (D3861, D3702, D4058, D9978) sind die Zahlen überhöht.
+
+D10575_scope_import.xlsx: Zeilen 200 -> 200; Signatur 1, Titel 1, Darin 1, Prüfhinweise 1
+D1347_scope_import.xlsx: Zeilen 35 -> 35; bis 1, Titel 1, von 1, Darin 1
+D149628_scope_import.xlsx: Zeilen 5235 -> 5235; Darin 7, Titel 2, von 1
+D149888_scope_import.xlsx: Zeilen 262 -> 262; Signatur 1, Titel 1, Prüfhinweise 1
+D151210_scope_import.xlsx: Zeilen 3161 -> 3161; Titel 85, Darin 84, Prüfhinweise 4, Zeitraum-Quelle 3, Entstehungszeitraum 2, von 2, bis 2
+D1964_scope_import.xlsx: Zeilen 23 -> 23; Titel 1, Darin 1
+D3357_scope_import.xlsx: Zeilen 68 -> 68; Titel 1
+D3470_scope_import.xlsx: Zeilen 554 -> 554; Darin 1
+D3557_scope_import.xlsx: Zeilen 11 -> 11; Signatur 1, Titel 1, Prüfhinweise 1
+D3702_scope_import.xlsx: Zeilen 108 -> 106; Titel 61, Signatur 61, Nr. im PDF 61, Parent-ID 56, Darin 51, von 44, bis 37, Prüfhinweise 36, Zeitraum-Quelle 31, Übergeordnete Signatur 31, PDF-Seite 24, Ebene 23, Stufe 22, Entstehungszeitraum 22, Entstehungszeitraum, Anm. 12, Teil 2, Umfang 2, Verwandte Verzeichnungseinheiten 2
+D3709_scope_import.xlsx: Zeilen 18 -> 18; Darin 1
+D3861_scope_import.xlsx: Zeilen 63 -> 58; Darin 27, Titel 26, Signatur 25, Nr. im PDF 25, von 21, Zeitraum-Quelle 14, Entstehungszeitraum 14, Entstehungszeitraum, Anm. 10, Prüfhinweise 8, bis 7, PDF-Seite 6, Stufe 4, Parent-ID 4, Ebene 4, Teil 4, Übergeordnete Signatur 4
+D4054_scope_import.xlsx: Zeilen 463 -> 463; Titel 1
+D4058_scope_import.xlsx: Zeilen 147 -> 146; Nr. im PDF 11, Titel 10, Signatur 10, Darin 6, Prüfhinweise 4, Entstehungszeitraum 3, von 3, Zeitraum-Quelle 3, Stufe 1, Parent-ID 1, Ebene 1, Teil 1, Übergeordnete Signatur 1, PDF-Seite 1
+D9978_scope_import.xlsx: Zeilen 168 -> 166; Nr. im PDF 84, Darin 83, Signatur 83, Titel 74, Parent-ID 72, von 65, Entstehungszeitraum 42, Prüfhinweise 32, Zeitraum-Quelle 31, PDF-Seite 28, bis 25, Übergeordnete Signatur 10, Ebene 8, Stufe 7, Umfang 4, Entstehungszeitraum, Anm. 3, Teil 2
+Dateien je Spalte: {'Signatur': 7, 'Titel': 13, 'Darin': 11, 'Prüfhinweise': 8, 'bis': 5, 'von': 7, 'Zeitraum-Quelle': 5, 'Entstehungszeitraum': 5, 'Stufe': 4, 'Parent-ID': 4, 'Ebene': 4, 'Teil': 4, 'Übergeordnete Signatur': 4, 'Entstehungszeitraum, Anm.': 3, 'Nr. im PDF': 4, 'PDF-Seite': 4, 'Umfang': 2, 'Verwandte Verzeichnungseinheiten': 1}

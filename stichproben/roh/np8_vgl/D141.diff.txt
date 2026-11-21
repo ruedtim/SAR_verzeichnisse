@@ -1,0 +1,4 @@
+### D141: vorher 254 Einheiten, nachher 254 Einheiten
+GEÄ  V.A.c.115.:141 [ID 143, Dossier, E1, Eltern -, S.8] Initiative Rettungsinitiative Esplanade | Genau (=)
+        Signatur: 'V.A.c.115.141' => 'V.A.c.115.:141'
+        Prüfhinweise: '' => 'Signatur im Findmittel «V.A. c.115.141» ohne Doppelpunkt – als «V.A.c.115.:141» übernommen (wie die übrigen Signaturen), bitte prüfen.'

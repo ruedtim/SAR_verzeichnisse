@@ -1,0 +1,18 @@
+--- findmittel_zu_scope.py (8e2bd7f9)
++++ findmittel_zu_scope.py (nur D3657)
+@@ -3521,8 +3521,14 @@
+         alt = knoten.get((v.bestand, v.pfad))
+         getrennt = letzter is not None and letzter != (v.bestand, v.pfad) \
+             and (letzter[0] != v.bestand or letzter[1][:len(v.pfad)] != v.pfad)
++        # (nicht, wenn unter der ersten Nennung schon Untereinheiten mit Inhalt oder Datum standen: «6. Anbau eines
++        # Ausstellungsraumes» mit 6.1.–6.3., danach im PDF noch einmal «5.», «6.» statt 7., 8., VII.383.)
++        mit_unter = alt is not None and any(
++            u.pfad[:len(alt.pfad)] == alt.pfad and len(u.pfad) > len(alt.pfad) and u.bestand == alt.bestand
++            and (u.darin or u.spalten_zeitraum or u.undatiert) for u in einheiten[einheiten.index(alt) + 1:]) \
++            if alt is not None and alt in einheiten else False
+         if alt is not None and getrennt and modus == "dezimal" and not alt.darin and not alt.teile_liste \
+-                and not alt.verweise:
++                and not alt.verweise and not mit_unter:
+             # die erste Nennung war nur eine Zeile in einer Übersicht (VII.12.A.: «5.1. Theaterzettel»
+             # vor dem eigentlichen Verzeichnis) – sie fällt weg, die jetzige Nennung gilt
+             einheiten.remove(alt)

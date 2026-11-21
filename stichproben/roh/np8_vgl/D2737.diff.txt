@@ -1,0 +1,34 @@
+### D2737: vorher 5 Einheiten, nachher 8 Einheiten
+NEU  V.L.73.:3/4. [ID 3, Dossier, E1, Eltern -, S.1] II. Jahresberichte (ausführliche) | Von/bis (>= x und <=y)
+        H: Offener Zeitraum (nur Beginn oder nur Ende).
+NEU  V.L.73.:7/8. [ID 6, Dossier, E1, Eltern -, S.1] IV. Berichte und Informationen | Von/bis (>= x und <=y)
+        D: Mehrjahresberichte, diverse Drucksachen, 1914 ff.
+        D: Die letzten Jahresberichte der Stadtbibliothek, 1910 – 1915
+        D: Stiftung Schnyder von Wartensee, 1894 – 1963
+        D: Gesellschaft der Freunde der ZB, 1943 – 1977
+NEU  V.L.73.:10/11. [ID 8, Dossier, E1, Eltern -, S.1] Aktenbeilagen für Sitzungen | Von/bis (>= x und <=y)
+        H: Offener Zeitraum (nur Beginn oder nur Ende).
+GEÄ  V.L.73.:2. [ID 2, Dossier, E1, Eltern -, S.1] I. Allgemeines und Korrespondenzen (Vorarbeiten und Gründung 1903/14 ff. seither sporadisch und lückenhaft) | Von/bis (>= x und <=y)
+        [Darin]
+           -3/4 II. Jahresberichte (ausführliche), 1963 ff.
+           +
+GEÄ  V.L.73.:5. [ID 4, Dossier, E1, Eltern -, S.1] III. A Rechnungen | Von/bis (>= x und <=y)
+        [Prüfhinweise]
+           -Nummerierung springt: nach 2 folgt 5.
+GEÄ  V.L.73.:6. [ID 5, Dossier, E1, Eltern -, S.1] B Voranschläge | Von/bis (>= x und <=y)
+        von: '1894' => '1942'
+        bis: '1977' => ''
+        Entstehungszeitraum, Anm.: '1942 ff.; Darin: 1894–1977' => '1942 ff.'
+        [Darin]
+           -7/8 IV. Berichte und Informationen, 1910 ff.
+           -Mehrjahresberichte, diverse Drucksachen, 1914 ff.
+           -Die letzten Jahresberichte der Stadtbibliothek, 1910 – 1915
+           -Stiftung Schnyder von Wartensee, 1894 – 1963
+           -Gesellschaft der Freunde der ZB, 1943 – 1977
+           +
+        Prüfhinweise: '' => 'Offener Zeitraum (nur Beginn oder nur Ende).'
+GEÄ  V.L.73.:9. [ID 7, Dossier, E1, Eltern -, S.1] Protokolle der Baukommmission | Von/bis (>= x und <=y)
+        Entstehungszeitraum, Anm.: '1914 – 1918; Darin: 1960–1987' => '1914 – 1918; Darin: 1975–1987'
+        [Darin]
+           -10/11 Aktenbeilagen für Sitzungen, 1960 ff.
+        Prüfhinweise: 'Nummerierung springt: nach 6 folgt 9.' => ''

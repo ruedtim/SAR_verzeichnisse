@@ -1,0 +1,7 @@
+### D134644: vorher 89 Einheiten, nachher 89 Einheiten
+GEÄ  VII.374.:10.1.1. [ID 56, Dossier, E2, Eltern VII.374.:10., S.50] Rechtes Limmatufer (grosse Stadt) | 
+        Titel: 'Bildarchiv (Bilder und Fotos)' => 'Rechtes Limmatufer (grosse Stadt)'
+        [Darin]
+           -Rechtes Limmatufer (grosse Stadt)
+        [Prüfhinweise]
+           -Kein eigener Titel im Findmittel – Titel der übergeordneten Einheit übernommen.

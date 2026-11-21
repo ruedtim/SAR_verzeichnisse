@@ -1,0 +1,27 @@
+### D3816: vorher 125 Einheiten, nachher 125 Einheiten
+GEÄ  VII.7.:95.1. [ID 117, Dossier, E2, Eltern VII.7.:95, S.7] Band 1 | Von/bis (>= x und <=y)
+        Signatur: 'VII.7.95.1.' => 'VII.7.:95.1.'
+        Prüfhinweise: '' => 'Signatur im Findmittel «VII. 7.95.1.» ohne Doppelpunkt – als «VII.7.:95.1.» übernommen (wie die übrigen Signaturen), bitte prüfen.'
+GEÄ  VII.7.:95.2. [ID 118, Dossier, E2, Eltern VII.7.:95, S.7] Band 2 | Von/bis (>= x und <=y)
+        Signatur: 'VII.7.95.2.' => 'VII.7.:95.2.'
+        Prüfhinweise: '' => 'Signatur im Findmittel «VII. 7.95.2.» ohne Doppelpunkt – als «VII.7.:95.2.» übernommen (wie die übrigen Signaturen), bitte prüfen.'
+GEÄ  VII.7.:95.3. [ID 119, Dossier, E2, Eltern VII.7.:95, S.7] Band 3 | Von/bis (>= x und <=y)
+        Signatur: 'VII.7.95.3.' => 'VII.7.:95.3.'
+        Prüfhinweise: '' => 'Signatur im Findmittel «VII. 7.95.3.» ohne Doppelpunkt – als «VII.7.:95.3.» übernommen (wie die übrigen Signaturen), bitte prüfen.'
+GEÄ  VII.7.:95.4. [ID 120, Dossier, E2, Eltern VII.7.:95, S.7] Band 4 | Von/bis (>= x und <=y)
+        Signatur: 'VII.7.95.4.' => 'VII.7.:95.4.'
+        Prüfhinweise: '' => 'Signatur im Findmittel «VII. 7.95.4.» ohne Doppelpunkt – als «VII.7.:95.4.» übernommen (wie die übrigen Signaturen), bitte prüfen.'
+GEÄ  VII.7.:95.5. [ID 121, Dossier, E2, Eltern VII.7.:95, S.7] Band 5 | Von/bis (>= x und <=y)
+        Signatur: 'VII.7.95.5.' => 'VII.7.:95.5.'
+        Prüfhinweise: '' => 'Signatur im Findmittel «VII. 7.95.5.» ohne Doppelpunkt – als «VII.7.:95.5.» übernommen (wie die übrigen Signaturen), bitte prüfen.'
+GEÄ  VII.7.:95.6. [ID 122, Dossier, E2, Eltern VII.7.:95, S.7] Band 6 | Von/bis (>= x und <=y)
+        Signatur: 'VII.7.95.6.' => 'VII.7.:95.6.'
+        Prüfhinweise: '' => 'Signatur im Findmittel «VII. 7.95.6.» ohne Doppelpunkt – als «VII.7.:95.6.» übernommen (wie die übrigen Signaturen), bitte prüfen.'
+GEÄ  VII.7.:95.7. [ID 123, Dossier, E2, Eltern VII.7.:95, S.7] Band 7 (Statistik) | 
+        Signatur: 'VII.7.95.7.' => 'VII.7.:95.7.'
+        [Prüfhinweise]
+           +Signatur im Findmittel «VII. 7.95.7.» ohne Doppelpunkt – als «VII.7.:95.7.» übernommen (wie die übrigen Signaturen), bitte prüfen.
+GEÄ  VII.7.:95.8. [ID 124, Dossier, E2, Eltern VII.7.:95, S.7] Band 8 (Personen- und Ortsregister) | 
+        Signatur: 'VII.7.95.8.' => 'VII.7.:95.8.'
+        [Prüfhinweise]
+           +Signatur im Findmittel «VII. 7.95.8.» ohne Doppelpunkt – als «VII.7.:95.8.» übernommen (wie die übrigen Signaturen), bitte prüfen.

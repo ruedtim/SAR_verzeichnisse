@@ -1,0 +1,14 @@
+### D152781: vorher 17 Einheiten, nachher 17 Einheiten
+GEÄ  VII.239.:5. [ID 15, Teilbestand, E1, Eltern -, S.4] Persönliche Dokumente / Gegenstände | Von/bis (>= x und <=y)
+        bis: '1937' => '1923'
+GEÄ  VII.239.:5.1. [ID 16, Dossier, E2, Eltern VII.239.:5., S.4] Persönliche Dokumente: Kursausweis des Kantonal-zürcher. Vereins für Knabenhandarbeit (1923) | Genau (=)
+        Titel: 'Persönliche Dokumente / Gegenstände' => 'Persönliche Dokumente: Kursausweis des Kantonal-zürcher. Vereins für Knabenhandarbeit (1923)'
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => 'Genau (=)'
+        bis: '1937' => ''
+        [Darin]
+           -Persönliche Dokumente: Kursausweis des Kantonal-zürcher. Vereins für Knabenhandarbeit (1923)
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Titel (Ereignisdatum)'
+        [Prüfhinweise]
+           -Kein eigener Titel im Findmittel – Titel der übergeordneten Einheit übernommen.
+           -Zeitraum aus den Jahreszahlen im Darin geschätzt.
+           +

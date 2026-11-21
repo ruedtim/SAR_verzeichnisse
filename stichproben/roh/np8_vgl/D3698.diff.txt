@@ -1,0 +1,21 @@
+### D3698: vorher 24 Einheiten, nachher 25 Einheiten
+NEU  VII.4.:6-7a [ID 7, Teilbestand, E1, Eltern -, S.1] Kopierbuch der Strassenbahnkommission | Von/bis (>= x und <=y)
+GEÄ  VII.4.:5 [ID 6, Dossier, E1, Eltern -, S.1] Aktensammlung des Aktuariates der Strassenbahnkommission | Von/bis (>= x und <=y)
+        bis: '1892' => '1882'
+        Entstehungszeitraum, Anm.: '1881-1882; Darin: 1881–1892' => ''
+        [Darin]
+           -VII.4.:6-7a Kopierbuch der Strassenbahnkommission, 1881-1892
+           +
+        Umfang: '1 Band; 3 Bände' => '1 Band'
+GEÄ  VII.4.:6 [ID 8, Dossier, E2, Eltern VII.4.:6-7a, S.1] Band 1 | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.4.' => 'VII.4.:6-7a'
+        Eltern: '-' => 'VII.4.:6-7a'
+GEÄ  VII.4.:7 [ID 9, Dossier, E2, Eltern VII.4.:6-7a, S.1] Band 2 | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.4.' => 'VII.4.:6-7a'
+        Eltern: '-' => 'VII.4.:6-7a'
+GEÄ  VII.4.:7a [ID 10, Dossier, E2, Eltern VII.4.:6-7a, S.1] Band 3 | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.4.' => 'VII.4.:6-7a'
+        Eltern: '-' => 'VII.4.:6-7a'

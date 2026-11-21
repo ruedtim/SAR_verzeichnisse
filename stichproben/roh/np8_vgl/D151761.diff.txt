@@ -1,0 +1,5 @@
+### D151761: vorher 6 Einheiten, nachher 6 Einheiten
+GEÄ  V.J.P.b.60.:2 [ID 2, Dossier, E1, Eltern -, S.1] Rezeptenkontrolle des Bürgerasyls | Von/bis (>= x und <=y)
+        Signatur: 'V.J.P.b.60.2' => 'V.J.P.b.60.:2'
+        [Prüfhinweise]
+           +Signatur im Findmittel «V.J.P. b.60..2» ohne Doppelpunkt – als «V.J.P.b.60.:2» übernommen (wie die übrigen Signaturen), bitte prüfen.

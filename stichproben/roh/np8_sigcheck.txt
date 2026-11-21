@@ -1,0 +1,248 @@
+### D134644: Einheiten 89 -> 89; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 120 -> 120
+### D140969: Einheiten 86 -> 93; ohne Zeilenanfang 3 -> 3; Nummernzeilen ohne Einheit 27 -> 26
+   - (vorher Nummer ohne Einheit) S.13 x71: 57 – 58 Zeitungsausschnitte (2 Schachteln)
+### D141: Einheiten 254 -> 254; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 0 -> 0
+### D149835: Einheiten 26 -> 19; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 1 -> 8
+   + verloren? S.5 x71: 1. Ernennung des L. von Orelli zum Kompagniekommandanten eines englischen Regime
+   + verloren? S.5 x71: 2. Zeugnis für L. von Orelli, geb. 1759, über dessen Dienstzeit im Regiment Stei
+   + verloren? S.5 x71: 3. Begleiturkunde des Stadtrates Zürich zur goldenen Verdienstmedaille an C.A.L.
+   + verloren? S.5 x71: 4. Dankurkunde des Grossen Stadtrates Zürich an C.A.L. von Orelli für dessen
+   + verloren? S.5 x71: 5. Entlassungsurkunde für C.A.L. von Orelli als Stadtforstmeister 1874, silberne
+   + verloren? S.5 x71: 6. Expertenbericht über den Forst und Sihlwald und Dankadresse des Grossen Stadt
+   + verloren? S.5 x71: 7. Dankurkunde des Grossen Stadtrates Zürich an C.A.L. von Orelli für die Schenk
+### D150689: Einheiten 299 -> 299; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 505 -> 505
+### D151730: Einheiten 20 -> 42; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 0 -> 4
+   + verloren? S.4 x170: 1. Schachtel 1914-1924
+   + verloren? S.4 x170: 2. Schachtel 1925-1929
+   + verloren? S.4 x170: 3. Schachtel 1930-1934
+   + verloren? S.4 x170: 4. Schachtel 1935-1940
+### D151761: Einheiten 6 -> 6; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 1 -> 1
+### D152390: Einheiten 10 -> 10; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 1 -> 1
+### D152400: Einheiten 7 -> 11; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 0 -> 0
+### D152781: Einheiten 17 -> 17; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 20 -> 20
+### D152817: Einheiten 704 -> 704; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 0 -> 0
+### D176721: Einheiten 191 -> 191; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 7 -> 7
+### D176772: Einheiten 22 -> 22; ohne Zeilenanfang 9 -> 9; Nummernzeilen ohne Einheit 10 -> 10
+### D1874: Einheiten 303 -> 105; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 17 -> 3
+   - (vorher Nummer ohne Einheit) S.4 x132: 1 Elevatorengebäude mit Füllrumpfanlage
+   - (vorher Nummer ohne Einheit) S.4 x132: 4 Ofenhaus I, altes
+   - (vorher Nummer ohne Einheit) S.4 x132: 5 Ofenanlage, Hochkamine, Betriebsleitungen
+   - (vorher Nummer ohne Einheit) S.4 x132: 6 Kohlentransportanlage 1-31
+   - (vorher Nummer ohne Einheit) S.4 x132: 7
+   - (vorher Nummer ohne Einheit) S.4 x132: 8 Arbeitszimmer, Badeanlage, Küche, Verträge Verwaltungsgebäude
+   - (vorher Nummer ohne Einheit) S.5 x126: 31a Neue Geleiseanlage, Wagonwaagen
+   - (vorher Nummer ohne Einheit) S.5 x130: 35 Gasleitungen der Gemeinde Schlieren
+   - (vorher Nummer ohne Einheit) S.5 x126: 41a Arbeiterwohnungen Allmendstrasse 1-11, Zürcherstrasse 50
+   - (vorher Nummer ohne Einheit) S.6 x130: 51 Retortenhaus II, 1 – 29
+   - (vorher Nummer ohne Einheit) S.6 x129: 70 2 te. Lokomotive, 3te. Lokomotive, offener + geschlossene Güterwagen,
+   - (vorher Nummer ohne Einheit) S.13 x123: 222a Kammerofenanlage II: Ofenbedienungsmaschine II, Füllwagen II,
+   - (vorher Nummer ohne Einheit) S.15 x126: 281
+   - (vorher Nummer ohne Einheit) S.16 x71: 3. Pläne in Mappen (plano gelagerte Pläne)
+### D2270: Einheiten 16 -> 16; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 0 -> 0
+### D2620: Einheiten 139 -> 139; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 62 -> 62
+### D2687: Einheiten 2 -> 2; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 0 -> 3
+   + verloren? S.2 x71: 17.10.07 / 2 / VBI / MAX © Stadtarchiv Zürich
+   + verloren? S.3 x71: 17.10.07 / 3 / VBI / MAX © Stadtarchiv Zürich
+   + verloren? S.4 x71: 17.10.07 / 4 / VBI / MAX © Stadtarchiv Zürich
+### D2737: Einheiten 5 -> 8; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 0 -> 0
+### D2745: Einheiten 2 -> 2; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 0 -> 1
+   + verloren? S.2 x71: 17.10.07 / 2 / VBI / MAX © Stadtarchiv Zürich
+### D2850: Einheiten 54 -> 71; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 68 -> 50
+   - (vorher Nummer ohne Einheit) S.9 x71: 49 Schriften zum Proportionalwahlrecht
+   - (vorher Nummer ohne Einheit) S.10 x71: 50 Zeitungsartikel I 1898 – 1958
+   - (vorher Nummer ohne Einheit) S.10 x71: 51 Zeitungsartikel II (Dossier: Ueberhitzte Konjunktur) 1959 – 1963
+   - (vorher Nummer ohne Einheit) S.10 x71: 52 Referate und Vorträge I 1906 – 1937
+   - (vorher Nummer ohne Einheit) S.12 x71: 53 Referate und Vorträge II 1938 – 1962
+   - (vorher Nummer ohne Einheit) S.13 x71: 54 Berufliche und politische Laufbahn von Emil Klöti 1907
+   - (vorher Nummer ohne Einheit) S.13 x71: 55 Briefe an und von Emil Klöti I A – M
+   - (vorher Nummer ohne Einheit) S.13 x71: 56 Briefe an und von Emil Klöti II N – Z
+   - (vorher Nummer ohne Einheit) S.22 x71: 57 Gratulationsschreiben zum 60. bis 85. Geburtstag 1937 – 1962
+   - (vorher Nummer ohne Einheit) S.22 x71: 58 Ehrungen und Gratulationen: 1907 – 1955
+   - (vorher Nummer ohne Einheit) S.22 x71: 59 Photographien von Emil Klöti
+   - (vorher Nummer ohne Einheit) S.22 x71: 60 Persönliches:
+   - (vorher Nummer ohne Einheit) S.22 x71: 61 Persönliches:
+   - (vorher Nummer ohne Einheit) S.23 x71: 62 Persönliches:
+   - (vorher Nummer ohne Einheit) S.23 x71: 63 Ausstellungen über Emil Klöti 1977/78
+   - (vorher Nummer ohne Einheit) S.23 x71: 64 Urkunde zur Verleihung der Ehrendoktorwürde der technischen 1930
+   - (vorher Nummer ohne Einheit) S.23 x71: 65 Promotionsdiplom der Rechts- und Staatswissenschaftlichen Fakultät 1901
+   - (vorher Nummer ohne Einheit) S.24 x71: 66 Schweizer Armee- und Zivilschutzgasmaske in Metallbüchse mit 1939
+### D3256: Einheiten 10 -> 5; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 0 -> 4
+   + verloren? S.1 x71: 2. Beschlüsse, Protokolle, Reglemente
+   + verloren? S.1 x71: 3. Korrespondenz
+   + verloren? S.1 x71: 4. Destinatäre
+   + verloren? S.1 x71: 5. Jahresrechnungen und Berichte
+### D3313: Einheiten 50 -> 50; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 12 -> 12
+### D3530: Einheiten 69 -> 8; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 47 -> 108
+   + verloren? S.31 x85: 3 Zu „Kreisfremde in den evangelischen Kirchenbüchern von Lahr i.B. (1681-1804)“
+   + verloren? S.31 x85: 4 Gottfried Kellers Vorfahren der Vaterseite.
+   + verloren? S.31 x85: 5 Anna Barbara Müller, Gottfried Kellers mütterliche Urgrossmutter.
+   + verloren? S.31 x85: 6 Eine Kette von 11 Ehen.
+   + verloren? S.31 x85: 7 Salomon Gessners zweiundsechzig Ahnen.
+   + verloren? S.31 x85: 8 Badische Kirchenbücher in der Schweiz (Altenburg, Kadelburg, Reckingen).
+   + verloren? S.31 x85: 9 Schweizer in Lahr (Baden).
+   + verloren? S.31 x85: 10 Bäbe Schulthess (geb. Wolf) und ihre Vorfahren.
+   + verloren? S.31 x85: 11 Johanna Spyri in genealogischer Sicht.
+   + verloren? S.31 x85: 12 Die Ahnen des Dichters Heinrich Leuthold (1827-1879).
+   + verloren? S.31 x85: 13 Bertram de Born, Notiz im Kirchenbuch Rheinau.
+   + verloren? S.31 x85: 14 Reformierte Ortsfremde im Sterberegister von Otelfingen 1650-1785.
+   + verloren? S.31 x85: 15 „Tell“ aus Italien.
+   + verloren? S.32 x85: 16 Stammen die Holbein aus Uri?
+   + verloren? S.32 x85: 17 Die Ahnen von Goethes Freund Heinrich Meyer, 1760-1832.
+   + verloren? S.32 x85: 18 Zur Einwanderung von Schweizern in Schriesheim (Baden).
+   + verloren? S.32 x85: 19 Anregung zum Studium (oder zur Bestimmung) des „Budenberg“ Teppichs.
+   + verloren? S.32 x85: 20 Heinrich Federers Zürcher Vorfahren und Ahnengemeinschaft mit Gottfried Kelle
+   + verloren? S.32 x85: 21 Elsässer und Lothringer im Ehebuch Rheinau (Schweiz).
+   + verloren? S.32 x85: 22 Weitere Schweizer Vorfahren Bernhard Stavenhgens 1862-1914.
+   + verloren? S.32 x85: 23 Anna Amalia von Hohenems, (geb. von Sulz), eine vornehme Patin und ihre
+   + verloren? S.32 x85: 24 Kaffeetrinken und Genealogie.
+   + verloren? S.32 x85: 25 Schweizer im Eheregister Rheinau (Kanton Zürich) 1602-1806.
+   + verloren? S.32 x85: 26 Gemeinsame Vorfahren Heinrich Federers und Jakob Bosshards (1826-1924).
+   + verloren? S.32 x85: 27 Ahnenliste des Johannes Kunz von Riedt-Steinmaur.
+   + verloren? S.32 x85: 28 Zürcher Auswanderer nach Brandenburg 1691-1711.
+   + verloren? S.32 x85: 29 Bernhard Stavenhagens Schweizer Ahn Jos Häberlig und seine Vorfahren.
+   + verloren? S.32 x85: 30 Nochmals: Einwanderung von Schweizern in Schriesheim (Baden).
+   + verloren? S.32 x85: 31 Aargauer und Luzerner im ältesten Ehebuch Dietikon (Zürich) 1622-1689.
+   + verloren? S.33 x85: 32 Bayern und Oesterreicher am Rheinfall 1600-1800.
+   + verloren? S.33 x85: 33 Mitteldeutsche, wo man sie nicht vermutet.
+   + verloren? S.33 x85: 34 Süddeutsche und Elsässer im katholischen Kirchenbuch Dietikon (Schweiz) 1622-
+   + verloren? S.33 x85: 35 Familie und Vorfahren von (Konradin) Kreutzers erster Frau Anna Huber.
+   + verloren? S.33 x85: 36 Zwei Geburten im Abstand von 10 Tagen.
+   + verloren? S.33 x85: 37 Zur Herkunft des Geschlechtes Astor.
+   + verloren? S.33 x85: 38 Deutsche und Elsässer im Totenbuch Rheinau (Schweiz) 1601-1800.
+   + verloren? S.33 x85: 39 Glaubensflüchtlinge aus Chiavenna und aus dem Veltlin in Zürcher Kirchenbüche
+   + verloren? S.33 x85: 40 Eheschliessungen Deutscher in Zürich 1600-1700.
+   + verloren? S.33 x85: 41 Deutsche als Handwerksgesellen in Zürich 1637.
+   + verloren? S.33 x85: 42 Bündner in Zürcher Kirchenbüchern und Bevölkerungsverzeichnissen 1600-1700.
+   + verloren? S.33 x85: 43 Nachträge zur Ahnenliste des Jakob Meyer, *Meilen 1768.
+   + verloren? S.33 x85: 44 Altösterreicher in Zürich und Umgebung 1600-1800.
+   + verloren? S.33 x85: 45 Taufen von Flüchtlingskindern in Zürich 1618-1650.
+   + verloren? S.33 x85: 46 Innerschweizer im Kirchenbuch Fahr (Aargau).
+   + verloren? S.33 x85: 47 Aus Stüssi wird Steissel.
+   + verloren? S.34 x85: 48 Entstellte Namen von Schweizer Einwanderern.
+   + verloren? S.34 x85: 49 Schweizer Vorfahren von Thomas Mann.
+   + verloren? S.34 x85: 50 Bündner im Ausland.
+   + verloren? S.34 x85: 51 Badener und Württemberger im Ehebuch Rheinau (Schweiz) 1608-1810.
+   + verloren? S.34 x85: 52 Pfälzische Pfarrer in den Kantonen Thurgau und Zürich zur Zeit des Dreissigjä
+   + verloren? S.34 x85: 53 Vorfahren von Johann Heinrich Füssli, Maler, Dichter und Schriftsteller.
+   + verloren? S.34 x85: 54 Stammbuch der Familie Schulthess-Würth. Zürich 1922, 31 S. 1 Taf.
+   + verloren? S.34 x85: 55 Die Posth (eine Zusammenfassung). Leipzig 1930, 7 S.
+   + verloren? S.34 x85: 56 Würth von Lichtensteig (Stammtafel). Zürich o.J. 1 Bl.
+   + verloren? S.34 x85: 57 Steger von Lichtensteig (Stammtafel) Zürich 1929, 1 Bl.
+   + verloren? S.34 x85: 58 Posth von Idstein i.T., Saarbrücken und Lahr i.B. Stammtafel Zürich 1929, 192
+   + verloren? S.34 x85: 59 Landolt von Näfels und Glarus. Zürich 1929, 1 Bl.
+   + verloren? S.34 x85: 60 Brunner von Oberrieden (Stammtafel). Zürich 1929, 1 Bl.
+   + verloren? S.34 x85: 61 Ammann von Wittenwil (Stammtafel). Zürich 1929, 1 Bl.
+   + verloren? S.34 x85: 62 Ahnenbuch der Familie Bodmer Meyer. Zürich 1925, 78 S, 3 Taf.
+   + verloren? S.34 x85: 63 Ahnentafel Schulthess-Würth. Zürich 1932, 59 Taf. und Registerband
+### D3677: Einheiten 98 -> 98; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 88 -> 88
+### D3698: Einheiten 24 -> 25; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 0 -> 0
+### D3774: Einheiten 34 -> 59; ohne Zeilenanfang 1 -> 0; Nummernzeilen ohne Einheit 80 -> 60
+   - (vorher ohne Zeilenanfang) VII.47.:2./T2 (Nr. 'VII. 47.:2.', S.8)
+   - (vorher Nummer ohne Einheit) S.8 x142: 2.31. Nr. 9-20 Zum Jahr 1848 1848
+   - (vorher Nummer ohne Einheit) S.8 x142: 2.32. Nr.21-42 1849-1865
+   - (vorher Nummer ohne Einheit) S.8 x142: 2.33. Nr.43-76 1866-1875
+   - (vorher Nummer ohne Einheit) S.8 x142: 2.34. Nr.77-105 1876-1880
+   - (vorher Nummer ohne Einheit) S.8 x142: 2.35. Nr.106-133 1881-1890
+   - (vorher Nummer ohne Einheit) S.8 x142: 2.36. Nr.134-157 1891-1900
+   - (vorher Nummer ohne Einheit) S.8 x142: 2.37. Nr.158-191 1901-1919
+   - (vorher Nummer ohne Einheit) S.8 x142: 2.38. Belege zu Nr. 174
+   - (vorher Nummer ohne Einheit) S.9 x142: 2.4. Allgemeine Korrespondenz 1843-
+   - (vorher Nummer ohne Einheit) S.9 x142: 2.41. Korrespondenz 1843- 1899
+   - (vorher Nummer ohne Einheit) S.9 x142: 2.42. Korrespondenz 1900-1949
+   - (vorher Nummer ohne Einheit) S.9 x142: 2.43. Korrespondenz 1950-1959
+   - (vorher Nummer ohne Einheit) S.9 x142: 2.44. Korrespondenz 1960-
+   - (vorher Nummer ohne Einheit) S.9 x142: 2.5. Besondere Korrespondenz 1951-
+   - (vorher Nummer ohne Einheit) S.9 x142: 2.51. Einladungen zu Vorstandssitzungen und GV 1951-1963
+   - (vorher Nummer ohne Einheit) S.9 x142: 2.52. Rechtsstreit von C.E. Trümpler und Maurice Villars 1952
+   - (vorher Nummer ohne Einheit) S.9 x142: 2.53. Gesuch des Privatfriedhofvereins 1957
+   - (vorher Nummer ohne Einheit) S.9 x142: 2.54 Bereinigung der Eigentumsverhältnisse 1958/1959
+   - (vorher Nummer ohne Einheit) S.9 x142: 2.55 Vorbereitungen zu Vereinsversammlungen 1958-1962
+   - (vorher Nummer ohne Einheit) S.11 x142: 3.53 Adresslisten 1891-
+### D3776: Einheiten 18 -> 20; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 5 -> 5
+### D3810: Einheiten 21 -> 21; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 5 -> 5
+### D3816: Einheiten 125 -> 125; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 7 -> 7
+### D3826: Einheiten 23 -> 20; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 0 -> 3
+   + verloren? S.1 x114: 1. Amtliches 1869 – 1908
+   + verloren? S.1 x114: 2. Privates 1866 – 1909
+   + verloren? S.1 x114: 3. Gratulationsdiplome 1906 – 1919
+### D3828: Einheiten 99 -> 31; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 334 -> 403
+   + verloren? S.1 x71: 3. Tagebuch des Geniechefs des Stadt-Kommandos vom 4. November 1939 bis 1939 – 1
+   + verloren? S.1 x71: 4. Tagebuch des Geniechefs des Stadtkommandos vom 14. Juni 1940 bis 10. 1940
+   + verloren? S.1 x71: 5. Album mit 190 Photos und Bildern, hauptsächlich Aufnahmen von 1939 – 1940
+   + verloren? S.1 x71: 9. Berichte von Hauptmann W. Trüb, Dir. EWZ. 1940
+   + verloren? S.2 x71: 10. Weisungen für Sprengkolonnen und Sprengtechnik, herausgegeben vom 1940
+   + verloren? S.2 x71: 11. Bericht und Antrag mit Kostenberechnung zum Bau einer Brückenkopfstellung 19
+   + verloren? S.2 x71: 12. Pläne zur Stadtbefestigung von Zürich: 1939 – 1940
+   + verloren? S.2 x71: 13. Karton-Mappe mit dem definitiven Befestigungsplan der Stadt Zürich von 1939-
+   + verloren? S.2 x71: 14. 26 Tabellen-Blättern, enthaltend sämtliche Objekte der Befestigungsanlage vo
+   + verloren? S.3 x71: 15. Stadtplan 1:15'000 mit Eintragung der begehbaren Kanäle o. D.
+   + verloren? S.3 x71: 19. Vorprojekt-Skizzen von Werken und Ständen: 1940
+   + verloren? S.3 x71: 22. Stand SBB-Viadukt 1940
+   + verloren? S.3 x71: 26. 35 Blätter zum "technischen Dienst" von Oberst Stirnemann 1923 – 1939
+   + verloren? S.5 x71: 4 Schachteln
+   + verloren? S.5 x71: 4. Unteroffiziers-Veranstaltung auf der Forch, Kranzniederlegung o.D.
+   + verloren? S.5 x71: 5. E.M.D. Budgetbemerkungen o.D.
+   + verloren? S.5 x71: 9. Betrachtungen zur Wehrvorlage (ca 10 Mal gehalten) 1935/1936
+   + verloren? S.5 x71: 10. Dornacher Schlachtfeier 1936
+   + verloren? S.5 x71: 11. Wehrmannsfeier auf der Forch 1936
+   + verloren? S.5 x71: 12. Kadetten-Korps der Stadt Zürich, Kundgebung zur Förderung des Wehrgeistes 19
+   + verloren? S.5 x71: 13. 100-jähriges Jubiläum der Unteroffiziers-Gesellschaft aller Waffen 1939
+   + verloren? S.5 x71: 14. Eidgenössisches Pontonierwettfahren in Bremgarten 1939
+   + verloren? S.5 x71: 15. Soldatenfürsorge in der Schweizerarmee 1940
+   + verloren? S.5 x71: 17. Zuschriften an die Wehrmänner im Felde und die Beamten, Angestellten und 194
+   + verloren? S.5 x71: 18. Weihnachtsfeier der Arbeits-Kp. 243 1941
+   + verloren? S.5 x71: 19. Kadetten-Korps der Stadt Zürich 1942
+   + verloren? S.5 x71: 20. Delegierten-Versammlung der Schweizerischen Offiziersgesellschaft in Fribour
+   + verloren? S.5 x71: 21. Generalversammlung Unteroffizier-Verein Zürich 1942
+   + verloren? S.5 x71: 22. Orientierungsläufe des Militärischen Vorunterrichtes im Gelände 1943
+   + verloren? S.5 x71: 23. Jubiläumstage des Unteroffiziervereins Zürich 1946
+   + verloren? S.5 x71: 24. Waldmannschiessen in Dübendorf 1946
+   + verloren? S.6 x71: 25. Budget E.M.D. 1946
+   + verloren? S.9 x71: 26. ZIA, Bahnhoffragen in Zürich 1947
+   + verloren? S.10 x71: 27. Verschiedene parlamentarische Anfragen im Nationalrat zu Strassenverkehr 194
+   + verloren? S.10 x71: 28. Walenseetalstrasse 1946
+   + verloren? S.10 x71: 29. Dankschreiben an die Mitglieder der Kommission für verkehrstechnische 1946
+   + verloren? S.12 x71: 30. “Sport im Aktivdienst”, Artikel erschienen im “Sport” 1939
+   + verloren? S.12 x71: 31. “Sport an der Landesausstellung”, Artikel im Sport und der LA-Zeitung 1939
+   + verloren? S.12 x71: 32. “Sportliche Veranstaltungen”, Erinnerungswerk der LA 1939 1939
+   + verloren? S.12 x71: 33. Diverse Begrüssungen von Sportlern 1939 –
+   + verloren? S.12 x71: 34. Empfang der Delegationen zum Eishockey-Länderspiel Italien-Schweiz im 1941
+   + verloren? S.12 x71: 35. Sportabzeichen-Kundgebung, Stadthalle 1941
+   + verloren? S.13 x71: 36. Presse-Orientierung über Sportplätze und Anbauwerk 1941
+   + verloren? S.13 x71: 37. Turn- und Sportausschuss 1941
+   + verloren? S.13 x71: 38. “Sport, eine Lebensbejahung”, Radio-Vortrag und dann für andere 1942
+   + verloren? S.13 x71: 39. Begrüssung spanischer Amateur-Boxkämpfer 1942
+   + verloren? S.13 x71: 40. Schweizerische Gerätemeisterschaft 1942
+   + verloren? S.13 x71: 41. Kampf zur Einführung der 3. Schul-Turnstunde 1943
+   + verloren? S.13 x71: 42. Referat in der Freisinnigen Partei im Kongresshaus 1943
+   + verloren? S.13 x71: 43. Staatsbürgerliche Vorträge, Spiel- Sportanlagen in Zürich 1943
+   + verloren? S.13 x71: 44. “Turnen, Sport und Wehrgeist”, Vortrag bei der Freisinnigen Partei Enge 1943
+   + verloren? S.13 x71: 45. Besprechung über ein Eidgenössisches Turn- und Sport-Institut 1943
+   + verloren? S.13 x71: 46. “Über den erzieherischen Wert der sportlichen Betätigung oder von der 1944
+   + verloren? S.13 x71: 47. Anregung zum Geschäftsbericht des EDI im Nationalrat 1944
+   + verloren? S.13 x71: 48. “Heimat und Vaterland – Turnen und Sport”, Referat in der Freisinnigen Parte
+   + verloren? S.13 x71: 49. “Erstellung von Uebungsstätten zur Förderung der körperlichen Ertüchtigung 1
+   + verloren? S.13 x71: 50. Turnverein Alte Sektion, 125-jähriges Jubiläum 1945
+   + verloren? S.13 x71: 51. Turnfest Glatt- und Limmattal in Seebach 1945
+   + verloren? S.13 x71: 52. USA-Urlauber-Empfang, Organisation dieser Empfänge 1945
+   + verloren? S.13 x71: 53. Schwimm-Wettkämpfe Frankreich-Schweiz 1945
+   + verloren? S.13 x71: 54. Eishockey-Wettkampf Schweiz-Tschechoslowakei 1946
+   + verloren? S.15 x71: 5. Birsbrücke Münchenstein 1915
+   + verloren? S.15 x71: 6. Brücke aus Rundholz bei Menziken-Burg über ein Tobel 1929
+   + verloren? S.15 x71: 7. Doppeltes Sprengwerk, Pont en bois, en amont de Salavaux 1925
+   + verloren? S.15 x71: 8. Offene Holzbrücke über den Inn bei Samaden-Promalis o.D.
+   + verloren? S.15 x71: 9. Hängesteg über den Rhein bei Chur 1927
+   + verloren? S.15 x71: 10. Passerelle über den Tessin bei Airolo 1922
+   + verloren? S.15 x71: 11. Bericht über den Hochwasserdienst im Liechtenstein, Bündner Oberland und 192
+   + verloren? S.15 x71: 12. Schwere Pfahljochbrücke unterhalb von Mellingen 1923
+   + verloren? S.15 x71: 13. Pont sue la Broye o.D.
+   + verloren? S.16 x71: 14. Hängwerksteg in Yverdon 1924
+   + verloren? S.16 x71: 15. Verschiedene Kolonnen-Brückentypen o.D.
+   + verloren? S.16 x71: 16. Technischer Dienst des Sap. Bat. 4 im Wiederholungskurs in Aarburg 1928
+   - (vorher Nummer ohne Einheit) S.16 x71: 7. 6. Brücken im Sihltal
+   - (vorher Nummer ohne Einheit) S.17 x71: 8. 7. Zeitungen, Plakate
+   - (vorher Nummer ohne Einheit) S.17 x71: 9. 8. Fotografien
+   - (vorher Nummer ohne Einheit) S.18 x71: 10. 9. Buch “Zürich, Geschichte Kultur Wirtschaft”
+### D3951: Einheiten 8 -> 8; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 0 -> 0
+### D448: Einheiten 14 -> 13; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 5 -> 5
+### D845: Einheiten 202 -> 202; ohne Zeilenanfang 0 -> 0; Nummernzeilen ohne Einheit 0 -> 0

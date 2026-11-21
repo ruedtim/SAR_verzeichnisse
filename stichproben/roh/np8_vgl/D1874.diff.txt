@@ -1,0 +1,842 @@
+### D1874: vorher 303 Einheiten, nachher 105 Einheiten
+WEG  V.G.c.42.:10. [ID 40, Dossier, E1, Eltern -, S.4] Apparatenhaus I, Hochbau | 
+        D: 11 Apparatenhaus I, Kühler-Exhaustoren- & Wascheranlage
+        D: 12 Reinigergebäude I & Regenerierraum, Hochbau
+        D: 13 Reinigergebäude I, Reinigeranlage
+WEG  V.G.c.42.:14. [ID 41, Dossier, E1, Eltern -, S.4] Uhren- & Reglerhaus | 
+        D: 14a Uhren- & Reglerhaus, B.M.-Gasmesser, Faulgasmesser
+WEG  V.G.c.42.:15. [ID 42, Dossier, E1, Eltern -, S.4] Wasserturm | 
+WEG  V.G.c.42.:16. [ID 43, Dossier, E1, Eltern -, S.4] Kraftzentrale | 
+WEG  V.G.c.42.:17. [ID 44, Dossier, E1, Eltern -, S.4] Dampfkesselhaus & Werkstätten | 
+WEG  V.G.c.42.:18. [ID 45, Dossier, E1, Eltern -, S.4] Lokomotiveremise, Portierhäuschen, Brückenwaagen, Diverses, Geflügelhaus, Elektromotoren | 
+        D: 18a Kokshalle u. Einwandung der untern Giebelfassade & Koks L-Stützen
+WEG  V.G.c.42.:19. [ID 46, Dossier, E1, Eltern -, S.4] Kokshalle, Einwandung | 
+WEG  V.G.c.42.:20. [ID 47, Dossier, E1, Eltern -, S.4] Verwaltungsgebäude | 
+WEG  V.G.c.42.:21. [ID 48, Dossier, E1, Eltern -, S.5] Verwaltungsgebäude, Innerer Ausbau, Zentralheizung | 
+WEG  V.G.c.42.:22. [ID 49, Dossier, E1, Eltern -, S.5] Doppelwohnhaus | 
+        D: 23 Oekonomiegebäude
+        D: 24 Dampfleitungen in den Fabrikgebäuden
+WEG  V.G.c.42.:25. [ID 50, Dossier, E1, Eltern -, S.5] Teer- & Ammoniakwassergruben, Antracenoelgrube | 
+WEG  V.G.c.42.:26. [ID 51, Serie, E1, Eltern -, S.5] I Kokstransportanlage, Schlepprinnen etc. | 
+WEG  V.G.c.42.:26./T2 [ID 52, Dossier, E2, Eltern V.G.c.42.:26., S.5] II Kokstransportanlage, Schlepprinnen etc. | 
+WEG  V.G.c.42.:27. [ID 53, Dossier, E1, Eltern -, S.5] Kokssortieranlage No. 2 Elektr. hydr. Aufzug | 
+WEG  V.G.c.42.:X 28 [ID 54, Dossier, E1, Eltern -, S.5] Gasbehälter I | 
+WEG  V.G.c.42.:X 29 [ID 55, Serie, E1, Eltern -, S.5] Gasbehälter II | 
+        D: 30 Einfriedung Schiebetore
+        D: 31 Geleiseanlage
+        D: 31a Neue Geleiseanlage, Wagonwaagen
+        D: 32
+WEG  V.G.c.42.:X.29.33. [ID 56, Dossier, E2, Eltern V.G.c.42.:X 29, S.5] Hauptspeiseleitung, 1000 mm | 
+WEG  V.G.c.42.:X.29.34. [ID 57, Dossier, E2, Eltern V.G.c.42.:X 29, S.5] Reserve-Hauptspeiseleitung, 800 mm | 
+        D: 35 Gasleitungen der Gemeinde Schlieren
+WEG  V.G.c.42.:X 36 [ID 58, Dossier, E1, Eltern -, S.5] Arbeiterwohnhaus Typ I, Reihenhaus Industriestrasse 380, 381 | 
+WEG  V.G.c.42.:X 37 [ID 59, Dossier, E1, Eltern -, S.5] Arbeiterwohnhaus Typ II, Reihenhaus Industrestrasse 391 – 94 | 
+WEG  V.G.c.42.:X 38 [ID 60, Dossier, E1, Eltern -, S.5] Arbeiterwohnhaus Typ III, Reihenhaus Industriestrasse 398 - 401 | 
+WEG  V.G.c.42.:X 39 [ID 61, Dossier, E1, Eltern -, S.5] Arbeiterwohnhaus Typ IV, Einfamilienhaus Industriestrasse 384 – 87, 402, 403 | 
+WEG  V.G.c.42.:X 40 [ID 62, Serie, E1, Eltern -, S.5] Arbeiterwohnhaus Typ V, Einfamilienhaus Industriestrasse 382, 383, 389, 390, 395, 396, 404, 405 | Von/bis (>= x und <=y)
+        D: fehlt 41 Waschhäuser & Einfriedungen zu den Arbeiterwohnh. etc.
+        D: 41a Arbeiterwohnungen Allmendstrasse 1-11, Zürcherstrasse 50
+WEG  V.G.c.42.:X.40.42. [ID 63, Dossier, E2, Eltern V.G.c.42.:X 40, S.5] Situationspläne, Strassenbau & Pflästerungen, Überführung d. Industriestrasse | 
+WEG  V.G.c.42.:X.40.43. [ID 64, Dossier, E2, Eltern V.G.c.42.:X 40, S.5] Ausführungspläne 1. Ausbau | Genau (=)
+        D: 44 Projektpäne etc.
+WEG  V.G.c.42.:X.40.45. [ID 65, Dossier, E2, Eltern V.G.c.42.:X 40, S.5] Bahnwagenkipper II | 
+        D: 46 Kohlentransport, Grobkohlenbandförderer & Kohlenbrecher
+WEG  V.G.c.42.:X.40.47. [ID 66, Dossier, E2, Eltern V.G.c.42.:X 40, S.5] Kohlentransport, Bradleybecherwerk | 
+WEG  V.G.c.42.:X.40.48. [ID 67, Dossier, E2, Eltern V.G.c.42.:X 40, S.5] Kohlentransport, Bradleybecherwerk | 
+WEG  V.G.c.42.:X.40.49. [ID 68, Dossier, E2, Eltern V.G.c.42.:X 40, S.5] Bandförderer über den Magazinen, Schüttelrinnen, Haupttransm., Kratzertransporteur, Kohlenkasten etc. | 
+WEG  V.G.c.42.:X.40.50. [ID 69, Dossier, E2, Eltern V.G.c.42.:X 40, S.6] Kohlenschuppen II, Hochbau | 
+        D: 50a
+        D: 51 Retortenhaus II, 1 – 29
+WEG  V.G.c.42.:X.40.52. [ID 70, Dossier, E2, Eltern V.G.c.42.:X 40, S.6] Retortenhaus II, 30 | 
+WEG  V.G.c.42.:X.40.53. [ID 71, Dossier, E2, Eltern V.G.c.42.:X 40, S.6] Vertikalofenanlage, Hochkamine, Beschickung der Generatoren | 
+        D: 53a Vertikalofenanlage, Hochkamine, Beschickung der Generatoren
+WEG  V.G.c.42.:X.40.54. [ID 72, Dossier, E2, Eltern V.G.c.42.:X 40, S.6] Koksaufbereitung No. 3 | 
+WEG  V.G.c.42.:X.40.55. [ID 73, Dossier, E2, Eltern V.G.c.42.:X 40, S.6] Brouwerrinnen | 
+WEG  V.G.c.42.:X.40.56. [ID 74, Dossier, E2, Eltern V.G.c.42.:X 40, S.6] Koksbehälter, Koksaufzug, kl. Koksaufbereitung No. 4 & 5 | 
+WEG  V.G.c.42.:X.40.57. [ID 75, Dossier, E2, Eltern V.G.c.42.:X 40, S.6] Versuchsgasanstalt | 
+WEG  V.G.c.42.:X.40.58. [ID 76, Dossier, E2, Eltern V.G.c.42.:X 40, S.6] Betriebsleitung zw. Ofenhaus I & Appartatenhaus II | 
+        D: 59 Betriebsleitung im Ofenhaus II, zwischen Ofenhaus II & App.h. II, Teerleitung & Teerpumpe
+        D: 60, 60a Apparatenhaus II & Laboratorium, Hochbau
+WEG  V.G.c.42.:X.40.61. [ID 77, Dossier, E2, Eltern V.G.c.42.:X 40, S.6] Apparatenhaus II, Innere Einrichtung (siehe auch No. 75) Masch. Fun. | 
+        D: 61a,b Apparatenhaus II, Innere Einrichtung (siehe auch No. 75) Masch. Fun.
+WEG  V.G.c.42.:X.40.62. [ID 78, Dossier, E2, Eltern V.G.c.42.:X 40, S.6] Reinigergeb. II mit Regenerierraum, Hochbau | 
+        D: 63, 63a Reinigergeb. II mit Regenerierraum, Innere Einrichtung
+        D: X 64, 64a Gasbehälter III, 1-25
+        D: X 65, 65a Gasbehälter III, 26
+        D: 66 Stationsgasmesser in Mappe 14a (Ilter), Teersiederei, Kollergang, Heizungsanlage, Wassergasanlage
+WEG  V.G.c.42.:X.40.67. [ID 79, Dossier, E2, Eltern V.G.c.42.:X 40, S.6] Ammoniakdestillation*, Teer- & Ammoniakwassergruben II | 
+        D: 68 4 ter Dampfkessel, 3te. Dampfmaschine mit Drehstromgenerator
+WEG  V.G.c.42.:X.40.69. [ID 80, Dossier, E2, Eltern V.G.c.42.:X 40, S.6] Schmalspurgeleise, Brückenwaage, Spillanlage, Elektro-Motoren | 
+        D: 70 2 te. Lokomotive, 3te. Lokomotive, offener + geschlossene Güterwagen, Kesselwagen
+WEG  V.G.c.42.:X.40.71. [ID 81, Dossier, E2, Eltern V.G.c.42.:X 40, S.6] Situationspläne, Gartenanlagen, Gas- und Wasserleitungen, Gewächshaus, Spielplatz, Magazin f. feuergefährliche Stoffe, Gärtnereischuppen | 
+WEG  V.G.c.42.:X.40.72. [ID 82, Dossier, E2, Eltern V.G.c.42.:X 40, S.6] Magazingebäude | 
+        D: 73 Wirtschaftsgebäude, Kegelbahn
+        D: 73a Kegelbahn, Konsum
+WEG  V.G.c.42.:X.40.74. [ID 83, Dossier, E2, Eltern V.G.c.42.:X 40, S.6] Apparatenhaus II, Ausführungspläne, Ausbau 1906 Werk | Genau (=)
+        D: 75 Apparatenhaus II, Standardwascher II
+        D: 75a Wasserreinigung
+WEG  V.G.c.42.:X.40.76. [ID 84, Dossier, E2, Eltern V.G.c.42.:X 40, S.7] Städt. Land im Limmattal, Katasterkopien der Gemeinde Schlieren Mutationen | 
+WEG  V.G.c.42.:X.40.77. [ID 85, Dossier, E2, Eltern V.G.c.42.:X 40, S.7] Gasversorgung der Gemeinde Dietikon | Genau (=)
+        D: 78 Dienstautomobil (Offerten & Pläne)
+        D: 79 Gordon-Bennet-Wettfliegen 1909 (Ballonfüllung)
+        D: 79a Gordon-Bennet-Wettfliegen, Korrespondenz & Drucksachen
+        D: 80 Verträge zu No. 45-50, 54-56, Entstaubungsanlagen
+        D: 81 Verträge zu No. 51-56
+        D: 82 Verträge zu No. 53, 64-66, 18, 31, 71, 89
+        D: 83 Verträge zu No. 57, -63, 67
+        D: 84 Verträge zu No. 68 & 69
+        D: … (11 Zeilen)
+WEG  V.G.c.42.:X 88 [ID 86, Serie, E1, Eltern -, S.7] Beamtenwohnhäuser | 
+WEG  V.G.c.42.:X.88.89. [ID 87, Dossier, E2, Eltern V.G.c.42.:X 88, S.7] Kanalisation | 
+        D: 89a Kanalisation & Pumpenhaus
+        D: 89b Schmutzwasserleitung n. Werdhölzli
+WEG  V.G.c.42.:X.88.90. [ID 88, Dossier, E2, Eltern V.G.c.42.:X 88, S.7] Verstärkung des Kohlenhauses | 
+WEG  V.G.c.42.:X.88.91. [ID 89, Dossier, E2, Eltern V.G.c.42.:X 88, S.7] Vergrösserung des Dachaufbaues auf Ofenhaus I, Pläne & Kostenvoranschlag | 
+        D: 92 Vom Gemeiderat Schlieren genehmigte Pläne der 2. Bauperiode
+WEG  V.G.c.42.:X.88.93. [ID 90, Dossier, E2, Eltern V.G.c.42.:X 88, S.7] Umbau der Cozeofenbatt. 1 in 18er-Vertikalöfen, Mappe 1, 3. Aug. Projekte. | 
+WEG  V.G.c.42.:X.88.94. [ID 91, Dossier, E2, Eltern V.G.c.42.:X 88, S.7] Umbau der Cozeofenbatt. 1 in 18er-Vertikalöfen, Mappe 2, 6. Dez. Vorarbeit. | 
+        D: 95 18er-Vertikalöfen mit Zubehör
+        D: 96 Dispositionszeichnungen, Dachaufbauten, Bunker & Vorbunker
+        D: 97 Podeste mit Motoren, Laufbühnen & Treppen
+        D: 98 Brouwerrinne, Dampfabzugschlot, Koksrutsche
+        D: 99 Schrägaufzug & Umändern der Ofenhausfassade
+        D: 100 Koksaufbereitung, Feinkoksbecherwerk
+WEG  V.G.c.42.:X.88.101. [ID 92, Dossier, E2, Eltern V.G.c.42.:X 88, S.7] Waggonkipper I | 
+        D: 101a Waggonkipper, Offerten
+WEG  V.G.c.42.:X.88.102. [ID 93, Dossier, E2, Eltern V.G.c.42.:X 88, S.7] Kohlentransport beim Waggonkipper I & im Ofenhaus | 
+WEG  V.G.c.42.:X.88.103. [ID 94, Dossier, E2, Eltern V.G.c.42.:X 88, S.7] Teer- & Gasleitungen | 
+WEG  V.G.c.42.:X.88.104. [ID 95, Dossier, E2, Eltern V.G.c.42.:X 88, S.8] Kostenvoranschläge (Motoren) | 
+        D: 105 Kompressorenanlage; Pläne, Korrespondenz & Prospekte
+WEG  V.G.c.42.:X.88.106. [ID 96, Dossier, E2, Eltern V.G.c.42.:X 88, S.8] Autogarage | 
+WEG  V.G.c.42.:X.88.107. [ID 97, Dossier, E2, Eltern V.G.c.42.:X 88, S.8] Autogarage, Verträge | 
+WEG  V.G.c.42.:X.88.108. [ID 98, Dossier, E2, Eltern V.G.c.42.:X 88, S.8] Cozeofenbatterie III & IV | 
+WEG  V.G.c.42.:X.88.109. [ID 99, Dossier, E2, Eltern V.G.c.42.:X 88, S.8] Teerdestillation | 
+        D: 109a Teerdestillation und Oelbehälter 200 m³ Inhalt
+        D: 109b Heissteer-Wagen
+        D: 109c Stradol-Anlage
+WEG  V.G.c.42.:X.88.110. [ID 100, Dossier, E2, Eltern V.G.c.42.:X 88, S.8] Ammonikafabrik, Hochbau | 
+WEG  V.G.c.42.:X.88.111. [ID 101, Dossier, E2, Eltern V.G.c.42.:X 88, S.8] Ammoniakfabrik, Innere Einrichtung | 
+        D: 111a Ammoniakfabrik, Gaswasserverdichtungsanlage
+WEG  V.G.c.42.:X.88.112. [ID 102, Dossier, E2, Eltern V.G.c.42.:X 88, S.8] Wasser & Trinkwasserversorgung, Pläne, Gutachten, Verträge etc. | 
+        D: Neuer Rohrbrunnen bei der Benzolfabrik
+WEG  V.G.c.42.:X.88.113. [ID 103, Dossier, E2, Eltern V.G.c.42.:X 88, S.8] Verträge & Korrespondenzen zu Beamtenwohnhäusern | 
+WEG  V.G.c.42.:X.88.114. [ID 104, Dossier, E2, Eltern V.G.c.42.:X 88, S.8] Lokomotiv-Dampfkran, Zeichnunen und Akten | 
+        D: 115 Verträge zu No. 31
+        D: 116 Verträge zu No. 109 & 109a (Strassenteerung)
+        D: 117 Verträge zu No. 110 – 111a
+        D: 118 18er-Vertikalöfen & Zubehör (Batterie IV)
+        D: 119 Podeste & Treppen
+        D: 120 Brouwerrinne, Kokosrutsche, Elevator, Gas- und Teerleitungen
+WEG  V.G.c.42.:X.88.121. [ID 105, Dossier, E2, Eltern V.G.c.42.:X 88, S.8] Acetylenanlage alte; jetzt Dreherei & Spenglerei | 
+        D: 121a Acetylenanlage alte; jetzt Dreherei & Spenglerei
+WEG  V.G.c.42.:X.88.122. [ID 106, Dossier, E2, Eltern V.G.c.42.:X 88, S.8] Benzolfabrik, Hochbau, Eisenkontruktion, Gruben, Anbau | 
+        D: 122a Benzolfabrik, Innenausbau, Apparate usw.
+        D: fehlt 122b Benzolfabrik, Zentrifuge
+WEG  V.G.c.42.:X.88.123. [ID 107, Dossier, E2, Eltern V.G.c.42.:X 88, S.8] Tetralin-Anlage, Torftröckne, Brikettpresse | 
+        D: fehlt 124 Brouwerrinne zu Batterie II 10erVertikalöfen
+        D: fehlt 125 Abwärmedampfkesselhaus I, Gebäude & innere Einrichtung
+WEG  V.G.c.42.:X.88.126. [ID 108, Dossier, E2, Eltern V.G.c.42.:X 88, S.8] Abwärmedampfkesselhaus I, Offerten, Kostenvoranschl., Genehmigungen usw. | 
+WEG  V.G.c.42.:X.88.127. [ID 109, Dossier, E2, Eltern V.G.c.42.:X 88, S.8] Abwärmedampfkesselhaus II, Gebäude, Kostenvoranschl., Genehmigung usw. | 
+WEG  V.G.c.42.:X.88.128. [ID 110, Dossier, E2, Eltern V.G.c.42.:X 88, S.8] Abwärmedampfkesselhaus II, Innere Einrichtung | 
+WEG  V.G.c.42.:X.88.129. [ID 111, Dossier, E2, Eltern V.G.c.42.:X 88, S.9] Abwärmedampfkesselanlage: Speisewassergrube | 
+        D: fehlt 130 Abwärmedampfkesselhaus III, Projekte, Inneneinrichtung, Preiseingänge, Korrespondenzen
+WEG  V.G.c.42.:X.88.131. [ID 112, Dossier, E2, Eltern V.G.c.42.:X 88, S.9] Elektrische Beleuchtung, Elektrische Kabel | 
+WEG  V.G.c.42.:X.88.132. [ID 113, Dossier, E2, Eltern V.G.c.42.:X 88, S.9] Lagerhaus (Dörranlage), Gebäude | 
+        D: 132a Lagerhaus (Dörranlage) Liftaufbau, Umgebung
+WEG  V.G.c.42.:X.88.133. [ID 114, Dossier, E2, Eltern V.G.c.42.:X 88, S.9] Lagerhaus (Döranlage), innere Einrichtung | 
+WEG  V.G.c.42.:X.88.134. [ID 115, Dossier, E2, Eltern V.G.c.42.:X 88, S.9] Lagerhaus (Dörranlage), Offerten, Preiseingaben, Verträge etc. | 
+        D: 135 Preiseingaben, Verträge etc. zu Mappen No. 93-104, 108, 118-120
+WEG  V.G.c.42.:X.88.136. [ID 116, Dossier, E2, Eltern V.G.c.42.:X 88, S.9] Gebläseanlage, Gebläse 1 & 2, Stadtgasgebläse | 
+        D: 136a Gebläseanlage, Kondensationsanlage, Stadtgasgebläse
+        D: 137 Dampfkanal, Dampfleitungen, Leitungskanäle, Wärmezentrale
+WEG  V.G.c.42.:X.88.138. [ID 117, Dossier, E2, Eltern V.G.c.42.:X 88, S.9] Schlackewäsche, Pläne & schriftl. Akten, Schlackenbrechanlage | 
+        D: 139 Kokskühlanlage, Pläne & schriftl. Akten
+WEG  V.G.c.42.:X.88.140. [ID 118, Dossier, E2, Eltern V.G.c.42.:X 88, S.9] Fernheizungen | 
+WEG  V.G.c.42.:X.88.141. [ID 119, Dossier, E2, Eltern V.G.c.42.:X 88, S.9] Elektr. Anlagen, Schalt- & Messstationen, Transformatorenstation | 
+        D: 141a,b Verteilanlagen, Schalter, Motormasskizzen
+WEG  V.G.c.42.:X.88.142. [ID 120, Dossier, E2, Eltern V.G.c.42.:X 88, S.9] Koksaufbereitung No. 6 | 
+        D: 143 Werkzeugmaschine, Werkzeuge
+        D: 144 Armaturen, div. Messinstrumente & Regler
+        D: 145 Projekte
+        D: 146 6er Vertikal-Kammeröfen, Batterie I
+WEG  V.G.c.42.:X.88.147. [ID 121, Dossier, E2, Eltern V.G.c.42.:X 88, S.9] Lagerplätze und Schuppen von Züblin Holzkontor etc. | 
+        D: 148 Diagramme & Tabellen, Betriebsvorschriften
+WEG  V.G.c.42.:X.88.149. [ID 122, Dossier, E2, Eltern V.G.c.42.:X 88, S.9] Teerbehälter 500 m³ & 1'000 m³, 60 & 100 m³ | 
+WEG  V.G.c.42.:X.88.150. [ID 123, Dossier, E2, Eltern V.G.c.42.:X 88, S.9] Pumpen für Teer & Ammoniakwasser, Speisewasser & Wasser | 
+WEG  V.G.c.42.:X.88.151. [ID 124, Dossier, E2, Eltern V.G.c.42.:X 88, S.9] Vorkühleranlage | 
+        D: 152 Reiniger No. 4
+WEG  V.G.c.42.:X.88.153. [ID 125, Dossier, E2, Eltern V.G.c.42.:X 88, S.9] Kippwagen, Greifbagger, Dieselbagger, Aku-Fahrzeuge, Rangierwinde | 
+WEG  V.G.c.42.:X.88.154. [ID 126, Dossier, E2, Eltern V.G.c.42.:X 88, S.9] Speicherdampflokomotive | 
+WEG  V.G.c.42.:X.88.155. [ID 127, Dossier, E2, Eltern V.G.c.42.:X 88, S.9] Wohlfahrtshaus WFO | 
+WEG  V.G.c.42.:X.88.156. [ID 128, Dossier, E2, Eltern V.G.c.42.:X 88, S.9] Kataster-Pläne | 
+WEG  V.G.c.42.:X.88.157. [ID 129, Dossier, E2, Eltern V.G.c.42.:X 88, S.9] Benzintankanlage | 
+WEG  V.G.c.42.:X.88.158. [ID 130, Dossier, E2, Eltern V.G.c.42.:X 88, S.10] Faulgas-Anlage | 
+WEG  V.G.c.42.:X.88.159. [ID 131, Dossier, E2, Eltern V.G.c.42.:X 88, S.10] Leitungspläne, Telephonschema (insgesamt 8 Mappen) | 
+WEG  V.G.c.42.:X.88.160. [ID 132, Dossier, E2, Eltern V.G.c.42.:X 88, S.10] Wassergasanlage, Bau | 
+        D: Fundamante f. Gaserzeuger, Arbeitsbühne, Gasbehälter, Rohrkeller u. Kanal, Teerscheidegrube
+        D: 161 Wassergsanlage: Gaserzeuger, Abhitzekessel, Wascher, Kühler, Rohrleitungen, Gasmesser
+        D: 162 Ausmauerung der Gaserzeuger und Abhitzekessel
+        D: 163 Windgebläse, Speisewasser- & Oelpumpen, Ventilatoren
+        D: 164 Messinstrumente, Motoren, el. Schalter & Apparate
+WEG  V.G.c.42.:X.88.165. [ID 133, Dossier, E2, Eltern V.G.c.42.:X 88, S.10] Arbeitsbühne und Podest | 
+        D: 166 Koks- & Schlackentransport, Elevator, Förderband, Hängebahn, Schlackenaufzug, Waage.
+WEG  V.G.c.42.:X.88.167. [ID 134, Dossier, E2, Eltern V.G.c.42.:X 88, S.10] Koksbunker | 
+WEG  V.G.c.42.:X.88.168. [ID 135, Dossier, E2, Eltern V.G.c.42.:X 88, S.10] Dachaufbau über dem Bunker, Treppenturm bei Elevator | 
+WEG  V.G.c.42.:X.88.169. [ID 136, Dossier, E2, Eltern V.G.c.42.:X 88, S.10] Wassergasbehälter 80000 m² | 
+        D: Gasbehälter, Oelbehälter, Lieferungsbestimungen
+WEG  V.G.c.42.:X.88.170. [ID 137, Dossier, E2, Eltern V.G.c.42.:X 88, S.10] Führungsgerüst | 
+        D: 171 Wassergasanalyse: von den Behörden genehmigte Projektpläne
+WEG  V.G.c.42.:X.88.172. [ID 138, Dossier, E2, Eltern V.G.c.42.:X 88, S.10] Drehscheiben-Waggonkipper; Bau | 
+        D: Fundamante für Waggonkipper, Kohlenbunker, Überdachung
+WEG  V.G.c.42.:X.88.173. [ID 139, Dossier, E2, Eltern V.G.c.42.:X 88, S.10] Drehscheiben-Waggonkipper; Bau | 
+        D: Maschinelle Einrichtung, Signalanlage
+WEG  V.G.c.42.:X.88.174. [ID 140, Dossier, E2, Eltern V.G.c.42.:X 88, S.10] Kohlenförder-, -Blech, -Misch und Mahlanlage, Bau: Fundamente, Fördergruben, Gebäude | 
+WEG  V.G.c.42.:X.88.175. [ID 141, Dossier, E2, Eltern V.G.c.42.:X 88, S.10] Fundamente, Fördergruben, Bunker, Gebäude, Eisenlisten | 
+WEG  V.G.c.42.:X.88.176. [ID 142, Dossier, E2, Eltern V.G.c.42.:X 88, S.10] Grobkohlenförderer, Kohlenbrechanlage: Maschinelle Einrichtung | 
+WEG  V.G.c.42.:X.88.177. [ID 143, Dossier, E2, Eltern V.G.c.42.:X 88, S.10] Kohlen-Misch- und Mahlanlage: Maschinelle Einrichtung, Bänder | 
+        D: 177a Kohlen-Misch- und Mahlanlage: II. Ausbau
+        D: 177b Kohlen-Misch- und Mahlanlage: Kohlen-Elevatoren
+WEG  V.G.c.42.:X.88.178. [ID 144, Dossier, E2, Eltern V.G.c.42.:X 88, S.10] Feinkohlen-Schrägförderer: Maschinelle Einrichtung | 
+WEG  V.G.c.42.:X.88.179. [ID 145, Dossier, E2, Eltern V.G.c.42.:X 88, S.10] Feinkohlen-Schrägförderer: Maschinelle Einrichtung | 
+WEG  V.G.c.42.:X.88.180. [ID 146, Dossier, E2, Eltern V.G.c.42.:X 88, S.10] Kohlenturm | 
+        D: Kohlen-Verteileinrichtung, Füllwagenwaage, Auszug, NH³-Behälter, Bunkerverschluss
+        D: 180a Kohlentransport a.d. Kohlenturm: Nicht ausgef. Projekte
+WEG  V.G.c.42.:X.88.181. [ID 147, Dossier, E2, Eltern V.G.c.42.:X 88, S.11] Kohlenturm, Bau: Fundament bis Füllbühne, Remise | 
+WEG  V.G.c.42.:X.88.182. [ID 148, Dossier, E2, Eltern V.G.c.42.:X 88, S.11] Kohlenturm, Bau: Füllbühne bis Dach | 
+WEG  V.G.c.42.:X.88.183. [ID 149, Dossier, E2, Eltern V.G.c.42.:X 88, S.11] Koksrampe, Löschtürme, Bau: Koksförderkanal i.d. Kokshalle, Kokskühlanlage, Fundament | 
+WEG  V.G.c.42.:X.88.184. [ID 150, Dossier, E2, Eltern V.G.c.42.:X 88, S.11] Kammerofenanlage, Bau | 
+        D: Ausmauerung, Unterbauten, Fundamente, Ausmauerung Maschinenbahn, Rauchkanal
+        D: 184a Rohrkanäle, Kokswagengeleise
+WEG  V.G.c.42.:X.88.185. [ID 151, Dossier, E2, Eltern V.G.c.42.:X 88, S.11] Hochkamin 70 m, Reservekamin Ost | 
+WEG  V.G.c.42.:X.88.186. [ID 152, Dossier, E2, Eltern V.G.c.42.:X 88, S.11] Kammerofenanlage I: Kammeröfen Eisenkonstruktionen | 
+        D: 186a Kammerofenanlage II: Kammeröfen Eisenkonstruktionen
+WEG  V.G.c.42.:X.88.187. [ID 153, Dossier, E2, Eltern V.G.c.42.:X 88, S.11] Kammerofenanlage I: Ofenarmaturen, Wechselei, Beheizungsarm. | 
+        D: 187a Kammerofenanlage II: Ofenarmaturen, Wechselei, Beheizungsarm.
+WEG  V.G.c.42.:X.88.188. [ID 154, Dossier, E2, Eltern V.G.c.42.:X 88, S.11] Kammerofenanlage I | 
+        D: Teervorlage, Rohgas- & Ammoniakwasser- und Teerleitungen, Holzgas-Vorlage
+        D: 188a Kammerofenanlage II: Teervorlage, Rohgas- & Ammoniakwasser- und Teerleitungen, Holzgas-Vorlage
+WEG  V.G.c.42.:X.88.189. [ID 155, Dossier, E2, Eltern V.G.c.42.:X 88, S.11] Kammerofenanlage I: Stark- & Schwachgasleitungen, Abhitzearmat. | 
+        D: 189a Kammerofenanlage II: Stark- & Schwachgasleitungen, Abhitzearmat.
+WEG  V.G.c.42.:X.88.190. [ID 156, Dossier, E2, Eltern V.G.c.42.:X 88, S.11] Kammerofenanlage | 
+        D: Rohgasleitung v.d. Oefen zu den Vorkühlern, Rohrbrücke, Rohrstützen, Spülbeh. I & II
+WEG  V.G.c.42.:X.88.191. [ID 157, Dossier, E2, Eltern V.G.c.42.:X 88, S.11] Kammerofenanlage I: Ofenbedienungsmaschinen, Koksausdrückmasch. I | 
+        D: 191a Kammerofenanlage I: Ofenbed.-Masch., Füllwagen I, Führungsw. I
+WEG  V.G.c.42.:X.88.192. [ID 158, Dossier, E2, Eltern V.G.c.42.:X 88, S.11] Kokskühlanlage I & II: Kühlkammern, Kessel, Verschalung | 
+        D: 192a Kokskühlanlage I & II: Ventilatoren, Rohrleitungen, Armaturen
+        D: 192b Kokskühlanlage III
+        D: 193 Kokskühlanlage: Kokstransportwagen I
+WEG  V.G.c.42.:X.88.194. [ID 159, Dossier, E2, Eltern V.G.c.42.:X 88, S.11] Kokskühlanlage: Kokstransportwagen I | 
+WEG  V.G.c.42.:X.88.195. [ID 160, Dossier, E2, Eltern V.G.c.42.:X 88, S.11] Kokskühlanlage: Kokstransportwagen II | 
+WEG  V.G.c.42.:X.88.196. [ID 161, Dossier, E2, Eltern V.G.c.42.:X 88, S.11] Kokskühlanlage: Kokstransportwagen II | 
+        D: 197, 197a Kokskühlanlage: Kokskübel, Abstellgeleise, Bedienungspodeste
+WEG  V.G.c.42.:X.88.198. [ID 162, Dossier, E2, Eltern V.G.c.42.:X 88, S.11] Kokslöschanlage: Nasslöschwagen | 
+WEG  V.G.c.42.:X.88.199. [ID 163, Dossier, E2, Eltern V.G.c.42.:X 88, S.11] Grobkoks-Förderanlage: Förderwagen, Absperr-Rechen | 
+WEG  V.G.c.42.:X.88.200. [ID 164, Dossier, E2, Eltern V.G.c.42.:X 88, S.12] Grobkoks-Förderanlage: Fahrbahn-Eisenkontruktion, Förderwinde | 
+WEG  V.G.c.42.:X.88.201. [ID 165, Dossier, E2, Eltern V.G.c.42.:X 88, S.12] Koksaufbereitung I & Remisenanbau: Bau, Schalungs- & Arm.-Pläne | 
+WEG  V.G.c.42.:X.88.202. [ID 166, Dossier, E2, Eltern V.G.c.42.:X 88, S.12] Koksaufbereitung II: Bau, Schalungs- & Armierungspläne | 
+        D: 203 Koksaufbereitung I: Masch. Einrichtung Syst. II
+WEG  V.G.c.42.:X.88.204. [ID 167, Dossier, E2, Eltern V.G.c.42.:X 88, S.12] Koksaufbereitung II: Masch. Einrichtung Syst. II | 
+        D: 204a Entstaubungsanlage
+WEG  V.G.c.42.:X.88.205. [ID 168, Dossier, E2, Eltern V.G.c.42.:X 88, S.12] Koksförderbahn i.d. Kokshalle: Fundamente, Eisenbetonstützenummantelung | 
+WEG  V.G.c.42.:X.88.206. [ID 169, Dossier, E2, Eltern V.G.c.42.:X 88, S.12] Koksförderbahn i.d. Kokshalle: Eisenkonstruktion | 
+WEG  V.G.c.42.:X.88.207. [ID 170, Dossier, E2, Eltern V.G.c.42.:X 88, S.12] Koksförderbahn v.d. Kokshalle z. Generatoren- & Wassergasanlage: Eisenkonstruktion, gesamt. Gehsteig | 
+WEG  V.G.c.42.:X.88.208. [ID 171, Dossier, E2, Eltern V.G.c.42.:X 88, S.12] Koksförderkran i.d. Kokshalle: Eisenkontruktion | 
+WEG  V.G.c.42.:X.88.209. [ID 172, Dossier, E2, Eltern V.G.c.42.:X 88, S.12] Koksförderkran i.d.Kokshalle: Kranwinde, Laufkatze, Greifer | 
+        D: 209a Koksförderwagen I: Geleise, Weichen, Senkwerk
+        D: 209b Koksförderwagen II: Geleise, Weichen, Senkwerk
+WEG  V.G.c.42.:X.88.210. [ID 173, Dossier, E2, Eltern V.G.c.42.:X 88, S.12] Koksaufbereitung i.d. Kokshalle: Für Bahn- & Autoverlad, Nachbrecher fahrb. Koks-Siebanlage | 
+WEG  V.G.c.42.:X.88.211. [ID 174, Dossier, E2, Eltern V.G.c.42.:X 88, S.12] Zentralgeneratorenanlage: Koksbunker, Dachaufbau | 
+WEG  V.G.c.42.:X.88.212. [ID 175, Dossier, E2, Eltern V.G.c.42.:X 88, S.12] Zentralgeneratorenanlage: Eisenkontr., Bühnen, Unterzüge, Gebälk | 
+WEG  V.G.c.42.:X.88.213. [ID 176, Dossier, E2, Eltern V.G.c.42.:X 88, S.12] Zentralgeneratorenanlage: Treppen bei den Waschern, Rohrdurchführungen, Säulen und Ständer | 
+WEG  V.G.c.42.:X.88.214. [ID 177, Dossier, E2, Eltern V.G.c.42.:X 88, S.12] Zentralgeneratorenanlage: Hängebahnanlage, Hängebahnwaage | 
+WEG  V.G.c.42.:X.88.215. [ID 178, Dossier, E2, Eltern V.G.c.42.:X 88, S.12] Zentralgeneratorenanlage: Generatoren, Transmissionsantriebe, Aschenwagengeleise | 
+WEG  V.G.c.42.:X.88.216. [ID 179, Dossier, E2, Eltern V.G.c.42.:X 88, S.12] Zentralgeneratorenanlage: Dampferzeuger, Dampfsammler, Regler, Wärmeaustauscher | 
+WEG  V.G.c.42.:X.88.217. [ID 180, Dossier, E2, Eltern V.G.c.42.:X 88, S.12] Zentralgeneratorenanlage: Wascher, Wasserabscheider, Ausblasetopf, Gebläse, Regler | 
+WEG  V.G.c.42.:X.88.218. [ID 181, Dossier, E2, Eltern V.G.c.42.:X 88, S.12] Zentralgeneratorenanlage: Rohrleitungen für Gas, Wind, Dampf, Wasser. Absperrschieber & Ventile | 
+WEG  V.G.c.42.:X.88.219. [ID 182, Dossier, E2, Eltern V.G.c.42.:X 88, S.12] Zentralgeneratorenanlage: Schwachgasleitung von den Generatoren zu den Oefen | 
+WEG  V.G.c.42.:X.88.220. [ID 183, Dossier, E2, Eltern V.G.c.42.:X 88, S.12] Zentralgeneratorenanlage: Fundamente, Abfangung der Fassaden, Ausmauerung | 
+        D: 221 Diverse Begutachtungen
+WEG  V.G.c.42.:X.88.222. [ID 184, Dossier, E2, Eltern V.G.c.42.:X 88, S.12] Kammerofenanlage II: Ofenbedienungsmaschine II, Koksausdrückmaschine II 222a Kammerofenanlage II: Ofenbedienungsmaschine II, Füllwagen II, Koksführungswagen II | 
+WEG  V.G.c.42.:X 223 [ID 185, Serie, E1, Eltern -, S.13] Gasbehälter IV, 100'000 m3: Behälter I und II | Von/bis (>= x und <=y)
+        D: X 223a,b Gasbehälter IV, 100'000 m3: Sämtliche Pläne
+WEG  V.G.c.42.:X.223.224. [ID 186, Dossier, E2, Eltern V.G.c.42.:X 223, S.13] Abwasser-Kläranlage | 
+        D: 224a Abwasser-Kläranlage
+WEG  V.G.c.42.:X.223.225. [ID 187, Dossier, E2, Eltern V.G.c.42.:X 223, S.13] Steilrohr-Kesselanlage, Bau: Fundamente, Unterbauten, Koksbunker, Kamin | 
+        D: 225a Steilrohr-Kesselanlage: Steilrohrkessel inkl. Zubehör
+WEG  V.G.c.42.:X.223.226. [ID 188, Dossier, E2, Eltern V.G.c.42.:X 223, S.13] Koksmahl-Anlage | 
+        D: 226a Koksmahl-Anlage
+        D: 227, 227b vom Techn. Inspektorat & Starkstrominspektorat genehmigte Pläne
+        D: 227a, c von den Behörden genehmigte Pläne
+WEG  V.G.c.42.:X.223.228. [ID 189, Dossier, E2, Eltern V.G.c.42.:X 223, S.13] Dörranlage | 
+WEG  V.G.c.42.:X.223.229. [ID 190, Dossier, E2, Eltern V.G.c.42.:X 223, S.13] Venturimesser-Schacht & Gaslabor, Schema der Gasprüfleitung | 
+WEG  V.G.c.42.:X.223.230. [ID 191, Dossier, E2, Eltern V.G.c.42.:X 223, S.13] Elektrische Gasentteerung | 
+WEG  V.G.c.42.:X.223.231. [ID 192, Dossier, E2, Eltern V.G.c.42.:X 223, S.13] Glattal-Gebläse | 
+        D: 232 Holz-Entgasung App'haus inkl. Holzteergrube
+WEG  V.G.c.42.:X.223.233. [ID 193, Dossier, E2, Eltern V.G.c.42.:X 223, S.13] Holzaufbereitung | Von/bis (>= x und <=y)
+        D: 234 Kohlen- & Holzhilfstransport von der Holzaufbereitung zum Kohlenturm
+        D: 235 Brücken- & Kabelkrane für Kohlenfreilager 1933/39: Projekte
+        D: 236, 326a Luftschutzräume unter Kohlenhaus II u. Wasserreinigung
+WEG  V.G.c.42.:X.223.237. [ID 194, Dossier, E2, Eltern V.G.c.42.:X 223, S.13] Schlackenscheideanlage | 
+WEG  V.G.c.42.:X.223.238. [ID 195, Dossier, E2, Eltern V.G.c.42.:X 223, S.13] Stat. Berechnungen 1934 (Ing. C.A. Buss 1934-37) | Von/bis (>= x und <=y)
+        D: 239 Werkstattgebäude mit Magazin: Bauplanung Arch. Dürr
+        D: 239a Werkstattgebäude mit Magazin: Eisenbeton
+        D: 240, 240a Wohlfahrtsgebäude WFP
+WEG  V.G.c.42.:X.223.241. [ID 196, Dossier, E2, Eltern V.G.c.42.:X 223, S.13] Kohlenmag. Redler "Bühler" | 
+WEG  V.G.c.42.:X.223.242. [ID 197, Dossier, E2, Eltern V.G.c.42.:X 223, S.13] Telephon-Uhren-Such- & Alarmanlage | 
+WEG  V.G.c.42.:X.223.243. [ID 198, Dossier, E2, Eltern V.G.c.42.:X 223, S.13] Koksaufbereitung Syst. I: Projekte Krupp | 
+WEG  V.G.c.42.:X.223.244. [ID 199, Dossier, E2, Eltern V.G.c.42.:X 223, S.13] Koksaufbereitung Syst. I: Projekte Krupp | 
+WEG  V.G.c.42.:X.223.245. [ID 200, Dossier, E2, Eltern V.G.c.42.:X 223, S.13] Koksaufbereitung Syst. I: Vor- u. Mittelbrecher | 
+WEG  V.G.c.42.:X.223.246. [ID 201, Dossier, E2, Eltern V.G.c.42.:X 223, S.13] Koksaufbereitung Syst. I: Bänder u. Eisenkonstruktionen | 
+WEG  V.G.c.42.:X.223.247. [ID 202, Dossier, E2, Eltern V.G.c.42.:X 223, S.13] Koksaufbereitung Syst. I: Vor- u. Hauptsieb | 
+WEG  V.G.c.42.:X.223.248. [ID 203, Dossier, E2, Eltern V.G.c.42.:X 223, S.14] Koksaufbereitung Syst. I: Rutschen u. Trichter | 
+WEG  V.G.c.42.:X.223.249. [ID 204, Dossier, E2, Eltern V.G.c.42.:X 223, S.14] Koksaufbereitung Syst. I: Nachsiebanlage | 
+WEG  V.G.c.42.:X.223.250. [ID 205, Dossier, E2, Eltern V.G.c.42.:X 223, S.14] Koksaufbereitung Syst. I: Verladeanlage | 
+WEG  V.G.c.42.:X.223.251. [ID 206, Dossier, E2, Eltern V.G.c.42.:X 223, S.14] Koksaufbereitung Syst. I: Baupläne, Kommandohaus u. Vordach | 
+WEG  V.G.c.42.:X.223.252. [ID 207, Dossier, E2, Eltern V.G.c.42.:X 223, S.14] Koksaufbereitung Syst. I: Kommandohaus u. Rangierwinde | 
+WEG  V.G.c.42.:X.223.253. [ID 208, Dossier, E2, Eltern V.G.c.42.:X 223, S.14] Koksaufbereitung Syst. I: Elekt. Schemas | 
+WEG  V.G.c.42.:X.223.254. [ID 209, Dossier, E2, Eltern V.G.c.42.:X 223, S.14] Koksaufbereitung Syst. I: Siebbleche Krupp u. G.W. | 
+WEG  V.G.c.42.:X.223.255. [ID 210, Dossier, E2, Eltern V.G.c.42.:X 223, S.14] Koksaufbereitung Syst. I: Betriebsvorschriften ect. | 
+WEG  V.G.c.42.:X.223.256. [ID 211, Dossier, E2, Eltern V.G.c.42.:X 223, S.14] Kammerofen-Anlage, Umbau | Genau (=)
+WEG  V.G.c.42.:X.223.257. [ID 212, Dossier, E2, Eltern V.G.c.42.:X 223, S.14] Wasserrecht | 
+WEG  V.G.c.42.:X.223.258. [ID 213, Dossier, E2, Eltern V.G.c.42.:X 223, S.14] Generatorgas-Anlage, Einbau von 2 Gas-Schnellschlussverschlüssen | 
+WEG  V.G.c.42.:X.223.259. [ID 214, Dossier, E2, Eltern V.G.c.42.:X 223, S.14] Kammerofen-Anlage, Türreparaturstand | 
+WEG  V.G.c.42.:X.223.260. [ID 215, Dossier, E2, Eltern V.G.c.42.:X 223, S.14] Absackanlage i. d. Kokshalle | 
+WEG  V.G.c.42.:X.223.261. [ID 216, Dossier, E2, Eltern V.G.c.42.:X 223, S.14] Apparatehaus 2: Gasauger 2 | 
+        D: 262 +a Zentr.gen.-Anlage, Automatisierung
+WEG  V.G.c.42.:X.223.263. [ID 217, Dossier, E2, Eltern V.G.c.42.:X 223, S.14] Zentr.gen.-Anlage, Gen.-Gas-Beimischleitung, Pläne Wild A.G. Muri Zentr.gen.-Anlage, Gen.-Gas + Wassergusszähler, Pläne Wild A.G. Muri Zentr.gen.-Anlage, Hilfsleitung f. Unterfeuerung, Pläne Wild A.G. | 
+WEG  V.G.c.42.:X.223.264. [ID 218, Dossier, E2, Eltern V.G.c.42.:X 223, S.14] Ammoniakwascher "Baumag" Nr. I + II | 
+WEG  V.G.c.42.:X 265 [ID 219, Serie, E1, Eltern -, S.14] +a Diesel-Notstromgruppe | 
+WEG  V.G.c.42.:X.265.266. [ID 220, Dossier, E2, Eltern V.G.c.42.:X 265, S.14] Entgiftungsanlage: Elektr. Schemas | 
+WEG  V.G.c.42.:X.265.267. [ID 221, Dossier, E2, Eltern V.G.c.42.:X 265, S.14] Entgiftungsanlage: Mess- & Regelgeräte, Montage- & Betriebsanleitung | 
+WEG  V.G.c.42.:X.265.268. [ID 222, Dossier, E2, Eltern V.G.c.42.:X 265, S.14] Entgiftungsanlage: Betriebshandbuch | 
+WEG  V.G.c.42.:X 269 [ID 223, Dossier, E1, Eltern -, S.14] Entgiftungsanlage: Konvertierungsgebäude – Baupläne | 
+WEG  V.G.c.42.:X 270 [ID 224, Serie, E1, Eltern -, S.14] Entgiftungsanlage: Konvertierungsgebäude, Schalungs- u. Armierungspläne | 
+WEG  V.G.c.42.:X.270.271. [ID 225, Dossier, E2, Eltern V.G.c.42.:X 270, S.14] Entgiftungsanlage: Armaturen | 
+WEG  V.G.c.42.:X 272 [ID 226, Dossier, E1, Eltern -, S.14] Entschwefelung: Aufbereitungsgebäude – Baupläne | 
+WEG  V.G.c.42.:X 273 [ID 227, Dossier, E1, Eltern -, S.14] Entschwefelung: Aufbereitungsgebäude Schalungs- u. Armierungspläne | 
+WEG  V.G.c.42.:X 274 [ID 228, Dossier, E1, Eltern -, S.14] Entschwefelung: Pumpenhaus: Bau-Schalungs- u. Armierungspläne | 
+WEG  V.G.c.42.:X 275 [ID 229, Serie, E1, Eltern -, S.14] Entschwefelung: Fundamentpläne, Armaturen im Gebäude | Genau (=)
+WEG  V.G.c.42.:X.275.276. [ID 230, Dossier, E2, Eltern V.G.c.42.:X 275, S.14] Entschwefelung: Armaturen im freien | 
+WEG  V.G.c.42.:X.275.277. [ID 231, Dossier, E2, Eltern V.G.c.42.:X 275, S.14] Entschwefelung: Rohrleitungen | 
+WEG  V.G.c.42.:X.275.278. [ID 232, Dossier, E2, Eltern V.G.c.42.:X 275, S.14] Entschwefelung: El. Schemas; Aufbereitung, Pumpenh. u. Entschwefel. | 
+WEG  V.G.c.42.:X.275.279. [ID 233, Dossier, E2, Eltern V.G.c.42.:X 275, S.14] Kohlenaufbereitung, Rangierwinde, "Windhoff" | 
+WEG  V.G.c.42.:X.275.280. [ID 234, Dossier, E2, Eltern V.G.c.42.:X 275, S.15] Benzolwascher | 
+        D: 281
+WEG  V.G.c.42.:X.275.282. [ID 235, Dossier, E2, Eltern V.G.c.42.:X 275, S.15] Spaltanlage | 
+WEG  V.G.c.42.:X.275.283. [ID 236, Dossier, E2, Eltern V.G.c.42.:X 275, S.15] Wasseraufbereitung | 
+WEG  V.G.c.42.:X.275.284. [ID 237, Dossier, E2, Eltern V.G.c.42.:X 275, S.15] Wohnhäuser Allemendstr. 1, 3 + 5, Block A + B | 
+        D: 285 Grundwasserbrunnen 4
+WEG  V.G.c.42.:X.275.286. [ID 238, Dossier, E2, Eltern V.G.c.42.:X 275, S.15] Steilrohrkessel 1 & 2: Erdgas- & Oelfeuerung | Genau (=)
+        D: 29. Juli 1999 / RD
+        D: 3. Pläne in Mappen (plano gelagerte Pläne)
+        D: Anzahl Mappen: 54
+        D: Signatur Mappenbezeichnung Ordnungsnummern Format (mm)
+NEU  V.G.c.42.:3. [ID 40, Teilbestand, E1, Eltern -, S.16] Pläne in Mappen (plano gelagerte Pläne) | Genau (=)
+        D: Anzahl Mappen: 54
+        D: Signatur Mappenbezeichnung Ordnungsnummern Format (mm)
+GEÄ  V.G.c.42.:1.32. [ID 38, Dossier, E2, Eltern V.G.c.42.:1., S.3] Dreischichtenwechsel Tagesrapporte des Baubüros | Von/bis (>= x und <=y)
+        [Darin]
+           -7. Juli 1999 / RD
+           +
+GEÄ  V.G.c.42.:2. [ID 39, Dossier, E1, Eltern -, S.4] Pläne („Zeichnungsmappen“) | Von/bis (>= x und <=y)
+        Entstehungszeitraum: '' => 'Von/bis (>= x und <=y)'
+        von: '' => '1898'
+        bis: '' => '1962'
+        [Darin]
+           +10 Apparatenhaus I, Hochbau
+           +11 Apparatenhaus I, Kühler-Exhaustoren- & Wascheranlage
+           +12 Reinigergebäude I & Regenerierraum, Hochbau
+           +13 Reinigergebäude I, Reinigeranlage
+           +14 Uhren- & Reglerhaus
+           +14a Uhren- & Reglerhaus, B.M.-Gasmesser, Faulgasmesser
+           +15 Wasserturm
+           +16 Kraftzentrale
+           +17 Dampfkesselhaus & Werkstätten
+           +18 Lokomotiveremise, Portierhäuschen, Brückenwaagen, Diverses, Geflügelhaus, Elektromotoren
+           +18a Kokshalle u. Einwandung der untern Giebelfassade & Koks L-Stützen
+           +19 Kokshalle, Einwandung
+           +20 Verwaltungsgebäude
+           +21 Verwaltungsgebäude, Innerer Ausbau, Zentralheizung
+           +22 Doppelwohnhaus
+           +23 Oekonomiegebäude
+           +24 Dampfleitungen in den Fabrikgebäuden
+           +25 Teer- & Ammoniakwassergruben, Antracenoelgrube
+           +26 I Kokstransportanlage, Schlepprinnen etc.
+           +26 II Kokstransportanlage, Schlepprinnen etc.
+           +27 Kokssortieranlage No. 2 Elektr. hydr. Aufzug
+           +X 28 Gasbehälter I
+           +X 29 Gasbehälter II
+           +30 Einfriedung Schiebetore
+           +31 Geleiseanlage
+           +31a Neue Geleiseanlage, Wagonwaagen
+           +32
+           +33 Hauptspeiseleitung, 1000 mm
+           +34 Reserve-Hauptspeiseleitung, 800 mm
+           +35 Gasleitungen der Gemeinde Schlieren
+           +X 36 Arbeiterwohnhaus Typ I, Reihenhaus Industriestrasse 380, 381
+           +X 37 Arbeiterwohnhaus Typ II, Reihenhaus Industrestrasse 391 – 94
+           +X 38 Arbeiterwohnhaus Typ III, Reihenhaus Industriestrasse 398 - 401
+           +X 39 Arbeiterwohnhaus Typ IV, Einfamilienhaus Industriestrasse 384 – 87, 402, 403
+           +X 40 Arbeiterwohnhaus Typ V, Einfamilienhaus Industriestrasse 382, 383, 389, 390, 395, 396, 404, 405
+           +fehlt 41 Waschhäuser & Einfriedungen zu den Arbeiterwohnh. etc.
+           +41a Arbeiterwohnungen Allmendstrasse 1-11, Zürcherstrasse 50
+           +42 Situationspläne, Strassenbau & Pflästerungen, Überführung d. Industriestrasse
+           +43 Ausführungspläne 1. Ausbau 1898
+           +44 Projektpäne etc.
+           +45 Bahnwagenkipper II
+           +46 Kohlentransport, Grobkohlenbandförderer & Kohlenbrecher
+           +47 Kohlentransport, Bradleybecherwerk
+           +48 Kohlentransport, Bradleybecherwerk
+           +49 Bandförderer über den Magazinen, Schüttelrinnen, Haupttransm., Kratzertransporteur, Kohlenkasten etc.
+           +50 Kohlenschuppen II, Hochbau
+           +50a
+           +51 Retortenhaus II, 1 – 29
+           +52 Retortenhaus II, 30
+           +53 Vertikalofenanlage, Hochkamine, Beschickung der Generatoren
+           +53a Vertikalofenanlage, Hochkamine, Beschickung der Generatoren
+           +54 Koksaufbereitung No. 3
+           +55 Brouwerrinnen
+           +56 Koksbehälter, Koksaufzug, kl. Koksaufbereitung No. 4 & 5
+           +57 Versuchsgasanstalt
+           +58 Betriebsleitung zw. Ofenhaus I & Appartatenhaus II
+           +59 Betriebsleitung im Ofenhaus II, zwischen Ofenhaus II & App.h. II, Teerleitung & Teerpumpe
+           +60, 60a Apparatenhaus II & Laboratorium, Hochbau
+           +61 Apparatenhaus II, Innere Einrichtung (siehe auch No. 75) Masch. Fun.
+           +61a,b Apparatenhaus II, Innere Einrichtung (siehe auch No. 75) Masch. Fun.
+           +62 Reinigergeb. II mit Regenerierraum, Hochbau
+           +63, 63a Reinigergeb. II mit Regenerierraum, Innere Einrichtung
+           +X 64, 64a Gasbehälter III, 1-25
+           +X 65, 65a Gasbehälter III, 26
+           +66 Stationsgasmesser in Mappe 14a (Ilter), Teersiederei, Kollergang, Heizungsanlage, Wassergasanlage
+           +67 Ammoniakdestillation*, Teer- & Ammoniakwassergruben II
+           +68 4 ter Dampfkessel, 3te. Dampfmaschine mit Drehstromgenerator
+           +69 Schmalspurgeleise, Brückenwaage, Spillanlage, Elektro-Motoren
+           +70 2 te. Lokomotive, 3te. Lokomotive, offener + geschlossene Güterwagen, Kesselwagen
+           +71 Situationspläne, Gartenanlagen, Gas- und Wasserleitungen, Gewächshaus, Spielplatz, Magazin f. feuergefährliche Stoffe, Gärtnereischuppen
+           +72 Magazingebäude
+           +73 Wirtschaftsgebäude, Kegelbahn
+           +73a Kegelbahn, Konsum
+           +74 Apparatenhaus II, Ausführungspläne, Ausbau 1906 Werk
+           +75 Apparatenhaus II, Standardwascher II
+           +75a Wasserreinigung
+           +76 Städt. Land im Limmattal, Katasterkopien der Gemeinde Schlieren Mutationen
+           +77 Gasversorgung der Gemeinde Dietikon
+           +78 Dienstautomobil (Offerten & Pläne)
+           +79 Gordon-Bennet-Wettfliegen 1909 (Ballonfüllung)
+           +79a Gordon-Bennet-Wettfliegen, Korrespondenz & Drucksachen
+           +80 Verträge zu No. 45-50, 54-56, Entstaubungsanlagen
+           +81 Verträge zu No. 51-56
+           +82 Verträge zu No. 53, 64-66, 18, 31, 71, 89
+           +83 Verträge zu No. 57, -63, 67
+           +84 Verträge zu No. 68 & 69
+           +85 Verträge zu No. 70 – 72
+           +86 Verträge zu No. 60a, 71, 73, 75, 77
+           +87 Originalverträge II, Ausbau
+           +X 88 Beamtenwohnhäuser
+           +89 Kanalisation
+           +89a Kanalisation & Pumpenhaus
+           +89b Schmutzwasserleitung n. Werdhölzli
+           +90 Verstärkung des Kohlenhauses
+           +91 Vergrösserung des Dachaufbaues auf Ofenhaus I, Pläne & Kostenvoranschlag
+           +92 Vom Gemeiderat Schlieren genehmigte Pläne der 2. Bauperiode
+           +93 Umbau der Cozeofenbatt. 1 in 18er-Vertikalöfen, Mappe 1, 3. Aug. Projekte.
+           +94 Umbau der Cozeofenbatt. 1 in 18er-Vertikalöfen, Mappe 2, 6. Dez. Vorarbeit.
+           +95 18er-Vertikalöfen mit Zubehör
+           +96 Dispositionszeichnungen, Dachaufbauten, Bunker & Vorbunker
+           +97 Podeste mit Motoren, Laufbühnen & Treppen
+           +98 Brouwerrinne, Dampfabzugschlot, Koksrutsche
+           +99 Schrägaufzug & Umändern der Ofenhausfassade
+           +100 Koksaufbereitung, Feinkoksbecherwerk
+           +101 Waggonkipper I
+           +101a Waggonkipper, Offerten
+           +102 Kohlentransport beim Waggonkipper I & im Ofenhaus
+           +103 Teer- & Gasleitungen
+           +104 Kostenvoranschläge (Motoren)
+           +105 Kompressorenanlage; Pläne, Korrespondenz & Prospekte
+           +106 Autogarage
+           +107 Autogarage, Verträge
+           +108 Cozeofenbatterie III & IV
+           +109 Teerdestillation
+           +109a Teerdestillation und Oelbehälter 200 m³ Inhalt
+           +109b Heissteer-Wagen
+           +109c Stradol-Anlage
+           +110 Ammonikafabrik, Hochbau
+           +111 Ammoniakfabrik, Innere Einrichtung
+           +111a Ammoniakfabrik, Gaswasserverdichtungsanlage
+           +112 Wasser & Trinkwasserversorgung, Pläne, Gutachten, Verträge etc.
+           +Neuer Rohrbrunnen bei der Benzolfabrik
+           +113 Verträge & Korrespondenzen zu Beamtenwohnhäusern
+           +114 Lokomotiv-Dampfkran, Zeichnunen und Akten
+           +115 Verträge zu No. 31
+           +116 Verträge zu No. 109 & 109a (Strassenteerung)
+           +117 Verträge zu No. 110 – 111a
+           +118 18er-Vertikalöfen & Zubehör (Batterie IV)
+           +119 Podeste & Treppen
+           +120 Brouwerrinne, Kokosrutsche, Elevator, Gas- und Teerleitungen
+           +121 Acetylenanlage alte; jetzt Dreherei & Spenglerei
+           +121a Acetylenanlage alte; jetzt Dreherei & Spenglerei
+           +122 Benzolfabrik, Hochbau, Eisenkontruktion, Gruben, Anbau
+           +122a Benzolfabrik, Innenausbau, Apparate usw.
+           +fehlt 122b Benzolfabrik, Zentrifuge
+           +123 Tetralin-Anlage, Torftröckne, Brikettpresse
+           +fehlt 124 Brouwerrinne zu Batterie II 10erVertikalöfen
+           +fehlt 125 Abwärmedampfkesselhaus I, Gebäude & innere Einrichtung
+           +126 Abwärmedampfkesselhaus I, Offerten, Kostenvoranschl., Genehmigungen usw.
+           +127 Abwärmedampfkesselhaus II, Gebäude, Kostenvoranschl., Genehmigung usw.
+           +128 Abwärmedampfkesselhaus II, Innere Einrichtung
+           +129 Abwärmedampfkesselanlage: Speisewassergrube
+           +fehlt 130 Abwärmedampfkesselhaus III, Projekte, Inneneinrichtung, Preiseingänge, Korrespondenzen
+           +131 Elektrische Beleuchtung, Elektrische Kabel
+           +132 Lagerhaus (Dörranlage), Gebäude
+           +132a Lagerhaus (Dörranlage) Liftaufbau, Umgebung
+           +133 Lagerhaus (Döranlage), innere Einrichtung
+           +134 Lagerhaus (Dörranlage), Offerten, Preiseingaben, Verträge etc.
+           +135 Preiseingaben, Verträge etc. zu Mappen No. 93-104, 108, 118-120
+           +136 Gebläseanlage, Gebläse 1 & 2, Stadtgasgebläse
+           +136a Gebläseanlage, Kondensationsanlage, Stadtgasgebläse
+           +137 Dampfkanal, Dampfleitungen, Leitungskanäle, Wärmezentrale
+           +138 Schlackewäsche, Pläne & schriftl. Akten, Schlackenbrechanlage
+           +139 Kokskühlanlage, Pläne & schriftl. Akten
+           +140 Fernheizungen
+           +141 Elektr. Anlagen, Schalt- & Messstationen, Transformatorenstation
+           +141a,b Verteilanlagen, Schalter, Motormasskizzen
+           +142 Koksaufbereitung No. 6
+           +143 Werkzeugmaschine, Werkzeuge
+           +144 Armaturen, div. Messinstrumente & Regler
+           +145 Projekte
+           +146 6er Vertikal-Kammeröfen, Batterie I
+           +147 Lagerplätze und Schuppen von Züblin Holzkontor etc.
+           +148 Diagramme & Tabellen, Betriebsvorschriften
+           +149 Teerbehälter 500 m³ & 1'000 m³, 60 & 100 m³
+           +150 Pumpen für Teer & Ammoniakwasser, Speisewasser & Wasser
+           +151 Vorkühleranlage
+           +152 Reiniger No. 4
+           +153 Kippwagen, Greifbagger, Dieselbagger, Aku-Fahrzeuge, Rangierwinde
+           +154 Speicherdampflokomotive
+           +155 Wohlfahrtshaus WFO
+           +156 Kataster-Pläne
+           +157 Benzintankanlage
+           +158 Faulgas-Anlage
+           +159 Leitungspläne, Telephonschema (insgesamt 8 Mappen)
+           +160 Wassergasanlage, Bau: Fundamante f. Gaserzeuger, Arbeitsbühne, Gasbehälter, Rohrkeller u. Kanal, Teerscheidegrube
+           +161 Wassergsanlage: Gaserzeuger, Abhitzekessel, Wascher, Kühler, Rohrleitungen, Gasmesser
+           +162 Ausmauerung der Gaserzeuger und Abhitzekessel
+           +163 Windgebläse, Speisewasser- & Oelpumpen, Ventilatoren
+           +164 Messinstrumente, Motoren, el. Schalter & Apparate
+           +165 Arbeitsbühne und Podest
+           +166 Koks- & Schlackentransport, Elevator, Förderband, Hängebahn, Schlackenaufzug, Waage.
+           +167 Koksbunker
+           +168 Dachaufbau über dem Bunker, Treppenturm bei Elevator
+           +169 Wassergasbehälter 80000 m²: Gasbehälter, Oelbehälter, Lieferungsbestimungen
+           +170 Führungsgerüst
+           +171 Wassergasanalyse: von den Behörden genehmigte Projektpläne
+           +172 Drehscheiben-Waggonkipper; Bau: Fundamante für Waggonkipper, Kohlenbunker, Überdachung
+           +173 Drehscheiben-Waggonkipper; Bau: Maschinelle Einrichtung, Signalanlage
+           +174 Kohlenförder-, -Blech, -Misch und Mahlanlage, Bau: Fundamente, Fördergruben, Gebäude
+           +175 Fundamente, Fördergruben, Bunker, Gebäude, Eisenlisten
+           +176 Grobkohlenförderer, Kohlenbrechanlage: Maschinelle Einrichtung
+           +177 Kohlen-Misch- und Mahlanlage: Maschinelle Einrichtung, Bänder
+           +177a Kohlen-Misch- und Mahlanlage: II. Ausbau
+           +177b Kohlen-Misch- und Mahlanlage: Kohlen-Elevatoren
+           +178 Feinkohlen-Schrägförderer: Maschinelle Einrichtung
+           +179 Feinkohlen-Schrägförderer: Maschinelle Einrichtung
+           +180 Kohlenturm: Kohlen-Verteileinrichtung, Füllwagenwaage, Auszug, NH³-Behälter, Bunkerverschluss
+           +180a Kohlentransport a.d. Kohlenturm: Nicht ausgef. Projekte
+           +181 Kohlenturm, Bau: Fundament bis Füllbühne, Remise
+           +182 Kohlenturm, Bau: Füllbühne bis Dach
+           +183 Koksrampe, Löschtürme, Bau: Koksförderkanal i.d. Kokshalle, Kokskühlanlage, Fundament
+           +184 Kammerofenanlage, Bau: Ausmauerung, Unterbauten, Fundamente, Ausmauerung Maschinenbahn, Rauchkanal
+           +184a Rohrkanäle, Kokswagengeleise
+           +185 Hochkamin 70 m, Reservekamin Ost
+           +186 Kammerofenanlage I: Kammeröfen Eisenkonstruktionen
+           +186a Kammerofenanlage II: Kammeröfen Eisenkonstruktionen
+           +187 Kammerofenanlage I: Ofenarmaturen, Wechselei, Beheizungsarm.
+           +187a Kammerofenanlage II: Ofenarmaturen, Wechselei, Beheizungsarm.
+           +188 Kammerofenanlage I: Teervorlage, Rohgas- & Ammoniakwasser- und Teerleitungen, Holzgas-Vorlage
+           +188a Kammerofenanlage II: Teervorlage, Rohgas- & Ammoniakwasser- und Teerleitungen, Holzgas-Vorlage
+           +189 Kammerofenanlage I: Stark- & Schwachgasleitungen, Abhitzearmat.
+           +189a Kammerofenanlage II: Stark- & Schwachgasleitungen, Abhitzearmat.
+           +190 Kammerofenanlage: Rohgasleitung v.d. Oefen zu den Vorkühlern, Rohrbrücke, Rohrstützen, Spülbeh. I & II
+           +191 Kammerofenanlage I: Ofenbedienungsmaschinen, Koksausdrückmasch. I
+           +191a Kammerofenanlage I: Ofenbed.-Masch., Füllwagen I, Führungsw. I
+           +192 Kokskühlanlage I & II: Kühlkammern, Kessel, Verschalung
+           +192a Kokskühlanlage I & II: Ventilatoren, Rohrleitungen, Armaturen
+           +192b Kokskühlanlage III
+           +193 Kokskühlanlage: Kokstransportwagen I
+           +194 Kokskühlanlage: Kokstransportwagen I
+           +195 Kokskühlanlage: Kokstransportwagen II
+           +196 Kokskühlanlage: Kokstransportwagen II
+           +197, 197a Kokskühlanlage: Kokskübel, Abstellgeleise, Bedienungspodeste
+           +198 Kokslöschanlage: Nasslöschwagen
+           +199 Grobkoks-Förderanlage: Förderwagen, Absperr-Rechen
+           +200 Grobkoks-Förderanlage: Fahrbahn-Eisenkontruktion, Förderwinde
+           +201 Koksaufbereitung I & Remisenanbau: Bau, Schalungs- & Arm.-Pläne
+           +202 Koksaufbereitung II: Bau, Schalungs- & Armierungspläne
+           +203 Koksaufbereitung I: Masch. Einrichtung Syst. II
+           +204 Koksaufbereitung II: Masch. Einrichtung Syst. II
+           +204a Entstaubungsanlage
+           +205 Koksförderbahn i.d. Kokshalle: Fundamente, Eisenbetonstützenummantelung
+           +206 Koksförderbahn i.d. Kokshalle: Eisenkonstruktion
+           +207 Koksförderbahn v.d. Kokshalle z. Generatoren- & Wassergasanlage: Eisenkonstruktion, gesamt. Gehsteig
+           +208 Koksförderkran i.d. Kokshalle: Eisenkontruktion
+           +209 Koksförderkran i.d.Kokshalle: Kranwinde, Laufkatze, Greifer
+           +209a Koksförderwagen I: Geleise, Weichen, Senkwerk
+           +209b Koksförderwagen II: Geleise, Weichen, Senkwerk
+           +210 Koksaufbereitung i.d. Kokshalle: Für Bahn- & Autoverlad, Nachbrecher fahrb. Koks-Siebanlage
+           +211 Zentralgeneratorenanlage: Koksbunker, Dachaufbau
+           +212 Zentralgeneratorenanlage: Eisenkontr., Bühnen, Unterzüge, Gebälk
+           +213 Zentralgeneratorenanlage: Treppen bei den Waschern, Rohrdurchführungen, Säulen und Ständer
+           +214 Zentralgeneratorenanlage: Hängebahnanlage, Hängebahnwaage
+           +215 Zentralgeneratorenanlage: Generatoren, Transmissionsantriebe, Aschenwagengeleise
+           +216 Zentralgeneratorenanlage: Dampferzeuger, Dampfsammler, Regler, Wärmeaustauscher
+           +217 Zentralgeneratorenanlage: Wascher, Wasserabscheider, Ausblasetopf, Gebläse, Regler
+           +218 Zentralgeneratorenanlage: Rohrleitungen für Gas, Wind, Dampf, Wasser. Absperrschieber & Ventile
+           +219 Zentralgeneratorenanlage: Schwachgasleitung von den Generatoren zu den Oefen
+           +220 Zentralgeneratorenanlage: Fundamente, Abfangung der Fassaden, Ausmauerung
+           +221 Diverse Begutachtungen
+           +222 Kammerofenanlage II: Ofenbedienungsmaschine II, Koksausdrückmaschine II 222a Kammerofenanlage II: Ofenbedienungsmaschine II, Füllwagen II, Koksführungswagen II
+           +X 223 Gasbehälter IV, 100'000 m3: Behälter I und II
+           +X 223a,b Gasbehälter IV, 100'000 m3: Sämtliche Pläne
+           +224 Abwasser-Kläranlage
+           +224a Abwasser-Kläranlage
+           +225 Steilrohr-Kesselanlage, Bau: Fundamente, Unterbauten, Koksbunker, Kamin
+           +225a Steilrohr-Kesselanlage: Steilrohrkessel inkl. Zubehör
+           +226 Koksmahl-Anlage
+           +226a Koksmahl-Anlage
+           +227, 227b vom Techn. Inspektorat & Starkstrominspektorat genehmigte Pläne
+           +227a, c von den Behörden genehmigte Pläne
+           +228 Dörranlage
+           +229 Venturimesser-Schacht & Gaslabor, Schema der Gasprüfleitung
+           +230 Elektrische Gasentteerung
+           +231 Glattal-Gebläse
+           +232 Holz-Entgasung App'haus inkl. Holzteergrube
+           +233 Holzaufbereitung
+           +234 Kohlen- & Holzhilfstransport von der Holzaufbereitung zum Kohlenturm
+           +235 Brücken- & Kabelkrane für Kohlenfreilager 1933/39: Projekte
+           +236, 326a Luftschutzräume unter Kohlenhaus II u. Wasserreinigung
+           +237 Schlackenscheideanlage
+           +238 Stat. Berechnungen 1934 (Ing. C.A. Buss 1934-37)
+           +239 Werkstattgebäude mit Magazin: Bauplanung Arch. Dürr
+           +239a Werkstattgebäude mit Magazin: Eisenbeton
+           +240, 240a Wohlfahrtsgebäude WFP
+           +241 Kohlenmag. Redler "Bühler"
+           +242 Telephon-Uhren-Such- & Alarmanlage
+           +243 Koksaufbereitung Syst. I: Projekte Krupp
+           +244 Koksaufbereitung Syst. I: Projekte Krupp
+           +245 Koksaufbereitung Syst. I: Vor- u. Mittelbrecher
+           +246 Koksaufbereitung Syst. I: Bänder u. Eisenkonstruktionen
+           +247 Koksaufbereitung Syst. I: Vor- u. Hauptsieb
+           +248 Koksaufbereitung Syst. I: Rutschen u. Trichter
+           +249 Koksaufbereitung Syst. I: Nachsiebanlage
+           +250 Koksaufbereitung Syst. I: Verladeanlage
+           +251 Koksaufbereitung Syst. I: Baupläne, Kommandohaus u. Vordach
+           +252 Koksaufbereitung Syst. I: Kommandohaus u. Rangierwinde
+           +253 Koksaufbereitung Syst. I: Elekt. Schemas
+           +254 Koksaufbereitung Syst. I: Siebbleche Krupp u. G.W.
+           +255 Koksaufbereitung Syst. I: Betriebsvorschriften ect.
+           +256 Kammerofen-Anlage, Umbau 1962
+           +257 Wasserrecht
+           +258 Generatorgas-Anlage, Einbau von 2 Gas-Schnellschlussverschlüssen
+           +259 Kammerofen-Anlage, Türreparaturstand
+           +260 Absackanlage i. d. Kokshalle
+           +261 Apparatehaus 2: Gasauger 2
+           +262 +a Zentr.gen.-Anlage, Automatisierung
+           +263 Zentr.gen.-Anlage, Gen.-Gas-Beimischleitung, Pläne Wild A.G. Muri Zentr.gen.-Anlage, Gen.-Gas + Wassergusszähler, Pläne Wild A.G. Muri Zentr.gen.-Anlage, Hilfsleitung f. Unterfeuerung, Pläne Wild
+           +264 Ammoniakwascher "Baumag" Nr. I + II
+           +X 265 +a Diesel-Notstromgruppe
+           +266 Entgiftungsanlage: Elektr. Schemas
+           +267 Entgiftungsanlage: Mess- & Regelgeräte, Montage- & Betriebsanleitung
+           +268 Entgiftungsanlage: Betriebshandbuch
+           +X 269 Entgiftungsanlage: Konvertierungsgebäude – Baupläne
+           +X 270 Entgiftungsanlage: Konvertierungsgebäude, Schalungs- u. Armierungspläne
+           +271 Entgiftungsanlage: Armaturen
+           +X 272 Entschwefelung: Aufbereitungsgebäude – Baupläne
+           +X 273 Entschwefelung: Aufbereitungsgebäude Schalungs- u. Armierungspläne
+           +X 274 Entschwefelung: Pumpenhaus: Bau-Schalungs- u. Armierungspläne
+           +X 275 Entschwefelung: Fundamentpläne, Armaturen im Gebäude
+           +276 Entschwefelung: Armaturen im freien
+           +277 Entschwefelung: Rohrleitungen
+           +278 Entschwefelung: El. Schemas; Aufbereitung, Pumpenh. u. Entschwefel.
+           +279 Kohlenaufbereitung, Rangierwinde, "Windhoff"
+           +280 Benzolwascher
+           +281
+           +282 Spaltanlage
+           +283 Wasseraufbereitung
+           +284 Wohnhäuser Allemendstr. 1, 3 + 5, Block A + B
+           +285 Grundwasserbrunnen 4
+           +286 Steilrohrkessel 1 & 2: Erdgas- & Oelfeuerung
+        Zeitraum-Quelle: '' => 'Darin (geschätzt)'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => 'Zeitraum aus den Jahreszahlen im Darin geschätzt.'
+GEÄ  V.G.c.42.:3.1. [ID 41, Serie, E2, Eltern V.G.c.42.:3., S.16] 220 x 350 | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.G.c.42.' => 'V.G.c.42.:3.'
+        [Prüfhinweise]
+           -Keine übergeordnete Signatur gefunden (erwartet 3.).
+        Eltern: '-' => 'V.G.c.42.:3.'
+GEÄ  V.G.c.42.:3.1.1. [ID 42, Dossier, E3, Eltern V.G.c.42.:3.1., S.16] Mappe 1 1 - 100 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.1.2. [ID 43, Dossier, E3, Eltern V.G.c.42.:3.1., S.16] Mappe 1 101 - 200 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.1.3. [ID 44, Dossier, E3, Eltern V.G.c.42.:3.1., S.16] Mappe 1 201 - 250 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.1.4. [ID 45, Dossier, E3, Eltern V.G.c.42.:3.1., S.16] Mappe 1 251 - 350 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.2. [ID 46, Serie, E2, Eltern V.G.c.42.:3., S.16] 440 x 350 | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.G.c.42.' => 'V.G.c.42.:3.'
+        [Prüfhinweise]
+           -Keine übergeordnete Signatur gefunden (erwartet 3.).
+        Eltern: '-' => 'V.G.c.42.:3.'
+GEÄ  V.G.c.42.:3.2.1. [ID 47, Dossier, E3, Eltern V.G.c.42.:3.2., S.16] Mappe 2 1 - 100 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.2.2. [ID 48, Dossier, E3, Eltern V.G.c.42.:3.2., S.16] Mappe 2 101 - 200 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.2.3. [ID 49, Dossier, E3, Eltern V.G.c.42.:3.2., S.16] Mappe 2 201 - 300 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.2.4. [ID 50, Dossier, E3, Eltern V.G.c.42.:3.2., S.16] Mappe 2 301 - 400 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.2.5. [ID 51, Dossier, E3, Eltern V.G.c.42.:3.2., S.16] Mappe 2 401 - 500 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.3. [ID 52, Serie, E2, Eltern V.G.c.42.:3., S.16] 660 x 350 | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.G.c.42.' => 'V.G.c.42.:3.'
+        [Prüfhinweise]
+           -Keine übergeordnete Signatur gefunden (erwartet 3.).
+        Eltern: '-' => 'V.G.c.42.:3.'
+GEÄ  V.G.c.42.:3.3.1. [ID 53, Dossier, E3, Eltern V.G.c.42.:3.3., S.16] Mappe 3 1 - 100 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.3.2. [ID 54, Dossier, E3, Eltern V.G.c.42.:3.3., S.16] Mappe 3 101 - 200 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.3.3. [ID 55, Dossier, E3, Eltern V.G.c.42.:3.3., S.16] Mappe 3 201 - 250 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.3.4. [ID 56, Dossier, E3, Eltern V.G.c.42.:3.3., S.16] Mappe 3 251 - 300 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.4. [ID 57, Serie, E2, Eltern V.G.c.42.:3., S.16] 420 x 594 | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.G.c.42.' => 'V.G.c.42.:3.'
+        [Prüfhinweise]
+           -Keine übergeordnete Signatur gefunden (erwartet 3.).
+        Eltern: '-' => 'V.G.c.42.:3.'
+GEÄ  V.G.c.42.:3.4.1. [ID 58, Dossier, E3, Eltern V.G.c.42.:3.4., S.16] Mappe 4 1 - 100 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.4.2. [ID 59, Dossier, E3, Eltern V.G.c.42.:3.4., S.16] Mappe 4 101 - 200 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.4.3. [ID 60, Dossier, E3, Eltern V.G.c.42.:3.4., S.16] Mappe 4 201 - 300 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.4.4. [ID 61, Dossier, E3, Eltern V.G.c.42.:3.4., S.16] Mappe 4 301 - 400 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.4.5. [ID 62, Dossier, E3, Eltern V.G.c.42.:3.4., S.16] Mappe 4 401 - 415 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.5. [ID 63, Serie, E2, Eltern V.G.c.42.:3., S.17] 660 x 700 | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.G.c.42.' => 'V.G.c.42.:3.'
+        [Prüfhinweise]
+           -Keine übergeordnete Signatur gefunden (erwartet 3.).
+        Eltern: '-' => 'V.G.c.42.:3.'
+GEÄ  V.G.c.42.:3.5.1. [ID 64, Dossier, E3, Eltern V.G.c.42.:3.5., S.17] Mappe 5 1 - 100 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.5.2. [ID 65, Dossier, E3, Eltern V.G.c.42.:3.5., S.17] Mappe 5 101 - 200 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.5.3. [ID 66, Dossier, E3, Eltern V.G.c.42.:3.5., S.17] Mappe 5 201 - 300 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.5.4. [ID 67, Dossier, E3, Eltern V.G.c.42.:3.5., S.17] Mappe 5 301 - 400 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.5.5. [ID 68, Dossier, E3, Eltern V.G.c.42.:3.5., S.17] Mappe 5 401 - 500 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.5.6. [ID 69, Dossier, E3, Eltern V.G.c.42.:3.5., S.17] Mappe 5 501 - 550 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.5.7. [ID 70, Dossier, E3, Eltern V.G.c.42.:3.5., S.17] Mappe 5 551 - 600 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.5.8. [ID 71, Dossier, E3, Eltern V.G.c.42.:3.5., S.17] Mappe 5 601 - 650 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.6. [ID 72, Serie, E2, Eltern V.G.c.42.:3., S.17] 880 x 700 | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.G.c.42.' => 'V.G.c.42.:3.'
+        [Prüfhinweise]
+           -Keine übergeordnete Signatur gefunden (erwartet 3.).
+        Eltern: '-' => 'V.G.c.42.:3.'
+GEÄ  V.G.c.42.:3.6.1. [ID 73, Dossier, E3, Eltern V.G.c.42.:3.6., S.17] Mappe 6 1 - 100 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.6.2. [ID 74, Dossier, E3, Eltern V.G.c.42.:3.6., S.17] Mappe 6 101 - 200 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.6.3. [ID 75, Dossier, E3, Eltern V.G.c.42.:3.6., S.17] Mappe 6 201 - 300 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.6.4. [ID 76, Dossier, E3, Eltern V.G.c.42.:3.6., S.17] Mappe 6 301 - 400 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.6.5. [ID 77, Dossier, E3, Eltern V.G.c.42.:3.6., S.17] Mappe 6 401 - 450 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.6.6. [ID 78, Dossier, E3, Eltern V.G.c.42.:3.6., S.17] Mappe 6 451 - 500 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.6.7. [ID 79, Dossier, E3, Eltern V.G.c.42.:3.6., S.17] Mappe 6 501 - 550 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.6.8. [ID 80, Dossier, E3, Eltern V.G.c.42.:3.6., S.17] Mappe 6 551 - 600 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.6.9. [ID 81, Dossier, E3, Eltern V.G.c.42.:3.6., S.17] Mappe 6 601 - 650 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.6.10. [ID 82, Dossier, E3, Eltern V.G.c.42.:3.6., S.17] Mappe 6 651 - 700 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.7. [ID 83, Serie, E2, Eltern V.G.c.42.:3., S.17] 1050 x 594 | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.G.c.42.' => 'V.G.c.42.:3.'
+        [Prüfhinweise]
+           -Keine übergeordnete Signatur gefunden (erwartet 3.).
+        Eltern: '-' => 'V.G.c.42.:3.'
+GEÄ  V.G.c.42.:3.7.1. [ID 84, Dossier, E3, Eltern V.G.c.42.:3.7., S.17] Mappe 7 1 - 50 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.7.2. [ID 85, Dossier, E3, Eltern V.G.c.42.:3.7., S.17] Mappe 7 51 - 100 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.7.3. [ID 86, Dossier, E3, Eltern V.G.c.42.:3.7., S.17] Mappe 7 101 - 150 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.7.4. [ID 87, Dossier, E3, Eltern V.G.c.42.:3.7., S.17] Mappe 7 151 - 200 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.7.5. [ID 88, Dossier, E3, Eltern V.G.c.42.:3.7., S.17] Mappe 7 201 - 250 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.8. [ID 89, Serie, E2, Eltern V.G.c.42.:3., S.18] 1050 x 880 | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.G.c.42.' => 'V.G.c.42.:3.'
+        [Prüfhinweise]
+           -Keine übergeordnete Signatur gefunden (erwartet 3.).
+        Eltern: '-' => 'V.G.c.42.:3.'
+GEÄ  V.G.c.42.:3.8.1. [ID 90, Dossier, E3, Eltern V.G.c.42.:3.8., S.18] Mappe 8 1 - 50 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.8.2. [ID 91, Dossier, E3, Eltern V.G.c.42.:3.8., S.18] Mappe 8 15 - 100 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.8.3. [ID 92, Dossier, E3, Eltern V.G.c.42.:3.8., S.18] Mappe 8 101 - 150 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.9. [ID 93, Serie, E2, Eltern V.G.c.42.:3., S.18] 1050 x 891 | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.G.c.42.' => 'V.G.c.42.:3.'
+        [Prüfhinweise]
+           -Keine übergeordnete Signatur gefunden (erwartet 3.).
+        Eltern: '-' => 'V.G.c.42.:3.'
+GEÄ  V.G.c.42.:3.9.1. [ID 94, Dossier, E3, Eltern V.G.c.42.:3.9., S.18] Mappe 9 1 - 50 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.9.2. [ID 95, Dossier, E3, Eltern V.G.c.42.:3.9., S.18] Mappe 9 51 - 100 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.10. [ID 96, Serie, E2, Eltern V.G.c.42.:3., S.18] 1100 x 1050 | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.G.c.42.' => 'V.G.c.42.:3.'
+        [Prüfhinweise]
+           -Keine übergeordnete Signatur gefunden (erwartet 3.).
+        Eltern: '-' => 'V.G.c.42.:3.'
+GEÄ  V.G.c.42.:3.10.1. [ID 97, Dossier, E3, Eltern V.G.c.42.:3.10., S.18] Mappe 10 1- 50 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.10.2. [ID 98, Dossier, E3, Eltern V.G.c.42.:3.10., S.18] Mappe 10 51 - 100 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.10.3. [ID 99, Dossier, E3, Eltern V.G.c.42.:3.10., S.18] Mappe 10 101 - 150 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.11. [ID 100, Serie, E2, Eltern V.G.c.42.:3., S.18] 1260 x 891 | Genau (=)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.G.c.42.' => 'V.G.c.42.:3.'
+        Prüfhinweise: 'Keine übergeordnete Signatur gefunden (erwartet 3.).' => ''
+        Eltern: '-' => 'V.G.c.42.:3.'
+GEÄ  V.G.c.42.:3.11.1. [ID 101, Dossier, E3, Eltern V.G.c.42.:3.11., S.18] Mappe 11 1 - 50 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.11.2. [ID 102, Dossier, E3, Eltern V.G.c.42.:3.11., S.18] Mappe 11 51 - 100 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.11.3. [ID 103, Dossier, E3, Eltern V.G.c.42.:3.11., S.18] Mappe 11 101 - 150 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.11.4. [ID 104, Dossier, E3, Eltern V.G.c.42.:3.11., S.18] Mappe 11 151 - 200 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:3.11.5. [ID 105, Dossier, E3, Eltern V.G.c.42.:3.11., S.18] Mappe 11 201 - 250 | 
+        Ebene: '2' => '3'

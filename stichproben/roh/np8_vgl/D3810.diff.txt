@@ -1,0 +1,5 @@
+### D3810: vorher 21 Einheiten, nachher 21 Einheiten
+GEÄ  VII.67.:21. [ID 21, Dossier, E1, Eltern -, S.2] Vereinzelte genealogische Notizen | Von/bis (>= x und <=y)
+        bis: '10.09.1992' => '1944'
+        [Darin]
+           -rpt Stand: 10.09.1992

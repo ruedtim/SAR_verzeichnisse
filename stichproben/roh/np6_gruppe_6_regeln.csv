@@ -1,0 +1,161 @@
+regel;pdf;id;signatur;seite;urteil;kurz
+B;D3060.pdf;1;VII.189.:1;3–4;gleich;"1747–1979 (Darin geschätzt) → 1783–1979 (Datumsspalte): «1747-1819»/«1783-1864» sind Lebensdaten aus Registerauszügen; «Urkunden zu diversen Geburten ¦ 1700/1800» und 1747 fallen als Ausreisser (Lücke 36 J.) weg; Online-Archiv nennt 1784–1985"
+D;D3105.pdf;1;VII.2.:1;1;besser;1871–1880 Quelle Darin (geschätzt) → Datumsspalte (3 von 4 Einträgen datiert)
+C;D3105.pdf;2;VII.2.:2;1;gleich;"1865–05.07.1994 unverändert, Quelle jetzt «Datumsspalte und Darin (geschätzt)»; Ende = Fusszeile «Stand: 05.07.1994» (bekannt, Z7)"
+I;D150689.pdf;73;VII.277.:3.5.;75;besser;«Nrn. 50/51, 11./18. Dezember 1915» → Beginn 11.12.1915 statt 18.12.1915
+I;D150689.pdf;77;VII.277.:3.8.1.;80;gleich;= 1939 unverändert, Anm jetzt vollständig «1939, 19./20. August 1939»
+J;D3316.pdf;61;VII.255.:3.3.;7;besser;1559–1900 → = 1900 («seit 1559» im Buchtitel zählt nicht mehr)
+J;D3316.pdf;67;VII.255.:3.9.;8;besser;"1559–1969 → 1900–1969; Soll = 1969, 1900 ist die zitierte Erstausgabe (neue Zeile)"
+J;D3316.pdf;70;VII.255.:3.12.;9;besser;1376–1992 → = 1992 («… Schildner zum Schneggen 1376 - 1600, Zürich und Paris 1992»)
+J;D3316.pdf;58;VII.255.:3.;7;gleich;1376–1992 → 1444–1992 (Untereinheiten (geschätzt)) aus 3.1. «A°. 1444 … o.O.u.J.» = 1444 (vor 13:15, neue Zeile)
+K;D3316.pdf;30;VII.255.:1.29.;4;gleich;Titel jetzt mit ganzer Beschreibungszeile «Vorwort … Rede bei der Übergabe des kleinen Rüden am grossen Bott» (vorher mitten in «Hans Schulthess: Der Reiterbecher» geteilt) – Titel/Darin-Grenze beide Male falsch
+C;D10684.pdf;12;VII.137.:6.;3;gleich;27.12.1868–25.04.1953 unverändert, Quelle «Datumsspalte und Darin (geschätzt)»: «… Urkunde vom» / «25. April 1953» gilt als Jahreszeile («vom» fehlt in der Satzende-Liste Z. 616), keine echte Spalte
+D;D3021.pdf;2;VII.175.:B);2–3;besser;1918–1978 Quelle Darin (geschätzt) → Datumsspalte = Spannweite der Spalte
+D;D2717.pdf;2;V.L.59.:2.;3;gleich;"= 01.07.1901 Quelle → Datumsspalte: umbrochenes «1. Juli» / «1901» als Jahreszeile (1 von 2 Einträgen); Wert richtig, Spalte gibt es nicht"
+E;D2839.pdf;9;VII.103.:2.5.;7;gleich;"Anm «1955; Darin: 24.02.1954–14.12.1955» (24. Febr. 1954 steht so im PDF, wohl Tippfehler)"
+I;D2839.pdf;14;VII.103.:2.10.;13;besser;«30. April/4. Mai 1960» erkannt: «18. Guinea …, 30. April/4. Mai 1960» und «18. Bauernvernichtung, 4. Mai 1960» getrennt
+F;D1880.pdf;1;V.G.c.50.:A.;5;besser;"1931–1956 → 1931–1936 = «A. Allgemeines 1931-1936» der 1. Serie; Teile der 2./3. Serie («taucht erneut auf») zählen nicht, Hinweis «Untereinheiten reichen … (1931–1956)»"
+F;D1880.pdf;2;V.G.c.50.:A.I.;5;besser;1934–1940 → 1934–1935 = «I. Gemeindegesetz 1934-1935»
+D;D1880.pdf;11;V.G.c.50.:A.IV.;5;gleich;= 1936, Quelle Untereinheiten → Datumsspalte (umbrochenes «… Firma Julius Hädrich» / «1936», keine echte Spalte)
+F;D1880.pdf;26;V.G.c.50.:B.;5;besser;1931–1955 → 1931–1936 = «B. Baugesetz 1931-1936»
+F;D1880.pdf;36;V.G.c.50.:B.IV.;5;besser;1936–1948 → = 1936 («Übertretung 1936»)
+F;D1880.pdf;44;V.G.c.50.:C.;6;besser;1930–1954 → 1933–1935 = Titel
+F;D1880.pdf;47;V.G.c.50.:D.;6;besser;1931–1956 → 1931–1936
+F;D1880.pdf;61;V.G.c.50.:E.;6;besser;1931–1955 → 1931–1936
+F;D1880.pdf;72;V.G.c.50.:f.;6;besser;1931–1948 → 1931–1936 («f. Heizamt 1931-1936»)
+F;D1880.pdf;86;V.G.c.50.:F.;6;besser;1931–1953 → 1931–1936
+F;D1880.pdf;101;V.G.c.50.:G.;8;besser;1931–1948 → 1931–1936
+F;D1880.pdf;116;V.G.c.50.:H.;8;besser;1910–1964 → 1918–1936 («H. Hochbauamt 1918-1936»)
+F;D1880.pdf;127;V.G.c.50.:J.;10;besser;1931–1948 → 1931–1936
+F;D1880.pdf;139;V.G.c.50.:N.;10;besser;1931–1946 → 1931–1943 («N. Bauamt I 1931-1943»)
+F;D1880.pdf;145;V.G.c.50.:P.;11;besser;"1931–1948 → 1931–1936; gleichartig K., L., M., O. (IDs 130/133/136/142)"
+D;D2937.pdf;6;VII.140.:B.;3;besser;Quelle Untereinheiten (geschätzt) → Untereinheiten (B.1.0.–B.4.0. jetzt alle Spalte)
+D;D2937.pdf;8;VII.140.:B.2.0.;3;besser;1946–1947 Quelle → Datumsspalte («Verschiedenes ¦ 1946 – 1947», 1 von 2 Einträgen)
+E;D2937.pdf;10;VII.140.:B.4.0.;3;gleich;"Anm «1932; Darin: 1935–1954»: 1932 ist das Datum des 1. Eintrags «Venus in Seide», das dort fehlt (Z23)"
+D;D2937.pdf;29;VII.140.:G.;18;besser;Quelle → Untereinheiten
+D;D2937.pdf;30;VII.140.:G.1.0.;18–19;besser;1920–1941 Quelle → Datumsspalte
+D;D2937.pdf;31;VII.140.:G.2.0.;19;besser;1933–1984 Quelle → Datumsspalte (2 von 4 Einträgen)
+E;D2937.pdf;42;VII.140.:I.4.0.;24;gleich;"Anm «1933; Darin: 1936–1952» (1933 = 1. Eintrag «Zwei Herzen im 3/4 Takt»)"
+D;D2937.pdf;48;VII.140.:J.;26;besser;Quelle → Untereinheiten
+D;D2937.pdf;49;VII.140.:J.1.0.;26;gleich;"= 1957 Quelle → Datumsspalte; Spalte nennt nur 1957 (70. Geburtstag), drei Zeilen zu einem Eintrag verschmolzen (vor 13:15)"
+D;D2937.pdf;51;VII.140.:K.;26;besser;Quelle → Untereinheiten
+D;D2937.pdf;54;VII.140.:K.3.0.;26–27;besser;1928–1957 Quelle → Datumsspalte (5 von 10 Einträgen)
+E;D2937.pdf;57;VII.140.:L.2.0.;27–28;gleich;"Anm «1943; Darin: 1944–1960», Werte = Spalte"
+D;D2937.pdf;59;VII.140.:L.4.0.;28;besser;1942–1976 Quelle → Datumsspalte
+D;D2937.pdf;60;VII.140.:M.;28;besser;Quelle → Untereinheiten
+D;D2937.pdf;61;VII.140.:M.1.0.;28–29;besser;1895–1924 Quelle → Datumsspalte
+I;D176060.pdf;3;VII.423.:1.2.;4;besser;= 03.1985 → 02.1985–03.1985 («WOZ von Februar – März 1985»)
+I;D176060.pdf;6;VII.423.:1.5.;4;besser;= 09.1985 → 08.1985–09.1985
+D;D176060.pdf;186;VII.423.:3.3.;14;besser;Gruppe Quelle → Untereinheiten
+D;D176060.pdf;207;VII.423.:3.3.5.;15;besser;= 1993 Quelle → Datumsspalte, Hinweis weg (Z208)
+D;D176060.pdf;208;VII.423.:3.4.;15;besser;= 15.05.1992 Quelle → Datumsspalte
+D;D176060.pdf;348;VII.423.:5.4.;23;besser;1986–1987 Quelle → Datumsspalte (Z208)
+D;D176060.pdf;351;VII.423.:5.7.;23;besser;1987–1989 Quelle → Datumsspalte (Z208)
+D;D176060.pdf;358;VII.423.:5.12.;24;besser;= 1999 Quelle → Datumsspalte (Z208)
+D;D176060.pdf;435;VII.423.:7.2.3.;28;besser;1994–1996 Quelle → Datumsspalte (Z208)
+D;D176060.pdf;461;VII.423.:7.3.3.;30;besser;= 1995 Quelle → Datumsspalte (Z208)
+C;D176060.pdf;462;VII.423.:7.3.4.;30;schlechter;= 1991 → 04.1990–03.1991 aus der Folgezeile «Betriebszeit: April 1990 bis März 1991“» des Buchtitels (neue Zeile)
+D;D176060.pdf;463;VII.423.:7.3.5.;30;besser;1991–1992 Quelle → Datumsspalte (Z208)
+D;D176060.pdf;528;VII.423.:8.11.;34;besser;1985–1989 Quelle → Datumsspalte (Z208)
+E;D176060.pdf;565;VII.423.:10.1.2.;37;gleich;"Anm «1986 – 1988 / 1988; Darin: 1988–1990», Werte = Spalte"
+I;D176060.pdf;647;VII.423.:12.15.;42;besser;«vom 15. / 26. Juni 1994» → 15.06.–26.06.1994
+I;D176060.pdf;1140;VII.423.:15.27.;70;besser;«März / April 1989» → 03.–04.1989
+E;D176060.pdf;1215;VII.423.:16.2.3.;75;gleich;"Anm «Titel: 1988 – 1995; Darin: 1996–2001»; Titel weiter mit Datum in der Mitte (Z299)"
+D;D176060.pdf;1265;VII.423.:17.1.;77;besser;"Spalte «ca. 1992» → Anm «ca.» (wörtlich wäre «ca. 1992», Z209); ebenso 17. (ID 1264)"
+J;D176060.pdf;368;VII.423.:6.1.8.;24;gleich;Titel «… StRB 529 / 1989» → «… StRB 529»: Jahr der StRB-Nummer weg, steht in von/bis und Anm
+A;D2534.pdf;7;V.L.111.:2.1.;4;schlechter;= 1951 → kein Zeitraum: «1351 / 1951. Zürich 600 Jahre …» als Jubiläum ganz verworfen (neue Zeile)
+I;D2534.pdf;25;V.L.111.:2.12.;6;besser;«Volksfestes vom 2./3. Juni 1951» → 02.–03.06.1951
+D;D2534.pdf;40;V.L.111.:3.2.9.;9;gleich;= 1952 Quelle → Datumsspalte (umbrochene Zeile «(1952)» als Jahreszeile)
+I;D2534.pdf;57;V.L.111.:4.13.;10;besser;«Volksfest am 2./3. Juni 1951» → 02.–03.06.1951
+E;D175994.pdf;24;IV.A.24.;2;gleich;"Anm «1845,1848,; Darin: 1858» – zweite Zeile der Spaltenliste als Darin, Werte stimmen"
+E;D175994.pdf;26;IV.A.26.;3;gleich;"Anm «1845, 1849,; Darin: 1858–1878» – Liste als Spanne, Werte stimmen"
+E;D175994.pdf;57;IV.A.57.;5;gleich;"Anm «1903–1955; Darin: 1961–1985» (zweizeilige Spalte), Werte stimmen"
+B;D175994.pdf;65;IV.A.65.;5;schlechter;1894–1980 → 1894–1896: zweite Spaltenzeile «1961–1980» am 1. Darin-Eintrag, Lücke > 35 J. (Z72 schlechter)
+D;D150296.pdf;15;VII.298.:1.6.;3;besser;= 2009 Quelle → Datumsspalte
+D;D150296.pdf;17;VII.298.:2.1.;3;besser;1969–1972 Quelle → Datumsspalte
+D;D150296.pdf;22;VII.298.:3.1.1.;4;besser;1991–1997 Quelle → Datumsspalte (Jahreszeile «1991 – 1997»)
+D;D150296.pdf;46;VII.298.:3.1.3.;7;besser;1981–1997 Quelle → Datumsspalte
+D;D150296.pdf;59;VII.298.:3.3.4.;9;besser;1983–1997 Quelle → Datumsspalte
+A;D150296.pdf;105;VII.298.:4.;18;schlechter;1985–04.04.2007 → 1985–2004 (folgt 4.3.1.)
+A;D150296.pdf;110;VII.298.:4.3.;18;schlechter;1985–04.04.2007 → 1985–2004 (folgt 4.3.1.)
+A;D150296.pdf;111;VII.298.:4.3.1.;18–19;schlechter;"Zeile «… 4. April 2007. Maschinenschriftliches Manuskript; siehe auch Sign. …» als Verweis verworfen, Beginn 1985 aus Folgezeile (C) (neue Zeile)"
+F;D150296.pdf;112;VII.298.:4.3.2.;19;gleich;"1985–2004 → 1990–2004 = Titelspalte «1990/91 – 2003/04»; Teile «Saison 1985/86» … keine Fortsetzung, Hinweis «Untereinheiten reichen …»"
+D;D150296.pdf;133;VII.298.:5.;33;besser;Gruppe Quelle → Untereinheiten
+D;D150296.pdf;134;VII.298.:5.1.;33;besser;1995–1999 Quelle → Datumsspalte (Jahreszeilen)
+F;D150296.pdf;136;VII.298.:6.;33;gleich;1870–2008 → 1870–2006 (folgt 6.8.)
+F;D150296.pdf;144;VII.298.:6.8.;33;gleich;"1870–2008 → 1870–2006: Teil 2 (anderes Buch, Darmstadt 2008) zählt nicht mehr; Beginn weiter Lebensdaten 1870 (Z69)"
+C;D150296.pdf;148;VII.298.:7.1.1.;34;gleich;14.01.1988–23.04.2007 unverändert, Quelle «Datumsspalte und Darin (geschätzt)»
+C;D176151.pdf;4;VII.371.:1.1.2.;2;gleich;24.04.1950–21.04.1980 unverändert, Quelle «Datumsspalte und Darin (geschätzt)» (24. April 1950 steht mitten im Text, Z75)
+A;D176151.pdf;12;VII.371.:2.3.;4;schlechter;1925–2001 → 1925–1997: «Protokolle … ¦ 2000 – 2001» / «Siehe auch Akten und Korrespondenz.» als Verweis verworfen (neue Zeile)
+D;D176151.pdf;16;VII.371.:4.1.;7;besser;1976–1995 Quelle → Datumsspalte
+C;D176151.pdf;21;VII.371.:4.3.;8;gleich;1930–1992 unverändert falsch (1930 = «Zürich 1930, Kopie» in Folgezeile, Soll 1964–1992), jetzt «Datumsspalte und Darin (geschätzt)»
+C;D176151.pdf;34;VII.371.:11.1.;10–11;schlechter;1933–2002 → 1864–2002 aus «Das Wetter am Sechseläuten 1864 – 1978» (Folgezeile) (neue Zeile)
+D;D176151.pdf;37;VII.371.:11.4.;12;besser;1965–1979 Quelle → Datumsspalte
+D;D176151.pdf;38;VII.371.:11.5.;13;besser;1934–1993 Quelle → Datumsspalte
+D;D2735.pdf;1;V.L.72.:1;1;besser;"= 09.1912 → 09.–10.1912 (Untereinheiten (geschätzt)); August fehlt, weil «August - Oktober 1912» im Darin getrennt ist (neue Zeile)"
+B;D2735.pdf;22;V.L.72.:9;3;schlechter;03.09.1912–09.1967 → 03.–06.09.1912: «Januar 1950 - September 1967» > 35 J. nach Titeldatum (Z135 schlechter)
+E;D176795.pdf;12;VII.388.:2.1.1.;6;gleich;"Anm «1780-1814; Darin: 1815»: 1780-1814 gehört zu «Tagebuchblatt», das im Darin ohne Datum steht – Wert stimmt, Anm schreibt das Datum der 1. Darin-Zeile der Titelzeile zu (Sammelzeile gering)"
+E;D176795.pdf;22;VII.388.:2.3.1.;7;gleich;"Anm «1752-1790; Darin: 1774–1801» (1752-1790 = «Dokumente zur militärischen Laufbahn») – Wert stimmt, Anm schreibt das Datum der 1. Darin-Zeile der Titelzeile zu (Sammelzeile gering)"
+E;D176795.pdf;23;VII.388.:2.3.2.;7;gleich;"Anm «1849; Darin: 1833–1847» (1849 = «Erbschaftsakten») – Wert stimmt, Anm schreibt das Datum der 1. Darin-Zeile der Titelzeile zu (Sammelzeile gering)"
+E;D176795.pdf;24;VII.388.:2.3.3.;7–8;gleich;"Anm «1811-1833; Darin: 1794–1863», von/bis stimmt – Wert stimmt, Anm schreibt das Datum der 1. Darin-Zeile der Titelzeile zu (Sammelzeile gering)"
+E;D176795.pdf;26;VII.388.:2.3.5.;8;gleich;"Anm «1836; Darin: 1841–1890» (1836 = «Konfirmationsspruch») – Wert stimmt, Anm schreibt das Datum der 1. Darin-Zeile der Titelzeile zu (Sammelzeile gering)"
+E;D176795.pdf;27;VII.388.:2.3.6.;9;gleich;"Anm «1849-1853; Darin: 1841–1853» – Wert stimmt, Anm schreibt das Datum der 1. Darin-Zeile der Titelzeile zu (Sammelzeile gering)"
+E;D176795.pdf;28;VII.388.:2.3.7.;9;gleich;"Anm «1839; Darin: 1848–1894» (1839 = «Gymnasialzeugnis») – Wert stimmt, Anm schreibt das Datum der 1. Darin-Zeile der Titelzeile zu (Sammelzeile gering)"
+E;D176795.pdf;29;VII.388.:2.3.8.;9;gleich;"Anm «1846; Darin: 1839–1851» – Wert stimmt, Anm schreibt das Datum der 1. Darin-Zeile der Titelzeile zu (Sammelzeile gering)"
+E;D176795.pdf;32;VII.388.:2.3.9.2.;10–11;gleich;"Anm «1851; Darin: 1847–1899» – Wert stimmt, Anm schreibt das Datum der 1. Darin-Zeile der Titelzeile zu (Sammelzeile gering)"
+E;D176795.pdf;37;VII.388.:2.3.9.6.1.;13;gleich;"Anm «1816-1848; Darin: 1820–1953» – Wert stimmt, Anm schreibt das Datum der 1. Darin-Zeile der Titelzeile zu (Sammelzeile gering)"
+E;D176795.pdf;38;VII.388.:2.3.9.6.2.;13;gleich;"Anm «1827; Darin: 1836–1895» (1827 = «Taufspruch der Grossmutter») – Wert stimmt, Anm schreibt das Datum der 1. Darin-Zeile der Titelzeile zu (Sammelzeile gering)"
+E;D176795.pdf;40;VII.388.:2.3.10.1.;13–14;gleich;"Anm «1862-1863; Darin: 1855–1929» – Wert stimmt, Anm schreibt das Datum der 1. Darin-Zeile der Titelzeile zu (Sammelzeile gering)"
+E;D176795.pdf;54;VII.388.:2.3.13.5.;19;gleich;"Anm «1938-1945; Darin: 1933–1946» (2. Eintrag) – Wert stimmt, Anm schreibt das Datum der 1. Darin-Zeile der Titelzeile zu (Sammelzeile gering)"
+E;D176795.pdf;58;VII.388.:2.3.13.9.;21;gleich;"Anm «1914-1952; Darin: 1924–1955» – Wert stimmt, Anm schreibt das Datum der 1. Darin-Zeile der Titelzeile zu (Sammelzeile gering)"
+E;D176795.pdf;59;VII.388.:2.3.13.10.;21;gleich;"Anm «1904-1913; Darin: 1914–1949» – Wert stimmt, Anm schreibt das Datum der 1. Darin-Zeile der Titelzeile zu (Sammelzeile gering)"
+B;D176795.pdf;63;VII.388.:5.;22;schlechter;1746–1888 (13:15 behoben) → 1787–24.03.2017: Kochbuch 1746 als Ausreisser verworfen (B), Übergabedatum 24.03.2017 dazu (C) (neue Zeile)
+E;D3057.pdf;2;VII.188.:1.1.;2;gleich;"Anm «1868 – 1873; Darin: 1875–1921» (Band 1 / Bände 2–4 der Spalte), Werte stimmen"
+E;D3057.pdf;4;VII.188.:2.1.;2;gleich;"Anm «1894 – 1903; Darin: 1903–1918»"
+E;D3057.pdf;9;VII.188.:4.2.;2;gleich;"Anm «1911 - 1926; Darin: 1926–1971»"
+J;D3528.pdf;39;VII.327.:4.1.38.;3;besser;1322–03.03.1936 → = 03.03.1936 («Meyer aus dem Aargau 1322» = Herkunft)
+I;D3528.pdf;43;VII.327.:4.1.42.;4;besser;= 02.1965 → 01.–02.1965 («Jan. – Febr. 1965»)
+J;D3528.pdf;75;VII.327.:4.2.;6;gleich;1393–1968 → 1568–1968: Beginn jetzt aus 4.2.4. «… Angaben von ca. 1568 – 1944» (wie Z180), weiter falsch
+J;D3528.pdf;84;VII.327.:4.2.9.;6;besser;"1393–1912 → = 1912 («seit 1393», «von 1586» Thema; «Entworfen im Jahre 1912»)"
+F;D3861.pdf;15;VII.93.:3.2.1.;3;gleich;"1960–2005 → 1960–1999 = «Akten 1960 – 1999:»; Fortsetzung «Akten 2000 – 2005:» nicht erkannt, weil Teil-2-Titel «Akten 2000 – 2005: Statuten» (vor 13:15, neue Zeile); Hinweis vorhanden"
+A;D3861.pdf;23;VII.93.:4.;6;besser;"Jubiläum «200 Jahre … 1787 – 1987» weg; neuer Beginn 07.05.1880 aber «Johann Ammann, geb. 7. Mai 1880 … Nekrolog» (neue Zeile)"
+F;D3943.pdf;15;X.G.15.;2;besser;1933–1939 → = 1933 (erweiterte Auflage 1939 = Teil 2, kein Fortsetzungstitel)
+F;D3943.pdf;50;X.G.49.;3;besser;"1951–1962 → = 1951 (Kleine Schriften Heft 1; andere Hefte Teile)"
+F;D3943.pdf;99;X.G.89.;6;besser;"1946–1947 → = 1946 (Bd. 1; Bd. 2 1947 = Teil 2)"
+F;D3943.pdf;121;X.G.110.;7;besser;"1961–1997 → = 1968 (Ausgabe in sieben Bänden, Bern 1968; Bände 2–7 Teile)"
+F;D3943.pdf;205;X.G.188.;11;gleich;1780–1975 → = 1780: Titelumbruch «… 1780 / – 1822, Zürich 1975», Rest im Darin (vor 13:15, Z184)
+I;D9978.pdf;107;VII.12.B.:28.6.8.;21;besser;«5./12. Dezember 1890» → 05.–12.12.1890
+I;D9978.pdf;114;VII.12.B.:28.6.14.;22;besser;«dat. 4./12. Dezember 1890» → 04.–12.12.1890
+C;D149888.pdf;7;VII.159.:1.2.1.;5;besser;1899–1955 → 1899–1998: Mitgliederverzeichnisse 1910 … 1998 im Text zählen jetzt (C)
+J;D149888.pdf;153;VII.159.:10.1.34.;31;besser;Titel «id., Zürich / Sechseläuten / 1897» → ohne Rest «/ 1897», = 1897
+C;D2940.pdf;7;VII.141.:6.;4–6;schlechter;1901–1951 → 1901–04.2009: Bearbeitungsvermerk «… im April 2009 … zugeordnet» zählt als Jahr (neue Zeile)
+A;D3620.pdf;8;VII.372.:6.;4;schlechter;1902–2002 → = 1902: CD «100 Jahre … 1902 – 2002» (2002) als Jubiläum verworfen, 1902 nur Inschrift der Anstecknadel (Sammelzeile Jubiläum)
+B;D141056.pdf;21;VII.31.:6.1.;4;besser;"1873–1991 → 1873–1943 = Titelspalte; Tippfehler «Jahresrechnung ¦ 1883 – 1991» als Ausreisser weg"
+B;D2960.pdf;11;VII.15.:11.;1–2;besser;"1883–1993 → 1883–1892; Soll 1883–1893 (Titelspalte «1883-1893» steckt im Titel, Tippfehler «1892-1993» ganz weg; bekannt Zeile D2141 in funde_np5)"
+B;D2953.pdf;3;VII.147.:3.;1;unklar;26.07.1828–08.10.1931 → = 08.10.1931: Spalte «8. Oktober 1931» ist PDF-Tippfehler (1831), deshalb fällt die echte Beilage «vom 26. Juli 1828» weg
+D;D2940.pdf;13;VII.141.:9.;10;besser;1940–1947 (geschätzt) → = 1947 Datumsspalte («1940 – 1947» gehört zum Projekttitel)
+B;D2510.pdf;96;V.L.1001.:112;58;besser;30.09.2011–2012 → = 2012 = Titelspalte «Schachtel 112 ¦ 2012» (30.09.2011 = Datum einer Gesetzesänderung im Text)
+B;D2737.pdf;5;V.L.73.:9.;1;schlechter;1914–1987 → 1914–1918: übrige Inhalte der Schachtel 9 (1975 ff., 1977 ff., 1979 – 1987) als Ausreisser verworfen (Sammelzeile B)
+A;D3293.pdf;16;VII.248.:3.4.;3;besser;1954–1989 → 1963–1970: «… ab 1966 siehe unten, inkl. Kassabuch 1954 - 1989» = 5.1. Kassabuch, Verweis richtig ausgeschlossen
+B;D3363.pdf;50;VII.272.:2.2.18.;3;schlechter;1897–1971 → 1897–1915: zweite Spaltenzeile «1958 – 1971» neben «(2 Schachteln)» verworfen (neue Zeile)
+A;D3561.pdf;18;VII.338.:8.4.;4;gleich;"1893–1997 → 1897–1997: Jubiläumskarte «Wiedikon 1893 bis 1993 „100 Jahre …“» ganz weg, «Zunft zu Wiedikon 1897 - 1997» (ohne «Jahre») bleibt; Soll ca. 1993–1997"
+F;D3657.pdf;16;VII.383.:5.;2;besser;"1947–1964 → = 1947; zweites «5. Fremdenzimmer 1964» (Nummer doppelt im PDF) keine Fortsetzung; dabei gefunden: 6. fehlt (neue Zeile, kritisch)"
+F;D3826.pdf;5;VII.75.:3.;1;besser;"1892–1919 → 1906–1919 = Spalte «Gratulationsdiplome 1906 – 1919»; Teil 2 «Reden …» ist eine andere Einheit"
+F;D3505.pdf;25;VII.313.:7.3.;3;besser;1833–1994 → 1953–1994 = Spalte «7.3 Fries’sches Legat, Journal 1953 – 1994»
+B;D3842.pdf;1;VII.83.:1.;1;besser;1850–1991 → 1850–1919: Tippfehler «1902-1991», «1872-1991» (Escher †1919) als Ausreisser weg
+A;D452.pdf;7;V.B.c.59.:7.;1;schlechter;1928–1938 → = 1938: Nachruf-Regel kürzt die Dossierspalte, weil der Eintrag einen Nachruf erwähnt (neue Zeile)
+F;D3186.pdf;12;VII.212.:3.1.;1;gleich;"1924–1966 → 1924–1928 = eigene Jahre von Teil 1; «… von 1959-1961, 1963-1966» wäre Fortsetzung, Titelvergleich scheitert an den Jahreszahlen; Hinweis vorhanden"
+A;D2962.pdf;70;VII.150.:11.2.2.;17;schlechter;"1821–1962 → 1821–1952: Festschrift «100 Jahre Männerchor St. Johann 1862-1962» (1962) verworfen; Beginn 1821 aus «… 1821-1921 … 100-jährigen» bleibt (Sammelzeile Jubiläum)"
+F;D3352.pdf;3;VII.269.:1.2.;1–2;gleich;"1923–1967 → 1923–1964 = «Konzerte 1923 - 1964 (I)»; «Konzerte 1926 - 1967 (II), Nachtrag» als Fortsetzung nicht erkannt, Hinweis vorhanden"
+B;D3727.pdf;42;VII.411.:10.2.;11;schlechter;"1936–2005 → 1936–1939: Spaltendaten 1982/2005 der Einträge verworfen, Anm «1939; Darin: 1936–1937» (Sammelzeile B)"
+B;D3012.pdf;3;VII.170.:c.;1;besser;"1955–1970 → 27.09.1956–1958, näher an «c) Presseorientierung 27.09.1956»; Rest kommt aus falsch zugeordneten Einträgen 2)–8) (neue Zeile, kritisch)"
+B;D141056.pdf;20;VII.31.:6.;4;besser;Gruppe 1873–1991 → 1873–1943 (folgt 6.1.)
+B;D141056.pdf;38;VII.31.:9.2.;8;besser;"1897–1987 → 1897–1914 = Titelspalte «Postkarten 1897 – 1914»; «1987» Tippfehler"
+A;D2850.pdf;49;VII.109.:A.;6;schlechter;01.06.1925–22.12.1956 → 24.01.1927–1956: «1. Juni 1925» nach «bis» keine Jahreszeile mehr, «30. Mai bis 1. Juni 1925» nicht als Bereich gelesen (neue Zeile)
+F;D3470.pdf;49;VII.308.E.a.:5.4.;3;besser;"1900–1909 → = 1909 (Rorschach); Lodz/Raab/Wien sind andere Objekte derselben Locher-Nummer"
+A;D3561.pdf;14;VII.338.:8.;3;gleich;Gruppe 1893–1997 → 1897–1997 (folgt 8.4.)
+D;D2620.pdf;114;V.L.167.:10.2.;17;schlechter;1917– → kein Zeitraum: Gruppe nimmt «1917 ff.» (1 von 3 Einträgen) nicht mehr, keine Textschätzung für Gruppen (neue Zeile)
+O;D3324.pdf;3;VII.257.:2.;2;besser;"Teil 2 ist jetzt die echte 2. «Biografisches Material, Nekrologe» 1862–1910 (= Übersicht); «verschoben» nur Folge des Abgleichs; «2 Rechnungen der Zehntloskaufkommission» bleibt erfundene Signatur 2. (ID 2, Gruppe 1)"
+E;D109662.pdf;327;VII.382.:7.3.5.;13;besser;= 1815 → 04.12.1815 aus Titel «Kaufbrief vom 4. Dezember 1815» (gleiches Jahr wie Spalte)
+E;D109662.pdf;379;VII.382.:7.9.16.;18;besser;= 1919 → 13.01.1919 aus Titel «Mietvertrag vom 13. Januar 1919»
+I;D3170.pdf;183;VII.209.:6.1.;16;besser;1965–2010 → 01.1965–2010 aus 6.1.1. «Spielzeit Januar – Mai 1965»

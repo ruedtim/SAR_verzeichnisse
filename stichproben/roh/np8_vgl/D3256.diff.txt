@@ -1,0 +1,108 @@
+### D3256: vorher 10 Einheiten, nachher 5 Einheiten
+WEG  VII.236.:1./T2 [ID 2, Dossier, E2, Eltern VII.236.:1., S.1] Kopie der Gründungsakten | Von/bis (>= x und <=y)
+        D: Testament Bruno Schuler, 27.04.1946
+        D: Protokoll des Einzelrichters betr. Testamenteröffnung, 04.12.1948
+        D: Korrespondenz Fides Treuhand-Vereinigung mit Erziehungsdirektion, 1949
+        D: Protokoll des Regierungsrates: betr. Abordnung, 27.01.1949
+        D: betr. Steuerbefreiung, 06.10.1949
+        D: betr. Statutenänderung, 25.03.1971
+        D: 1. Beschluss des Stiftungsrates, 19.03.1949
+        D: Statut, 14.12.1948
+        D: … (15 Zeilen)
+WEG  VII.236.:2./T2 [ID 4, Dossier, E2, Eltern VII.236.:2., S.2] Beschlüsse, Protokolle, Reglemente | Von/bis (>= x und <=y)
+WEG  VII.236.:3./T2 [ID 6, Dossier, E2, Eltern VII.236.:3., S.2] Korrespondenz | Von/bis (>= x und <=y)
+        D: 1949
+        D: 1950-1954
+        D: 1955-1959
+        D: 1960-1964
+        D: 1965-1969, Schachtel 3
+        D: 1970-1974
+        D: 1975-1979, Schachtel 4
+        D: 1980-1981
+        D: … (9 Zeilen)
+WEG  VII.236.:4./T2 [ID 8, Dossier, E2, Eltern VII.236.:4., S.2] Destinatäre | Von/bis (>= x und <=y)
+        D: 1949-1952, Schachtel 6
+        D: 1953-1959, Schachtel 7
+        D: Stipendiengesuche Unterstützungsgesuche
+        D: 1960-1965, Schachtel 8
+        D: 1966-1976 A
+        D: H, Schachtel 9
+        D: 1966-1976 I
+        D: Z, Schachtel 10
+        D: … (14 Zeilen)
+WEG  VII.236.:5./T2 [ID 10, Dossier, E2, Eltern VII.236.:5., S.2] Jahresrechnungen und Berichte | Von/bis (>= x und <=y)
+        D: 1949-1971, 1980 (1972-1979 fehlt)
+GEÄ  VII.236.:1. [ID 1, Dossier, E1, Eltern -, S.1] Kopie der Gründungsakten | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+        Entstehungszeitraum, Anm.: '' => '22.01.1972 / 31.01.1976; Darin: 27.04.1946–25.03.1971'
+        [Darin]
+           -
+           +Testament Bruno Schuler, 27.04.1946
+           +Protokoll des Einzelrichters betr. Testamenteröffnung, 04.12.1948
+           +Korrespondenz Fides Treuhand-Vereinigung mit Erziehungsdirektion, 1949
+           +Protokoll des Regierungsrates: betr. Abordnung, 27.01.1949
+           +betr. Steuerbefreiung, 06.10.1949
+           +betr. Statutenänderung, 25.03.1971
+           +1. Beschluss des Stiftungsrates, 19.03.1949
+           +Statut, 14.12.1948
+           +Statut div. Schreiben Erziehungsdirektion, 25.03.1971
+           +Steuererklärung div. Schreiben betr. Steuerbefreiung, 1950
+           +Anmeldung betr. Eintrag ins Handelsregister, 26.03.1949
+           +Ausschnitt aus dem Schweizerischen Handelsamtsblatt, 09.04.1949
+           +Eröffnungsinventar, 07.12.1948
+           +Vertrag zwischen Bruno Schuler-Stiftung und der Fides Treuhand-Vereinigung, 06.04.1949
+           +Zeitungsausschnit aus Die Tat, 04.10.1952
+        Schachtel-Nr.: '' => '1'
+        Zeitraum-Quelle: 'Untereinheiten' => 'Datumsspalte'
+GEÄ  VII.236.:2. [ID 2, Dossier, E1, Eltern -, S.2] Beschlüsse, Protokolle, Reglemente | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+        Schachtel-Nr.: '' => '1'
+        PDF-Seite: '1' => '2'
+        Zeitraum-Quelle: 'Untereinheiten' => 'Datumsspalte'
+GEÄ  VII.236.:3. [ID 3, Dossier, E1, Eltern -, S.2] Korrespondenz | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+        [Darin]
+           -
+           +1949
+           +1950-1954
+           +1955-1959
+           +1960-1964
+           +1965-1969, Schachtel 3
+           +1970-1974
+           +1975-1979, Schachtel 4
+           +1980-1981
+           +Dankesschreiben 1964-1980, Schachtel 5
+        Schachtel-Nr.: '' => '2'
+        PDF-Seite: '1' => '2'
+        Zeitraum-Quelle: 'Untereinheiten' => 'Datumsspalte'
+GEÄ  VII.236.:4. [ID 4, Dossier, E1, Eltern -, S.2] Destinatäre | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+        [Darin]
+           -
+           +1949-1952, Schachtel 6
+           +1953-1959, Schachtel 7
+           +Stipendiengesuche Unterstützungsgesuche
+           +1960-1965, Schachtel 8
+           +1966-1976 A
+           +H, Schachtel 9
+           +1966-1976 I
+           +Z, Schachtel 10
+           +1977-1981.A
+           +I,J, Schachtel 11
+           +1977-1981 H
+           +ST, Schachtel 12
+           +1977-1981 T
+           +Z, Schachtel 13
+        Schachtel-Nr.: '' => '6-13'
+        PDF-Seite: '1' => '2'
+        Zeitraum-Quelle: 'Untereinheiten' => 'Datumsspalte'
+GEÄ  VII.236.:5. [ID 5, Dossier, E1, Eltern -, S.2] Jahresrechnungen und Berichte | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+        von: '08.11.1948' => '1949'
+        [Darin]
+           -Der am 8. November 1948 verstorbene Bruno Schuler (1894-1948) errichtete mit öffentlicher letzwilliger Verfügung unter dem Namen "Bruno Schuler-Stiftung" eine gemeinnützige Stiftung. Die Erträgnisse 
+           +1949-1971, 1980 (1972-1979 fehlt)
+        Schachtel-Nr.: '' => '14'
+        PDF-Seite: '1' => '2'
+        Zeitraum-Quelle: 'Untereinheiten (geschätzt)' => 'Datumsspalte'
+        Prüfhinweise: 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.' => ''

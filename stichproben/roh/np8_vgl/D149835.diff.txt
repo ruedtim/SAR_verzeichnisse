@@ -1,0 +1,54 @@
+### D149835: vorher 26 Einheiten, nachher 19 Einheiten
+WEG  V.C.b.368.:1./T2 [ID 2, Dossier, E2, Eltern V.C.b.368.:1., S.5] Ernennung des L. von Orelli zum Kompagniekommandanten eines englischen Regiments 1796 [Standort ungeklärt] | Genau (=)
+WEG  V.C.b.368.:2./T2 [ID 4, Dossier, E2, Eltern V.C.b.368.:2., S.5] Zeugnis für L. von Orelli, geb. 1759, über dessen Dienstzeit im Regiment Steiner [Nr. 14 dieses Bestandes] | Genau (=)
+WEG  V.C.b.368.:3./T2 [ID 6, Dossier, E2, Eltern V.C.b.368.:3., S.5] Begleiturkunde des Stadtrates Zürich zur goldenen Verdienstmedaille an C.A.L. von Orelli 1866, mit silberner Siegelkapsel und vergoldetem Lederetui [Nc 4, ohne Siegelkapsel und Etui] | Genau (=)
+WEG  V.C.b.368.:5./T2 [ID 8, Dossier, E2, Eltern V.C.b.368.:5., S.5] Entlassungsurkunde für C.A.L. von Orelli als Stadtforstmeister 1874, silberne Siegelkapsel [Nc 6] | Genau (=)
+WEG  V.C.b.368.:6./T2 [ID 10, Dossier, E2, Eltern V.C.b.368.:6., S.5] Expertenbericht über den Forst und Sihlwald und Dankadresse des Grossen Stadtrates Zürich an C.A.L. von Orelli 1875 [Nc 7] | Genau (=)
+WEG  V.C.b.368.:7./T2 [ID 12, Dossier, E2, Eltern V.C.b.368.:7., S.5] Dankurkunde des Grossen Stadtrates Zürich an C.A.L. von Orelli für die Schenkung des Langenberges 1881 [Nc 4-6, Beilage] | Genau (=)
+        D: Nach einem Beschluss des Finanzvorstandes vom 15. Juni 1929 (Nr. 818) sind die Originale der Stiftungsurkunde des Wildparks Langenberg (1869) und der Abänderungsurkunde dazu (1886) ebenfalls ins Stadt
+        D: Urkunden für Carl Anton Ludwig von Orelli im Bestand Nc
+        D: Nc 4-6 mit Beilage in grüner goldgeprägter Mappe, 48 x 62 cm (etwas defekt)
+        D: Nc 4 Begleiturkunde des Stadtrats zur goldenen Verdienstmedaille an C.A.L. von Orelli, dat. 23. Juni 1866; Siegel fehlt, Schnur vorhanden; 1 Blatt, 34 x 57 cm; [Laut Protokoll Finanzvorstand vom 30. A
+        D: Nc 5 Dankurkunde des Grossen Stadtrates an C.A.L. von Orelli für die Wildgartenstiftung, dat. 13. November 1869; 1 Blatt, 36,5 x 51,5 cm
+        D: Nc 6 Entlassungsurkunde des Stadtrats von Zürich (bürgerliche Sektion) für C.A.L. von Orelli [Amtsantritt am 31. Januar 1835, Entlassung auf den 31. Januar 1875], dat. 30. Dezember 1874; Siegel in sil
+        D: [-] [Liegt als Beilage bei Nc 4 - 6]; Dankurkunde des Grossen Stadtrates an C.A.L. von Orelli für die Schenkung zugunsten der Wildgartenstiftung vom 17./19. Januar 1881, dat. 31. März 1881; Aufgedrück
+        D: Nc 7 Expertenbericht und Dankurkunde für Herrn Forstmeister K.A.L. von Orelli
+        D: … (10 Zeilen)
+WEG  V.C.b.368.:4. [ID 25, Teilbestand, E1, Eltern -, S.5] Dankurkunde des Grossen Stadtrates Zürich an C.A.L. von Orelli für dessen Wildgartenstiftung 1869, Lederetui mit Goldverzierung [Nc 5] | Genau (=)
+GEÄ  V.C.b.368.:1. [ID 1, Dossier, E1, Eltern -, S.1] Nachlassinventar | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+        von: '1796' => '21.03.1888'
+        Zeitraum-Quelle: 'Untereinheiten (geschätzt)' => 'Darin (geschätzt)'
+        Prüfhinweise: 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.' => 'Zeitraum aus den Jahreszahlen im Darin geschätzt.'
+GEÄ  V.C.b.368.:2. [ID 2, Dossier, E1, Eltern -, S.1] Beilagen zum obenstehenden Inventar | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+        von: '1759' => '11.12.1869'
+        Zeitraum-Quelle: 'Untereinheiten (geschätzt)' => 'Darin (geschätzt)'
+        Prüfhinweise: 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.' => 'Zeitraum aus den Jahreszahlen im Darin geschätzt.'
+GEÄ  V.C.b.368.:3. [ID 3, Dossier, E1, Eltern -, S.2] Inventar der Fahrhabe | 
+        Stufe: 'Serie' => 'Dossier'
+        Entstehungszeitraum: 'Genau (=)' => ''
+        von: '1866' => ''
+        Zeitraum-Quelle: 'Untereinheiten' => ''
+        Prüfhinweise: '' => 'Kein Zeitraum gefunden.'
+GEÄ  V.C.b.368.:5. [ID 5, Dossier, E1, Eltern -, S.2] Urkunden | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+GEÄ  V.C.b.368.:6. [ID 6, Dossier, E1, Eltern -, S.2] Vereinbarung zwischen den Eheleuten v. Orelli-Grab | Genau (=)
+        Stufe: 'Serie' => 'Dossier'
+        Prüfhinweise: 'Untereinheiten reichen über den Zeitraum hinaus (1875–1875).' => ''
+GEÄ  V.C.b.368.:7. [ID 7, Dossier, E1, Eltern -, S.2] Adoptionsangelegenheit Major Franz Bopp und C.A.L. von Orellis Erwerb der württembergischen Staatsbürgerschaft (1889) | Genau (=)
+        Stufe: 'Serie' => 'Dossier'
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => 'Genau (=)'
+        von: '1881' => '1889'
+        bis: '28.12.1889' => ''
+        Zeitraum-Quelle: 'Untereinheiten (geschätzt)' => 'Titel (Ereignisdatum)'
+        Prüfhinweise: 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.' => ''
+GEÄ  V.C.b.368.:19. [ID 19, Dossier, E1, Eltern -, S.4] Aschenurne Carl Anton Ludwig von Orellis | Genau (=)
+        [Darin]
+           -Laut Protokoll des Finanzvorstandes vom 30. April 1929 (Nr. 530) ist weiteres Material aus dem Nachlass C.A.L. von Orellis ins Stadtarchiv gegeben worden:
+GEÄ  V.C.b.368.:4.2. [ID 4, Dossier, E1, Eltern -, S.2] Siegelabdrücke von C.A.L. von Orelli auf einem Kuvert bzw. einem Kuvertfragment; Verzeichnisse | 
+        Ebene: '2' => '1'
+        Übergeordnete Signatur: 'V.C.b.368.:4.' => 'V.C.b.368.'
+        [Prüfhinweise]
+           +Keine übergeordnete Signatur gefunden (erwartet 4.).
+        Eltern: 'V.C.b.368.:4.' => '-'

@@ -1,0 +1,7 @@
+### D845: vorher 202 Einheiten, nachher 202 Einheiten
+GEÄ  V.C.c.52.:54. [ID 108, Dossier, E1, Eltern -, S.2] Besoldungsverordnung, Revision (s.a.Nr. 80) | Von/bis (>= x und <=y)
+        Signatur: 'V.C.c.52.54.' => 'V.C.c.52.:54.'
+        Prüfhinweise: '' => 'Signatur im Findmittel «V.C. c.52. 54.» ohne Doppelpunkt – als «V.C.c.52.:54.» übernommen (wie die übrigen Signaturen), bitte prüfen.'
+GEÄ  V.C.c.52.:55. [ID 109, Dossier, E1, Eltern -, S.2] Genossenschaft Gottfried Keller-Haus | Von/bis (>= x und <=y)
+        Signatur: 'V.C.c.52.55.' => 'V.C.c.52.:55.'
+        Prüfhinweise: '' => 'Signatur im Findmittel «V.C. c.52. 55.» ohne Doppelpunkt – als «V.C.c.52.:55.» übernommen (wie die übrigen Signaturen), bitte prüfen.'
