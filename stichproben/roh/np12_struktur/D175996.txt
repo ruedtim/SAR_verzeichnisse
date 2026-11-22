@@ -1,0 +1,8 @@
+### D175996 – Vollsignatur – 1337 Einheiten – Bestand IV.B.
+Zusammenfassung: HINWEIS 6
+[HINWEIS] ID 48 IV.B.41.:30.–32. S.4 | Signatur «IV.V.41.:30.–32.» passt nicht zum Bestand IV.B. – Tippfehler im Findmittel? Bitte prüfen.
+[HINWEIS] ID 51 IV.B.41.:36. S.4 | Nummerierung springt: nach 33 folgt 36.
+[HINWEIS] ID 54 IV.B.41.:41. S.4 | Nummerierung springt: nach 37 folgt 41.
+[HINWEIS] ID 63 IV.B.41.:51. S.5 | Nummerierung springt: nach 48 folgt 51.
+[HINWEIS] ID 70 IV.B.41.:59. S.5 | Nummerierung springt: nach 56 folgt 59.
+[HINWEIS] ID 476 IV.B.439. S.33 | Signatur «V.B.439.» passt nicht zum Bestand IV.B. – Tippfehler im Findmittel? Bitte prüfen.

@@ -1,0 +1,112 @@
+### D152817 – Vollsignatur – 704 Einheiten – Bestand VI.SB.
+Zusammenfassung: DOPPELT 21, HINWEIS 12, LÜCKE 18, OHNE 55, RÜCK 4
+[HINWEIS] ID 94 VI.SB.C.16. S.6 | Nummerierung springt: nach 10 folgt 16. Möglicher Tippfehler in der Signatur.
+[HINWEIS] ID 274 VI.SB.C.41. S.11 | Nummerierung springt: nach 35 folgt 41. Möglicher Tippfehler in der Signatur.
+[HINWEIS] ID 317 VI.SB.C.61. S.13 | Nummerierung springt: nach 45 folgt 61. Möglicher Tippfehler in der Signatur.
+[HINWEIS] ID 330 VI.SB.C.70. S.14 | Nummerierung springt: nach 64 folgt 70. Möglicher Tippfehler in der Signatur.
+[HINWEIS] ID 335 VI.SB.C.75. S.14 | Nummerierung springt: nach 71 folgt 75.
+[HINWEIS] ID 364 VI.SB.C.91. S.15 | Nummerierung springt: nach 85 folgt 91. Möglicher Tippfehler in der Signatur.
+[HINWEIS] ID 375 VI.SB.C.101. S.16 | Nummerierung springt: nach 97 folgt 101.
+[HINWEIS] ID 421 VI.SB.C.116. S.17 | Nummerierung springt: nach 110 folgt 116. Möglicher Tippfehler in der Signatur.
+[HINWEIS] ID 466 VI.SB.C.140. S.19 | Nummerierung springt: nach 135 folgt 140. Möglicher Tippfehler in der Signatur.
+[HINWEIS] ID 487 VI.SB.C.150. S.20 | Nummerierung springt: nach 145 folgt 150. Möglicher Tippfehler in der Signatur. / Untereinheiten reichen über den Zeitraum hinaus (1804–1938).
+[HINWEIS] ID 531 VI.SB.C.165. S.21 | Nummerierung springt: nach 162 folgt 165. / Untereinheiten reichen über den Zeitraum hinaus (1847–1933).
+[HINWEIS] ID 607 VI.SB.D.6.:13 S.27 | Nummerierung springt: nach 4 folgt 13. Möglicher Tippfehler in der Signatur.
+[DOPPELT] ID 608 VI.SB.D.6.:13 Teil 2 S.30 – Teil 1 ID 607 S.27 | f) Vermessungs- und Bereinigungskommission für die Durchführ
+[DOPPELT] ID 613 VI.SB.D.6.:6 Teil 2 S.29 – Teil 1 ID 612 S.27 | Eisenbahnen
+[DOPPELT] ID 615 VI.SB.D.6.:7 Teil 2 S.29 – Teil 1 ID 614 S.27 | Elektrische Strassenbahn Zürich-Oerlikon-Seebach
+[DOPPELT] ID 618 VI.SB.D.6.:12 Teil 2 S.30 – Teil 1 ID 617 S.27 | Elektrizitätsversorgung
+[DOPPELT] ID 621 VI.SB.D.6.:8 Teil 2 S.29 – Teil 1 ID 620 S.27 | Allgemeine Verwaltung
+[DOPPELT] ID 625 VI.SB.D.6.:11 Teil 2 S.30 – Teil 1 ID 624 S.27 | Gasversorgung
+[DOPPELT] ID 634 VI.SB.D.7.:4 Teil 3 S.32 – Teil 1 ID 632 S.30 | f) Sekundarschulpflege
+[DOPPELT] ID 636 VI.SB.D.7.:5 Teil 2 S.32 – Teil 1 ID 635 S.30 | g) Weitere Schulen und Schulangelegenheiten
+[DOPPELT] ID 644 VI.SB.D.7.:7 Teil 2 S.33 – Teil 1 ID 643 S.30 | 1870/71 - 1898/99
+[DOPPELT] ID 646 VI.SB.D.7.:8 Teil 2 S.33 – Teil 1 ID 645 S.30 | 1899/1900 - 1905/1906
+[DOPPELT] ID 648 VI.SB.D.7.:9 Teil 2 S.33 – Teil 1 ID 647 S.30 | 1906/07 - 1909/10
+[DOPPELT] ID 650 VI.SB.D.7.:10 Teil 2 S.33 – Teil 1 ID 649 S.30 | 1910/11 - 1913/14
+[DOPPELT] ID 652 VI.SB.D.7.:11 Teil 2 S.33 – Teil 1 ID 651 S.30 | 1013/14 - 1916/17
+[DOPPELT] ID 654 VI.SB.D.7.:12 Teil 2 S.33 – Teil 1 ID 653 S.30 | 1917/18 - 1920/21
+[DOPPELT] ID 656 VI.SB.D.7.:13 Teil 2 S.33 – Teil 1 ID 655 S.30 | 1920/21 - 1923/24
+[DOPPELT] ID 658 VI.SB.D.7.:14 Teil 2 S.33 – Teil 1 ID 657 S.30 | 1924/25 - 1927/28
+[DOPPELT] ID 660 VI.SB.D.7.:15 Teil 2 S.33 – Teil 1 ID 659 S.30 | 1927/28 - 1932/33
+[DOPPELT] ID 663 VI.SB.D.7.:16 Teil 2 S.33 – Teil 1 ID 662 S.30 | 1903/04 - 1924/25
+[DOPPELT] ID 665 VI.SB.D.7.:17 Teil 2 S.33 – Teil 1 ID 664 S.30 | 1925/26 - 1933/34
+[DOPPELT] ID 668 VI.SB.D.7.:18 Teil 2 S.33 – Teil 1 ID 667 S.30 | Arbeitsschule (Primar- und Sekundarschule
+[DOPPELT] ID 670 VI.SB.D.7.:19 Teil 2 S.33 – Teil 1 ID 669 S.30 | Arbeitsschule (Sekundarschule)
+[LÜCKE] 11–15 fehlen vor ID 94 VI.SB.C.16. (Eltern 36) S.6
+[LÜCKE] 36–40 fehlen vor ID 274 VI.SB.C.41. (Eltern 36) S.11
+[LÜCKE] 65–69 fehlen vor ID 330 VI.SB.C.70. (Eltern 36) S.14
+[LÜCKE] 72–74 fehlen vor ID 335 VI.SB.C.75. (Eltern 36) S.14
+[LÜCKE] 86–90 fehlen vor ID 364 VI.SB.C.91. (Eltern 36) S.15
+[LÜCKE] 98–100 fehlen vor ID 375 VI.SB.C.101. (Eltern 36) S.16
+[LÜCKE] 111–115 fehlen vor ID 421 VI.SB.C.116. (Eltern 36) S.17
+[LÜCKE] 136–139 fehlen vor ID 466 VI.SB.C.140. (Eltern 36) S.19
+[LÜCKE] 146–149 fehlen vor ID 487 VI.SB.C.150. (Eltern 36) S.20
+[LÜCKE] 163–164 fehlen vor ID 531 VI.SB.C.165. (Eltern 36) S.21
+[RÜCK] ID 597 VI.SB.D.5.:1-2 nach Nummer 3 (Eltern 586) S.26
+[LÜCKE] 5–12 fehlen vor ID 607 VI.SB.D.6.:13 (Eltern 598) S.27
+[RÜCK] ID 609 VI.SB.D.6.:4-5 nach Nummer 13 (Eltern 598) S.29
+[LÜCKE] 5–5 fehlen vor ID 611 VI.SB.D.6.:6-7 (Eltern 598) S.29
+[LÜCKE] 7–7 fehlen vor ID 616 VI.SB.D.6.:8-12 (Eltern 598) S.29
+[RÜCK] ID 619 VI.SB.D.6.:8-11 nach Nummer 12 (Eltern 616) S.29
+[RÜCK] ID 637 VI.SB.D.7.:1-2 nach Nummer 5 (Eltern 626) S.31
+[LÜCKE] 3–4 fehlen vor ID 639 VI.SB.D.7.:5-6 (Eltern 626) S.32
+[LÜCKE] 6–6 fehlen vor ID 641 VI.SB.D.7.:7-19 (Eltern 626) S.33
+[LÜCKE] 8–15 fehlen vor ID 661 VI.SB.D.7.:16-17 (Eltern 641) S.33
+[LÜCKE] 17–17 fehlen vor ID 666 VI.SB.D.7.:18-19 (Eltern 641) S.33
+[LÜCKE] 2–3 fehlen vor ID 677 VI.SB.D.9.:4-24 (Eltern 672) S.34
+[OHNE] ID 389 P388 E3 Dossier VI.SB.C.103.:1 S.16 Sch.- | 1925– | Band 1
+[OHNE] ID 547 P546 E4 Dossier VI.SB.D.1.:1 T2 S.22 Sch.- | 1849–1929 | a) Allgemeines
+[OHNE] ID 548 P546 E4 Dossier VI.SB.D.1.:1 T3 S.22 Sch.- | 1873–1933 | b) Akten der Gemeindeversammlung
+[OHNE] ID 549 P546 E4 Dossier VI.SB.D.1.:1 T4 S.22 Sch.- | 1916–1931 | c) Akten der Rechnungsprüfungskommission
+[OHNE] ID 550 P546 E4 Dossier VI.SB.D.1.:1 T5 S.22 Sch.- | 1843–1901 | d) Wahlen und Abstimmungen Allgemeine Akten: 1843-1890 Bussenkontrolle (Bürger- und Niedergelass
+[OHNE] ID 552 P551 E4 Dossier VI.SB.D.1.:2 T2 S.22 Sch.- | 1843–1932 | e) Bezirksbehörden
+[OHNE] ID 553 P551 E4 Dossier VI.SB.D.1.:2 T3 S.22 Sch.- | 1866–1933 | f) Personalangelegenheiten
+[OHNE] ID 554 P551 E4 Dossier VI.SB.D.1.:2 T4 S.22 Sch.- | 1839–1921 | g) Visitationsberichte über die Gemeindelade und Gemeindeverwaltung
+[OHNE] ID 556 P555 E4 Dossier VI.SB.D.1.:3 T2 S.22 Sch.- | 1870–1933 | h) Statistik
+[OHNE] ID 558 P557 E4 Dossier VI.SB.D.1.:4 T2 S.22 Sch.- | 1847–1934 | i) Verschiedene Akten
+[OHNE] ID 559 P557 E4 Dossier VI.SB.D.1.:4 T3 S.23 Sch.- | 1869–1931 | k) Stiftungen, Gesellschaften und Vereine
+[OHNE] ID 561 P560 E4 Dossier VI.SB.D.1.:5 T2 S.23 Sch.- | 1993– | x) Diverse Akten (Nachlieferung 1993)
+[OHNE] ID 570 P569 E4 Dossier VI.SB.D.3.:1 T2 S.23 Sch.- | 1846–1933 | Gemeindegutsverwaltung
+[OHNE] ID 572 P571 E4 Dossier VI.SB.D.3.:2 T2 S.24 Sch.- | 1843–1933 | Steuerwesen
+[OHNE] ID 578 P577 E4 Dossier VI.SB.D.4.:1 T2 S.24 Sch.- | 1836–1933 | a) Allgemeine Akten: Allgemeines
+[OHNE] ID 579 P577 E4 Dossier VI.SB.D.4.:1 T3 S.24 Sch.- | 1849–1931 | b) Fabrik- und Gewerbepolizei
+[OHNE] ID 580 P577 E4 Dossier VI.SB.D.4.:1 T4 S.25 Sch.- | 1910–1933 | c) Wirtschaftspolizei
+[OHNE] ID 582 P581 E4 Dossier VI.SB.D.4.:2 T2 S.25 Sch.- | 1842–1932 | d) Feuerpolizei
+[OHNE] ID 583 P581 E4 Dossier VI.SB.D.4.:2 T3 S.25 Sch.- | 1839–1933 | e) Feuerwehrwesen
+[OHNE] ID 585 P584 E4 Dossier VI.SB.D.4.:3 T2 S.25 Sch.- | 1845–1933 | f) Schiess- und Militärwesen
+[OHNE] ID 588 P587 E4 Dossier VI.SB.D.5.:1 T2 S.25 Sch.- | 1862–1933 | a) Allgemeine Akten der Gesundheitskommission
+[OHNE] ID 589 P587 E4 Dossier VI.SB.D.5.:1 T3 S.25 Sch.- | 1862–1934 | b) Bestattungs- und Friedhofwesen
+[OHNE] ID 590 P587 E4 Dossier VI.SB.D.5.:1 T4 S.25 Sch.- | 1852–1933 | c) Fabrik- und Gewerbewesen
+[OHNE] ID 591 P587 E4 Dossier VI.SB.D.5.:1 T5 S.26 Sch.- | 1887–1933 | d) Kranken- und Sozialfürsorge
+[OHNE] ID 592 P587 E4 Dossier VI.SB.D.5.:1 T6 S.26 Sch.- | 1916–1933 | e) Lebensmittelkontrolle
+[OHNE] ID 594 P593 E4 Dossier VI.SB.D.5.:2 T2 S.26 Sch.- | 1912–1926 | g) Kriegswirtschaftliche
+[OHNE] ID 596 P595 E4 Dossier VI.SB.D.5.:3 T2 S.26 Sch.- | 1842–1933 | h) Landwirtschaft und Forst
+[OHNE] ID 600 P599 E4 Dossier VI.SB.D.6.:1 T2 S.27 Sch.- | 1822–1933 | a) Tiefbau
+[OHNE] ID 602 P601 E4 Dossier VI.SB.D.6.:2 T2 S.27 Sch.- | 1882–1933 | Strassenbau und Projekte; Kanalisationen; alphabetisch geordnet (Verzeichnis)
+[OHNE] ID 604 P603 E4 Dossier VI.SB.D.6.:3 T2 S.28 Sch.- | 1891–1933 | Sonneggstrasse
+[OHNE] ID 606 P605 E4 Dossier VI.SB.D.6.:4 T2 S.28 Sch.- | 1901–1933 | b) Hochbau Turmhaus (Plan)
+[OHNE] ID 608 P607 E4 Dossier VI.SB.D.6.:13 T2 S.30 Sch.- | 1901–1921 | f) Vermessungs- und Bereinigungskommission für die Durchführung der Katastervermessung der Geme
+[OHNE] ID 613 P612 E5 Dossier VI.SB.D.6.:6 T2 S.29 Sch.- | 1863–1925 | Eisenbahnen
+[OHNE] ID 615 P614 E5 Dossier VI.SB.D.6.:7 T2 S.29 Sch.- | 1894–1933 | Elektrische Strassenbahn Zürich-Oerlikon-Seebach
+[OHNE] ID 618 P617 E5 Dossier VI.SB.D.6.:12 T2 S.30 Sch.- | 1895–1933 | Elektrizitätsversorgung
+[OHNE] ID 621 P620 E6 Dossier VI.SB.D.6.:8 T2 S.29 Sch.- | 1896–1932 | Allgemeine Verwaltung
+[OHNE] ID 625 P624 E6 Dossier VI.SB.D.6.:11 T2 S.30 Sch.- | 1904–1932 | Gasversorgung
+[OHNE] ID 628 P627 E4 Dossier VI.SB.D.7.:1 T2 S.30 Sch.- | 1743–1933 | a) Allgemeines 1743-1933: Allgemeine Akten
+[OHNE] ID 631 P630 E4 Dossier VI.SB.D.7.:3 T2 S.31 Sch.- | 1818–1932 | d) Finanzielles
+[OHNE] ID 633 P632 E4 Dossier VI.SB.D.7.:4 T2 S.31 Sch.- | 1845–1933 | e) Verschiedene Akten
+[OHNE] ID 634 P632 E4 Dossier VI.SB.D.7.:4 T3 S.32 Sch.- | 1834–1933 | f) Sekundarschulpflege
+[OHNE] ID 636 P635 E4 Dossier VI.SB.D.7.:5 T2 S.32 Sch.- | 1880–1933 | g) Weitere Schulen und Schulangelegenheiten
+[OHNE] ID 644 P643 E6 Dossier VI.SB.D.7.:7 T2 S.33 Sch.- | 1870–1899 | 1870/71 - 1898/99
+[OHNE] ID 646 P645 E6 Dossier VI.SB.D.7.:8 T2 S.33 Sch.- | 1899–1906 | 1899/1900 - 1905/1906
+[OHNE] ID 648 P647 E6 Dossier VI.SB.D.7.:9 T2 S.33 Sch.- | 1906–1910 | 1906/07 - 1909/10
+[OHNE] ID 650 P649 E6 Dossier VI.SB.D.7.:10 T2 S.33 Sch.- | 1910–1914 | 1910/11 - 1913/14
+[OHNE] ID 652 P651 E6 Dossier VI.SB.D.7.:11 T2 S.33 Sch.- | 1916–1917 | 1013/14 - 1916/17
+[OHNE] ID 654 P653 E6 Dossier VI.SB.D.7.:12 T2 S.33 Sch.- | 1917–1921 | 1917/18 - 1920/21
+[OHNE] ID 656 P655 E6 Dossier VI.SB.D.7.:13 T2 S.33 Sch.- | 1920–1924 | 1920/21 - 1923/24
+[OHNE] ID 658 P657 E6 Dossier VI.SB.D.7.:14 T2 S.33 Sch.- | 1924–1928 | 1924/25 - 1927/28
+[OHNE] ID 660 P659 E6 Dossier VI.SB.D.7.:15 T2 S.33 Sch.- | 1927–1933 | 1927/28 - 1932/33
+[OHNE] ID 663 P662 E6 Dossier VI.SB.D.7.:16 T2 S.33 Sch.- | 1903–1925 | 1903/04 - 1924/25
+[OHNE] ID 665 P664 E6 Dossier VI.SB.D.7.:17 T2 S.33 Sch.- | 1925–1934 | 1925/26 - 1933/34
+[OHNE] ID 668 P667 E6 Dossier VI.SB.D.7.:18 T2 S.33 Sch.- | 1869–1933 | Arbeitsschule (Primar- und Sekundarschule
+[OHNE] ID 670 P669 E6 Dossier VI.SB.D.7.:19 T2 S.33 Sch.- | 1903–1928 | Arbeitsschule (Sekundarschule)

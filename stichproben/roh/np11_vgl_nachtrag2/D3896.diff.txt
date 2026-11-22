@@ -1,0 +1,95 @@
+### D3896: vorher 80 Einheiten, nachher 80 Einheiten
+GEÄ  X.D.1. [ID 1, Dossier, E1, Eltern -, S.1] Gemeinderatskanzlei Affoltern b. Z., Wappen von Zürich mit Lorbeerzweigen | 
+        [Darin]
+           -Altstetten
+           +
+GEÄ  X.D.2. [ID 2, Dossier, E1, Eltern -, S.1] Gemeinde Altstetten, Wappen | 
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Altstetten».
+GEÄ  X.D.3. [ID 3, Dossier, E1, Eltern -, S.1] Gemeindrathschreiber Altstetten, Wappen mit Lorbeerzweigen | 
+        [Darin]
+           -Aussersihl
+           +
+GEÄ  X.D.4. [ID 4, Dossier, E1, Eltern -, S.1] Gemeindrath Aussersihl, Wappen mit Lorbeerzweigen | 
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Aussersihl».
+GEÄ  X.D.5. [ID 5, Dossier, E1, Eltern -, S.1] Gemeindrathschreiber Aussersihl, Wappen mit Lorbeerzweigen | 
+        [Darin]
+           -Enge / Leimbach
+           +
+GEÄ  X.D.6. [ID 6, Dossier, E1, Eltern -, S.1] Gemeindrath Engi, drei Könige | 
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Enge / Leimbach».
+GEÄ  X.D.8. [ID 8, Dossier, E1, Eltern -, S.1] Gemeindeammannamt Enge-Leimbach bei Zürich, drei Könige | 
+        [Darin]
+           -Fluntern
+           +
+GEÄ  X.D.9. [ID 9, Dossier, E1, Eltern -, S.1] Gemeindrath Fluntern, Wappen | 
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Fluntern».
+GEÄ  X.D.11. [ID 11, Dossier, E1, Eltern -, S.1] Canzley d. Gemeindraths Fluntern, Wappen mit Lorbeerzweigen | 
+        [Darin]
+           -Hirslanden
+           +
+GEÄ  X.D.12. [ID 12, Dossier, E1, Eltern -, S.1] Gemeindrath Hirslanden Ct. Zürich, nur eine Stempelmatrize (positiv) | 
+        [Darin]
+           -Höngg
+           +
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Hirslanden».
+GEÄ  X.D.13. [ID 13, Dossier, E1, Eltern -, S.2] Kanzley d. Gemeindrathes Höngg, Wappen | 
+        [Darin]
+           -Hottingen
+           +
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Höngg».
+GEÄ  X.D.14. [ID 14, Dossier, E1, Eltern -, S.2] Gemeindrath Hottingen, Wappen mit Lorbeerzweigen | 
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Hottingen».
+GEÄ  X.D.15. [ID 15, Dossier, E1, Eltern -, S.2] Canzley d. Gemeindraths Hottingen, Wappen mit Lorbeerzweigen | 
+        [Darin]
+           -Oberstrass
+           +
+GEÄ  X.D.16. [ID 16, Dossier, E1, Eltern -, S.2] Gemeindammannamt Oberstrass, Wappen mit Lorbeerzweigen | 
+        [Darin]
+           -Oerlikon
+           +
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Oberstrass».
+GEÄ  X.D.17. [ID 17, Dossier, E1, Eltern -, S.2] Gemeinde Oerlikon, Wappen mit Zweigen | 
+        [Darin]
+           -Seebach
+           +
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Oerlikon».
+GEÄ  X.D.18. [ID 18, Dossier, E1, Eltern -, S.2] Gemeinde Seebach, Wappen mit Zweigen | 
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Seebach».
+GEÄ  X.D.21. [ID 21, Dossier, E1, Eltern -, S.2] Gesundheitsbehörde Seebach | 
+        [Darin]
+           -Unterstrass
+           +
+GEÄ  X.D.22. [ID 22, Dossier, E1, Eltern -, S.2] Gemeinde Unterstrass C. Zürich, Wappen mit Lorbeerzweigen | 
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Unterstrass».
+GEÄ  X.D.23. [ID 23, Dossier, E1, Eltern -, S.2] Gemeindrathssecretariat Unterstrass | 
+        [Darin]
+           -Wiedikon
+           +
+GEÄ  X.D.24. [ID 24, Dossier, E1, Eltern -, S.2] Gemeindrath Wiedikon, Wappen mit Lorbeerzweigen | 
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Wiedikon».
+GEÄ  X.D.26. [ID 26, Dossier, E1, Eltern -, S.2] Gemeindraths-Canzley Wiedikon, Wappen mit Lorbeerzweigen | 
+        [Darin]
+           -Wipkingen
+           +
+GEÄ  X.D.27. [ID 27, Dossier, E1, Eltern -, S.2] Friedensrichteramt Wipkingen C. Zürich, Wappen | 
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Wipkingen».
+GEÄ  X.D.28. [ID 28, Dossier, E1, Eltern -, S.2] Kreisgericht Wipkingen, Wappen von Zürich | 
+        [Darin]
+           -Wollishofen
+           +
+GEÄ  X.D.29. [ID 29, Dossier, E1, Eltern -, S.2] Gemeindrath Wollishofen, Wappen mit Zweigen | 
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Wollishofen».

@@ -1,0 +1,16 @@
+### D3324: vorher 12 Einheiten, nachher 12 Einheiten
+GEÄ  VII.257.:12. [ID 12, Dossier, E1, Eltern -, S.6] Drucksachen | Von/bis (>= x und <=y)
+        [Darin]
+           -HEINRICH WEHRLI (1834-1909): Biografisches
+           -Eltern: Hans Caspar Wehrli geb. 8.7.1802, gest. 21.3.1874
+           -Heirat: 1827 mit Magdalena Rieder, geb. 19.5.1805, gest. 24.1.1871
+           -Kinder: Heinrich, geb. 14.3.1834; Johann Kaspar, geb. 25.9.1837
+           -Heirat: 10.7.1855 mit Verena Louisa Hanhart, geb. 12.8.1830, gest. 1911 Kinder: Emil Heinrich, geb. 11.4.1836; Hermann, geb. 9.10.1857; Heinrich, 13.7.1859
+           -Tod: 28.4.1909; Heinrich Wehrli von Höngg wird 1892 Bürger von Fluntern
+           -1855-1870 Gemeindeschreiber von Höngg
+           -1870-1892 Verwalter des Kantonsspitals Zürich
+           -1872-1880 Mitglied des Gemeinderats von Fluntern
+           -1892 Verwaltungsrat der Leihkasse Enge; Präsident der Gemeinnützigen Gesellschaft Neumünster
+           -1893-1904 Mitglied des Grossen Stadtrats von Zürich; Mitglied des Waisenrats
+           -ab 1894 Inspektor der Krankenasyle und der privaten Anstalten des Kantons
+        Prüfhinweise: 'Nach der letzten Einheit steht im Findmittel ein Absatz ohne Signatur («Eltern: Hans Caspar Wehrli geb. 8.7.1802, gest. 21.3.1874» …) – hier im Darin übernommen' => ''

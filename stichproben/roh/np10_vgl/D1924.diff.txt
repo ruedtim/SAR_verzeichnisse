@@ -1,0 +1,10 @@
+### D1924: vorher 83 Einheiten, nachher 82 Einheiten
+WEG  V.G.c.7.:101 [ID 11, Dossier, E1, Eltern -, S.14] Grosse Stadt Winkler, D. | Genau (=)
+GEÄ  V.G.c.7.:10 [ID 10, Dossier, E1, Eltern -, S.13] Schachtel 10 | Genau (=)
+        [Darin]
+           +Grosse Stadt Winkler, D., 1879, Schachtel 101
+        [Prüfhinweise]
+           +Schachtel «101» bei «Grosse Stadt Winkler, D.» zwischen Zeilen der Schachtel 10 – als 10 gelesen (Tippfehler?), bitte prüfen.
+GEÄ  V.G.c.7.:11 [ID 11, Dossier, E1, Eltern -, S.14] Schachtel 11 | Genau (=)
+        [Prüfhinweise]
+           -Nummerierung springt: nach 101 folgt 11. Möglicher Tippfehler in der Signatur.

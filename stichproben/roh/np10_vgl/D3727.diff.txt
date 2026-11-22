@@ -1,0 +1,1017 @@
+### D3727: vorher 49 Einheiten, nachher 46 Einheiten
+WEG  VII.411.:01.12.0982. [ID 47, Dossier, E1, Eltern -, S.49] 31.12.1982 - Dezember-Programmvorschau | Von/bis (>= x und <=y)
+        D: 6-Tage-Rennen
+        D: Programmheft
+        D: 29.11.1982 05.12.1982 - 2 Plakate ab 29. Nov. 1982
+        D: 6 Plakate ab 30. Nov. 1982
+        D: 2 Fotos
+        D: Veranstaltungen
+        D: 01.12.1982 31.12.1982
+        D: Programmvorschauen
+        D: … (542 Zeilen)
+WEG  VII.411.:02.08.0988. [ID 48, Dossier, E1, Eltern -, S.60] 31.08.1988 | Genau (=)
+        D: 5 Programmvorschauen
+        D: Veranstaltungen
+WEG  VII.411.:01.09.0988. [ID 49, Dossier, E1, Eltern -, S.60] 30.09.1988 | Genau (=)
+        D: 6 Programmvorschauen
+        D: ZSC-Jahresprogramm
+        D: 24.09.1988 05.03.1989
+        D: 4 Programmhefte
+        D: Veranstaltungen
+        D: 01.10.1988 31.10.1988
+        D: 3 Programmvorschauen
+        D: Eishockey, ZSC – Rapperswil
+        D: … (439 Zeilen)
+GEÄ  VII.411.:10.3. [ID 43, Serie, E2, Eltern VII.411.:10., S.11] Veranstaltungen | Von/bis (>= x und <=y)
+        bis: '30.11.1982' => '27.03.2004'
+GEÄ  VII.411.:10.3./T2 [ID 44, Dossier, E3, Eltern VII.411.:10.3., S.11] Veranstaltungen, Teil 2 | Von/bis (>= x und <=y)
+        von: '05.11.1982' => '06.12.1981'
+        bis: '28.11.1982' => '27.03.2004'
+        [Darin]
+           +01.12.0982 31.12.1982
+           +Dezember-Programmvorschau
+           +6-Tage-Rennen
+           +Programmheft
+           +29.11.1982 05.12.1982 - 2 Plakate ab 29. Nov. 1982
+           +6 Plakate ab 30. Nov. 1982
+           +2 Fotos
+           +Veranstaltungen
+           +01.12.1982 31.12.1982
+           +Programmvorschauen
+           +Veranstaltungen
+           +01.01.1983 31.01.1983
+           +3 Programmvorschauen
+           +Radrennen, Grosser Neujahrs-Preis
+           +01.01.1983 - 2 Programmhefte
+           +4 Plakate
+           +GCZ – Chur
+           +04.01.1983
+           +Plakat
+           +Radrennen, Steher-Länderkampf
+           +28.01.1983 - 2 Programmhefte
+           +3 Plakate
+           +Veranstaltungen
+           +01.02.1983 18.02.1983
+           +3 Programmvorschauen
+           +Hallen-Motocross
+           +04.02.1983
+           +Programmheft
+           +3 Plakate
+           +GCZ – Herisau
+           +26.02.1983 GCZ – Rapperswil
+           +2 Plakate
+           +Veranstaltungen
+           +01.03.1983 31.03.1983
+           +3 Programmvorschauen
+           +Veranstaltungen
+           +01.04.1983 30.04.1983
+           +3 Programmvorschauen
+           +Veranstaltungen
+           +01.05.1983 31.05.1983
+           +3 Programmvorschauen
+           +Radrennen
+           +17.05.1983
+           +Programmablauf
+           +Radrennen
+           +24.05.1983
+           +Programmablauf
+           +Internat. Bahnrennen
+           +04.06.1983 - 2 Plakate
+           +Programmablauf
+           +Radrennen
+           +07.06.1983
+           +Programmablauf
+           +Oper AIDA
+           +11.06.1983 26.06.1983
+           +Programmhefte
+           +Plakat
+           +Radrennen
+           +14.06.1983
+           +Programmablauf
+           +28.06.1983; Radrennen
+           +Programmablauf
+           +Radrennen
+           +30.06.1983
+           +Programmablauf
+           +Radrennen
+           +01.07.1983
+           +Programmablauf
+           +Radrennen
+           +05.07.1983
+           +2 Programmabläufe
+           +Radrennen
+           +12.07.1983
+           +Programmablauf
+           +Radrennen
+           +19.07.1983
+           +Programmablauf
+           +Internat. Bahnrennen
+           +21.07.1983 - 2 Plakate
+           +Programmablauf
+           +Radrennen
+           +26.07.1983
+           +Programmablauf
+           +Radrennen, Schweizer Bahnmeisterschaften
+           +Programmablauf 9. bis 13. August 1983
+           +03.08.1983 18.08.1983
+           +2 Programmabläufe 18. August 1983
+           +3 Plakate
+           +Internat. Bahnrennen
+           +08.09.1983
+           +2 Programmabläufe
+           +Internat. Bahnrennen
+           +15.09.1983
+           +Programmablauf
+           +Holiday on Ice
+           +12.10.1983 16.10.1983
+           +Plakat
+           +Radrennen, Grosser Steherpreis von Zürich
+           +30.10.1983
+           +2 Plakate
+           +Veranstaltungen
+           +01.11.1983 30.11.1983
+           +3 Programmvorschauen
+           +Veranstaltungen
+           +01.11.1983 30.11.1983
+           +3 Programmvorschauen
+           +Radrennen, Derny-Europa-Meisterschaft
+           +13.11.1983
+           +Programmheft
+           +2 Plakate
+           +Radrennen, 100 km Américaine
+           +20.11.1983
+           +Programmheft
+           +2 Plakate
+           +Radball, Grosser Preis von Zürich
+           +27.11.1983
+           +Plakat
+           +6-Tagerennen
+           +28.11.1983 04.12.1983
+           +Programmheft
+           +7 Plakate
+           +Hallenfussball-Turnier
+           +01.01.1984 02.01.1984
+           +3 Programmhefte
+           +Veranstaltungen
+           +28.01.1984 05.03.1984
+           +6 Programmvorschauen
+           +Veranstaltungen
+           +01.04.1984 27.05.1984
+           +9 Programmvorschauen
+           +Dienstag-Abendrennen
+           +29.05.1984
+           +Programmablauf
+           +Internat. Bahnrennen
+           +02.06.1984
+           +Programmablauf
+           +Dienstag-Abendrennen
+           +05.06.1984
+           +Programm
+           +Internat. Bahnrennen
+           +08.06.1984
+           +Programm
+           +Dienstag-Abendrennen
+           +12.06.1984; -Programm
+           +Oper Boris Godunow
+           +13.06.1984 24.06.1984 - 2 Programmhefte
+           +3 Programmvorschauen
+           +Internat. Bahnrennen
+           +22.06.1984
+           +Programm
+           +Dienstag-Abendrennen
+           +26.06.1984
+           +Programm
+           +Internat. Bahnrennen
+           +29.06.1984
+           +Programm
+           +Veranstaltungen
+           +01.07.1984 31.07.1984
+           +3 Programmvorschauen
+           +Dienstag-Abendrennen
+           +10.07.1984
+           +Programm
+           +Internat. Bahnrennen
+           +13.07.1984
+           +Programm
+           +Nationales Bahnrennen
+           +30.07.1984 31.07.1984
+           +Programm
+           +Nationales Bahnrennen
+           +03.08.1984
+           +Programm
+           +Internat. Bahnrennen
+           +10.08.1984
+           +Programm
+           +Nationales Bahnrennen
+           +14.08.1984
+           +Programm
+           +Nationales Bahnrennen
+           +21.08.1984
+           +Programm
+           +Nationales Bahnrennen
+           +28.08.1984
+           +Programm
+           +Internat. Bahnrennen
+           +04.09.1982
+           +Programm
+           +01.10.1984 31.10.1984 ZSC-Club-Nachrichten
+           +ZSC-Revue
+           +01.10.1984 30.11.1984
+           +Terminkalender
+           +Eishockey
+           +06.10.1984 30.10.1984
+           +Plakat
+           +Veranstaltungen
+           +07.10.1984 01.12.1984
+           +6 Programmvorschauen
+           +Eishockey ZSC – Wetzikon
+           +16.10.1984
+           +Matchprogramm
+           +Eishockey ZSC – Servette Genf
+           +23.10.1984
+           +Matchprogramm
+           +Eishockey ZSC – Herisau
+           +30.10.1984
+           +Matchprogramm
+           +Eishockey ZSC – Ambri
+           +06.11.1984
+           +Programmheft
+           +Eishockey
+           +06.11.1984 20.11.1984
+           +Plakat
+           +10.11.1984 20.12.1984; Veranstaltungen
+           +3 Programmvorschauen
+           +Steherrennen Américaine
+           +10.11.1984
+           +3 Programmhefte
+           +Eishockey ZSC – Langenthal
+           +17.11.1984
+           +Programmheft
+           +Radrennen, Winterbahn-Meisterschaft
+           +18.11.1984
+           +3 Programmhefte
+           +Veranstaltungen
+           +18.11.1984 20.11.1984
+           +Plakat
+           +Eishockey ZSC
+           +Zug
+           +20.11.1984
+           +2 Programmhefte
+           +Radball, Grosser Preis von Zürich
+           +25.11.1984
+           +Plakat
+           +6-Tagerennen
+           +26.11.1984 02.12.1984
+           +Programmheft
+           +2 Plakate
+           +Veranstaltungen
+           +09.12.1984 31.12.1984
+           +3 Programmvorschauen
+           +Veranstaltungen
+           +1984 - 1985
+           +5 Programme Juli 1984 – Juni 1985
+           +4. Hallenfussball-Turnier
+           +01.01.1985 02.01.1985
+           +2 Programmhefte
+           +Veranstaltungen
+           +01.01.1985 29.01.1985
+           +3 Programmvorschauen
+           +Veranstaltungen
+           +29.01.1985 31.03.1985
+           +5 Programmvorschauen
+           +Veranstaltungen
+           +05.03.1985 21.04.1985
+           +Programmvorschau
+           +Eishockey ZSC-Fribourg
+           +22.10.1985
+           +Match-Programm
+           +Eishockey ZSC-Arosa
+           +29.10.1985
+           +Match-Programm
+           +Eishockey ZSC – Davos
+           +31.10.1985
+           +Match-Programm
+           +05.11.1985; Eishockey ZSC – Biel
+           +Programmheft
+           +Eröffnungs-Rennen Américaine
+           +06.11.1985 20.11.1985
+           +3 Plakate
+           +Eishockey ZSC – Kloten
+           +12.11.1985
+           +Programmheft
+           +Eishockey ZSC – Sierre
+           +23.11.1985
+           +Programmheft
+           +Radball, Grosser Preis von Zürich
+           +24.11.1985
+           +3 Plakate
+           +6-Tagerennen
+           +25.11.1985 01.12.1985
+           +4 Plakate
+           +Eishockey ZSC – Olten
+           +03.12.1985
+           +Programmheft
+           +Eishockey ZSC – Ambri
+           +10.12.1985
+           +Programmheft
+           +Benefiz-Veranstaltung
+           +15.12.1985
+           +Programmheft
+           +Eishockey ZSC – Fribourg
+           +17.12.1985
+           +Programmheft
+           +Veranstaltungen
+           +1985 - 1986
+           +5 Programme Juli 1985 – Juni 1986
+           +Veranstaltungen
+           +01.01.1986 31.12.1986
+           +4 Programmvorschauen
+           +5. Internat. Hallenfussball-Turnier
+           +01.01.1986 02.01.1986 - 3 Programmhefte
+           +3 Plakate
+           +Eishockey ZSC – Lugano
+           +14.01.1986
+           +Match-Programm
+           +Eishockey ZSC – Davos
+           +18.01.1986
+           +Match-Programm
+           +Eishockey ZSC – Biel
+           +25.01.1986
+           +Match-Programm
+           +Eishockey ZSC – Kloten
+           +30.01.1986
+           +Match-Programm
+           +04.02.1986; Eishockey ZSC – Sierre
+           +Match-Programm
+           +Eishockey Europa-Cup Södertälje – HC Davos 06.02.1986 - 2 Mannschaftsaufstellungen
+           +Plakat
+           +Hallen-Motocross
+           +08.02.1986
+           +2 Plakate
+           +Eishockey ZSC – Arosa
+           +11.02.1986
+           +Match-Programm
+           +Alpenland Starparade
+           +12.04.1986 - 2 Programmhefte
+           +2 Plakate
+           +Veranstaltungen
+           +01.06.1986 30.06.1986
+           +4 Programmvorschauen
+           +Oper Nabucco
+           +12.06.1986 22.06.1986
+           +2 Programmhefte
+           +Veranstaltungen
+           +01.08.1986 31.08.1986
+           +4 Programmvorschauen
+           +Veranstaltungen
+           +01.10.1986 31.10.1986
+           +4 Programmvorschauen
+           +Eishockey ZSC – Rapperswil
+           +11.10.1986
+           +Match-Programm
+           +Radrennen, Américaine
+           +19.10.1986
+           +4 Programmhefte
+           +Eishockey ZSC – Basel
+           +28.10.1986
+           +Match-Programm
+           +Veranstaltungen
+           +01.11.1986 30.11.1986
+           +4 Programmvorschauen
+           +Eishockey ZSC – La Chaux-de Fonds
+           +04.11.1986
+           +Matchprogramm
+           +Eishockey ZSC – Langnau
+           +08.11.1986
+           +2 Match-Programme
+           +Radrennen, Américaine
+           +09.11.1986 - 4 Programmhefte
+           +4 Plakate
+           +World Dance Festival
+           +14.11.1986 16.11.1986
+           +3 Programmhefte
+           +2 Mappen mit Fotos
+           +Radrennen, Grosser Preis von Zürich
+           +23.11.1986
+           +7 Plakate
+           +10. Schweizer Super-Zehnkampf
+           +24.11.1986 - 5 Programmhefte
+           +7 Plakate
+           +6-Tagerennen
+           +24.11.1986 30.11.1986 - 4 Programmhefte
+           +10 Plakate
+           +Veranstaltungen
+           +1986 – 1987
+           +6 Programme Juli 1986 – Juni 1987
+           +Veranstaltungen
+           +01.01.1987 31.01.1987
+           +4 Programmvorschauen
+           +6. Internat. Hallen-Fussballturnier
+           +01.01.1987 01.02.0987 - 2 Programmhefte
+           +Plakat
+           +Eishockey, ZSC – La Chaux-deFonds
+           +20.01.01987
+           +Programmheft
+           +Veranstaltungen
+           +01.02.1987 24.02.1987
+           +4 Programmvorschauen
+           +Eishockey- ZSC – Langnau
+           +03.02.1987
+           +Programmheft
+           +Hallen-Motocross
+           +07.02.1987 - 3 Programmhefte
+           +2 Plakate
+           +Eishockey, ZSC – Ajoie
+           +17.02.1987
+           +Programmheft
+           +Eishockey, Schweiz – Kanada
+           +20.02.1987
+           +3 Plakate
+           +Eishockey, ZSC – Basel
+           +24.02.1987
+           +Programmheft
+           +Veranstaltungen
+           +01.04.1987 30.04.1987
+           +4 Programmvorschauen
+           +Veranstaltungen
+           +01.05.1987 31.05.1987
+           +Programmvorschauen
+           +Alpenland Starparade 87
+           +09.05.1987
+           +3 Programmhefte
+           +5 Plakate
+           +Veranstaltungen
+           +02.06.1987 30.06.1987
+           +4 Programmvorschauen
+           +Veranstaltungen
+           +03.08.1987 31.08.1987
+           +4 Programmvorschauen
+           +Veranstaltungen
+           +24.09.1987 04.10.1987
+           +4 Programmvorschauen
+           +Veranstaltungen
+           +01.10.1987 31.10.1987
+           +4 Programmvorschauen
+           +Steherrennen
+           +11.10.1987 18.10.1987
+           +4 Plakate
+           +Eishockey, ZSC Herisau
+           +15.10.1987
+           +Programmheft
+           +Olympia-Festival, 75 Jahre SOC
+           +23.10.1987 - 2 Programmzeitungen
+           +3 Plakate
+           +Eishockey, ZSC – Chur
+           +24.10.1987
+           +Programmheft
+           +Veranstaltungen
+           +01.11.1987 29.11.1987
+           +4 Programmvorschauen
+           +Liza Minnelli in Concert
+           +10.11.1987
+           +Programmheft
+           +Rad-Europa-Meisterschaften
+           +13.11.1987 15.11.1987 - 4 Programmhefte
+           +4 Plakate
+           +Eishockey, ZSC – Basel
+           +14.11.1987
+           +Programmheft
+           +Radrennen, Europameisterschaft
+           +17.11.1987
+           +Reglement
+           +Harlem Globetrotters
+           +20.11.1987
+           +3 Plakate
+           +Radrennen
+           +22.11.1987
+           +Programmheft
+           +6-Tage-Rennen
+           +23.11.1987 29.11.1987 - 3 Programmhefte
+           +diverse Plakate
+           +Veranstaltungen
+           +01.12.1987 31.12.1987
+           +4 Programmvorschauen
+           +Eishockey, ZSC – Olten
+           +08.12.1987
+           +Programmheft
+           +Eishockey, ZSC – Basel
+           +17.12.1987
+           +Programmheft
+           +Eishockey, ZSC – Chur
+           +22.12.1987
+           +Programmheft
+           +Veranstaltungen
+           +01.01.1988 31.01.1988
+           +5 Programmvorschauen
+           +7. Internat. Hallen-Fussballturnier
+           +01.01.1988 02.01.1988 - 2 Programmhefte
+           +5 Plakate
+           +Eishockey, ZSC – Olten
+           +19.01.1988
+           +Match-Programm
+           +Eishockey, ZSC – La Chaux-de- Fonds
+           +23.01.1988
+           +Matchprogramm
+           +Eishockey, ZSC – Uzwil
+           +30.01.1988
+           +Match-Programm
+           +Veranstaltungen
+           +01.02.1988 20.02.1988
+           +5 Programmvorschauen
+           +Hallen-Motocross
+           +06.02.1988
+           +Programmheft
+           +2 Plakate
+           +Eishockey, ZSC – Olten
+           +13.02.1988
+           +2 Mannschafts-Aufstellungen
+           +Eishockey, ZSC – Langnau
+           +16.02.1988
+           +Mannschafts-Aufstellung
+           +Eishockey, ZSC – Bern
+           +20.02.1988
+           +Mannschafts-Ausstellung
+           +Veranstaltungen
+           +05.03.1988 29.03.1988
+           +4 Programmvorschauen
+           +Eishockey, ZSC – Ajoie
+           +05.03.1988
+           +Match-Programm
+           +4 Plakate
+           +Eishockey, ZSC – Herisau
+           +12.03.1988
+           +Match-Programm
+           +2 Plakate
+           +Eishockey, ZSC – Ajoie
+           +24.03.1988
+           +Match-Programm
+           +Veranstaltungen
+           +07.04.1988 27.04.1988
+           +5 Programmvorschauen
+           +Veranstaltungen
+           +01.05.1988 31.05.1988
+           +4 Programmvorschauen
+           +Alpenland Starparade 88
+           +14.05.1988 - 2 Programmhefte
+           +8 Plakate
+           +Veranstaltungen
+           +01.06.1988 30.06.1988
+           +5 Programmvorschauen
+           +Oper Turandot
+           +10.06.1988 19.06.1988
+           +2 Programmhefte
+           +Veranstaltungen
+           +02.07.1988 26.07.1988
+           +5 Programmvorschauen
+           +CSI Zürich
+           +2 Programmmagazine
+           +07.07.1988 10.07.1988
+           +2 Arena-Magazine
+           +7 Programmhefte
+           +Grand Prix der Volksmusik
+           +09.07.1988
+           +3 Plakate
+           +Veranstaltungen
+           +02.08.0988 31.08.1988
+           +5 Programmvorschauen
+           +Veranstaltungen
+           +01.09.0988 30.09.1988
+           +6 Programmvorschauen
+           +ZSC-Jahresprogramm
+           +24.09.1988 05.03.1989
+           +4 Programmhefte
+           +Veranstaltungen
+           +01.10.1988 31.10.1988
+           +3 Programmvorschauen
+           +Eishockey, ZSC – Rapperswil
+           +11.10.1988
+           +Matchprogramm
+           +Eishockey, ZSC – Bülach
+           +15.10.1988
+           +Matchprogramm
+           +Musikantenstadl
+           +16.10.1988
+           +2 Plakate
+           +Eishockey, ZSC – Sierre
+           +22.10.1988
+           +Matchprogramm
+           +Radrennen
+           +23.10.1988 27.11.1988 - 6 Plakate; 3 Fotos
+           +Veranstaltungen
+           +01.11.1988 27.11.1988
+           +3 Programmvorschauen
+           +Eishockey, ZSC – Chur
+           +01.11.1988
+           +Matchcprogramm
+           +Eishockey, ZSC – Martigny
+           +15.11.1988
+           +Matchprogramm
+           +Eishockey, ZSC – Langnau
+           +22.11.1988
+           +Matchprogramm
+           +Catcher-Gala
+           +28.11.1988
+           +3 Plakate
+           +6-Tagerennen
+           +2 Programmhefte
+           +28.11.1988 04.12.1988
+           +5 Plakate
+           +4 Fotos
+           +Veranstaltungen
+           +04.12.1988 23.12.1988
+           +6 Programmhefte
+           +Eishockey, ZSC – Langnau
+           +06.12.1988
+           +Matchprogramm
+           +Eishockey, ZSC – Chur
+           +10.12.1988
+           +Matchprogramm
+           +Eishockey, ZSC – Rapperswil
+           +17.12.1988
+           +Matchprogramm
+           +Eishockey, ZSC – Bülach
+           +23.12.1988
+           +Matchprogramm
+           +Veranstaltungen
+           +1988 - 1989 - 5 Programme Juli 1988 –Juni 1989
+           +4 ZSC-Jahresprogramme 1988 – 1989
+           +8. Internat. Hallen-Fussballturnier
+           +01.01.1989 02.01.1989 - 3 Programmhefte
+           +2 Plakate
+           +ZSC – Herisau
+           +10.01.1989
+           +Matchprogramm
+           +ZSC – Sierre
+           +12.01.1989
+           +Matchprogramm
+           +ZSC – Genf/Servette
+           +17.01.1989
+           +Matchprogramm
+           +ZSC – Martigny
+           +31.01.1989
+           +Matchprogramm
+           +Veranstaltungen
+           +01.02.1989 28.02.1989
+           +4 Programmvorschauen
+           +Internat. Hallencross
+           +10.02.1989 11.02.1989
+           +2 Plakate
+           +Eishockey Schweiz – DDR
+           +04.02.1989 - 2 Programmhefte
+           +3 Plakate
+           +ZSC – Ajoie
+           +14.02.1989
+           +Matchprogramm
+           +ZSC – Martigny
+           +21.02.1989
+           +Matchprogramm
+           +ZSC – Chur
+           +25.02.1989
+           +Matchprogramm
+           +Veranstaltungen
+           +01.03.1989 31.03.1989
+           +4 Programmvorschauen
+           +ZSC – Langnau
+           +02.03.1989
+           +Matchprogramm
+           +ZSC – Davos
+           +04.03.1989
+           +Matchprogramm
+           +Veranstaltungen
+           +01.04.1989 30.04.1989
+           +4 Programmvorschauen
+           +Alpenland Starparade 89
+           +29.04.1989 - 2 Programmhefte
+           +5 Plakate
+           +Veranstaltungen
+           +01.05.1989 31.05.1989
+           +4 Programmvorschauen
+           +01.06.1989 30.06.1989; Veranstaltungen
+           +4 Programmvorschauen
+           +Oper Nabucco
+           +09.06.1989 18.06.1989
+           +2 Programmmagazine
+           +Veranstaltungen
+           +01.07.1989 31.07.1989
+           +4 Programmvorschauen
+           +CSI Zürich
+           +06.07.1989 9.07.1989
+           +Festprogramm
+           +Veranstaltungen
+           +01.09.1989 30.09.1989
+           +4 Programmvorschauen
+           +ZSC-Jahresprogramm Saison 1989/1990
+           +23.09.1989 10.03.1990
+           +2 Programme
+           +Veranstaltungen
+           +01.10.1989 31.10.1989
+           +3 Programmvorschauen
+           +Eishockey, ZSC – Ajoie
+           +07.10.1989
+           +Matchprogramm Nr. 2
+           +Eishockey, ZSC – Olten
+           +17.10.1989
+           +Match-Programm Nr. 3
+           +Radrennen
+           +22.10.1989 03.12.1989
+           +2 Plakate
+           +Eishockey, ZSC – Bern
+           +26.10.1989
+           +Match-Programm Nr. 5
+           +Veranstaltungen
+           +01.11.1989 30.11.1989
+           +4 Programmvorschauen
+           +Eishockey, 3-Länder-Turnier
+           +07.11.1989 09.11.1989 - 4 Programmhefte
+           +6 Plakate
+           +Eishockey, ZSC – Zug
+           +18.11.1989
+           +2 Match-Programme Nr. 7
+           +50 Jahre Hallenstadion
+           +6 Festschriften
+           +6 Programmkarten
+           +18.11.1989 19.11.1989 - 10 Anmeldungen für die Jubiläums-Generalversammlung
+           +6 Festabzeichen
+           +5 Kartons
+           +Zeitungsausschnitte
+           +Tag der offenen Tür
+           +19.11.1989
+           +4 Plakate
+           +Eishockey, ZSC – Zug
+           +23.11.1989
+           +2 Match-Programme Nr. 8
+           +Eishockey, ZSC – Lugano
+           +25.11.1989
+           +2 Match-Programme Nr. 9
+           +Radrennen, Blaues Band von Zürich
+           +26.11.1989
+           +4 Plakate
+           +6-Tagerennen
+           +4 Programmhefte
+           +27.11.1989 03.12.1989
+           +5 Plakate
+           +2 Fotos
+           +Veranstaltungen
+           +01.12.1989 31.12.1989
+           +4 Programmvorschauen
+           +Eishockey, ZSC – Olten
+           +05.12.1989
+           +Match-Programm Nr. 10
+           +Eishockey, ZSC – Ambri
+           +12.12.1989
+           +2 Match-Programme Nr. 11
+           +Eishockey, ZSC – Fribourg
+           +16.12.1989
+           +2 Match-Programme Nr. 12
+           +Eishockey, ZSC – Ajoie
+           +23.12.1989
+           +2 Match-Programme Nr. 13
+           +Veranstaltungen
+           +1989 - 1990
+           +6 Programme Juli 1989 – Juni 1990
+           +ZSC
+           +1989 – 1990
+           +2 Jahresprogramme
+           +Veranstaltungen
+           +01.01.1990 31.01.1990
+           +5 Programmvorschauen
+           +9. Internat. Hallen-Fussballturnier
+           +01.01.1990 02.01.1990 - 3 Programmhefte
+           +2 Plakate
+           +Eishockey, ZSC – Kloten
+           +06.01.1990
+           +2 Match-Programme Nr. 14
+           +Eishockey, ZSC – Lugano
+           +13.01.1990
+           +2 Match-Programme Nr. 15
+           +Eishockey, ZSC – Ambri
+           +16.01.1990
+           +Match-Programm Nr. 16
+           +Eishockey, ZSC – Bern
+           +23.01.1990
+           +2 Match-Programme Nr. 17
+           +Veranstaltungen
+           +01.02.1990 28.02.1990
+           +5 Programmvorschauen
+           +Eishockey, ZSC – Biel
+           +03.02.1990
+           +2 Match-Programme Nr. 18
+           +Hallen-Motocross
+           +10.02.1990 - 4 Programmhefte
+           +2 Plakate
+           +Eishockey, ZSC – Herisau
+           +13.02.1990
+           +Match-Programm Nr. 19
+           +Eishockey, ZSC – Ajoie
+           +20.02.1990
+           +2 Match-Programme Nr. 20
+           +Eishockey, ZSC – Martigny
+           +24.02.1990
+           +2 Match-Programme Nr. 21
+           +Eishockey, ZSC – Sierre
+           +01.03.1990
+           +2 Match-Programme Nr. 22
+           +Veranstaltungen
+           +01.03.1990 31.03.1990
+           +5 Programmvorschauen
+           +Eishockey, ZSC – Rapperswil
+           +03.03.1990
+           +Match-Programm Nr. 23
+           +Walt Disney’s World on Ice
+           +07.03.1990 11.03.1990
+           +6 Programmprospekte
+           +Veranstaltungen
+           +01.04.1990 30.04.1990
+           +5 Programmvorschauen
+           +Veranstaltungen
+           +01.05.1990 31.05.1990
+           +5 Programmvorschauen
+           +Alpenland Starparade 90
+           +05.05.1990
+           +2 Plakate
+           +Marinechor der UdSSR
+           +09.05.1990 - 5 Flugblätter
+           +4 Plakate
+           +Luciano Pavarotti
+           +13.05.1990
+           +10 Konzertprogramme
+           +20.05.1990; Reggae-Festival
+           +3 Programmhefte
+           +Veranstaltungen
+           +01.06.1990 30.06.1990
+           +5 Programmvorschauen
+           +CSI – Der grosse Galopp
+           +05.07.1990 08.07.1990
+           +5 Programme
+           +Veranstaltungen
+           +01.08.1990 31.08.1990
+           +5 Programmvorschauen
+           +Veranstaltungen
+           +01.10.1990 31.10.1990
+           +3 Programmvorschauen
+           +Eishockey, ZSC – Ambri
+           +11.10.1990
+           +2 Match-Programme Nr. 2
+           +Eishockey, ZSC – Sierre
+           +16.10.1990
+           +Match-Programm Nr. 3
+           +Eishockey, ZSC – Kloten
+           +20.10.1990
+           +2 Match-Programme Nr. 4
+           +Eishockey, ZSC – Zug
+           +30.10.1990
+           +2 Match-Programme Nr. 5
+           +Veranstaltungen
+           +01.11.1990 30.11.1990
+           +5 Programmvorschauen
+           +Eishockey, ZSC – Fribourg
+           +03.11.1990
+           +2 Match-Programme Nr. 6
+           +Harlem Globetrotters
+           +04.11.1990
+           +3 Veranstaltungsblätter
+           +Eishockey, ZSC – Bern
+           +13.11.1990
+           +2 Match-Programme Nr. 7
+           +Eishockey, ZSC – Biel
+           +17.11.1990
+           +2 Match-Programme Nr. 8
+           +6-Tagerennen
+           +26.11.1990 02.12.1990 - 5 Plakate
+           +3 Kartontafeln
+           +Veranstaltungen
+           +01.12.1990 31.12.1990
+           +5 Programmvorschauen
+           +Eishockey, ZSC – Olten
+           +04.12.1990
+           +2 Match-Programme Nr. 10
+           +08.12.1990; Gala du Tennis
+           +4 Magazine
+           +Eishockey, ZSC – Bern
+           +18.12.1990
+           +2 Match-Programme Nr. 11
+           +Veranstaltungen
+           +1990 - 1991
+           +6 Programme Juli 1990 – Juni 1991
+           +Internat. Hallen-Fussballturnier
+           +2 Programmhefte
+           +01.01.1991 02.01.1991
+           +2 Plakate
+           +Druckunterlagen
+           +Eishockey, ZSC – Fribourg
+           +12.01.1991
+           +2 Match-Programme Nr. 12
+           +Eishockey, ZSC – Sierre
+           +19.01.1991
+           +2 Match-Programme Nr. 13
+           +Eishockey, ZSC – Olten
+           +22.01.1991
+           +2 Match-Programme Nr. 14
+           +Eishockey, ZSC – Zug
+           +29.01.1991
+           +2 Match-Programme Nr. 15
+           +Eishockey, ZSC – Biel
+           +02.02.1991
+           +2 Match-Programme Nr. 16
+           +Eishockey Schweiz –Kanada
+           +07.02.1991
+           +4 Programmhefte
+           +Hallen-Motocross
+           +09.02.1991 - 4 Programmhefte
+           +5 Plakate
+           +Eishockey, ZSC – Ambri
+           +12.02.1991
+           +2 Match-Programme Nr. 17
+           +Eishockey, ZSC – Lugano
+           +19.02.1991
+           +2 Match-Programme Nr. 18
+           +Eishockey, ZSC – Kloten
+           +26.02.1991
+           +2 Match-Programme Nr. 19
+           +Eishockey, ZSC – Kloten
+           +02.03.1991
+           +2 Match-Programme Nr. 20
+           +6. Internat. Polizei-Musikfestival
+           +08.06.1991
+           +5 Plakate
+           +Mormonen-Tabernakelchor
+           +13.06.1991
+           +3 Plakate
+           +Bejart Ballet Lausanne
+           +02.07.1991 04.07.1991
+           +Programmheft
+           +3 Plakate
+           +Hitparade
+           +13.10.1991
+           +3 Plakate
+           +Nacht der Ländlerkönige
+           +01.11.1991
+           +Druckunterlagen
+           +6-Tagerennen
+           +25.11.1991 01.12.1991
+           +4 Programmhefte
+           +Veranstaltungen
+           +1991 – 1992
+           +6 Programme Juli 1991 – Juni 1992
+           +1. Volksmusikgala
+           +08.03.1992
+           +3 Plakate
+           +1. UIAA-Kletterweltcup
+           +02.05.1992 03.05.1992
+           +5 Plakate
+           +Alpenland Starparade
+           +09.05.1992
+           +5 Plakate
+           +Energy 93 & Streetparade
+           +28.08.1993
+           +Programmheft
+           +6-Tagerennen
+           +29.11.1993 05.12.1993
+           +3 Programmhefte
+           +Swiss Life CSI
+           +24.03.1994 27.03.1994
+           +Mappe mit Fotos
+           +6-Tagerennen
+           +28.11.1994 04.12.1994
+           +3 Programmhefte
+           +Aerobic-Jam
+           +01.04.1995
+           +8 Fotos
+           +6-Tagerennen
+           +27.11.1995 03.12.1995
+           +4 Programmhefte
+           +6-Tagerennen
+           +02.12.1996 08.12.1996
+           +4 Programmhefte
+           +Oper AIDA
+           +13.06.1998 21.06.1998 - 2 Programmmagazine
+           +25 Fotografien
+           +12.01.2002 13.01.2002; Eishockey, Continental-Cup
+           +Programmheft
+           +Super-10-Kampf
+           +06.12.2002
+           +4 Programmhefte
+           +Konzert „Massive Attack“
+           +08.05.2003
+           +6 Plakate
+           +Konzert “Tom Jones“
+           +13.06.2003
+           +6 Plakate
+           +Konzert „Santana Shaman Tour“
+           +15.09.2003
+           +6 Plakate
+           +Arena-Oper CARMEN
+           +17.12.2003 21.12.2003
+           +3 Programmmagazine
+           +Riverdance Souvenir-Programm
+           +Journal undatiert
+           +Eishockey, ZSC Lions – HC Lugano
+           +27.03.2004
+           +Programmheft
+           +Rennbahn Oerlikon (Jahr nicht klar)
+           +29. Mai; «Aufbauen statt abbrechen»
+           +Holiday on Ice
+           +41 Programmmagazine undatiert
+           +06.12.1981 22.10.1989 Diverse Plakate
+           +Plakate
+           +12 Stück undatiert

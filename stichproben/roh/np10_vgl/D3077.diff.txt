@@ -1,0 +1,31 @@
+### D3077: vorher 17 Einheiten, nachher 17 Einheiten
+GEÄ  VII.194.:2. [ID 2, Dossier, E1, Eltern -, S.1] Tagebuch von Felix Wild, geb. 1809, gest. 1889, gewesener Regierungsrat des Kantons Zürich | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  VII.194.:3. [ID 3, Dossier, E1, Eltern -, S.1] Abschrift des obigen Tagebuches durch seinen Urgrossneffen Dr. Max Wild, von Hand sowie vorhanden | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  VII.194.:4. [ID 4, Dossier, E1, Eltern -, S.1] Kommentar zur Abschrift der Tagebuchnotizen von Felix Wild, geb.1809, gest.1889 durch seinen Urgrossneffen Dr. Max Wild | Genau (=)
+        Schachtel-Nr.: '' => '1'
+GEÄ  VII.194.:5. [ID 5, Dossier, E1, Eltern -, S.1] Sachregister zu den Tagebuchnotizen von Felix Wild, erstellt durch Dr. Max Wild (eine ältere Version sowie eine neuere verbesserte vorhanden) | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  VII.194.:6. [ID 6, Dossier, E1, Eltern -, S.1] Personenregister zu den Tagebuchnotizen, idem (auch zwei Versionen vorhanden) | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  VII.194.:7. [ID 7, Dossier, E1, Eltern -, S.1] Lebenslauf von Felix Wild, 1809 – 1889 auch erstellt durch Dr. Max Wild | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  VII.194.:8. [ID 8, Dossier, E1, Eltern -, S.1] Schreibarbeiten durch Frau Maurer am Tagebuch von Felix Wild, Besprechungszettel von Herrn Dr. Max Wild Telefonnotizen | 
+        Schachtel-Nr.: '' => '1'
+GEÄ  VII.194.:9. [ID 9, Dossier, E1, Eltern -, S.1] Photokopie Zeitung NZZ: Artikel über Tod von Felix Wild 1809 – 1889 | Genau (=)
+        Schachtel-Nr.: '' => '1'
+GEÄ  VII.194.:10. [ID 10, Dossier, E1, Eltern -, S.2] Abschrift eines Briefwechsels zur Zeit der Klosteraufhebung im Kanton Zürich zwischen Felix Wild, 1809-1889, und Leodegar Ineichen, dem letzten Abt des Stiftes  | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  VII.194.:11. [ID 11, Dossier, E1, Eltern -, S.2] Buch: Vom Untergang der Abtei Rheinau, von Gottfried Boesch mit Widmung: “meinem lieben Bruder Max mit herzlichem Glückwunsch zur Wahl als Präsident der Zürcher | Genau (=)
+        Schachtel-Nr.: '' => '1'
+GEÄ  VII.194.:13. [ID 13, Dossier, E1, Eltern -, S.2] Abschrift dieser Hefte durch Herrn Dr. Max Wild, von Hand geschrieben, Arbeit beendet am 18.01.1975 (Enkel von Johann Hagenbuch) | Genau (=)
+        Schachtel-Nr.: '' => '2'
+GEÄ  VII.194.:14. [ID 14, Dossier, E1, Eltern -, S.2] Kurznotizen zur Abschrift durch Dr. Max Wild, geordnet nach den Seitenzahlen, Seiten 1 – 238 | 
+        Schachtel-Nr.: '' => '2'
+GEÄ  VII.194.:15. [ID 15, Dossier, E1, Eltern -, S.2] Biographie meines lieben Grossvaters Johann Hagenbuch, von meinem Vater Pfarrer Wild gedruckter Auszug | 
+        Schachtel-Nr.: '' => '2'
+GEÄ  VII.194.:16. [ID 16, Dossier, E1, Eltern -, S.2] Originalbrief von Pfarrer F. Häfelin, Wädenswil, an Pfarrer H. Wild, im Hirzel | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  VII.194.:17. [ID 17, Dossier, E1, Eltern -, S.2] Diverses | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'

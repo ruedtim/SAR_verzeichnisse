@@ -1,0 +1,450 @@
+### D10744: vorher 156 Einheiten, nachher 156 Einheiten
+GEÄ  V.F.c.29.:430.1.020. [ID 2, Serie, E2, Eltern V.F.c.29.:430.1., S.1] Organisatorische Grundlagen | 
+        Stufe: 'Dossier' => 'Serie'
+        [Prüfhinweise]
+           -Nummerierung beginnt bei 20.
+           -Kein Zeitraum gefunden.
+           +Kein Zeitraum gefunden (auch nicht in den Untereinheiten).
+GEÄ  V.F.c.29.:430.1.021. [ID 3, Dossier, E3, Eltern V.F.c.29.:430.1.020., S.1] Gesetzliche Grundlagen | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.020.'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.020.'
+GEÄ  V.F.c.29.:430.1.022. [ID 4, Dossier, E3, Eltern V.F.c.29.:430.1.020., S.1] Gesetze und Vorschriften des Kantons | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.020.'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.020.'
+GEÄ  V.F.c.29.:430.1.023.1. [ID 5, Dossier, E3, Eltern V.F.c.29.:430.1.020., S.1] Unterstellung des Sanitätskorps im Kriegsfall unter den Zivilschutz | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.020.'
+        [Prüfhinweise]
+           -Übergeordnete Signatur 430.1.023. fehlt im Findmittel; eingehängt unter 430.1.
+           -Kein Zeitraum gefunden.
+           +Übergeordnete Signatur 430.1.020.023. fehlt im Findmittel; eingehängt unter 430.1.020.
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.020.'
+GEÄ  V.F.c.29.:430.1.023.3. [ID 6, Dossier, E3, Eltern V.F.c.29.:430.1.020., S.1] Organisation der Sanität im Katastrophenfall (Mobilmachung / Chemie etc.) | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.020.'
+        [Prüfhinweise]
+           -Übergeordnete Signatur 430.1.023. fehlt im Findmittel; eingehängt unter 430.1.
+           -Kein Zeitraum gefunden.
+           +Übergeordnete Signatur 430.1.020.023. fehlt im Findmittel; eingehängt unter 430.1.020.
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.020.'
+GEÄ  V.F.c.29.:430.1.023.4. [ID 7, Dossier, E3, Eltern V.F.c.29.:430.1.020., S.1] Organisation und Aufgabe des Sanitätskorps Zürich / Studie 79 | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.020.'
+        [Prüfhinweise]
+           -Übergeordnete Signatur 430.1.023. fehlt im Findmittel; eingehängt unter 430.1.
+           -Kein Zeitraum gefunden.
+           +Übergeordnete Signatur 430.1.020.023. fehlt im Findmittel; eingehängt unter 430.1.020.
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.020.'
+GEÄ  V.F.c.29.:430.1.023.6. [ID 8, Dossier, E3, Eltern V.F.c.29.:430.1.020., S.1] Detailanalyse des Sanitätskorps durch die Firma Hayek | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.020.'
+        [Prüfhinweise]
+           -Übergeordnete Signatur 430.1.023. fehlt im Findmittel; eingehängt unter 430.1.
+           -Kein Zeitraum gefunden.
+           +Übergeordnete Signatur 430.1.020.023. fehlt im Findmittel; eingehängt unter 430.1.020.
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.020.'
+GEÄ  V.F.c.29.:430.1.023.7. [ID 9, Dossier, E3, Eltern V.F.c.29.:430.1.020., S.1] Neues Einsatzkonzept des Sanitätskorps, Ernennung eines Korpsarztes von Rettungswagen und Änderung des Masterplans Hayek | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.020.'
+        [Prüfhinweise]
+           -Übergeordnete Signatur 430.1.023. fehlt im Findmittel; eingehängt unter 430.1.
+           -Kein Zeitraum gefunden.
+           +Übergeordnete Signatur 430.1.020.023. fehlt im Findmittel; eingehängt unter 430.1.020.
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.020.'
+GEÄ  V.F.c.29.:430.1.023.8. [ID 10, Dossier, E3, Eltern V.F.c.29.:430.1.020., S.1] Schutz der Bevölkerung bei einem schweren Kernkraftwerkunfall, Vernehmlassung | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.020.'
+        [Prüfhinweise]
+           -Übergeordnete Signatur 430.1.023. fehlt im Findmittel; eingehängt unter 430.1.
+           -Kein Zeitraum gefunden.
+           +Übergeordnete Signatur 430.1.020.023. fehlt im Findmittel; eingehängt unter 430.1.020.
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.020.'
+GEÄ  V.F.c.29.:430.1.024. [ID 11, Dossier, E3, Eltern V.F.c.29.:430.1.020., S.1] Organigramme und Funktionsbeschreibungen Sanität | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.020.'
+        [Prüfhinweise]
+           -Kein Zeitraum gefunden.
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.020.'
+GEÄ  V.F.c.29.:430.1.026. [ID 12, Dossier, E3, Eltern V.F.c.29.:430.1.020., S.1] Dienstzeiterfassung, Projektantrag | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.020.'
+        [Prüfhinweise]
+           -Kein Zeitraum gefunden.
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.020.'
+GEÄ  V.F.c.29.:430.1.600. [ID 13, Serie, E2, Eltern V.F.c.29.:430.1., S.2] Personelles | 
+        Stufe: 'Dossier' => 'Serie'
+        [Prüfhinweise]
+           -Nummerierung springt: nach 26 folgt 600. Möglicher Tippfehler in der Signatur.
+           -Kein Zeitraum gefunden.
+           +Nummerierung springt: nach 20 folgt 600. Möglicher Tippfehler in der Signatur.
+           +Kein Zeitraum gefunden (auch nicht in den Untereinheiten).
+GEÄ  V.F.c.29.:430.1.601. [ID 14, Serie, E3, Eltern V.F.c.29.:430.1.600., S.2] Arbeitsrechtliche und Besoldungsgrundlagen | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.600.'
+        Prüfhinweise: 'Kein Zeitraum gefunden (auch nicht in den Untereinheiten).' => ''
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.600.'
+GEÄ  V.F.c.29.:430.1.601.1. [ID 15, Dossier, E4, Eltern V.F.c.29.:430.1.601., S.2] Dauer der Probezeit für Sanitätsmänner generell | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.601.2. [ID 16, Dossier, E4, Eltern V.F.c.29.:430.1.601., S.2] Bewilligung zur Ausübung einer Nebenbeschäftigung | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.601.3. [ID 17, Dossier, E4, Eltern V.F.c.29.:430.1.601., S.2] Anwendung der Vorschriften über die Besetzung von Stellen und Beförderung bei der Sanität | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.601.4. [ID 18, Dossier, E4, Eltern V.F.c.29.:430.1.601., S.2] Personalverband LFSA 1, Begehren um Verbesserung der Anstellungsbedingungen | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.601.5. [ID 19, Dossier, E4, Eltern V.F.c.29.:430.1.601., S.2] Personalverband VPOD 2, Personalfragen | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.601.6. [ID 20, Dossier, E4, Eltern V.F.c.29.:430.1.601., S.2] Rückerstattung von Ausbildungskosten | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.601.7. [ID 21, Dossier, E4, Eltern V.F.c.29.:430.1.601., S.2] Personalfragen der Sanität | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.601.8. [ID 22, Dossier, E4, Eltern V.F.c.29.:430.1.601., S.2] Gesundheitliche Probleme, Unfälle des Personals, Gratisverarztung | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.601.9. [ID 23, Dossier, E4, Eltern V.F.c.29.:430.1.601., S.2] Dienstchef Sanität im Zivilschutz3 | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.605. [ID 24, Serie, E3, Eltern V.F.c.29.:430.1.600., S.2] Stellenplanung | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.600.'
+        [Prüfhinweise]
+           -Kein Zeitraum gefunden (auch nicht in den Untereinheiten).
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.600.'
+GEÄ  V.F.c.29.:430.1.605.1. [ID 25, Dossier, E4, Eltern V.F.c.29.:430.1.605., S.2] Anstellungen beim Sanitätskorps | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.605.2. [ID 26, Dossier, E4, Eltern V.F.c.29.:430.1.605., S.2] Übertragung der Funktion des Korpsarztes der Sanität an einen Oberarzt im Triemli | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.605.3. [ID 27, Dossier, E4, Eltern V.F.c.29.:430.1.605., S.2] Stellenschaffung | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.608. [ID 28, Dossier, E3, Eltern V.F.c.29.:430.1.600., S.2] Anschaffung von Kleidern / Reinigung | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.600.'
+        [Prüfhinweise]
+           -Kein Zeitraum gefunden.
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.600.'
+GEÄ  V.F.c.29.:430.1.609. [ID 29, Serie, E3, Eltern V.F.c.29.:430.1.600., S.2] Vergütungen, Zulagen | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.600.'
+        Prüfhinweise: 'Kein Zeitraum gefunden (auch nicht in den Untereinheiten).' => ''
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.600.'
+GEÄ  V.F.c.29.:430.1.609.1. [ID 30, Dossier, E4, Eltern V.F.c.29.:430.1.609., S.2] Wegzeitvergütung bei Dienst auf Aussenposten | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.609.2. [ID 31, Dossier, E4, Eltern V.F.c.29.:430.1.609., S.2] Vergütungen für besondere Beanspruchung | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.609.3. [ID 32, Dossier, E4, Eltern V.F.c.29.:430.1.609., S.2] Essensvergütung bei angeordneter Überzeit im Schichtdienst | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.609.4. [ID 33, Dossier, E4, Eltern V.F.c.29.:430.1.609., S.2] Guthaben an Überzeit und Ruhetagen | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.609.5. [ID 34, Dossier, E4, Eltern V.F.c.29.:430.1.609., S.2] Gefahrenzulage für das Sanitätskorps | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.609.6. [ID 35, Dossier, E4, Eltern V.F.c.29.:430.1.609., S.2] Bereitschaftsdienst | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.609.7. [ID 36, Dossier, E4, Eltern V.F.c.29.:430.1.609., S.2] Stellvertretungszulagen an Sanitätsmänner mbA 4 für den Dienst in der Einsatzzentrale | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.609.8. [ID 37, Dossier, E4, Eltern V.F.c.29.:430.1.609., S.3] Ermässigte Krankentransporte für Angehörige der Sanität, Aufhebung einer Verfügung | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.610. [ID 38, Serie, E3, Eltern V.F.c.29.:430.1.600., S.3] Weiterbildung, Personalveranstaltungen etc. | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.600.'
+        Prüfhinweise: 'Kein Zeitraum gefunden (auch nicht in den Untereinheiten).' => ''
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.600.'
+GEÄ  V.F.c.29.:430.1.610.1. [ID 39, Dossier, E4, Eltern V.F.c.29.:430.1.610., S.3] Ausbildung der Sanitätsmänner | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.610.2. [ID 40, Dossier, E4, Eltern V.F.c.29.:430.1.610., S.3] Personalveranstaltungen, Tagungen, Dienst- und Studienreisen, Augenscheine | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.611. [ID 41, Dossier, E3, Eltern V.F.c.29.:430.1.600., S.3] Beschwerden | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.600.'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.600.'
+GEÄ  V.F.c.29.:430.1.700. [ID 42, Serie, E2, Eltern V.F.c.29.:430.1., S.3] Betriebsmittel | Genau (=)
+        Stufe: 'Dossier' => 'Serie'
+        Entstehungszeitraum: '' => 'Genau (=)'
+        von: '' => '1991'
+        Zeitraum-Quelle: '' => 'Untereinheiten'
+        [Prüfhinweise]
+           -Nummerierung springt: nach 611 folgt 700. Möglicher Tippfehler in der Signatur.
+           -Kein Zeitraum gefunden.
+           +Nummerierung springt: nach 600 folgt 700. Möglicher Tippfehler in der Signatur.
+GEÄ  V.F.c.29.:430.1.702. [ID 43, Serie, E3, Eltern V.F.c.29.:430.1.700., S.3] Bauten und Betriebsräumlichkeiten | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.700.'
+        [Prüfhinweise]
+           -Nummerierung springt: nach 700 folgt 702.
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.700.'
+GEÄ  V.F.c.29.:430.1.702.1. [ID 44, Dossier, E4, Eltern V.F.c.29.:430.1.702., S.3] Sauna für die Angehörigen des Sanitätskorps | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.702.2. [ID 45, Dossier, E4, Eltern V.F.c.29.:430.1.702., S.3] Umbau der Einsatzzentrale der Sanitätswache (Neumühlequai 40, Zürich 6) und Einführung des Sanitätsnotrufs Nr. 144 | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.702.3. [ID 46, Dossier, E4, Eltern V.F.c.29.:430.1.702., S.3] Gesamtplanung Sanität, Aufenthaltsräume | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.705. [ID 47, Serie, E3, Eltern V.F.c.29.:430.1.700., S.3] Fahrzeuge, Maschinen, Geräte, Mobilien | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.700.'
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.700.'
+GEÄ  V.F.c.29.:430.1.705.1. [ID 48, Dossier, E4, Eltern V.F.c.29.:430.1.705., S.3] An- und Verkauf von Fahrzeugen, Maschinen, Geräten und Mobilien | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.705.3. [ID 49, Dossier, E4, Eltern V.F.c.29.:430.1.705., S.3] Anschaffung von Personenwagen-Anhängern für den Transport von Katastrophenmaterial | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.705.4. [ID 50, Dossier, E4, Eltern V.F.c.29.:430.1.705., S.3] Umbau von alten VBZ 5 -Autobussen für den Transport in Katastrophensituationen | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.705.5. [ID 51, Dossier, E4, Eltern V.F.c.29.:430.1.705., S.3] Anschaffung von Geräten für die Ambulanzen | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.705.6. [ID 52, Dossier, E4, Eltern V.F.c.29.:430.1.705., S.3] Anschaffung eines Katastrophenzeltes für das Sanitätskorps | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.705.7. [ID 53, Dossier, E4, Eltern V.F.c.29.:430.1.705., S.3] Unterhalt und Pflege der Systemsoftware für den Einsatzleitrechner | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.705.8. [ID 54, Dossier, E4, Eltern V.F.c.29.:430.1.705., S.3] Funkausrüstung der städtischen Sanität mit Katastrophenkanal "K" | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.705.9. [ID 55, Dossier, E4, Eltern V.F.c.29.:430.1.705., S.3] Erweiterung der Nixdorfcomputeranlage bei der Sanität | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.706. [ID 56, Dossier, E3, Eltern V.F.c.29.:430.1.700., S.3] Unterhalt von Fahrzeugen, Maschinen, Geräten und Mobilien | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.700.'
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.700.'
+GEÄ  V.F.c.29.:430.1.710. [ID 57, Serie, E3, Eltern V.F.c.29.:430.1.700., S.4] Betriebsfragen, Diverse (Drogeneinsätze, Telealarm) | Genau (=)
+        Stufe: 'Dossier' => 'Serie'
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.700.'
+        Entstehungszeitraum: '' => 'Genau (=)'
+        von: '' => '1991'
+        Zeitraum-Quelle: '' => 'Untereinheiten'
+        [Prüfhinweise]
+           -Kein Zeitraum gefunden.
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.700.'
+GEÄ  V.F.c.29.:430.1.711. [ID 58, Serie, E4, Eltern V.F.c.29.:430.1.710., S.4] Einsatzkonzepte, Katastrophendienst, Platzspitzeinsätze | 
+        Ebene: '2' => '4'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.710.'
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.710.'
+GEÄ  V.F.c.29.:430.1.711.1. [ID 59, Dossier, E5, Eltern V.F.c.29.:430.1.711., S.4] Arbeitsgruppe "Einsatzkonzept der Sanität" (Rettungswagen, Sanitätsnotrufnummer) | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.711.2. [ID 60, Dossier, E5, Eltern V.F.c.29.:430.1.711., S.4] Katastrophenplanung, Auswirkung auf GI 6, insbesondere Sanitätsimmissionsschutz | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.711.3. [ID 61, Dossier, E5, Eltern V.F.c.29.:430.1.711., S.4] Platzspitzeinsätze | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.712. [ID 62, Serie, E4, Eltern V.F.c.29.:430.1.710., S.4] Krankentransporte | 
+        Ebene: '2' => '4'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.710.'
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.710.'
+GEÄ  V.F.c.29.:430.1.712.1. [ID 63, Dossier, E5, Eltern V.F.c.29.:430.1.712., S.4] Krankentransportverträge | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.712.2. [ID 64, Dossier, E5, Eltern V.F.c.29.:430.1.712., S.4] Angebot der Firma Welti-Furrer AG für die Übernahme des Sanitätsdienstes auf dem Platze Zürich | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.712.3. [ID 65, Dossier, E5, Eltern V.F.c.29.:430.1.712., S.4] Krankentransport durch Private | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.712.4. [ID 66, Dossier, E5, Eltern V.F.c.29.:430.1.712., S.4] Drogenstatistik | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.712.5. [ID 67, Dossier, E5, Eltern V.F.c.29.:430.1.712., S.4] Vereinbarung zwischen dem Sanitätskorps und der Samaritervereinigung | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.713. [ID 68, Serie, E4, Eltern V.F.c.29.:430.1.710., S.4] Betrieb des Kardiomobils | 
+        Ebene: '2' => '4'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.710.'
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.710.'
+GEÄ  V.F.c.29.:430.1.713.1. [ID 69, Dossier, E5, Eltern V.F.c.29.:430.1.713., S.4] Korrespondenzen | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.713.2. [ID 70, Dossier, E5, Eltern V.F.c.29.:430.1.713., S.4] Richtlinien | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.714. [ID 71, Serie, E4, Eltern V.F.c.29.:430.1.710., S.4] Sanitätsdienst im öffentlichen Verkehr | 
+        Ebene: '2' => '4'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.710.'
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.710.'
+GEÄ  V.F.c.29.:430.1.714.1. [ID 72, Dossier, E5, Eltern V.F.c.29.:430.1.714., S.4] Befahren der Busspuren durch Sanitätsautos im normalen Katastrophen-Einsatz | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.714.2. [ID 73, Dossier, E5, Eltern V.F.c.29.:430.1.714., S.4] Eigentrasse VBZ und Sanität zwischen Lochergut und Albisriederplatz | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.714.3. [ID 74, Dossier, E5, Eltern V.F.c.29.:430.1.714., S.4] Behinderung der Ambulanzen bei der Zufahrt zum Kantonsspital | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.714.4. [ID 75, Dossier, E5, Eltern V.F.c.29.:430.1.714., S.4] Verkehrskonzept nach Eröffnung des Milchbucktunnels / Massnahmen während der Ausbauarbeiten | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.714.5. [ID 76, Dossier, E5, Eltern V.F.c.29.:430.1.714., S.4] Unfall-Transportkarte der Stadt Zürich | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.714.6. [ID 77, Dossier, E5, Eltern V.F.c.29.:430.1.714., S.4] Anordnung einer Strassenverkehrssignalisation vor der Praxis von Dr. med. Gabriel Caro | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.714.7. [ID 78, Dossier, E5, Eltern V.F.c.29.:430.1.714., S.4] Aufbewahrung von Tonbändern | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.714.8. [ID 79, Dossier, E5, Eltern V.F.c.29.:430.1.714., S.4] Verkehrsberuhigung in Wohnquartieren | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.714.9. [ID 80, Dossier, E5, Eltern V.F.c.29.:430.1.714., S.4] Benützung von Tram und Bus durch Behinderte | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.714.10. [ID 81, Dossier, E5, Eltern V.F.c.29.:430.1.714., S.4] Katastrophenvorsorge im Kanton Zug | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.714.11. [ID 82, Dossier, E5, Eltern V.F.c.29.:430.1.714., S.5] Abstellordnung bei Taxistandplätzen des Hotels Zürich vor der Sanitätswache | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.714.12. [ID 83, Dossier, E5, Eltern V.F.c.29.:430.1.714., S.5] Krankentransportaufträge von Spitälern | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.714.13. [ID 84, Dossier, E5, Eltern V.F.c.29.:430.1.714., S.5] Notfallfahrten der Sanität, Bestimmungen | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.715. [ID 85, Serie, E4, Eltern V.F.c.29.:430.1.710., S.5] Studien über Unfallverhütung und Unfallfolgen | Genau (=)
+        Ebene: '2' => '4'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.710.'
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.710.'
+GEÄ  V.F.c.29.:430.1.715.1. [ID 86, Dossier, E5, Eltern V.F.c.29.:430.1.715., S.5] Einsatz des Sanitätskorps bei Grosseinsätzen der Katastrophenorganisation | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.715.2. [ID 87, Dossier, E5, Eltern V.F.c.29.:430.1.715., S.5] Bericht: Brand im Hirschengrabentunnel | Genau (=)
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.715.3. [ID 88, Dossier, E5, Eltern V.F.c.29.:430.1.715., S.5] Studie der ETH 7 über Unfallverhütung und Unfallfolgen | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.716. [ID 89, Serie, E4, Eltern V.F.c.29.:430.1.710., S.5] Ausbildung | 
+        Ebene: '2' => '4'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.710.'
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.710.'
+GEÄ  V.F.c.29.:430.1.716.1. [ID 90, Dossier, E5, Eltern V.F.c.29.:430.1.716., S.5] Fortbildungskurs für Ärzte an Unfall- und Katastrophenfällen | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.716.4. [ID 91, Dossier, E5, Eltern V.F.c.29.:430.1.716., S.5] Ausbildung der Alarmsamariter | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.716.5. [ID 92, Dossier, E5, Eltern V.F.c.29.:430.1.716., S.5] Nothelferkurse für städtisches Personal | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.716.6. [ID 93, Dossier, E5, Eltern V.F.c.29.:430.1.716., S.5] Praktikum für Krankenpfleger | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.716.7. [ID 94, Dossier, E5, Eltern V.F.c.29.:430.1.716., S.5] Ausbildung der Sanitätsmänner / Verabreichung von Injektionen und Infusionen | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.716.8. [ID 95, Dossier, E5, Eltern V.F.c.29.:430.1.716., S.5] Ausbildung Laien-Samariter | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.716.9. [ID 96, Dossier, E5, Eltern V.F.c.29.:430.1.716., S.5] Kursausbildung Dritter | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.717. [ID 97, Serie, E4, Eltern V.F.c.29.:430.1.710., S.5] Notruf, Zugriff des Sanitätskorps auf Einwohnerkontrolldaten, Datenschutz | 
+        Ebene: '2' => '4'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.710.'
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.710.'
+GEÄ  V.F.c.29.:430.1.717.1. [ID 98, Dossier, E5, Eltern V.F.c.29.:430.1.717., S.5] Notruf | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.717.2. [ID 99, Dossier, E5, Eltern V.F.c.29.:430.1.717., S.5] Bildschirmanschluss der Einsatzzentralen des Sanitätskorps an die Datenbank der Einwohner- und Fremdenkontrolle | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.717.3. [ID 100, Dossier, E5, Eltern V.F.c.29.:430.1.717., S.5] Zentralstelle EDV 8, Datenschutzabgabe von Daten des Einsatzrechners der Stadtpolizei an das Sanitätskorps | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.718. [ID 101, Serie, E4, Eltern V.F.c.29.:430.1.710., S.5] Desinfektion | 
+        Ebene: '2' => '4'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.710.'
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.710.'
+GEÄ  V.F.c.29.:430.1.718.1. [ID 102, Dossier, E5, Eltern V.F.c.29.:430.1.718., S.5] Verträge und anderes | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.718.2. [ID 103, Dossier, E5, Eltern V.F.c.29.:430.1.718., S.5] Übernahme des Desinfektionsdienstes für die Gemeinde Dübendorf | 
+        Ebene: '3' => '5'
+GEÄ  V.F.c.29.:430.1.733. [ID 104, Serie, E3, Eltern V.F.c.29.:430.1.700., S.5] Finanzielles | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.700.'
+        [Prüfhinweise]
+           -Nummerierung springt: nach 718 folgt 733. Möglicher Tippfehler in der Signatur.
+           +Nummerierung springt: nach 710 folgt 733. Möglicher Tippfehler in der Signatur.
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.700.'
+GEÄ  V.F.c.29.:430.1.733.0. [ID 105, Dossier, E4, Eltern V.F.c.29.:430.1.733., S.5] Transporte von Verunfallten und Leichen | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.733.1a. [ID 106, Dossier, E4, Eltern V.F.c.29.:430.1.733., S.5] Allgemeine Sanitätstarife | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.733.1b. [ID 107, Dossier, E4, Eltern V.F.c.29.:430.1.733., S.6] Krankentransporttarife, Revision Krankentransporttarif | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.733.1c. [ID 108, Dossier, E4, Eltern V.F.c.29.:430.1.733., S.6] Sondertarife der Sanität (Isolettentransporte etc.) | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.733.2. [ID 109, Dossier, E4, Eltern V.F.c.29.:430.1.733., S.6] Gesuch um Reduktion oder Abschreibung von Forderungen | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.733.3. [ID 110, Dossier, E4, Eltern V.F.c.29.:430.1.733., S.6] Verrechnung einer Behandlungstaxe für den Kardiomobileinsatz | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.733.4. [ID 111, Dossier, E4, Eltern V.F.c.29.:430.1.733., S.6] Gebühren für Beanspruchung der Sanität | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.733.7. [ID 112, Dossier, E4, Eltern V.F.c.29.:430.1.733., S.6] Behindertentransport zu tragbaren Tarifen | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.733.8. [ID 113, Dossier, E4, Eltern V.F.c.29.:430.1.733., S.6] Übernahme der Rechnungsstellung und des Inkassos der Forderungen der Sanität mit Mahn- und Regressverfahren durch das Amt für Sozialversicherung | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.733.9. [ID 114, Dossier, E4, Eltern V.F.c.29.:430.1.733., S.6] Rechnungsstellung der SUVA 9, Festsetzung einer Pauschale für Unfalltransporte von SUVA-Versicherten | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.733.10. [ID 115, Dossier, E4, Eltern V.F.c.29.:430.1.733., S.6] Rechnungstellung von Leerfahrten | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.733.11. [ID 116, Dossier, E4, Eltern V.F.c.29.:430.1.733., S.6] Kostenvergütung der Unfalltransporten von SUVA-Versicherten | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.733.13. [ID 117, Dossier, E4, Eltern V.F.c.29.:430.1.733., S.6] Bareinzug von Transportkosten | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.733.14. [ID 118, Dossier, E4, Eltern V.F.c.29.:430.1.733., S.6] Open-Air Konzert im Fussballstadion Hardturm | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.733.16. [ID 119, Dossier, E4, Eltern V.F.c.29.:430.1.733., S.6] Sanitätstarife | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.734. [ID 120, Dossier, E3, Eltern V.F.c.29.:430.1.700., S.6] Spende von Unbekannt für das Sanitätskorps | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.700.'
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.700.'
+GEÄ  V.F.c.29.:430.1.736. [ID 121, Dossier, E3, Eltern V.F.c.29.:430.1.700., S.6] Rechnungsabschlüsse | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.700.'
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.700.'
+GEÄ  V.F.c.29.:430.1.742. [ID 122, Serie, E3, Eltern V.F.c.29.:430.1.700., S.6] Parlamentarische Geschäfte | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.700.'
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.700.'
+GEÄ  V.F.c.29.:430.1.742.1. [ID 123, Dossier, E4, Eltern V.F.c.29.:430.1.742., S.6] Postulat von Otto Eisenring über die Durchführung von Nothelferkursen für Chauffeure im städtischen Dienst | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.742.2. [ID 124, Dossier, E4, Eltern V.F.c.29.:430.1.742., S.6] Interpellation von Kantonsrat Wolfgang Nigg über die Regionalsicherung der Krankentransporte | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.742.3. [ID 125, Dossier, E4, Eltern V.F.c.29.:430.1.742., S.6] Schriftliche Anfrage von Hans Reiser über mangelnde | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.742.4. [ID 126, Dossier, E4, Eltern V.F.c.29.:430.1.742., S.6] Schriftliche Anfrage von Jules Bochsler und Eduard | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.742.5. [ID 127, Dossier, E4, Eltern V.F.c.29.:430.1.742., S.6] Anregung von Gemeinderat Robert Bürgisser betreffend Erweiterung des Ärztefunkdienstes | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.742.6. [ID 128, Dossier, E4, Eltern V.F.c.29.:430.1.742., S.6] Anregung von Hans Zogg und Jakob Lechleiter über eine Nutzung der Sanitätshilfsstellen des Zivilschutzes in Friedenszeiten | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.742.7. [ID 129, Dossier, E4, Eltern V.F.c.29.:430.1.742., S.7] Interpellation von Dr. Bertold Rothschild über einen Vorfall beim psychiatrischen Notfalldienst | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.742.8. [ID 130, Dossier, E4, Eltern V.F.c.29.:430.1.742., S.7] Schriftliche Anfrage von Dr. Liselotte Meyer-Fröhlich über die Einführung der Sanitätsnotrufnummer 144 | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.742.9. [ID 131, Dossier, E4, Eltern V.F.c.29.:430.1.742., S.7] Interpellation von Ulrich Stiefel und Dr. Regula Pfister über die Erhöhung der Krankentransporttarife für die Aussengemeinden | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.742.10. [ID 132, Dossier, E4, Eltern V.F.c.29.:430.1.742., S.7] Schriftliche Anfrage von Werner Peter und Ernst Büchi über die Dezentralisierung des städtischen Sanitätskorps | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.744. [ID 133, Serie, E3, Eltern V.F.c.29.:430.1.700., S.7] Öffentlichkeitsarbeit | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.700.'
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.700.'
+GEÄ  V.F.c.29.:430.1.744.1. [ID 134, Dossier, E4, Eltern V.F.c.29.:430.1.744., S.7] Öffentlichkeitsarbeit und Pressemitteilungen | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.744.2. [ID 135, Dossier, E4, Eltern V.F.c.29.:430.1.744., S.7] Fernsehen und Filme | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.744.3. [ID 136, Dossier, E4, Eltern V.F.c.29.:430.1.744., S.7] Forschungsarbeit "Sanitätskorps der Stadt Zürich" von Robert Meili | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.744.4. [ID 137, Dossier, E4, Eltern V.F.c.29.:430.1.744., S.7] Bericht von A. Zurbrügg über den Besuch der Flughafensanität in Kloten | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.744.5. [ID 138, Dossier, E4, Eltern V.F.c.29.:430.1.744., S.7] Öffentlichkeitsarbeit: Verschiedenes | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.745. [ID 139, Serie, E3, Eltern V.F.c.29.:430.1.700., S.7] Öffentliche Veranstaltungen, Ausstellungen | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.700.'
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.700.'
+GEÄ  V.F.c.29.:430.1.745.1. [ID 140, Dossier, E4, Eltern V.F.c.29.:430.1.745., S.7] Besichtigung der Sanitätswache durch den Verantwortlichen für das Transportwesen des Staates Polen | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.745.2. [ID 141, Dossier, E4, Eltern V.F.c.29.:430.1.745., S.7] Einsatz Sanität bei diversen Veranstaltungen | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.745.3. [ID 142, Dossier, E4, Eltern V.F.c.29.:430.1.745., S.7] 100 Jahre Sanität Jubiläumsveranstaltung | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.747. [ID 143, Serie, E3, Eltern V.F.c.29.:430.1.700., S.7] Publikationen | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.700.'
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.700.'
+GEÄ  V.F.c.29.:430.1.747.1. [ID 144, Dossier, E4, Eltern V.F.c.29.:430.1.747., S.7] Jahresberichte | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.761. [ID 145, Serie, E3, Eltern V.F.c.29.:430.1.700., S.7] Behördliche Massnahmen: Klagen, Kontrollberichte, Verfügungen, Bussen, Einsprachen | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.700.'
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.700.'
+GEÄ  V.F.c.29.:430.1.761.1. [ID 146, Dossier, E4, Eltern V.F.c.29.:430.1.761., S.7] Beschwerden und Anregungen bei den Krankentransporten | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.761.2. [ID 147, Dossier, E4, Eltern V.F.c.29.:430.1.761., S.7] Tätlichkeiten gegen Sanitätsmänner und Beschädigung einer Ambulanz an der Vulkanstrasse beim Bahnhof Altstetten | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.761.3. [ID 148, Dossier, E4, Eltern V.F.c.29.:430.1.761., S.7] Administrativuntersuchung betreffend Sanität | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.761.4. [ID 149, Dossier, E4, Eltern V.F.c.29.:430.1.761., S.7] Ergänzung der Strassenbezeichnung "Hardhof" mit der Zusatztafel "Meierwiesenstrasse" | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.761.5. [ID 150, Dossier, E4, Eltern V.F.c.29.:430.1.761., S.7] Leichentransporte durch Bestattungsamt | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.761.6. [ID 151, Dossier, E4, Eltern V.F.c.29.:430.1.761., S.8] Transporte von Drogenabhängigen | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.761.7. [ID 152, Dossier, E4, Eltern V.F.c.29.:430.1.761., S.8] Seegfrörni | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.780. [ID 153, Serie, E3, Eltern V.F.c.29.:430.1.700., S.8] Vernehmlassungen zu Handen anderer Behörden und Amtsstellen | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.700.'
+        Eltern: 'V.F.c.29.:430.1.' => 'V.F.c.29.:430.1.700.'
+GEÄ  V.F.c.29.:430.1.780.1. [ID 154, Dossier, E4, Eltern V.F.c.29.:430.1.780., S.8] An Polizeivorstand betreffend Zentral-Ambulanz für Betrunkene | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.780.2. [ID 155, Dossier, E4, Eltern V.F.c.29.:430.1.780., S.8] An Polizeivorstand betreffend finanziellen | 
+        Ebene: '3' => '4'
+GEÄ  V.F.c.29.:430.1.780.3. [ID 156, Dossier, E4, Eltern V.F.c.29.:430.1.780., S.8] Kommission zur Koordination der städtischen übermittlungstechnischen Anlagen | 
+        Ebene: '3' => '4'

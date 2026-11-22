@@ -1,0 +1,81 @@
+### D414: vorher 20 Einheiten, nachher 20 Einheiten
+GEÄ  V.B.c.34.:5 [ID 5, Teilbestand, E1, Eltern -, S.1] Schachtel 5 | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Teilbestand'
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        [Prüfhinweise]
+           -Zeitraum aus den Jahreszahlen im Darin geschätzt.
+           +Die Gruppen nach dieser Schachtel («Die Aktensammlung ist gegliedert in folgende Gruppen:») als ihre Untereinheiten übernommen.
+GEÄ  V.B.c.34.:I. [ID 6, Dossier, E2, Eltern V.B.c.34.:5, S.2] Vorstösse im Gemeinderat vor dem Generalverkehrsplan | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.B.c.34.' => 'V.B.c.34.:5'
+        Eltern: '-' => 'V.B.c.34.:5'
+GEÄ  V.B.c.34.:II. [ID 7, Dossier, E2, Eltern V.B.c.34.:5, S.2] Generalverkehrsplan: Verhandlungen im Stadtrat | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.B.c.34.' => 'V.B.c.34.:5'
+        Schachtel-Nr.: '' => '5'
+        Eltern: '-' => 'V.B.c.34.:5'
+GEÄ  V.B.c.34.:III. [ID 8, Dossier, E2, Eltern V.B.c.34.:5, S.2] Generalverkehrsplan: Bekanntmachung und Diskussion im Gemeinderat | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.B.c.34.' => 'V.B.c.34.:5'
+        Schachtel-Nr.: '' => '5'
+        Eltern: '-' => 'V.B.c.34.:5'
+GEÄ  V.B.c.34.:IV. [ID 9, Dossier, E2, Eltern V.B.c.34.:5, S.2] Expressstrassen: Orientierung des Gemeinderates | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.B.c.34.' => 'V.B.c.34.:5'
+        Schachtel-Nr.: '' => '5'
+        Eltern: '-' => 'V.B.c.34.:5'
+GEÄ  V.B.c.34.:V. [ID 10, Dossier, E2, Eltern V.B.c.34.:5, S.2] Zusätzliche Informationen Gemeinderat | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.B.c.34.' => 'V.B.c.34.:5'
+        Schachtel-Nr.: '' => '5'
+        Eltern: '-' => 'V.B.c.34.:5'
+GEÄ  V.B.c.34.:VI. [ID 11, Dossier, E2, Eltern V.B.c.34.:5, S.2] Motionen von Stimmberechtigten | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.B.c.34.' => 'V.B.c.34.:5'
+        Schachtel-Nr.: '' => '5'
+        Eltern: '-' => 'V.B.c.34.:5'
+GEÄ  V.B.c.34.:VII. [ID 12, Dossier, E2, Eltern V.B.c.34.:5, S.2] Gemeinderat: Motionen | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.B.c.34.' => 'V.B.c.34.:5'
+        Schachtel-Nr.: '' => '5'
+        Eltern: '-' => 'V.B.c.34.:5'
+GEÄ  V.B.c.34.:VIII. [ID 13, Dossier, E2, Eltern V.B.c.34.:5, S.2] Gemeinderat: Anregungen | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.B.c.34.' => 'V.B.c.34.:5'
+        Schachtel-Nr.: '' => '5'
+        Eltern: '-' => 'V.B.c.34.:5'
+GEÄ  V.B.c.34.:IX. [ID 14, Dossier, E2, Eltern V.B.c.34.:5, S.2] Gemeinderat: Interpellationen | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.B.c.34.' => 'V.B.c.34.:5'
+        Schachtel-Nr.: '' => '5'
+        Eltern: '-' => 'V.B.c.34.:5'
+GEÄ  V.B.c.34.:X. [ID 15, Dossier, E2, Eltern V.B.c.34.:5, S.2] Gemeinderat: Schriftliche Anfragen | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.B.c.34.' => 'V.B.c.34.:5'
+        Schachtel-Nr.: '' => '5'
+        Eltern: '-' => 'V.B.c.34.:5'
+GEÄ  V.B.c.34.:XI. [ID 16, Dossier, E2, Eltern V.B.c.34.:5, S.2] Entlisberg | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.B.c.34.' => 'V.B.c.34.:5'
+        Schachtel-Nr.: '' => '5'
+        Eltern: '-' => 'V.B.c.34.:5'
+GEÄ  V.B.c.34.:XII. [ID 17, Dossier, E2, Eltern V.B.c.34.:5, S.2] Tiefbahn - U'Bahn - Generalverkehrsplan etc. | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.B.c.34.' => 'V.B.c.34.:5'
+        Schachtel-Nr.: '' => '5'
+        Eltern: '-' => 'V.B.c.34.:5'
+GEÄ  V.B.c.34.:XIII. [ID 18, Dossier, E2, Eltern V.B.c.34.:5, S.2] Regionalverkehr | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.B.c.34.' => 'V.B.c.34.:5'
+        Schachtel-Nr.: '' => '5'
+        Eltern: '-' => 'V.B.c.34.:5'
+GEÄ  V.B.c.34.:XIV. [ID 19, Dossier, E2, Eltern V.B.c.34.:5, S.2] Diverse Weisungen | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.B.c.34.' => 'V.B.c.34.:5'
+        Schachtel-Nr.: '' => '5'
+        Eltern: '-' => 'V.B.c.34.:5'
+GEÄ  V.B.c.34.:XV. [ID 20, Dossier, E2, Eltern V.B.c.34.:5, S.2] Y-Diskussion | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.B.c.34.' => 'V.B.c.34.:5'
+        Schachtel-Nr.: '' => '5'
+        Eltern: '-' => 'V.B.c.34.:5'

@@ -1,0 +1,35 @@
+### D2614: vorher 7 Einheiten, nachher 7 Einheiten
+GEÄ  V.L.162.:1 [ID 4, Dossier, E1, Eltern -, S.4] (1) Weltberühmtheiten in Zürich (1978/79) | Von/bis (>= x und <=y)
+        Titel: 'Schachtel 1' => '(1) Weltberühmtheiten in Zürich (1978/79)'
+        von: '1877' => '1978'
+        bis: '1983' => '1979'
+        Entstehungszeitraum, Anm.: '' => '1978/79'
+        [Darin]
+           -(1) Weltberühmtheiten in Zürich (1978/79); Ausstellung im Terminal B des Flughafens Kloten, Mai/Juni 1978 (5 Persönlichkeiten: Wagner, Spyri, Lenin, Einstein, 
+           +Ausstellung im Terminal B des Flughafens Kloten, Mai/Juni 1978 (5 Persönlichkeiten: Wagner, Spyri, Lenin, Einstein, Joyce)
+           +Ausstellung im Haus zum Rech, 16. Juni bis 4. August 1979
+        Schachtel-Nr.: '' => '1'
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Titel'
+        [Prüfhinweise]
+           -Zeitraum aus den Jahreszahlen im Darin geschätzt.
+GEÄ  V.L.162.:2 [ID 5, Dossier, E1, Eltern -, S.5] (1) Zürcher Publikumslieblinge | Von/bis (>= x und <=y)
+        Titel: 'Schachtel 2' => '(1) Zürcher Publikumslieblinge'
+        [Darin]
+           -(1) Zürcher Publikumslieblinge; Ausstellung im Wohnmuseum Bärengasse Zürich, 17. Juli bis 30. August 1981
+           +Ausstellung im Wohnmuseum Bärengasse Zürich, 17. Juli bis 30. August 1981
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.L.162.:3 [ID 6, Dossier, E1, Eltern -, S.6] (1) Russland-Schweiz / Rossija-Svejcarija. Beziehungen und Begegnungen Ausstellung im Strauhof Zürich, 6. Juni | Von/bis (>= x und <=y)
+        Titel: 'Schachtel 3' => '(1) Russland-Schweiz / Rossija-Svejcarija. Beziehungen und Begegnungen Ausstellung im Strauhof Zürich, 6. Juni'
+        von: '1892' => ''
+        bis: '17.12.1990' => '30.07.1989'
+        Entstehungszeitraum, Anm.: '' => 'bis 30. Juli 1989'
+        [Darin]
+           -(1) Russland-Schweiz / Rossija-Svejcarija. Beziehungen und Begegnungen Ausstellung im Strauhof Zürich, 6. Juni bis 30. Juli 1989
+        Schachtel-Nr.: '' => '3'
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Titel'
+        [Prüfhinweise]
+           -Zeitraum aus den Jahreszahlen im Darin geschätzt.
+           +Offener Zeitraum (nur Beginn oder nur Ende).
+GEÄ  V.L.162.:4 [ID 7, Dossier, E1, Eltern -, S.6] (Musikgeschichtliche Dokumentationen, "Berühmte Solisten", Varia) | Von/bis (>= x und <=y)
+        Titel: 'Schachtel 4 (Musikgeschichtliche Dokumentationen, "Berühmte Solisten", Varia)' => '(Musikgeschichtliche Dokumentationen, "Berühmte Solisten", Varia)'
+        Schachtel-Nr.: '' => '4'

@@ -1,0 +1,10 @@
+### D152404: vorher 8 Einheiten, nachher 10 Einheiten
+NEU  V.J.W.c.51.:VIII. [ID 9, Dossier, E1, Eltern -, S.1] Nachtrag: Geschichtliches aus dem alten Waisenhaus | 
+        H: Kein Zeitraum gefunden.
+NEU  V.J.W.c.51.:VIIIa. [ID 10, Dossier, E1, Eltern -, S.1] Inhalts-Verzeichnis und Sachregister | 
+        H: Kein Zeitraum gefunden.
+GEÄ  V.J.W.c.51.:VII. [ID 8, Dossier, E1, Eltern -, S.1] Mass- und Finanztabellen | Von/bis (>= x und <=y)
+        [Darin]
+           -V.J.W. c.51.:VIII. Nachtrag: Geschichtliches aus dem alten Waisenhaus
+           -V.J.W. c.51.:VIIIa. Inhalts-Verzeichnis und Sachregister
+           +

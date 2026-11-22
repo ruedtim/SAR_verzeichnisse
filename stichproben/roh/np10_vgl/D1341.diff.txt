@@ -1,0 +1,35 @@
+### D1341: vorher 19 Einheiten, nachher 19 Einheiten
+GEÄ  V.F.c.10.:2 [ID 2, Dossier, E1, Eltern -, S.1] Milch | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.F.c.10.:3 [ID 3, Dossier, E1, Eltern -, S.1] Molkereien | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.F.c.10.:4 [ID 4, Dossier, E1, Eltern -, S.1] Fleischschau (Schlachthaus) | Genau (=)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.F.c.10.:5 [ID 5, Dossier, E1, Eltern -, S.1] Stellung des Stadtchemikers | Genau (=)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.F.c.10.:6 [ID 6, Dossier, E1, Eltern -, S.1] 4 Uebersichtspläne über das durchschnittliche Todesalter vor Durchführung der Kloakenreform | Genau (=)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.F.c.10.:7 [ID 7, Dossier, E1, Eltern -, S.1] Impfwesen | Genau (=)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.F.c.10.:8 [ID 8, Dossier, E1, Eltern -, S.1] Schulausschluss | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.F.c.10.:10 [ID 10, Dossier, E1, Eltern -, S.1] Choleraabwehr | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.F.c.10.:11 [ID 11, Dossier, E1, Eltern -, S.1] Pocken | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.F.c.10.:12 [ID 12, Dossier, E1, Eltern -, S.1] Notbaracken | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.F.c.10.:13 [ID 13, Dossier, E1, Eltern -, S.1] Desinfektion | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.F.c.10.:14 [ID 14, Dossier, E1, Eltern -, S.1] Hardspital | Genau (=)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.F.c.10.:15 [ID 15, Dossier, E1, Eltern -, S.1] Desinfektionsanstalt | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.F.c.10.:16 [ID 16, Dossier, E1, Eltern -, S.1] Evakuationslokal | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.F.c.10.:17 [ID 17, Dossier, E1, Eltern -, S.1] Stadtbad | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.F.c.10.:18 [ID 18, Dossier, E1, Eltern -, S.1] Verschiedene ältere Akten | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.F.c.10.:19 [ID 19, Dossier, E1, Eltern -, S.1] Formulare, Zirkulare, Entwürfe | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'II'

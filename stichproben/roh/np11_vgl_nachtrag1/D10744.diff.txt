@@ -1,0 +1,11 @@
+### D10744: vorher 153 Einheiten, nachher 156 Einheiten
+NEU  V.F.c.29.:430.1.733.1a. [ID 106, Dossier, E3, Eltern V.F.c.29.:430.1.733., S.5] Allgemeine Sanitätstarife | 
+NEU  V.F.c.29.:430.1.733.1b. [ID 107, Dossier, E3, Eltern V.F.c.29.:430.1.733., S.6] Krankentransporttarife, Revision Krankentransporttarif | 
+NEU  V.F.c.29.:430.1.733.1c. [ID 108, Dossier, E3, Eltern V.F.c.29.:430.1.733., S.6] Sondertarife der Sanität (Isolettentransporte etc.) | 
+GEÄ  V.F.c.29.:430.1.733.0. [ID 105, Dossier, E3, Eltern V.F.c.29.:430.1.733., S.5] Transporte von Verunfallten und Leichen | 
+        [Darin]
+           -430.1.733.1a Allgemeine Sanitätstarife, Schachtel 17
+           -430.1.733.1b Krankentransporttarife, Revision Krankentransporttarif, Schachtel 17
+           -430.1.733.1c Sondertarife der Sanität (Isolettentransporte etc.), Schachtel 17
+           +
+        Schachtel-Nr.: '16-17' => '16'

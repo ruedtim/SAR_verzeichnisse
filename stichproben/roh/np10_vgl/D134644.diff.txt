@@ -1,0 +1,92 @@
+### D134644: vorher 89 Einheiten, nachher 88 Einheiten
+WEG  VII.374.:2./T2 [ID 5, Dossier, E2, Eltern VII.374.:2., S.5] Manuskripte | Genau (=)
+WEG  VII.374.:11.1./T2 [ID 70, Dossier, E3, Eltern VII.374.:11.1., S.53] Gottfried Keller | 
+        D: Gottfried Keller, Schachtel 21
+NEU  VII.374.:10.1. [ID 55, Serie, E2, Eltern VII.374.:10., S.50] Stadt Zürich | 
+        D: Gesamtansicht der Stadt Zürich, Schachtel 16
+        H: Im Findmittel «11.1.», nach 10. und vor 10.1.1. aber 10.1. – Signatur angepasst, bitte prüfen.
+Kein Zeitraum gefunden (auch nicht in den Untereinheiten).
+GEÄ  VII.374.:1. [ID 1, Teilbestand, E1, Eltern -, S.5] Persönliches | Von/bis (>= x und <=y)
+        bis: '1964' => '03.10.2001'
+GEÄ  VII.374.:1.2. [ID 3, Dossier, E2, Eltern VII.374.:1., S.5] Verschiedenes | Von/bis (>= x und <=y)
+        Entstehungszeitraum: '' => 'Von/bis (>= x und <=y)'
+        von: '' => '1956'
+        bis: '' => '03.10.2001'
+        [Darin]
+           -
+           +2. Stammbuch der Libertas Turicensis, ca. 1956.
+           +75. Geburtstag von Walter Baumann (Rede, Gedicht).
+           +Aufsatzheft von Walter Baumann, Seminarstufe.
+           +Diplome d`honneur, verliehen an Walter Baumann im Mai 1979.
+           +Einladung zur Meistererhebung der Freimaurerloge von Zürich, 8. November 1969.
+           +Kino Passe-Partout für Walter Baumann, 1984.
+           +Todesanzeigen, Nachruf und Kondolenzschreiben auf den Tod von Walter
+           +Baumann, 3.10.2001.
+           +Tourismuspreis für die Region Zürich, verliehen an Walter Baumann für das Jahr
+           +1986.
+           +Zeichnungsmappe. Verschiedene Zeichnungen von Walter Baumann.
+        Zeitraum-Quelle: '' => 'Darin (geschätzt)'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => 'Zeitraum aus den Jahreszahlen im Darin geschätzt.'
+GEÄ  VII.374.:2. [ID 4, Teilbestand, E1, Eltern -, S.5] Manuskripte | Von/bis (>= x und <=y)
+        Titel: 'Stammbuch der Libertas Turicensis' => 'Manuskripte'
+        Entstehungszeitraum: 'Genau (=)' => 'Von/bis (>= x und <=y)'
+        von: '1956' => '1893'
+        bis: '' => '1992'
+        Entstehungszeitraum, Anm.: 'ca. 1956' => ''
+        [Darin]
+           -75. Geburtstag von Walter Baumann (Rede, Gedicht).
+           -Aufsatzheft von Walter Baumann, Seminarstufe.
+           -Diplome d`honneur, verliehen an Walter Baumann im Mai 1979.
+           -Einladung zur Meistererhebung der Freimaurerloge von Zürich, 8. November 1969.
+           -Kino Passe-Partout für Walter Baumann, 1984.
+           -Todesanzeigen, Nachruf und Kondolenzschreiben auf den Tod von Walter
+           -Baumann, 3.10.2001.
+           -Tourismuspreis für die Region Zürich, verliehen an Walter Baumann für das Jahr
+           -1986.
+           -Zeichnungsmappe. Verschiedene Zeichnungen von Walter Baumann.
+           +
+        Zeitraum-Quelle: 'Titel' => 'Untereinheiten (geschätzt)'
+        Prüfhinweise: 'Untereinheiten reichen über den Zeitraum hinaus (1956–1989).' => 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.'
+GEÄ  VII.374.:10.1.1. [ID 56, Dossier, E3, Eltern VII.374.:10.1., S.50] Rechtes Limmatufer (grosse Stadt) | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'VII.374.:10.' => 'VII.374.:10.1.'
+        [Prüfhinweise]
+           -Übergeordnete Signatur 10.1. fehlt im Findmittel; eingehängt unter 10.
+           -Kein Zeitraum gefunden.
+           +
+        Eltern: 'VII.374.:10.' => 'VII.374.:10.1.'
+GEÄ  VII.374.:10.1.2. [ID 57, Dossier, E3, Eltern VII.374.:10.1., S.50] Linkes Limmatufer (Kleine Stadt) | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'VII.374.:10.' => 'VII.374.:10.1.'
+        [Prüfhinweise]
+           -Übergeordnete Signatur 10.1. fehlt im Findmittel; eingehängt unter 10.
+           -Kein Zeitraum gefunden.
+           +
+        Eltern: 'VII.374.:10.' => 'VII.374.:10.1.'
+GEÄ  VII.374.:10.1.3. [ID 58, Dossier, E3, Eltern VII.374.:10.1., S.50] Bahnhofstrasse | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'VII.374.:10.' => 'VII.374.:10.1.'
+        [Prüfhinweise]
+           -Übergeordnete Signatur 10.1. fehlt im Findmittel; eingehängt unter 10.
+           -Kein Zeitraum gefunden.
+           +
+        Eltern: 'VII.374.:10.' => 'VII.374.:10.1.'
+GEÄ  VII.374.:10.1.4. [ID 59, Dossier, E3, Eltern VII.374.:10.1., S.50] Eingemeindete Vororte | 
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'VII.374.:10.' => 'VII.374.:10.1.'
+        [Prüfhinweise]
+           -Übergeordnete Signatur 10.1. fehlt im Findmittel; eingehängt unter 10.
+           -Kein Zeitraum gefunden.
+           +
+        Eltern: 'VII.374.:10.' => 'VII.374.:10.1.'
+GEÄ  VII.374.:10.2. [ID 60, Dossier, E2, Eltern VII.374.:10., S.51] Verkehrsmittel | 
+        [Prüfhinweise]
+           -Nummerierung beginnt bei 2.
+GEÄ  VII.374.:11.1. [ID 69, Dossier, E2, Eltern VII.374.:11., S.53] Gottfried Keller | 
+        Titel: 'Stadt Zürich' => 'Gottfried Keller'
+        Stufe: 'Serie' => 'Dossier'
+        [Darin]
+           -Gesamtansicht der Stadt Zürich, Schachtel 16
+           +Gottfried Keller, Schachtel 21
+        Schachtel-Nr.: '16' => '21'
+        PDF-Seite: '50' => '53'

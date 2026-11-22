@@ -1,0 +1,4 @@
+### D175454: vorher 78 Einheiten, nachher 78 Einheiten
+GEÄ  V.L.82.:4.4. [ID 78, Dossier, E2, Eltern V.L.82.:4., S.7] (1) | Von/bis (>= x und <=y)
+        [Prüfhinweise]
+           +Nach der letzten Einheit steht im Findmittel ein Absatz ohne Signatur («Die Literatur bis 1968 ist verzeichnet bei:» …) – hier im Darin übernommen, bitte prüfe

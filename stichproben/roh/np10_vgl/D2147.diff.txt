@@ -1,0 +1,13 @@
+### D2147: vorher 8 Einheiten, nachher 8 Einheiten
+GEÄ  V.H.c.59.:2. [ID 2, Dossier, E1, Eltern -, S.1] Erhebungen über Stotterer | Genau (=)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.H.c.59.:3. [ID 3, Dossier, E1, Eltern -, S.1] Erhebungen über Dispensationserklärungen vom Religionsunterricht in der Alltagsschule | Genau (=)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.H.c.59.:4. [ID 4, Dossier, E1, Eltern -, S.1] Augenuntersuchungen schulpflichtiger Kinder beim Schuleintritt 1889 und beim Schulaustritt | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.H.c.59.:5. [ID 5, Dossier, E1, Eltern -, S.1] Erhebungen über Einrichtungen von Schulsparkassen | Genau (=)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.H.c.59.:7. [ID 7, Dossier, E1, Eltern -, S.1] Erhebung über die Landesangehörigkeit der Schüler der Stadt Zürich | Genau (=)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.H.c.59.:8. [ID 8, Dossier, E1, Eltern -, S.1] Ergebnisse der Erhebung betreffend die Beschäftigung der Schüler und Schülerinnen der stadtzürcherischen Ergänzungsschule in der schulfreien Zeit (Mitte Dezembe | Genau (=)
+        Schachtel-Nr.: '' => '2'

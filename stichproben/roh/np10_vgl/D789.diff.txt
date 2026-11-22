@@ -1,0 +1,109 @@
+### D789: vorher 60 Einheiten, nachher 60 Einheiten
+GEÄ  V.C.c.13.:2. [ID 2, Dossier, E1, Eltern -, S.1] Rechnungsführung und Rechnungsrevision | Genau (=)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.C.c.13.:3. [ID 3, Dossier, E1, Eltern -, S.1] Formulare und Schemata für das Rechnungswesen | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.C.c.13.:4. [ID 4, Dossier, E1, Eltern -, S.1] Drucksachen der Zentralverwaltung | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.C.c.13.:5. [ID 5, Dossier, E1, Eltern -, S.1] Formulare von Obligationen, Coupons, Subskriptionsscheinen u.s.w. | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.C.c.13.:7. [ID 7, Dossier, E1, Eltern -, S.1] Anleihen von Fr. 4'000'000. | Genau (=)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.C.c.13.:8. [ID 8, Dossier, E1, Eltern -, S.1] Anleihen von Fr. 5'000'000. | Genau (=)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.C.c.13.:9. [ID 9, Dossier, E1, Eltern -, S.1] Anleihen betreffend die Rechtsufrige Seebahn | Genau (=)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.C.c.13.:10. [ID 10, Dossier, E1, Eltern -, S.1] Anleihen von Fr. 5'000'000. | Genau (=)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.C.c.13.:11. [ID 11, Dossier, E1, Eltern -, S.1] Anleihen von Fr. 1'000'000. | Genau (=)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.C.c.13.:12. [ID 12, Dossier, E1, Eltern -, S.1] Anleihen von Fr. 25'000'000. | Genau (=)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.C.c.13.:13. [ID 13, Dossier, E1, Eltern -, S.2] Finanzplan für | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.C.c.13.:14. [ID 14, Dossier, E1, Eltern -, S.2] Eisenbahnsubventionen | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.C.c.13.:15. [ID 15, Dossier, E1, Eltern -, S.2] Zinserhöhungen bei den Schuldbriefen der allgemeinen bürgerlichen Güter und Stiftungen | Genau (=)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.C.c.13.:17. [ID 17, Dossier, E1, Eltern -, S.2] Einzugsgebühren neuer Bürger | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'III'
+GEÄ  V.C.c.13.:18. [ID 18, Dossier, E1, Eltern -, S.2] Gebühren | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'III'
+GEÄ  V.C.c.13.:19. [ID 19, Dossier, E1, Eltern -, S.2] Formular eines Handlehenerteilungsbriefes | Genau (=)
+        Schachtel-Nr.: '' => 'III'
+GEÄ  V.C.c.13.:20. [ID 20, Dossier, E1, Eltern -, S.2] Zustand der städtischen Güterlehen | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'III'
+GEÄ  V.C.c.13.:21. [ID 21, Dossier, E1, Eltern -, S.2] Städtische Gebäude und Liegenschaften | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'III'
+GEÄ  V.C.c.13.:22. [ID 22, Dossier, E1, Eltern -, S.2] Erwerb des Ladens an der Fraumünsterkirche gegenüber dem Kornhaus | Genau (=)
+        Schachtel-Nr.: '' => 'III'
+GEÄ  V.C.c.13.:23. [ID 23, Dossier, E1, Eltern -, S.2] Verträge betr. den Erwerb von Liegenschaften durch die Stadt | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'III'
+GEÄ  V.C.c.13.:24. [ID 24, Dossier, E1, Eltern -, S.2] Kauf des Dienerschen Gewerbes im Hard | Genau (=)
+        Schachtel-Nr.: '' => 'III'
+GEÄ  V.C.c.13.:25. [ID 25, Dossier, E1, Eltern -, S.2] Kauf des Teilerschen Gewerbes im Hard | Genau (=)
+        Schachtel-Nr.: '' => 'III'
+GEÄ  V.C.c.13.:26. [ID 26, Dossier, E1, Eltern -, S.2] Wirtschaftsmobiliar im Strohof | Genau (=)
+        Schachtel-Nr.: '' => 'III'
+GEÄ  V.C.c.13.:27. [ID 27, Dossier, E1, Eltern -, S.2] Kauf, Verkauf und Expropriation von Liegenschaften im Spitalquartier | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'III'
+GEÄ  V.C.c.13.:28. [ID 28, Dossier, E1, Eltern -, S.2] Verkauf von Maschinen der ehemaligen Reutlingerschen Färberei im Niederdorf | Genau (=)
+        Schachtel-Nr.: '' => 'III'
+GEÄ  V.C.c.13.:29. [ID 29, Dossier, E1, Eltern -, S.2] Erwerb der Baumeisterschen Liegenschaft im Seefeld | Genau (=)
+        Schachtel-Nr.: '' => 'III'
+GEÄ  V.C.c.13.:30. [ID 30, Dossier, E1, Eltern -, S.2] Abrechnungen betr. die Einzinserei über Liegenschaften am Häringsplatz | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'III'
+GEÄ  V.C.c.13.:31. [ID 31, Dossier, E1, Eltern -, S.2] Erwerb der Häuser von Nägeli-Senn an der Kappelergasse | Genau (=)
+        Schachtel-Nr.: '' => 'III'
+GEÄ  V.C.c.13.:32. [ID 32, Dossier, E1, Eltern -, S.3] Konsortialgeschäft betr. Ankauf von Nordostbahn-Obligationen | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'III'
+GEÄ  V.C.c.13.:34. [ID 34, Dossier, E1, Eltern -, S.3] Uebergabeakten betr. die Stiftung Schnyder von Wartensee | Genau (=)
+        Schachtel-Nr.: '' => 'IV'
+GEÄ  V.C.c.13.:35. [ID 35, Dossier, E1, Eltern -, S.3] Rechte und Verpflichtungen der Stadt | Genau (=)
+        Schachtel-Nr.: '' => 'IV'
+GEÄ  V.C.c.13.:36. [ID 36, Dossier, E1, Eltern -, S.3] Amtskautionen der städtischen | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'IV'
+GEÄ  V.C.c.13.:37. [ID 37, Dossier, E1, Eltern -, S.3] Besoldungen | Genau (=)
+        Schachtel-Nr.: '' => 'IV'
+GEÄ  V.C.c.13.:38. [ID 38, Dossier, E1, Eltern -, S.3] Verteilung der Metzgbänke in der Fleischverkaufhalle an die Metzgerschaft und die Stadt zu Eigentum | Genau (=)
+        Schachtel-Nr.: '' => 'IV'
+GEÄ  V.C.c.13.:39. [ID 39, Dossier, E1, Eltern -, S.3] Schlachthaus | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'IV'
+GEÄ  V.C.c.13.:40. [ID 40, Dossier, E1, Eltern -, S.3] Laboratorium | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'IV'
+GEÄ  V.C.c.13.:41. [ID 41, Dossier, E1, Eltern -, S.3] Abfuhrunternehmung | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'IV'
+GEÄ  V.C.c.13.:42. [ID 42, Dossier, E1, Eltern -, S.3] Friedhöfe | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'IV'
+GEÄ  V.C.c.13.:43. [ID 43, Dossier, E1, Eltern -, S.3] Wasserversorgung | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'IV'
+GEÄ  V.C.c.13.:44. [ID 44, Dossier, E1, Eltern -, S.3] Gaswerk | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'IV'
+GEÄ  V.C.c.13.:45. [ID 45, Dossier, E1, Eltern -, S.3] Elektrizitätswerk | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'IV'
+GEÄ  V.C.c.13.:47. [ID 47, Dossier, E1, Eltern -, S.3] Neupflästerung der Strassen | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'V'
+GEÄ  V.C.c.13.:48. [ID 48, Dossier, E1, Eltern -, S.3] Korrektion der Rämistrasse | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'V'
+GEÄ  V.C.c.13.:49. [ID 49, Dossier, E1, Eltern -, S.3] Kappelerhofareal | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'V'
+GEÄ  V.C.c.13.:50. [ID 50, Dossier, E1, Eltern -, S.3] Quartieranlagen am See | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'V'
+GEÄ  V.C.c.13.:51. [ID 51, Dossier, E1, Eltern -, S.3] Seequai | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'V'
+GEÄ  V.C.c.13.:52. [ID 52, Dossier, E1, Eltern -, S.4] Erstellung von Badanstalten | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'V'
+GEÄ  V.C.c.13.:53. [ID 53, Dossier, E1, Eltern -, S.4] Materialverwaltung | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'V'
+GEÄ  V.C.c.13.:54. [ID 54, Dossier, E1, Eltern -, S.4] Verträge betr. Besorgung von städtischen Verwaltungsgebäuden | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'V'
+GEÄ  V.C.c.13.:55. [ID 55, Dossier, E1, Eltern -, S.4] Beschreibung eines Steinbruches in Leimbach | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'V'
+GEÄ  V.C.c.13.:57. [ID 57, Dossier, E1, Eltern -, S.4] Akten betr. Gewinnung des Platzes für die Schweizer. Landesausstellung 1883 | Genau (=)
+        Schachtel-Nr.: '' => 'VI'
+GEÄ  V.C.c.13.:58. [ID 58, Dossier, E1, Eltern -, S.4] Städtische Sammlungen | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'VI'
+GEÄ  V.C.c.13.:59. [ID 59, Dossier, E1, Eltern -, S.4] Landesmuseum | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'VI'
+GEÄ  V.C.c.13.:60. [ID 60, Dossier, E1, Eltern -, S.4] Abtretung von Fischenzen an den Staat | Genau (=)
+        Schachtel-Nr.: '' => 'VI'

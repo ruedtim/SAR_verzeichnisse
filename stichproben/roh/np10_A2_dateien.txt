@@ -1,0 +1,10 @@
+D3018	200 Einheiten	schon geprüft
+D3089	46 Einheiten	schon geprüft
+D3271	120 Einheiten	schon geprüft
+D3462	18 Einheiten	ERSTPRÜFUNG (nie in einer Fundliste)
+D3826	20 Einheiten	schon geprüft
+D152781	17 Einheiten	schon geprüft
+D151730	42 Einheiten	schon geprüft
+D65	12 Einheiten	schon geprüft
+D69	31 Einheiten	schon geprüft
+D71	6 Einheiten	schon geprüft

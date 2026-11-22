@@ -1,0 +1,3 @@
+### D3324: vorher 12 Einheiten, nachher 12 Einheiten
+GEÄ  VII.257.:12. [ID 12, Dossier, E1, Eltern -, S.6] Drucksachen | Von/bis (>= x und <=y)
+        Prüfhinweise: '' => 'Nach der letzten Einheit steht im Findmittel ein Absatz ohne Signatur («Eltern: Hans Caspar Wehrli geb. 8.7.1802, gest. 21.3.1874» …) – hier im Darin übernommen'

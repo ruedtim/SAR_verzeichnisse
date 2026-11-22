@@ -1,0 +1,46 @@
+### D3542: vorher 30 Einheiten, nachher 30 Einheiten
+GEÄ  VII.330.:1. [ID 1, Dossier, E1, Eltern -, S.1] Kleine Stadt W 22: 1 | 
+        Titel: 'Kleine Stadt W 22: 1 44 rot - 87 rot' => 'Kleine Stadt W 22: 1'
+        [Darin]
+           +I
+           +LXV
+           +44 rot - 87 rot
+GEÄ  VII.330.:11. [ID 11, Dossier, E1, Eltern -, S.1] Kleine Stadt 374a - 434a W 22: 11 | 
+        [Darin]
+           -I
+           -XIX
+           +
+GEÄ  VII.330.:12. [ID 12, Dossier, E1, Eltern -, S.1] Grosse Stadt W 22: 12 | 
+        Titel: 'Grosse Stadt W 22: 12 25 rot - 74 rot' => 'Grosse Stadt W 22: 12'
+        [Darin]
+           -
+           +I
+           +XIX
+           +25 rot - 74 rot
+GEÄ  VII.330.:29. [ID 29, Dossier, E1, Eltern -, S.2] Grosse Stadt 647a - 863 W 22: 29 Gut zum Weinberg | Von/bis (>= x und <=y)
+        Entstehungszeitraum: '' => 'Von/bis (>= x und <=y)'
+        von: '' => '1905'
+        bis: '' => '1956'
+        [Darin]
+           +Anmerkungen zu Schachtel 29:
+           +Gut zum Weinberg, Hochfarbstrasse 4, Unterstrass, Assekuranznummer 4a-c (abgetragen 1905)
+           +Rahnsche Farb vor der Niederdorfporte (Neumühlequai / Walcheplatz)
+           +Wolfbachstrasse 1, Hottingen, Assekuranznummer 1a-c (Wohnhaus 1956 abgetragen)
+        Zeitraum-Quelle: '' => 'Darin (geschätzt)'
+        [Prüfhinweise]
+           -Kein Zeitraum gefunden.
+           +«Anmerkungen zu Schachtel 29:» steht im Findmittel nach der letzten Einheit – hier im Darin dieser Einheit übernommen.
+           +Zeitraum aus den Jahreszahlen im Darin geschätzt.
+GEÄ  VII.330.:30. [ID 30, Dossier, E1, Eltern -, S.2] Indizes Index der Besitzer: W 22 | 
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => ''
+        von: '1905' => ''
+        bis: '07.1999' => ''
+        [Darin]
+           -Anmerkungen zu Schachtel 29:
+           -Gut zum Weinberg, Hochfarbstrasse 4, Unterstrass, Assekuranznummer 4a-c (abgetragen 1905)
+           -Rahnsche Farb vor der Niederdorfporte (Neumühlequai / Walcheplatz)
+           -Wolfbachstrasse 1, Hottingen, Assekuranznummer 1a-c (Wohnhaus 1956 abgetragen)
+           -Diese Kopie der Häuserregesten der Zürcher Altstadt von Dr. h. c. Adrian Corrodi-Sulzer (1865 -1944) wurde im Mai 1999 von Staatsarchiv des Kantons Zürich dem 
+           -Signatur des Originals: StAZ W 22: 1 - 29
+        Zeitraum-Quelle: 'Darin (geschätzt)' => ''
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => 'Kein Zeitraum gefunden.'

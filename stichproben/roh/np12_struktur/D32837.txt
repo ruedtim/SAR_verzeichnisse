@@ -1,0 +1,264 @@
+### D32837 – dezimal – 266 Einheiten – Bestand VII.237.
+Zusammenfassung: DARIN 24, DOPPELT 81, HINWEIS 9, OHNE 147, RÜCK 1
+[HINWEIS] ID 1 VII.237.:1.1. S.5 | Keine übergeordnete Signatur gefunden (erwartet 1.).
+[DARIN] ID 42 VII.237.:1.1.3.3. Darin 1: 50. Geburtstag von Peter-Christian Fueter
+[HINWEIS] ID 61 VII.237.:1.2. S.14 | Keine übergeordnete Signatur gefunden (erwartet 1.).
+[DOPPELT] ID 84 VII.237.:1.2.1.1. Teil 22 S.16 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 85 VII.237.:1.2.1.1. Teil 23 S.16 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 86 VII.237.:1.2.1.1. Teil 24 S.16 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 87 VII.237.:1.2.1.1. Teil 25 S.16 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 88 VII.237.:1.2.1.1. Teil 26 S.16 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 89 VII.237.:1.2.1.1. Teil 27 S.16 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 90 VII.237.:1.2.1.1. Teil 28 S.16 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 91 VII.237.:1.2.1.1. Teil 29 S.16 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 92 VII.237.:1.2.1.1. Teil 30 S.16 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 93 VII.237.:1.2.1.1. Teil 31 S.17 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 94 VII.237.:1.2.1.1. Teil 32 S.17 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 95 VII.237.:1.2.1.1. Teil 33 S.17 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 96 VII.237.:1.2.1.1. Teil 34 S.17 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 97 VII.237.:1.2.1.1. Teil 35 S.17 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 98 VII.237.:1.2.1.1. Teil 36 S.17 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 99 VII.237.:1.2.1.1. Teil 37 S.17 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 100 VII.237.:1.2.1.1. Teil 38 S.18 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 101 VII.237.:1.2.1.1. Teil 39 S.18 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 102 VII.237.:1.2.1.1. Teil 40 S.18 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 103 VII.237.:1.2.1.1. Teil 41 S.18 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 104 VII.237.:1.2.1.1. Teil 42 S.18 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 105 VII.237.:1.2.1.1. Teil 43 S.18 – Teil 1 ID 63 S.14 | Aufführungen und diverse Veranstaltungen mit Anne-Marie Blan
+[DOPPELT] ID 106 VII.237.:1.2.1.1. Teil 44 S.18 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 107 VII.237.:1.2.1.1. Teil 45 S.18 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 108 VII.237.:1.2.1.1. Teil 46 S.19 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 109 VII.237.:1.2.1.1. Teil 47 S.19 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 110 VII.237.:1.2.1.1. Teil 48 S.19 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 111 VII.237.:1.2.1.1. Teil 49 S.19 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 112 VII.237.:1.2.1.1. Teil 50 S.19 – Teil 1 ID 63 S.14 | Aufführungen und diverse Veranstaltungen mit Anne-Marie Blan
+[DOPPELT] ID 113 VII.237.:1.2.1.1. Teil 51 S.19 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 114 VII.237.:1.2.1.1. Teil 52 S.19 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 115 VII.237.:1.2.1.1. Teil 53 S.20 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 116 VII.237.:1.2.1.1. Teil 54 S.20 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 117 VII.237.:1.2.1.1. Teil 55 S.20 – Teil 1 ID 63 S.14 | Aufführungen und diverse Veranstaltungen mit Anne-Marie Blan
+[DOPPELT] ID 118 VII.237.:1.2.1.1. Teil 56 S.20 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 119 VII.237.:1.2.1.1. Teil 57 S.20 – Teil 1 ID 63 S.14 | Aufführungen und diverse Veranstaltungen mit Anne-Marie Blan
+[DOPPELT] ID 120 VII.237.:1.2.1.1. Teil 58 S.20 – Teil 1 ID 63 S.14 | Aufführungen und diverse Veranstaltungen mit Anne-Marie Blan
+[DOPPELT] ID 121 VII.237.:1.2.1.1. Teil 59 S.20 – Teil 1 ID 63 S.14 | Aufführungen und diverse Veranstaltungen mit Anne-Marie Blan
+[DOPPELT] ID 122 VII.237.:1.2.1.1. Teil 60 S.21 – Teil 1 ID 63 S.14 | Aufführungen und diverse Veranstaltungen mit Anne-Marie Blan
+[DOPPELT] ID 123 VII.237.:1.2.1.1. Teil 61 S.21 – Teil 1 ID 63 S.14 | Aufführungen und diverse Veranstaltungen mit Anne-Marie Blan
+[DOPPELT] ID 124 VII.237.:1.2.1.1. Teil 62 S.21 – Teil 1 ID 63 S.14 | Aufführungen und diverse Veranstaltungen mit Anne-Marie Blan
+[DOPPELT] ID 125 VII.237.:1.2.1.1. Teil 63 S.21 – Teil 1 ID 63 S.14 | Aufführungen und diverse Veranstaltungen mit Anne-Marie Blan
+[DOPPELT] ID 126 VII.237.:1.2.1.1. Teil 64 S.22 – Teil 1 ID 63 S.14 | Aufführungen und diverse Veranstaltungen mit Anne-Marie Blan
+[DOPPELT] ID 127 VII.237.:1.2.1.1. Teil 65 S.22 – Teil 1 ID 63 S.14 | Programme
+[DOPPELT] ID 128 VII.237.:1.2.1.1. Teil 66 S.22 – Teil 1 ID 63 S.14 | Aufführungen und diverse Veranstaltungen mit Anne-Marie Blan
+[DOPPELT] ID 136 VII.237.:1.2.2. Teil 7 S.25 – Teil 1 ID 130 S.23 | Rollenbücher
+[DOPPELT] ID 137 VII.237.:1.2.2. Teil 8 S.25 – Teil 1 ID 130 S.23 | Rollenbücher
+[DOPPELT] ID 138 VII.237.:1.2.2. Teil 9 S.25 – Teil 1 ID 130 S.23 | Rollenbücher
+[DOPPELT] ID 139 VII.237.:1.2.2. Teil 10 S.25 – Teil 1 ID 130 S.23 | Rollenbücher
+[DOPPELT] ID 140 VII.237.:1.2.2. Teil 11 S.26 – Teil 1 ID 130 S.23 | Rollenbücher
+[DOPPELT] ID 141 VII.237.:1.2.2. Teil 12 S.26 – Teil 1 ID 130 S.23 | Rollenbücher, Teil 12
+[DOPPELT] ID 142 VII.237.:1.2.2. Teil 13 S.27 – Teil 1 ID 130 S.23 | Rollenbücher
+[DOPPELT] ID 143 VII.237.:1.2.2. Teil 14 S.27 – Teil 1 ID 130 S.23 | Rollenbücher
+[DOPPELT] ID 144 VII.237.:1.2.2. Teil 15 S.27 – Teil 1 ID 130 S.23 | Rollenbücher
+[HINWEIS] ID 145 VII.237.:1.3. S.28 | Keine übergeordnete Signatur gefunden (erwartet 1.).
+[HINWEIS] ID 161 VII.237.:1.4. S.30 | Verschobene Zeilenumbrüche in Listen repariert – Stichprobe prüfen. / Keine übergeordnete Signatur gefunden (erwartet 1.).
+[HINWEIS] ID 162 VII.237.:1.5. S.31 | Keine übergeordnete Signatur gefunden (erwartet 1.).
+[HINWEIS] ID 163 VII.237.:1.6. S.31 | Keine übergeordnete Signatur gefunden (erwartet 1.).
+[DOPPELT] ID 167 VII.237.:1.6.1. Teil 4 S.33 – Teil 1 ID 164 S.31 | Theatertreffen Deutschsprachiger Schauspielstudenten und Bun
+[DARIN] ID 169 VII.237.:1.6.3. Darin 5: 43. Jg. Nr. 2/1991
+[DARIN] ID 169 VII.237.:1.6.3. Darin 6: 44. Jg. Nr. 4/1992
+[DARIN] ID 169 VII.237.:1.6.3. Darin 7: 45. Jg. Nr. 1, 3-4/1993
+[DARIN] ID 169 VII.237.:1.6.3. Darin 8: 46. Jg. Nr. 1-4/1994
+[DARIN] ID 169 VII.237.:1.6.3. Darin 9: 46. Jg. Nr. 1-2/1995
+[DARIN] ID 169 VII.237.:1.6.3. Darin 10: 47. Jg. Nr. 3-4/1995
+[DARIN] ID 169 VII.237.:1.6.3. Darin 11: 48. Jg. Nr. 1-4/1996
+[DARIN] ID 169 VII.237.:1.6.3. Darin 12: 49. Jg. Nr. 1-4./1997
+[DARIN] ID 169 VII.237.:1.6.3. Darin 13: 50. Jg. Nr. 1-4/1998
+[DARIN] ID 169 VII.237.:1.6.3. Darin 14: 51. Jg. Nr. 1-4/1999
+[DARIN] ID 169 VII.237.:1.6.3. Darin 15: 52. Jg. Nr. 1-4/2000
+[DARIN] ID 169 VII.237.:1.6.3. Darin 16: 53. Jg. Nr. 1-4/2001
+[DARIN] ID 169 VII.237.:1.6.3. Darin 17: 54. Jg. Nr. 1-4./2002
+[DARIN] ID 169 VII.237.:1.6.3. Darin 18: 55. Jg. Nr. 1-4/2003
+[DARIN] ID 169 VII.237.:1.6.3. Darin 19: 56. Jg. Nr. 1-2/2004
+[HINWEIS] ID 170 VII.237.:1.7. S.34 | Keine übergeordnete Signatur gefunden (erwartet 1.).
+[DOPPELT] ID 182 VII.237.:1.7.1. Teil 12 S.36 – Teil 1 ID 171 S.34 | Album 11
+[DOPPELT] ID 183 VII.237.:1.7.1. Teil 13 S.36 – Teil 1 ID 171 S.34 | Album 12
+[DOPPELT] ID 184 VII.237.:1.7.1. Teil 14 S.36 – Teil 1 ID 171 S.34 | Album 13
+[DOPPELT] ID 185 VII.237.:1.7.1. Teil 15 S.36 – Teil 1 ID 171 S.34 | Album 14
+[DOPPELT] ID 186 VII.237.:1.7.1. Teil 16 S.36 – Teil 1 ID 171 S.34 | Album 15
+[DOPPELT] ID 187 VII.237.:1.7.1. Teil 17 S.36 – Teil 1 ID 171 S.34 | Album 16
+[DOPPELT] ID 188 VII.237.:1.7.1. Teil 18 S.36 – Teil 1 ID 171 S.34 | Album 17
+[DOPPELT] ID 189 VII.237.:1.7.1. Teil 19 S.36 – Teil 1 ID 171 S.34 | Album 18
+[DOPPELT] ID 190 VII.237.:1.7.1. Teil 20 S.37 – Teil 1 ID 171 S.34 | Album 19
+[DOPPELT] ID 191 VII.237.:1.7.1. Teil 21 S.37 – Teil 1 ID 171 S.34 | Album 20
+[DOPPELT] ID 192 VII.237.:1.7.1. Teil 22 S.37 – Teil 1 ID 171 S.34 | Album 21
+[DOPPELT] ID 193 VII.237.:1.7.1. Teil 23 S.37 – Teil 1 ID 171 S.34 | Album 22
+[DOPPELT] ID 194 VII.237.:1.7.1. Teil 24 S.38 – Teil 1 ID 171 S.34 | Album 23
+[DOPPELT] ID 195 VII.237.:1.7.1. Teil 25 S.38 – Teil 1 ID 171 S.34 | Album 24
+[DARIN] ID 196 VII.237.:1.7.2. Darin 15: 80. Geburtstag Françoise
+[DARIN] ID 196 VII.237.:1.7.2. Darin 16: 90. Geburtstag Valeska-Lindtberg
+[DARIN] ID 196 VII.237.:1.7.2. Darin 17: 85. Geburtstag von Erich Fischer im Hotel Eden, April 2002
+[HINWEIS] ID 202 VII.237.:1.8. S.41 | Keine übergeordnete Signatur gefunden (erwartet 1.).
+[HINWEIS] ID 206 VII.237.:2. S.43 | Nummerierung beginnt bei 2.
+[DARIN] ID 207 VII.237.:2.1. Darin 24: 1. Briefe von Stefan Zweig an Robert Faesi (1917 – 1936, 1939 u. a. Autographen)
+[DARIN] ID 207 VII.237.:2.1. Darin 25: 2. Postkarten von Stefan Zweig an Robert Faesi (1917 – 1939, Handschrift)
+[DARIN] ID 207 VII.237.:2.1. Darin 26: 3. Visitenkarte von Stefan Zweig mit Handschrift
+[DARIN] ID 207 VII.237.:2.1. Darin 27: 4. Briefe von Robert Faesi an Stefan Zweig (Kopien)
+[DARIN] ID 207 VII.237.:2.1. Darin 28: 5. Zwei Zeitungsartikel über Stefan Zweig
+[DOPPELT] ID 241 VII.237.:4.4.1. Teil 11 S.52 – Teil 1 ID 231 S.50 | Mappe 11
+[DOPPELT] ID 242 VII.237.:4.4.1. Teil 12 S.53 – Teil 1 ID 231 S.50 | Mappe 12
+[DOPPELT] ID 243 VII.237.:4.4.1. Teil 13 S.53 – Teil 1 ID 231 S.50 | Mappe 13
+[DOPPELT] ID 244 VII.237.:4.4.1. Teil 14 S.53 – Teil 1 ID 231 S.50 | Mappe 14
+[DOPPELT] ID 245 VII.237.:4.4.1. Teil 15 S.53 – Teil 1 ID 231 S.50 | Mappe 15
+[DOPPELT] ID 259 VII.237.:4.4.3. Teil 13 S.56 – Teil 1 ID 247 S.54 | Album 12
+[DOPPELT] ID 260 VII.237.:4.4.3. Teil 14 S.56 – Teil 1 ID 247 S.54 | Album 13
+[DOPPELT] ID 261 VII.237.:4.4.3. Teil 15 S.56 – Teil 1 ID 247 S.54 | Album 14
+[DOPPELT] ID 262 VII.237.:4.4.3. Teil 16 S.56 – Teil 1 ID 247 S.54 | Album 15
+[DOPPELT] ID 263 VII.237.:4.4.3. Teil 17 S.56 – Teil 1 ID 247 S.54 | Album 16
+[DOPPELT] ID 264 VII.237.:4.4.3. Teil 18 S.56 – Teil 1 ID 247 S.54 | Album 17
+[DOPPELT] ID 265 VII.237.:4.4.3. Teil 19 S.56 – Teil 1 ID 247 S.54 | Album 18
+[RÜCK] ID 206 VII.237.:2. nach Nummer 8 (Eltern None) S.43
+[OHNE] ID 27 P26 E4 Dossier VII.237.:1.1.2.3. T2 S.8 Sch.- | 10.06.1990–31.07.1994 | Reise-Tagebuch
+[OHNE] ID 28 P26 E4 Dossier VII.237.:1.1.2.3. T3 S.8 Sch.- | 20.02.1995–14.10.1998 | Reise-Tagebuch
+[OHNE] ID 64 P63 E4 Dossier VII.237.:1.2.1.1. T2 S.14 Sch.- | 1935–1936 | Programme
+[OHNE] ID 65 P63 E4 Dossier VII.237.:1.2.1.1. T3 S.14 Sch.- | 1936–1937 | Programme
+[OHNE] ID 66 P63 E4 Dossier VII.237.:1.2.1.1. T4 S.14 Sch.- | 1938–1939 | Programme
+[OHNE] ID 67 P63 E4 Dossier VII.237.:1.2.1.1. T5 S.14 Sch.- | 1939–1940 | Programme
+[OHNE] ID 68 P63 E4 Dossier VII.237.:1.2.1.1. T6 S.14 Sch.- | 1940–1941 | Programme
+[OHNE] ID 69 P63 E4 Dossier VII.237.:1.2.1.1. T7 S.14 Sch.- | 1941–1942 | Programme
+[OHNE] ID 70 P63 E4 Dossier VII.237.:1.2.1.1. T8 S.14 Sch.- | 1942–1943 | Programme
+[OHNE] ID 71 P63 E4 Dossier VII.237.:1.2.1.1. T9 S.14 Sch.- | 1943–1944 | Programme
+[OHNE] ID 72 P63 E4 Dossier VII.237.:1.2.1.1. T10 S.14 Sch.- | 1944–1945 | Programme
+[OHNE] ID 73 P63 E4 Dossier VII.237.:1.2.1.1. T11 S.14 Sch.- | 1945–1946 | Programme
+[OHNE] ID 74 P63 E4 Dossier VII.237.:1.2.1.1. T12 S.15 Sch.- | 1946–1947 | Programme
+[OHNE] ID 75 P63 E4 Dossier VII.237.:1.2.1.1. T13 S.15 Sch.- | 1947–1948 | Programme
+[OHNE] ID 76 P63 E4 Dossier VII.237.:1.2.1.1. T14 S.15 Sch.- | 1948–1949 | Programme
+[OHNE] ID 77 P63 E4 Dossier VII.237.:1.2.1.1. T15 S.15 Sch.- | 1950–1951 | Programme
+[OHNE] ID 78 P63 E4 Dossier VII.237.:1.2.1.1. T16 S.15 Sch.- | 1951–1952 | Programme
+[OHNE] ID 79 P63 E4 Dossier VII.237.:1.2.1.1. T17 S.15 Sch.- | 1953–1954 | Programme
+[OHNE] ID 80 P63 E4 Dossier VII.237.:1.2.1.1. T18 S.15 Sch.- | 1954–1955 | Programme
+[OHNE] ID 81 P63 E4 Dossier VII.237.:1.2.1.1. T19 S.15 Sch.- | 1955–1956 | Programme
+[OHNE] ID 82 P63 E4 Dossier VII.237.:1.2.1.1. T20 S.15 Sch.- | 1957–1958 | Programme
+[OHNE] ID 83 P63 E4 Dossier VII.237.:1.2.1.1. T21 S.15 Sch.- | 1958–1959 | Programme
+[OHNE] ID 84 P63 E4 Dossier VII.237.:1.2.1.1. T22 S.16 Sch.- | 1959–1960 | Programme
+[OHNE] ID 85 P63 E4 Dossier VII.237.:1.2.1.1. T23 S.16 Sch.- | 1960–1961 | Programme
+[OHNE] ID 86 P63 E4 Dossier VII.237.:1.2.1.1. T24 S.16 Sch.- | 1961–1962 | Programme
+[OHNE] ID 87 P63 E4 Dossier VII.237.:1.2.1.1. T25 S.16 Sch.- | 1962–1963 | Programme
+[OHNE] ID 88 P63 E4 Dossier VII.237.:1.2.1.1. T26 S.16 Sch.- | 1963–1964 | Programme
+[OHNE] ID 89 P63 E4 Dossier VII.237.:1.2.1.1. T27 S.16 Sch.- | 1964–1965 | Programme
+[OHNE] ID 90 P63 E4 Dossier VII.237.:1.2.1.1. T28 S.16 Sch.- | 1965–1966 | Programme
+[OHNE] ID 91 P63 E4 Dossier VII.237.:1.2.1.1. T29 S.16 Sch.- | 1966–1967 | Programme
+[OHNE] ID 92 P63 E4 Dossier VII.237.:1.2.1.1. T30 S.16 Sch.- | 1967–1968 | Programme
+[OHNE] ID 93 P63 E4 Dossier VII.237.:1.2.1.1. T31 S.17 Sch.- | 1968–1969 | Programme
+[OHNE] ID 94 P63 E4 Dossier VII.237.:1.2.1.1. T32 S.17 Sch.- | 1969–1970 | Programme
+[OHNE] ID 95 P63 E4 Dossier VII.237.:1.2.1.1. T33 S.17 Sch.- | 1970–1971 | Programme
+[OHNE] ID 96 P63 E4 Dossier VII.237.:1.2.1.1. T34 S.17 Sch.- | 1971–1972 | Programme
+[OHNE] ID 97 P63 E4 Dossier VII.237.:1.2.1.1. T35 S.17 Sch.- | 1972–1973 | Programme
+[OHNE] ID 98 P63 E4 Dossier VII.237.:1.2.1.1. T36 S.17 Sch.- | 1973–1974 | Programme
+[OHNE] ID 99 P63 E4 Dossier VII.237.:1.2.1.1. T37 S.17 Sch.- | 1974–1975 | Programme
+[OHNE] ID 100 P63 E4 Dossier VII.237.:1.2.1.1. T38 S.18 Sch.- | 1975–1976 | Programme
+[OHNE] ID 101 P63 E4 Dossier VII.237.:1.2.1.1. T39 S.18 Sch.- | 1976–1977 | Programme
+[OHNE] ID 102 P63 E4 Dossier VII.237.:1.2.1.1. T40 S.18 Sch.- | 1977–1978 | Programme
+[OHNE] ID 103 P63 E4 Dossier VII.237.:1.2.1.1. T41 S.18 Sch.- | 1978–1979 | Programme
+[OHNE] ID 104 P63 E4 Dossier VII.237.:1.2.1.1. T42 S.18 Sch.- | 1979–1980 | Programme
+[OHNE] ID 105 P63 E4 Dossier VII.237.:1.2.1.1. T43 S.18 Sch.- | 1980–1981 | Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 43
+[OHNE] ID 106 P63 E4 Dossier VII.237.:1.2.1.1. T44 S.18 Sch.- | 1981–1982 | Programme
+[OHNE] ID 107 P63 E4 Dossier VII.237.:1.2.1.1. T45 S.18 Sch.- | 1982–1983 | Programme
+[OHNE] ID 108 P63 E4 Dossier VII.237.:1.2.1.1. T46 S.19 Sch.- | 1983–1984 | Programme
+[OHNE] ID 109 P63 E4 Dossier VII.237.:1.2.1.1. T47 S.19 Sch.- | 1984–1985 | Programme
+[OHNE] ID 110 P63 E4 Dossier VII.237.:1.2.1.1. T48 S.19 Sch.- | 1986–1987 | Programme
+[OHNE] ID 111 P63 E4 Dossier VII.237.:1.2.1.1. T49 S.19 Sch.- | 1987–1988 | Programme
+[OHNE] ID 112 P63 E4 Dossier VII.237.:1.2.1.1. T50 S.19 Sch.- | 1917–1989 | Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 50
+[OHNE] ID 113 P63 E4 Dossier VII.237.:1.2.1.1. T51 S.19 Sch.- | 1989–1990 | Programme
+[OHNE] ID 114 P63 E4 Dossier VII.237.:1.2.1.1. T52 S.19 Sch.- | 1990–1991 | Programme
+[OHNE] ID 115 P63 E4 Dossier VII.237.:1.2.1.1. T53 S.20 Sch.- | 1991–1992 | Programme
+[OHNE] ID 116 P63 E4 Dossier VII.237.:1.2.1.1. T54 S.20 Sch.- | 1992–1993 | Programme
+[OHNE] ID 117 P63 E4 Dossier VII.237.:1.2.1.1. T55 S.20 Sch.- | 1993–1994 | Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 55
+[OHNE] ID 118 P63 E4 Dossier VII.237.:1.2.1.1. T56 S.20 Sch.- | 1994–1995 | Programme
+[OHNE] ID 119 P63 E4 Dossier VII.237.:1.2.1.1. T57 S.20 Sch.- | 1995–1996 | Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 57
+[OHNE] ID 120 P63 E4 Dossier VII.237.:1.2.1.1. T58 S.20 Sch.- | 1996–1997 | Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 58
+[OHNE] ID 121 P63 E4 Dossier VII.237.:1.2.1.1. T59 S.20 Sch.- | 1997–1998 | Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 59
+[OHNE] ID 122 P63 E4 Dossier VII.237.:1.2.1.1. T60 S.21 Sch.- | 1998–1999 | Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 60
+[OHNE] ID 123 P63 E4 Dossier VII.237.:1.2.1.1. T61 S.21 Sch.- | 1926–2000 | Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 61
+[OHNE] ID 124 P63 E4 Dossier VII.237.:1.2.1.1. T62 S.21 Sch.- | 2000–2001 | Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 62
+[OHNE] ID 125 P63 E4 Dossier VII.237.:1.2.1.1. T63 S.21 Sch.- | 2001–2002 | Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 63
+[OHNE] ID 126 P63 E4 Dossier VII.237.:1.2.1.1. T64 S.22 Sch.- | 2002–2003 | Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 64
+[OHNE] ID 127 P63 E4 Dossier VII.237.:1.2.1.1. T65 S.22 Sch.- | 2003–2004 | Programme
+[OHNE] ID 128 P63 E4 Dossier VII.237.:1.2.1.1. T66 S.22 Sch.- | 2004–2005 | Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 66
+[OHNE] ID 131 P130 E3 Dossier VII.237.:1.2.2. T2 S.23 Sch.- | 1853–2001 | Rollenbücher
+[OHNE] ID 132 P130 E3 Dossier VII.237.:1.2.2. T3 S.23 Sch.- | 1988–2004 | Rollenbücher
+[OHNE] ID 133 P130 E3 Dossier VII.237.:1.2.2. T4 S.23 Sch.- | 1972–2001 | Rollenbücher
+[OHNE] ID 134 P130 E3 Dossier VII.237.:1.2.2. T5 S.24 Sch.- | 1958–2000 | Rollenbücher
+[OHNE] ID 135 P130 E3 Dossier VII.237.:1.2.2. T6 S.24 Sch.- | 1965–1996 | Rollenbücher
+[OHNE] ID 136 P130 E3 Dossier VII.237.:1.2.2. T7 S.25 Sch.- | 1965–2002 | Rollenbücher
+[OHNE] ID 137 P130 E3 Dossier VII.237.:1.2.2. T8 S.25 Sch.- | 1988–1999 | Rollenbücher
+[OHNE] ID 138 P130 E3 Dossier VII.237.:1.2.2. T9 S.25 Sch.- | 1966–2003 | Rollenbücher
+[OHNE] ID 139 P130 E3 Dossier VII.237.:1.2.2. T10 S.25 Sch.- | 1968–2004 | Rollenbücher
+[OHNE] ID 140 P130 E3 Dossier VII.237.:1.2.2. T11 S.26 Sch.- | 1955–2003 | Rollenbücher
+[OHNE] ID 141 P130 E3 Dossier VII.237.:1.2.2. T12 S.26 Sch.- | 1965–2004 | Rollenbücher, Teil 12
+[OHNE] ID 142 P130 E3 Dossier VII.237.:1.2.2. T13 S.27 Sch.- | 08.03.1940–2001 | Rollenbücher
+[OHNE] ID 143 P130 E3 Dossier VII.237.:1.2.2. T14 S.27 Sch.- | – | Rollenbücher
+[OHNE] ID 144 P130 E3 Dossier VII.237.:1.2.2. T15 S.27 Sch.- | 1982–2001 | Rollenbücher
+[OHNE] ID 147 P146 E3 Dossier VII.237.:1.3.1. T2 S.28 Sch.- | 1949–1986 | Drehbücher
+[OHNE] ID 148 P146 E3 Dossier VII.237.:1.3.1. T3 S.28 Sch.- | 1987–1998 | Drehbücher
+[OHNE] ID 149 P146 E3 Dossier VII.237.:1.3.1. T4 S.28 Sch.- | 1938–1998 | Drehbücher
+[OHNE] ID 150 P146 E3 Dossier VII.237.:1.3.1. T5 S.28 Sch.- | 1963–1985 | Drehbücher
+[OHNE] ID 151 P146 E3 Dossier VII.237.:1.3.1. T6 S.28 Sch.- | 1957–2001 | Drehbücher
+[OHNE] ID 152 P146 E3 Dossier VII.237.:1.3.1. T7 S.29 Sch.- | 1944–2005 | Drehbücher
+[OHNE] ID 153 P146 E3 Dossier VII.237.:1.3.1. T8 S.29 Sch.- | 1940–1990 | Drehbücher
+[OHNE] ID 165 P164 E3 Dossier VII.237.:1.6.1. T2 S.32 Sch.- | 1946–2005 | Publikationen, Teil 2
+[OHNE] ID 166 P164 E3 Dossier VII.237.:1.6.1. T3 S.32 Sch.- | 1970– | Schweizerischer Bühnenverband (Hg.): 50 Jahre Schweizerischer Bühnenverband. Union des Thèâtres S
+[OHNE] ID 167 P164 E3 Dossier VII.237.:1.6.1. T4 S.33 Sch.- | 1990–1999 | Theatertreffen Deutschsprachiger Schauspielstudenten und Bundeswettbewerb zur Förderung des S
+[OHNE] ID 172 P171 E3 Dossier VII.237.:1.7.1. T2 S.34 Sch.- | 1934–1935 | Album 1
+[OHNE] ID 173 P171 E3 Dossier VII.237.:1.7.1. T3 S.35 Sch.- | 1936– | Album 2
+[OHNE] ID 174 P171 E3 Dossier VII.237.:1.7.1. T4 S.35 Sch.- | 1914–1952 | Album 3
+[OHNE] ID 175 P171 E3 Dossier VII.237.:1.7.1. T5 S.35 Sch.- | 1979–1980 | Album 4
+[OHNE] ID 176 P171 E3 Dossier VII.237.:1.7.1. T6 S.35 Sch.- | 1982–1985 | Album 5
+[OHNE] ID 177 P171 E3 Dossier VII.237.:1.7.1. T7 S.35 Sch.- | 1984– | Album 6
+[OHNE] ID 178 P171 E3 Dossier VII.237.:1.7.1. T8 S.35 Sch.- | 1985– | Album 7
+[OHNE] ID 179 P171 E3 Dossier VII.237.:1.7.1. T9 S.35 Sch.- | 18.08.1985– | Album 8
+[OHNE] ID 180 P171 E3 Dossier VII.237.:1.7.1. T10 S.35 Sch.- | – | Album 9
+[OHNE] ID 181 P171 E3 Dossier VII.237.:1.7.1. T11 S.35 Sch.- | 1995– | Album 10
+[OHNE] ID 182 P171 E3 Dossier VII.237.:1.7.1. T12 S.36 Sch.- | 1939–1963 | Album 11
+[OHNE] ID 183 P171 E3 Dossier VII.237.:1.7.1. T13 S.36 Sch.- | 07.1940–1941 | Album 12
+[OHNE] ID 184 P171 E3 Dossier VII.237.:1.7.1. T14 S.36 Sch.- | 1954– | Album 13
+[OHNE] ID 185 P171 E3 Dossier VII.237.:1.7.1. T15 S.36 Sch.- | 1980–1982 | Album 14
+[OHNE] ID 186 P171 E3 Dossier VII.237.:1.7.1. T16 S.36 Sch.- | 1987–1989 | Album 15
+[OHNE] ID 187 P171 E3 Dossier VII.237.:1.7.1. T17 S.36 Sch.- | 1981– | Album 16
+[OHNE] ID 188 P171 E3 Dossier VII.237.:1.7.1. T18 S.36 Sch.- | – | Album 17
+[OHNE] ID 189 P171 E3 Dossier VII.237.:1.7.1. T19 S.36 Sch.- | 02.01.1977–24.12.1977 | Album 18
+[OHNE] ID 190 P171 E3 Dossier VII.237.:1.7.1. T20 S.37 Sch.- | 05.02.1978–14.11.1978 | Album 19
+[OHNE] ID 191 P171 E3 Dossier VII.237.:1.7.1. T21 S.37 Sch.- | 25.08.1984– | Album 20
+[OHNE] ID 192 P171 E3 Dossier VII.237.:1.7.1. T22 S.37 Sch.- | 1914–10.1987 | Album 21
+[OHNE] ID 193 P171 E3 Dossier VII.237.:1.7.1. T23 S.37 Sch.- | 03.09.1989–04.04.1991 | Album 22
+[OHNE] ID 194 P171 E3 Dossier VII.237.:1.7.1. T24 S.38 Sch.- | 1994– | Album 23
+[OHNE] ID 195 P171 E3 Dossier VII.237.:1.7.1. T25 S.38 Sch.- | 1918– | Album 24
+[OHNE] ID 232 P231 E4 Dossier VII.237.:4.4.1. T2 S.50 Sch.- | – | Mappe 1
+[OHNE] ID 233 P231 E4 Dossier VII.237.:4.4.1. T3 S.50 Sch.- | 1866–1900 | Mappe 2
+[OHNE] ID 234 P231 E4 Dossier VII.237.:4.4.1. T4 S.50 Sch.- | – | Mappe 3
+[OHNE] ID 235 P231 E4 Dossier VII.237.:4.4.1. T5 S.50 Sch.- | – | Mappe 4
+[OHNE] ID 236 P231 E4 Dossier VII.237.:4.4.1. T6 S.50 Sch.- | – | Mappe 5
+[OHNE] ID 237 P231 E4 Dossier VII.237.:4.4.1. T7 S.50 Sch.- | 1853–1933 | Mappe 6
+[OHNE] ID 238 P231 E4 Dossier VII.237.:4.4.1. T8 S.51 Sch.- | 1928– | Mappe 7
+[OHNE] ID 239 P231 E4 Dossier VII.237.:4.4.1. T9 S.51 Sch.- | – | Mappe 8
+[OHNE] ID 240 P231 E4 Dossier VII.237.:4.4.1. T10 S.51 Sch.- | 1899–09.1917 | Mappe 10
+[OHNE] ID 241 P231 E4 Dossier VII.237.:4.4.1. T11 S.52 Sch.- | 1890–1915 | Mappe 11
+[OHNE] ID 242 P231 E4 Dossier VII.237.:4.4.1. T12 S.53 Sch.- | 1900–1973 | Mappe 12
+[OHNE] ID 243 P231 E4 Dossier VII.237.:4.4.1. T13 S.53 Sch.- | 1920–1930 | Mappe 13
+[OHNE] ID 244 P231 E4 Dossier VII.237.:4.4.1. T14 S.53 Sch.- | 1938–1969 | Mappe 14
+[OHNE] ID 245 P231 E4 Dossier VII.237.:4.4.1. T15 S.53 Sch.- | 1840–1960 | Mappe 15
+[OHNE] ID 248 P247 E4 Dossier VII.237.:4.4.3. T2 S.54 Sch.- | 1924– | Album 1
+[OHNE] ID 249 P247 E4 Dossier VII.237.:4.4.3. T3 S.55 Sch.- | – | Album 2
+[OHNE] ID 250 P247 E4 Dossier VII.237.:4.4.3. T4 S.55 Sch.- | 1930– | Album 3
+[OHNE] ID 251 P247 E4 Dossier VII.237.:4.4.3. T5 S.55 Sch.- | – | Album 4
+[OHNE] ID 252 P247 E4 Dossier VII.237.:4.4.3. T6 S.55 Sch.- | 05.1931–07.1931 | Album 5
+[OHNE] ID 253 P247 E4 Dossier VII.237.:4.4.3. T7 S.55 Sch.- | 1934– | Album 6
+[OHNE] ID 254 P247 E4 Dossier VII.237.:4.4.3. T8 S.55 Sch.- | 02.09.1939–09.11.1940 | Album 7
+[OHNE] ID 255 P247 E4 Dossier VII.237.:4.4.3. T9 S.55 Sch.- | – | Album 8
+[OHNE] ID 256 P247 E4 Dossier VII.237.:4.4.3. T10 S.55 Sch.- | 1926–1931 | Album 9
+[OHNE] ID 257 P247 E4 Dossier VII.237.:4.4.3. T11 S.55 Sch.- | 01.1934–1935 | Album 10
+[OHNE] ID 258 P247 E4 Dossier VII.237.:4.4.3. T12 S.55 Sch.- | 14.07.1935–15.07.1935 | Album 11
+[OHNE] ID 259 P247 E4 Dossier VII.237.:4.4.3. T13 S.56 Sch.- | 1934–1936 | Album 12
+[OHNE] ID 260 P247 E4 Dossier VII.237.:4.4.3. T14 S.56 Sch.- | – | Album 13
+[OHNE] ID 261 P247 E4 Dossier VII.237.:4.4.3. T15 S.56 Sch.- | 14.06.1952– | Album 14
+[OHNE] ID 262 P247 E4 Dossier VII.237.:4.4.3. T16 S.56 Sch.- | 1926–1930 | Album 15
+[OHNE] ID 263 P247 E4 Dossier VII.237.:4.4.3. T17 S.56 Sch.- | 1927–27.07.1957 | Album 16
+[OHNE] ID 264 P247 E4 Dossier VII.237.:4.4.3. T18 S.56 Sch.- | – | Album 17
+[OHNE] ID 265 P247 E4 Dossier VII.237.:4.4.3. T19 S.56 Sch.- | – | Album 18

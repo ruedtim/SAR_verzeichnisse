@@ -1,0 +1,741 @@
+### D3466 – fortlaufend – 1197 Einheiten – Bestand VII.308.C.a.
+Zusammenfassung: DARIN 6, DOPPELT 16, LÜCKE 23, OHNE 694
+[DARIN] ID 179 VII.308.C.a.:168. Darin 1: 3 Pläne von Ing. Gams
+[DOPPELT] ID 383 VII.308.C.a.:257. Teil 14 S.33 – Teil 1 ID 370 S.31 | Jamshedpur Tata Iron and Steel Co
+[DARIN] ID 391 VII.308.C.a.:262. Darin 6: 50 KV Freiluftschaltanlage Schalungs- und Armierungspläne
+[DARIN] ID 391 VII.308.C.a.:262. Darin 7: 8 KV Schaltanlage Eisenkonstruktion, Zellenwände dazu diverse Akten vom Baubureau
+[DOPPELT] ID 1027 VII.308.C.a.:525. Teil 20 S.86 – Teil 1 ID 1008 S.84 | Bern Linienverlegung an der Lorraine und Aarebrücke
+[DARIN] ID 1051 VII.308.C.a.:539. Darin 1: 8 Doppelmehrfamilienhäuser, Pläne von Locher & Co, Architekt W. Roth, Ingenieurbüro Schubert und Sch
+[DARIN] ID 1084 VII.308.C.a.:548. Darin 2: 8 Doppelmehrfamilienhäuser 1943
+[DARIN] ID 1084 VII.308.C.a.:548. Darin 4: 2 dreifache und 6 Doppel-Mehrfamilienhäuser Typ A, B, C
+[DOPPELT] ID 1135 VII.308.C.a.:570. Teil 19 S.99 – Teil 1 ID 1117 S.97 | Glattbrugg Direktion der öffentlichen Bauten Kanton Zürich, 
+[DOPPELT] ID 1136 VII.308.C.a.:570. Teil 20 S.99 – Teil 1 ID 1117 S.97 | Zürich Stadt Zürich
+[DOPPELT] ID 1137 VII.308.C.a.:570. Teil 21 S.99 – Teil 1 ID 1117 S.97 | Zürich Grossmetzgerei J. Leutert, Steinstrasse
+[DOPPELT] ID 1187 VII.308.C.a.:584. Teil 20 S.103 – Teil 1 ID 1168 S.101 | Zürich R. Maag & Co
+[DOPPELT] ID 1188 VII.308.C.a.:584. Teil 21 S.103 – Teil 1 ID 1168 S.101 | Zürich Sihltalbahn Gesellschaft AG
+[DOPPELT] ID 1189 VII.308.C.a.:584. Teil 22 S.103 – Teil 1 ID 1168 S.101 | Zürich Rudolf Maag
+[DOPPELT] ID 1190 VII.308.C.a.:584. Teil 23 S.103 – Teil 1 ID 1168 S.101 | Zürich G. Schläpfe-Stockar
+[DOPPELT] ID 1191 VII.308.C.a.:584. Teil 24 S.103 – Teil 1 ID 1168 S.101 | Zürich G. Staub-Richli
+[DOPPELT] ID 1192 VII.308.C.a.:584. Teil 25 S.103 – Teil 1 ID 1168 S.101 | Zürich Otto Weber
+[DOPPELT] ID 1193 VII.308.C.a.:584. Teil 26 S.103 – Teil 1 ID 1168 S.101 | Zürich Immobiliengesellschaft Paradeplatz
+[DOPPELT] ID 1194 VII.308.C.a.:584. Teil 27 S.103 – Teil 1 ID 1168 S.101 | Zürich K. Koch, Greyerzerstrasse 97, Bern
+[DOPPELT] ID 1195 VII.308.C.a.:584. Teil 28 S.103 – Teil 1 ID 1168 S.101 | Zürich J. H. Waser, Fröbelstrasse 20 (?)
+[DOPPELT] ID 1196 VII.308.C.a.:584. Teil 29 S.103 – Teil 1 ID 1168 S.101 | Zürich Pestalozzi & Co, In Gassen 3
+[DOPPELT] ID 1197 VII.308.C.a.:584. Teil 30 S.103 – Teil 1 ID 1168 S.101 | Zürich Reishauer Werkzeuge AG, Limmatstrasse 77 – 87
+[LÜCKE] 23–28 fehlen vor ID 2 VII.308.C.a.:29. (Eltern None) S.1
+[LÜCKE] 32–33 fehlen vor ID 5 VII.308.C.a.:34. (Eltern None) S.2
+[LÜCKE] 39–39 fehlen vor ID 10 VII.308.C.a.:40. (Eltern None) S.2
+[LÜCKE] 44–48 fehlen vor ID 14 VII.308.C.a.:49. (Eltern None) S.2
+[LÜCKE] 50–50 fehlen vor ID 15 VII.308.C.a.:51. (Eltern None) S.2
+[LÜCKE] 52–55 fehlen vor ID 17 VII.308.C.a.:56. (Eltern None) S.2
+[LÜCKE] 58–67 fehlen vor ID 19 VII.308.C.a.:68. (Eltern None) S.3
+[LÜCKE] 75–76 fehlen vor ID 26 VII.308.C.a.:77. (Eltern None) S.3
+[LÜCKE] 78–78 fehlen vor ID 28 VII.308.C.a.:79. (Eltern None) S.3
+[LÜCKE] 90–90 fehlen vor ID 39 VII.308.C.a.:91. (Eltern None) S.4
+[LÜCKE] 94–95 fehlen vor ID 42 VII.308.C.a.:96. (Eltern None) S.4
+[LÜCKE] 99–105 fehlen vor ID 45 VII.308.C.a.:106. (Eltern None) S.5
+[LÜCKE] 107–111 fehlen vor ID 46 VII.308.C.a.:112. (Eltern None) S.5
+[LÜCKE] 116–118 fehlen vor ID 50 VII.308.C.a.:119. (Eltern None) S.5
+[LÜCKE] 123–123 fehlen vor ID 54 VII.308.C.a.:124. (Eltern None) S.5
+[LÜCKE] 129–129 fehlen vor ID 85 VII.308.C.a.:130. (Eltern None) S.7
+[LÜCKE] 136–136 fehlen vor ID 123 VII.308.C.a.:137. (Eltern None) S.9
+[LÜCKE] 165–165 fehlen vor ID 178 VII.308.C.a.:166. (Eltern None) S.15
+[LÜCKE] 167–167 fehlen vor ID 179 VII.308.C.a.:168. (Eltern None) S.15
+[LÜCKE] 169–170 fehlen vor ID 180 VII.308.C.a.:171. (Eltern None) S.15
+[LÜCKE] 173–173 fehlen vor ID 183 VII.308.C.a.:174. (Eltern None) S.15
+[LÜCKE] 176–176 fehlen vor ID 203 VII.308.C.a.:177. (Eltern None) S.17
+[LÜCKE] 392–392 fehlen vor ID 662 VII.308.C.a.:393. (Eltern None) S.55
+[OHNE] ID 16 P15 E2 Dossier VII.308.C.a.:51. T2 S.2 Sch.12 | 1912– | Zürich Uraniabrücke, Rudolf Brun-Brücke
+[OHNE] ID 27 P26 E2 Dossier VII.308.C.a.:77. T2 S.3 Sch.23 | 1915– | Wollerau Scheerenbrücke
+[OHNE] ID 55 P54 E2 Dossier VII.308.C.a.:124. T2 S.6 Sch.37 | 1915– | Baku Escher Wyss & Cie, Elektrizitätswerk Baku Dampfturbinenfundamente
+[OHNE] ID 56 P54 E2 Dossier VII.308.C.a.:124. T3 S.6 Sch.37 | 1916– | Astrakhan Escher Wyss & Cie, Usine de la ville Dampfturbinenfundamente
+[OHNE] ID 57 P54 E2 Dossier VII.308.C.a.:124. T4 S.6 Sch.37 | 1917– | Gerlafingen Escher Wyss & Cie, Turbinenfundament
+[OHNE] ID 58 P54 E2 Dossier VII.308.C.a.:124. T5 S.6 Sch.37 | 1918– | Limoges Escher Wyss & Cie
+[OHNE] ID 59 P54 E2 Dossier VII.308.C.a.:124. T6 S.6 Sch.37 | 1919– | Lille Escher Wyss & Cie
+[OHNE] ID 60 P54 E2 Dossier VII.308.C.a.:124. T7 S.6 Sch.37 | 1920– | Abbeville Escher Wyss & Cie Dampfturbinenfundamente
+[OHNE] ID 62 P61 E2 Dossier VII.308.C.a.:125. T2 S.6 Sch.38 | 1920–1921 | Powell-Duffryn Steam Coal Co Ltd Dampfturbinenfundamente
+[OHNE] ID 63 P61 E2 Dossier VII.308.C.a.:125. T3 S.6 Sch.38 | 1921– | Bethume Escher Wyss & Cie Dampfturbinenfundamente
+[OHNE] ID 64 P61 E2 Dossier VII.308.C.a.:125. T4 S.6 Sch.38 | 1922– | Ville sur Haine Escher Wyss & Cie Dampfturbinenfundamente
+[OHNE] ID 65 P61 E2 Dossier VII.308.C.a.:125. T5 S.6 Sch.38 | 1922– | Bruxelles Soc. InterbrabantS. A. Schaerbeck Dampfturbinenfundamente
+[OHNE] ID 66 P61 E2 Dossier VII.308.C.a.:125. T6 S.6 Sch.38 | 1922– | Nijmegen Escher Wyss & Cie Dampfturbinenfundamente
+[OHNE] ID 67 P61 E2 Dossier VII.308.C.a.:125. T7 S.6 Sch.38 | 1922– | Sweveghen Escher Wyss & Cie Dampfturbinenfundamente
+[OHNE] ID 68 P61 E2 Dossier VII.308.C.a.:125. T8 S.6 Sch.38 | 1922– | Palermo Escher Wyss & Cie Dampfturbinenfundamente
+[OHNE] ID 69 P61 E2 Dossier VII.308.C.a.:125. T9 S.6 Sch.38 | 1922– | Sanyo-Chuo Escher Wyss & Cie Dampfturbinenfundamente
+[OHNE] ID 70 P61 E2 Dossier VII.308.C.a.:125. T10 S.6 Sch.38 | 1922– | Aulnoye Société d’Eléctricité et Gaz du Nord
+[OHNE] ID 71 P61 E2 Dossier VII.308.C.a.:125. T11 S.6 Sch.38 | 1922– | Liège Escher Wyss & Cie Dampfturbinenfundamente
+[OHNE] ID 72 P61 E2 Dossier VII.308.C.a.:125. T12 S.6 Sch.38 | 1922– | Barcelona Escher Wyss & Cie Dampfturbinenfundamente
+[OHNE] ID 74 P73 E2 Dossier VII.308.C.a.:126. T2 S.7 Sch.39 | 1923– | Amay Société d’Eléctricité du Pays de Liège Dampfturbinenfundamente
+[OHNE] ID 75 P73 E2 Dossier VII.308.C.a.:126. T3 S.7 Sch.39 | 1923– | St. Denis Société d’Eléctricité de Paris, Usine Dampfturbinenfundamente
+[OHNE] ID 76 P73 E2 Dossier VII.308.C.a.:126. T4 S.7 Sch.39 | 1923– | Bitterfeld Escher Wyss & Cie Dampfturbinenfundamente
+[OHNE] ID 77 P73 E2 Dossier VII.308.C.a.:126. T5 S.7 Sch.39 | 1923– | Antoing Escher Wyss & Cie Dampfturbinenfundamente
+[OHNE] ID 78 P73 E2 Dossier VII.308.C.a.:126. T6 S.7 Sch.39 | 1923– | Sequedin Escher Wyss & Cie Dampfturbinenfundamente
+[OHNE] ID 79 P73 E2 Dossier VII.308.C.a.:126. T7 S.7 Sch.39 | 1923– | Bascoup Escher Wyss & Cie Dampfturbinenfundamente
+[OHNE] ID 80 P73 E2 Dossier VII.308.C.a.:126. T8 S.7 Sch.39 | 1924– | Wehrden Escher Wyss & Cie (Roechling) Dampfturbinenfundamente
+[OHNE] ID 81 P73 E2 Dossier VII.308.C.a.:126. T9 S.7 Sch.39 | 1924– | Bruxelles Soc. Interbrabant S. A. (Schaerbeck) Dampfturbinenfundamente
+[OHNE] ID 82 P73 E2 Dossier VII.308.C.a.:126. T10 S.7 Sch.39 | 1924– | Nijmegen Escher Wyss & Cie Dampfturbinenfundamente
+[OHNE] ID 87 P86 E2 Dossier VII.308.C.a.:131. T2 S.7 Sch.42 | 1922– | Zürich Zürcher Kantonalbank, Bahnhoftrasse 9 1921 &
+[OHNE] ID 88 P86 E2 Dossier VII.308.C.a.:131. T3 S.7 Sch.42 | 1922– | Otelfingen Furtbachbrücke 1921 &
+[OHNE] ID 89 P86 E2 Dossier VII.308.C.a.:131. T4 S.7 Sch.42 | 1922– | Rorschach Badeanstalt-Wettbewerb 1921 &
+[OHNE] ID 90 P86 E2 Dossier VII.308.C.a.:131. T5 S.7 Sch.42 | 1922– | Zürich Brauerei Hürlimann, Brandschenkestrasse 150 1921 & Kohlensilos
+[OHNE] ID 91 P86 E2 Dossier VII.308.C.a.:131. T6 S.8 Sch.42 | 1922– | Zürich Stückfärberei am Sihlquai, Sihlquai 333 1921 &
+[OHNE] ID 92 P86 E2 Dossier VII.308.C.a.:131. T7 S.8 Sch.42 | 1922– | Zürich Orell-Füssli, Dietzingerstrasse 3 – 15 1921 & Gussbeton-Installationen
+[OHNE] ID 93 P86 E2 Dossier VII.308.C.a.:131. T8 S.8 Sch.42 | 1922– | Zürich SBB Werkstätte, Hohlstrasse 400 – 402 1921 & Fundationen
+[OHNE] ID 94 P86 E2 Dossier VII.308.C.a.:131. T9 S.8 Sch.42 | 1922– | Zürich Papierfabrik an der Sihl, Giesshübelstrasse 15 1921 &
+[OHNE] ID 95 P86 E2 Dossier VII.308.C.a.:131. T10 S.8 Sch.- | 1922– | Zürich Wehrli & Koller, Mühle Tiefenbrunnen, Seefeldstrasse 1921 & 219
+[OHNE] ID 96 P86 E2 Dossier VII.308.C.a.:131. T11 S.8 Sch.42 | 1922– | Talwil Telegraphen-Direktion Zürich 1921 &
+[OHNE] ID 97 P86 E2 Dossier VII.308.C.a.:131. T12 S.8 Sch.42 | 1922– | Dübendorf Grossflugzeughalle 1921 & Projekt
+[OHNE] ID 98 P86 E2 Dossier VII.308.C.a.:131. T13 S.8 Sch.42 | 1922– | Zürich Escher-Abegg, Scheideggstrasse 22 1921 & Wasserbehälter
+[OHNE] ID 99 P86 E2 Dossier VII.308.C.a.:131. T14 S.8 Sch.42 | 1922– | Luino Staumauer an der Tresa 1921 &
+[OHNE] ID 100 P86 E2 Dossier VII.308.C.a.:131. T15 S.8 Sch.42 | 1922– | Schaffhausen Gaswerk Reichenbach 1921 & Koksseparation
+[OHNE] ID 101 P86 E2 Dossier VII.308.C.a.:131. T16 S.8 Sch.42 | 1922– | Frauenfeld Brücke über die Murg 1921 &
+[OHNE] ID 102 P86 E2 Dossier VII.308.C.a.:131. T17 S.8 Sch.42 | 1922– | Schlieren Waggonfabrik 1921 & Elektrischer Waggonaufzug
+[OHNE] ID 103 P86 E2 Dossier VII.308.C.a.:131. T18 S.8 Sch.42 | 1922– | Uesslingen Verstärkung der Kirchenfundamente 1921 &
+[OHNE] ID 104 P86 E2 Dossier VII.308.C.a.:131. T19 S.8 Sch.42 | 1924– | Zürich Schweizerische Rückversicherung, Mythenquai 60
+[OHNE] ID 106 P105 E2 Dossier VII.308.C.a.:132. T2 S.8 Sch.43 | 1923– | Zürich Meili & Briner, Fraumünsterstrasse 23 Klärtonne
+[OHNE] ID 107 P105 E2 Dossier VII.308.C.a.:132. T3 S.8 Sch.43 | 1923– | Zürich Brauerei Hürlimann AG, Brandschenkestrasse 150
+[OHNE] ID 108 P105 E2 Dossier VII.308.C.a.:132. T4 S.8 Sch.43 | 1923– | Zürich Mühlengenossenschaft Schweiz. Konsumvereine Zürich, Getreidesilo, Sihlquai 306
+[OHNE] ID 109 P105 E2 Dossier VII.308.C.a.:132. T5 S.9 Sch.43 | 1923– | Sood AG Textilprodukte Eisenbeton Treppe
+[OHNE] ID 110 P105 E2 Dossier VII.308.C.a.:132. T6 S.9 Sch.43 | 1923– | Höngg Villa Obereggbühl
+[OHNE] ID 111 P105 E2 Dossier VII.308.C.a.:132. T7 S.9 Sch.43 | 1923– | Frauenfeld Elektr. Werk
+[OHNE] ID 112 P105 E2 Dossier VII.308.C.a.:132. T8 S.9 Sch.43 | 1923– | Zürich SBB - Sihltalbahn, Linksufrige Seebahn, Wiedikoner Tunnel Nordausgang
+[OHNE] ID 113 P105 E2 Dossier VII.308.C.a.:132. T9 S.9 Sch.43 | 1923– | Zürich Güterbahnhof, Hohlstrasse 150 Freilagerhaus
+[OHNE] ID 114 P105 E2 Dossier VII.308.C.a.:132. T10 S.9 Sch.43 | 1923– | Winterthur Gebrüder Sulzer AG Hochreservoir
+[OHNE] ID 115 P105 E2 Dossier VII.308.C.a.:132. T11 S.9 Sch.43 | 1923– | Zürich Peterhof, Geschäftshaus an der Bahnhhofstrasse 30 Hofvorbau
+[OHNE] ID 117 P116 E2 Dossier VII.308.C.a.:133. T2 S.9 Sch.44 | 1922– | Richterswil SBB Brücke Strassenbrücke
+[OHNE] ID 118 P116 E2 Dossier VII.308.C.a.:133. T3 S.9 Sch.44 | 1922– | Richterswil Ufermauer
+[OHNE] ID 119 P116 E2 Dossier VII.308.C.a.:133. T4 S.9 Sch.44 | 1922– | Zürich Verladerampe Zürich HB
+[OHNE] ID 122 P121 E2 Dossier VII.308.C.a.:135. T2 S.9 Sch.46 | 1922–1923 | Klosters Bündner Kraftwerke AG
+[OHNE] ID 132 P131 E2 Dossier VII.308.C.a.:145. T2 S.10 Sch.51 | 1924– | Basel Schweizerische Schleppschiffahrt-Genossenschaft AG
+[OHNE] ID 133 P131 E2 Dossier VII.308.C.a.:145. T3 S.10 Sch.51 | 1924– | Basel Neptun Transport- & Schiffahrts AG
+[OHNE] ID 134 P131 E2 Dossier VII.308.C.a.:145. T4 S.10 Sch.51 | 1924– | Zürich G. A.Bürke, Herzogstrasse 22 Autogarage
+[OHNE] ID 135 P131 E2 Dossier VII.308.C.a.:145. T5 S.10 Sch.51 | 1924– | Zürich Hotel Restaurant St. Gotthard
+[OHNE] ID 136 P131 E2 Dossier VII.308.C.a.:145. T6 S.10 Sch.51 | 1924– | Zürich Peterhof, Geschäfthaus an der Bahnhofstrasse 30
+[OHNE] ID 137 P131 E2 Dossier VII.308.C.a.:145. T7 S.10 Sch.51 | 1924– | Zürich Frau Kiefer
+[OHNE] ID 138 P131 E2 Dossier VII.308.C.a.:145. T8 S.10 Sch.51 | 1924– | Horgen Stückfärberei Zürich
+[OHNE] ID 139 P131 E2 Dossier VII.308.C.a.:145. T9 S.11 Sch.51 | 1924– | Ziegelbrücke SBB, Bahnhofserweiterung Personendurchgang
+[OHNE] ID 140 P131 E2 Dossier VII.308.C.a.:145. T10 S.11 Sch.51 | 1924– | Baden Kraftwerk Aue
+[OHNE] ID 141 P131 E2 Dossier VII.308.C.a.:145. T11 S.11 Sch.51 | 1924– | Romanshorn Wohnhaus Dr. Bänziger
+[OHNE] ID 142 P131 E2 Dossier VII.308.C.a.:145. T12 S.11 Sch.51 | 1924– | Laufenburg Kraftwerk Eisenbetonkisten
+[OHNE] ID 143 P131 E2 Dossier VII.308.C.a.:145. T13 S.11 Sch.51 | 1924– | Zürich Eidgenössische Telefon-Verwaltung
+[OHNE] ID 144 P131 E2 Dossier VII.308.C.a.:145. T14 S.11 Sch.51 | 1924– | Zürich Brauerei Hürlimann AG, Brandschenkestrasse 150
+[OHNE] ID 147 P146 E2 Dossier VII.308.C.a.:147. T2 S.11 Sch.54 | 1924– | Widnau Schweiz. Viscose-Gesellschaft
+[OHNE] ID 149 P148 E2 Dossier VII.308.C.a.:148. T2 S.11 Sch.56 | 1924– | Horgen Maschinenfabrik Schweiter AG
+[OHNE] ID 156 P155 E2 Dossier VII.308.C.a.:154. T2 S.12 Sch.62 | 1925– | Breitenbach Bühlmann Architekt
+[OHNE] ID 157 P155 E2 Dossier VII.308.C.a.:154. T3 S.12 Sch.62 | 1925– | Baden Landvogteischloss Renovation
+[OHNE] ID 158 P155 E2 Dossier VII.308.C.a.:154. T4 S.12 Sch.62 | 1925– | Langenthal Gugelmann & Cie Permutitanlage Salzwassergebäude
+[OHNE] ID 159 P155 E2 Dossier VII.308.C.a.:154. T5 S.12 Sch.62 | 1925– | Zürich Brauerei Hürlimann, Brandschenkestrasse 150
+[OHNE] ID 160 P155 E2 Dossier VII.308.C.a.:154. T6 S.13 Sch.62 | 1925– | Oerlikon Maschinenfabrik, Affolternstrasse 52
+[OHNE] ID 161 P155 E2 Dossier VII.308.C.a.:154. T7 S.13 Sch.62 | 1925– | Küsnacht Terlinden & Cie
+[OHNE] ID 162 P155 E2 Dossier VII.308.C.a.:154. T8 S.13 Sch.62 | 1925– | Glattfelden Elektrizitätswerke
+[OHNE] ID 163 P155 E2 Dossier VII.308.C.a.:154. T9 S.13 Sch.62 | 1925– | Zürich Dr. Hürlimann
+[OHNE] ID 164 P155 E2 Dossier VII.308.C.a.:154. T10 S.13 Sch.62 | 1925– | Zürich Papierfabrik an der Sihl, Giesshübelstrasse 15
+[OHNE] ID 165 P155 E2 Dossier VII.308.C.a.:154. T11 S.13 Sch.62 | 1925– | Horgen Stückfärberei Zürich, Filiale Horgen
+[OHNE] ID 166 P155 E2 Dossier VII.308.C.a.:154. T12 S.13 Sch.62 | 1925– | Zürich Städtische Strassenbahnen Zürich
+[OHNE] ID 167 P155 E2 Dossier VII.308.C.a.:154. T13 S.13 Sch.62 | 1925– | Holderbank Zementfabrik
+[OHNE] ID 182 P181 E2 Dossier VII.308.C.a.:172. T2 S.15 Sch.73 | 1926–1927 | Zürich Freilagerhaus Güterbahnhof
+[OHNE] ID 184 P183 E2 Dossier VII.308.C.a.:174. T2 S.15 Sch.73 | 1925– | Amagasaki Escher Wyss & Cie
+[OHNE] ID 185 P183 E2 Dossier VII.308.C.a.:174. T3 S.16 Sch.73 | 1925– | Newport Escher Wyss & Cie
+[OHNE] ID 186 P183 E2 Dossier VII.308.C.a.:174. T4 S.16 Sch.73 | 1925– | Powell-Duffryn Steam Coal Cie Ltd
+[OHNE] ID 187 P183 E2 Dossier VII.308.C.a.:174. T5 S.16 Sch.73 | 1925– | Amsterdam Escher Wyss & Cie
+[OHNE] ID 188 P183 E2 Dossier VII.308.C.a.:174. T6 S.16 Sch.73 | 1925– | Wehrden Escher Wyss & Cie
+[OHNE] ID 189 P183 E2 Dossier VII.308.C.a.:174. T7 S.16 Sch.74 | 1925– | Jury Escher Wyss & Cie
+[OHNE] ID 191 P190 E2 Dossier VII.308.C.a.:175. T2 S.16 Sch.74 | 1927– | Zürich Berichthaus, Blaufahnenstrasse 8 / Münstergasse
+[OHNE] ID 192 P190 E2 Dossier VII.308.C.a.:175. T3 S.16 Sch.74 | 1927– | Zürich Dr. Früh, Freiestrasse 6
+[OHNE] ID 193 P190 E2 Dossier VII.308.C.a.:175. T4 S.16 Sch.74 | 1927– | Zürich F. Zehnder, Seefeldstrasse 92
+[OHNE] ID 194 P190 E2 Dossier VII.308.C.a.:175. T5 S.16 Sch.74 | 1927– | Zürich Wagner & Cie
+[OHNE] ID 195 P190 E2 Dossier VII.308.C.a.:175. T6 S.16 Sch.74 | 1927– | Thalwil Färberei Weidmann AG
+[OHNE] ID 196 P190 E2 Dossier VII.308.C.a.:175. T7 S.16 Sch.74 | 1927– | Zürich Brauerei Hürlimann AG, Brandschenkestrasse 150
+[OHNE] ID 197 P190 E2 Dossier VII.308.C.a.:175. T8 S.16 Sch.75 | 1927– | Zürich Reishauer AG, Limmatstrasse 77 – 87
+[OHNE] ID 198 P190 E2 Dossier VII.308.C.a.:175. T9 S.16 Sch.75 | 1927– | Zürich Stückfärberei am Sihlquai, Sihlquai 333
+[OHNE] ID 199 P190 E2 Dossier VII.308.C.a.:175. T10 S.17 Sch.75 | 1927– | Grellingen A. Ziegler & Cie, Papierfabrik
+[OHNE] ID 200 P190 E2 Dossier VII.308.C.a.:175. T11 S.17 Sch.75 | 1927– | Cham Papierfabrik AG
+[OHNE] ID 201 P190 E2 Dossier VII.308.C.a.:175. T12 S.17 Sch.75 | 1927– | Tavanasa Kantonales Bauamt Graubünden
+[OHNE] ID 202 P190 E2 Dossier VII.308.C.a.:175. T13 S.17 Sch.75 | 1927– | Zürich Papierfabrik an der Sihl, Giesshübelstrasse 15
+[OHNE] ID 205 P204 E2 Dossier VII.308.C.a.:178. T2 S.17 Sch.76 | 1926– | Berndorf Escher Wyss & Cie
+[OHNE] ID 206 P204 E2 Dossier VII.308.C.a.:178. T3 S.17 Sch.76 | 1926– | Brüxelloise Escher Wyss & Cie
+[OHNE] ID 207 P204 E2 Dossier VII.308.C.a.:178. T4 S.17 Sch.77 | 1926– | Kelenföld Escher Wyss & Cie
+[OHNE] ID 208 P204 E2 Dossier VII.308.C.a.:178. T5 S.17 Sch.77 | 1926– | Strassburg Escher Wyss & Cie
+[OHNE] ID 210 P209 E2 Dossier VII.308.C.a.:179. T2 S.17 Sch.77 | 1926– | Weinfelden Obertelegraphen Direktion Bern
+[OHNE] ID 211 P209 E2 Dossier VII.308.C.a.:179. T3 S.17 Sch.77 | 1926– | Zürich Häfner, Metzgerei
+[OHNE] ID 212 P209 E2 Dossier VII.308.C.a.:179. T4 S.18 Sch.77 | 1926– | Zürich Hochbauamt der Stadt Zürich
+[OHNE] ID 213 P209 E2 Dossier VII.308.C.a.:179. T5 S.18 Sch.78 | 1926– | St. Denis Société d’Eléctricité de Paris
+[OHNE] ID 214 P209 E2 Dossier VII.308.C.a.:179. T6 S.18 Sch.78 | 1926– | St. Margarethen Holzindustrie St. Margarethen AG
+[OHNE] ID 215 P209 E2 Dossier VII.308.C.a.:179. T7 S.18 Sch.78 | 1926– | Zürich Stückfärberei am Sihlquai, Sihlquai 333
+[OHNE] ID 216 P209 E2 Dossier VII.308.C.a.:179. T8 S.18 Sch.78 | 1926– | Langenthal Gugelmann & Cie Salzwasserbassin, Skizze
+[OHNE] ID 217 P209 E2 Dossier VII.308.C.a.:179. T9 S.18 Sch.78 | 1926– | Cham Papierfabrik AG
+[OHNE] ID 218 P209 E2 Dossier VII.308.C.a.:179. T10 S.18 Sch.78 | 1926– | Beznau Kraftwerk
+[OHNE] ID 219 P209 E2 Dossier VII.308.C.a.:179. T11 S.18 Sch.78 | 1926– | Oerlikon Maschinenfabrik, Affolternstrasse 52
+[OHNE] ID 221 P220 E2 Dossier VII.308.C.a.:180. T2 S.18 Sch.79 | 1927– | Zürich Freilagerhaus Güterbahnhof Rapporte
+[OHNE] ID 230 P229 E2 Dossier VII.308.C.a.:188. T2 S.19 Sch.88 | 1926–1927 | Zürich Schanzenhof
+[OHNE] ID 232 P231 E2 Dossier VII.308.C.a.:189. T2 S.19 Sch.89 | 1926–1927 | Zürich Schanzenhof
+[OHNE] ID 234 P233 E2 Dossier VII.308.C.a.:190. T2 S.20 Sch.91 | 1927– | Zürich Stückfärberei am Sihlquai
+[OHNE] ID 236 P235 E2 Dossier VII.308.C.a.:191. T2 S.20 Sch.92 | 1927– | Zürich Stückfärberei am Sihlquai
+[OHNE] ID 238 P237 E2 Dossier VII.308.C.a.:192. T2 S.20 Sch.93 | 1928– | Zürich Stückfärberei am Sihlquai
+[OHNE] ID 243 P242 E2 Dossier VII.308.C.a.:196. T2 S.20 Sch.97 | 1928– | Basel Ciba
+[OHNE] ID 247 P246 E2 Dossier VII.308.C.a.:199. T2 S.21 Sch.100 | 1929– | Breitenbach Isolawerke Neubau
+[OHNE] ID 249 P248 E2 Dossier VII.308.C.a.:200. T2 S.21 Sch.101 | 1929– | Zürich Freilagerhaus Güterbahnhof
+[OHNE] ID 251 P250 E2 Dossier VII.308.C.a.:201. T2 S.21 Sch.102 | 1928–1930 | Zürich Sihlpostgebäude
+[OHNE] ID 253 P252 E2 Dossier VII.308.C.a.:202. T2 S.21 Sch.104 | 1928–1930 | Zürich Sihlpostgebäude
+[OHNE] ID 255 P254 E2 Dossier VII.308.C.a.:203. T2 S.21 Sch.105 | 1928–1930 | Zürich Sihlpostgebäude
+[OHNE] ID 257 P256 E2 Dossier VII.308.C.a.:204. T2 S.21 Sch.107 | 1928–1930 | Zürich Sihlpostgebäude
+[OHNE] ID 259 P258 E2 Dossier VII.308.C.a.:205. T2 S.21 Sch.108 | 1928–1930 | Zürich Sihlpostgebäude
+[OHNE] ID 261 P260 E2 Dossier VII.308.C.a.:206. T2 S.22 Sch.109 | 1928–1930 | Zürich Sihlpostgebäude
+[OHNE] ID 263 P262 E2 Dossier VII.308.C.a.:207. T2 S.22 Sch.110 | 1928–1930 | Zürich Sihlpostgebäude
+[OHNE] ID 265 P264 E2 Dossier VII.308.C.a.:208. T2 S.22 Sch.112 | 1929–1930 | Zürich Börse
+[OHNE] ID 267 P266 E2 Dossier VII.308.C.a.:209. T2 S.22 Sch.114 | 1929–1930 | Zürich Börse
+[OHNE] ID 270 P269 E2 Dossier VII.308.C.a.:211. T2 S.22 Sch.117 | 1929–1930 | Zürich Börse
+[OHNE] ID 275 P274 E2 Dossier VII.308.C.a.:215. T2 S.23 Sch.119 | 1929–1930 | Zürich Börse
+[OHNE] ID 277 P276 E2 Dossier VII.308.C.a.:216. T2 S.23 Sch.120 | 1929–1930 | Zürich Börse
+[OHNE] ID 278 P276 E2 Dossier VII.308.C.a.:216. T3 S.23 Sch.121 | 1929–1930 | Zürich Börse
+[OHNE] ID 279 P276 E2 Dossier VII.308.C.a.:216. T4 S.23 Sch.122 | 1929–1930 | Zürich Börse
+[OHNE] ID 282 P281 E2 Dossier VII.308.C.a.:218. T2 S.23 Sch.124 | 1930– | Basel Dreirosenbrücke
+[OHNE] ID 289 P288 E2 Dossier VII.308.C.a.:224. T2 S.24 Sch.131 | 1929–1930 | Zürich Papierfabrik an der Sihl
+[OHNE] ID 293 P292 E2 Dossier VII.308.C.a.:227. T2 S.25 Sch.135 | 1930–1931 | Zürich Papierfabrik an der Sihl
+[OHNE] ID 295 P294 E2 Dossier VII.308.C.a.:228. T2 S.25 Sch.135 | 1930– | Zürich Bahnhofbrücke
+[OHNE] ID 296 P294 E2 Dossier VII.308.C.a.:228. T3 S.25 Sch.135 | 1931– | Zürich Sihlhölzli
+[OHNE] ID 297 P294 E2 Dossier VII.308.C.a.:228. T4 S.25 Sch.135 | 1931– | Zürich Warenhaus Jelmoli, Seidengasse 4 – 6
+[OHNE] ID 298 P294 E2 Dossier VII.308.C.a.:228. T5 S.25 Sch.135 | 1930– | Zürich Telephongebäude Riedtlistrasse, Riedtlistrasse 25
+[OHNE] ID 301 P300 E2 Dossier VII.308.C.a.:230. T2 S.25 Sch.138 | 1929–1930 | Schlieren Gaswerk der Stadt Zürich
+[OHNE] ID 303 P302 E2 Dossier VII.308.C.a.:231. T2 S.26 Sch.140 | 1930–1931 | Schlieren Waggons- und Aufzugfabrik
+[OHNE] ID 306 P305 E2 Dossier VII.308.C.a.:233. T2 S.26 Sch.141 | 1927– | Jamshedpur Tata Iron and Steel Co
+[OHNE] ID 307 P305 E2 Dossier VII.308.C.a.:233. T3 S.26 Sch.141 | 1927– | Newport Escher Wyss & Cie
+[OHNE] ID 309 P308 E2 Dossier VII.308.C.a.:234. T2 S.26 Sch.142 | 1928– | Zürich Escher Wyss & Cie, Hardstrasse 295
+[OHNE] ID 310 P308 E2 Dossier VII.308.C.a.:234. T3 S.26 Sch.142 | 1928– | Rapperswil Dr. H. Gwalter
+[OHNE] ID 311 P308 E2 Dossier VII.308.C.a.:234. T4 S.26 Sch.142 | 1928– | Aarau Jura Cementfabriken
+[OHNE] ID 312 P308 E2 Dossier VII.308.C.a.:234. T5 S.26 Sch.142 | 1928– | Zürich P. Bon, Brunaustrasse 19
+[OHNE] ID 313 P308 E2 Dossier VII.308.C.a.:234. T6 S.26 Sch.142 | 1928– | Zürich Hochbauamt der Stadt Zürich
+[OHNE] ID 314 P308 E2 Dossier VII.308.C.a.:234. T7 S.27 Sch.142 | 1928– | Zürich Hochbauamt der Stadt Zürich
+[OHNE] ID 315 P308 E2 Dossier VII.308.C.a.:234. T8 S.27 Sch.142 | 1928– | Zürich Stückfärberei am Sihlquai, Sihlquai 333
+[OHNE] ID 316 P308 E2 Dossier VII.308.C.a.:234. T9 S.27 Sch.142 | 1928– | Frauenfeld Murgbrücke
+[OHNE] ID 317 P308 E2 Dossier VII.308.C.a.:234. T10 S.27 Sch.142 | 1928– | Thalwil Färberei Weidmann AG
+[OHNE] ID 318 P308 E2 Dossier VII.308.C.a.:234. T11 S.27 Sch.142 | 1928– | Zürich Brauerei Hürlimann AG, Brandschenkestrasse 150
+[OHNE] ID 321 P320 E2 Dossier VII.308.C.a.:236. T2 S.27 Sch.143 | 1929– | Thalwil Färberei Weidmann AG
+[OHNE] ID 322 P320 E2 Dossier VII.308.C.a.:236. T3 S.27 Sch.143 | 1929– | Zürich Neue Zürcher Zeitung, Falkengasse 11 – 13
+[OHNE] ID 323 P320 E2 Dossier VII.308.C.a.:236. T4 S.27 Sch.143 | 1929– | Zürich Papierfabrik an der Sihl, Giesshübelstrasse 15
+[OHNE] ID 324 P320 E2 Dossier VII.308.C.a.:236. T5 S.27 Sch.143 | 1929– | Zürich Weinhandlung Landolt, Brandschenkestrasse 64
+[OHNE] ID 325 P320 E2 Dossier VII.308.C.a.:236. T6 S.28 Sch.143 | 1929– | Dietikon Kraftwerke an der Reuss Bremgarten
+[OHNE] ID 326 P320 E2 Dossier VII.308.C.a.:236. T7 S.28 Sch.143 | 1929– | Zürich Sihltalbahn
+[OHNE] ID 327 P320 E2 Dossier VII.308.C.a.:236. T8 S.28 Sch.143 | 1929– | Zürich Stückfärberei am Sihlquai, Sihlquai 333
+[OHNE] ID 328 P320 E2 Dossier VII.308.C.a.:236. T9 S.28 Sch.143 | 1929– | Winterthur Unfallversicherungs AG
+[OHNE] ID 329 P320 E2 Dossier VII.308.C.a.:236. T10 S.28 Sch.143 | 1929– | Wildegg Aarg. Portlandzementfabrik
+[OHNE] ID 331 P330 E2 Dossier VII.308.C.a.:237. T2 S.28 Sch.144 | 1929–1930 | Ville sur Haine Escher Wyss & Cie
+[OHNE] ID 332 P330 E2 Dossier VII.308.C.a.:237. T3 S.28 Sch.144 | 1929–1930 | Neuhausen Schweizerische Industrie-Gesellschaft
+[OHNE] ID 333 P330 E2 Dossier VII.308.C.a.:237. T4 S.28 Sch.144 | 1929–1930 | Court- S. A. Henricot
+[OHNE] ID 334 P330 E2 Dossier VII.308.C.a.:237. T5 S.28 Sch.144 | 1929–1930 | Teneriffa Cia. Electrica e Industrial de Teneriffe
+[OHNE] ID 335 P330 E2 Dossier VII.308.C.a.:237. T6 S.28 Sch.144 | 1929–1930 | Pont-à-Vendin Etablissements Cambier
+[OHNE] ID 336 P330 E2 Dossier VII.308.C.a.:237. T7 S.28 Sch.144 | 1929–1930 | Leicester, City Maschinenfabrik Oerlikon
+[OHNE] ID 337 P330 E2 Dossier VII.308.C.a.:237. T8 S.28 Sch.144 | 1929–1930 | Maurage Charbonnages
+[OHNE] ID 338 P330 E2 Dossier VII.308.C.a.:237. T9 S.29 Sch.144 | 1929–1930 | Palembang Ned. - Ind. Gas, Mij, Dampfzentrale
+[OHNE] ID 339 P330 E2 Dossier VII.308.C.a.:237. T10 S.29 Sch.144 | 1929–1930 | Pommeroeul S.A. des Charbonnages d’Hensies
+[OHNE] ID 340 P330 E2 Dossier VII.308.C.a.:237. T11 S.29 Sch.144 | 1929–1930 | Anzin Compagnie des Mines d’Anzin
+[OHNE] ID 346 P345 E2 Dossier VII.308.C.a.:242. T2 S.29 Sch.147 | 1930– | Zürich Stückfärberei am Sihlquai, Sihlquai 333
+[OHNE] ID 347 P345 E2 Dossier VII.308.C.a.:242. T3 S.29 Sch.147 | 1930– | Schwanden Kraftwerke Sernf-Niederenbach AG
+[OHNE] ID 348 P345 E2 Dossier VII.308.C.a.:242. T4 S.30 Sch.147 | 1930– | Zürich Mühle Tiefenbrunnen, Seefeldstrasse 219
+[OHNE] ID 349 P345 E2 Dossier VII.308.C.a.:242. T5 S.30 Sch.147 | 1930– | Zürich Escher Wyss & Cie, Hardstrasse 295
+[OHNE] ID 350 P345 E2 Dossier VII.308.C.a.:242. T6 S.30 Sch.147 | 1930– | Zürich Familiengrab Rütschi
+[OHNE] ID 351 P345 E2 Dossier VII.308.C.a.:242. T7 S.30 Sch.147 | 1930– | Zürich Polizeikommissariat
+[OHNE] ID 352 P345 E2 Dossier VII.308.C.a.:242. T8 S.30 Sch.147 | 1930– | Feldmeilen Frau H. Kissling
+[OHNE] ID 353 P345 E2 Dossier VII.308.C.a.:242. T9 S.30 Sch.147 | 1930– | London Sulzer Bros. London, Ford Motor Co, Dagenham
+[OHNE] ID 354 P345 E2 Dossier VII.308.C.a.:242. T10 S.30 Sch.147 | 1930– | Zürich Tiefbauamt der Stadt Zürich
+[OHNE] ID 364 P363 E2 Dossier VII.308.C.a.:251. T2 S.31 Sch.154 | 1928– | Widnau Schweiz. Viscose-Gesellschaft
+[OHNE] ID 371 P370 E2 Dossier VII.308.C.a.:257. T2 S.32 Sch.158 | 1928– | Nijni-Novgorod Escher Wyss & Cie
+[OHNE] ID 372 P370 E2 Dossier VII.308.C.a.:257. T3 S.32 Sch.158 | 1928– | Busto Escher Wyss & Cie
+[OHNE] ID 373 P370 E2 Dossier VII.308.C.a.:257. T4 S.32 Sch.158 | 1928– | Schaerbeck Soc. Interbrabant SA
+[OHNE] ID 374 P370 E2 Dossier VII.308.C.a.:257. T5 S.32 Sch.158 | 1929– | Sclessin Escher Wyss & Cie
+[OHNE] ID 375 P370 E2 Dossier VII.308.C.a.:257. T6 S.32 Sch.158 | 1928– | Stephney Borough Council-Electricity Supply
+[OHNE] ID 376 P370 E2 Dossier VII.308.C.a.:257. T7 S.32 Sch.158 | 1929– | Amay Société d’Eléctricité du pays de Liège
+[OHNE] ID 377 P370 E2 Dossier VII.308.C.a.:257. T8 S.32 Sch.159 | 1928– | St. Denis Société d’Eléctricité de Paris
+[OHNE] ID 378 P370 E2 Dossier VII.308.C.a.:257. T9 S.32 Sch.159 | 1928– | Montigny SA de Gas et d’Eléctricité du Haimant
+[OHNE] ID 379 P370 E2 Dossier VII.308.C.a.:257. T10 S.32 Sch.159 | 1929– | Aulnoye Eléctricité et Gaz du Nord
+[OHNE] ID 380 P370 E2 Dossier VII.308.C.a.:257. T11 S.32 Sch.159 | 1929– | Klasson Escher Wyss & Cie
+[OHNE] ID 381 P370 E2 Dossier VII.308.C.a.:257. T12 S.32 Sch.159 | 1929– | Tocopilla Escher Wyss & Cie
+[OHNE] ID 382 P370 E2 Dossier VII.308.C.a.:257. T13 S.32 Sch.159 | 1930– | Powell-Duffryn Steam Coal Co Ltd
+[OHNE] ID 383 P370 E2 Dossier VII.308.C.a.:257. T14 S.33 Sch.159 | 1930– | Jamshedpur Tata Iron and Steel Co
+[OHNE] ID 385 P384 E2 Dossier VII.308.C.a.:258. T2 S.33 Sch.160 | 1931– | Zürich Kantonsspital
+[OHNE] ID 388 P387 E2 Dossier VII.308.C.a.:260. T2 S.33 Sch.162 | 1931–1932 | Kemptthal Maggi AG
+[OHNE] ID 390 P389 E2 Dossier VII.308.C.a.:261. T2 S.33 Sch.163 | 1931–1933 | Dietikon Elektrizitätswerke des Kantons Zürich
+[OHNE] ID 394 P393 E2 Dossier VII.308.C.a.:264. T2 S.34 Sch.166 | 1932– | Zürich Elektriztätswerk der Stadt Zürich
+[OHNE] ID 401 P400 E2 Dossier VII.308.C.a.:270. T2 S.35 Sch.172 | 1930– | Zürich Hochbauamt der Stadt Zürich
+[OHNE] ID 402 P400 E2 Dossier VII.308.C.a.:270. T3 S.35 Sch.172 | 1930– | Zürich Tiefbauamt der Stadt Zürich
+[OHNE] ID 403 P400 E2 Dossier VII.308.C.a.:270. T4 S.35 Sch.173 | 1929–1930 | Zürich Schweizerische Bundesbahnen, Kreis III
+[OHNE] ID 405 P404 E2 Dossier VII.308.C.a.:271. T2 S.35 Sch.173 | 1928– | Buchs-Schaan Strassen- und Bauinspektorat des Kanton Thurgau, Frauenfeld
+[OHNE] ID 407 P406 E2 Dossier VII.308.C.a.:272. T2 S.36 Sch.174 | – | Oerlikon Maschinenfabrik, Affolternstrasse 52
+[OHNE] ID 408 P406 E2 Dossier VII.308.C.a.:272. T3 S.36 Sch.174 | 1927– | Rüti GL Schuler & Cie
+[OHNE] ID 409 P406 E2 Dossier VII.308.C.a.:272. T4 S.36 Sch.174 | 1928– | Dietikon Walter Benz, Fabrikneubau
+[OHNE] ID 410 P406 E2 Dossier VII.308.C.a.:272. T5 S.36 Sch.174 | 1928– | Ennetbühls GL Kartonfabrik Gebrüder Tschudi
+[OHNE] ID 411 P406 E2 Dossier VII.308.C.a.:272. T6 S.36 Sch.174 | – | Reuchenette Zementwerk R. Vigier SA
+[OHNE] ID 413 P412 E2 Dossier VII.308.C.a.:273. T2 S.36 Sch.174 | 1930– | Mühlehorn GL Walzmühle Heussi & Cie
+[OHNE] ID 414 P412 E2 Dossier VII.308.C.a.:273. T3 S.36 Sch.174 | 1930– | Pfäffikon Getreidesilo C. Egli & Cie
+[OHNE] ID 415 P412 E2 Dossier VII.308.C.a.:273. T4 S.36 Sch.174 | 1930– | Zürich Eidg. Technische Hochschule, Sonneggstrasse 3
+[OHNE] ID 417 P416 E2 Dossier VII.308.C.a.:274. T2 S.36 Sch.175 | – | Zürich Börse, Bleicherweg 5, Talstrasse 9 – 25
+[OHNE] ID 418 P416 E2 Dossier VII.308.C.a.:274. T3 S.36 Sch.175 | – | Zürich Schanzenhof, Talstrasse 11
+[OHNE] ID 419 P416 E2 Dossier VII.308.C.a.:274. T4 S.36 Sch.175 | 1926– | Basel Gaswerk Kokskühlanlage
+[OHNE] ID 421 P420 E2 Dossier VII.308.C.a.:275. T2 S.37 Sch.177 | 1929–1931 | Schlieren Gaswerk der Stadt Zürich
+[OHNE] ID 424 P423 E2 Dossier VII.308.C.a.:277. T2 S.37 Sch.179 | 1929–1932 | Schlieren Gaswerk der Stadt Zürich
+[OHNE] ID 429 P428 E2 Dossier VII.308.C.a.:281. T2 S.37 Sch.182 | 1930–1931 | Zürich Hochbauamt der Stadt Zürich
+[OHNE] ID 432 P431 E2 Dossier VII.308.C.a.:283. T2 S.38 Sch.184 | 1930–1931 | Farciennes Maschinenfabrik Oerlikon
+[OHNE] ID 433 P431 E2 Dossier VII.308.C.a.:283. T3 S.38 Sch.184 | 1930–1931 | Brunswick Maschinenfabrik Oerlikon
+[OHNE] ID 434 P431 E2 Dossier VII.308.C.a.:283. T4 S.38 Sch.184 | 1930–1931 | Maurage Maschinenfabrik Oerlikon
+[OHNE] ID 435 P431 E2 Dossier VII.308.C.a.:283. T5 S.38 Sch.184 | 1930–1931 | Alger Maschinenfabrik Oerlikon
+[OHNE] ID 436 P431 E2 Dossier VII.308.C.a.:283. T6 S.38 Sch.184 | 1930–1931 | Lomme Maschinenfabrik Oerlikon
+[OHNE] ID 437 P431 E2 Dossier VII.308.C.a.:283. T7 S.38 Sch.184 | 1930–1931 | Maschinenfabrik Oerlikon
+[OHNE] ID 439 P438 E2 Dossier VII.308.C.a.:284. T2 S.38 Sch.185 | 1931– | Jvry Escher Wyss & Cie
+[OHNE] ID 440 P438 E2 Dossier VII.308.C.a.:284. T3 S.38 Sch.185 | 1931– | Miike-Mine Escher Wyss & Cie
+[OHNE] ID 442 P441 E2 Dossier VII.308.C.a.:285. T2 S.38 Sch.186 | 1931– | Groningen Maschinenfabrik Oerlikon
+[OHNE] ID 446 P445 E2 Dossier VII.308.C.a.:288. T2 S.39 Sch.188 | 1931– | Neuenburg Gebrüder Sulzer
+[OHNE] ID 447 P445 E2 Dossier VII.308.C.a.:288. T3 S.39 Sch.188 | 1931– | Meilen Gemeinde Meilen
+[OHNE] ID 448 P445 E2 Dossier VII.308.C.a.:288. T4 S.39 Sch.188 | 1931– | Zürich Prof. Dr. Fierz, Kraftstrasse 28
+[OHNE] ID 449 P445 E2 Dossier VII.308.C.a.:288. T5 S.39 Sch.188 | 1931– | St. Denis Brown, Boveri & Cie
+[OHNE] ID 450 P445 E2 Dossier VII.308.C.a.:288. T6 S.39 Sch.188 | 1931– | Thalwil Färberei Weidmann AG
+[OHNE] ID 451 P445 E2 Dossier VII.308.C.a.:288. T7 S.39 Sch.188 | 1931– | Wädenswil Schweizerische Bundesbahnen, Kreis III
+[OHNE] ID 452 P445 E2 Dossier VII.308.C.a.:288. T8 S.39 Sch.188 | 1931– | Reuchenette Zementwerk R Vigier SA, Plan von Locher & Co & Pläne von G. Polysius, Dessau
+[OHNE] ID 453 P445 E2 Dossier VII.308.C.a.:288. T9 S.39 Sch.188 | 1931– | Chantenay Centrale de Chantenay, Alsthom
+[OHNE] ID 454 P445 E2 Dossier VII.308.C.a.:288. T10 S.39 Sch.188 | 1931– | Zürich Frau Dir. Kautz, Susenbergstrasse 160
+[OHNE] ID 455 P445 E2 Dossier VII.308.C.a.:288. T11 S.39 Sch.188 | 1931– | Zürich Altdirektor E. Gross, Winkelwiese 10
+[OHNE] ID 456 P445 E2 Dossier VII.308.C.a.:288. T12 S.40 Sch.188 | 1931– | Züich Sprüngli, Konditorei, Paradeplatz, Bahnhofstrasse 21
+[OHNE] ID 457 P445 E2 Dossier VII.308.C.a.:288. T13 S.40 Sch.188 | 1931– | Richterswil Teigwarenfabrik A. Rebsamen
+[OHNE] ID 460 P459 E2 Dossier VII.308.C.a.:290. T2 S.40 Sch.190 | 1931–1932 | Dietikon Elektrizitätswerke des Kantons Zürich
+[OHNE] ID 465 P464 E2 Dossier VII.308.C.a.:294. T2 S.40 Sch.194 | 1932– | Wohlen A. Kuhn & Cie, Neumühle
+[OHNE] ID 466 P464 E2 Dossier VII.308.C.a.:294. T3 S.40 Sch.194 | 1932– | Sins Baudirektion des Kantons Zug
+[OHNE] ID 467 P464 E2 Dossier VII.308.C.a.:294. T4 S.40 Sch.194 | 1932– | Zürich Hochbauamt des Kantons Zürich, Dreiwiesenstrasse 240 – 248
+[OHNE] ID 468 P464 E2 Dossier VII.308.C.a.:294. T5 S.40 Sch.194 | 1932– | Zürich Eidg. Technische Hochschule, Sonneggstrasse 3
+[OHNE] ID 469 P464 E2 Dossier VII.308.C.a.:294. T6 S.40 Sch.194 | 1932– | Zürich Escher Wyss & Cie, Hardstrasse 295 Ravitationsanlage-Ausgleichsbecken, Pläne von Loche
+[OHNE] ID 470 P464 E2 Dossier VII.308.C.a.:294. T7 S.41 Sch.194 | 1932– | Zürich Dampfboot-Gesellschaft Zürichsee AG, Wollishofen, Seestrasse 463
+[OHNE] ID 471 P464 E2 Dossier VII.308.C.a.:294. T8 S.41 Sch.194 | 1932– | Zürich Baugeschäft A. Brunner
+[OHNE] ID 472 P464 E2 Dossier VII.308.C.a.:294. T9 S.41 Sch.194 | 1932– | Romanshorn Architekt Mörikofer, Romanshorn Hafenprojekt, Skizzen
+[OHNE] ID 473 P464 E2 Dossier VII.308.C.a.:294. T10 S.41 Sch.194 | 1932– | Zürich Kieswerk Tiefenbrunnen, Seefeldstrasse 92
+[OHNE] ID 474 P464 E2 Dossier VII.308.C.a.:294. T11 S.41 Sch.194 | 1932– | Manfalout Ministere de l’intérieur, Fivision des municipalités Reservoir der 300 m3 en béton
+[OHNE] ID 475 P464 E2 Dossier VII.308.C.a.:294. T12 S.41 Sch.195 | 1932– | Zürich Bürke & Co, Kohlen en gros, Lagerstrasse 11
+[OHNE] ID 476 P464 E2 Dossier VII.308.C.a.:294. T13 S.41 Sch.195 | 1932– | Baden Brown, Boveri & Cie
+[OHNE] ID 477 P464 E2 Dossier VII.308.C.a.:294. T14 S.41 Sch.195 | 1932– | Yverdon Pont de Gleyres
+[OHNE] ID 478 P464 E2 Dossier VII.308.C.a.:294. T15 S.41 Sch.195 | 1932– | Zürich Kirche Wollishofen, Auf der Egg
+[OHNE] ID 479 P464 E2 Dossier VII.308.C.a.:294. T16 S.41 Sch.195 | 1932– | Bern Gebrüder Sulzer
+[OHNE] ID 480 P464 E2 Dossier VII.308.C.a.:294. T17 S.41 Sch.195 | 1932– | Seebach Baugenossenschaft am Damm
+[OHNE] ID 481 P464 E2 Dossier VII.308.C.a.:294. T18 S.41 Sch.195 | 1932– | Zürich Kantonale Verwaltung Walcheareal, Neumühlequai Sondierschächte
+[OHNE] ID 487 P486 E2 Dossier VII.308.C.a.:299. T2 S.42 Sch.200 | 1931–1932 | Richterswil Teigwarenfabrik A. Rebsamen & Cie
+[OHNE] ID 490 P489 E2 Dossier VII.308.C.a.:301. T2 S.42 Sch.202 | 1929–1930 | Oerlikon Maschinenfabrik
+[OHNE] ID 498 P497 E2 Dossier VII.308.C.a.:308. T2 S.43 Sch.206 | 1933– | Velsen Escher Wyss & Cie
+[OHNE] ID 499 P497 E2 Dossier VII.308.C.a.:308. T3 S.43 Sch.206 | – | Hagondange Maschinenfabrik Oerlikon
+[OHNE] ID 500 P497 E2 Dossier VII.308.C.a.:308. T4 S.43 Sch.206 | – | Zwolle Escher Wyss & Cie
+[OHNE] ID 501 P497 E2 Dossier VII.308.C.a.:308. T5 S.43 Sch.206 | 1933– | Dublin Irish Free State Electricity: Pigeon House Fort Dublin
+[OHNE] ID 503 P502 E2 Dossier VII.308.C.a.:309. T2 S.43 Sch.208 | 1932–1933 | Shanghai Gebrüder Sulzer AG, Kraftwerk
+[OHNE] ID 505 P504 E2 Dossier VII.308.C.a.:310. T2 S.44 Sch.208 | 1933– | Rapperswil Schweizerische Post-, Telegramm- & Telefonverwaltung Bern
+[OHNE] ID 507 P506 E2 Dossier VII.308.C.a.:311. T2 S.44 Sch.209 | 1933– | Zürich Brauerei Hürlimann AG, Brandschenkestrasse 150
+[OHNE] ID 508 P506 E2 Dossier VII.308.C.a.:311. T3 S.44 Sch.209 | 1933– | Zürich Brauerei Hürlimann AG, Brandschenkestrasse 150
+[OHNE] ID 509 P506 E2 Dossier VII.308.C.a.:311. T4 S.44 Sch.209 | 1933– | Lugano Gaswerk
+[OHNE] ID 510 P506 E2 Dossier VII.308.C.a.:311. T5 S.44 Sch.209 | 1933– | Malters B. Fuchs, Söhne Mühle Malters
+[OHNE] ID 511 P506 E2 Dossier VII.308.C.a.:311. T6 S.44 Sch.209 | 1933– | Genf Cercle des agricultuers du Canton de Genève
+[OHNE] ID 512 P506 E2 Dossier VII.308.C.a.:311. T7 S.44 Sch.209 | 1933– | Baar Gebrüder Hotz Mühle Baar
+[OHNE] ID 513 P506 E2 Dossier VII.308.C.a.:311. T8 S.44 Sch.209 | 1933– | Zürich Gaswerk der Stadt Zürich, Geroldstrasse 21
+[OHNE] ID 514 P506 E2 Dossier VII.308.C.a.:311. T9 S.44 Sch.209 | 1933– | Zürich Hochbauinspektorat der Stadt Zürich, Mythenquai 95
+[OHNE] ID 515 P506 E2 Dossier VII.308.C.a.:311. T10 S.44 Sch.209 | 1933– | Sirnach Zweifel AG
+[OHNE] ID 516 P506 E2 Dossier VII.308.C.a.:311. T11 S.45 Sch.209 | 1933– | Zürich Hochbauamt der Stadt Zürich
+[OHNE] ID 517 P506 E2 Dossier VII.308.C.a.:311. T12 S.45 Sch.209 | 1933– | Zürich Escher Wyss & Cie, Hardstrasse 295
+[OHNE] ID 518 P506 E2 Dossier VII.308.C.a.:311. T13 S.45 Sch.209 | 1933– | Zürich Tiefbauamt der Stadt Zürich
+[OHNE] ID 519 P506 E2 Dossier VII.308.C.a.:311. T14 S.45 Sch.209 | 1933– | Engstringen Tiefbauamt des Kantons Zürich
+[OHNE] ID 520 P506 E2 Dossier VII.308.C.a.:311. T15 S.45 Sch.209 | 1933– | Basel Gebrüder Sulzer AG
+[OHNE] ID 521 P506 E2 Dossier VII.308.C.a.:311. T16 S.45 Sch.209 | 1933– | Basel J. H. Eckinger
+[OHNE] ID 525 P524 E2 Dossier VII.308.C.a.:314. T2 S.45 Sch.213 | 1931– | Zürich Seidentrocknungsanstalt
+[OHNE] ID 527 P526 E2 Dossier VII.308.C.a.:315. T2 S.45 Sch.215 | 1933– | Zürich Neues Schloss
+[OHNE] ID 528 P526 E2 Dossier VII.308.C.a.:315. T3 S.45 Sch.216 | 1933– | Zürich Neues Schloss
+[OHNE] ID 530 P529 E2 Dossier VII.308.C.a.:316. T2 S.45 Sch.217 | 1933– | Zürich Neues Schloss
+[OHNE] ID 531 P529 E2 Dossier VII.308.C.a.:316. T3 S.45 Sch.218 | 1933– | Zürich Neues Schloss
+[OHNE] ID 533 P532 E2 Dossier VII.308.C.a.:317. T2 S.46 Sch.220 | 1933– | Zürich Neues Schloss
+[OHNE] ID 535 P534 E2 Dossier VII.308.C.a.:318. T2 S.46 Sch.222 | 1933– | Zürich Neues Schloss
+[OHNE] ID 537 P536 E2 Dossier VII.308.C.a.:319. T2 S.46 Sch.224 | 1933– | Zürich Neues Schloss
+[OHNE] ID 538 P536 E2 Dossier VII.308.C.a.:319. T3 S.46 Sch.225 | 1933– | Zürich Neues Schloss
+[OHNE] ID 540 P539 E2 Dossier VII.308.C.a.:320. T2 S.46 Sch.227 | 1933– | Zürich Neues Schloss
+[OHNE] ID 542 P541 E2 Dossier VII.308.C.a.:321. T2 S.46 Sch.229 | 1933– | Zürich Neues Schloss
+[OHNE] ID 544 P543 E2 Dossier VII.308.C.a.:322. T2 S.46 Sch.231 | – | Seebach Schulhaus Eisenbetonpläne
+[OHNE] ID 546 P545 E2 Dossier VII.308.C.a.:323. T2 S.46 Sch.233 | – | Seebach Schulhaus Architektenpläne
+[OHNE] ID 548 P547 E2 Dossier VII.308.C.a.:324. T2 S.47 Sch.235 | 1933– | Zürich Pauluskirche, Unterstrass
+[OHNE] ID 550 P549 E2 Dossier VII.308.C.a.:325. T2 S.47 Sch.237 | – | Zürich Schulhaus Wipkingen
+[OHNE] ID 552 P551 E2 Dossier VII.308.C.a.:326. T2 S.47 Sch.238 | – | Zürich Schulhaus Wipkingen
+[OHNE] ID 556 P555 E2 Dossier VII.308.C.a.:329. T2 S.47 Sch.242 | – | Zürich Schulhaus Wipkingen
+[OHNE] ID 558 P557 E2 Dossier VII.308.C.a.:330. T2 S.47 Sch.243 | – | Zürich Schulhaus Wipkingen
+[OHNE] ID 560 P559 E2 Dossier VII.308.C.a.:331. T2 S.47 Sch.244 | – | Zürich Schulhaus Wipkingen
+[OHNE] ID 572 P571 E2 Dossier VII.308.C.a.:342. T2 S.48 Sch.253 | 1932– | Zürich Lebensmittelverein Zürich
+[OHNE] ID 575 P574 E2 Dossier VII.308.C.a.:344. T2 S.49 Sch.256 | – | Zürich Kantonale Verwaltung, Walcheareal
+[OHNE] ID 577 P576 E2 Dossier VII.308.C.a.:345. T2 S.49 Sch.257 | – | Zürich Kantonale Verwaltung, Walcheareal
+[OHNE] ID 579 P578 E2 Dossier VII.308.C.a.:346. T2 S.49 Sch.259 | – | Zürich Kantonale Verwaltung, Walcheareal
+[OHNE] ID 581 P580 E2 Dossier VII.308.C.a.:347. T2 S.49 Sch.261 | – | Zürich Kantonale Verwaltung, Walcheareal
+[OHNE] ID 583 P582 E2 Dossier VII.308.C.a.:348. T2 S.49 Sch.262 | – | Zürich Kantonale Verwaltung, Walcheareal
+[OHNE] ID 586 P585 E2 Dossier VII.308.C.a.:350. T2 S.49 Sch.265 | – | Seebach Schulhaus
+[OHNE] ID 588 P587 E2 Dossier VII.308.C.a.:351. T2 S.50 Sch.267 | – | Zürich Schulhaus Wipkingen
+[OHNE] ID 590 P589 E2 Dossier VII.308.C.a.:352. T2 S.50 Sch.268 | 1932–1933 | Zürich Gessnerbrücke
+[OHNE] ID 592 P591 E2 Dossier VII.308.C.a.:353. T2 S.50 Sch.269 | 1932–1933 | Zürich Viktoria Immobilien AG, Hotel
+[OHNE] ID 599 P598 E2 Dossier VII.308.C.a.:359. T2 S.51 Sch.274 | 1934–1935 | Zürich Geschäftshaus Kino ”Rex”
+[OHNE] ID 601 P600 E2 Dossier VII.308.C.a.:360. T2 S.51 Sch.275 | 1934–1935 | Zürich Geschäftshaus Kino ”Rex”
+[OHNE] ID 610 P609 E2 Dossier VII.308.C.a.:368. T2 S.51 Sch.281 | 1934– | Zürich Dr. à Porta, Eichbühlstrasse 17 – 41
+[OHNE] ID 612 P611 E2 Dossier VII.308.C.a.:369. T2 S.52 Sch.283 | 1934– | Gossau R. Klingler, Haslenmühle
+[OHNE] ID 614 P613 E2 Dossier VII.308.C.a.:370. T2 S.52 Sch.284 | 1933–1935 | Oerlikon Maschinenfabrik
+[OHNE] ID 616 P615 E2 Dossier VII.308.C.a.:371. T2 S.52 Sch.285 | 1934– | Altstetten Waser, Söhne & Co
+[OHNE] ID 618 P617 E2 Dossier VII.308.C.a.:372. T2 S.52 Sch.286 | 1935– | Brüttisellen Schuhfabrik Walder & Cie
+[OHNE] ID 619 P617 E2 Dossier VII.308.C.a.:372. T3 S.52 Sch.286 | 1935–1936 | Zürich Tiefbauamt der Stadt Zürich, Bürkliplatz
+[OHNE] ID 621 P620 E2 Dossier VII.308.C.a.:373. T2 S.52 Sch.286 | 1935– | Bottighofen Mühle Munz Erben, Getreidesilo, Pläne
+[OHNE] ID 623 P622 E2 Dossier VII.308.C.a.:374. T2 S.52 Sch.287 | – | Schlieren Gaswerk des Stadt Zürich
+[OHNE] ID 624 P622 E2 Dossier VII.308.C.a.:374. T3 S.53 Sch.288 | – | Affoltern bei Lumina AG; Blumenfeldstrasse 10
+[OHNE] ID 625 P622 E2 Dossier VII.308.C.a.:374. T4 S.53 Sch.288 | – | Zürich Eidg. Technische Hochschule, Universitätsstrasse 6
+[OHNE] ID 628 P627 E2 Dossier VII.308.C.a.:376. T2 S.53 Sch.290 | 1935–1937 | Zürich Mehrfamilienhaus in der Pünt, Albisrieden
+[OHNE] ID 629 P627 E2 Dossier VII.308.C.a.:376. T3 S.53 Sch.290 | – | Zürich Wohnhaus Lindengut, Manessestrasse 95 Sämtliche Unterlagen
+[OHNE] ID 630 P627 E2 Dossier VII.308.C.a.:376. T4 S.53 Sch.291 | – | Zürich Wohnhaus Lindengut Sämtliche Unterlagen
+[OHNE] ID 633 P632 E2 Dossier VII.308.C.a.:378. T2 S.53 Sch.294 | 1935–1936 | Zürich Amtshaus V, Werdmühleplatz Steinhauerpläne
+[OHNE] ID 636 P635 E2 Dossier VII.308.C.a.:380. T2 S.53 Sch.296 | 1935–1936 | Zürich Amtshaus V, Werdmühleplatz
+[OHNE] ID 639 P638 E2 Dossier VII.308.C.a.:382. T2 S.53 Sch.298 | 1935–1936 | Zürich Amtshaus V, Werdmühleplatz
+[OHNE] ID 641 P640 E2 Dossier VII.308.C.a.:383. T2 S.54 Sch.300 | 1935–1936 | Zürich Amtshaus V, Werdmühleplatz
+[OHNE] ID 643 P642 E2 Dossier VII.308.C.a.:384. T2 S.54 Sch.301 | 1935–1936 | Zürich Amtshaus V, Werdmühleplatz
+[OHNE] ID 645 P644 E2 Dossier VII.308.C.a.:385. T2 S.54 Sch.302 | 1935–1936 | Zürich Amtshaus V, Werdmühleplatz
+[OHNE] ID 647 P646 E2 Dossier VII.308.C.a.:386. T2 S.54 Sch.303 | 1935– | Zürich Kirche Wollishofen Sämtliche Pläne
+[OHNE] ID 648 P646 E2 Dossier VII.308.C.a.:386. T3 S.54 Sch.304 | 1935– | Zürich Kirche Wollishofen Korrespondenzen, Abrechnungen
+[OHNE] ID 651 P650 E2 Dossier VII.308.C.a.:388. T2 S.54 Sch.306 | 1937– | Zürich Wohnhaus Lindengut, Manessestrasse 95 Baugespann Giesshübelstrasse
+[OHNE] ID 652 P650 E2 Dossier VII.308.C.a.:388. T3 S.54 Sch.306 | 1937– | Zürich Paul Husi, Möhrlistrasse 20 Fassadenrenovation
+[OHNE] ID 653 P650 E2 Dossier VII.308.C.a.:388. T4 S.54 Sch.306 | 1937– | Zürich H. Hagnauer, Talstrasse 41
+[OHNE] ID 654 P650 E2 Dossier VII.308.C.a.:388. T5 S.54 Sch.306 | 1937– | Zürich F. Lieber, Baugespann Thujastrasse
+[OHNE] ID 655 P650 E2 Dossier VII.308.C.a.:388. T6 S.54 Sch.306 | 1937– | Zürich Frau Wittwer, Wolfbachstrasse Fassadenrenovation
+[OHNE] ID 656 P650 E2 Dossier VII.308.C.a.:388. T7 S.54 Sch.306 | 1937– | Zürich Bürke & Cie, Lagerstrasse 11 Fassadenrenovation
+[OHNE] ID 659 P658 E2 Dossier VII.308.C.a.:390. T2 S.55 Sch.307 | 1936– | Basel Ciba
+[OHNE] ID 661 P660 E2 Dossier VII.308.C.a.:391. T2 S.55 Sch.309 | 1936– | Basel Ciba
+[OHNE] ID 666 P665 E2 Dossier VII.308.C.a.:396. T2 S.55 Sch.312 | – | Zürich Fabrikgebäude Dr. Steck, Albisrieden
+[OHNE] ID 668 P667 E2 Dossier VII.308.C.a.:397. T2 S.55 Sch.312 | 1937– | Zürich Freilager AG, Freilagerstrase 47, Albisrieden
+[OHNE] ID 669 P667 E2 Dossier VII.308.C.a.:397. T3 S.55 Sch.312 | 1938– | Zürich Gaswerk der Stadt Zürich
+[OHNE] ID 671 P670 E2 Dossier VII.308.C.a.:398. T2 S.56 Sch.313 | 1938– | Zürich Schimmelstrasse, Wohnhäuser Lindengut
+[OHNE] ID 673 P672 E2 Dossier VII.308.C.a.:399. T2 S.56 Sch.315 | 1938– | Zürich Schimmelstrasse, Wohnhäuser Lindengut
+[OHNE] ID 679 P678 E2 Dossier VII.308.C.a.:404. T2 S.56 Sch.319 | – | Zürich Kinderspital
+[OHNE] ID 681 P680 E2 Dossier VII.308.C.a.:405. T2 S.56 Sch.321 | – | Zürich Kinderspital
+[OHNE] ID 684 P683 E2 Dossier VII.308.C.a.:407. T2 S.56 Sch.323 | – | Zürich Kinderspital
+[OHNE] ID 685 P683 E2 Dossier VII.308.C.a.:407. T3 S.56 Sch.324 | – | Zürich Kinderspital
+[OHNE] ID 690 P689 E2 Dossier VII.308.C.a.:411. T2 S.57 Sch.327 | 1934–1935 | Basel Ciba
+[OHNE] ID 691 P689 E2 Dossier VII.308.C.a.:411. T3 S.57 Sch.328 | 1934–1935 | Basel Ciba
+[OHNE] ID 692 P689 E2 Dossier VII.308.C.a.:411. T4 S.57 Sch.329 | 1934–1935 | Basel Ciba
+[OHNE] ID 693 P689 E2 Dossier VII.308.C.a.:411. T5 S.57 Sch.330 | 1934–1935 | Basel Ciba
+[OHNE] ID 696 P695 E2 Dossier VII.308.C.a.:413. T2 S.57 Sch.331 | 1934– | Luzern Festhalle
+[OHNE] ID 697 P695 E2 Dossier VII.308.C.a.:413. T3 S.57 Sch.331 | 1934– | Zürich Ernst Keller, Weinbergstrasse 20 Balkoneinbau
+[OHNE] ID 698 P695 E2 Dossier VII.308.C.a.:413. T4 S.57 Sch.331 | 1934– | Genf Usine Russin
+[OHNE] ID 699 P695 E2 Dossier VII.308.C.a.:413. T5 S.57 Sch.331 | 1934– | Zürich Reitanstalt St. Jakob, Müllerstrasse 22
+[OHNE] ID 700 P695 E2 Dossier VII.308.C.a.:413. T6 S.57 Sch.332 | 1934– | Zürich Hauptbahnhof Bahnhofbuffet
+[OHNE] ID 701 P695 E2 Dossier VII.308.C.a.:413. T7 S.57 Sch.332 | 1934– | Rapperswil Postgebäude
+[OHNE] ID 702 P695 E2 Dossier VII.308.C.a.:413. T8 S.57 Sch.332 | 1934– | Schlieren Gaswerk der Stadt Zürich Neuer Gasbehälter
+[OHNE] ID 703 P695 E2 Dossier VII.308.C.a.:413. T9 S.58 Sch.333 | 1934– | Bern Schweiz. Mobiliarversicherung
+[OHNE] ID 705 P704 E2 Dossier VII.308.C.a.:414. T2 S.58 Sch.334 | 1936– | Bern SBB
+[OHNE] ID 707 P706 E2 Dossier VII.308.C.a.:415. T2 S.58 Sch.335 | 1937– | Niederlenz Schweiz. Leinenindustrie AG
+[OHNE] ID 710 P709 E2 Dossier VII.308.C.a.:417. T2 S.58 Sch.337 | 1936– | Birsfelden ”Union” Brikett-Import-Gesellschaft, Zürich Lagerhalle Auhafen
+[OHNE] ID 713 P712 E2 Dossier VII.308.C.a.:419. T2 S.58 Sch.340 | 1937–1940 | Zürich Schweiz. Lebensversicherungs- und Rentenanstalt
+[OHNE] ID 714 P712 E2 Dossier VII.308.C.a.:419. T3 S.58 Sch.341 | 1937–1940 | Zürich Schweiz. Lebensversicherungs- und Rentenanstalt
+[OHNE] ID 716 P715 E2 Dossier VII.308.C.a.:420. T2 S.58 Sch.342 | 1937–1940 | Zürich Schweiz. Lebensversicherungs- und Rentenanstalt Block A-B
+[OHNE] ID 718 P717 E2 Dossier VII.308.C.a.:421. T2 S.59 Sch.344 | 1937–1940 | Zürich Schweiz. Lebensversicherungs- und Rentenanstalt
+[OHNE] ID 720 P719 E2 Dossier VII.308.C.a.:422. T2 S.59 Sch.345 | 1937–1940 | Zürich Schweiz. Lebensversicherungs- und Rentenanstalt
+[OHNE] ID 721 P719 E2 Dossier VII.308.C.a.:422. T3 S.59 Sch.346 | 1937–1940 | Zürich Schweiz. Lebensversicherungs- und Rentenanstalt
+[OHNE] ID 723 P722 E2 Dossier VII.308.C.a.:423. T2 S.59 Sch.347 | 1937–1940 | Zürich Schweiz. Lebensversicherungs- und Rentenanstalt
+[OHNE] ID 724 P722 E2 Dossier VII.308.C.a.:423. T3 S.59 Sch.348 | 1937–1940 | Zürich Schweiz. Lebensversicherungs- und Rentenanstalt
+[OHNE] ID 726 P725 E2 Dossier VII.308.C.a.:424. T2 S.59 Sch.349 | 1937–1940 | Zürich Schweiz. Lebensversicherungs- und Rentenanstalt
+[OHNE] ID 727 P725 E2 Dossier VII.308.C.a.:424. T3 S.59 Sch.350 | 1937–1940 | Zürich Schweiz. Lebensversicherungs- und Rentenanstalt
+[OHNE] ID 729 P728 E2 Dossier VII.308.C.a.:425. T2 S.60 Sch.352 | 1937–1940 | Zürich Schweiz. Lebensversicherungs- und Rentenanstalt
+[OHNE] ID 731 P730 E2 Dossier VII.308.C.a.:426. T2 S.60 Sch.353 | 1937–1940 | Zürich Schweiz. Lebensversicherungs- und Rentenanstalt
+[OHNE] ID 732 P730 E2 Dossier VII.308.C.a.:426. T3 S.60 Sch.354 | 1937–1940 | Zürich Schweiz. Lebensversicherungs- und Rentenanstalt
+[OHNE] ID 735 P734 E2 Dossier VII.308.C.a.:428. T2 S.60 Sch.357 | 1937–1940 | Zürich Schweiz. Lebensversicherungs- und Rentenanstalt
+[OHNE] ID 737 P736 E2 Dossier VII.308.C.a.:429. T2 S.60 Sch.359 | – | Zürich Werzeugmaschinenfabrik Oerlikon Bührle & Cie
+[OHNE] ID 740 P739 E2 Dossier VII.308.C.a.:431. T2 S.60 Sch.360 | 1936–1938 | Zürich Küderli & Cie, Reitergasse 11
+[OHNE] ID 741 P739 E2 Dossier VII.308.C.a.:431. T3 S.60 Sch.360 | 1936–1938 | Zürich SBB
+[OHNE] ID 742 P739 E2 Dossier VII.308.C.a.:431. T4 S.60 Sch.360 | 1936–1938 | Zürich SBB, Kreis III
+[OHNE] ID 743 P739 E2 Dossier VII.308.C.a.:431. T5 S.60 Sch.360 | 1936–1938 | Uitikon Wohnhaus P. Hunziker
+[OHNE] ID 744 P739 E2 Dossier VII.308.C.a.:431. T6 S.60 Sch.360 | 1936–1938 | Zürich Zehnder / Schuler, Schäppistrasse 10 / 12 Fassadenrenovation
+[OHNE] ID 745 P739 E2 Dossier VII.308.C.a.:431. T7 S.61 Sch.360 | 1936–1938 | Zürich Hochbauinspektorat der Stadt Zürich
+[OHNE] ID 746 P739 E2 Dossier VII.308.C.a.:431. T8 S.61 Sch.360 | 1936–1938 | Zürich Geschwister Schulthess, Umbau Rennweg 29
+[OHNE] ID 749 P748 E2 Dossier VII.308.C.a.:433. T2 S.61 Sch.363 | – | Küsnacht Landhaus Prof. Nager, Itschnach
+[OHNE] ID 751 P750 E2 Dossier VII.308.C.a.:434. T2 S.61 Sch.364 | – | Emmenmatt Bauunternehmung Magazine
+[OHNE] ID 752 P750 E2 Dossier VII.308.C.a.:434. T3 S.61 Sch.365 | – | Emmenmatt Bauunternehmung Magazine
+[OHNE] ID 756 P755 E2 Dossier VII.308.C.a.:437. T2 S.61 Sch.367 | 1938– | Basel Ciba
+[OHNE] ID 758 P757 E2 Dossier VII.308.C.a.:438. T2 S.61 Sch.369 | 1933–1934 | Zürich Neues Schloss AG
+[OHNE] ID 765 P764 E2 Dossier VII.308.C.a.:444. T2 S.62 Sch.374 | 1935–1936 | Zürich Amtshaus V, Werdmühleplatz
+[OHNE] ID 768 P767 E2 Dossier VII.308.C.a.:446. T2 S.62 Sch.376 | 1938–1939 | Zürich Architekt P. M. Naef, Freiestrasse
+[OHNE] ID 773 P772 E2 Dossier VII.308.C.a.:450. T2 S.63 Sch.380 | 1939– | Zürich Schweizerische Landesausstellung
+[OHNE] ID 776 P775 E2 Dossier VII.308.C.a.:452. T2 S.63 Sch.381 | 1939– | Kilchberg Chokoladenfabrik Linth & Sprüngli Aufstockung Bürogebäude
+[OHNE] ID 777 P775 E2 Dossier VII.308.C.a.:452. T3 S.63 Sch.381 | 1939– | Zürich Maschinenfabrik Oerlikon, Affolternstrasse 52
+[OHNE] ID 780 P779 E2 Dossier VII.308.C.a.:454. T2 S.63 Sch.383 | 1940– | Zürich Wehrli-Koller, Mühle Tiefenbrunnen
+[OHNE] ID 783 P782 E2 Dossier VII.308.C.a.:456. T2 S.63 Sch.383 | 1938– | Genf Gaswerk
+[OHNE] ID 784 P782 E2 Dossier VII.308.C.a.:456. T3 S.63 Sch.383 | 1940– | Bologna Kokskühlanlage
+[OHNE] ID 786 P785 E2 Dossier VII.308.C.a.:457. T2 S.64 Sch.385 | 1940–1941 | Basel Ciba
+[OHNE] ID 790 P789 E2 Dossier VII.308.C.a.:460. T2 S.64 Sch.387 | 1941–1942 | Kemptthal Maggi AG
+[OHNE] ID 791 P789 E2 Dossier VII.308.C.a.:460. T3 S.64 Sch.388 | 1941–1942 | Kemptthal Maggi AG
+[OHNE] ID 792 P789 E2 Dossier VII.308.C.a.:460. T4 S.64 Sch.389 | 1941–1942 | Kemptthal Maggi AG
+[OHNE] ID 794 P793 E2 Dossier VII.308.C.a.:461. T2 S.64 Sch.390 | 1941–1942 | Rorbas- Blumer-Hirzel & Cie
+[OHNE] ID 797 P796 E2 Dossier VII.308.C.a.:463. T2 S.65 Sch.392 | 1942– | Kemptthal Maggi AG
+[OHNE] ID 799 P798 E2 Dossier VII.308.C.a.:464. T2 S.65 Sch.393 | 1942– | Kemptthal Maggi AG
+[OHNE] ID 801 P800 E2 Dossier VII.308.C.a.:465. T2 S.65 Sch.393 | 1935– | St. Denis Maschinenfabrik Oerlikon
+[OHNE] ID 802 P800 E2 Dossier VII.308.C.a.:465. T3 S.65 Sch.393 | 1935–1936 | Kairo Maschinenfabrik Oerlikon
+[OHNE] ID 803 P800 E2 Dossier VII.308.C.a.:465. T4 S.65 Sch.394 | 1936– | Deux-Acreu Maschinenfabrik Oerlikon
+[OHNE] ID 804 P800 E2 Dossier VII.308.C.a.:465. T5 S.65 Sch.394 | 1937– | Pont-à-Vendin Maschinenfabrik Oerlikon
+[OHNE] ID 805 P800 E2 Dossier VII.308.C.a.:465. T6 S.65 Sch.394 | 1937– | Hämeelinna Maschinenfabrik Oerlikon
+[OHNE] ID 807 P806 E2 Dossier VII.308.C.a.:466. T2 S.65 Sch.395 | 1936– | Zürich Löwenbräu Zürich AG, Limmatstrasse 268
+[OHNE] ID 808 P806 E2 Dossier VII.308.C.a.:466. T3 S.65 Sch.395 | 1936– | Schaffhausen Schweizerische Bindfadenfabrik Grundwasserpumpwerk, Pläne
+[OHNE] ID 809 P806 E2 Dossier VII.308.C.a.:466. T4 S.65 Sch.395 | 1936– | Zürich Dr. Steck, Albisriederstrasse 190
+[OHNE] ID 810 P806 E2 Dossier VII.308.C.a.:466. T5 S.65 Sch.395 | 1936– | Zürich Aug. Egli & Cie AG, Kellerei, Leimbachstrasse 33
+[OHNE] ID 811 P806 E2 Dossier VII.308.C.a.:466. T6 S.66 Sch.395 | 1936– | Zürich Papierfabrik an der Sihl, Giesshübelstrasse 15
+[OHNE] ID 812 P806 E2 Dossier VII.308.C.a.:466. T7 S.66 Sch.395 | 1936– | Schlieren Gaswerk der Stadt Zürich Kohlenturm Liftaufbau
+[OHNE] ID 813 P806 E2 Dossier VII.308.C.a.:466. T8 S.66 Sch.395 | 1936– | Zürich Wehrli-Koller, Mühle Tiefenbrunnen, Seefeldstrasse 219
+[OHNE] ID 814 P806 E2 Dossier VII.308.C.a.:466. T9 S.66 Sch.395 | 1936– | Bülach E. Schellenberg Zweifamilienhaus, Pläne
+[OHNE] ID 815 P806 E2 Dossier VII.308.C.a.:466. T10 S.66 Sch.395 | 1936– | Zürich Konservatorium für Musik, Florhof 6
+[OHNE] ID 816 P806 E2 Dossier VII.308.C.a.:466. T11 S.66 Sch.395 | 1936– | Cham Papierfabrik AG
+[OHNE] ID 817 P806 E2 Dossier VII.308.C.a.:466. T12 S.66 Sch.395 | 1936– | Luzern A. Portmann
+[OHNE] ID 818 P806 E2 Dossier VII.308.C.a.:466. T13 S.66 Sch.395 | 1936– | Zürich Schweiz. Lebensversicherungs- und Rentenanstalt
+[OHNE] ID 819 P806 E2 Dossier VII.308.C.a.:466. T14 S.66 Sch.395 | 1936– | Basel Genossenschaft Coop
+[OHNE] ID 820 P806 E2 Dossier VII.308.C.a.:466. T15 S.66 Sch.395 | 1936– | Schaffhausen Brauerei Falken
+[OHNE] ID 822 P821 E2 Dossier VII.308.C.a.:467. T2 S.66 Sch.396 | 1935– | Zürich E. Goldschmid, Bleicherweg 8
+[OHNE] ID 823 P821 E2 Dossier VII.308.C.a.:467. T3 S.67 Sch.396 | 1935– | Zürich Maschinenfabrik Oerlikon, Affolternstrasse 52
+[OHNE] ID 824 P821 E2 Dossier VII.308.C.a.:467. T4 S.67 Sch.396 | 1935– | Biglen Spichiger & Cie
+[OHNE] ID 825 P821 E2 Dossier VII.308.C.a.:467. T5 S.67 Sch.396 | 1935– | Wattwil Heberlein & Cie AG
+[OHNE] ID 826 P821 E2 Dossier VII.308.C.a.:467. T6 S.67 Sch.396 | 1935– | Pfäffikon W. Bosshardt, Mühle Balchensthal
+[OHNE] ID 827 P821 E2 Dossier VII.308.C.a.:467. T7 S.67 Sch.396 | 1935– | Liesberg Klinkerfabrik
+[OHNE] ID 828 P821 E2 Dossier VII.308.C.a.:467. T8 S.67 Sch.396 | 1935– | Romanshorn Bahnhof
+[OHNE] ID 829 P821 E2 Dossier VII.308.C.a.:467. T9 S.67 Sch.396 | 1935– | Cham Papierfabrik AG
+[OHNE] ID 830 P821 E2 Dossier VII.308.C.a.:467. T10 S.67 Sch.397 | 1935– | Zürich Warenhaus Jelmoli SA, Seidengasse 1
+[OHNE] ID 831 P821 E2 Dossier VII.308.C.a.:467. T11 S.67 Sch.397 | 1935– | Visp Nussbaum & Cie, Mühle
+[OHNE] ID 832 P821 E2 Dossier VII.308.C.a.:467. T12 S.67 Sch.397 | 1935– | Kloten Waffenplatz
+[OHNE] ID 833 P821 E2 Dossier VII.308.C.a.:467. T13 S.67 Sch.397 | 1935– | Zürich Dr. Bial, Rämiburg, Rämistrasse 44
+[OHNE] ID 835 P834 E2 Dossier VII.308.C.a.:468. T2 S.68 Sch.398 | 1937– | Schaffhausen Schweizerische Bindfadenfabrik
+[OHNE] ID 837 P836 E2 Dossier VII.308.C.a.:469. T2 S.68 Sch.400 | 1937– | Schaffhausen Schweizerische Bindfadenfabrik
+[OHNE] ID 839 P838 E2 Dossier VII.308.C.a.:470. T2 S.68 Sch.402 | 1937– | Schaffhausen Schweizerische Bindfadenfabrik
+[OHNE] ID 841 P840 E2 Dossier VII.308.C.a.:471. T2 S.68 Sch.403 | 1937– | Schaffhausen Schweizerische Bindfadenfabrik
+[OHNE] ID 842 P840 E2 Dossier VII.308.C.a.:471. T3 S.68 Sch.404 | 1937– | Schaffhausen Schweizerische Bindfadenfabrik
+[OHNE] ID 844 P843 E2 Dossier VII.308.C.a.:472. T2 S.68 Sch.405 | 1937– | Schaffhausen Schweizerische Bindfadenfabrik
+[OHNE] ID 845 P843 E2 Dossier VII.308.C.a.:472. T3 S.68 Sch.406 | 1937– | Schaffhausen Schweizerische Bindfadenfabrik
+[OHNE] ID 850 P849 E2 Dossier VII.308.C.a.:476. T2 S.69 Sch.409 | 1937– | Zürich Papierfabrik an der Sihl, Giesshübelstrasse 15
+[OHNE] ID 851 P849 E2 Dossier VII.308.C.a.:476. T3 S.69 Sch.409 | 1937– | Bovisa / Milano Gaswerk
+[OHNE] ID 852 P849 E2 Dossier VII.308.C.a.:476. T4 S.69 Sch.409 | 1937– | Martigny Aluminiumhütte
+[OHNE] ID 853 P849 E2 Dossier VII.308.C.a.:476. T5 S.69 Sch.409 | 1937– | Hausen bei Technische Forschungs- und Beratungsstelle der E. G. Brugg Portland
+[OHNE] ID 854 P849 E2 Dossier VII.308.C.a.:476. T6 S.69 Sch.409 | 1937– | Lugano Allargamento del Lungo Lago Plan
+[OHNE] ID 855 P849 E2 Dossier VII.308.C.a.:476. T7 S.69 Sch.409 | 1937– | Flums Grüninger & Co, Walzmühle Getreide-Silo
+[OHNE] ID 856 P849 E2 Dossier VII.308.C.a.:476. T8 S.69 Sch.409 | 1937– | Matran Association du Moulin neuf Getreide-Silo
+[OHNE] ID 857 P849 E2 Dossier VII.308.C.a.:476. T9 S.69 Sch.409 | 1937– | Solothurn Malzfabrik und Hafermühle Silo
+[OHNE] ID 858 P849 E2 Dossier VII.308.C.a.:476. T10 S.69 Sch.409 | 1937– | o. O. Eidgenösische Getreideverwaltung
+[OHNE] ID 859 P849 E2 Dossier VII.308.C.a.:476. T11 S.69 Sch.409 | 1937– | Chiasso Silo
+[OHNE] ID 860 P849 E2 Dossier VII.308.C.a.:476. T12 S.69 Sch.409 | 1937– | Ofringen Plüss-Stauffer
+[OHNE] ID 861 P849 E2 Dossier VII.308.C.a.:476. T13 S.70 Sch.409 | 1937– | Bern Landwirtschaftliche Genossenschaft Getreide-Silo
+[OHNE] ID 862 P849 E2 Dossier VII.308.C.a.:476. T14 S.70 Sch.409 | 1937– | Bürglen Landwirtschaftliche Genossenschaft Silo
+[OHNE] ID 866 P865 E2 Dossier VII.308.C.a.:479. T2 S.70 Sch.411 | 1938– | Cham Papierfabrik AG
+[OHNE] ID 867 P865 E2 Dossier VII.308.C.a.:479. T3 S.70 Sch.411 | 1938– | Zürich Baugesellschaft Lindengut
+[OHNE] ID 868 P865 E2 Dossier VII.308.C.a.:479. T4 S.70 Sch.411 | 1938– | Genf Gaswerk
+[OHNE] ID 869 P865 E2 Dossier VII.308.C.a.:479. T5 S.70 Sch.411 | 1938– | Zürich Schuhaus Capitol, Bahnhofstrasse 66 Skizzen
+[OHNE] ID 870 P865 E2 Dossier VII.308.C.a.:479. T6 S.70 Sch.411 | 1938– | Eymatt Chr. Augsburger, Mühle
+[OHNE] ID 871 P865 E2 Dossier VII.308.C.a.:479. T7 S.70 Sch.411 | 1938– | Zürich Schweizerische Landesaustellung 1939
+[OHNE] ID 872 P865 E2 Dossier VII.308.C.a.:479. T8 S.70 Sch.411 | 1938– | Zürich Maschinenfabrik Oerlikon, Affolternstrasse 52 Kurzschlussprüfanlage
+[OHNE] ID 873 P865 E2 Dossier VII.308.C.a.:479. T9 S.71 Sch.411 | 1938– | Zürich Zürichbergbahngesellschaft, Hirschengraben
+[OHNE] ID 874 P865 E2 Dossier VII.308.C.a.:479. T10 S.71 Sch.411 | 1938– | Zürich Papierfabrik an der Sihl, Giesshübelstrasse 15
+[OHNE] ID 875 P865 E2 Dossier VII.308.C.a.:479. T11 S.71 Sch.411 | 1938– | Kleinhüningen Rhenus AG, Lagerhalle
+[OHNE] ID 876 P865 E2 Dossier VII.308.C.a.:479. T12 S.71 Sch.411 | 1938– | Landquart Lietha & Cie, Grüsch, Mühle
+[OHNE] ID 877 P865 E2 Dossier VII.308.C.a.:479. T13 S.71 Sch.411 | 1938– | Zürich Wolfbachstrasse 31
+[OHNE] ID 878 P865 E2 Dossier VII.308.C.a.:479. T14 S.71 Sch.411 | 1938– | Zürich Tiefbauamt der Stadt Zürich
+[OHNE] ID 880 P879 E2 Dossier VII.308.C.a.:480. T2 S.71 Sch.412 | 1938–1940 | Fumel Maschinenfabrik Oerlikon
+[OHNE] ID 881 P879 E2 Dossier VII.308.C.a.:480. T3 S.71 Sch.412 | 1938–1940 | Alger Maschinenfabrik Oerlikon
+[OHNE] ID 882 P879 E2 Dossier VII.308.C.a.:480. T4 S.71 Sch.412 | 1938–1940 | Alexandria Maschinenfabrik Oerlikon
+[OHNE] ID 883 P879 E2 Dossier VII.308.C.a.:480. T5 S.72 Sch.412 | 1938–1940 | Maurage Maschinenfabrik Oerlikon
+[OHNE] ID 884 P879 E2 Dossier VII.308.C.a.:480. T6 S.72 Sch.413 | 1938–1940 | Groningen Maschinenfabrik Oerlikon
+[OHNE] ID 886 P885 E2 Dossier VII.308.C.a.:481. T2 S.72 Sch.413 | 1937– | Basel Coop
+[OHNE] ID 887 P885 E2 Dossier VII.308.C.a.:481. T3 S.72 Sch.413 | 1937–1939 | Basel Briket-Import-Gesellschaft Union, Zürich
+[OHNE] ID 889 P888 E2 Dossier VII.308.C.a.:482. T2 S.72 Sch.415 | – | Basel Rhein-Speditions AG, Rheinhafen St. Johann
+[OHNE] ID 891 P890 E2 Dossier VII.308.C.a.:483. T2 S.72 Sch.415 | – | Kemptthal Maggi AG
+[OHNE] ID 895 P894 E2 Dossier VII.308.C.a.:486. T2 S.73 Sch.417 | 1939– | Rorbas- Tössbrücke
+[OHNE] ID 896 P894 E2 Dossier VII.308.C.a.:486. T3 S.73 Sch.417 | 1939– | Ornans Maschinenfabrik Oerlikon
+[OHNE] ID 897 P894 E2 Dossier VII.308.C.a.:486. T4 S.73 Sch.417 | 1939– | Aarau Verwaltungsgebäude
+[OHNE] ID 898 P894 E2 Dossier VII.308.C.a.:486. T5 S.73 Sch.417 | 1939– | Zürich Maschinenfabrik Oerlikon, Affolternstrasse 52
+[OHNE] ID 899 P894 E2 Dossier VII.308.C.a.:486. T6 S.73 Sch.417 | 1939– | Zürich Reishauer Werkzeug AG, Limmatstrasse 87
+[OHNE] ID 900 P894 E2 Dossier VII.308.C.a.:486. T7 S.73 Sch.417 | 1939– | Zürich Tiefbauamt der Stadt Zürich
+[OHNE] ID 901 P894 E2 Dossier VII.308.C.a.:486. T8 S.73 Sch.417 | 1939– | Grellingen A. Ziegler & Cie, Papierfabrik
+[OHNE] ID 902 P894 E2 Dossier VII.308.C.a.:486. T9 S.73 Sch.417 | 1939– | Muttenz AG Rheinumschlag Schweizerhalle
+[OHNE] ID 903 P894 E2 Dossier VII.308.C.a.:486. T10 S.73 Sch.417 | 1939– | Schaffhausen Schweizerische Bindfadenfabrik
+[OHNE] ID 904 P894 E2 Dossier VII.308.C.a.:486. T11 S.74 Sch.417 | 1939– | Murten AG Singer’s Erben Basel, Knäckebrotwerke AG
+[OHNE] ID 905 P894 E2 Dossier VII.308.C.a.:486. T12 S.74 Sch.417 | 1939– | Niederlenz Schweiz. Leinenindustrie AG
+[OHNE] ID 906 P894 E2 Dossier VII.308.C.a.:486. T13 S.74 Sch.417 | 1939– | Zürich Werkzeugmaschinenfabrik Oerlikon Bührle & Cie, Birchstrasse 155
+[OHNE] ID 907 P894 E2 Dossier VII.308.C.a.:486. T14 S.74 Sch.417 | 1939– | Arbon Ad. Saurer AG
+[OHNE] ID 908 P894 E2 Dossier VII.308.C.a.:486. T15 S.74 Sch.418 | 1939– | Zürich Gebrüder Scholl AG, Poststrasse 3
+[OHNE] ID 909 P894 E2 Dossier VII.308.C.a.:486. T16 S.74 Sch.418 | 1939– | Zürich Brauerei Hürlimann AG, Brandschenkestrasse 150
+[OHNE] ID 914 P913 E2 Dossier VII.308.C.a.:490. T2 S.75 Sch.421 | 1940– | Schaffhausen AG Eisen- und Stahlwerke vorm. Georg Fischer
+[OHNE] ID 916 P915 E2 Dossier VII.308.C.a.:491. T2 S.75 Sch.421 | 1940– | Schaffhausen Schlachthofanlage
+[OHNE] ID 917 P915 E2 Dossier VII.308.C.a.:491. T3 S.75 Sch.421 | 1940– | Zürich Brauerei Hürlimann AG, Brandschenkestrasse 150
+[OHNE] ID 918 P915 E2 Dossier VII.308.C.a.:491. T4 S.75 Sch.421 | 1940– | Zürich Maschinenfabrik Oerlikon, Affolternstrasse 52
+[OHNE] ID 919 P915 E2 Dossier VII.308.C.a.:491. T5 S.75 Sch.421 | 1940– | Zürich Stadtkommando Zürich
+[OHNE] ID 920 P915 E2 Dossier VII.308.C.a.:491. T6 S.75 Sch.421 | 1940– | Grellingen A. Ziegler & Cie, Papierfabrik
+[OHNE] ID 921 P915 E2 Dossier VII.308.C.a.:491. T7 S.75 Sch.421 | 1940– | Zürich Gesellschafthaus zum Schnecken, Metzgergasse 1
+[OHNE] ID 922 P915 E2 Dossier VII.308.C.a.:491. T8 S.75 Sch.421 | 1940– | Zürich Dr. Hürlimann-Huber, Parkring 11
+[OHNE] ID 923 P915 E2 Dossier VII.308.C.a.:491. T9 S.75 Sch.421 | 1940– | Zürich Kühlhaus Tiefenbrunnen AG, Seefeldstrasse 219
+[OHNE] ID 924 P915 E2 Dossier VII.308.C.a.:491. T10 S.76 Sch.422 | 1940– | Basel Speditions AG, Rheinhafen
+[OHNE] ID 925 P915 E2 Dossier VII.308.C.a.:491. T11 S.76 Sch.422 | 1940– | Winterthur Städtische Wasserversorgung
+[OHNE] ID 926 P915 E2 Dossier VII.308.C.a.:491. T12 S.76 Sch.422 | 1940– | Zürich Armand Bourquin, Altstetten, Luggwegstrasse 9
+[OHNE] ID 927 P915 E2 Dossier VII.308.C.a.:491. T13 S.76 Sch.422 | 1940– | Stein am Rhein Lederfabrik Irmiger
+[OHNE] ID 935 P934 E2 Dossier VII.308.C.a.:498. T2 S.77 Sch.425 | 1943– | Schaffhausen AG Eisen- und Stahlwerke vorm. Georg Fischer
+[OHNE] ID 936 P934 E2 Dossier VII.308.C.a.:498. T3 S.77 Sch.425 | 1943– | Zürich M. J. Hirzel & Co, Metallgiesserei, Hardstrasse 221
+[OHNE] ID 937 P934 E2 Dossier VII.308.C.a.:498. T4 S.77 Sch.425 | 1943– | Breitenbach Schweiz. Isolawerke
+[OHNE] ID 938 P934 E2 Dossier VII.308.C.a.:498. T5 S.77 Sch.425 | 1943– | Zürich Schütze & Cie, Limmatstrasse 309
+[OHNE] ID 939 P934 E2 Dossier VII.308.C.a.:498. T6 S.77 Sch.425 | 1943– | Zürich Sihltalbahn, Station Brunau
+[OHNE] ID 940 P934 E2 Dossier VII.308.C.a.:498. T7 S.77 Sch.425 | 1943– | div. O. Div. Eisenlisten
+[OHNE] ID 941 P934 E2 Dossier VII.308.C.a.:498. T8 S.77 Sch.425 | 1943– | Basel Sandoz
+[OHNE] ID 942 P934 E2 Dossier VII.308.C.a.:498. T9 S.77 Sch.426 | 1943– | Zürich Wehrli-Koller, Mühle Tiefenbrunnen, Seefeldstrasse 219
+[OHNE] ID 943 P934 E2 Dossier VII.308.C.a.:498. T10 S.78 Sch.426 | 1943– | Muttenz Briket-Umschlags- & Transport AG
+[OHNE] ID 944 P934 E2 Dossier VII.308.C.a.:498. T11 S.78 Sch.426 | 1943– | Regensdorf Maschinenfabrik Rob. Aebi & Co AG
+[OHNE] ID 945 P934 E2 Dossier VII.308.C.a.:498. T12 S.78 Sch.426 | 1943– | Zürich E. Gisler, Gallusstrasse 25 Balkone
+[OHNE] ID 947 P946 E2 Dossier VII.308.C.a.:499. T2 S.78 Sch.427 | 1941– | Widnau Schweiz. Viscose Gesellschaft
+[OHNE] ID 948 P946 E2 Dossier VII.308.C.a.:499. T3 S.78 Sch.428 | 1941– | Widnau Schweiz. Viscose Gesellschaft
+[OHNE] ID 950 P949 E2 Dossier VII.308.C.a.:500. T2 S.78 Sch.429 | 1941– | Widnau Schweiz. Viscose Gesellschaft
+[OHNE] ID 952 P951 E2 Dossier VII.308.C.a.:501. T2 S.78 Sch.430 | 1941– | Widnau Schweiz. Viscose Gesellschaft
+[OHNE] ID 954 P953 E2 Dossier VII.308.C.a.:502. T2 S.78 Sch.430 | 1941– | Stein am Rein Lederfabrik Irmiger
+[OHNE] ID 955 P953 E2 Dossier VII.308.C.a.:502. T3 S.78 Sch.430 | 1941– | Zürich Brauerei Hürlimann AG, Brandschenkestrasse 150 Mauersenkung am Maschinenhaus, Ausbildu
+[OHNE] ID 956 P953 E2 Dossier VII.308.C.a.:502. T4 S.79 Sch.431 | 1941– | Zürich Küderli & Cie, Altstetten
+[OHNE] ID 957 P953 E2 Dossier VII.308.C.a.:502. T5 S.79 Sch.431 | 1940–1941 | Zürich Wehrli-Koller, Mühle Tiefenbrunnen, Seefeldstrasse 219
+[OHNE] ID 958 P953 E2 Dossier VII.308.C.a.:502. T6 S.79 Sch.431 | 1941– | Zürich Maschinenfabrik Oerlikon, Affolternstrasse 52
+[OHNE] ID 959 P953 E2 Dossier VII.308.C.a.:502. T7 S.79 Sch.431 | 1941– | Zürich ”FEGA” Gesellschaft für Feuer- und Gasschutz, Albisriederstrasse 190
+[OHNE] ID 960 P953 E2 Dossier VII.308.C.a.:502. T8 S.79 Sch.431 | 1941– | Weesen Hartschotterwerk Fr. Köppel
+[OHNE] ID 961 P953 E2 Dossier VII.308.C.a.:502. T9 S.79 Sch.431 | 1941– | Hinwil E. Buchmann, Mühle
+[OHNE] ID 963 P962 E2 Dossier VII.308.C.a.:503. T2 S.79 Sch.433 | 1940–1941 | Mladenovacs Vaterländische Baumwollspinnerei und Weberei AG 1940 / 14 Dugaresa
+[OHNE] ID 969 P968 E2 Dossier VII.308.C.a.:508. T2 S.80 Sch.436 | 1941–1942 | Zürich Reishauer Werkzeug AG, Limmatstrasse 77 – 87
+[OHNE] ID 973 P972 E2 Dossier VII.308.C.a.:511. T2 S.81 Sch.438 | 1940– | Niederlenz Schweiz. Leinenindustrie AG
+[OHNE] ID 975 P974 E2 Dossier VII.308.C.a.:512. T2 S.81 Sch.440 | 1939–1940 | Niederlenz Schweiz. Leinenindustrie AG
+[OHNE] ID 980 P979 E2 Dossier VII.308.C.a.:516. T2 S.81 Sch.445 | 1940–1942 | Schaffhausen AG Eisen- und Stahlwerke vorm. Georg Fischer
+[OHNE] ID 983 P982 E2 Dossier VII.308.C.a.:518. T2 S.82 Sch.446 | 1938– | Zürich Kinderspital
+[OHNE] ID 985 P984 E2 Dossier VII.308.C.a.:519. T2 S.82 Sch.448 | 1941–1942 | Winterthur Gebrüder Sulzer AG
+[OHNE] ID 987 P986 E2 Dossier VII.308.C.a.:520. T2 S.82 Sch.450 | 1941–1942 | Winterthur Gebrüder Sulzer AG
+[OHNE] ID 990 P989 E2 Dossier VII.308.C.a.:522. T2 S.82 Sch.451 | 1943– | Zürich ”Hartwag” Hart- und Weichholz AG, Geroldstrasse
+[OHNE] ID 991 P989 E2 Dossier VII.308.C.a.:522. T3 S.82 Sch.451 | 1943– | Zürich Zürcher Engros Markthalle, Beethovenstrasse 1
+[OHNE] ID 992 P989 E2 Dossier VII.308.C.a.:522. T4 S.83 Sch.451 | 1943– | Zürich Unteroffiziersverein, Allmend Brunau
+[OHNE] ID 993 P989 E2 Dossier VII.308.C.a.:522. T5 S.83 Sch.451 | 1943– | Zürich Maschinenfabrik Oerlikon, Affolternstrasse 52
+[OHNE] ID 994 P989 E2 Dossier VII.308.C.a.:522. T6 S.83 Sch.451 | 1943– | Zürich Trüb-Tauber AG, Ampèrestrasse 3
+[OHNE] ID 996 P995 E2 Dossier VII.308.C.a.:523. T2 S.83 Sch.452 | 1943– | Basel St. Johann Lagerhaus- und Schiffahrtsgesellschaft
+[OHNE] ID 998 P997 E2 Dossier VII.308.C.a.:524. T2 S.83 Sch.453 | 1942– | Muttenz Brikett-Umschlags- und Transport AG
+[OHNE] ID 999 P997 E2 Dossier VII.308.C.a.:524. T3 S.83 Sch.453 | 1942– | Widnau Schweiz. Viscose-Gesellschaft
+[OHNE] ID 1000 P997 E2 Dossier VII.308.C.a.:524. T4 S.83 Sch.453 | 1942– | Brunnen Direktion der eidg. Bauten
+[OHNE] ID 1001 P997 E2 Dossier VII.308.C.a.:524. T5 S.83 Sch.453 | 1942– | Zürich Ed. Hoffmann-Lang, Bolleystrasse 41
+[OHNE] ID 1002 P997 E2 Dossier VII.308.C.a.:524. T6 S.83 Sch.453 | 1942– | Niederurnen Eternit AG
+[OHNE] ID 1003 P997 E2 Dossier VII.308.C.a.:524. T7 S.84 Sch.453 | 1942– | Kemptthal Maggi AG
+[OHNE] ID 1004 P997 E2 Dossier VII.308.C.a.:524. T8 S.84 Sch.453 | 1942– | Steinmaur J. Kunz Mühle, Getreidesilo
+[OHNE] ID 1005 P997 E2 Dossier VII.308.C.a.:524. T9 S.84 Sch.453 | 1942– | Zürich Gebrüder Scholl AG, Poststrasse 3
+[OHNE] ID 1006 P997 E2 Dossier VII.308.C.a.:524. T10 S.84 Sch.453 | 1942– | Schwyz Gaswerk
+[OHNE] ID 1007 P997 E2 Dossier VII.308.C.a.:524. T11 S.84 Sch.453 | 1942– | Zürich Gebrüder Carpentier, Feldstr. 24
+[OHNE] ID 1009 P1008 E2 Dossier VII.308.C.a.:525. T2 S.85 Sch.455 | – | Bern Linienverlegung an der Lorraine und Aarebrücke
+[OHNE] ID 1010 P1008 E2 Dossier VII.308.C.a.:525. T3 S.85 Sch.456 | – | Bern Linienverlegung an der Lorraine und Aarebrücke
+[OHNE] ID 1011 P1008 E2 Dossier VII.308.C.a.:525. T4 S.85 Sch.457 | – | Bern Linienverlegung an der Lorraine und Aarebrücke
+[OHNE] ID 1012 P1008 E2 Dossier VII.308.C.a.:525. T5 S.85 Sch.458 | – | Bern Linienverlegung an der Lorraine und Aarebrücke
+[OHNE] ID 1013 P1008 E2 Dossier VII.308.C.a.:525. T6 S.85 Sch.459 | – | Bern Linienverlegung an der Lorraine und Aarebrücke
+[OHNE] ID 1014 P1008 E2 Dossier VII.308.C.a.:525. T7 S.85 Sch.460 | – | Bern Linienverlegung an der Lorraine und Aarebrücke
+[OHNE] ID 1015 P1008 E2 Dossier VII.308.C.a.:525. T8 S.85 Sch.461 | – | Bern Linienverlegung an der Lorraine und Aarebrücke
+[OHNE] ID 1016 P1008 E2 Dossier VII.308.C.a.:525. T9 S.85 Sch.462 | – | Bern Linienverlegung an der Lorraine und Aarebrücke
+[OHNE] ID 1017 P1008 E2 Dossier VII.308.C.a.:525. T10 S.85 Sch.463 | – | Bern Linienverlegung an der Lorraine und Aarebrücke
+[OHNE] ID 1018 P1008 E2 Dossier VII.308.C.a.:525. T11 S.85 Sch.464 | – | Bern Linienverlegung an der Lorraine und Aarebrücke
+[OHNE] ID 1019 P1008 E2 Dossier VII.308.C.a.:525. T12 S.85 Sch.465 | – | Bern Linienverlegung an der Lorraine und Aarebrücke
+[OHNE] ID 1020 P1008 E2 Dossier VII.308.C.a.:525. T13 S.85 Sch.466 | – | Bern Linienverlegung an der Lorraine und Aarebrücke
+[OHNE] ID 1021 P1008 E2 Dossier VII.308.C.a.:525. T14 S.85 Sch.467 | – | Bern Linienverlegung an der Lorraine und Aarebrücke
+[OHNE] ID 1022 P1008 E2 Dossier VII.308.C.a.:525. T15 S.85 Sch.468 | – | Bern Linienverlegung an der Lorraine und Aarebrücke
+[OHNE] ID 1023 P1008 E2 Dossier VII.308.C.a.:525. T16 S.85 Sch.469 | – | Bern Linienverlegung an der Lorraine und Aarebrücke
+[OHNE] ID 1024 P1008 E2 Dossier VII.308.C.a.:525. T17 S.85 Sch.470 | – | Bern Linienverlegung an der Lorraine und Aarebrücke
+[OHNE] ID 1025 P1008 E2 Dossier VII.308.C.a.:525. T18 S.85 Sch.471 | – | Bern Linienverlegung an der Lorraine und Aarebrücke
+[OHNE] ID 1026 P1008 E2 Dossier VII.308.C.a.:525. T19 S.85 Sch.472 | – | Bern Linienverlegung an der Lorraine und Aarebrücke dito
+[OHNE] ID 1027 P1008 E2 Dossier VII.308.C.a.:525. T20 S.86 Sch.473 | – | Bern Linienverlegung an der Lorraine und Aarebrücke
+[OHNE] ID 1029 P1028 E2 Dossier VII.308.C.a.:526. T2 S.86 Sch.474 | 1941– | Niederlenz Schweiz. Leinenindustrie AG
+[OHNE] ID 1032 P1031 E2 Dossier VII.308.C.a.:528. T2 S.87 Sch.477 | 1942–1943 | Neuhausen Schweiz. Industrie-Gesellschaft
+[OHNE] ID 1033 P1031 E2 Dossier VII.308.C.a.:528. T3 S.87 Sch.478 | 1942–1943 | Neuhausen Schweiz. Industrie-Gesellschaft
+[OHNE] ID 1036 P1035 E2 Dossier VII.308.C.a.:530. T2 S.87 Sch.480 | 1942– | Niederlenz Schweiz. Leinenindustrie AG
+[OHNE] ID 1038 P1037 E2 Dossier VII.308.C.a.:531. T2 S.88 Sch.481 | 1942–1943 | Niederlenz Schweiz. Leinenindustrie AG
+[OHNE] ID 1040 P1039 E2 Dossier VII.308.C.a.:532. T2 S.88 Sch.482 | 1943–1944 | Niederlenz Schweiz. Leinenindustrie AG
+[OHNE] ID 1042 P1041 E2 Dossier VII.308.C.a.:533. T2 S.89 Sch.483 | 1942– | Gerlafingen Eisenwerk von Roll
+[OHNE] ID 1044 P1043 E2 Dossier VII.308.C.a.:534. T2 S.89 Sch.484 | 1942–1943 | Niederlenz Schweiz. Leinenindustrie AG
+[OHNE] ID 1047 P1046 E2 Dossier VII.308.C.a.:536. T2 S.89 Sch.486 | 1943–1944 | Zürich Werkzeugmaschinenfabrik Oerlikon Bührle & Co
+[OHNE] ID 1049 P1048 E2 Dossier VII.308.C.a.:537. T2 S.89 Sch.488 | 1944–1945 | Zürich Escher Wyss & Cie
+[OHNE] ID 1052 P1051 E2 Dossier VII.308.C.a.:539. T2 S.90 Sch.489 | 1943–1944 | Zürich Albisriederstrasse und Aemtlerstrasse
+[OHNE] ID 1055 P1054 E2 Dossier VII.308.C.a.:541. T2 S.90 Sch.491 | 1943–1944 | Basel Basler Rheinschiffahrts AG
+[OHNE] ID 1058 P1057 E2 Dossier VII.308.C.a.:543. T2 S.91 Sch.492 | 1944– | Zürich Siedlungsgenossenschaft ”Sunnige Hof”
+[OHNE] ID 1060 P1059 E2 Dossier VII.308.C.a.:544. T2 S.91 Sch.492 | 1944– | Lessines Compagnie d’Eléctricité de la Deudre
+[OHNE] ID 1061 P1059 E2 Dossier VII.308.C.a.:544. T3 S.91 Sch.493 | 1945– | Kairo Lebon & Cie Paris
+[OHNE] ID 1062 P1059 E2 Dossier VII.308.C.a.:544. T4 S.91 Sch.492 | – | Zürich Immobiliengenossenschaft Paradeplatz 2, Tagblatt
+[OHNE] ID 1064 P1063 E2 Dossier VII.308.C.a.:545. T2 S.91 Sch.493 | 1944– | Solothurn Palais Besenval
+[OHNE] ID 1065 P1063 E2 Dossier VII.308.C.a.:545. T3 S.91 Sch.493 | 1944– | St. Blaise Berna SA Olten Fabrik, Nivellement
+[OHNE] ID 1066 P1063 E2 Dossier VII.308.C.a.:545. T4 S.91 Sch.493 | 1944– | Seon R. Müller & Co, Mechanische Buntweberei
+[OHNE] ID 1067 P1063 E2 Dossier VII.308.C.a.:545. T5 S.91 Sch.494 | 1944– | Zürich Maschinenfabrik Oerlikon, Affolternstrasse 52
+[OHNE] ID 1068 P1063 E2 Dossier VII.308.C.a.:545. T6 S.92 Sch.494 | 1944– | Zürich Schütze & Cie, Wollfärberei, Limmatstrasse 309
+[OHNE] ID 1069 P1063 E2 Dossier VII.308.C.a.:545. T7 S.92 Sch.494 | 1944– | Zürich Stückfärberei am Sihlquai, Sihlquai 333
+[OHNE] ID 1070 P1063 E2 Dossier VII.308.C.a.:545. T8 S.92 Sch.494 | 1944– | Zürich Orell Füssli Hof, Bahnhofstrasse 31
+[OHNE] ID 1071 P1063 E2 Dossier VII.308.C.a.:545. T9 S.92 Sch.494 | 1944– | Escher Wyss & Cie, Betonspirale für Turbine in Spanien
+[OHNE] ID 1072 P1063 E2 Dossier VII.308.C.a.:545. T10 S.92 Sch.494 | 1944– | Basel Aktienbrauerei
+[OHNE] ID 1073 P1063 E2 Dossier VII.308.C.a.:545. T11 S.92 Sch.494 | 1944– | Widnau Schweiz. Viscose-Gesellschaft
+[OHNE] ID 1074 P1063 E2 Dossier VII.308.C.a.:545. T12 S.92 Sch.494 | 1944– | Neuhausen Schweiz. Industrie-Gesellschaft
+[OHNE] ID 1075 P1063 E2 Dossier VII.308.C.a.:545. T13 S.92 Sch.494 | 1944– | Schaffhausen Schweizerische Bindfadenfabrik
+[OHNE] ID 1076 P1063 E2 Dossier VII.308.C.a.:545. T14 S.92 Sch.494 | 1944– | Andelfingen Zuckerfabrik
+[OHNE] ID 1077 P1063 E2 Dossier VII.308.C.a.:545. T15 S.92 Sch.494 | 1944– | Zürich Locher & Co, Werkplatz Manegg
+[OHNE] ID 1078 P1063 E2 Dossier VII.308.C.a.:545. T16 S.92 Sch.494 | 1944– | Niederlenz Schweiz. Leinenindustrie AG
+[OHNE] ID 1079 P1063 E2 Dossier VII.308.C.a.:545. T17 S.92 Sch.494 | 1944– | Wildegg Jura-Cement-Fabrik Zementsilos
+[OHNE] ID 1082 P1081 E2 Dossier VII.308.C.a.:547. T2 S.93 Sch.497 | 1942–1944 | Zürich Baugesellschaft Zürich AG, Architekt H. Merki
+[OHNE] ID 1083 P1081 E2 Dossier VII.308.C.a.:547. T3 S.93 Sch.498 | 1942–1944 | Zürich Baugesellschaft Zürich AG, Architekt H. Merki
+[OHNE] ID 1085 P1084 E2 Dossier VII.308.C.a.:548. T2 S.93 Sch.500 | 1943–1944 | Zürich Albisriederstrasse und Aemtlerstrasse
+[OHNE] ID 1087 P1086 E2 Dossier VII.308.C.a.:549. T2 S.94 Sch.501 | 1942–1944 | Neuhausen Schweiz. Industrie-Gesellschaft
+[OHNE] ID 1091 P1090 E2 Dossier VII.308.C.a.:552. T2 S.94 Sch.503 | 1944– | Zürich Baugesellschaft Zürich AG
+[OHNE] ID 1092 P1090 E2 Dossier VII.308.C.a.:552. T3 S.94 Sch.504 | 1944– | Zürich Baugesellschaft Zürich AG
+[OHNE] ID 1096 P1095 E2 Dossier VII.308.C.a.:555. T2 S.95 Sch.507 | – | Niederlenz Schweiz. Leinenindustrie AG
+[OHNE] ID 1098 P1097 E2 Dossier VII.308.C.a.:556. T2 S.95 Sch.508 | 1944–1945 | Niederlenz Schweiz. Leinenindustrie AG
+[OHNE] ID 1101 P1100 E2 Dossier VII.308.C.a.:558. T2 S.95 Sch.510 | – | div. O. Vorgespannte Betonbalken
+[OHNE] ID 1103 P1102 E2 Dossier VII.308.C.a.:559. T2 S.96 Sch.511 | 1944–1945 | Emmen F + W Emmen, Windkanalanlage
+[OHNE] ID 1104 P1102 E2 Dossier VII.308.C.a.:559. T3 S.96 Sch.512 | 1944–1945 | Emmen F + W Emmen, Windkanalanlage
+[OHNE] ID 1107 P1106 E2 Dossier VII.308.C.a.:561. T2 S.96 Sch.514 | 1944–1945 | Emmen F + W Emmen, Windkanalanlage
+[OHNE] ID 1112 P1111 E2 Dossier VII.308.C.a.:565. T2 S.96 Sch.518 | 1944–1945 | Emmen F + W Emmen, Windkanalanlage
+[OHNE] ID 1118 P1117 E2 Dossier VII.308.C.a.:570. T2 S.97 Sch.522 | 1945– | Niederlenz Schweiz. Leinenindustrie AG
+[OHNE] ID 1119 P1117 E2 Dossier VII.308.C.a.:570. T3 S.97 Sch.522 | 1945– | Basel Basler Rheinschiffahrts AG
+[OHNE] ID 1120 P1117 E2 Dossier VII.308.C.a.:570. T4 S.97 Sch.522 | 1945– | Widnau Schweiz. Viscose-Gesellschaft
+[OHNE] ID 1121 P1117 E2 Dossier VII.308.C.a.:570. T5 S.97 Sch.522 | 1945– | Mels Oskar Neher & Cie AG
+[OHNE] ID 1122 P1117 E2 Dossier VII.308.C.a.:570. T6 S.97 Sch.522 | 1945– | Zürich Brauerei Hürlimann AG, Brandschenkestrasse 150 Mostpresse, Pläne von Locher & Co, Of
+[OHNE] ID 1123 P1117 E2 Dossier VII.308.C.a.:570. T7 S.98 Sch.522 | 1945– | Zürich Hochbauinspektorat der Stadt Zürich
+[OHNE] ID 1124 P1117 E2 Dossier VII.308.C.a.:570. T8 S.98 Sch.522 | 1945–1946 | Neuhausen Schweiz. Industrie-Gesellschaft
+[OHNE] ID 1125 P1117 E2 Dossier VII.308.C.a.:570. T9 S.98 Sch.522 | 1945– | Corcelles Morandi frères SA, Tuilerie-Briquerie
+[OHNE] ID 1126 P1117 E2 Dossier VII.308.C.a.:570. T10 S.98 Sch.522 | 1945– | Thayngen AG der Ziegelfabriken Thayngen u. Rickelshausen
+[OHNE] ID 1127 P1117 E2 Dossier VII.308.C.a.:570. T11 S.98 Sch.522 | 1945– | Zürich Gummi Hug AG, Höschgasse 47
+[OHNE] ID 1128 P1117 E2 Dossier VII.308.C.a.:570. T12 S.98 Sch.522 | 1945– | Altstätten SG Türen- & Fensterfabrik AG
+[OHNE] ID 1129 P1117 E2 Dossier VII.308.C.a.:570. T13 S.98 Sch.522 | 1945– | Schaffhausen Tuchfabrik
+[OHNE] ID 1130 P1117 E2 Dossier VII.308.C.a.:570. T14 S.98 Sch.522 | 1945– | Zürich Genossenschaft Migros
+[OHNE] ID 1131 P1117 E2 Dossier VII.308.C.a.:570. T15 S.98 Sch.522 | 1945– | Zürich Brauerei Hürlimann AG, Brandschenkestrasse 150
+[OHNE] ID 1132 P1117 E2 Dossier VII.308.C.a.:570. T16 S.98 Sch.522 | 1945– | Zürich E. Bodmer & Cie., Uetlibergstrasse 140
+[OHNE] ID 1133 P1117 E2 Dossier VII.308.C.a.:570. T17 S.98 Sch.522 | 1945– | Zürich Geschäftshaus Peterhof, Bahnhofstrasse 30
+[OHNE] ID 1134 P1117 E2 Dossier VII.308.C.a.:570. T18 S.98 Sch.522 | 1945– | Zürich Elektrizitätswerk der Stadt Zürich
+[OHNE] ID 1135 P1117 E2 Dossier VII.308.C.a.:570. T19 S.99 Sch.522 | 1945– | Glattbrugg Direktion der öffentlichen Bauten Kanton Zürich, Ufermauer Strassenbrücke, Eise
+[OHNE] ID 1136 P1117 E2 Dossier VII.308.C.a.:570. T20 S.99 Sch.522 | 1945– | Zürich Stadt Zürich
+[OHNE] ID 1137 P1117 E2 Dossier VII.308.C.a.:570. T21 S.99 Sch.522 | – | Zürich Grossmetzgerei J. Leutert, Steinstrasse
+[OHNE] ID 1139 P1138 E2 Dossier VII.308.C.a.:571. T2 S.99 Sch.523 | 1945– | Stäfa Ventilator AG
+[OHNE] ID 1141 P1140 E2 Dossier VII.308.C.a.:572. T2 S.99 Sch.524 | 1945– | Schaffhausen Schweizerische Bindfadenfabrik
+[OHNE] ID 1147 P1146 E2 Dossier VII.308.C.a.:577. T2 S.99 Sch.529 | – | Rorbas Lochmühle
+[OHNE] ID 1148 P1146 E2 Dossier VII.308.C.a.:577. T3 S.100 Sch.529 | 1945– | Rorbas Blumer Söhne & Cie
+[OHNE] ID 1153 P1152 E2 Dossier VII.308.C.a.:581. T2 S.100 Sch.532 | 1945– | Grenchen Flugzeughalle
+[OHNE] ID 1156 P1155 E2 Dossier VII.308.C.a.:583. T2 S.100 Sch.533 | 1945– | Zürich Eidg. Versicherungs AG Treppenhaus-Renovation
+[OHNE] ID 1157 P1155 E2 Dossier VII.308.C.a.:583. T3 S.100 Sch.533 | 1945– | Zürich Maschinenfabrik Oerlikon, Affolternstrasse 52 Umbau Balderngasse 9
+[OHNE] ID 1158 P1155 E2 Dossier VII.308.C.a.:583. T4 S.101 Sch.533 | 1945–1946 | Zürich C. A. Egli & Cie AG, Leimbacherstrasse 33, Filteranlage im Keller und Einbauten
+[OHNE] ID 1159 P1155 E2 Dossier VII.308.C.a.:583. T5 S.101 Sch.533 | 1945– | Zürich EWZ, Geschäftshaus Peterhof,Bahnhofstrasse 30
+[OHNE] ID 1160 P1155 E2 Dossier VII.308.C.a.:583. T6 S.101 Sch.533 | 1945– | Zürich Brauerei Hürlimann AG, Brandschenkestrasse 150
+[OHNE] ID 1161 P1155 E2 Dossier VII.308.C.a.:583. T7 S.101 Sch.533 | 1945– | Zürich Rüegg-Nägeli & Co AG, Basteiplatz 7
+[OHNE] ID 1162 P1155 E2 Dossier VII.308.C.a.:583. T8 S.101 Sch.533 | 1945– | Zürich Hochbauinspektorat der Stadt Zürich
+[OHNE] ID 1163 P1155 E2 Dossier VII.308.C.a.:583. T9 S.101 Sch.533 | 1945– | Zürich Familienheimgenossenschaft Schweighofstrasse 293
+[OHNE] ID 1164 P1155 E2 Dossier VII.308.C.a.:583. T10 S.101 Sch.533 | 1945– | Zürich Burain-Immobilien AG / Pfister-Leuthold AG, Löwenstrasse 30
+[OHNE] ID 1165 P1155 E2 Dossier VII.308.C.a.:583. T11 S.101 Sch.533 | 1945– | Zürich Hirsehof AG
+[OHNE] ID 1166 P1155 E2 Dossier VII.308.C.a.:583. T12 S.101 Sch.533 | 1945– | Zürich Peter Locher, Klusweg 36
+[OHNE] ID 1167 P1155 E2 Dossier VII.308.C.a.:583. T13 S.101 Sch.533 | 1945– | Zürich Hochbauinspektorat der Stadt Zürich
+[OHNE] ID 1169 P1168 E2 Dossier VII.308.C.a.:584. T2 S.101 Sch.534 | 1936– | Zürich K. M. Schoeffter
+[OHNE] ID 1170 P1168 E2 Dossier VII.308.C.a.:584. T3 S.101 Sch.534 | 1940– | Zürich Prof. Eder, Freudenbergstrasse 144 Umbau
+[OHNE] ID 1171 P1168 E2 Dossier VII.308.C.a.:584. T4 S.102 Sch.534 | 1940– | Zürich E. Keller, Weinbergstrasse 20
+[OHNE] ID 1172 P1168 E2 Dossier VII.308.C.a.:584. T5 S.102 Sch.534 | 1941– | Zürich Ed. Appenzeller’s Erben, Englischviertelstrasse 56
+[OHNE] ID 1173 P1168 E2 Dossier VII.308.C.a.:584. T6 S.102 Sch.534 | 1942– | Zürich Hermann Löffler, Manessestrasse 98
+[OHNE] ID 1174 P1168 E2 Dossier VII.308.C.a.:584. T7 S.102 Sch.534 | 1942– | Zürich Frau E. Wanner-Doser, Waffenplatzstrasse 30
+[OHNE] ID 1175 P1168 E2 Dossier VII.308.C.a.:584. T8 S.102 Sch.534 | 1942– | Zürich Maschinenfabrik Oerlikon
+[OHNE] ID 1176 P1168 E2 Dossier VII.308.C.a.:584. T9 S.102 Sch.534 | 1942– | Zürich P. F. Schmid, Kilchbergstrasse 41 Neues Kamin
+[OHNE] ID 1177 P1168 E2 Dossier VII.308.C.a.:584. T10 S.102 Sch.534 | 1943– | Zürich R. Ganz’ Erben, Bahnhofstrasse 40
+[OHNE] ID 1178 P1168 E2 Dossier VII.308.C.a.:584. T11 S.102 Sch.534 | 1943– | Zürich Hochbauinspektorat der Stadt Zürich
+[OHNE] ID 1179 P1168 E2 Dossier VII.308.C.a.:584. T12 S.102 Sch.534 | 1943– | Zürich E. Gisler, mech. Schlosserei, Gallusstrasse 25
+[OHNE] ID 1180 P1168 E2 Dossier VII.308.C.a.:584. T13 S.102 Sch.534 | 1944– | Zürich Genossenschaft Migros
+[OHNE] ID 1181 P1168 E2 Dossier VII.308.C.a.:584. T14 S.102 Sch.534 | 1944– | Zürich Pfister-Leuthold AG, Löwenstrasse 50 Dachstockumbau
+[OHNE] ID 1182 P1168 E2 Dossier VII.308.C.a.:584. T15 S.102 Sch.534 | 1944– | Zürich V. O. L. G.
+[OHNE] ID 1183 P1168 E2 Dossier VII.308.C.a.:584. T16 S.102 Sch.534 | 1944– | Zürich Genossenschaft Schöntal
+[OHNE] ID 1184 P1168 E2 Dossier VII.308.C.a.:584. T17 S.102 Sch.534 | 1944– | Zürich Dr. med. A. Affolter, Stockerstrasse 12 Schutzraum
+[OHNE] ID 1185 P1168 E2 Dossier VII.308.C.a.:584. T18 S.102 Sch.534 | 1944– | Zürich Erholungshaus Fluntern, Zürichbergstrasse 106
+[OHNE] ID 1186 P1168 E2 Dossier VII.308.C.a.:584. T19 S.102 Sch.534 | 1944– | Zürich Ad. Saurer AG, Arbon, Schutzraum Hohlstrasse 295
+[OHNE] ID 1187 P1168 E2 Dossier VII.308.C.a.:584. T20 S.103 Sch.534 | 1944– | Zürich R. Maag & Co
+[OHNE] ID 1188 P1168 E2 Dossier VII.308.C.a.:584. T21 S.103 Sch.534 | 1944– | Zürich Sihltalbahn Gesellschaft AG
+[OHNE] ID 1189 P1168 E2 Dossier VII.308.C.a.:584. T22 S.103 Sch.534 | 1944– | Zürich Rudolf Maag
+[OHNE] ID 1190 P1168 E2 Dossier VII.308.C.a.:584. T23 S.103 Sch.534 | 1944– | Zürich G. Schläpfe-Stockar
+[OHNE] ID 1191 P1168 E2 Dossier VII.308.C.a.:584. T24 S.103 Sch.534 | 1944– | Zürich G. Staub-Richli
+[OHNE] ID 1192 P1168 E2 Dossier VII.308.C.a.:584. T25 S.103 Sch.534 | 1944– | Zürich Otto Weber
+[OHNE] ID 1193 P1168 E2 Dossier VII.308.C.a.:584. T26 S.103 Sch.534 | 1944– | Zürich Immobiliengesellschaft Paradeplatz
+[OHNE] ID 1194 P1168 E2 Dossier VII.308.C.a.:584. T27 S.103 Sch.534 | 1944– | Zürich K. Koch, Greyerzerstrasse 97, Bern
+[OHNE] ID 1195 P1168 E2 Dossier VII.308.C.a.:584. T28 S.103 Sch.534 | 1943– | Zürich J. H. Waser, Fröbelstrasse 20 (?)
+[OHNE] ID 1196 P1168 E2 Dossier VII.308.C.a.:584. T29 S.103 Sch.534 | 1945– | Zürich Pestalozzi & Co, In Gassen 3
+[OHNE] ID 1197 P1168 E2 Dossier VII.308.C.a.:584. T30 S.103 Sch.534 | 1943– | Zürich Reishauer Werkzeuge AG, Limmatstrasse 77 – 87

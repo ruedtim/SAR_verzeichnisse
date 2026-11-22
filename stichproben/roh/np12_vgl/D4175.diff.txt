@@ -1,0 +1,38 @@
+### D4175: vorher 45 Einheiten, nachher 45 Einheiten
+GEÄ  VII.232.:1.A.1. [ID 3, Dossier, E3, Eltern VII.232.:1.A., S.2] Ausweise | Von/bis (>= x und <=y)
+        [Darin]
+           -Heirat und silberne Hochzeit, 1955, 1980
+           -Zusammenarbeit mit Richard Paul Lohse, Maler, Konstruktivist, 1986 - 1987
+           +Heirat und silberne Hochzeit Zusammenarbeit mit Richard Paul Lohse,, 1955, 1980
+           +Maler, Konstruktivist, 1986 - 1987
+GEÄ  VII.232.:1.D.2. [ID 17, Dossier, E3, Eltern VII.232.:1.D., S.4] Fotografien Escher Wyss | Von/bis (>= x und <=y)
+        [Darin]
+           -Besuch von General Guisan in der Werkstatt wegen Lieferungen an die Schweizer Armee (Verstärkerpropeller für Flugzeuge; mit Werkstattdirektor Frei und Oberst J
+           -Luftaufnahme von Escher Wyss Zürich
+           +Besuch von General Guisan in der Werkstatt wegen Lieferungen an die Schweizer Armee (Verstärkerpropeller für Flugzeuge; mit Werkstattdirektor Frei und Oberst J
+GEÄ  VII.232.:2. [ID 21, Teilbestand, E1, Eltern -, S.6] Myrthe Wedekind-Güttinger | Von/bis (>= x und <=y)
+        [Darin]
+           -Nachlass von Frau Myrthe Wedekind
+           -Güttinger
+           +
+GEÄ  VII.232.:2.A. [ID 22, Dossier, E2, Eltern VII.232.:2., S.7] PERSOENLICHES | Von/bis (>= x und <=y)
+        [Darin]
+           -Rationierungskarten und -ausweis, 1945 - 1948
+           -Angaben betreffend die Eltern von Frau Wedekind, 1946 - 1989
+           +Rationierungskarten und -ausweis Angaben betreffend die Eltern von, 1945 - 1948
+           +Frau Wedekind, 1946 - 1989
+        Prüfhinweise: '' => 'Steht im Findmittel unter der Zwischenüberschrift «Nachlass von Frau Myrthe Wedekind - Güttinger».'
+GEÄ  VII.232.:2.B.2. [ID 25, Dossier, E3, Eltern VII.232.:2.B., S.8] Postkarten | Von/bis (>= x und <=y)
+        [Darin]
+           -Nachlass von Frau Myrthe Wedekind
+           -Güttinger
+           +
+GEÄ  VII.232.:2.C. [ID 26, Dossier, E2, Eltern VII.232.:2., S.8] WIRTSCHAFTSFOERDERUNG | Von/bis (>= x und <=y)
+        Prüfhinweise: '' => 'Steht im Findmittel unter der Zwischenüberschrift «Nachlass von Frau Myrthe Wedekind - Güttinger».'
+GEÄ  VII.232.:2.G.4. [ID 39, Dossier, E3, Eltern VII.232.:2.G., S.9] Schulzeugnisse | Von/bis (>= x und <=y)
+        [Darin]
+           -Nachlass von Frau Myrthe Wedekind
+           -Güttinger
+           +
+GEÄ  VII.232.:2.H. [ID 40, Dossier, E2, Eltern VII.232.:2., S.9] REKLAMEFILME | Von/bis (>= x und <=y)
+        Prüfhinweise: '' => 'Steht im Findmittel unter der Zwischenüberschrift «Nachlass von Frau Myrthe Wedekind - Güttinger».'

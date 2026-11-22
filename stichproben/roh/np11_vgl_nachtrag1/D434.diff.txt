@@ -1,0 +1,8 @@
+### D434: vorher 72 Einheiten, nachher 73 Einheiten
+NEU  V.B.c.51.:2.6.1. [ID 14, Dossier, E3, Eltern V.B.c.51.:2.6., S.2] 1937 – 1943 | Von/bis (>= x und <=y)
+GEÄ  V.B.c.51.:2.6. [ID 13, Serie, E2, Eltern V.B.c.51.:2., S.2] Interpellationen | Von/bis (>= x und <=y)
+        [Darin]
+           -2.6.1. 1937 – 1943, 1930 – 1943
+           +
+GEÄ  V.B.c.51.:2.6.2. [ID 15, Dossier, E3, Eltern V.B.c.51.:2.6., S.2] Dr. Hans Pruppacher betreffend Arbeitsbeschaffung | Genau (=)
+        Prüfhinweise: 'Nummerierung beginnt bei 2.' => ''

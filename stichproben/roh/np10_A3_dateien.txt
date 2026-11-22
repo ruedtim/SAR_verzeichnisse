@@ -1,0 +1,7 @@
+D3470	1942 Einheiten	ERSTPRÜFUNG (nie in einer Fundliste)
+D1924	82 Einheiten	schon geprüft
+D3566	3 Einheiten	schon geprüft
+D3727	46 Einheiten	schon geprüft
+D3313	4 Einheiten	schon geprüft
+D1180	204 Einheiten	schon geprüft
+D2620	139 Einheiten	schon geprüft

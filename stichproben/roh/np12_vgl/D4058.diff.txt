@@ -1,0 +1,21 @@
+### D4058: vorher 146 Einheiten, nachher 146 Einheiten
+GEÄ  VII.151.:19.13. [ID 135, Serie, E1, Eltern -, S.20] Pläne der Steiger Partner AG von 1976/77 | Von/bis (>= x und <=y)
+        [Darin]
+           -7 Grundrisse
+           -1: 200
+           -21. Juli 1976 ca. 46,5 x 60 – 67 cm (Höhe unterschiedlich)
+           +
+GEÄ  VII.151.:19.13.1. [ID 136, Dossier, E2, Eltern VII.151.:19.13., S.20] Grundriss Dachgeschoss | Genau (=)
+        Entstehungszeitraum: '' => 'Genau (=)'
+        von: '' => '21.07.1976'
+        [Darin]
+           -
+           +7 Grundrisse
+           +1: 200
+           +21. Juli 1976 ca. 46,5 x 60 – 67 cm (Höhe unterschiedlich)
+        Zeitraum-Quelle: '' => 'Darin (geschätzt)'
+        [Prüfhinweise]
+           -Steht im Findmittel unter der Zwischenüberschrift «19.13.1.–7. Tonhalle – Kongresshaus Mappe 10».
+           -Kein Zeitraum gefunden.
+           +Steht im Findmittel unter dem Bereichskopf «19.13.1.–7. Tonhalle – Kongresshaus Mappe 10»; dessen Beschreibung hier im Darin übernommen.
+           +Zeitraum aus den Jahreszahlen im Darin geschätzt.

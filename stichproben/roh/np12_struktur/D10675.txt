@@ -1,0 +1,44 @@
+### D10675 – fortlaufend – 620 Einheiten – Bestand V.F.c.28.
+Zusammenfassung: DARIN 5, HINWEIS 3, LÜCKE 31, RÜCK 3
+[HINWEIS] ID 2 V.F.c.28.:010 S.1 | Nummerierung springt: nach 440 folgt 10. Möglicher Tippfehler in der Signatur. / Kein Zeitraum gefunden (auch nicht in den Untereinheiten).
+[DARIN] ID 12 V.F.c.28.:020 Darin 1: 020 Allgemeine Akten
+[DARIN] ID 26 V.F.c.28.:600 Darin 1: 600 Allgemeine Akten
+[HINWEIS] ID 191 V.F.c.28.:712.109 S.7 | Steht im Findmittel unter der Zwischenüberschrift «712 Verträge/Pendente Verhandlungen: Kehrichtverbrennungsanlage 1 (Josefstrasse)».
+[HINWEIS] ID 223 V.F.c.28.:712.210.1 S.8 | Steht im Findmittel unter der Zwischenüberschrift «712 Verträge/Pendente Verhandlungen: Kehrichtverbrennungsanlage 2 (Hagenholz)».
+[DARIN] ID 620 V.F.c.28.:802 Darin 2: 440.733.3 Schlussbericht Phase B von FIDES Unternehmungsberatung: Ökologische Abfallbewirtschaftung 
+[DARIN] ID 620 V.F.c.28.:802 Darin 3: 440.744.6 Tagungsunterlagen "Arbeitstagung über Rauchgasreinigungsanlagen in Interlagen, 17./18.09.1
+[DARIN] ID 620 V.F.c.28.:802 Darin 4: 440.745.19 Bericht über die Reise vom 13./14.08.1987 zur Besichtigung der Rauchgasreinigungsanlagen 
+[RÜCK] ID 2 V.F.c.28.:010 nach Nummer 440 (Eltern None) S.1
+[LÜCKE] 11–19 fehlen vor ID 12 V.F.c.28.:020 (Eltern None) S.2
+[LÜCKE] 21–599 fehlen vor ID 26 V.F.c.28.:600 (Eltern None) S.2
+[LÜCKE] 601–699 fehlen vor ID 67 V.F.c.28.:700 (Eltern None) S.3
+[RÜCK] ID 101 V.F.c.28.:701.40 nach Nummer 701 (Eltern None) S.4
+[LÜCKE] 41–49 fehlen vor ID 110 V.F.c.28.:701.50 (Eltern None) S.4
+[LÜCKE] 51–701 fehlen vor ID 121 V.F.c.28.:702 (Eltern None) S.4
+[LÜCKE] 704–704 fehlen vor ID 145 V.F.c.28.:705 (Eltern None) S.5
+[LÜCKE] 708–709 fehlen vor ID 148 V.F.c.28.:710 (Eltern None) S.5
+[LÜCKE] 720–729 fehlen vor ID 362 V.F.c.28.:730 (Eltern None) S.12
+[LÜCKE] 731–741 fehlen vor ID 383 V.F.c.28.:742 (Eltern None) S.12
+[LÜCKE] 746–746 fehlen vor ID 549 V.F.c.28.:747 (Eltern None) S.19
+[LÜCKE] 750–750 fehlen vor ID 562 V.F.c.28.:751 (Eltern None) S.19
+[LÜCKE] 756–760 fehlen vor ID 571 V.F.c.28.:761 (Eltern None) S.20
+[LÜCKE] 764–765 fehlen vor ID 599 V.F.c.28.:766 (Eltern None) S.21
+[LÜCKE] 768–779 fehlen vor ID 601 V.F.c.28.:780 (Eltern None) S.21
+[LÜCKE] 781–789 fehlen vor ID 605 V.F.c.28.:790 (Eltern None) S.21
+[LÜCKE] 791–799 fehlen vor ID 612 V.F.c.28.:800 (Eltern None) S.21
+[LÜCKE] 14–14 fehlen vor ID 10 V.F.c.28.:015 (Eltern 2) S.1
+[LÜCKE] 3–600 fehlen vor ID 29 V.F.c.28.:601 (Eltern 26) S.2
+[LÜCKE] 603–603 fehlen vor ID 33 V.F.c.28.:604 (Eltern 26) S.2
+[LÜCKE] 12–12 fehlen vor ID 79 V.F.c.28.:700.13 (Eltern 67) S.3
+[LÜCKE] 4–4 fehlen vor ID 125 V.F.c.28.:702.5 (Eltern 121) S.4
+[LÜCKE] 16–16 fehlen vor ID 185 V.F.c.28.:712.17 (Eltern 169) S.7
+[LÜCKE] 21–108 fehlen vor ID 191 V.F.c.28.:712.109 (Eltern 169) S.7
+[LÜCKE] 121–122 fehlen vor ID 203 V.F.c.28.:712.123 (Eltern 169) S.7
+[RÜCK] ID 223 V.F.c.28.:712.210.1 nach Nummer 142 (Eltern 169) S.8
+[LÜCKE] 3–210 fehlen vor ID 225 V.F.c.28.:712.211 (Eltern 169) S.8
+[LÜCKE] 37–37 fehlen vor ID 283 V.F.c.28.:713.38 (Eltern 230) S.9
+[LÜCKE] 5–9 fehlen vor ID 336 V.F.c.28.:718.10 (Eltern 331) S.11
+[LÜCKE] 29–29 fehlen vor ID 355 V.F.c.28.:718.30 (Eltern 331) S.11
+[LÜCKE] 732–732 fehlen vor ID 365 V.F.c.28.:733 (Eltern 362) S.12
+[LÜCKE] 49–49 fehlen vor ID 432 V.F.c.28.:742.50 (Eltern 383) S.14
+[LÜCKE] 29–49 fehlen vor ID 546 V.F.c.28.:745.50 (Eltern 517) S.19

@@ -1,0 +1,56 @@
+### D3470: vorher 1942 Einheiten, nachher 1950 Einheiten
+NEU  VII.308.E.a.:12.53a. [ID 134, Dossier, E1, Eltern -, S.6] Vaujours Gipsfabrik | 
+        H: Keine übergeordnete Signatur gefunden (erwartet 12.).
+Kein Zeitraum gefunden.
+NEU  VII.308.E.a.:1937.524a [ID 626, Dossier, E1, Eltern -, S.25] Küsnacht Architekt Labhart, Hausverschiebung | Genau (=)
+NEU  VII.308.E.a.:1937.524b [ID 627, Dossier, E1, Eltern -, S.25] St. Gallen Fest- und Ausstellungshalle | Genau (=)
+NEU  VII.308.E.a.:1938.583a [ID 684, Dossier, E1, Eltern -, S.28] Zürich Schweizerische Landesausstellung, Chemiehalle | Genau (=)
+NEU  VII.308.E.a.:1938.583b [ID 685, Dossier, E1, Eltern -, S.28] Attisholz Cellulosefabrik, Lagerhalle | Genau (=)
+NEU  VII.308.E.a.:1953.1419 [ID 1410, Dossier, E1, Eltern -, S.56] [ohne Titel] | Genau (=)
+        H: Kein Titel erkannt.
+NEU  VII.308.E.a.:1954.1514 [ID 1503, Dossier, E1, Eltern -, S.59] [ohne Titel] | Genau (=)
+        H: Kein Titel erkannt.
+NEU  VII.308.E.a.:1961.1813 [ID 1793, Dossier, E1, Eltern -, S.71] [ohne Titel] | Genau (=)
+        H: Kein Titel erkannt.
+GEÄ  VII.308.E.a.:11.53. [ID 133, Dossier, E1, Eltern -, S.6] Biel Schweizerische Bundesbahnen Lokomotivremise | 
+        [Darin]
+           -12.53a Vaujours Gipsfabrik
+           +
+GEÄ  VII.308.E.a.:1937.523 [ID 625, Dossier, E1, Eltern -, S.25] Samaden Genossenschaft Flugplatz Ober-Engadin, Flugzeughalle | Genau (=)
+        Entstehungszeitraum, Anm.: '' => 'ca.'
+        [Darin]
+           -1937.524a Küsnacht Architekt Labhart, Hausverschiebung
+           -1937.524b St. Gallen Fest- und Ausstellungshalle
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Signatur (Jahr)'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.308.E.a.:1938.582 [ID 683, Dossier, E1, Eltern -, S.28] Zürich Gebrüder Iseli, Passerelle | Genau (=)
+        Entstehungszeitraum, Anm.: '' => 'ca.'
+        [Darin]
+           -1938.583a Zürich Schweizerische Landesausstellung, Chemiehalle
+           -1938.583b Attisholz Cellulosefabrik, Lagerhalle, Schachtel 48
+           +
+        Schachtel-Nr.: '47-48' => '47'
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Signatur (Jahr)'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.308.E.a.:1953.1418 [ID 1409, Dossier, E1, Eltern -, S.56] Fusio Maggiawerke AG Autogarage | Genau (=)
+        Entstehungszeitraum, Anm.: '' => 'ca.'
+        [Darin]
+           -1953.1419
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Signatur (Jahr)'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.308.E.a.:1954.1513 [ID 1502, Dossier, E1, Eltern -, S.59] Rheinau Kraftwerk, Magazinbaracke | Genau (=)
+        Entstehungszeitraum, Anm.: '' => 'ca.'
+        [Darin]
+           -1954.1514
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Signatur (Jahr)'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.308.E.a.:1961.1812 [ID 1792, Dossier, E1, Eltern -, S.71] Kriens Bell & Cie AG Kriens, Bürobaracke | Genau (=)
+        Entstehungszeitraum, Anm.: '' => 'ca.'
+        [Darin]
+           -1961.1813
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Signatur (Jahr)'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''

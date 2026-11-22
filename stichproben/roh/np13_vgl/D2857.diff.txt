@@ -1,0 +1,16 @@
+### D2857: vorher 419 Einheiten, nachher 419 Einheiten
+WEG  VII.111.:1.224.3. [ID 357, Dossier, E2, Eltern VII.111.:1., S.8] Fassaden / Schnitte, M 1:200 (116x66) | Genau (=)
+NEU  VII.111.:1.2.25.3. [ID 186, Dossier, E4, Eltern VII.111.:1.2.25., S.8] Fassaden / Schnitte, M 1:200 (116x66) | Genau (=)
+        H: Im Findmittel «1.224.3..» mit doppeltem Punkt – als «1.224.3.» gelesen. Im Findmittel «1.224.3..» zwischen 1.2.25.2. und 1.2.25.4. – als 1.2.25.3. gelesen (Tippfehler?), bitte prüfen.
+GEÄ  VII.111.:1.2.2./T2 [ID 8, Dossier, E4, Eltern VII.111.:1.2.2., S.2] Ausstellungsbogen mit vollständig entfernten Illustrationen (84x69) | 
+        Prüfhinweise: '' => 'Signatur 1.2.2. steht im Findmittel zweimal hintereinander mit anderem Titel – Tippfehler? Als Teil übernommen, bitte prüfen.'
+GEÄ  VII.111.:1.2.3./T2 [ID 10, Dossier, E4, Eltern VII.111.:1.2.3., S.2] Brunnenentwurf und Plan, M 1:20 (71x51) | Genau (=)
+        Prüfhinweise: '' => 'Signatur 1.2.3. steht im Findmittel zweimal hintereinander mit anderem Titel – Tippfehler? Als Teil übernommen, bitte prüfen.'
+GEÄ  VII.111.:1.2.4./T2 [ID 12, Dossier, E4, Eltern VII.111.:1.2.4., S.2] Ansicht (97x63) | 
+        Prüfhinweise: '' => 'Signatur 1.2.4. steht im Findmittel zweimal hintereinander mit anderem Titel – Tippfehler? Als Teil übernommen, bitte prüfen.'
+GEÄ  VII.111.:1.2.15./T2 [ID 103, Dossier, E4, Eltern VII.111.:1.2.15., S.5] La Façade, M 1:20 (85x69) | Genau (=)
+        Prüfhinweise: '' => 'Signatur 1.2.15. steht im Findmittel zweimal hintereinander mit anderem Titel – Tippfehler? Als Teil übernommen, bitte prüfen.'
+GEÄ  VII.111.:1.2.17./T2 [ID 111, Dossier, E4, Eltern VII.111.:1.2.17., S.6] Ansicht, je auf Papier und auf Pergamentpapier (79x71) | 
+        Prüfhinweise: '' => 'Signatur 1.2.17. steht im Findmittel zweimal hintereinander mit anderem Titel – Tippfehler? Als Teil übernommen, bitte prüfen.'
+GEÄ  VII.111.:1.2.25.4. [ID 187, Dossier, E4, Eltern VII.111.:1.2.25., S.8] Fassaden / Schnitte, M 1:200 (127x62) | Genau (=)
+        Prüfhinweise: 'Nummerierung springt: nach 2 folgt 4.' => ''

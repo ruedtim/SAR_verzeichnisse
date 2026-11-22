@@ -1,0 +1,13 @@
+### D3018: vorher 200 Einheiten, nachher 200 Einheiten
+GEÄ  VII.174.:05.7.2. [ID 118, Serie, E3, Eltern VII.174.:05.7., S.47] Verband ostschweizerischer Blumentopffabrikanten | Von/bis (>= x und <=y)
+        [Darin]
+           -Dossier l:Protokolle und Reglemente vom, 11.1926
+           +Dossier l:Protokolle und Reglemente vom, 11.1926- 01.1931
+        Zeitraum-Quelle: 'Datumsspalte' => 'Untereinheiten (geschätzt)'
+        Prüfhinweise: '' => 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.'
+GEÄ  VII.174.:05.7.2./T2 [ID 119, Dossier, E4, Eltern VII.174.:05.7.2., S.47] Verband ostschweizerischer Blumentopffabrikanten, Teil 2 | 
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => ''
+        von: '11.1926' => ''
+        bis: '01.1931' => ''
+        Zeitraum-Quelle: 'übergeordnete Einheit' => ''
+        Prüfhinweise: '' => 'Kein Zeitraum gefunden.'

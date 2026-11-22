@@ -1,0 +1,25 @@
+### D3470: vorher 1950 Einheiten, nachher 1950 Einheiten
+WEG  VII.308.E.a.:40.430. [ID 530, Dossier, E1, Eltern -, S.22] Zürich Locher & Cie AG, Wiederaufbau Zimmerei | 
+WEG  VII.308.E.a.:41.436. [ID 536, Dossier, E1, Eltern -, S.22] Zürich Henauer & Witschi, Schanzeneck | 
+NEU  VII.308.E.a.:42.430. [ID 530, Dossier, E1, Eltern -, S.22] Zürich Locher & Cie AG, Wiederaufbau Zimmerei | 
+        H: Im Findmittel «40.430» zwischen 42.429. und 42.431. – als 42.430. gelesen (Tippfehler?), bitte prüfen.
+Keine übergeordnete Signatur gefunden (erwartet 42.).
+Kein Zeitraum gefunden.
+NEU  VII.308.E.a.:42.436. [ID 536, Dossier, E1, Eltern -, S.22] Zürich Henauer & Witschi, Schanzeneck | 
+        H: Im Findmittel «41.436» zwischen 42.435. und 42.437. – als 42.436. gelesen (Tippfehler?), bitte prüfen.
+Keine übergeordnete Signatur gefunden (erwartet 42.).
+Kein Zeitraum gefunden.
+GEÄ  VII.308.E.a.:27.257./T2 [ID 355, Dossier, E2, Eltern VII.308.E.a.:27.257., S.15] Rüschlikon Gemeinde, Rohrsteg über die Sihl | 
+        Prüfhinweise: '' => 'Signatur 27.257. steht im Findmittel zweimal hintereinander mit anderem Titel – Tippfehler? Als Teil übernommen, bitte prüfen.'
+GEÄ  VII.308.E.a.:1940.638/T2 [ID 738, Dossier, E2, Eltern VII.308.E.a.:1940.638, S.30] Wald Kantonales Tiefbaumat, Brücke im Loosentobel, Lehrgerüst | Genau (=)
+        Prüfhinweise: '' => 'Signatur 1940.638 steht im Findmittel zweimal hintereinander mit anderem Titel – Tippfehler? Als Teil übernommen, bitte prüfen.'
+GEÄ  VII.308.E.a.:1943.767/T2 [ID 867, Dossier, E2, Eltern VII.308.E.a.:1943.767, S.36] Truns Baracken | Genau (=)
+        Prüfhinweise: '' => 'Signatur 1943.767 steht im Findmittel zweimal hintereinander mit anderem Titel – Tippfehler? Als Teil übernommen, bitte prüfen.'
+GEÄ  VII.308.E.a.:1949.1211/T2 [ID 1201, Dossier, E2, Eltern VII.308.E.a.:1949.1211, S.48] Rothenburg Direktion der Eidgenössischen Bauten, Wettbewerb für Motorfahrzeughallen | Genau (=)
+        Prüfhinweise: '' => 'Signatur 1949.1211 steht im Findmittel zweimal hintereinander mit anderem Titel – Tippfehler? Als Teil übernommen, bitte prüfen.'
+GEÄ  VII.308.E.a.:1950.1277/T2 [ID 1267, Dossier, E2, Eltern VII.308.E.a.:1950.1277, S.51] Rümlang Verlegung der Holzbrücke | Genau (=)
+        Prüfhinweise: '' => 'Signatur 1950.1277 steht im Findmittel zweimal hintereinander mit anderem Titel – Tippfehler? Als Teil übernommen, bitte prüfen.'
+GEÄ  VII.308.E.a.:1951.1311/T2 [ID 1302, Dossier, E2, Eltern VII.308.E.a.:1951.1311, S.52] Frutigen Lehrgerüst Engstligenbrücke | Genau (=)
+        Prüfhinweise: '' => 'Signatur 1951.1311 steht im Findmittel zweimal hintereinander mit anderem Titel – Tippfehler? Als Teil übernommen, bitte prüfen.'
+GEÄ  VII.308.E.a.:1956.1585/T2 [ID 1568, Dossier, E2, Eltern VII.308.E.a.:1956.1585, S.62] Leggunia Brücke, Lehrgerüst | Genau (=)
+        Prüfhinweise: '' => 'Signatur 1956.1585 steht im Findmittel zweimal hintereinander mit anderem Titel – Tippfehler? Als Teil übernommen, bitte prüfen.'

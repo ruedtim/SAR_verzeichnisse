@@ -1,0 +1,100 @@
+### D176868: vorher 1 Einheiten, nachher 26 Einheiten
+WEG  VII.164. [ID 1, Bestand, E1, Eltern -, S.1] (Teilbestand) Neujahrsblätter der Freisinnig-demokratischen Partei Zürich 1 | Von/bis (>= x und <=y)
+        D: Nummer Jahrgang Titel
+        D: 1. 1982 Das Corso-Theater vor 75 Jahren; Zeichner: Gustav Welti (1866 – 1940); Vorlage: Baugeschichtliches Archiv der Stadt Zürich; 29,5 x 47 cm; 3 Exemplare
+        D: 2. 1983 Schweizerische Landesausstellung 1883 in Zürich; KOMMENTAR FEHLT NOCH; 61 x 43 cm; 3 Exemplare
+        D: 3. 1984 100 Jahre Quaibrücke Zürich; Autor: Heinrich Bachmann (1836 – 1913), Xylograph; Vorlage: David Bürklis Züricher Kalender 1884, S. 12 f.; 44 x 31 cm; 3 E
+        D: 4. 1985 100 Jahre Zwingli-Denkmal; Holzschnitt von Gustav Albert Kunz (1850 – 1927); Vorlage: Baugeschichtliches Archiv der Stadt Zürich; 30 x 42 cm; 3 Exemplar
+        D: 5. 1986 650 Jahre Zürcher Zünfte. Sechseläuten-Umzug 1839; Bildautor: Heinrich Cramer, Drucker: Friedrich Schulthess; Vorlage: Stadtarchiv Zürich; 50 x 36 cm; 3
+        D: 6. 1987 100 Jahre Zürcher Quaianlagen; Vorlage: Lithographie Verlag J. J. Hofer, Zürich 1881; 50 x 35 cm; 4 Exemplare
+        D: 7. 1988 150 Jahre Münsterbrücke; Vorlage: Baugeschichtliches Archiv der Stadt Zürich (wo sich auch die originale Kupferplatte befindet), 1841; Nach einer Zeichn
+        D: … (27 Zeilen)
+NEU  VII.164.:1. [ID 1, Dossier, E1, Eltern -, S.1] 1982 Das Corso-Theater vor 75 Jahren | Genau (=)
+        D: Zeichner: Gustav Welti (1866 – 1940)
+        D: Vorlage: Baugeschichtliches Archiv der Stadt Zürich
+        D: 29,5 x 47 cm
+        D: 3 Exemplare
+NEU  VII.164.:2. [ID 2, Dossier, E1, Eltern -, S.1] 1983 Schweizerische Landesausstellung 1883 in Zürich | Genau (=)
+        D: 61 x 43 cm
+        D: 3 Exemplare
+NEU  VII.164.:3. [ID 3, Dossier, E1, Eltern -, S.1] 1984 100 Jahre Quaibrücke Zürich | Genau (=)
+        D: Autor: Heinrich Bachmann (1836 – 1913), Xylograph
+        D: Vorlage: David Bürklis Züricher Kalender 1884, S. 12 f.
+        D: 44 x 31 cm
+        D: 3 Exemplare
+        H: Steht im Findmittel unter der Zwischenüberschrift «KOMMENTAR FEHLT NOCH».
+NEU  VII.164.:4. [ID 4, Dossier, E1, Eltern -, S.1] 1985 100 Jahre Zwingli-Denkmal | Genau (=)
+        D: Holzschnitt von Gustav Albert Kunz (1850 – 1927)
+        D: Vorlage: Baugeschichtliches Archiv der Stadt Zürich
+        D: 30 x 42 cm
+        D: 3 Exemplare
+NEU  VII.164.:5. [ID 5, Dossier, E1, Eltern -, S.1] 1986 650 Jahre Zürcher Zünfte. Sechseläuten-Umzug 1839 Bildautor: Heinrich Cramer, Drucker: Friedrich Schulthess | Genau (=)
+        D: Vorlage: Stadtarchiv Zürich
+        D: 50 x 36 cm
+        D: 3 Exemplare
+NEU  VII.164.:6. [ID 6, Dossier, E1, Eltern -, S.1] 1987 100 Jahre Zürcher Quaianlagen | Genau (=)
+        D: Vorlage: Lithographie Verlag J. J. Hofer, Zürich 1881
+        D: 50 x 35 cm
+        D: 4 Exemplare
+NEU  VII.164.:7. [ID 7, Dossier, E1, Eltern -, S.1] 1988 150 Jahre Münsterbrücke | Genau (=)
+        D: Vorlage: Baugeschichtliches Archiv der Stadt Zürich (wo sich auch die originale Kupferplatte befindet), 1841
+        D: Nach einer Zeichnung von Alois Negrelli (1799 – 1858)
+        D: 45 x 32 cm
+        D: 2 Exemplare
+NEU  VII.164.:8. [ID 8, Dossier, E1, Eltern -, S.2] 1989 Die Fleischhalle am Limmatquai – Plan von 1866 Vorlage: Baugeschichtliches Archiv der Stadt Zürich | Genau (=)
+        D: 99 x 34 cm
+        D: 2 Exemplare
+NEU  VII.164.:9. [ID 9, Dossier, E1, Eltern -, S.2] 1990 Stimmungsbilder rund um den Zürcher Hauptbahnhof im Jahre 1883 Vorlage: Ausstellungszeitung der Schweizerischen Landesausstellung 1883 in Zürich | Genau (=)
+        D: 32 x 50 cm
+        D: 3 Exemplare
+NEU  VII.164.:10. [ID 10, Dossier, E1, Eltern -, S.2] 1991 1891 Stadttheater – Opernhaus 1991 | Genau (=)
+        D: 50 x 30,5 cm
+        D: 3 Exemplar
+NEU  VII.164.:11. [ID 11, Dossier, E1, Eltern -, S.2] 1992 100 Jahre Freisinnig-Demokratische Partei der Stadt Zürich Ansicht der Quaianlagen 1887, farbig | Genau (=)
+        D: Vorlagen: Baugeschichtliches Archiv der Stadt Zürich, Stadtarchiv Zürich 70 x 51 cm
+        D: 7 Exemplare
+NEU  VII.164.:12. [ID 12, Dossier, E1, Eltern -, S.2] 1993 Zürich vor 150 Jahren – Kalender aus dem Jahre 1843 Illustrierter Kalender mit 12 Randbildern | Genau (=)
+        D: Künstler: Heinrich Siegfried (1814 – 1889)
+        D: Vorlage: Graphische Sammlung der Zentralbibliothek Zürich
+        D: 50 x 70 cm
+        D: 4 Exemplare
+NEU  VII.164.:13. [ID 13, Dossier, E1, Eltern -, S.2] 1994 Zürich vor 150 Jahren. Eröffnung des Hotels Baur au Lac 1844 54 x 40 cm | Genau (=)
+        D: 4 Exemplare
+NEU  VII.164.:14. [ID 14, Dossier, E1, Eltern -, S.2] 1995 Zürich vor 100 Jahren. Eröffnung der neuen Tonhalle am Alpenquai 1895 Vorlage: Xylographie von Heinrich Bachmann aus dem Züricher Kalender 1895 | Genau (=)
+        D: 42 x 29,5 cm
+        D: 2 Exemplare
+NEU  VII.164.:15. [ID 15, Dossier, E1, Eltern -, S.2] 1996 Zürich vor 125 Jahren. Eröffnung des neuen Hauptbahnhofes 1871 Stich von R. Dikenmann aus dem Jahr 1880 | Genau (=)
+        D: Vorlage: Graphische Sammlung der Zentralbibliothek Zürich
+        D: 42 x 39,5 cm
+        D: 3 Exemplare
+NEU  VII.164.:16. [ID 16, Dossier, E1, Eltern -, S.3] 1997 Zürich vor 150 Jahren. Eröffnung der „Spanisch-Brötli-Bahn” 1897 26 x 72 cm (schmales Hochformat) 1 Exemplar | Genau (=)
+NEU  VII.164.:17. [ID 17, Dossier, E1, Eltern -, S.3] 1998 Zürich vor 100 Jahren. Eröffnung des Schweizerischen Landesmuseums Format DIN A 3 | Genau (=)
+        D: 1 Exemplar
+NEU  VII.164.:18. [ID 18, Dossier, E1, Eltern -, S.3] 1999 FEHLT NOCH | Genau (=)
+NEU  VII.164.:19. [ID 19, Dossier, E1, Eltern -, S.3] 2000 Zürich vor 175 Jahren. Bau der Hauptwache beim Rathaus 1824 – 25 Vorlage: Holzstich von Heinrich Bachmann aus dem Züricher Kalender auf das Jahr 1891 | Genau (=)
+        D: Format DIN A 3
+        D: 2 Exemplare
+NEU  VII.164.:20. [ID 20, Dossier, E1, Eltern -, S.3] 2001 FEHLT NOCH | Genau (=)
+NEU  VII.164.:21. [ID 21, Dossier, E1, Eltern -, S.3] 2002 Der Börsensaal in Zürich | Genau (=)
+        D: Zürich vor 125 Jahren. Bau der ersten Zürcher Börse 1877 – 1880
+        D: Format DIN A 3
+        D: 2 Exemplare
+NEU  VII.164.:22. [ID 22, Dossier, E1, Eltern -, S.3] 2003 Projekt von Architekt Gustav Gull für die Überbauung des Werdmühle- und Oetenbachareals und ein alle Verwaltungsabteilungen umfassendes Stadthaus in Zürich | Genau (=)
+        D: Kommentar von Roman G. Schönauer unter dem Titel „Zürich vor 100 Jahren. Die städtischen Amtshäuser oder: Der Traum von einer repräsentativen ‚Stadtkrone’”, 4 S
+NEU  VII.164.:23. [ID 23, Dossier, E1, Eltern -, S.3] 2004 Vor 150 Jahren aus der Wiege gehoben: Das Eidgenössische Polytechnikum. | Genau (=)
+        D: Stich von J. M. Kolb nach L. Rohbock (ETH, Bau Gottfried Sempers, um 1870)
+        D: Kommentar von Roman G. Schönauer
+        D: 42 x 30 cm
+        D: 2 Exemplare
+NEU  VII.164.:24. [ID 24, Dossier, E1, Eltern -, S.3] 2005 Seiner Zeit voraus: Das Geschäftshaus “Metropol” Kommentar von H. P. Oeschger, dipl. Architekt ETH, 4 Seiten | Genau (=)
+        D: 30 x 42 cm
+        D: 3 Exemplare
+NEU  VII.164.:25. [ID 25, Dossier, E1, Eltern -, S.4] 2006 Vor 120 Jahren eingeweiht: Das Chemiegebäude der ETH Zürich an der Universitätsstrasse 6 | Genau (=)
+        D: Kommentar von Roman G. Schönauer
+        D: 42 x 30 cm
+        D: 2 Exemplare
+NEU  VII.164.:26. [ID 26, Dossier, E1, Eltern -, S.4] 2007 Schulhaus Hirschengraben | Genau (=)
+        D: Kommentar von Roman G. Schönauer, Ein Baudenkmal der Superlative: Das Schulhaus Hirschengraben
+        D: [Bild aus dem Züricher Kalender 1894]
+        D: 42 x 30 cm
+        D: 2 Exemplare

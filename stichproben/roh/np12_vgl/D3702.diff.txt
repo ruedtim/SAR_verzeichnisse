@@ -1,0 +1,42 @@
+### D3702: vorher 106 Einheiten, nachher 106 Einheiten
+GEÄ  VII.400.:2.7. [ID 48, Dossier, E2, Eltern VII.400.:2., S.4] Barbara Hess-Wegmann, „Geburtstagsbüchli für Jaques Hess b. Tannenberg, angefangen mit Antritt seines 8ten Jahres den 15. Fbr. 1798“ | Genau (=)
+        [Darin]
+           -Eingetragen sind persönliche Daten von Verwandten und anderen Persönlichkeiten (vorwiegend Geburten, Todesfälle meist dort eingetragen)
+GEÄ  VII.400.:2.8. [ID 49, Dossier, E2, Eltern VII.400.:2., S.5] Jahrbüchli, Band 1: Januar bis Juni | 
+        [Darin]
+           -
+           +Eingetragen sind persönliche Daten von Verwandten und anderen Persönlichkeiten (vorwiegend Geburten, Todesfälle meist dort eingetragen)
+        [Prüfhinweise]
+           -Steht im Findmittel unter der Zwischenüberschrift «2.8. – 9. „Jahrbüchli“ (Merkbücher, Memoranda), 2 Bände, in Schuber».
+           +Steht im Findmittel unter dem Bereichskopf «2.8. – 9. „Jahrbüchli“ (Merkbücher, Memoranda), 2 Bände, in Schuber»; dessen Beschreibung hier im Darin übernommen.
+GEÄ  VII.400.:10. [ID 104, Teilbestand, E1, Eltern -, S.19] Verschiedenes (Umschläge, Kuverts, Notizen zum Bestand) | Von/bis (>= x und <=y)
+        von: '1760' => '1807'
+        bis: '08.09.2006' => '15.02.1962'
+GEÄ  VII.400.:10.2. [ID 106, Dossier, E2, Eltern VII.400.:10., S.19] Verschiedenes (Umschläge, Kuverts, Notizen zum Bestand) | Von/bis (>= x und <=y)
+        von: '1760' => '1807'
+        bis: '08.09.2006' => '1808'
+        [Darin]
+           -Literatur
+           -Barbara Hess-Wegmann:
+           -Wilhelm Heinrich Ruoff, Stammliste der Familie Hess von Zürich, ursprünglich Schmid, genannt Hess aus Reutlingen, Zürich 1959 [Ha Hess 5]; Nr. 102, Familie von
+           -Otto Hunziker (Hg.), Zeitgenössische Darstellungen der Unruhen in der Landschaft Zürich 1794 –1798, Basel 1897 (Quellen zur Schweizer Geschichte, Bd. 17) [Cb 1
+           -Heinrich Zeller-Werdmüller, Aus zeitgenössischen Aufzeichnungen und Briefen, Vor hundert Jahren IV, Zürich 1899 [Db 241]; S. 5 – 32: Aufzeichnungen von Frau He
+           -Verena Bodmer-Gessner, Die Zürcherinnen. Kleine Kulturgeschichte der Zürcher Frauen, 3. Auflage, Zürich 1966; S. 118 – 142
+           -Karin Beck, „Izt denk ich mit Liebe an ein Kind“ – die Tagebuchaufzeichnungen von Barbara Hess-Wegmann im Stadtarchiv Zürich, in: Tagblatt der Stadt Zürich, 8.
+           -Wolfgang von Wartburg, Zürich und die französische Revolution. Die Auseinandersetzung einer patriarchalischen Gesellschaft mit den ideellen und politischen Ein
+           -Annemarie Custer, Die Zürcher Untertanen und die Französische Revolution, Diss. Zürich 1942 [Cb 415]
+           -Ludwig Hess:
+           -Frieda Maya Brandenberger, Ludwig Hess 1760 – 1800. Zur zürcherischen Landschaftsmalerei des 18. Jahrhunderts. Diss. Zürich 1941 [Db 853]
+           -Johann Jakob Horner [anonym], Das Leben und die Charakteristik von Ludwig Hess von Zürich [1760 – 1800], in: Neujahrsblatt der Künstlergesellschaft auf das Jah
+           -H. Appenzeller, Hess, Ludwig, in: Schweizerisches Künstler-Lexikon, Bd. 2, Frauenfeld 1908, S. 54 f.
+           -Bürgermeister Johann Jakob Hess:
+           -Johann Adam Pupikofer, Johann Jakob Hess als Bürger und Staatsmann des Standes Zürich und eidgenössischer Bundespräsident (...), Zürich 1859 [Cb 44]
+           -Johannes Pestalozzi, Johann Jakob Hess, Bürgermeister, in: Neujahrsblatt der Hülfsgesellschaft in Zürich auf das Jahr 1859 [Pd 21]
+           -Johann Jakob Hess, in: Alfred Hartmann, Gallerie berühmter Schweizer der Neuzeit, Bd. 1, Baden AG 1868 (Nr. 34) [Bb 2287:1]
+           -Johann Jakob Stolz:
+           -Heinrich Escher [anonym], Johann Jakob Stolz (1753 – 1821), in: Neujahrsblatt der Stadtbibliothek auf das Jahr 1830 [Pd 16]
+           -ADB 37 (1894), S. 764 f.
+           -Johann Martin Usteri:
+           -Hans-Ulrich Rübel, „Freut euch des Lebens“ und die Geschichte des Platanenhofes in Zürich-Fluntern, in: ZT NF 113 / 1993, S. 1 – 16
+           -Ulrich Helfenstein, Zürcher Dokumente, Texte und Bilder aus dem Staatsarchiv, Zürich, Schwäbisch Hall 1984, S. 104 f. (Freut euch des Lebens, mit Reproduktion 
+           -Albert Nägeli, Johann Martin Usteri (1763 – 1827), Zürich 1907, 283 S. [Db 330]

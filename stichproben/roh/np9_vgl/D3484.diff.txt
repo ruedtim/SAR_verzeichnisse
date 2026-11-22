@@ -1,0 +1,11 @@
+### D3484: vorher 704 Einheiten, nachher 704 Einheiten
+GEÄ  VII.308.D.a.:489./T2 [ID 440, Dossier, E2, Eltern VII.308.D.a.:489., S.21] Schwarzer-Weisser Oberrheinische Kraftwerke | Von/bis (>= x und <=y)
+        Entstehungszeitraum, Anm.: '1924 – 1929 / 1933' => '1924 – 1929; Darin: 1931–1933'
+        [Darin]
+           -See, / 1931
+           +See, / 1931 – 1933
+GEÄ  VII.308.D.a.:490. [ID 441, Serie, E1, Eltern -, S.21] Schwarzer-Weisser Oberrheinische Kraftwerke | Von/bis (>= x und <=y)
+        Entstehungszeitraum, Anm.: '1924 – 1929 / 1933' => '1924 – 1929; Darin: 1931–1933'
+        [Darin]
+           -See, / 1931
+           +See, / 1931 – 1933

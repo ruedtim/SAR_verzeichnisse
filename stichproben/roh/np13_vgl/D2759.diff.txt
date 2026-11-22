@@ -1,0 +1,9 @@
+### D2759: vorher 11 Einheiten, nachher 11 Einheiten
+GEÄ  V.L.88.:11 [ID 11, Dossier, E1, Eltern -, S.2] Publikationen | Von/bis (>= x und <=y)
+        von: '1798' => '13.09.1919'
+        [Darin]
+           -Die "Akten / Protokollauszüge" (3 Mäpplein) enthalten Materialien aus den Stadtratsakten (Stadtarchiv Zürich, Abt. II, Akten des Stadtrates seit 1798). Diese wurden 1924
+           -Vgl. zum Bürgerrecht des Abts von Einsiedeln:
+           -StRB 1947, B 642
+           -StRB 1959, B 1932
+           -(Anlässlich der Wahl neuer Äbte)

@@ -1,0 +1,17 @@
+### D403: vorher 3 Einheiten, nachher 3 Einheiten
+GEÄ  V.B.c.12.:1 [ID 1, Teilbestand, E1, Eltern -, S.1] Allgemeines | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Teilbestand'
+        Entstehungszeitraum: '' => 'Von/bis (>= x und <=y)'
+        von: '' => '1919'
+        bis: '' => '1954'
+        Zeitraum-Quelle: '' => 'Untereinheiten'
+        [Prüfhinweise]
+           -Kein Zeitraum gefunden.
+GEÄ  V.B.c.27.:a. [ID 2, Dossier, E2, Eltern V.B.c.12.:1, S.1] Gebühren, Formelles | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.B.c.27.' => 'V.B.c.12.:1'
+        Eltern: '-' => 'V.B.c.12.:1'
+GEÄ  V.B.c.27.:b. [ID 3, Dossier, E2, Eltern V.B.c.12.:1, S.1] Informationen betreffend Bürgerrecht | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.B.c.27.' => 'V.B.c.12.:1'
+        Eltern: '-' => 'V.B.c.12.:1'

@@ -1,0 +1,13 @@
+### D1793: vorher 8 Einheiten, nachher 8 Einheiten
+GEÄ  V.G.c.15.:3. [ID 3, Dossier, E1, Eltern -, S.1] Eisenbahn Bülach-Schaffhausen | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '3'
+GEÄ  V.G.c.15.:4. [ID 4, Dossier, E1, Eltern -, S.1] Eisenbahnprojekt Effretikon-Wetzikon-Hinwil | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '3'
+GEÄ  V.G.c.15.:5. [ID 5, Dossier, E1, Eltern -, S.1] Eisenbahnprojekt Talwil-Zug | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '3'
+GEÄ  V.G.c.15.:6. [ID 6, Dossier, E1, Eltern -, S.1] Linksufrige Zürichseebahn | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '3'
+GEÄ  V.G.c.15.:7. [ID 7, Dossier, E1, Eltern -, S.1] Expropriationsakten betr. die Uetlibergbahn | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '3'
+GEÄ  V.G.c.15.:8. [ID 8, Dossier, E1, Eltern -, S.1] Sihltalbahn | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '3'

@@ -1,0 +1,5 @@
+### D1726: vorher 50 Einheiten, nachher 50 Einheiten
+GEÄ  V.G.b.903. [ID 50, Bestand, E1, Eltern -, S.2] Heizamt. Zusammenstellung über den Brennstoffverbrauch in Heimen, Gewächshäusern, Schulgebäuden, Verwaltungsgebäuden und Gebäuden des Gesundheitsamtes (Kohlen-Bücher) | Von/bis (>= x und <=y)
+        [Darin]
+           -
+           +Drei Archivschachteln enthalten Drucksachen des Heizamtes ab 1945.

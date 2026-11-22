@@ -1,0 +1,36 @@
+### D2643: vorher 47 Einheiten, nachher 47 Einheiten
+GEÄ  V.L.199.:1.4. [ID 5, Dossier, E2, Eltern V.L.199.:1., S.2] Stadtrat | Von/bis (>= x und <=y)
+        [Darin]
+           -
+           +[Enthält Artikel über «7 statt 9 Stadträte»]
+        Prüfhinweise: '' => 'Inhaltsangabe aus der Übersicht übernommen («[Enthält Artikel über «7 statt 9 Stadträte»]»), im Detailverzeichnis fehlt sie.'
+GEÄ  V.L.199.:3.2.1. [ID 16, Dossier, E3, Eltern V.L.199.:3.2., S.2] Allgemeines | Von/bis (>= x und <=y)
+        [Darin]
+           -
+           +[Enthält Artikel über die PUK EDV]
+        Prüfhinweise: '' => 'Inhaltsangabe aus der Übersicht übernommen («[Enthält Artikel über die PUK EDV]»), im Detailverzeichnis fehlt sie.'
+GEÄ  V.L.199.:3.3. [ID 20, Dossier, E2, Eltern V.L.199.:3., S.2] Polizeidepartement | Von/bis (>= x und <=y)
+        [Darin]
+           -
+           +[Enthält Artikel über Demonstrationen, Ladenöffnungszeiten, Rassismus]
+        Prüfhinweise: '' => 'Inhaltsangabe aus der Übersicht übernommen («[Enthält Artikel über Demonstrationen, Ladenöffnungszeiten, »), im Detailverzeichnis fehlt sie.'
+GEÄ  V.L.199.:3.4. [ID 21, Dossier, E2, Eltern V.L.199.:3., S.2] Gesundheits- und Umweltdepartement | Von/bis (>= x und <=y)
+        [Darin]
+           -
+           +[Enthält Artikel über Aids, Alterspolitik, Arbeitslosigkeit, Stadtspitäler]
+        Prüfhinweise: '' => 'Inhaltsangabe aus der Übersicht übernommen («[Enthält Artikel über Aids, Alterspolitik, Arbeitslosigkeit,»), im Detailverzeichnis fehlt sie.'
+GEÄ  V.L.199.:3.5. [ID 22, Dossier, E2, Eltern V.L.199.:3., S.2] Tiefbau- und Entsorgungsdepartement | Von/bis (>= x und <=y)
+        [Darin]
+           -
+           +[Enthält Artikel über Bauplätze, Chinagarten, Klärschlammaffäre, Parkplätze]
+        Prüfhinweise: '' => 'Inhaltsangabe aus der Übersicht übernommen («[Enthält Artikel über Bauplätze, Chinagarten, Klärschlammaff»), im Detailverzeichnis fehlt sie.'
+GEÄ  V.L.199.:3.8. [ID 29, Dossier, E2, Eltern V.L.199.:3., S.3] Schul- und Sportdepartement | Von/bis (>= x und <=y)
+        [Darin]
+           -
+           +[Enthält Artikel über Badeanstalten]
+        Prüfhinweise: '' => 'Inhaltsangabe aus der Übersicht übernommen («[Enthält Artikel über Badeanstalten]»), im Detailverzeichnis fehlt sie.'
+GEÄ  V.L.199.:3.9.1. [ID 31, Dossier, E3, Eltern V.L.199.:3.9., S.3] Allgemeines | Von/bis (>= x und <=y)
+        [Darin]
+           -
+           +[Enthält Artikel über Alterspolitik, Arbeitslosigkeit, Jugendkultur, Soziokultur]
+        Prüfhinweise: '' => 'Inhaltsangabe aus der Übersicht übernommen («[Enthält Artikel über Alterspolitik, Arbeitslosigkeit, Jugen»), im Detailverzeichnis fehlt sie.'

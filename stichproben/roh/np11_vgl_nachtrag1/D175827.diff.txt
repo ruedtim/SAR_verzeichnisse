@@ -1,0 +1,37 @@
+### D175827: vorher 33 Einheiten, nachher 33 Einheiten
+GEÄ  VII.260.:3.3. [ID 10, Dossier, E2, Eltern VII.260.:3., S.4] Stimmungsberichte, Impressionen, Reden [mit Lücken] | Von/bis (>= x und <=y)
+        [Darin]
+           -Stimmungsberichte Sechseläuten 1995 - 2013; Stimmungsberichte Rechenmahl 1976 – 2013; Stimmungsberichte Altvorsteheressen 1969 – 2005; Jahresberichte [mit Lück
+           +Stimmungsberichte Sechseläuten 1995 - 2013; Stimmungsberichte Rechenmahl 1976 – 2013; Stimmungsberichte Altvorsteheressen 1969 – 2005; Jahresberichte [mit Lück
+GEÄ  VII.260.:4.1. [ID 12, Dossier, E2, Eltern VII.260.:4., S.4] Sechseläuten und Nachsechseläuten | Von/bis (>= x und <=y)
+        [Darin]
+           -Akten, Einladungen und sonstige Archivalien der Zunft; Hottingen zu den Sechseläuten 1909 – 1993 [unvollständig]; Einladungen zu den Sechseläuten 1969 – 2013 [
+           +Akten, Einladungen und sonstige Archivalien der Zunft; Hottingen zu den Sechseläuten 1909 – 1993 [unvollständig] Einladungen zu den Sechseläuten 1969 – 2013 [u
+GEÄ  VII.260.:5.1. [ID 18, Dossier, E2, Eltern VII.260.:5., S.5] Zunft Hottingen | Von/bis (>= x und <=y)
+        [Darin]
+           -Chargen-Reglement der Vorsteherschaft der Zunft Hottingen 1999; Zürich betr. Hottingen [Liste, undatiert]; Regesten der Urkunden und Akten des Gemeindearchivs,
+           +Chargen-Reglement der Vorsteherschaft der Zunft Hottingen 1999 Zürich betr. Hottingen [Liste, undatiert]; Regesten der Urkunden und Akten des Gemeindearchivs, 
+           -Akten über verstorbene Mitglieder U – Z; Gedenkschriften: Conrad Bürgi [1874 – 1945], Otto Brunner-Waser; [1877 – 1941], Carl Diener [1879 – 1939], Otto Dürr [
+           +Akten über verstorbene Mitglieder U – Z; Gedenkschriften: Conrad Bürgi [1874 – 1945], Otto Brunner-Waser [1877 – 1941], Carl Diener [1879 – 1939], Otto Dürr [1
+GEÄ  VII.260.:5.2. [ID 19, Dossier, E2, Eltern VII.260.:5., S.6] ZZZ, Constaffel und Zünfte [ohne Hottingen] | Von/bis (>= x und <=y)
+        [Darin]
+           -Gedruckte Zunftrödel, Jubiläumsschriften, Satzungen u. a.; [alphabetische Reihenfolge]: Gesellschaft zur Constaffel 1889, 1908, 1912, 1923, 1925, 1926, 1928, 1
+           +Gedruckte Zunftrödel, Jubiläumsschriften, Satzungen u. a. [alphabetische Reihenfolge]: Gesellschaft zur Constaffel 1889, 1908, 1912, 1923, 1925, 1926, 1928, 19
+GEÄ  VII.260.:7.2. [ID 28, Dossier, E2, Eltern VII.260.:7., S.8] Jahresrechnungen, Bilanzen, Inventare | Von/bis (>= x und <=y)
+        [Darin]
+           -Jahresrechnungen & Bilanzen 1967 – 1997 [in Schachtel 7.1.]
+           -Verzeichnis der Warenvorräte 1977 [in Schachtel 7.1.]
+           +Jahresrechnungen & Bilanzen 1967 – 1997 [in Schachtel 7.1.] Verzeichnis der Warenvorräte 1977 [in Schachtel 7.1.]
+GEÄ  VII.260.:10. [ID 33, Dossier, E1, Eltern -, S.9] Programmhefte und Festschriften | Von/bis (>= x und <=y)
+        [Darin]
+           -Alte Programmhefte und Festschriften [Grossformat]: Historischer; Festzug zur Jubelfeier des vor fünfhundert Jahren erfolgten Eintritts Zürichs in den Bund mit
+           -Anhang: Darstellungen zur Zunft Hottingen in Auswahl (in der Bibliothek)
+           -Franck-Nagy, Bea. Dr. h. c. Friedrich Zollinger, 1858 – 1931. Leben und Werk einer Schlüsselfigur in der Entwicklung der Zürcher Jugendhilfe, Zürich 1986 (Db 1
+           -Mojonnier, Arthur. Im Geiste Gottfried Kellers. Zum Sechseläuten am 2. – 4. April des Kriegsjahres 1940. [Hrsg. v. d. ] Zunft Hottingen, o. O. 1940 (Ae 101)
+           -(Tuggener-Rossel, Heinrich). Geschichte der Gemeinde Hottingen und Entstehung der Zunft Hottingen, Zürich 1954 (Dc Ho 10)
+           -Wipf, Heinrich. Bilgeriturm und Zunfthaus am Neumarkt, 1267 – 1967 (Pächter-Genossenschaft und Zunfthaus Hottingen), Zürich 1967 (Db 1338)
+           -Brunner, John / Kull, Eugen. Zollinger, Friedrich, Dr. phil. h. c. et Dr. rer. pol. h. c., 1858 – 1931, Erinnerungsschrift an einen bedeutenden Schulmann aus d
+           -Zunft Hottingen (Gründung der Zunft Hottingen, Geschichte der Gemeinde Hottingen, Mitglieder der Zunft Hottingen 1959), Zürich 1959 (Ae 101)
+           -100 Jahre Zunft Hottingen (1897-1997). Hrsg. v. d. Zunft Hottingen, Egg/Zürich 1996
+           -Die Bibliothek der Zunft Hottingen [mit Zettelkatalog] befindet sich im Zunfthaus, Neumarkt 5, 8001 Zürich.
+           +Alte Programmhefte und Festschriften [Grossformat]: Historischer Festzug zur Jubelfeier des vor fünfhundert Jahren erfolgten Eintritts Zürichs in den Bund mit 

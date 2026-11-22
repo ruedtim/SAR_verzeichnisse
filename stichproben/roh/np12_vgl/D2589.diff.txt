@@ -1,0 +1,16 @@
+### D2589: vorher 19 Einheiten, nachher 19 Einheiten
+GEÄ  V.L.136.b.:19. [ID 19, Dossier, E1, Eltern -, S.2] Dr. Niklaus Rappold [verifizieren!] (Fraktionspräsident FDP) | 
+        Titel: '[ohne Titel]' => 'Dr. Niklaus Rappold [verifizieren!] (Fraktionspräsident FDP)'
+        Entstehungszeitraum: 'Genau (=)' => ''
+        von: '1967' => ''
+        [Darin]
+           -Dr. Niklaus Rappold [verifizieren!] (Fraktionspräsident FDP)
+           -Vgl. Künstler Lexikon der Schweiz, XX. Jahrhundert, Bd. 2, Frauenfeld 1967, S. 756 f., wo das gedruckte Porträtwerk zitiert ist.
+           -1 Exemplar bei den Stadtratsdokumentationen (Stadtarchiv Zürich V.L. 136.a)
+           -2 Exemplare in der Bibliothek (Stadtarchiv Zürich Db 1139 / Grossformat)
+           -1 Exemplar bei den Geschenkwerken (Stadtarchiv Zürich X.G. 73.)
+        Zeitraum-Quelle: 'Darin (geschätzt)' => ''
+        [Prüfhinweise]
+           -Kein Titel erkannt.
+           -Zeitraum aus den Jahreszahlen im Darin geschätzt.
+           +Kein Zeitraum gefunden.

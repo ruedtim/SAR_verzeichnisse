@@ -1,0 +1,500 @@
+### D1660: Einheiten 5; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 0
+### D176772: Einheiten 22; ohne Zeilenanfang 9; Nummernzeilen ohne Einheit 10
+   erfunden? VII.192.:1./T2 (Nr. '1.', S.3)
+   erfunden? VII.192.:2.1./T2 (Nr. '2.1.', S.6)
+   erfunden? VII.192.:2.1./T3 (Nr. '2.1.', S.7)
+   erfunden? VII.192.:2.6./T3 (Nr. '2.6.', S.11)
+   erfunden? VII.192.:2.6./T4 (Nr. '2.6.', S.11)
+   erfunden? VII.192.:3./T2 (Nr. '3.', S.12)
+   erfunden? VII.192.:3./T3 (Nr. '3.', S.12)
+   erfunden? VII.192.:3./T4 (Nr. '3.', S.12)
+   erfunden? VII.192.:3./T5 (Nr. '3.', S.12)
+   verloren? S.1 x85: 1. Briefe an Volkmar Andreae (Kopien) 2 Schachteln
+   verloren? S.1 x85: 2. Autographen und Kopien 9 Schachteln
+   verloren? S.1 x85: 2.1. Autographen zu gedruckten Kompositionen
+   verloren? S.1 x85: 2.2. Autographen und Kopien zu gedruckten und
+   verloren? S.1 x85: 2.3. Autographen zu nicht ausgeführten bzw.
+   verloren? S.1 x85: 2.4. Skizzenbuch
+   verloren? S.1 x85: 2.5. Partituren und Orchesterstimmen (Kopien)
+   verloren? S.1 x85: 3. Gedruckte Kompositionen 5 Schachteln
+   verloren? S.1 x85: 4. Ehrengaben, Ehrenurkunden, 1 Schachtel
+   verloren? S.1 x85: 5. Diverses 1 Schachtel
+### D1797: Einheiten 1; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 0
+### D1803: Einheiten 6; ohne Zeilenanfang 2; Nummernzeilen ohne Einheit 0
+   erfunden? V.G.c.181.:4./T2 (Nr. 'V.G. c.181.:4.', S.2)
+   erfunden? V.G.c.181.:4./T3 (Nr. 'V.G. c.181.:4.', S.2)
+### D1822: Einheiten 10; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 0
+### D188: Einheiten 16; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 0
+### D2085: Einheiten 13; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 0
+### D2502: Einheiten 19; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 1
+   verloren? S.1 x71: 7. Juni 2000 / RD (Extrakt aus Gesamtverzeichnis der Brandassekuranzbücher)
+### D2753: Einheiten 1; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 0
+### D2834: Einheiten 2; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 43
+   verloren? S.1 x137: 2 Schachteln
+   verloren? S.1 x137: 1 Schachtel
+   verloren? S.1 x137: 6 Schachteln
+   verloren? S.1 x137: 1. Drucksachen des Zürcherischen Ingenieur- 1909-1915
+   verloren? S.1 x137: 2. Vorberatung der Vorlage betreffend die 1916
+   verloren? S.1 x137: 3. Umbau der linksufrigen Seebahn in Zürich 1912-1915
+   verloren? S.1 x137: 4. Dolderpark 1913-1916
+   verloren? S.1 x137: 5. Notkrankenstube 1914-1916
+   verloren? S.1 x137: 6. Bauplatz für die Nationalbank in Zürich 1915
+   verloren? S.1 x137: 7. Einführung der Schwemmkanalisation 1916-1923
+   verloren? S.1 x137: 8. Steuergesetze, Neue und Revisionen 1917-1928
+   verloren? S.2 x137: 9. Kommission betreffend kantonale Kriegs- 1917-1918
+   verloren? S.2 x137: 10. Voranschlag Stadt Zürich 1918
+   verloren? S.2 x137: 11. Kommission betreffend Umbau des 1919
+   verloren? S.2 x137: 12. Beitritt der Schweiz in den Völkerbund 1920
+   verloren? S.2 x137: 13. Kommission betreffend Besoldungsrevision 1920
+   verloren? S.2 x137: 14. Kommission betreffend Sparmassnahmen der 1920-1921
+   verloren? S.2 x137: 15. Protokoll der Sachverständigenkommission 1921
+   verloren? S.2 x137: 16. Wäggital - Werk 1921
+   verloren? S.2 x137: 17. Umbau der Sihltalbahn 1921
+   verloren? S.2 x137: 18. Kantonale Besoldungskommission 1923
+   verloren? S.2 x137: 19. Kommission für eine Pensionskasse 1924
+   verloren? S.2 x137: 20. Kommission der Zürcher Handelskammer: 1923
+   verloren? S.2 x137: 21. Elektrizitätswirtschaft - Export 1923
+   verloren? S.2 x137: 22. Arbeitszeitgesetz 1922-1924
+   verloren? S.2 x137: 23. Kommission betreffend Wohnungsbau 1924
+   verloren? S.2 x137: 24. Kommission zur Vorberatung betreffend 1924
+   verloren? S.2 x137: 25. August Jagher, Ingenieur 1924
+   verloren? S.2 x137: 26. Kommission des Kantonsrates: Förderung des 1925
+   verloren? S.2 x137: 27. Rechnungsprüfungskommission, Voranschlag 1925
+   verloren? S.2 x137: 28. Expertenkommission für verbilligten 1925-1926
+   verloren? S.2 x137: 29. Kommission zur Vorbereitung der Vorlage 1926
+   verloren? S.2 x137: 30. Armengesetz 1926
+   verloren? S.2 x137: 31. Gesellschaft ehemaliger Studierender ETH 1926-1929
+   verloren? S.2 x137: 32. Kommission zur Vorberatung der Verordnung 1927
+   verloren? S.3 x137: 33. Erhöhung des Beitrages an das Stadttheater 1928
+   verloren? S.3 x137: 34. Kommission für den Ausbau der 1929
+   verloren? S.3 x137: 35. Kommission zur Vorberatung betreffend 1930
+   verloren? S.3 x137: 36. Alterheim auf der Waid 1930-1931
+   verloren? S.3 x137: 37. Kommission des Kantonsrates betreffend 1930-1931
+   verloren? S.3 x137: 38. Bauordnung 1931
+   verloren? S.3 x137: 39. Zürcher Handelskammer an die Kommission des 1931
+   verloren? S.3 x137: 40. Sanierung der kantonalen Finanzen 1935-1936
+### D3468: Einheiten 852; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 0
+### D3599: Einheiten 25; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 5
+   verloren? S.2 x71: VII. 364. Stadtrat Elias Hasler Seite 2
+   verloren? S.3 x71: VII. 364. Stadtrat Elias Hasler Seite 3
+   verloren? S.4 x71: VII. 364. Stadtrat Elias Hasler Seite 4
+   verloren? S.5 x71: VII. 364. Stadtrat Elias Hasler Seite 5
+   verloren? S.5 x71: 17. 8. 2005 / Lic. phil. Karin Beck
+### D3688: Einheiten 12; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 2
+   verloren? S.2 x71: 27. November 2012 / Dr. Max Schultheiss
+   verloren? S.2 x71: 27.11.12 / 2 / bha / max © Stadtarchiv Zürich
+### D3761: Einheiten 58; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 3
+   verloren? S.2 x71: 17.10.07 / 2 / Lic. phil. Marianne Härri © Stadtarchiv Zürich
+   verloren? S.3 x71: 17.10.07 / 3 / Lic. phil. Marianne Härri © Stadtarchiv Zürich
+   verloren? S.4 x71: 17.10.07 / 4 / Lic. phil. Marianne Härri © Stadtarchiv Zürich
+### D141062: Einheiten 4; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 1
+   verloren? S.2 x71: VII. 126. Unternehmer-Gemeinschaft Niederdorf Seite 2
+### D175827: Einheiten 33; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 53
+   verloren? S.1 x71: 1. Protokolle 1897 – 2020
+   verloren? S.1 x71: 1.1. Vorsteherschaft 1898 – 2020
+   verloren? S.1 x71: 1.2. Generalversammlung 1897 – 2020
+   verloren? S.1 x71: 1.3. Frühjahrsversammlung 1897 – 1998
+   verloren? S.1 x71: 2. Rechnungswesen 1897 – 2020
+   verloren? S.1 x71: 2.1. Jahresrechnungen und Belege 1897 – 2020
+   verloren? S.1 x71: 2.2. Inventare 1979 – 2020
+   verloren? S.1 x71: 3. Chroniken, Jahresberichte, Festschriften, Reden 1893 – 2020
+   verloren? S.1 x71: 3.1. Chroniken und Festschriften 1893 – 2004
+   verloren? S.1 x71: 3.2. Jahresberichte 1904 – 2020
+   verloren? S.1 x71: 3.3. Stimmungsberichte, Impressionen, Reden 1904 – 2017
+   verloren? S.1 x71: 4. Veranstaltungen 1898 – 2020
+   verloren? S.1 x71: 4.1. Sechseläuten und Nachsechseläuten 1909 – 2020
+   verloren? S.1 x71: 4.2. Jahrtausendfeier Hottingen [1946] und Zürcher Brauchtum 1935 – 1982
+   verloren? S.1 x71: 4.3. Monatszusammenkünfte und sonstige Veranstaltungen 1898 – 2008
+   verloren? S.1 x71: 4.4. Hottingerfäscht
+   verloren? S.1 x71: 4.5. Präsenzbücher der Zunft Hottingen 1937 – 1990
+   verloren? S.1 x71: 5. Statuten, Reglemente, Inventare, Zunftrödel, Korrespondenz 1867 – 1993
+   verloren? S.1 x71: 5.1. Zunft Hottingen 1897 – 1999
+   verloren? S.1 x71: 5.2. ZZZ, Constaffel und Zünfte [ohne Hottingen] 1867 – 1992
+   verloren? S.1 x71: 6. Reitergruppe, Wappenkommission, Zunftspiel und Kostüme 1936 – 2013
+   verloren? S.1 x71: 6.1. Reitergruppe 1936 – 2003
+   verloren? S.1 x71: 6.2. Kostümchef 1996 – 2013
+   verloren? S.1 x71: 6.3. Wappenkommission
+   verloren? S.1 x71: 6.4. Zunftspiel, Musikalisches
+   verloren? S.1 x71: 6.5. Menükarten, Prospekte
+   verloren? S.1 x71: 7. Genossenschaft Zunfthaus Hottingen [GZH] 1964 – 2002
+   verloren? S.1 x71: 7.1. Protokolle 1964 – 1999
+   verloren? S.1 x71: 7.2. Jahresrechnungen, Bilanzen, Inventare 1967 – 2000
+   verloren? S.1 x71: 7.3. Satzungen, Verträge, Versicherungsbelege [mit Akten zur 1939 – 2001
+   verloren? S.1 x71: 7.4. Zunfthaus zum Neumarkt 1955 – 2002
+   verloren? S.1 x71: 04.08.22 / 1 / max © Stadtarchiv Zürich
+   verloren? S.2 x71: VII. 260. Zunft Hottingen Seite 2
+   verloren? S.2 x71: 8. Diverses: Legate, Spenden, Schenkungen u. a. 1900 – 1990
+   verloren? S.2 x71: 9. Bildmaterial 1890 ff.
+   verloren? S.2 x71: 10. Programmhefte und Festschriften 1851 – 2012
+   verloren? S.2 x71: 04.08.22 / 2 / max © Stadtarchiv Zürich
+   verloren? S.3 x71: VII. 260. Zunft Hottingen Seite 3
+   verloren? S.3 x71: 04.08.22 / 3 / max © Stadtarchiv Zürich
+   verloren? S.4 x71: VII. 260. Zunft Hottingen Seite 4
+   verloren? S.4 x71: 04.08.22 / 4 / max © Stadtarchiv Zürich
+   verloren? S.5 x71: VII. 260. Zunft Hottingen Seite 5
+   verloren? S.5 x71: 04.08.22 / 5 / max © Stadtarchiv Zürich
+   verloren? S.6 x71: VII. 260. Zunft Hottingen Seite 6
+   verloren? S.6 x71: 04.08.22 / 6 / max © Stadtarchiv Zürich
+   verloren? S.7 x71: VII. 260. Zunft Hottingen Seite 7
+   verloren? S.7 x71: 04.08.22 / 7 / max © Stadtarchiv Zürich
+   verloren? S.8 x71: VII. 260. Zunft Hottingen Seite 8
+   verloren? S.8 x71: 04.08.22 / 8 / max © Stadtarchiv Zürich
+   verloren? S.9 x71: VII. 260. Zunft Hottingen Seite 9
+   verloren? S.9 x71: 04.08.22 / 9 / max © Stadtarchiv Zürich
+   verloren? S.10 x71: VII. 260. Zunft Hottingen Seite 10
+   verloren? S.10 x71: 04.08.22 / 10 / max © Stadtarchiv Zürich
+### D1918: Einheiten 1; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 0
+### D2363: Einheiten 13; ohne Zeilenanfang 13; Nummernzeilen ohne Einheit 0
+   erfunden? V.J.c.65.:1 (Nr. 'Schachtel 1', S.1)
+   erfunden? V.J.c.65.:2 (Nr. 'Schachtel 2', S.1)
+   erfunden? V.J.c.65.:3 (Nr. 'Schachtel 3', S.1)
+   erfunden? V.J.c.65.:4 (Nr. 'Schachtel 4', S.1)
+   erfunden? V.J.c.65.:5 (Nr. 'Schachtel 5', S.1)
+   erfunden? V.J.c.65.:6 (Nr. 'Schachtel 6', S.1)
+   erfunden? V.J.c.65.:7 (Nr. 'Schachtel 7', S.1)
+   erfunden? V.J.c.65.:8 (Nr. 'Schachtel 8', S.1)
+   erfunden? V.J.c.65.:9 (Nr. 'Schachtel 9', S.2)
+   erfunden? V.J.c.65.:10 (Nr. 'Schachtel 10', S.2)
+   erfunden? V.J.c.65.:11 (Nr. 'Schachtel 11', S.2)
+   erfunden? V.J.c.65.:12 (Nr. 'Schachtel 12', S.2)
+   erfunden? V.J.c.65.:13 (Nr. 'Schachtel 13', S.2)
+### D2508: Einheiten 16; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 0
+### D3043: Einheiten 6; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 1
+   verloren? S.2 x71: VII. 183. Hausfrauenverein Zürich Seite 2
+### D3293: Einheiten 22; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 4
+   verloren? S.2 x71: VII. 248. FDP Zürich 10 Seite 2
+   verloren? S.3 x71: VII. 248. FDP Zürich 10 Seite 3
+   verloren? S.4 x71: VII. 248. FDP Zürich 10 Seite 4
+   verloren? S.4 x71: C. in: Geschichte der Vereine von Höngg, 1950. (Kopie)
+### D3382: Einheiten 11; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 3
+   verloren? S.2 x71: VII. 278. Fam. Orelli und Brunner Seite 2
+   verloren? S.2 x71: 21. April 1995 / Dr. Robert Dünki
+   verloren? S.2 x71: 17.10.07 / 2 / RD © Stadtarchiv Zürich
+### D3415: Einheiten 10; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 3
+   verloren? S.2 x71: VII. 288. Edmund Richner 1900-1994 Seite 2
+   verloren? S.2 x71: 21. November 1996 / RD
+   verloren? S.2 x71: 17.10.07 / 2 / RD © Stadtarchiv Zürich
+### D3561: Einheiten 18; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 6
+   verloren? S.2 x71: VII. 338. Nachlass Max E. Baumann Seite 2
+   verloren? S.2 x71: 17.10.07 / 2 / RD © Stadtarchiv Zürich
+   verloren? S.3 x71: VII. 338. Nachlass Max E. Baumann Seite 3
+   verloren? S.3 x71: 17.10.07 / 3 / RD © Stadtarchiv Zürich
+   verloren? S.4 x71: VII. 338. Nachlass Max E. Baumann Seite 4
+   verloren? S.4 x71: 17.10.07 / 4 / RD © Stadtarchiv Zürich
+### D3575: Einheiten 2; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 1
+   verloren? S.1 x71: 07.10.10 / 1 / RPT, APM © Stadtarchiv Zürich
+### D3596: Einheiten 55; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 30
+   verloren? S.1 x71: A. ÜBERSICHT
+   verloren? S.1 x71: 1. Generalversammlung 1945-1995 2 Schachteln
+   verloren? S.1 x71: 2. Vorstand 1946-1998 2 Schachteln
+   verloren? S.1 x71: 3. Allgemeine Korrespondenz 1945-1988 1 Schachtel
+   verloren? S.1 x71: 4. Finanzen 1948-1998 2 Schachteln
+   verloren? S.1 x71: 5. Kommissionen und Abteilungen des Turnvereins 1914-1997 14 Schachteln
+   verloren? S.1 x71: 6. Mitgliederverzeichnisse und Adresslisten 1945-1994 2 Schachteln
+   verloren? S.1 x71: 7. 38. Zürcher Kantonalturnfest 1970 1968-1972 11 Schachteln
+   verloren? S.1 x71: 8. Diverse Veranstaltungen 1941-1999 3 Schachteln
+   verloren? S.1 x71: 9. Jahresberichte 1938-1995 3 Schachteln
+   verloren? S.1 x71: 10. Presseartikel und Inserate 1970-1991 2 Schachteln
+   verloren? S.1 x71: 11. Bildmaterial 1948-1989 2 Schachtel
+   verloren? S.1 x71: 12. Drucksachen 1950-2002 1 Schachtel
+   verloren? S.1 x71: 17.10.07 / 1 / Mag. Halina Pichit © Stadtarchiv Zürich
+   verloren? S.2 x71: VII. 363. Turnverein Unterstrass Zürich Seite 2
+   verloren? S.2 x71: B. DETAILVERZEICHNIS
+   verloren? S.3 x71: VII. 363. Turnverein Unterstrass Zürich Seite 3
+   verloren? S.3 x71: 17.10.07 / 3 / Mag. Halina Pichit © Stadtarchiv Zürich
+   verloren? S.4 x71: VII. 363. Turnverein Unterstrass Zürich Seite 4
+   verloren? S.4 x71: 17.10.07 / 4 / Mag. Halina Pichit © Stadtarchiv Zürich
+   verloren? S.5 x71: VII. 363. Turnverein Unterstrass Zürich Seite 5
+   verloren? S.5 x71: 17.10.07 / 5 / Mag. Halina Pichit © Stadtarchiv Zürich
+   verloren? S.6 x71: VII. 363. Turnverein Unterstrass Zürich Seite 6
+   verloren? S.6 x71: 17.10.07 / 6 / Mag. Halina Pichit © Stadtarchiv Zürich
+   verloren? S.7 x71: VII. 363. Turnverein Unterstrass Zürich Seite 7
+   verloren? S.7 x71: 17.10.07 / 7 / Mag. Halina Pichit © Stadtarchiv Zürich
+   verloren? S.8 x71: VII. 363. Turnverein Unterstrass Zürich Seite 8
+   verloren? S.8 x71: 17.10.07 / 8 / Mag. Halina Pichit © Stadtarchiv Zürich
+   verloren? S.9 x71: VII. 363. Turnverein Unterstrass Zürich Seite 9
+   verloren? S.9 x71: 17.10.07 / 9 / Mag. Halina Pichit © Stadtarchiv Zürich
+### D3820: Einheiten 715; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 51
+   verloren? S.1 x71: 1. Allgemeines 3
+   verloren? S.1 x71: 2. Geschäftsleitung 3
+   verloren? S.1 x71: 3. Lebensmittelabteilung 17
+   verloren? S.1 x71: 4. Textilabteilung 20
+   verloren? S.1 x71: 5. Brennstoffabteilung 20
+   verloren? S.1 x71: 6. Altstoffwirtschaft 21
+   verloren? S.1 x71: 7. Arbeits-Einsatz 21
+   verloren? S.2 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 2
+   verloren? S.2 x71: 8. Überwachungsdienst resp. Kontrollabteilung 22
+   verloren? S.2 x71: 9. Kriegsnothilfe 24
+   verloren? S.2 x71: 10. Preiskontrollstelle 24
+   verloren? S.2 x71: 11. Mietamt 29
+   verloren? S.2 x71: 12. Gemeindeackerbaustelle und Hauswirtschaftszentrale 29
+   verloren? S.2 x71: 13. Rationierungsausweise 31
+   verloren? S.2 x71: 14. Mitteilungsblätter 31
+   verloren? S.2 x71: 15. Zeitungsdokumentationen 31
+   verloren? S.2 x71: 16. Broschüren 31
+   verloren? S.2 x71: 17. Plakate 32
+   verloren? S.2 x71: 18. Diverses 32
+   verloren? S.2 x71: 19. Geschäftsberichte und Schlussbericht 32
+   verloren? S.3 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 3
+   verloren? S.4 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 4
+   verloren? S.5 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 5
+   verloren? S.6 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 6
+   verloren? S.7 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 7
+   verloren? S.8 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 8
+   verloren? S.9 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 9
+   verloren? S.10 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 10
+   verloren? S.11 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 11
+   verloren? S.12 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 12
+   verloren? S.13 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 13
+   verloren? S.14 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 14
+   verloren? S.15 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 15
+   verloren? S.16 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 16
+   verloren? S.17 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 17
+   verloren? S.18 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 18
+   verloren? S.19 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 19
+   verloren? S.20 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 20
+   verloren? S.21 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 21
+   verloren? S.22 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 22
+   verloren? S.23 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 23
+   verloren? S.24 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 24
+   verloren? S.25 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 25
+   verloren? S.26 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 26
+   verloren? S.27 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 27
+   verloren? S.28 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 28
+   verloren? S.29 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 29
+   verloren? S.30 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 30
+   verloren? S.31 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 31
+   verloren? S.32 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 32
+   verloren? S.33 x71: VII. 71. Zentralstelle für Kriegswirtschaft Seite 33
+### D10649: Einheiten 12; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 2
+   verloren? S.1 x71: 04.04.11 / 1 / Dr. Robert Dünki © Stadtarchiv Zürich
+   verloren? S.2 x71: 04.04.11 / 2 / Dr. Robert Dünki © Stadtarchiv Zürich
+### D1173: Einheiten 24; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 0
+### D1574: Einheiten 14; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 0
+### D177460: Einheiten 167; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 26
+   verloren? S.1 x71: 12.02.26 / 1 / LBL / BHA / MAX © Stadtarchiv Zürich
+   verloren? S.2 x71: 12.02.26 / 2 / LBL / BHA / MAX © Stadtarchiv Zürich
+   verloren? S.3 x71: 12.02.26 / 3 / LBL / BHA / MAX © Stadtarchiv Zürich
+   verloren? S.4 x71: 12.02.26 / 4 / LBL / BHA / MAX © Stadtarchiv Zürich
+   verloren? S.5 x71: 12.02.26 / 5 / LBL / BHA / MAX © Stadtarchiv Zürich
+   verloren? S.6 x71: 12.02.26 / 6 / LBL / BHA / MAX © Stadtarchiv Zürich
+   verloren? S.7 x114: W. A. Mozart: Zum Schluss… KV 439
+   verloren? S.7 x71: 12.02.26 / 7 / LBL / BHA / MAX © Stadtarchiv Zürich
+   verloren? S.8 x71: 12.02.26 / 8 / LBL / BHA / MAX © Stadtarchiv Zürich
+   verloren? S.9 x71: 12.02.26 / 9 / LBL / BHA / MAX © Stadtarchiv Zürich
+   verloren? S.10 x71: 12.02.26 / 10 / LBL / BHA / MAX © Stadtarchiv Zürich
+   verloren? S.11 x71: 12.02.26 / 11 / LBL / BHA / MAX © Stadtarchiv Zürich
+   verloren? S.12 x114: 18. April 1914
+   verloren? S.12 x71: 12.02.26 / 12 / LBL / BHA / MAX © Stadtarchiv Zürich
+   verloren? S.13 x71: 12.02.26 / 13 / LBL / BHA / MAX © Stadtarchiv Zürich
+   verloren? S.14 x71: 12.02.26 / 14 / LBL / BHA / MAX © Stadtarchiv Zürich
+   verloren? S.15 x71: 12.02.26 / 15 / LBL / BHA / MAX © Stadtarchiv Zürich
+   verloren? S.16 x114: 70. Geburtstag, Buch mit Dankesschreiben und Unterschriften 1930
+   verloren? S.16 x114: 100 Jahr Jubiläumsfeier 1949 (diverse kleine Bilder, auf Karton aufgeklebt)
+   verloren? S.16 x71: 12.02.26 / 16 / LBL / BHA / MAX © Stadtarchiv Zürich
+   verloren? S.17 x114: 25. Eidgenössisches Sängerfest Basel, 29. Juni bis 9. Juli 1935
+   verloren? S.17 x114: 125 Jahre Zürcher Singstudenten 1874 – 1974
+   verloren? S.17 x71: 12.02.26 / 17 / LBL / BHA / MAX © Stadtarchiv Zürich
+   verloren? S.18 x71: 12.02.26 / 18 / LBL / BHA / MAX © Stadtarchiv Zürich
+   verloren? S.19 x71: 12.02.26 / 19 / LBL / BHA / MAX © Stadtarchiv Zürich
+   verloren? S.20 x71: 12.02.26 / 20 / LBL / BHA / MAX © Stadtarchiv Zürich
+### D2649: Einheiten 1; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 0
+### D2695: Einheiten 2; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 1
+   verloren? S.2 x71: 17.10.07 / 2 / VBI / MAX © Stadtarchiv Zürich
+### D2828: Einheiten 90; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 1
+   verloren? S.8 x71: 32. Verkommniss zwischen dem Regierungsrate, dem Stadtrat und der 1834 – 1837
+### D2958: Einheiten 41; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 4
+   verloren? S.1 x71: 17.10.07 / 1 / kbe © Stadtarchiv Zürich
+   verloren? S.2 x71: VII. 149. M. Conrad Wirth Seite 2
+   verloren? S.3 x71: VII. 149. M. Conrad Wirth Seite 3
+   verloren? S.3 x71: 17.10.07 / 3 / kbe © Stadtarchiv Zürich
+### D3579: Einheiten 6; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 3
+   verloren? S.2 x71: VII. 350. Fam. Huber-Ruegg Seite 2
+   verloren? S.2 x71: 25. August 2000 / Dr. Robert Dünki
+   verloren? S.2 x71: 17.10.07 / 2 / RD © Stadtarchiv Zürich
+### D3593: Einheiten 11; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 5
+   verloren? S.1 x71: 23. November 1998 durch.
+   verloren? S.2 x71: VII. 361. Initiativkomitee Kreuzplatz Seite 2
+   verloren? S.3 x71: VII. 361. Initiativkomitee Kreuzplatz Seite 3
+   verloren? S.4 x71: VII. 361. Initiativkomitee Kreuzplatz Seite 4
+   verloren? S.5 x71: VII. 361. Initiativkomitee Kreuzplatz Seite 5
+### D3604: Einheiten 2; ohne Zeilenanfang 2; Nummernzeilen ohne Einheit 0
+   erfunden? VII.366.:1 (Nr. 'Schachtel 1', S.2)
+   erfunden? VII.366.:2 (Nr. 'Schachtel 2', S.3)
+### D3725: Einheiten 7; ohne Zeilenanfang 1; Nummernzeilen ohne Einheit 4
+   erfunden? VII.410.:7 (Nr. 'Mappe 7', S.2)
+   verloren? S.1 x71: 17.10.07 / 1 / Dr. Robert Dünki © Stadtarchiv Zürich
+   verloren? S.2 x71: VII. 410. Marie-Louise Bodmer-Preiswerk, Teilnachlass Seite 2
+   verloren? S.2 x71: 28. Februar 2006 / Dr. Robert Dünki
+   verloren? S.2 x71: 17.10.07 / 2 / Dr. Robert Dünki © Stadtarchiv Zürich
+### D3742: Einheiten 22; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 6
+   verloren? S.1 x71: 17.10.07 / 1 / Dr. Robert Dünki © Stadtarchiv Zürich
+   verloren? S.2 x71: VII. 418. Die Antistites der Zürcher Kirche 1519 – 1895 Seite 2
+   verloren? S.2 x71: 17.10.07 / 2 / Dr. Robert Dünki © Stadtarchiv Zürich
+   verloren? S.3 x71: VII. 418. Die Antistites der Zürcher Kirche 1519 – 1895 Seite 3
+   verloren? S.4 x71: VII. 418. Die Antistites der Zürcher Kirche 1519 – 1895 Seite 4
+   verloren? S.4 x71: 6. April 2006 / Dr. Robert Dünki
+### D3750: Einheiten 17; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 0
+### D1255: Einheiten 10; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 1
+   verloren? S.1 x71: 17.10.07 / 1 / nwa / max © Stadtarchiv Zürich
+### D1295: Einheiten 5; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 1
+   verloren? S.1 x71: 17.10.07 / 1 / nwa / max © Stadtarchiv Zürich
+### D175949: Einheiten 16; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 4
+   verloren? S.1 x71: 21.09.22 /1 / Dr. B. Wiggenhauser © Stadtarchiv Zürich
+   verloren? S.2 x71: VII. 310. AV Orion Seite 2
+   verloren? S.2 x71: 17. April 1998 béatrice wiggenhauser
+   verloren? S.2 x71: 21.09.22 /2 / Dr. B. Wiggenhauser © Stadtarchiv Zürich
+### D2723: Einheiten 2; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 2
+   verloren? S.2 x71: 17.10.07 / 2 / VBI / MAX © Stadtarchiv Zürich
+   verloren? S.3 x71: 17.10.07 / 3 / VBI / MAX © Stadtarchiv Zürich
+### D2776: Einheiten 21; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 0
+### D2853: Einheiten 14; ohne Zeilenanfang 5; Nummernzeilen ohne Einheit 43
+   erfunden? VII.11.:I.5.3./T2 (Nr. '5.3.', S.5)
+   erfunden? VII.11.:I.5.3./T3 (Nr. '5.3.', S.5)
+   erfunden? VII.11.:I.5.3./T4 (Nr. '5.3.', S.5)
+   erfunden? VII.11.:I.5.3./T5 (Nr. '5.3.', S.5)
+   erfunden? VII.11.:I.5.3./T6 (Nr. '5.3.', S.5)
+   verloren? S.1 x71: 2. Geschäftskontrolle ..........................................................
+   verloren? S.1 x71: 3. Akten .......................................................................
+   verloren? S.1 x71: 4. Drucksachen .................................................................
+   verloren? S.1 x71: 5. Buchhaltung .................................................................
+   verloren? S.1 x71: 223 Seiten + unpag. Register
+   verloren? S.2 x71: VII. 11. Alfred Escher-Denkmal-Kommission Seite 2
+   verloren? S.2 x71: 1 Band
+   verloren? S.2 x71: 1 Organe 1 - 8
+   verloren? S.2 x71: 1a Initiativkomitee 1
+   verloren? S.2 x71: 17.10.07 / 2 / Dr. Robert Dünki © Stadtarchiv Zürich
+   verloren? S.3 x71: VII. 11. Alfred Escher-Denkmal-Kommission Seite 3
+   verloren? S.3 x71: 1c Finanzkommission 3
+   verloren? S.3 x71: 1d Technische Kommission 4
+   verloren? S.3 x71: 1e Vereinigte Technische und Finanzkommission 5
+   verloren? S.3 x71: 1f Kommission zur Vorberatung der Verträge 6
+   verloren? S.3 x71: 1g Kommission zur Vorberatung der Enthüllungsfeier 7
+   verloren? S.3 x71: 1h Organisationskomitee und seine Subkomitees 8
+   verloren? S.3 x71: 2 Protokolle 9 - 10
+   verloren? S.3 x71: 2a Protokoll, Originalnotizen (stenographisch) -
+   verloren? S.3 x71: 2b Protokoll, ‘Reinschrift’ / Teil 1 9
+   verloren? S.3 x71: 3 Vertrag mit Richard Kissling 11 - 12
+   verloren? S.3 x71: 3a Vertrag mit Richard Kissling, Abschluss 11
+   verloren? S.3 x71: 3b Vertrag mit Richard Kissling, Vollziehung 12
+   verloren? S.3 x71: 4 Rechtsverhältnisse zur Stadt Zürich 13
+   verloren? S.3 x71: 5 Aufruf 14
+   verloren? S.3 x71: 6 Sammlung von Subskriptionen und Beiträgen 15 - 21
+   verloren? S.3 x71: 6a Sammlungen im allgemeinen 15
+   verloren? S.3 x71: 6b Sammlungen in Zürich und Ausgemeinden 16
+   verloren? S.3 x71: 6c Sammlungen im übrigen Kanton Zürich 17
+   verloren? S.3 x71: 6d Sammlungen in der übrigen Schweiz 18, 19, 20
+   verloren? S.3 x71: 6e Sammlungen im Auslande 21
+   verloren? S.3 x71: 7 Finanzverwaltung 22
+   verloren? S.3 x71: 8 Rechenschaftsbericht 23
+   verloren? S.3 x71: 9 Lieferung des Unterbaues 24
+   verloren? S.3 x71: 17.10.07 / 3 / Dr. Robert Dünki © Stadtarchiv Zürich
+   verloren? S.4 x71: VII. 11. Alfred Escher-Denkmal-Kommission Seite 4
+   verloren? S.4 x71: 10 Enthüllung des Denkmals 26 - 32
+   verloren? S.4 x71: 10b Antworten auf die Einladungen 28, 29, 30
+   verloren? S.4 x71: 10c Enthüllungsfeiern: verschiedene Veranstaltungen 31, 32
+   verloren? S.4 x71: 11 Denkschrift 33, 34, 35
+   verloren? S.4 x71: 17.10.07 / 4 / Dr. Robert Dünki © Stadtarchiv Zürich
+   verloren? S.5 x71: VII. 11. Alfred Escher-Denkmal-Kommission Seite 5
+   verloren? S.5 x71: 17.10.07 / 5 / Dr. Robert Dünki © Stadtarchiv Zürich
+### D2861: Einheiten 99; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 14
+   verloren? S.1 x71: 1. Personelles 1 – 3
+   verloren? S.1 x71: 2. Werk 4
+   verloren? S.1 x71: 3. Felsbauten 5
+   verloren? S.1 x71: 4. Ausstellungen und Publikationen 6
+   verloren? S.1 x71: 17.10.07 / 1 / BHA / MAX © Stadtarchiv Zürich
+   verloren? S.2 x71: VII. 113. Urs Eggenschwyler (1849 – 1923), Bildhauer Seite 2
+   verloren? S.3 x71: VII. 113. Urs Eggenschwyler (1849 – 1923), Bildhauer Seite 3
+   verloren? S.3 x71: 17.10.07 / 3 / BHA / MAX © Stadtarchiv Zürich
+   verloren? S.4 x71: VII. 113. Urs Eggenschwyler (1849 – 1923), Bildhauer Seite 4
+   verloren? S.4 x71: 17.10.07 / 4 / BHA / MAX © Stadtarchiv Zürich
+   verloren? S.5 x71: VII. 113. Urs Eggenschwyler (1849 – 1923), Bildhauer Seite 5
+   verloren? S.5 x71: 17.10.07 / 5 / BHA / MAX © Stadtarchiv Zürich
+   verloren? S.6 x71: VII. 113. Urs Eggenschwyler (1849 – 1923), Bildhauer Seite 6
+   verloren? S.6 x71: 17.10.07 / 6 / BHA / MAX © Stadtarchiv Zürich
+### D32738: Einheiten 23; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 0
+### D3459: Einheiten 12; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 1
+   verloren? S.2 x71: VII. 304. Volkshausverein Oerlikon Seite 2
+### D3736: Einheiten 7; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 5
+   verloren? S.1 x71: VII. 298. Presseagentur Ruth Binde: Bernhard-Littéraire 1985-2004
+   verloren? S.2 x71: 17.10.07 / 2 / Lic. phil. Marianne Härri © Stadtarchiv Zürich
+   verloren? S.3 x71: 17.10.07 / 3 / Lic. phil. Marianne Härri © Stadtarchiv Zürich
+   verloren? S.4 x71: 20. Februar 2006/ Lic. phil. Marianne Härri
+   verloren? S.4 x71: 17.10.07 / 4 / Lic. phil. Marianne Härri © Stadtarchiv Zürich
+### D3767: Einheiten 36; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 6
+   verloren? S.2 x71: VII. 437. „Alt Zürich“. Fotoalbum Seite 2
+   verloren? S.3 x71: VII. 437. „Alt Zürich“. Fotoalbum Seite 3
+   verloren? S.3 x71: 17.10.07 / 3 / Dr. Robert Dünki © Stadtarchiv Zürich
+   verloren? S.4 x71: VII. 437. „Alt Zürich“. Fotoalbum Seite 4
+   verloren? S.4 x71: 25. April 2007 / Dr. Robert Dünki
+   verloren? S.4 x71: 17.10.07 / 4 / Dr. Robert Dünki © Stadtarchiv Zürich
+### D3898: Einheiten 102; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 0
+### D814: Einheiten 65; ohne Zeilenanfang 65; Nummernzeilen ohne Einheit 0
+   erfunden? V.C.c.208.:1 (Nr. 'Schachtel 1', S.1)
+   erfunden? V.C.c.208.:2 (Nr. 'Schachtel 2', S.1)
+   erfunden? V.C.c.208.:3 (Nr. 'Schachtel 3', S.1)
+   erfunden? V.C.c.208.:4 (Nr. 'Schachtel 4', S.1)
+   erfunden? V.C.c.208.:5 (Nr. 'Schachtel 5', S.1)
+   erfunden? V.C.c.208.:6 (Nr. 'Schachtel 6', S.1)
+   erfunden? V.C.c.208.:7 (Nr. 'Schachtel 7', S.1)
+   erfunden? V.C.c.208.:8 (Nr. 'Schachtel 8', S.1)
+   erfunden? V.C.c.208.:9 (Nr. 'Schachtel 9', S.1)
+   erfunden? V.C.c.208.:10 (Nr. 'Schachtel 10', S.1)
+   erfunden? V.C.c.208.:11 (Nr. 'Schachtel 11', S.1)
+   erfunden? V.C.c.208.:12 (Nr. 'Schachtel 12', S.1)
+   erfunden? V.C.c.208.:13 (Nr. 'Schachtel 13', S.1)
+   erfunden? V.C.c.208.:14 (Nr. 'Schachtel 14', S.1)
+   erfunden? V.C.c.208.:15 (Nr. 'Schachtel 15', S.1)
+   erfunden? V.C.c.208.:16 (Nr. 'Schachtel 16', S.2)
+   erfunden? V.C.c.208.:17 (Nr. 'Schachtel 17', S.2)
+   erfunden? V.C.c.208.:18 (Nr. 'Schachtel 18', S.2)
+   erfunden? V.C.c.208.:19 (Nr. 'Schachtel 19', S.2)
+   erfunden? V.C.c.208.:20 (Nr. 'Schachtel 20', S.2)
+   erfunden? V.C.c.208.:21 (Nr. 'Schachtel 21', S.2)
+   erfunden? V.C.c.208.:22 (Nr. 'Schachtel 22', S.2)
+   erfunden? V.C.c.208.:23 (Nr. 'Schachtel 23', S.2)
+   erfunden? V.C.c.208.:24 (Nr. 'Schachtel 24', S.2)
+   erfunden? V.C.c.208.:25 (Nr. 'Schachtel 25', S.2)
+   erfunden? V.C.c.208.:26 (Nr. 'Schachtel 26', S.2)
+   erfunden? V.C.c.208.:27 (Nr. 'Schachtel 27', S.2)
+   erfunden? V.C.c.208.:28 (Nr. 'Schachtel 28', S.2)
+   erfunden? V.C.c.208.:29 (Nr. 'Schachtel 29', S.2)
+   erfunden? V.C.c.208.:30 (Nr. 'Schachtel 30', S.2)
+   erfunden? V.C.c.208.:31 (Nr. 'Schachtel 31', S.2)
+   erfunden? V.C.c.208.:32 (Nr. 'Schachtel 32', S.2)
+   erfunden? V.C.c.208.:33 (Nr. 'Schachtel 33', S.2)
+   erfunden? V.C.c.208.:34 (Nr. 'Schachtel 34', S.2)
+   erfunden? V.C.c.208.:35 (Nr. 'Schachtel 35', S.2)
+   erfunden? V.C.c.208.:36 (Nr. 'Schachtel 36', S.2)
+   erfunden? V.C.c.208.:37 (Nr. 'Schachtel 37', S.2)
+   erfunden? V.C.c.208.:38 (Nr. 'Schachtel 38', S.2)
+   erfunden? V.C.c.208.:39 (Nr. 'Schachtel 39', S.2)
+   erfunden? V.C.c.208.:40 (Nr. 'Schachtel 40', S.2)
+   erfunden? V.C.c.208.:41 (Nr. 'Schachtel 41', S.2)
+   erfunden? V.C.c.208.:42 (Nr. 'Schachtel 42', S.2)
+   erfunden? V.C.c.208.:43 (Nr. 'Schachtel 43', S.2)
+   erfunden? V.C.c.208.:44 (Nr. 'Schachtel 44', S.2)
+   erfunden? V.C.c.208.:45 (Nr. 'Schachtel 45', S.2)
+   erfunden? V.C.c.208.:46 (Nr. 'Schachtel 46', S.2)
+   erfunden? V.C.c.208.:47 (Nr. 'Schachtel 47', S.2)
+   erfunden? V.C.c.208.:48 (Nr. 'Schachtel 48', S.2)
+   erfunden? V.C.c.208.:49 (Nr. 'Schachtel 49', S.3)
+   erfunden? V.C.c.208.:50 (Nr. 'Schachtel 50', S.3)
+   erfunden? V.C.c.208.:51 (Nr. 'Schachtel 51', S.3)
+   erfunden? V.C.c.208.:52 (Nr. 'Schachtel 52', S.3)
+   erfunden? V.C.c.208.:53 (Nr. 'Schachtel 53', S.3)
+   erfunden? V.C.c.208.:54 (Nr. 'Schachtel 54', S.3)
+   erfunden? V.C.c.208.:55 (Nr. 'Schachtel 55', S.3)
+   erfunden? V.C.c.208.:56 (Nr. 'Schachtel 56', S.3)
+   erfunden? V.C.c.208.:57 (Nr. 'Schachtel 57', S.3)
+   erfunden? V.C.c.208.:58 (Nr. 'Schachtel 58', S.3)
+   erfunden? V.C.c.208.:59 (Nr. 'Schachtel 59', S.3)
+   erfunden? V.C.c.208.:60 (Nr. 'Schachtel 60', S.3)
+   erfunden? V.C.c.208.:61 (Nr. 'Schachtel 61', S.3)
+   erfunden? V.C.c.208.:62 (Nr. 'Schachtel 62', S.3)
+   erfunden? V.C.c.208.:63 (Nr. 'Schachtel 63', S.3)
+   erfunden? V.C.c.208.:64 (Nr. 'Schachtel 64', S.3)
+   erfunden? V.C.c.208.:65 (Nr. 'Schachtel 65', S.3)
+### D8947: Einheiten 2; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 2
+   verloren? S.1 x71: 31. Oktober 1999; am 30. Juni 1999 fand der Schweizer Tag statt. (Vgl. Stadtrats
+   verloren? S.1 x71: 31. August 2009 / RD

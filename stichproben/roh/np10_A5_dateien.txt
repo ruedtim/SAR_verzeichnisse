@@ -1,0 +1,21 @@
+D1116	26 Einheiten	ERSTPRÜFUNG (nie in einer Fundliste)
+D1341	19 Einheiten	ERSTPRÜFUNG (nie in einer Fundliste)
+D1387	33 Einheiten	ERSTPRÜFUNG (nie in einer Fundliste)
+D151733	5 Einheiten	ERSTPRÜFUNG (nie in einer Fundliste)
+D1761	20 Einheiten	ERSTPRÜFUNG (nie in einer Fundliste)
+D1793	8 Einheiten	ERSTPRÜFUNG (nie in einer Fundliste)
+D1820	19 Einheiten	ERSTPRÜFUNG (nie in einer Fundliste)
+D1856	5 Einheiten	ERSTPRÜFUNG (nie in einer Fundliste)
+D1858	92 Einheiten	schon geprüft
+D1967	13 Einheiten	ERSTPRÜFUNG (nie in einer Fundliste)
+D2137	17 Einheiten	ERSTPRÜFUNG (nie in einer Fundliste)
+D2143	19 Einheiten	ERSTPRÜFUNG (nie in einer Fundliste)
+D2147	8 Einheiten	ERSTPRÜFUNG (nie in einer Fundliste)
+D2378	8 Einheiten	ERSTPRÜFUNG (nie in einer Fundliste)
+D263	18 Einheiten	ERSTPRÜFUNG (nie in einer Fundliste)
+D2630	9 Einheiten	schon geprüft
+D3077	17 Einheiten	schon geprüft
+D3774	59 Einheiten	schon geprüft
+D3810	8 Einheiten	schon geprüft
+D3842	2 Einheiten	schon geprüft
+D789	60 Einheiten	ERSTPRÜFUNG (nie in einer Fundliste)

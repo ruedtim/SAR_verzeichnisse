@@ -1,0 +1,313 @@
+### D151150: vorher 543 Einheiten, nachher 649 Einheiten
+NEU  V.F.c.150.:9.501./T2 [ID 105, Dossier, E3, Eltern V.F.c.150.:9.501., S.7] Abgabe von Strassenbahn-Netzkarte an stellvertretenden Kreisfleischschauer | Genau (=)
+        H: Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.
+NEU  V.F.c.150.:9.1208. [ID 208, Dossier, E2, Eltern V.F.c.150.:9., S.10] Viehzählung | Genau (=)
+        H: Nummerierung springt: nach 1194 folgt 1208. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1217. [ID 209, Dossier, E2, Eltern V.F.c.150.:9., S.10] Ordnung der Arbeitszeit | Genau (=)
+        H: Nummerierung springt: nach 1208 folgt 1217. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1250. [ID 210, Dossier, E2, Eltern V.F.c.150.:9., S.10] Lagerschaden von Geflügel | Genau (=)
+        H: Nummerierung springt: nach 1217 folgt 1250. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1264. [ID 211, Dossier, E2, Eltern V.F.c.150.:9., S.10] Rituelle Schlachtungen von Kleinvieh resp. Schächten von Geflügel und Kaninchen mit elektrischer Betäubung | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 1250 folgt 1264. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1265. [ID 212, Dossier, E2, Eltern V.F.c.150.:9., S.11] Arbeitszeit des Büropersonals im Winter | Genau (=)
+NEU  V.F.c.150.:9.1277. [ID 213, Dossier, E2, Eltern V.F.c.150.:9., S.11] Erwerb von Registrierkasse | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 1265 folgt 1277. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1278. [ID 214, Dossier, E2, Eltern V.F.c.150.:9., S.11] Abänderung der Gebührenordnung | Von/bis (>= x und <=y)
+NEU  V.F.c.150.:9.1292. [ID 215, Dossier, E2, Eltern V.F.c.150.:9., S.11] Entnebelung der Kuttelei | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 1278 folgt 1292. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1304. [ID 216, Dossier, E2, Eltern V.F.c.150.:9., S.11] Wahl der Viehinspektoren | Genau (=)
+        H: Nummerierung springt: nach 1292 folgt 1304. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1305. [ID 217, Dossier, E2, Eltern V.F.c.150.:9., S.11] Viehzählung | Genau (=)
+NEU  V.F.c.150.:9.1318. [ID 218, Dossier, E2, Eltern V.F.c.150.:9., S.11] Herstellung vom Maul- und Klauenseucheimpfstoff im Schlachthof | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 1305 folgt 1318. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1325. [ID 219, Dossier, E2, Eltern V.F.c.150.:9., S.11] Erneuerungswahlen | Genau (=)
+        H: Nummerierung springt: nach 1318 folgt 1325. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1329. [ID 220, Dossier, E2, Eltern V.F.c.150.:9., S.11] Herstellung von Viruspestserum im städtischen Gutsbetrieb | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 1325 folgt 1329.
+NEU  V.F.c.150.:9.1348. [ID 221, Dossier, E2, Eltern V.F.c.150.:9., S.11] Einstellung von Schlachtungen am Mittwoch Nachmittag und Rückkehr zu normalen Mittagspausen | Genau (=)
+        H: Nummerierung springt: nach 1329 folgt 1348. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1340. [ID 222, Dossier, E2, Eltern V.F.c.150.:9., S.11] Erstellung neuer Wasserzuleitung im Schlachthof | Genau (=)
+        H: Nummerierung springt: nach 1348 folgt 1340. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1358. [ID 223, Dossier, E2, Eltern V.F.c.150.:9., S.11] Bewilligung für ununterbrochenen Betrieb der Kühl- und Gefriermaschinen im Schichtdienst | Genau (=)
+        H: Nummerierung springt: nach 1340 folgt 1358. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1359. [ID 224, Dossier, E2, Eltern V.F.c.150.:9., S.11] Anschaffung von Dauerbrandöfen zur Abschaltung der Zentralheizung in Restaurants und Dienstwohnungen | Genau (=)
+NEU  V.F.c.150.:9.1360. [ID 225, Dossier, E2, Eltern V.F.c.150.:9., S.11] Viehzählung | Genau (=)
+NEU  V.F.c.150.:9.1369. [ID 226, Dossier, E2, Eltern V.F.c.150.:9., S.11] Rückzahlung von Fleischschaugebühren auf Vollkonserven an die Migros | Genau (=)
+        H: Nummerierung springt: nach 1360 folgt 1369. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1370. [ID 227, Dossier, E2, Eltern V.F.c.150.:9., S.11] Kurs über Verwaltungsrecht | Genau (=)
+NEU  V.F.c.150.:9.1371. [ID 228, Dossier, E2, Eltern V.F.c.150.:9., S.11] Instruktionskurs für Viehinspektoren und deren Stellvertreter | Genau (=)
+NEU  V.F.c.150.:9.1376. [ID 229, Dossier, E2, Eltern V.F.c.150.:9., S.11] ASE-Waage für das Kesselhaus | Genau (=)
+        H: Nummerierung springt: nach 1371 folgt 1376. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1377. [ID 230, Dossier, E2, Eltern V.F.c.150.:9., S.11] Gebührenerhöhung der Fleischschau und Gebührenordnung | Von/bis (>= x und <=y)
+NEU  V.F.c.150.:9.1379. [ID 231, Dossier, E2, Eltern V.F.c.150.:9., S.11] Aufbau und Form des Geschäftberichtes | Genau (=)
+        H: Nummerierung springt: nach 1377 folgt 1379.
+NEU  V.F.c.150.:9.1386. [ID 232, Serie, E2, Eltern V.F.c.150.:9., S.11] Viehzählung | Genau (=)
+        H: Nummerierung springt: nach 1379 folgt 1386. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1386./T2 [ID 233, Dossier, E3, Eltern V.F.c.150.:9.1386., S.11] Wiederholungskurs für Viehinspektoren | Genau (=)
+        H: Signatur 9.1386. steht im Findmittel zweimal hintereinander mit anderem Titel – Tippfehler? Als Teil übernommen, bitte prüfen.
+NEU  V.F.c.150.:9.1389. [ID 234, Dossier, E2, Eltern V.F.c.150.:9., S.11] Leitspindel-Drehbank | Genau (=)
+        H: Nummerierung springt: nach 1386 folgt 1389.
+NEU  V.F.c.150.:9.1396. [ID 235, Dossier, E2, Eltern V.F.c.150.:9., S.11] Revision der Laufkatzen | Genau (=)
+        H: Nummerierung springt: nach 1389 folgt 1396. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1399. [ID 236, Dossier, E2, Eltern V.F.c.150.:9., S.11] Blut-Zentrifuge | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 1396 folgt 1399.
+NEU  V.F.c.150.:9.1400. [ID 237, Dossier, E2, Eltern V.F.c.150.:9., S.11] Umbau und Renovation der Bürolokalitäten | Von/bis (>= x und <=y)
+NEU  V.F.c.150.:9.1401. [ID 238, Dossier, E2, Eltern V.F.c.150.:9., S.11] Anschaffung von Unterwindfeuerung „Prior“ für die Hochdruck-Kesselheizung und die Fernheizung | Von/bis (>= x und <=y)
+NEU  V.F.c.150.:9.1407. [ID 239, Dossier, E2, Eltern V.F.c.150.:9., S.11] Neufestsetzung der Mietpreise der Dienstwohnungen | Genau (=)
+        H: Nummerierung springt: nach 1401 folgt 1407. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1417. [ID 240, Dossier, E2, Eltern V.F.c.150.:9., S.11] Beschaffung von Eisenbahnschwellen | Genau (=)
+        H: Nummerierung springt: nach 1407 folgt 1417. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1426. [ID 241, Dossier, E2, Eltern V.F.c.150.:9., S.11] Studienreise nach dem Schlachthof Col-des-Roches/NE zum Studium der elektrischen Betäubung von Grossvieh | Genau (=)
+        H: Nummerierung springt: nach 1417 folgt 1426. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1434. [ID 242, Dossier, E2, Eltern V.F.c.150.:9., S.11] Bewachung des Schlachthofes durch die Firma Securitas | Genau (=)
+        H: Nummerierung springt: nach 1426 folgt 1434. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1435. [ID 243, Dossier, E2, Eltern V.F.c.150.:9., S.12] Mitbenutzung des Laboratoriums im Schlachthof durch Prof. Graf | Von/bis (>= x und <=y)
+NEU  V.F.c.150.:9.1451. [ID 244, Dossier, E2, Eltern V.F.c.150.:9., S.12] Einstellung des Eis-Hackerei-Betriebes | Genau (=)
+        H: Nummerierung springt: nach 1435 folgt 1451. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1471. [ID 245, Dossier, E2, Eltern V.F.c.150.:9., S.12] Abgabe von Fleischschaukonfiskaten als Tierfutter an den Zoo | Genau (=)
+        H: Nummerierung springt: nach 1451 folgt 1471. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1472. [ID 246, Dossier, E2, Eltern V.F.c.150.:9., S.12] Viehzählung | Genau (=)
+NEU  V.F.c.150.:9.1493. [ID 247, Dossier, E2, Eltern V.F.c.150.:9., S.12] Verkürzung der Durchlaufzeit der Rechnungen | Genau (=)
+        H: Nummerierung springt: nach 1472 folgt 1493. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1494. [ID 248, Dossier, E2, Eltern V.F.c.150.:9., S.12] Vermietung des Gefrierlagerraums IV | Von/bis (>= x und <=y)
+NEU  V.F.c.150.:9.1500. [ID 249, Dossier, E2, Eltern V.F.c.150.:9., S.12] Fortbildungskurs der amtlichen Tierärzte | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 1494 folgt 1500. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1501. [ID 250, Dossier, E2, Eltern V.F.c.150.:9., S.12] Einführung sechsstelliger Telefonnummern | Genau (=)
+NEU  V.F.c.150.:9.1509. [ID 251, Dossier, E2, Eltern V.F.c.150.:9., S.12] Verkauf des Chrysler | Genau (=)
+        H: Nummerierung springt: nach 1501 folgt 1509. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1516. [ID 252, Dossier, E2, Eltern V.F.c.150.:9., S.12] Verwendung von konfisziertem Fleisch der Fleischschau als Tierfutter | Von/bis (>= x und <=y)
+        D: 1517
+        H: Nummerierung springt: nach 1509 folgt 1516. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1523. [ID 253, Dossier, E2, Eltern V.F.c.150.:9., S.12] Widerruf der Bewilligung zur Herstellung von Blutplasma, Einsprachen der Firmen Otto Ruff, Metzgerei und Wurstfabrik, und 1524 | Von/bis (>= x und <=y)
+        D: Metzgerei H. Schlageter
+        H: Nummerierung springt: nach 1516 folgt 1523. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1530. [ID 254, Dossier, E2, Eltern V.F.c.150.:9., S.12] Motorfahrzeugreparaturaktion | Genau (=)
+        H: Nummerierung springt: nach 1523 folgt 1530. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1542. [ID 255, Dossier, E2, Eltern V.F.c.150.:9., S.12] Vereinheitlichung der Fleischschaugebühren auf transitierendes Gefrierfleisch | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 1530 folgt 1542. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1543. [ID 256, Dossier, E2, Eltern V.F.c.150.:9., S.12] Revision der Akkumulatorenlokomotive des Schlachthofes | Genau (=)
+NEU  V.F.c.150.:9.1544. [ID 257, Dossier, E2, Eltern V.F.c.150.:9., S.12] Viehzählung | Genau (=)
+NEU  V.F.c.150.:9.1546. [ID 258, Dossier, E2, Eltern V.F.c.150.:9., S.12] Interpellation Hans Bosshardt betreffend ungenügende Belieferung des Zürcher Fischmarktes | Genau (=)
+        H: Nummerierung springt: nach 1544 folgt 1546.
+NEU  V.F.c.150.:9.1566. [ID 259, Dossier, E2, Eltern V.F.c.150.:9., S.12] Schweizerspende | Genau (=)
+        H: Nummerierung springt: nach 1546 folgt 1566. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1606. [ID 260, Dossier, E2, Eltern V.F.c.150.:9., S.12] Geflügelschlachtlokale | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 1566 folgt 1606. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1610. [ID 261, Dossier, E2, Eltern V.F.c.150.:9., S.12] Viehzählung | Genau (=)
+        H: Nummerierung springt: nach 1606 folgt 1610.
+NEU  V.F.c.150.:9.1644. [ID 262, Dossier, E2, Eltern V.F.c.150.:9., S.12] Durchleitung eines elektrischen Kabels durch das Schlachthofareal | Genau (=)
+        H: Nummerierung springt: nach 1610 folgt 1644. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1646. [ID 263, Dossier, E2, Eltern V.F.c.150.:9., S.12] Neuwahl des Viehinspektors | Genau (=)
+        H: Nummerierung springt: nach 1644 folgt 1646.
+NEU  V.F.c.150.:9.1658. [ID 264, Dossier, E2, Eltern V.F.c.150.:9., S.12] Untermiete eine Zimmers in der Dienstwohnung Schittli | Genau (=)
+        H: Nummerierung springt: nach 1646 folgt 1658. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1663. [ID 265, Dossier, E2, Eltern V.F.c.150.:9., S.12] Einbau eines Sigel- und Abstellraumes und Ergänzung des Hochbahngeleises | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 1658 folgt 1663. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1666. [ID 266, Dossier, E2, Eltern V.F.c.150.:9., S.12] Betriebs- und Öffnungszeiten | Genau (=)
+        H: Nummerierung springt: nach 1663 folgt 1666.
+NEU  V.F.c.150.:9.1690. [ID 267, Dossier, E2, Eltern V.F.c.150.:9., S.12] Büro-Renovation | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 1666 folgt 1690. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1693. [ID 268, Dossier, E2, Eltern V.F.c.150.:9., S.12] Ersatz der Solespeicherrohre im Gefrierlagerraum II | Genau (=)
+        H: Nummerierung springt: nach 1690 folgt 1693.
+NEU  V.F.c.150.:9.1699. [ID 269, Dossier, E2, Eltern V.F.c.150.:9., S.12] Revision der Besoldungsverordnung | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 1693 folgt 1699. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1706. [ID 270, Dossier, E2, Eltern V.F.c.150.:9., S.12] Erhöhung des Pachtzinses im Restaurant Schlachthof wegen Elektrifizierung der Küche | Genau (=)
+        H: Nummerierung springt: nach 1699 folgt 1706. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1709. [ID 271, Dossier, E2, Eltern V.F.c.150.:9., S.12] Schirmbilduntersuchung des Personals | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 1706 folgt 1709.
+NEU  V.F.c.150.:9.1719. [ID 272, Dossier, E2, Eltern V.F.c.150.:9., S.12] Schlachthofdünger | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 1709 folgt 1719. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1720. [ID 273, Dossier, E2, Eltern V.F.c.150.:9., S.13] Viehzählung | Genau (=)
+NEU  V.F.c.150.:9.1726. [ID 274, Dossier, E2, Eltern V.F.c.150.:9., S.13] Anschaffung neuer Hochbahnwaagen | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 1720 folgt 1726. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1730. [ID 275, Dossier, E2, Eltern V.F.c.150.:9., S.13] Ersatzwahlen für die Viehinspektorstellvertreter IV und V | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 1726 folgt 1730.
+NEU  V.F.c.150.:9.1731. [ID 276, Dossier, E2, Eltern V.F.c.150.:9., S.13] Betriebs- und Bürozeiten im Schlachthof | Genau (=)
+NEU  V.F.c.150.:9.1738. [ID 277, Dossier, E2, Eltern V.F.c.150.:9., S.13] Umbau in der Kühlanlage und Pumpen und Pissoiranlage an der Bäckerstrasse | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 1731 folgt 1738. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1772. [ID 278, Dossier, E2, Eltern V.F.c.150.:9., S.13] Erhöhung der Heizkosten in den Dienstwohnungen | Genau (=)
+        H: Nummerierung springt: nach 1738 folgt 1772. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1784. [ID 279, Dossier, E2, Eltern V.F.c.150.:9., S.13] Schlachthofbewachung durch die Securitas | Genau (=)
+        H: Nummerierung springt: nach 1772 folgt 1784. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1795. [ID 280, Dossier, E2, Eltern V.F.c.150.:9., S.13] Viehzählung | Genau (=)
+        H: Nummerierung springt: nach 1784 folgt 1795. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1802. [ID 281, Dossier, E2, Eltern V.F.c.150.:9., S.13] Zinssatz im Kontokorrent mit der Stadtkasse | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 1795 folgt 1802. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1809. [ID 282, Dossier, E2, Eltern V.F.c.150.:9., S.13] Anschaffung von Vervielfältigungsmaschine „Ditto-Direkt“ | Genau (=)
+        H: Nummerierung springt: nach 1802 folgt 1809. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1811. [ID 283, Dossier, E2, Eltern V.F.c.150.:9., S.13] Anpassung der Bürozeit an die städtische Verwaltung | Genau (=)
+        H: Nummerierung springt: nach 1809 folgt 1811.
+NEU  V.F.c.150.:9.1812. [ID 284, Dossier, E2, Eltern V.F.c.150.:9., S.13] Erneuerung des Kiesklebedaches über der Kleinvieh-Vorkühlhalle | Von/bis (>= x und <=y)
+NEU  V.F.c.150.:9.1818. [ID 285, Dossier, E2, Eltern V.F.c.150.:9., S.13] Einsparungen von 20 % auf dem Voranschlag von 1848 wegen Finanzlage der Stadt | Genau (=)
+        H: Nummerierung springt: nach 1812 folgt 1818. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1824. [ID 286, Dossier, E2, Eltern V.F.c.150.:9., S.13] Beitrag an die „Tierärztliche Vereinigung für Fleischhygiene“ | Genau (=)
+        H: Nummerierung springt: nach 1818 folgt 1824. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1825. [ID 287, Dossier, E2, Eltern V.F.c.150.:9., S.13] Vorschriften über Einstufungen und Beförderungen | Genau (=)
+NEU  V.F.c.150.:9.1826. [ID 288, Dossier, E2, Eltern V.F.c.150.:9., S.13] Einstellung der Geflügelschlachtungen am Markt am Helvetiaplatz | Genau (=)
+NEU  V.F.c.150.:9.1828. [ID 289, Dossier, E2, Eltern V.F.c.150.:9., S.13] Anschaffung von Betriebsvorräten | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 1826 folgt 1828.
+NEU  V.F.c.150.:9.1839. [ID 290, Dossier, E2, Eltern V.F.c.150.:9., S.13] Anschaffung von Vertikalschrank „Staba“ | Genau (=)
+        H: Nummerierung springt: nach 1828 folgt 1839. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1840. [ID 291, Dossier, E2, Eltern V.F.c.150.:9., S.13] Anschaffung von Planschränken „Planex“ | Genau (=)
+NEU  V.F.c.150.:9.1845. [ID 292, Dossier, E2, Eltern V.F.c.150.:9., S.13] Reorganisation der Abrechnung der Fleischschaugebühren | Genau (=)
+        H: Nummerierung springt: nach 1840 folgt 1845. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1849. [ID 293, Dossier, E2, Eltern V.F.c.150.:9., S.13] Wartebucht und Betäubungsfalle für Fremdvieh | Genau (=)
+        H: Nummerierung springt: nach 1845 folgt 1849.
+NEU  V.F.c.150.:9.1854. [ID 294, Dossier, E2, Eltern V.F.c.150.:9., S.13] Rekurs gegen die Einschätzung des Kuttelgebäudes durch die kantonale Gebäudeversicherung | Genau (=)
+        H: Nummerierung springt: nach 1849 folgt 1854. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1868. [ID 295, Dossier, E2, Eltern V.F.c.150.:9., S.13] Teilersatz der Akkumulatorenbatterie der Lokomotive | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 1854 folgt 1868. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1882. [ID 296, Dossier, E2, Eltern V.F.c.150.:9., S.13] Anschaffung von zwei Labormänteln für das Laboratorium | Genau (=)
+        H: Nummerierung springt: nach 1868 folgt 1882. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1891. [ID 297, Dossier, E2, Eltern V.F.c.150.:9., S.13] Erstellung einer Abflussrinne in der Vorkühlhalle für Kleinvieh | Genau (=)
+        H: Nummerierung springt: nach 1882 folgt 1891. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1917. [ID 298, Dossier, E2, Eltern V.F.c.150.:9., S.13] Ersatz der Flügeltüren der Grossviehschlachthalle | Genau (=)
+        H: Nummerierung springt: nach 1891 folgt 1917. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1919. [ID 299, Dossier, E2, Eltern V.F.c.150.:9., S.13] Anschaffung von Dienstauto für den Einzüger | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 1917 folgt 1919.
+NEU  V.F.c.150.:9.1938. [ID 300, Dossier, E2, Eltern V.F.c.150.:9., S.13] Ersatz der Solezirkulationsröhren für den Gefrierraum I | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 1919 folgt 1938. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1939. [ID 301, Dossier, E2, Eltern V.F.c.150.:9., S.13] Einfuhr von Tieren aus Kenya für den Zoo, Problem von Tierseuchen | Von/bis (>= x und <=y)
+NEU  V.F.c.150.:9.1964. [ID 302, Dossier, E2, Eltern V.F.c.150.:9., S.13] Anschaffung von Laufkatzen für die Gross- und Kleinviehschlachthalle | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 1939 folgt 1964. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1965. [ID 303, Dossier, E2, Eltern V.F.c.150.:9., S.13] Stellvertretungsvergütungen | Genau (=)
+NEU  V.F.c.150.:9.1970. [ID 304, Dossier, E2, Eltern V.F.c.150.:9., S.14] Neuer Sammelband mit den Verordnungen, Reglementen, Verträgen und Beschlüssen zum Schlachthof | Genau (=)
+        H: Nummerierung springt: nach 1965 folgt 1970. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.1975. [ID 305, Dossier, E2, Eltern V.F.c.150.:9., S.14] Erwerb eines Vauxhall für die Kreisschau V | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 1970 folgt 1975. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.2003. [ID 306, Dossier, E2, Eltern V.F.c.150.:9., S.14] Anschaffung von Lastwagen Federschneepflug | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 1975 folgt 2003. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.2005. [ID 307, Dossier, E2, Eltern V.F.c.150.:9., S.14] Einbau von Garagen | Genau (=)
+        H: Nummerierung springt: nach 2003 folgt 2005.
+NEU  V.F.c.150.:9.2015. [ID 308, Dossier, E2, Eltern V.F.c.150.:9., S.14] Viehzählung | Genau (=)
+        H: Nummerierung springt: nach 2005 folgt 2015. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.2016. [ID 309, Dossier, E2, Eltern V.F.c.150.:9., S.14] Renovation der Pferdeschlachthalle | Von/bis (>= x und <=y)
+NEU  V.F.c.150.:9.2021. [ID 310, Dossier, E2, Eltern V.F.c.150.:9., S.14] Erneuerung der Kühlanlage | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 2016 folgt 2021. Möglicher Tippfehler in der Signatur.
+NEU  V.F.c.150.:9.2023. [ID 311, Dossier, E2, Eltern V.F.c.150.:9., S.14] Verbesserung der Milchhygiene | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 2021 folgt 2023.
+NEU  V.F.c.150.:9.2024. [ID 312, Dossier, E2, Eltern V.F.c.150.:9., S.14] Bekämpfung der Rindertuberkulose | Von/bis (>= x und <=y)
+GEÄ  V.F.c.150.:9.507. [ID 106, Dossier, E2, Eltern V.F.c.150.:9., S.7] Reinigungsarbeiten im Kontrolllokal des Eilgutbahnhofes | Von/bis (>= x und <=y)
+        Prüfhinweise: 'Nummerierung springt: nach 500 folgt 507. Möglicher Tippfehler in der Signatur.' => 'Nummerierung springt: nach 501 folgt 507. Möglicher Tippfehler in der Signatur.'
+GEÄ  V.F.c.150.:9.501. [ID 104, Serie, E2, Eltern V.F.c.150.:9., S.7] Mietauto für Fleischschau | Genau (=)
+        Titel: 'Abgabe von Strassenbahn-Netzkarte an stellvertretenden Kreisfleischschauer' => 'Mietauto für Fleischschau'
+        Stufe: 'Dossier' => 'Serie'
+        Prüfhinweise: 'Nummerierung springt: nach 518 folgt 501. Möglicher Tippfehler in der Signatur.' => ''
+GEÄ  V.F.c.150.:9.541. [ID 111, Dossier, E2, Eltern V.F.c.150.:9., S.7] Inventar der Liegenschaften der eingemeindeten Vororte | Genau (=)
+        Prüfhinweise: 'Nummerierung springt: nach 501 folgt 541. Möglicher Tippfehler in der Signatur.' => 'Nummerierung springt: nach 518 folgt 541. Möglicher Tippfehler in der Signatur.'
+GEÄ  V.F.c.150.:9.1194. [ID 207, Dossier, E2, Eltern V.F.c.150.:9., S.10] Wahlvorschlag für Viehinspektor-Stellvertreter | Genau (=)
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => 'Genau (=)'
+        von: '1939' => '1941'
+        bis: '1964' => ''
+        Entstehungszeitraum, Anm.: '1941; Darin: 1939–1964' => ''
+        [Darin]
+           -9.1208. Viehzählung 1941, Schachtel 49
+           -9.1217. Ordnung der Arbeitszeit, 1941, Schachtel 49
+           -9.1250. Lagerschaden von Geflügel, 1941, Schachtel 49
+           -9.1264. Rituelle Schlachtungen von Kleinvieh resp. Schächten von Geflügel und Kaninchen mit elektrischer Betäubung, 1940 – 1945, Schachtel 49
+           -9.1265. Arbeitszeit des Büropersonals im Winter, 1941, Schachtel 49
+           -9.1277. Erwerb von Registrierkasse, 1941 – 1943, Schachtel 49
+           -9.1278. Abänderung der Gebührenordnung, 1941 – 1942, Schachtel 49
+           -9.1292. Entnebelung der Kuttelei, 1941 – 1942, Schachtel 49
+           -9.1304. Wahl der Viehinspektoren, 1942, Schachtel 49
+           -9.1305. Viehzählung 1942, Schachtel 49
+           -9.1318. Herstellung vom Maul- und Klauenseucheimpfstoff im Schlachthof, 1939 – 1942, Schachtel 49
+           -9.1325. Erneuerungswahlen, 1942, Schachtel 49
+           -9.1329. Herstellung von Viruspestserum im städtischen Gutsbetrieb, 1942 – 1954, Schachtel 49
+           -9.1348. Einstellung von Schlachtungen am Mittwoch Nachmittag und Rückkehr zu normalen Mittagspausen, 1942, Schachtel 49
+           -9.1340. Erstellung neuer Wasserzuleitung im Schlachthof, 1942, Schachtel 49
+           -9.1358. Bewilligung für ununterbrochenen Betrieb der Kühl- und Gefriermaschinen im Schichtdienst, 1942, Schachtel 49
+           -9.1359. Anschaffung von Dauerbrandöfen zur Abschaltung der Zentralheizung in Restaurants und Dienstwohnungen, 1942, Schachtel 49
+           -9.1360. Viehzählung 1942, Schachtel 49
+           -9.1369. Rückzahlung von Fleischschaugebühren auf Vollkonserven an die Migros, 1942, Schachtel 49
+           -9.1370. Kurs über Verwaltungsrecht, 1942, Schachtel 49
+           -9.1371. Instruktionskurs für Viehinspektoren und deren Stellvertreter, 1942, Schachtel 49
+           -9.1376. ASE-Waage für das Kesselhaus, 1943, Schachtel 50
+           -9.1377. Gebührenerhöhung der Fleischschau und Gebührenordnung, 1940 – 1943, Schachtel 50
+           -9.1379. Aufbau und Form des Geschäftberichtes, 1942, Schachtel 50
+           -9.1386. Viehzählung 1943, Schachtel 50
+           -9.1386. Wiederholungskurs für Viehinspektoren, 1943, Schachtel 50
+           -9.1389. Leitspindel-Drehbank, 1943, Schachtel 50
+           -9.1396. Revision der Laufkatzen, 1943, Schachtel 50
+           -9.1399. Blut-Zentrifuge, 1943 – 1949, Schachtel 50
+           -9.1400. Umbau und Renovation der Bürolokalitäten, 1943 – 1944, Schachtel 50
+           -9.1401. Anschaffung von Unterwindfeuerung „Prior“ für die Hochdruck-Kesselheizung und die Fernheizung, 1943 – 1944, Schachtel 50
+           -9.1407. Neufestsetzung der Mietpreise der Dienstwohnungen, 1942, Schachtel 50
+           -9.1417. Beschaffung von Eisenbahnschwellen, 1943, Schachtel 50
+           -9.1426. Studienreise nach dem Schlachthof Col-des-Roches/NE zum Studium der elektrischen Betäubung von Grossvieh, 1942, Schachtel 50
+           -9.1434. Bewachung des Schlachthofes durch die Firma Securitas, 1943, Schachtel 50
+           -9.1435. Mitbenutzung des Laboratoriums im Schlachthof durch Prof. Graf, 1943 – 1944, Schachtel 50
+           -9.1451. Einstellung des Eis-Hackerei-Betriebes, 1943, Schachtel 50
+           -9.1471. Abgabe von Fleischschaukonfiskaten als Tierfutter an den Zoo, 1944, Schachtel 50
+           -9.1472. Viehzählung 1944, Schachtel 50
+           -9.1493. Verkürzung der Durchlaufzeit der Rechnungen, 1944, Schachtel 50
+           -9.1494. Vermietung des Gefrierlagerraums IV, 1943 – 1944, Schachtel 50
+           -9.1500. Fortbildungskurs der amtlichen Tierärzte, 1943 – 1944, Schachtel 50
+           -9.1501. Einführung sechsstelliger Telefonnummern, 1944, Schachtel 50
+           -9.1509. Verkauf des Chrysler, 1944, Schachtel 50
+           -9.1516. Verwendung von konfisziertem Fleisch der Fleischschau als Tierfutter, 1944 – 1959, Schachtel 50
+           -1517
+           -9.1523. Widerruf der Bewilligung zur Herstellung von Blutplasma, Einsprachen der Firmen Otto Ruff, Metzgerei und Wurstfabrik, und 1524, 1943 – 1956, Schachtel 50; Metzge
+           -9.1530. Motorfahrzeugreparaturaktion 1945, Schachtel 50
+           -9.1542. Vereinheitlichung der Fleischschaugebühren auf transitierendes Gefrierfleisch, 1945 – 1953, Schachtel 51
+           -9.1543. Revision der Akkumulatorenlokomotive des Schlachthofes, 1945, Schachtel 51
+           -9.1544. Viehzählung 1945, Schachtel 51
+           -9.1546. Interpellation Hans Bosshardt betreffend ungenügende Belieferung des Zürcher Fischmarktes, 1945, Schachtel 51
+           -9.1566. Schweizerspende, 1945, Schachtel 51
+           -9.1606. Geflügelschlachtlokale, 1945 – 1946, Schachtel 51
+           -9.1610. Viehzählung 1946, Schachtel 51
+           -9.1644. Durchleitung eines elektrischen Kabels durch das Schlachthofareal, 1946, Schachtel 51
+           -9.1646. Neuwahl des Viehinspektors, 1946, Schachtel 51
+           -9.1658. Untermiete eine Zimmers in der Dienstwohnung Schittli, 1946, Schachtel 51
+           -9.1663. Einbau eines Sigel- und Abstellraumes und Ergänzung des Hochbahngeleises, 1946 – 1947, Schachtel 51
+           -9.1666. Betriebs- und Öffnungszeiten, 1946, Schachtel 51
+           -9.1690. Büro-Renovation, 1946 – 1947, Schachtel 51
+           -9.1693. Ersatz der Solespeicherrohre im Gefrierlagerraum II, 1947, Schachtel 51
+           -9.1699. Revision der Besoldungsverordnung, 1947 – 1948, Schachtel 51
+           -9.1706. Erhöhung des Pachtzinses im Restaurant Schlachthof wegen Elektrifizierung der Küche, 1947, Schachtel 51
+           -9.1709. Schirmbilduntersuchung des Personals, 1947 – 1950, Schachtel 51
+           -9.1719. Schlachthofdünger, 1947 – 1960, Schachtel 51
+           -9.1720. Viehzählung 1947, Schachtel 51
+           -9.1726. Anschaffung neuer Hochbahnwaagen, 1946 – 1950, Schachtel 52
+           -9.1730. Ersatzwahlen für die Viehinspektorstellvertreter IV und V, 1947 – 1948, Schachtel 52
+           -9.1731. Betriebs- und Bürozeiten im Schlachthof, 1947, Schachtel 52
+           -9.1738. Umbau in der Kühlanlage und Pumpen und Pissoiranlage an der Bäckerstrasse, 1945 – 1947, Schachtel 52
+           -9.1772. Erhöhung der Heizkosten in den Dienstwohnungen, 1948, Schachtel 52
+           -9.1784. Schlachthofbewachung durch die Securitas, 1948, Schachtel 52
+           -9.1795. Viehzählung 1948, Schachtel 52
+           -9.1802. Zinssatz im Kontokorrent mit der Stadtkasse, 1948 – 1949, Schachtel 52
+           -9.1809. Anschaffung von Vervielfältigungsmaschine „Ditto-Direkt“, 1948, Schachtel 52
+           -9.1811. Anpassung der Bürozeit an die städtische Verwaltung, 1948, Schachtel 52
+           -9.1812. Erneuerung des Kiesklebedaches über der Kleinvieh-Vorkühlhalle, 1948 – 1949, Schachtel 52
+           -9.1818. Einsparungen von 20 % auf dem Voranschlag von 1848 wegen Finanzlage der Stadt, 1948, Schachtel 52
+           -9.1824. Beitrag an die „Tierärztliche Vereinigung für Fleischhygiene“, 1948, Schachtel 52
+           -9.1825. Vorschriften über Einstufungen und Beförderungen, 1948, Schachtel 52
+           -9.1826. Einstellung der Geflügelschlachtungen am Markt am Helvetiaplatz, 1948, Schachtel 52
+           -9.1828. Anschaffung von Betriebsvorräten, 1948 – 1959, Schachtel 52
+           -9.1839. Anschaffung von Vertikalschrank „Staba“, 1948, Schachtel 52
+           -9.1840. Anschaffung von Planschränken „Planex“, 1948, Schachtel 52
+           -9.1845. Reorganisation der Abrechnung der Fleischschaugebühren, 1948, Schachtel 52
+           -9.1849. Wartebucht und Betäubungsfalle für Fremdvieh, 1948, Schachtel 52
+           -9.1854. Rekurs gegen die Einschätzung des Kuttelgebäudes durch die kantonale Gebäudeversicherung, 1948, Schachtel 52
+           -9.1868. Teilersatz der Akkumulatorenbatterie der Lokomotive, 1948 – 1949, Schachtel 52
+           -9.1882. Anschaffung von zwei Labormänteln für das Laboratorium, 1949, Schachtel 52
+           -9.1891. Erstellung einer Abflussrinne in der Vorkühlhalle für Kleinvieh, 1949, Schachtel 52
+           -9.1917. Ersatz der Flügeltüren der Grossviehschlachthalle, 1949, Schachtel 52
+           -9.1919. Anschaffung von Dienstauto für den Einzüger, 1948 – 1950, Schachtel 52
+           -9.1938. Ersatz der Solezirkulationsröhren für den Gefrierraum I, 1948 – 1949, Schachtel 52
+           -9.1939. Einfuhr von Tieren aus Kenya für den Zoo, Problem von Tierseuchen, 1947 – 1954, Schachtel 53
+           -9.1964. Anschaffung von Laufkatzen für die Gross- und Kleinviehschlachthalle, 1950 – 1951, Schachtel 53
+           -9.1965. Stellvertretungsvergütungen, 1949, Schachtel 53
+           -9.1970. Neuer Sammelband mit den Verordnungen, Reglementen, Verträgen und Beschlüssen zum Schlachthof, 1947, Schachtel 53
+           -9.1975. Erwerb eines Vauxhall für die Kreisschau V, 1950 – 1953, Schachtel 53
+           -9.2003. Anschaffung von Lastwagen Federschneepflug, 1950 – 1951, Schachtel 53
+           -9.2005. Einbau von Garagen, 1950, Schachtel 53
+           -9.2015. Viehzählung 1951, Schachtel 53
+           -9.2016. Renovation der Pferdeschlachthalle, 1950 – 1951, Schachtel 53
+           -9.2021. Erneuerung der Kühlanlage, 1949 – 1954, Schachtel 54
+           -9.2023. Verbesserung der Milchhygiene, 1950 – 1953, Schachtel 54
+           -9.2024. Bekämpfung der Rindertuberkulose, 1950 – 1964, Schachtel 55
+           +
+        Schachtel-Nr.: '48-55' => '48'
+GEÄ  V.F.c.150.:9.2033. [ID 313, Dossier, E2, Eltern V.F.c.150.:9., S.14] Automatische Signalanlage | Von/bis (>= x und <=y)
+        Prüfhinweise: 'Nummerierung springt: nach 1194 folgt 2033. Möglicher Tippfehler in der Signatur.' => 'Nummerierung springt: nach 2024 folgt 2033. Möglicher Tippfehler in der Signatur.'

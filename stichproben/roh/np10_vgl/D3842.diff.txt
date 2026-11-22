@@ -1,0 +1,6 @@
+### D3842: vorher 2 Einheiten, nachher 2 Einheiten
+GEÄ  VII.83.:1. [ID 1, Dossier, E1, Eltern -, S.1] Korrespondenz privat | Von/bis (>= x und <=y)
+        Titel: 'Korrespondenz privat 1' => 'Korrespondenz privat'
+        Schachtel-Nr.: '' => '1'
+GEÄ  VII.83.:2. [ID 2, Dossier, E1, Eltern -, S.2] Korrespondenz Militär, Broschüren | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'

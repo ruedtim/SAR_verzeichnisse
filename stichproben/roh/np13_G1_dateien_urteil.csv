@@ -1,0 +1,23 @@
+datei;einheiten;umfang_geprueft;kritisch;mittel;gering;urteil;signale;bemerkung
+D1237;6;Diff (1), ganze Mappe, Info;0;0;0;ohne kritischen Fehler;[NICHT] 3 = Schlussvermerke;"Bearbeitungsnotiz «Die Aufteilung des Bestandes …» jetzt im Info (Regel 1, richtig); keine Zuordnungsliste, Schachteln 1–6 stimmen."
+D149867;39;Diff (4), ganze Mappe;0;1;1;ohne kritischen Fehler;[NICHT] 12 Vorspann/Schluss, [VOR]/[NACH] Zuordnungsrauschen;"K100 kritischer Teil behoben (Drucksachen in Bestandszeile); mittel ID 24 :98 statt :98-110; gering Schachtel-Nr. leer, Zugehörigkeit der Drucksachen zu I. nur im Vorspann."
+D1726;50;Diff (1), Mappe S. 2;0;0;0;ohne kritischen Fehler;–;K77 behoben (Satz im Darin der Bestandszeile).
+D176824;10;Diff (1), ganze Mappe;0;0;0;ohne kritischen Fehler;[VOR]/[NACH] 9 Zuordnungsrauschen (gleiche Sätze in mehreren Einheiten);K164 behoben.
+D2710;12;Diff (4), ganze Mappe;1;0;0;kritisch;[VOR] 12 Zuordnungsrauschen, [NICHT] 64 Literatur/Schluss;Nur K117 (bewusst offen). K115/K116 behoben, Vorbemerkungen bei Sch. 1 bzw. 6 der Jahresdokumentation mit Hinweis.
+D2850;69;Diff (4), Mappe S. 22–24;0;1;0;ohne kritischen Fehler;[NACH] 222 = Briefliste unter 55./56. nach Anfangsbuchstaben verteilt (Konvention seit Runde 8);K180/K181 behoben. Mittel vor Runde 10: 64. Titel mit zweitem Eintrag und Zeitraum 1937–1951 (G1-N7).
+D2901;10;Diff (1), ganze Mappe;0;0;0;ohne kritischen Fehler;–;K145 behoben.
+D2962;76;Diff (14), Mappe S. 12–16 und 19–21, PDF S. 14–15;0;1;0;ohne kritischen Fehler;[VOR] 5 Zuordnungsrauschen;WEG 6./T2 richtig (Schachtel 3 von 6., kein Teil). Neu mittel: 7.–10. erben «Schachtel 3» (G1-N1). 12.5. Umfang im Info richtig.
+D2979;167;Diff (4), Mappe S. 3–4 und 28–29, PDF S. 3–4;0;0;0;ohne kritischen Fehler;[SIG?] 5 (1.5./1.7./1.8./12. gleiche Nummer wie Gruppe);K155 behoben. Regel-17-Hinweise bei 1.5./1.7./1.8. Teil 2: kein Tippfehlerfall (Nachbarnummern vorhanden).
+D3026;71;Diff (1), Mappe S. 6;0;0;1;ohne kritischen Fehler;–;"K98 behoben (Geschäftsbuch in Bestandszeile); gering Zeitraum der Bestandszeile aus Katalog."
+D3063;74;Diff (14), PDF S. 1–5 und 10–21, Info, Vollständigkeit;0;1;1;ohne kritischen Fehler;Signaturen nur im Vorspann «25.» (Datum, harmlos);"K148 behoben (Anhang im Info). 6. und 40. aus der Zusammenfassung echt, nicht doppelt, Sch. 16-17/21-23. Gering 51. Sch. 24 weg (G1-N2); mittel vor Runde 10: 14 Einheiten ohne Schachtel (G1-N3)."
+D3316;73;Diff (1), Mappe S. 11–13, Schachtel-Nr. aller Einheiten;0;1;0;ohne kritischen Fehler;[SIG?] 2, [VOR] 44 Zuordnungsrauschen;K120 behoben. Schachteln aus «Aufteilung … nach Schachteln:» wie vorher: 1, 2, 5, 6 richtig, 3 und 4 fehlen (G1-N4, = N2).
+D3530;8;Diff (1), Mappe S. 34–35;0;1;0;ohne kritischen Fehler;[SIG?] 74 nummerierte Bibliographie im Darin (alt);"K114 Text behoben; mittel Zeitraum 3. 1890–1981 (bekannter Rest)."
+D3533;16;Diff (2), ganze Mappe;0;0;0;ohne kritischen Fehler;–;K174 behoben.
+D3563;20;Diff (1), Mappe S. 2;0;0;1;ohne kritischen Fehler;[NICHT] 13 Anmerkungen/Verpackung;"K119 behoben; gering Zeitraum der Bestandszeile aus Katalog."
+D3628;49;Diff (5), Mappe S. 3–4 und 8–9;0;0;0;ohne kritischen Fehler;[VOR] 7 Zuordnungsrauschen;K159/K160 behoben.
+D3684;6;Diff (1), ganze Mappe;0;0;0;ohne kritischen Fehler;[NICHT] 29 Personenrecherche im Vorspann (Konvention);K150 behoben.
+D3709;18;Diff (2), Mappe S. 3;0;0;0;ohne kritischen Fehler;–;K158 behoben.
+D3774;59;Diff (2), Mappe S. 12–13;0;1;0;ohne kritischen Fehler;–;K169/K170 behoben. Mittel vor Runde 10: 6.4. Sch. 7 trotz «ausserhalb der Schachteln» (G1-N5).
+D3808;5;Diff (1), ganze Mappe, Info;1;0;1;kritisch;[SIG?] 3 = Stückzahlen «1 …» der Beilagen;K156 teilweise: Beilagen in Bestandszeile, aber Schlussvermerk «chr Stand: 02.09.1992» jetzt Darin 6 der Bestandszeile, Info leer (Fehlgriff Regel 4).
+D3828;32;Diff (1), Mappe S. 1, 4–6, 18;1;0;0;kritisch;[SIG?] 390 nummerierte Listen im Darin (alt);Nur K44 (bewusst offen). K166 behoben.
+D4054;463;Diff (18), Teile 10.3.4. per Skript alt↔neu, Mappe S. 79–95 und 150–152, PDF S. 92–94, Strukturbericht;0;1;0;ohne kritischen Fehler;Strukturbericht: DOPPELT 23 = Teile, DARIN 75 = Datumszeilen, HINWEIS 1 = K139;"K139/K140/K141 behoben; Teile 6–16 nur umnummeriert, Inhalt gleich. Mittel vor Runde 10: Teil 16 Titel = K-Eintrag (G1-N6)."

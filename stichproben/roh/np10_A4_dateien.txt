@@ -1,0 +1,9 @@
+D845	203 Einheiten	schon geprüft
+D134644	88 Einheiten	schon geprüft
+D140969	96 Einheiten	schon geprüft
+D847	282 Einheiten	ERSTPRÜFUNG (nie in einer Fundliste)
+D149825	273 Einheiten	ERSTPRÜFUNG (nie in einer Fundliste)
+D152817	704 Einheiten	schon geprüft
+D2850	68 Einheiten	schon geprüft
+D152404	10 Einheiten	schon geprüft
+D1874	111 Einheiten	schon geprüft

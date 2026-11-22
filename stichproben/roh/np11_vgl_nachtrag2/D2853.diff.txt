@@ -1,0 +1,40 @@
+### D2853: vorher 14 Einheiten, nachher 8 Einheiten
+WEG  VII.11.:I. [ID 5, Teilbestand, E1, Eltern -, S.4] Verzeichniss der für das Alfred Escher-Denkmal eingegangenen Subscriptionen und Beiträge, dat. 1. Dezember 1884, 19 Seiten (12 Exemplare) | Genau (=)
+WEG  VII.11.:I.5. [ID 6, Serie, E2, Eltern VII.11.:I., S.4] Buchhaltung | Von/bis (>= x und <=y)
+WEG  VII.11.:I.5.1. [ID 7, Dossier, E3, Eltern VII.11.:I.5., S.4] Rechnungen betr. das Alfred Escher-Denkmal (Bändelmappe) | Von/bis (>= x und <=y)
+WEG  VII.11.:I.5.2. [ID 8, Dossier, E3, Eltern VII.11.:I.5., S.4] Rechnungsbelege (taschenartige, offene Kartonmappe) | 
+WEG  VII.11.:I.5.3. [ID 9, Serie, E3, Eltern VII.11.:I.5., S.4] Verpflichtungsscheine und Subskriptionslisten | Genau (=)
+        D: Vorgedruckte Verpflichtungsscheine, Text des Talons: „Verpflichtungsschein. Auf Grund des Aufrufes für ein Alfred Escher-Denkmal, d. d. 3. Mai 1884, verpflichte
+        D: Sporadisch finden sich Verpflichtungen in anderer Form (Briefe), die unter die Verpflichtungsscheine eingestreut sind.
+        D: Subscriptionslisten selber Text wie die Verpflichtungsscheine (folio) in Tabellenform (Spalten: Unterschrift, Wohnort, Betrag, leere Spalte für „bezahlt“) Aufte
+WEG  VII.11.:I.5.3./T2 [ID 10, Dossier, E4, Eltern VII.11.:I.5.3., S.5] 1. Protokoll | 
+        D: 2. Geschäftskontrolle
+        D: 3. Akten, Nrn. 1a - 2 b = Mappen 1 - 10
+WEG  VII.11.:I.5.3./T3 [ID 11, Dossier, E4, Eltern VII.11.:I.5.3., S.5] 3. Akten, Nrn. 3a - 6c = Mappen 11 - 17 | 
+WEG  VII.11.:I.5.3./T4 [ID 12, Dossier, E4, Eltern VII.11.:I.5.3., S.5] 3. Akten, Nrn. 6d - 10a = Mappen 18 - 27 | 
+WEG  VII.11.:I.5.3./T5 [ID 13, Dossier, E4, Eltern VII.11.:I.5.3., S.5] 3. Akten, Nrn. 10b - 11 = Mappen 28 - 35 | 
+        D: 4. Drucksachen
+WEG  VII.11.:I.5.3./T6 [ID 14, Dossier, E4, Eltern VII.11.:I.5.3., S.5] 5. Buchhaltung | 
+NEU  VII.11.:5. [ID 5, Teilbestand, E1, Eltern -, S.4] Buchhaltung | Von/bis (>= x und <=y)
+        H: Zeitraum aus geschätzten Zeiträumen der Untereinheiten.
+NEU  VII.11.:5.1. [ID 6, Dossier, E2, Eltern VII.11.:5., S.4] Rechnungen betr. das Alfred Escher-Denkmal (Bändelmappe) | Von/bis (>= x und <=y)
+NEU  VII.11.:5.2. [ID 7, Dossier, E2, Eltern VII.11.:5., S.4] Rechnungsbelege (taschenartige, offene Kartonmappe) | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.11.:5.3. [ID 8, Dossier, E2, Eltern VII.11.:5., S.4] Verpflichtungsscheine und Subskriptionslisten | Genau (=)
+        D: Vorgedruckte Verpflichtungsscheine, Text des Talons: „Verpflichtungsschein. Auf Grund des Aufrufes für ein Alfred Escher-Denkmal, d. d. 3. Mai 1884, verpflichte
+        D: Sporadisch finden sich Verpflichtungen in anderer Form (Briefe), die unter die Verpflichtungsscheine eingestreut sind.
+        D: Subscriptionslisten selber Text wie die Verpflichtungsscheine (folio) in Tabellenform (Spalten: Unterschrift, Wohnort, Betrag, leere Spalte für „bezahlt“)
+        H: Zeitraum aus den Jahreszahlen im Darin geschätzt.
+GEÄ  VII.11.:1. [ID 1, Dossier, E1, Eltern -, S.1] Protokoll | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  VII.11.:2. [ID 2, Dossier, E1, Eltern -, S.2] Geschäftskontrolle | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  VII.11.:3. [ID 3, Dossier, E1, Eltern -, S.2] Akten | 
+        Schachtel-Nr.: '' => '1-4'
+GEÄ  VII.11.:4. [ID 4, Dossier, E1, Eltern -, S.4] Drucksachen | Von/bis (>= x und <=y)
+        Entstehungszeitraum: 'Genau (=)' => 'Von/bis (>= x und <=y)'
+        von: '1890' => '01.12.1884'
+        bis: '' => '1890'
+        [Darin]
+           +I. Verzeichniss der für das Alfred Escher-Denkmal eingegangenen Subscriptionen und Beiträge, dat. 1. Dezember 1884, 19 Seiten (12 Exemplare)
+        Schachtel-Nr.: '' => '4'

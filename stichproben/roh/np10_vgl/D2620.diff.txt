@@ -1,0 +1,7 @@
+### D2620: vorher 139 Einheiten, nachher 139 Einheiten
+GEÄ  V.L.167.:11.2. [ID 121, Dossier, E2, Eltern V.L.167.:11., S.19] Materialien zum Gemeindewappenbuch des Kantons Zürich von 1977 (1969 – 1977) | Von/bis (>= x und <=y)
+        Entstehungszeitraum: 'Genau (=)' => 'Von/bis (>= x und <=y)'
+        von: '1977' => '1969'
+        bis: '' => '1977'
+        Zeitraum-Quelle: 'Inhaltsverzeichnis' => 'Titel'
+        Prüfhinweise: '' => 'Zeitraum weicht vom Inhaltsverzeichnis ab (1977).'

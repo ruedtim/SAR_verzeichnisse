@@ -1,0 +1,12 @@
+D149628	dezimal	5235 Einheiten	Strukturbericht struktur/D149628.txt + Kompaktmappe mappen_kompakt/D149628.txt
+D3672	dezimal	1498 Einheiten	Strukturbericht struktur/D3672.txt + Kompaktmappe mappen_kompakt/D3672.txt
+D176060	dezimal	1293 Einheiten	Strukturbericht struktur/D176060.txt + Kompaktmappe mappen_kompakt/D176060.txt
+D151217	dezimal	724 Einheiten	Strukturbericht struktur/D151217.txt + Kompaktmappe mappen_kompakt/D151217.txt
+D3484	fortlaufend	704 Einheiten	Strukturbericht struktur/D3484.txt + Kompaktmappe mappen_kompakt/D3484.txt
+D141020	dezimal	601 Einheiten	Strukturbericht struktur/D141020.txt + Kompaktmappe mappen_kompakt/D141020.txt
+D2857	dezimal	419 Einheiten	Strukturbericht struktur/D2857.txt + Kompaktmappe mappen_kompakt/D2857.txt
+D32837	dezimal	266 Einheiten	Strukturbericht struktur/D32837.txt + Kompaktmappe mappen_kompakt/D32837.txt
+D3589	fortlaufend	262 Einheiten	Strukturbericht struktur/D3589.txt + Kompaktmappe mappen_kompakt/D3589.txt
+D141	Vollsignatur	254 Einheiten	Strukturbericht struktur/D141.txt + Kompaktmappe mappen_kompakt/D141.txt
+D2935	dezimal	240 Einheiten	Strukturbericht struktur/D2935.txt + Kompaktmappe mappen_kompakt/D2935.txt
+D1180	dezimal	204 Einheiten	Strukturbericht struktur/D1180.txt + Kompaktmappe mappen_kompakt/D1180.txt

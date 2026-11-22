@@ -1,0 +1,14 @@
+### D1263: vorher 1 Einheiten, nachher 6 Einheiten
+WEG  V.F.b.13.c. [ID 1, Bestand, E1, Eltern -, S.1] Totenregister und Gräberrechnungen des Friedhofs Hohe Promenade (6 Bände) | Von/bis (>= x und <=y)
+        D: V.F. b.13.c:1 Totenregister des Friedhofs Hohe Promenade, 1848-1877
+        D: V.F. b.13.c:2 Totenregister des Friedhofs Hohe Promenade, alphabetisches Register, 1848-1877
+        D: V.F. b.13.c:3 Gräberrechungen des Friedhofs Hohe Promenade, 1861-1882
+        D: V.F. b.13.c:4 Totenregister für Erwachsene und Kinder, 1848-1877
+        D: V.F. b.13.c:5 Leichenregister für Erwachsene und Kinder, 1848-1894
+        D: V.F. b.13.c:6 Alphabetisches Leichenregister, 1848-1882
+NEU  V.F.b.13.c.:1 [ID 1, Dossier, E1, Eltern -, S.1] Totenregister des Friedhofs Hohe Promenade | Von/bis (>= x und <=y)
+NEU  V.F.b.13.c.:2 [ID 2, Dossier, E1, Eltern -, S.1] Totenregister des Friedhofs Hohe Promenade, alphabetisches Register | Von/bis (>= x und <=y)
+NEU  V.F.b.13.c.:3 [ID 3, Dossier, E1, Eltern -, S.1] Gräberrechungen des Friedhofs Hohe Promenade | Von/bis (>= x und <=y)
+NEU  V.F.b.13.c.:4 [ID 4, Dossier, E1, Eltern -, S.1] Totenregister für Erwachsene und Kinder | Von/bis (>= x und <=y)
+NEU  V.F.b.13.c.:5 [ID 5, Dossier, E1, Eltern -, S.1] Leichenregister für Erwachsene und Kinder | Von/bis (>= x und <=y)
+NEU  V.F.b.13.c.:6 [ID 6, Dossier, E1, Eltern -, S.1] Alphabetisches Leichenregister | Von/bis (>= x und <=y)

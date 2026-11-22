@@ -1,0 +1,133 @@
+### D3343: vorher 4 Einheiten, nachher 3 Einheiten
+WEG  VII.266.:2./T2 [ID 3, Dossier, E2, Eltern VII.266.:2., S.8] Auswahl aus Theaterkritiken (alphabetisch nach Autor) | Von/bis (>= x und <=y)
+        D: Aeschylus: Prometheus plus Beat 233, 1969
+        D: Albee: Wer hat Angst vor Virginia Woolf? 188, 1964
+        D: Anderson: Winterwende 115, 1956
+        D: Anouilh: Walzer des Toréadors 136, 1958
+        D: Ariost: Orlando furioso 238, 1970
+        D: Arrabal: Der Garten der Lüste 254, 1972
+        D: Audiberti: Der Glapion-Effekt 179, 1963
+        D: Beckett: En attendant Godot 108, 1954
+        D: … (117 Zeilen)
+GEÄ  VII.266.:2. [ID 2, Dossier, E1, Eltern -, S.5] Auswahl aus Theaterkritiken | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+        [Darin]
+           +Auswahl aus Theaterkritiken (alphabetisch nach Autor), 1945 – 1977
+           +Aeschylus: Prometheus plus Beat 233, 1969
+           +Albee: Wer hat Angst vor Virginia Woolf? 188, 1964
+           +Anderson: Winterwende 115, 1956
+           +Anouilh: Walzer des Toréadors 136, 1958
+           +Ariost: Orlando furioso 238, 1970
+           +Arrabal: Der Garten der Lüste 254, 1972
+           +Audiberti: Der Glapion-Effekt 179, 1963
+           +Beckett: En attendant Godot 108, 1954
+           +Bernanos: Die begnadete Angst 54, 1951
+           +Billetdoux: Tchin-Tchin 177, 1963
+           +Brecht: Dreigroschenoper 32, 1950
+           +Brecht: Mutter Courage 2, 1945
+           +Büchner: Wozzeck 13, 1948
+           +Calderon: Das Leben ein Traum 78, 1953
+           +Camus: Die Gerechten 42, 1950
+           +Claudel: Die Geschichte von Tobias und Sara 90, 1953
+           +Claudel: Le Livre de Christophe Colomb 291, 1976
+           +Cocteau: Der Doppeladler 10, 1947
+           +Corneille: Le Cid 72, 1952
+           +Dürrenmatt: Die Physiker 164 162
+           +Dürrenmatt: Ein Engel kommt nach Babylon 93, 1954
+           +Dürrenmatt: Es steht geschrieben 5, 1947
+           +Eliot: Ein verdienter Staatsmann 150, 1960
+           +Faulkner: Requiem für eine Nonne 112, 1955
+           +Fleisser: Der starke Stamm 279, 1974
+           +Frisch: Als der Krieg zu Ende war 21, 1949
+           +Frisch: Biedermann / Philipp Hotz 128, 1958
+           +Genet: Der Balkon 200, 1967
+           +Giraudoux: Siegfried von Kleist 46, 1950
+           +Giraudoux: Undine 87, 1953
+           +Goethe: Die natürliche Tochter 100, 1954
+           +Goethe: Egmont 24, 1949
+           +Goethe: Egmont 240, 1970
+           +Goethe: Iphigenie 81, 1953
+           +Goethe: Torquato Tasso 182, 1963
+           +Goethe: Urfaust 299, 1976
+           +Goetz: Hokuspokus 12, 1948
+           +Gogol: Der Revisor 152, 1960
+           +Goldoni: Arlecchin o servitore di due Padroni 203, 1967
+           +Gombrowicz: Die Trauung 245, 1972
+           +Gorki: Nachtasyl 1, 1945
+           +Gozzi: König Hirsch 122, 1956
+           +Handke: Kaspar 228, 1969
+           +Hauptmann: Die Ratten 75, 1953
+           +Heine: Collage 282, 1975
+           +Hochhut: Der Stellvertreter 185, 1963
+           +Horvath: Die Unbekannte aus der Seine 262, 1973
+           +Ibsen: Rosmersholm 154, 1960
+           +Ionesco: Kahle Sängerin / Unterrichtsstunde 134, 1958
+           +Ionesco: Nashörner 148, 1960
+           +Kafka: Schloss 84, 1953
+           +Kleist: Penthesilea 105, 1954
+           +Kleist: Prinz Friedrich von Homburg 50, 1951
+           +Kleist: Prinz von Homburg 271, 1974
+           +Knott: Bei Anruf
+           +Mord 82, 1953
+           +Kroetz: Stallerhof 257, 1972
+           +Lessing: Emilia Galotti 138, 1959
+           +Lessing: Miss Sara Sampson 8, 1947
+           +Lessing: Nathan der Weise 64, 1951
+           +Lope de Vega: Die kluge Närrin 156, 1961
+           +Marceau: Ei 145, 1959
+           +Molière: Der Misanthrop 97, 1954
+           +Molière: Don Juan 35, 1950
+           +Molière: Ecole des Femmes 38, 1950
+           +Molière: George Dandin 158, 1961
+           +Molière: Médecin malgré lui (Marivaux) 58, 1951
+           +Molière: Misanthrope 305, 1977
+           +Molière: Tartuffe 61, 1951
+           +Montherlant: Port Royal 120, 1956
+           +Mrozek: Emigranten 289, 1976
+           +Muschg: Rumpelstilz 207, 1968
+           +Nestroy: Der Talisman 205, 1967
+           +O’Neill: Gier unter Ulmen 118, 1956
+           +Obladia: Das Opfer des Henkers / Der Grosswesir 221, 1968
+           +Patrick: Kennedys Kinder 284, 1975
+           +Pinter: Old Times 286, 1976
+           +Pirandello: Enrico IV 172, 1962
+           +Pirandello: Sechs Personen suchen einen Autor 215, 1968
+           +Plenzdorf: Die neuen Leiden des jungen Werther 265, 1974
+           +Racine: Andromaque 103, 1954
+           +Roussin: La Femme, le Mari et la Mort 110, 1955
+           +Sartre: Die schmutzigen Hände 18, 1948
+           +Schiller: Don Carlos 28, 1950
+           +Schiller: Don Carlos 125, 1957
+           +Schiller: Maria Stuart 141, 1959
+           +Schiller: Phädra im Zerrspiegel 268, 1974
+           +Schiller: Waltenstein 296, 1976
+           +Schiller: Wilhelm Tell 66, 1952
+           +Schneider: Sennentuntschi 248, 1972
+           +Schnitzler: Der grüne Kakadu / Drei Schwestern / Eine Stunde Liebe 210, 1968
+           +Shakespeare: Antonius und Kleopatra 218, 1968
+           +Shakespeare: Der Sturm 191, 1964
+           +Shakespeare: Hamlet 275, 1974
+           +Shakespeare: Hamlet (franz.) 70, 1952
+           +Shakespeare: König Lear 15, 1948
+           +Shakespeare: Othello 196, 1966
+           +Shakespeare: Othello 302, 1977
+           +Shakespeare: Romeo and Juliet 175, 1962
+           +Shaw: Saint Joan 143, 1959
+           +Shepard: The Holy Ghostly 236, 1970
+           +Sophokles: Oedipus 281, 1975
+           +Sternheim: Die Hose 131, 1958
+           +Strindberg: Nach Damaskus 161, 1961
+           +Tschechow: Kirschgarten 294, 1976
+           +Valéry: L’Idée Fixe 198, 1967
+           +Vitrac: Victor oder die Kinder an der Macht 194, 1965
+           +Von Hofmannsthal: Der Schwierige 4, 1946
+           +Walser: Zimmerschlacht 223, 1969
+           +Wedekind: Lulu 168, 1962
+           +Wedekind: Marquis von Keith 212, 1968
+           +Weiss: Marat / Sade 251, 1972
+           +Wesker: Die Küche 225, 1969
+           +Wettstein: Monodramenbühne 193, 1965
+           +Wilder: Kleine Stadt 260, 1973
+           +Williams: Endstation Sehnsucht 231, 1969
+           +Witkiewicz: Die Mutter 243, 1971
+        Prüfhinweise: '' => 'Die Liste steht im Findmittel ein zweites Mal, anders geordnet («2. Auswahl aus Theaterkritiken (alphabetisch nach Autor)») – im Darin angehängt, kein eigener T'

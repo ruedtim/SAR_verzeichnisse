@@ -1,0 +1,11 @@
+### D176795: vorher 63 Einheiten, nachher 63 Einheiten
+GEÄ  VII.388.:2.3.1. [ID 22, Dossier, E3, Eltern VII.388.:2.3., S.7] Ernst Friedrich Karl von Beust (1733-1799) und Friederike von Beust-von Podewils (1741-1816) | Von/bis (>= x und <=y)
+        [Darin]
+           -Kinder von Ernst Friedrich Karl und Friederike von Beust-von Podewils:
+GEÄ  VII.388.:2.3.2. [ID 23, Dossier, E3, Eltern VII.388.:2.3., S.7] Charlotte von Beust (-1849) | Von/bis (>= x und <=y)
+        Prüfhinweise: '' => 'Steht im Findmittel unter der Zwischenüberschrift «Kinder von Ernst Friedrich Karl und Friederike von Beust-von Podewils».'
+GEÄ  VII.388.:2.3.3. [ID 24, Dossier, E3, Eltern VII.388.:2.3., S.7] Karl Alexander von Beust (1773-1856) und Friederike von Beust-von Tubeuf (1789-1863) | Von/bis (>= x und <=y)
+        [Darin]
+           -Kinder von Karl Alexander und Friederike von Beust-von Tubeuf:
+GEÄ  VII.388.:2.3.4. [ID 25, Dossier, E3, Eltern VII.388.:2.3., S.8] Anton von Beust (1818-1894) und Ida von Beust-von Kleist Schuldscheine | Von/bis (>= x und <=y)
+        Prüfhinweise: '' => 'Steht im Findmittel unter der Zwischenüberschrift «Kinder von Karl Alexander und Friederike von Beust-von Tubeuf».'

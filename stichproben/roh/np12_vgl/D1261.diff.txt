@@ -1,0 +1,12 @@
+### D1261: vorher 1 Einheiten, nachher 5 Einheiten
+WEG  V.F.b.13.b. [ID 1, Bestand, E1, Eltern -, S.1] Totenregister des Friedhofs St. Jakob (5 Bände) | Von/bis (>= x und <=y)
+        D: V.F. b.13.b:1 Totenregister des Friedhofs St. Jakob, 1841- 1867
+        D: V.F. b.13.b:2 Totenregister des Friedhofs St. Jakob, 1852-1869
+        D: V.F. b.13.b:3 Totenregister des Friedhofs St. Jakob (Minderjährige), 1862-1877
+        D: V.F. b.13.b:4 Totenregister des Friedhofs St. Jakob (Minderjährige), 1868-1877
+        D: V.F. b.13.b:5 Totenregister des Friedhofs St. Jakob, 1869-1877
+NEU  V.F.b.13.b.:1 [ID 1, Dossier, E1, Eltern -, S.1] Totenregister des Friedhofs St. Jakob | Von/bis (>= x und <=y)
+NEU  V.F.b.13.b.:2 [ID 2, Dossier, E1, Eltern -, S.1] Totenregister des Friedhofs St. Jakob | Von/bis (>= x und <=y)
+NEU  V.F.b.13.b.:3 [ID 3, Dossier, E1, Eltern -, S.1] Totenregister des Friedhofs St. Jakob (Minderjährige) | Von/bis (>= x und <=y)
+NEU  V.F.b.13.b.:4 [ID 4, Dossier, E1, Eltern -, S.1] Totenregister des Friedhofs St. Jakob (Minderjährige) | Von/bis (>= x und <=y)
+NEU  V.F.b.13.b.:5 [ID 5, Dossier, E1, Eltern -, S.1] Totenregister des Friedhofs St. Jakob | Von/bis (>= x und <=y)

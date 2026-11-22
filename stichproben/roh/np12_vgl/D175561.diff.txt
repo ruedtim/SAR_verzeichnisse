@@ -1,0 +1,54 @@
+### D175561: vorher 1 Einheiten, nachher 22 Einheiten
+NEU  V.G.c.63.:2. [ID 2, Dossier, E1, Eltern -, S.1] Notstandsaktion für Zürcher Künstler | Von/bis (>= x und <=y)
+NEU  V.G.c.63.:3. [ID 3, Dossier, E1, Eltern -, S.1] Wandmalereien im Kreuzgang der Fraumünsterkirche | Von/bis (>= x und <=y)
+NEU  V.G.c.63.:4. [ID 4, Dossier, E1, Eltern -, S.1] Gemälde von Conrad Meyer | Von/bis (>= x und <=y)
+NEU  V.G.c.63.:5. [ID 5, Dossier, E1, Eltern -, S.1] Notstandsbildhauerarbeiten und künstlerische Ausschmückung an Amtshäusern | Von/bis (>= x und <=y)
+NEU  V.G.c.63.:6. [ID 6, Dossier, E1, Eltern -, S.1] Schweizerische Landesausstellung in Bern 1914 1911-1914 Akten des Stadtbaumeisters | Von/bis (>= x und <=y)
+        H: Mehrere Zeitangaben im Titel (1914, 1911-1914).
+NEU  V.G.c.63.:7. [ID 7, Dossier, E1, Eltern -, S.1] Neubau der Schweiz. Nationalbank in Zürich | Von/bis (>= x und <=y)
+NEU  V.G.c.63.:8. [ID 8, Dossier, E1, Eltern -, S.1] Telefonzentrale in Unterstrass Zürich | Von/bis (>= x und <=y)
+NEU  V.G.c.63.:9. [ID 9, Dossier, E1, Eltern -, S.1] Verband Schweizerischer Braunviehzuchtgenossenschaften: Zuchtstiermarkt auf der Allmend | Genau (=)
+NEU  V.G.c.63.:10. [ID 10, Dossier, E1, Eltern -, S.1] Kornhausbrücke. Wettbewerb | Genau (=)
+NEU  V.G.c.63.:11. [ID 11, Dossier, E1, Eltern -, S.1] Aussichtsservituten Freudenbergstrasse-Restelbergstrasse | Von/bis (>= x und <=y)
+NEU  V.G.c.63.:12. [ID 12, Dossier, E1, Eltern -, S.1] Wetterstation am Alpenquai | Von/bis (>= x und <=y)
+NEU  V.G.c.63.:13. [ID 13, Dossier, E1, Eltern -, S.1] Planetarium Platzspitz | Von/bis (>= x und <=y)
+NEU  V.G.c.63.:14. [ID 14, Dossier, E1, Eltern -, S.1] Casino Kreuzplatz. Projekt | 
+NEU  V.G.c.63.:15. [ID 15, Dossier, E1, Eltern -, S.1] Konkordiagut Hofackerstrasse | Genau (=)
+NEU  V.G.c.63.:16. [ID 16, Dossier, E1, Eltern -, S.1] Alte Kirche Fluntern | Von/bis (>= x und <=y)
+        D: Errichtung eines Postbüros
+NEU  V.G.c.63.:17. [ID 17, Dossier, E1, Eltern -, S.1] Genossenschaftshaus Friesenberg Kindergartenlokal | Von/bis (>= x und <=y)
+NEU  V.G.c.63.:18. [ID 18, Dossier, E1, Eltern -, S.2] Verwaltungsgebäude der Zürcher Dampfboot AG | Von/bis (>= x und <=y)
+NEU  V.G.c.63.:19. [ID 19, Dossier, E1, Eltern -, S.2] Baupreise u. Löhne (Statistik) | Von/bis (>= x und <=y)
+NEU  V.G.c.63.:20. [ID 20, Dossier, E1, Eltern -, S.2] Bestimmungen über Preisänderungen während der Bauzeit | Von/bis (>= x und <=y)
+NEU  V.G.c.63.:21. [ID 21, Dossier, E1, Eltern -, S.2] Werkverträge (Muster) | Genau (=)
+NEU  V.G.c.63.:22. [ID 22, Dossier, E1, Eltern -, S.2] Altes Tonhalleareal | Von/bis (>= x und <=y)
+        D: Akten und Pläne betreffend die Überbauung
+GEÄ  V.G.c.63.:1. [ID 1, Dossier, E1, Eltern -, S.1] Brunnen u. Plastiken (nach Kreisen geordnet) | Von/bis (>= x und <=y)
+        Signatur: 'V.G.c.63.1.' => 'V.G.c.63.:1.'
+        von: '1889' => '1919'
+        bis: '1946' => '1934'
+        Entstehungszeitraum, Anm.: '1919-1934; Darin: 1889–1946' => ''
+        [Darin]
+           -2. Notstandsaktion für Zürcher Künstler, 1920-1923
+           -3. Wandmalereien im Kreuzgang der Fraumünsterkirche, 1921-1926
+           -4. Gemälde von Conrad Meyer, 1921-1923
+           -5. Notstandsbildhauerarbeiten und künstlerische Ausschmückung an Amtshäusern, 1922-1935
+           -6. Schweizerische Landesausstellung in Bern 1914 1911-1914 Akten des Stadtbaumeisters
+           -7. Neubau der Schweiz. Nationalbank in Zürich, 1914-1916
+           -8. Telefonzentrale in Unterstrass Zürich, 1920-1921
+           -9. Verband Schweizerischer Braunviehzuchtgenossenschaften: Zuchtstiermarkt auf der Allmend, 1922
+           -10. Kornhausbrücke. Wettbewerb, 1923
+           -11. Aussichtsservituten Freudenbergstrasse-Restelbergstrasse, 1923-1925
+           -12. Wetterstation am Alpenquai, 1926-1927
+           -13. Planetarium Platzspitz, 1926-1929
+           -14. Casino Kreuzplatz. Projekt, o. D.
+           -15. Konkordiagut Hofackerstrasse, 1928
+           -16. Alte Kirche Fluntern, 1929-1930; Errichtung eines Postbüros
+           -17. Genossenschaftshaus Friesenberg, 1926-1929; Kindergartenlokal
+           -18. Verwaltungsgebäude der Zürcher Dampfboot AG 1932-1934
+           -19. Baupreise u. Löhne (Statistik), 1914-1936
+           -20. Bestimmungen über Preisänderungen während der Bauzeit, 1917-1936
+           -21. Werkverträge (Muster), 1946
+           -22. Altes Tonhalleareal, 1889-1941; Akten und Pläne betreffend die Überbauung
+           +
+        Nr. im PDF: 'V.G. c.63. 1.' => '1.'

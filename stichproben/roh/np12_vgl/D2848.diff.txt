@@ -1,0 +1,13 @@
+### D2848: vorher 22 Einheiten, nachher 22 Einheiten
+GEÄ  VII.108.:2. [ID 2, Dossier, E1, Eltern -, S.1] Korrespondenz und Grundsatzpapiere zum Gesamtwerk | Von/bis (>= x und <=y)
+        [Darin]
+           -Korrespondenz und Grundsatzpapiere zum Gesamtwerk mit “Grundsätze für die Herausgabe der Kunstdenkmäler der Schweiz”, “Reglement für die Herausgabe der ‘Kunstd
+           -Inventarisation der Kunstdenkmäler der Schweiz. Organisation und Richtlinien”
+           +Korrespondenz und Grundsatzpapiere zum Gesamtwerk mit “Grundsätze für die Herausgabe der Kunstdenkmäler der Schweiz”, “Reglement für die Herausgabe der ‘Kunstd
+GEÄ  VII.108.:8. [ID 22, Dossier, E1, Eltern -, S.2] Gedruckte und durchschossene Exeplare von Band 1 und 2 | Von/bis (>= x und <=y)
+        von: '1930' => '1939'
+        [Darin]
+           -Auf Gesuch der Schweizerischen Gesellschaft für Erhaltung historischer Kunstdenkmäler spricht der Stadtrat mit StRB 1492 und 2385 von 1930 einen Beitrag von Fr
+           -Dieser Bestand wiederspiegelt also in erster Linie die Tätigkeit des Arbeitsausschusses und die Mitarbeit der städtischen Vertreter.
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Datumsspalte'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''

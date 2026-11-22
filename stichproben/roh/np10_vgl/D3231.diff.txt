@@ -1,0 +1,19 @@
+### D3231: vorher 130 Einheiten, nachher 130 Einheiten
+GEÄ  VII.228.:2.8./T2 [ID 44, Dossier, E3, Eltern VII.228.:2.8., S.19] Familie Tünkli (Hörspielserie) | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '24' => '24-26'
+GEÄ  VII.228.:3.4./T3 [ID 89, Dossier, E3, Eltern VII.228.:3.4., S.41] e) Familie Pestalozzi (Elsie Attenhofer, 1972) | Genau (=)
+        Schachtel-Nr.: '48' => '48-49'
+GEÄ  VII.228.:3.6./T3 [ID 96, Dossier, E3, Eltern VII.228.:3.6., S.45] e) Cabaret Sanduhr (1978-1980: Programme, Ensemble) | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '55' => '55-56'
+GEÄ  VII.228.:3.7./T4 [ID 100, Dossier, E3, Eltern VII.228.:3.7., S.46] b) Repertoire von Yvette Guilbert | 
+        Schachtel-Nr.: '57' => '57-58'
+GEÄ  VII.228.:3.7./T9 [ID 105, Dossier, E3, Eltern VII.228.:3.7., S.49] Musiknoten, Teil 9 | 
+        Schachtel-Nr.: '58' => '58-59'
+GEÄ  VII.228.:3.7./T14 [ID 110, Dossier, E3, Eltern VII.228.:3.7., S.51] Die Kameltreiber kommen allmählich näher... | 
+        Schachtel-Nr.: '59' => '59-60'
+GEÄ  VII.228.:3.8./T3 [ID 113, Dossier, E3, Eltern VII.228.:3.8., S.53] e) Cabaret Sanduhr | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '73' => '73-74'
+GEÄ  VII.228.:3.10./T2 [ID 117, Dossier, E3, Eltern VII.228.:3.10., S.56] Skizzen | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '100' => '100-101'
+GEÄ  VII.228.:3.11./T2 [ID 120, Dossier, E3, Eltern VII.228.:3.11., S.57] b) Solo-Programme, Chanson-Abende | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '110' => '110-113'

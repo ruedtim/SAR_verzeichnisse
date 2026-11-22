@@ -1,0 +1,17 @@
+### D2979: vorher 167 Einheiten, nachher 167 Einheiten
+GEÄ  VII.158.:1.5./T2 [ID 36, Dossier, E3, Eltern VII.158.:1.5., S.3] Kassabuch (Band) | Von/bis (>= x und <=y)
+        Prüfhinweise: '' => 'Signatur 1.5. steht im Findmittel zweimal hintereinander mit anderem Titel – Tippfehler? Als Teil übernommen, bitte prüfen.'
+GEÄ  VII.158.:1.7./T2 [ID 41, Dossier, E3, Eltern VII.158.:1.7., S.4] Statuten | Genau (=)
+        Prüfhinweise: '' => 'Signatur 1.7. steht im Findmittel zweimal hintereinander mit anderem Titel – Tippfehler? Als Teil übernommen, bitte prüfen.'
+GEÄ  VII.158.:1.8./T2 [ID 43, Dossier, E3, Eltern VII.158.:1.8., S.4] Jahresrechnungen, Nr. 2 (Band) | Von/bis (>= x und <=y)
+        Prüfhinweise: '' => 'Signatur 1.8. steht im Findmittel zweimal hintereinander mit anderem Titel – Tippfehler? Als Teil übernommen, bitte prüfen.'
+GEÄ  VII.158.:14.10. [ID 167, Dossier, E2, Eltern VII.158.:14., S.28] „Controll-Bogen“ (Band) | Von/bis (>= x und <=y)
+        [Darin]
+           -Für die Armenfürsorge war im 19. und der ersten Hälfte des 20. Jahrhunderts grundsätzlich die Heimatgemeinde zuständig.
+           -Die wachsende Mobilität der Bevölkerung liess die Zahl der nichtverbürgerten Einwohnerschaft ständig wachsen. Für die möglicherweise weit weg liegenden Heimatgemeinden w
+           -Die entsprechende Organisation, die freiwillige Armenpflege Zürich, ist in der Stadt Zürich wurde erst 1878 errichtet.
+           -Nach der Stadtvereinigung von 1893 wurden diese Institutionen aus den eingemeindeten Quartieren teilweise der bisherigen städtischen freiwilligen Armenpflege angeschloss
+           -Am 15. August 1914 bezeichnete der Stadtrat die Freiwillige und Einwohnerarmenpflege der Stadt Zürich als Zentralstelle für die „behördlich zu organisierende Hülfstätigk
+           -Am 27. Oktober 1927 wurde im Kanton Zürich ein neues Gesetz über die Armenfürsorge angenommen. Dieses am 1. Januar 1929 in Kraft tretende Gesetz hat für alle im Kanton Z
+           -Damit hatte sich die Existenzberechtigung der Freiwilligen und Einwohnerarmenpflege der Stadt Zürich im wesentlichen überlebt. Ihre Aufgaben hat das Fürsorgeamt der Stad
+           +

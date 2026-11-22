@@ -1,0 +1,4 @@
+### D3828: vorher 31 Einheiten, nachher 32 Einheiten
+NEU  VII.76. [ID 32, Bestand, E1, Eltern -, S.1] Erwin Stirnemann (1885-1970), Stadtrat 1934-1946 (Vorsteher des Bauamtes I). Nachlass, 1914-1956 | Von/bis (>= x und <=y)
+        D: “Summarisches Curiculum vitae in Stichworten”, alt Stadtrat Stirnemann Ende 1961
+        H: Stück ohne Nummer im Findmittel vor der ersten Signatur («“Summarisches Curiculum vitae in Stichworten”, alt Stadtrat Stirnemann», S. 1) – hier beim Bestand übernommen (keine Signatur erfunden); in scope beim Bestand ergänzen oder von Hand als Einheit anlegen.

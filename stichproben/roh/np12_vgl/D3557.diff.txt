@@ -1,0 +1,15 @@
+### D3557: vorher 11 Einheiten, nachher 12 Einheiten
+NEU  VII.336. [ID 12, Bestand, E1, Eltern -, S.3] Urs Kerker, Hansruedi Roth. Zeichnungen und Dokumentationen zur Geschichte von Aussersihl, Riesbach und Hirslanden | Von/bis (>= x und <=y)
+        D: Reproduktionen (Beilage): Zur Geschichte von Aussersihl, farbige Reproduktion (Format A 4)
+        D: Geschichte von Hirslanden, 3 farbige Reproduktionen (2 Stk. 20 x 31 cm, 1 Stk. Fomat A 4)
+        D: Geschichte von Riesbach, 3 farbige Reproduktionen (1 Stk. 14,5 x 29 cm, 2 Stk. A 4)
+        H: Stück ohne Nummer im Findmittel («Reproduktionen (Beilage):», S. 3) – hier beim Bestand übernommen (keine Signatur erfunden); in scope beim Bestand ergänzen oder von Hand als Einheit anlegen.
+GEÄ  VII.336.:4.4. [ID 11, Dossier, E2, Eltern VII.336.:4., S.2] Blatt IV | Von/bis (>= x und <=y)
+        [Darin]
+           -Die Bilder wurden von der Firma Graphica, Redaktion und Sekretariat: Hansruedi Roth, Zweierstrasse 175, 8003 Zürich, hergestellt und dem Stadtarchiv übergeben.
+           -Standort: NEU/UG3/P1/5 sowie 1 Rolle auf diesem Planschrankturm
+           -Reproduktionen (Beilage): Zur Geschichte von Aussersihl, farbige Reproduktion (Format A 4)
+           -Geschichte von Hirslanden, 3 farbige Reproduktionen (2 Stk. 20 x 31 cm, 1 Stk. Fomat A 4)
+           -Geschichte von Riesbach, 3 farbige Reproduktionen (1 Stk. 14,5 x 29 cm, 2 Stk. A 4)
+        [Prüfhinweise]
+           -Verschobene Zeilenumbrüche in Listen repariert – Stichprobe prüfen.

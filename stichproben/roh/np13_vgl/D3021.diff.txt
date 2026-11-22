@@ -1,0 +1,70 @@
+### D3021: vorher 11 Einheiten, nachher 13 Einheiten
+NEU  VII.175.:C)/T6 [ID 8, Dossier, E2, Eltern VII.175.:C), S.5] Büchlein aus Reclam's Universal-Bibliothek: Nummer | Genau (=)
+        D: 42) Büchner G. Dantons Tod 6060
+        D: 43) Gerstenberg Ugolino 141; H.W. v.
+        D: 44) Grillparzer F. Ein treuer Diener seines Herrn 4383
+        D: 45) Grillparzer F. König Ottokars Glück und Ende
+        D: 46) Gobineau G. Die Renaissance 351l-15
+        D: 47) Goethe W. von Egmont 75
+        D: 48) Goethe W. von Clavigo 96
+        D: 49) Hebbel F. Judith 3161
+        D: … (29 Zeilen)
+        H: Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  VII.175.:C)/T7 [ID 9, Dossier, E2, Eltern VII.175.:C), S.7] b) mit Schreibmaschine geschriebene Texte | Genau (=)
+        D: 71) Bethencourt J. Der Tag, an dem der Papst Papst gekidnappt wurde (im Doppel vorhanden)
+        D: 72) Bethencourt J. Bonifacio und die Billionen
+        D: Komödie in 4 Bildern
+        D: 73) Denger F. Marie vom Hinterhof - - ein Schauspiel für eine Person in drei Akten
+        D: 74) Deval J. Die Frau deiner Jugend, 1948; Stück in 3 Akten
+        D: 75) Freuler K. Erschaft aus Amerika
+        D: Balz
+        D: 76) Honegger A. Jeanne d'Arc au bûcher
+        D: … (11 Zeilen)
+        H: Zeitraum aus den Jahreszahlen im Darin geschätzt.
+GEÄ  VII.175.:C) [ID 3, Serie, E1, Eltern -, S.3] ROLLENTEXTE | Von/bis (>= x und <=y)
+        Zeitraum-Quelle: 'Untereinheiten' => 'Untereinheiten (geschätzt)'
+        Prüfhinweise: '' => 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.'
+GEÄ  VII.175.:C)/T5 [ID 7, Dossier, E2, Eltern VII.175.:C), S.5] 31) Shakespeare W. Die lustigen Weiber von Windsor 1940 Falstaff | Genau (=)
+        [Darin]
+           -Büchlein aus Reclam's Universal-Bibliothek: Nummer:, Schachtel 6
+           -42) Büchner G. Dantons Tod 6060
+           -43) Gerstenberg Ugolino 141; H.W. v.
+           -44) Grillparzer F. Ein treuer Diener seines Herrn 4383
+           -45) Grillparzer F. König Ottokars Glück und Ende
+           -46) Gobineau G. Die Renaissance 351l-15
+           -47) Goethe W. von Egmont 75
+           -48) Goethe W. von Clavigo 96
+           -49) Hebbel F. Judith 3161
+           -50) Ibsen H. Die Stützen der Gesellschaft 958
+           -51) Kleist H. von Michael Kohlhaas 8
+           -52) Kleist H. von Das Käthchen von Heilbronn 40
+           -53) Kleist H. von Prinz Friedrich von Homburg 178
+           -54) Lessing G.E. Emilia Galotti 45
+           -55) Merrick L. Der Theaterdirektor 4318
+           -56) Niggli A. Musiker-Biographien 10. Band 2521; Schubert
+           -57) Raimund F. Der Bauer als Millionär 120
+           -58) Sachs H. Dramatische Werke 3959-60
+           -59) Salzmann Chr.G. Ameisenbüchlein 2450
+           -60) Schiller Fr.v. Die Verschwörung des Fiesko 51 zu Genua
+           -61) Schiermacher F. Platons Gastmahl oder von der Liebe, 1937
+           -62) Shakespeare W. Othello 2383
+           -63) Shakespeare W. Hamlet 31
+           -64) Shakespeare W. Viel Lärm um nichts 98
+           -65) Shakespeare W. Romeo und Julia 5
+           -66) Shakespeare W. Romeo und Julia 2372
+           -67) Shakespeare W. Julius Cäsar 5504
+           -68) Shakespeare W. Der Kaufmann von Venedig 4269
+           -69) Wilde O. Das Granatapfelhaus 6405/6410
+           -70) Wittmann C.F. Jur-Spiele 4039
+           -b) mit Schreibmaschine geschriebene Texte:, Schachtel 8
+           -71) Bethencourt J. Der Tag, an dem der Papst Papst gekidnappt wurde (im Doppel vorhanden)
+           -72) Bethencourt J. Bonifacio und die Billionen
+           -Komödie in 4 Bildern
+           -73) Denger F. Marie vom Hinterhof - - ein Schauspiel für eine Person in drei Akten
+           -74) Deval J. Die Frau deiner Jugend, 1948; Stück in 3 Akten
+           -75) Freuler K. Erschaft aus Amerika
+           -Balz
+           -76) Honegger A. Jeanne d'Arc au bûcher
+           -Bruder Dominik
+           -77) Lesch W. Kleine Niederdorf-Oper Antiquar Benz
+           -78) Wurmbrand 5 Hefte: Stück Tauerngold - -; Irmgard

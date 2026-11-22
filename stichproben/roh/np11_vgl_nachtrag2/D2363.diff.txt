@@ -1,0 +1,52 @@
+### D2363: vorher 13 Einheiten, nachher 13 Einheiten
+GEÄ  V.J.c.65.:5 [ID 5, Dossier, E1, Eltern -, S.1] Kinderunterlagen: Ferienkinder 2000, Humanitäre Aktion: Ferien f. | Von/bis (>= x und <=y)
+        Titel: 'Kinderunterlagen: Ferienkinder, Humanitäre Aktion: Ferien f.' => 'Kinderunterlagen: Ferienkinder 2000, Humanitäre Aktion: Ferien f.'
+        Entstehungszeitraum: 'Genau (=)' => 'Von/bis (>= x und <=y)'
+        von: '2000' => '1998'
+        bis: '' => '2004'
+        [Darin]
+           -
+           +Tschernobylkinder 1998, Krippenferienkinder 1998-2001, Krippenferien 2004
+        Zeitraum-Quelle: 'Titel' => 'Titel und Darin (geschätzt)'
+        [Prüfhinweise]
+           +Zeitraum aus den Jahreszahlen in Titel und Darin geschätzt.
+GEÄ  V.J.c.65.:6 [ID 6, Dossier, E1, Eltern -, S.1] Nebenauslagen/Kinderr | Von/bis (>= x und <=y)
+        Titel: 'Tschernobylkinder 1998, Krippenferienkinder 1998-2001, Krippenferien 2004' => 'Nebenauslagen/Kinderr'
+        bis: '2004' => '1996'
+        [Darin]
+           -Nebenauslagen/Kinderr 1993-1996
+           +
+        Zeitraum-Quelle: 'Titel und Darin (geschätzt)' => 'Titel'
+        [Prüfhinweise]
+           -Mehrere Zeitangaben im Titel (1998, 1998-2001, 2004).
+           -Zeitraum aus den Jahreszahlen in Titel und Darin geschätzt.
+GEÄ  V.J.c.65.:7 [ID 7, Dossier, E1, Eltern -, S.1] Protokoll Liniensitzung mit Abteilungsleiterin | Von/bis (>= x und <=y)
+        [Darin]
+           -
+           +Protokoll Haussitzung 1995-2004
+GEÄ  V.J.c.65.:8 [ID 8, Dossier, E1, Eltern -, S.2] Schachtel 8 | Von/bis (>= x und <=y)
+        [Darin]
+           -Protokoll Haussitzung 1995-2004
+           +Fotos, Revisionsbericht 2000
+        PDF-Seite: '1' => '2'
+GEÄ  V.J.c.65.:9 [ID 9, Dossier, E1, Eltern -, S.2] Sitzungsprotokoll 2000-2004 | Von/bis (>= x und <=y)
+        Titel: 'Fotos, Revisionsbericht 2000' => 'Sitzungsprotokoll 2000-2004'
+        von: '2000' => '1995'
+        [Darin]
+           -Sitzungsprotokoll 2000-2004
+           +Sitzungen Leitungsteam, 1997-2003
+           +Hauswirtschaftssitzungen 1996-2004
+           +Sitzungen Kinderbetreuung 1995-2004
+           +Kassensturz-Protokolle 2000-2002
+GEÄ  V.J.c.65.:10 [ID 10, Dossier, E1, Eltern -, S.2] Gästedossier 1995-2004 A - F | Von/bis (>= x und <=y)
+        Titel: 'Sitzungen Leitungsteam, 1997-2003' => 'Gästedossier 1995-2004 A - F'
+        [Darin]
+           -Hauswirtschaftssitzungen 1996-2004
+           -Sitzungen Kinderbetreuung 1995-2004
+           -Kassensturz-Protokolle 2000-2002
+           -Gästedossier 1995-2004 A
+           -F
+           +
+        Zeitraum-Quelle: 'Titel und Darin (geschätzt)' => 'Titel'
+        [Prüfhinweise]
+           -Zeitraum aus den Jahreszahlen in Titel und Darin geschätzt.

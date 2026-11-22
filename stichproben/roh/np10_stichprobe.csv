@@ -1,0 +1,56 @@
+datei;gliederung;einheiten;max_seite;max_ebene;geprueft;geaendert_r8;verdacht;grund
+D10649;fortlaufend;12;2;1;;;N;verdacht N
+D1173;Vollsignatur;24;2;1;;;;zufall Vollsignatur b 11–50
+D1255;Vollsignatur;10;1;1;;;;zufall Vollsignatur a ≤10
+D1295;Vollsignatur;5;1;1;;;;zufall Vollsignatur a ≤10
+D141062;Vollsignatur;4;2;1;;;N;verdacht N
+D1574;Vollsignatur;14;1;1;;;;zufall Vollsignatur b 11–50
+D1660;Vollsignatur;5;1;1;;;;zufall Vollsignatur a ≤10
+D175827;dezimal;33;9;2;;;V;verdacht V
+D175949;römisch/Buchstaben;16;2;1;;;;zufall römisch/Buchstaben b 11–50
+D176772;dezimal;22;13;3;;;Z;verdacht Z
+D177460;Buchstabe+Nr.;167;20;2;;;;zufall Buchstabe+Nr. c 51–200
+D1797;Vollsignatur;1;1;1;;;;zufall Vollsignatur a ≤10
+D1803;Vollsignatur;6;2;2;;;Z;verdacht Z
+D1822;Vollsignatur;10;1;1;;;;zufall Vollsignatur a ≤10
+D188;fortlaufend;16;1;1;;;;zufall fortlaufend b 11–50
+D1918;Vollsignatur;1;1;1;;;;zufall Vollsignatur a ≤10
+D2085;Vollsignatur;13;1;1;;;;zufall Vollsignatur b 11–50
+D2363;Mappen/Schachteln;13;2;1;;;Z;verdacht Z
+D2502;Vollsignatur;19;1;2;;;;zufall Vollsignatur b 11–50
+D2508;Mappen/Schachteln;16;13;1;;;N;verdacht N
+D2649;ohne Signaturen;1;1;1;;;;zufall ohne Signaturen a ≤10
+D2695;fortlaufend;2;2;1;;;;zufall fortlaufend a ≤10
+D2723;fortlaufend;2;3;1;;;;zufall fortlaufend a ≤10
+D2753;ohne Signaturen;1;1;1;;;;zufall ohne Signaturen a ≤10
+D2776;fortlaufend;21;2;1;;;N;verdacht N
+D2828;dezimal;90;8;2;;;N;verdacht N
+D2834;Mappen/Schachteln;2;1;1;;;;zufall Mappen/Schachteln a ≤10
+D2853;römisch/Buchstaben;14;5;4;;;Z;verdacht Z
+D2861;dezimal;99;6;3;;;;zufall dezimal c 51–200
+D2958;dezimal;41;3;2;;;;zufall dezimal b 11–50
+D3043;fortlaufend;6;2;1;;;;zufall fortlaufend a ≤10
+D32738;fortlaufend;23;2;1;;;N;verdacht N
+D3293;dezimal;22;4;2;;;N;verdacht N
+D3382;dezimal;11;2;2;;;;zufall dezimal b 11–50
+D3415;dezimal;10;2;2;;;N;verdacht N
+D3459;dezimal;12;1;2;;;N;verdacht N
+D3468;fortlaufend;852;58;2;;;N;verdacht N
+D3561;dezimal;18;4;2;;;N;verdacht N
+D3575;fortlaufend;2;1;1;;;;zufall fortlaufend a ≤10
+D3579;fortlaufend;6;2;1;;;N;verdacht N
+D3593;dezimal;11;4;2;;;N;verdacht N
+D3596;dezimal;55;8;4;;;;zufall dezimal c 51–200
+D3599;dezimal;25;5;2;;;;zufall dezimal b 11–50
+D3604;Mappen/Schachteln;2;3;1;;;Z;verdacht Z
+D3688;dezimal;12;2;2;;;;zufall dezimal b 11–50
+D3725;Mappen/Schachteln;7;2;1;;;Z;verdacht Z
+D3736;fortlaufend;7;3;2;;;N;verdacht N
+D3742;fortlaufend;22;4;1;;;N;verdacht N
+D3750;fortlaufend;17;2;1;;;N;verdacht N
+D3761;dezimal;58;4;3;;;N;verdacht N
+D3767;fortlaufend;36;4;1;;;N;verdacht N
+D3820;dezimal;715;33;4;;;;zufall dezimal d >200 (Zusatz: grosse Dateien)
+D3898;Vollsignatur;102;5;1;;;;zufall Vollsignatur c 51–200
+D814;Mappen/Schachteln;65;3;1;;;Z;verdacht Z
+D8947;fortlaufend;2;1;1;;;N;verdacht N

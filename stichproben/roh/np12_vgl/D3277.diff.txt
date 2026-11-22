@@ -1,0 +1,15 @@
+### D3277: vorher 10 Einheiten, nachher 11 Einheiten
+NEU  VII.242. [ID 11, Bestand, E1, Eltern -, S.3] Dr. Hedwig Strehler, Historikerin und Rektorin an der Töchterschule Zürich. Nachlass | Von/bis (>= x und <=y)
+        D: Grossformate: Hedwig Strehler (Bleistiftzeichnung von G. G. Waser); Geschenk anlässlich des Rücktritts von Hedwig Strehler als Rektorin der Töcherschule Abteilu
+        H: Stück ohne Nummer im Findmittel («Grossformate: Hedwig Strehler (Bleistiftzeichnung von G. G. Waser); Ge», S. 3) – hier beim Bestand übernommen (keine Signatur erfunden); in scope beim Bestand ergänzen oder von Hand als Einheit anlegen.
+GEÄ  VII.242.:10 [ID 10, Dossier, E1, Eltern -, S.2] (Nachträge) | Von/bis (>= x und <=y)
+        von: '1921' => '18.11.1936'
+        [Darin]
+           -Grossformate: Hedwig Strehler (Bleistiftzeichnung von G. G. Waser); Geschenk anlässlich des Rücktritts von Hedwig Strehler als Rektorin der Töcherschule Abteil
+           -Hauptwerke von H. Strehler [in der Bibliothek des Stadtarchivs]:
+           -Aus der Vergangenheit unseres Grossmünsterschulhauses, Vortrag von H. S. anlässlich der Schlussfeier am 28. März 1942 in der Französischen Kirche, in: Schule u
+           -Beiträge zur Kulturgeschichte der Zürcher Landschaft, Kirche und Schule im 17. und 18. Jahrhundert, Diss. Uni ZH, Lachen 1934 [Cb 340].
+           -Der Zürcher Kindergarten in seiner Entwicklung und Wandlung, in: Mitteilungen des Schulrates der Stadt Zürich an die Eltern der Volksschüler, 20. Jahrgang, Hef
+           -Kulturgeschichtliche Bilder aus der Zürcher Landschaft im 17. und 18. Jahrhundert, in: Zürcher Taschenbuch auf das Jahr 1935, Zürich 1934, S. 32-119 [Pc 2:1935
+           -Von der Ufenau, in: Jahrbuch vom Zürichsee 1954-1955, Zürichseebuch Bd. 16, hrg. vom Verband zum Schutze des Landschaftsbildes am Zürichsee, Zürich 1955, S. 38
+           -Briefwechsel Stehler-Ragaz: 17. Dezember 2010 / RD

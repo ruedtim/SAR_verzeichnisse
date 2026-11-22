@@ -1,0 +1,171 @@
+### D175949: vorher 16 Einheiten, nachher 41 Einheiten
+NEU  VII.310.:A.1 [ID 2, Dossier, E2, Eltern VII.310.:A, S.1] AV Orion | Von/bis (>= x und <=y)
+NEU  VII.310.:A.2 [ID 3, Dossier, E2, Eltern VII.310.:A, S.1] AV Orion | Von/bis (>= x und <=y)
+NEU  VII.310.:A.3 [ID 4, Dossier, E2, Eltern VII.310.:A, S.1] AV Orion | Von/bis (>= x und <=y)
+NEU  VII.310.:A.4 [ID 5, Dossier, E2, Eltern VII.310.:A, S.1] AV Orion | Von/bis (>= x und <=y)
+NEU  VII.310.:A.5 [ID 6, Dossier, E2, Eltern VII.310.:A, S.1] AV Orion | Von/bis (>= x und <=y)
+NEU  VII.310.:B.1 [ID 8, Dossier, E2, Eltern VII.310.:B, S.1] Statuten, Blaubuch, Pflichtenhefte | 
+NEU  VII.310.:C.1 [ID 10, Dossier, E2, Eltern VII.310.:C, S.1] Karteikarten Mitglieder AV Orion | Von/bis (>= x und <=y)
+        H: Offener Zeitraum (nur Beginn oder nur Ende).
+NEU  VII.310.:C.2 [ID 11, Dossier, E2, Eltern VII.310.:C, S.1] Mitgliederlisten 1964- Semesterprogramme 1964- Heiraten, Geburten, Todesfälle 1964- Beiträge in der „Civitas“ | Von/bis (>= x und <=y)
+        H: Mehrere Zeitangaben im Titel (1964-, 1964-, 1964-, 1966-).
+Offener Zeitraum (nur Beginn oder nur Ende).
+NEU  VII.310.:C.3 [ID 12, Dossier, E2, Eltern VII.310.:C, S.1] Aufnahmegesuche 1964- Austritte / Ausschlüsse Beichten | Von/bis (>= x und <=y)
+        H: Offener Zeitraum (nur Beginn oder nur Ende).
+NEU  VII.310.:D.1 [ID 14, Dossier, E2, Eltern VII.310.:D, S.1] Kassenbuch | Von/bis (>= x und <=y)
+        D: Quittungsbücher
+        D: Belege/Rechnungen
+        D: Revisorenberichte
+        D: Erfolgsrechnungen und Budgets
+NEU  VII.310.:E.1 [ID 16, Dossier, E2, Eltern VII.310.:E, S.1] Allgemeine Unterlagen Fuchsenschule (.u.a. Komment) Fuxenschule | Von/bis (>= x und <=y)
+        H: Offener Zeitraum (nur Beginn oder nur Ende).
+NEU  VII.310.:F.1 [ID 18, Dossier, E2, Eltern VII.310.:F, S.1] Orioner Ball | Von/bis (>= x und <=y)
+NEU  VII.310.:G.1 [ID 20, Dossier, E2, Eltern VII.310.:G, S.1] Fahnenweihe | Genau (=)
+        D: 25-Jahr-Jubiläum 1989
+        D: 30-Jahr-Jubiläum 1994
+NEU  VII.310.:H.1 [ID 22, Dossier, E2, Eltern VII.310.:H, S.2] Neuester Orioner Anzeiger (NOA) | Von/bis (>= x und <=y)
+NEU  VII.310.:I.1 [ID 24, Dossier, E2, Eltern VII.310.:I, S.2] Couleurmaterial (v. a. Akten zu Zipfel und Mützen) | 
+NEU  VII.310.:K.1 [ID 26, Dossier, E2, Eltern VII.310.:K, S.2] Altorion | 
+NEU  VII.310.:L.1 [ID 28, Dossier, E2, Eltern VII.310.:L, S.2] Schriften über andere Verbindungen (v. a. Vereinsgeschichten) | 
+NEU  VII.310.:M.1 [ID 30, Dossier, E2, Eltern VII.310.:M, S.2] StV | Von/bis (>= x und <=y)
+        H: Offener Zeitraum (nur Beginn oder nur Ende).
+NEU  VII.310.:M.2 [ID 31, Dossier, E2, Eltern VII.310.:M, S.2] StV | Von/bis (>= x und <=y)
+        H: Offener Zeitraum (nur Beginn oder nur Ende).
+NEU  VII.310.:M.3 [ID 32, Dossier, E2, Eltern VII.310.:M, S.2] Strukturreform StV | Genau (=)
+        D: Bildungsmappe StV 1989
+NEU  VII.310.:N.1 [ID 34, Dossier, E2, Eltern VII.310.:N, S.2] StVZ | Von/bis (>= x und <=y)
+        H: Offener Zeitraum (nur Beginn oder nur Ende).
+NEU  VII.310.:O.1 [ID 36, Dossier, E2, Eltern VII.310.:O, S.2] Berner-Gruppe | Von/bis (>= x und <=y)
+NEU  VII.310.:O.2 [ID 37, Dossier, E2, Eltern VII.310.:O, S.2] Reformgruppe | Von/bis (>= x und <=y)
+        H: Offener Zeitraum (nur Beginn oder nur Ende).
+NEU  VII.310.:P.1 [ID 39, Dossier, E2, Eltern VII.310.:P, S.2] CCZ | Von/bis (>= x und <=y)
+NEU  VII.310.:Q.1 [ID 41, Dossier, E2, Eltern VII.310.:Q, S.2] AV Orion Message Board | Von/bis (>= x und <=y)
+        D: 17. April 1998 béatrice wiggenhauser
+GEÄ  VII.310.:A [ID 1, Teilbestand, E1, Eltern -, S.1] Akten chronologisch | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Teilbestand'
+        [Darin]
+           -A.1 AV Orion 1964-1972
+           -A.2 AV Orion 1973-1975
+           -A.3 AV Orion 1976-1979
+           -A.4 AV Orion 1980-1986
+           -A.5 AV Orion 1986-1992
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.310.:B [ID 7, Teilbestand, E1, Eltern -, S.1] Rechtliches | 
+        Stufe: 'Dossier' => 'Teilbestand'
+        [Darin]
+           -B.1 Statuten, Blaubuch, Pflichtenhefte
+           +
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => 'Kein Zeitraum gefunden (auch nicht in den Untereinheiten).'
+GEÄ  VII.310.:C [ID 9, Teilbestand, E1, Eltern -, S.1] Persönliches | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Teilbestand'
+        bis: '1966' => ''
+        [Darin]
+           -C.1 Karteikarten Mitglieder AV Orion 1964- C.2 Mitgliederlisten 1964- Semesterprogramme 1964- Heiraten, Geburten, Todesfälle 1964- Beiträge in der „Civitas“ 19
+           -Beichten
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => 'Offener Zeitraum (nur Beginn oder nur Ende).'
+GEÄ  VII.310.:D [ID 13, Teilbestand, E1, Eltern -, S.1] Finanzielles | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Teilbestand'
+        [Darin]
+           -D.1 Kassenbuch 1966-1986
+           -Quittungsbücher
+           -Belege/Rechnungen
+           -Revisorenberichte
+           -Erfolgsrechnungen und Budgets
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.310.:E [ID 15, Teilbestand, E1, Eltern -, S.1] Fuchsenschule | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Teilbestand'
+        Entstehungszeitraum: 'Genau (=)' => 'Von/bis (>= x und <=y)'
+        [Darin]
+           -E.1 Allgemeine Unterlagen Fuchsenschule (.u.a. Komment)
+           -Fuxenschule 1984
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => 'Offener Zeitraum (nur Beginn oder nur Ende).'
+GEÄ  VII.310.:F [ID 17, Teilbestand, E1, Eltern -, S.1] Ball | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Teilbestand'
+        [Darin]
+           -F.1 Orioner Ball 1982-1993
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.310.:G [ID 19, Teilbestand, E1, Eltern -, S.1] Besondere Anlässe | Genau (=)
+        Stufe: 'Dossier' => 'Teilbestand'
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => 'Genau (=)'
+        bis: '1994' => ''
+        [Darin]
+           -G.1 Fahnenweihe 1985
+           -25-Jahr-Jubiläum 1989
+           -30-Jahr-Jubiläum 1994
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.310.:H [ID 21, Teilbestand, E1, Eltern -, S.2] Verbindungszeitschrift | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Teilbestand'
+        [Darin]
+           -H.1 Neuester Orioner Anzeiger (NOA) 1984-1992
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.310.:I [ID 23, Teilbestand, E1, Eltern -, S.2] Couleurmaterial | 
+        Stufe: 'Dossier' => 'Teilbestand'
+        [Darin]
+           -I.1 Couleurmaterial (v. a. Akten zu Zipfel und Mützen)
+           +
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => 'Kein Zeitraum gefunden (auch nicht in den Untereinheiten).'
+GEÄ  VII.310.:K [ID 25, Teilbestand, E1, Eltern -, S.2] Alt-Orion | 
+        Titel: 'Alt-Orion K.1 Altorion' => 'Alt-Orion'
+        Stufe: 'Dossier' => 'Teilbestand'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => 'Kein Zeitraum gefunden (auch nicht in den Untereinheiten).'
+GEÄ  VII.310.:L [ID 27, Teilbestand, E1, Eltern -, S.2] Andere Verbindungen | 
+        Stufe: 'Dossier' => 'Teilbestand'
+        [Darin]
+           -L.1 Schriften über andere Verbindungen (v. a. Vereinsgeschichten)
+           +
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => 'Kein Zeitraum gefunden (auch nicht in den Untereinheiten).'
+GEÄ  VII.310.:M [ID 29, Teilbestand, E1, Eltern -, S.2] Schweizerischer Studenternverein (StV) | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Teilbestand'
+        bis: '1989' => '1976'
+        [Darin]
+           -M.1 StV 1966- M.2 StV 1976- M.3 Strukturreform StV 1975
+           -Bildungsmappe StV 1989
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.310.:N [ID 33, Teilbestand, E1, Eltern -, S.2] Schweizerischer Studentenverein Zürich (StVZ) | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Teilbestand'
+        Entstehungszeitraum: 'Genau (=)' => 'Von/bis (>= x und <=y)'
+        [Darin]
+           -N.1 StVZ 1964
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => 'Offener Zeitraum (nur Beginn oder nur Ende).'
+GEÄ  VII.310.:O [ID 35, Teilbestand, E1, Eltern -, S.2] Berner Gruppe / Reformgruppe | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Teilbestand'
+        [Darin]
+           -O.1 Berner-Gruppe 1965-1974
+           -O.2 Reformgruppe 1983
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.310.:P [ID 38, Teilbestand, E1, Eltern -, S.2] Corporationen Convent zu Zürich | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Teilbestand'
+        [Darin]
+           -P.1 CCZ 1983-1986
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.310.:Q [ID 40, Teilbestand, E1, Eltern -, S.2] Internet: Message-Board | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Teilbestand'
+        von: '17.04.1998' => '21.04.2001'
+        [Darin]
+           -Q.1 AV Orion Message Board 21. April 2001 – 20. März 2004
+           -17. April 1998 béatrice wiggenhauser
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''

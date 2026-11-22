@@ -1,0 +1,23 @@
+### D1967: vorher 13 Einheiten, nachher 13 Einheiten
+GEÄ  V.G.c.9.:2. [ID 2, Dossier, E1, Eltern -, S.1] Inventar des Stadtbauamtsarchives | Genau (=)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.G.c.9.:3. [ID 3, Dossier, E1, Eltern -, S.1] Vergebung von Bauten der Stadt Zürich | Genau (=)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.G.c.9.:4. [ID 4, Dossier, E1, Eltern -, S.1] Unterstützungskasse der städtischen Bauarbeiter | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.G.c.9.:5. [ID 5, Dossier, E1, Eltern -, S.1] Die städtische Bauordnung vom 30. Juni 1863 Von Dr. H. Meyer, Bausekretär | Genau (=)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.G.c.9.:6. [ID 6, Dossier, E1, Eltern -, S.1] Electrics Uhren | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.G.c.9.:6a. [ID 7, Dossier, E1, Eltern -, S.1] Aufzeichnungen über Baufragen von David Nüscheler | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.G.c.9.:8. [ID 9, Dossier, E1, Eltern -, S.1] Telephonische Verbindung des Zentralfriedhofes in Wiedikon mit dem Bureau des Sekretärs der Friedhofkommission im Stadthause | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.G.c.9.:9. [ID 10, Dossier, E1, Eltern -, S.1] Gemeinsames Katasterbüro | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.G.c.9.:10. [ID 11, Dossier, E1, Eltern -, S.1] Kraftabgabe für die Schweizerische Landesausstellung | Genau (=)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.G.c.9.:11. [ID 12, Dossier, E1, Eltern -, S.1] Tagesrapporte des Stadtingenieurs und des Stadtbaumeisters an den Bauherrn. Muster. | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.G.c.9.:12. [ID 13, Dossier, E1, Eltern -, S.1] Berichte der Ausgemeinden über den Stand der Versicherung der Gemeindeangestellten auf Ende 1892 | Genau (=)
+        Schachtel-Nr.: '' => '2'

@@ -1,0 +1,48 @@
+### D3170: vorher 384 Einheiten, nachher 384 Einheiten
+WEG  VII.209.:7.2.1. [ID 335, Serie, E3, Eltern VII.209.:7.2., S.40] c.1967/68 | Von/bis (>= x und <=y)
+        D: Hampton, Christopher: Wann hast Du meine Mutter zum letzten Mal gesehen?
+        D: Kafka, Franz: Berichte
+        D: Gombrowicz, Witold: Yvonne, Prinzessin von Burgund
+        D: Smocek, Ladislav: Irrgärten
+        D: Handke, Peter / Beckett, Samuel: Selbstbezichtigung; Hilferufe; Kommen und Gehen; Akt ohne Worte
+        D: Mercer, David: Hoppe, hoppe Reiter! (Gastspiel Schauspielhaus)
+        D: Muschg, Adolf: Rumpelstilzchen
+WEG  VII.209.:7.2.1./T2 [ID 339, Dossier, E4, Eltern VII.209.:7.2.1., S.41] e.1969/70 | 
+        D: Orton, Joe: Verbrechen aus Leidenschaft; Der Rowdy auf der Treppe; Ferien bei Erpingham
+        D: Der wahre Inspektor Hound
+NEU  VII.209.:7.2.1.c. [ID 337, Dossier, E3, Eltern VII.209.:7.2., S.40] 1967/68 | Von/bis (>= x und <=y)
+        D: Hampton, Christopher: Wann hast Du meine Mutter zum letzten Mal gesehen?
+        D: Kafka, Franz: Berichte
+        D: Gombrowicz, Witold: Yvonne, Prinzessin von Burgund
+        D: Smocek, Ladislav: Irrgärten
+        D: Handke, Peter / Beckett, Samuel: Selbstbezichtigung; Hilferufe; Kommen und Gehen; Akt ohne Worte
+        D: Mercer, David: Hoppe, hoppe Reiter! (Gastspiel Schauspielhaus)
+        D: Muschg, Adolf: Rumpelstilzchen
+        H: Übergeordnete Signatur 7.2.1. fehlt im Findmittel; eingehängt unter 7.2.
+NEU  VII.209.:7.2.1.e. [ID 339, Dossier, E3, Eltern VII.209.:7.2., S.41] 1969/70 | Von/bis (>= x und <=y)
+        D: Orton, Joe: Verbrechen aus Leidenschaft; Der Rowdy auf der Treppe; Ferien bei Erpingham
+        D: Der wahre Inspektor Hound
+        H: Übergeordnete Signatur 7.2.1. fehlt im Findmittel; eingehängt unter 7.2.
+GEÄ  VII.209.:7.2.1.a. [ID 335, Dossier, E3, Eltern VII.209.:7.2., S.40] 1965/66 | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.209.:7.2.1.' => 'VII.209.:7.2.'
+        Prüfhinweise: '' => 'Übergeordnete Signatur 7.2.1. fehlt im Findmittel; eingehängt unter 7.2.'
+        Eltern: 'VII.209.:7.2.1.' => 'VII.209.:7.2.'
+GEÄ  VII.209.:7.2.1.b. [ID 336, Dossier, E3, Eltern VII.209.:7.2., S.40] 1966/67 | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.209.:7.2.1.' => 'VII.209.:7.2.'
+        [Prüfhinweise]
+           +Übergeordnete Signatur 7.2.1. fehlt im Findmittel; eingehängt unter 7.2.
+        Eltern: 'VII.209.:7.2.1.' => 'VII.209.:7.2.'
+GEÄ  VII.209.:7.2.1.d. [ID 338, Dossier, E3, Eltern VII.209.:7.2., S.41] 1968/69 | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.209.:7.2.1.' => 'VII.209.:7.2.'
+        Prüfhinweise: '' => 'Übergeordnete Signatur 7.2.1. fehlt im Findmittel; eingehängt unter 7.2.'
+        Eltern: 'VII.209.:7.2.1.' => 'VII.209.:7.2.'
+GEÄ  VII.209.:7.2.1.f. [ID 340, Dossier, E3, Eltern VII.209.:7.2., S.41] 1970/71 | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.209.:7.2.1.' => 'VII.209.:7.2.'
+        Prüfhinweise: '' => 'Übergeordnete Signatur 7.2.1. fehlt im Findmittel; eingehängt unter 7.2.'
+        Eltern: 'VII.209.:7.2.1.' => 'VII.209.:7.2.'
+GEÄ  VII.209.:7.2.2. [ID 341, Dossier, E3, Eltern VII.209.:7.2., S.42] 1971/72 | Von/bis (>= x und <=y)
+        Prüfhinweise: '' => 'Nummerierung beginnt bei 2.'

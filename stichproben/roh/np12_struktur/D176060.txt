@@ -1,0 +1,15 @@
+### D176060 – dezimal – 1293 Einheiten – Bestand VII.423.
+Zusammenfassung: DARIN 4, HINWEIS 7, LÜCKE 1, OHNE 1
+[DARIN] ID 131 VII.423.:1.130. Darin 1: 18. August 1995 in Hüningen vom 26. Juli 1996
+[HINWEIS] ID 228 VII.423.:3.6.3.4. S.16 | Steht im Findmittel unter der Zwischenüberschrift «(Enthält Patientendaten!)».
+[HINWEIS] ID 229 VII.423.:3.6.3.5. S.16 | Steht im Findmittel unter der Zwischenüberschrift «(Enthält Patientendaten!)».
+[HINWEIS] ID 230 VII.423.:3.6.3.6. S.16 | Steht im Findmittel unter der Zwischenüberschrift «(Enthält Patientendaten!)».
+[HINWEIS] ID 231 VII.423.:3.6.3.7. S.16 | Steht im Findmittel unter der Zwischenüberschrift «(Enthält Patientendaten!)».
+[HINWEIS] ID 232 VII.423.:3.6.3.8. S.16 | Steht im Findmittel unter der Zwischenüberschrift «(Enthält Patientendaten!)».
+[HINWEIS] ID 243 VII.423.:3.6.4.8. S.17 | Steht im Findmittel unter der Zwischenüberschrift «(Enthält Patientendaten!)».
+[HINWEIS] ID 486 VII.423.:7.4.1.22. S.31 | Nummerierung springt: nach 20 folgt 22.
+[DARIN] ID 636 VII.423.:12.4. Darin 1: 22. September 1988 mit Beitrag von Cornelia Kranich „Die Prostituierte – Die Sucht des Freiers. Wie 
+[DARIN] ID 649 VII.423.:12.17. Darin 1: 23. September 1994
+[DARIN] ID 655 VII.423.:12.23. Darin 1: 27. September 1995
+[LÜCKE] 21–21 fehlen vor ID 486 VII.423.:7.4.1.22. (Eltern 465) S.31
+[OHNE] ID 491 P490 E5 Dossier VII.423.:7.4.1.26. T2 S.32 Sch.- | 1995– | „Pathologies somatiques liées à la Toxicomanie“

@@ -1,0 +1,7 @@
+### D3204: vorher 51 Einheiten, nachher 51 Einheiten
+GEÄ  VII.22.:11. [ID 11, Dossier, E1, Eltern -, S.2] Aufruf an die Schweizerische Nation zu (sic) Rettung der durch Versumpfung ins Elend gestürzten Bewohner der Gestade des Wallen-Sees und des untern Linth-Thales [...]. o. | Genau (=)
+        [Darin]
+           -Officielles Notizenblatt die Linthunternehmung betreffend (3 Bände, 1807 – 1829):
+           +
+GEÄ  VII.22.:12. [ID 12, Dossier, E1, Eltern -, S.2] Officielles Notizenblatt die Linthunternehmung betreffend. Bd. 1. Stück 1 - 7. Zürich 1807 -1809. 459 S., Pläne. | Von/bis (>= x und <=y)
+        Prüfhinweise: '' => 'Steht im Findmittel unter der Zwischenüberschrift «Officielles Notizenblatt die Linthunternehmung betreffend (3 Bände, 1807 – 1829)».'

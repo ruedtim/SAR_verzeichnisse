@@ -1,0 +1,21 @@
+NP13: Prüfung der neuen Hinweise der Runde 10 «… zwischen … – als … gelesen» / «mitten unter den Einträgen» (Regel 9) an der
+PDF-Folge (Zeilen-Cache), von der Prüfsession. 12 Fälle.
+
+richtig (10):
+  D149628 20.1.2.19. -> 20.1.3.19. (K124)      zwischen 20.1.3.18. und 20.1.3.20.
+  D149628 28.1.1.3.  -> 27.1.1.3. (K125)       vor den Teilen von 27.1.1.3., wird deren Kopf
+  D149628 29.2.9.    -> 29.1.9. (K126)         zwischen 29.1.8. und 29.1.10.
+  D150296 3.3.7.     -> 3.4.7. (K149)          zwischen 3.4.6. und 3.4.8.
+  D151210 4.1.2.38.  -> 4.1.3.38.              zwischen 4.1.3.37. und 4.1.3.39.
+  D2857   1.224.3..  -> 1.2.25.3. (K132)       zwischen 1.2.25.2. und 1.2.25.4.
+  D32837  1.1.2.1.1. -> 1.2.1.1. Teil 15 (K129) mitten in den Programmen 1.2.1.1.
+  D4054   10.8.2.10. -> 10.3.2.10. (K139)      zwischen 10.3.2.9. und 10.3.2.11.
+  D4054   10.8.4.    -> 10.3.4. Teil 5 (K140)  mitten in den Teilen von 10.3.4.
+  D2992   3.         -> 1.3.                   Signatur war schon vorher 1.3. (Inhaltsverzeichnis «1.3. Werbefilme»); nur der Hinweistext ist neu
+
+Fehlgriff (2, mittel):
+  D3470   40.430 -> 42.430., 41.436 -> 42.436.
+          Vorspann S. 1: «Die erste Nummer ist im ersten Teil des Bestandes frei gewählt worden. Ab 1933 bildet die
+          Jahreszahl den ersten Teil der Untersignatur. Die zweite Zahl dieser Untersignatur ist fortlaufend durch den ganzen
+          Bestand.» Die erste Nummer ist also kein Gruppenpräfix (S. 22: 39.428, 42.429, 40.430, 42.431 … 43.451, 44.448,
+          45.0). Die Datei ist flach, darum nur die Signatur falsch (mittel, S1 in roh/np13_S_funde.csv).

@@ -1,0 +1,17 @@
+### D177460: vorher 596 Einheiten, nachher 598 Einheiten
+NEU  VII.267.:I 1:3 [ID 332, Dossier, E3, Eltern VII.267.:I 1, S.12] Untugendspiegel | Von/bis (>= x und <=y)
+        H: Im Findmittel «I.1:3» – als «I 1:3» gelesen, bitte prüfen.
+NEU  VII.267.:P 2:10 [ID 582, Dossier, E3, Eltern VII.267.:P 2, S.19] Musikdose-Laufwerk «Mein Lebenslauf» inkl. Schlüssel (Melodie des Verbindungskantus) | 
+        H: Im Findmittel «P2:10» – als «P 2:10» gelesen, bitte prüfen.
+Kein Zeitraum gefunden.
+GEÄ  VII.267.:I 1:2 [ID 331, Dossier, E3, Eltern VII.267.:I 1, S.12] Zwischenspiegel | Von/bis (>= x und <=y)
+        [Darin]
+           -I.1:3 Untugendspiegel 1919 – 1959
+           +
+GEÄ  VII.267.:P 2:9 [ID 581, Dossier, E3, Eltern VII.267.:P 2, S.19] Zürcher Singstudenten, Verein Operetten für Zürich: Orpheus im Kaufleuten Zürich (CD) | Genau (=)
+        [Darin]
+           -P2:10 Musikdose-Laufwerk «Mein Lebenslauf» inkl. Schlüssel (Melodie des Verbindungskantus)
+           +
+GEÄ  VII.267.:P 2:11 [ID 583, Dossier, E3, Eltern VII.267.:P 2, S.19] Die Ära Lazi. Ladislaus Rybach als Direktor der Zürcher Singstudenten 1968-1989, Ausschnitte aus Konzertaufnahmen der Jahre 1974-1989 (CD) | Von/bis (>= x und <=y)
+        [Prüfhinweise]
+           -Nummerierung springt: nach 9 folgt 11.

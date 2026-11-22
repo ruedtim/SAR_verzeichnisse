@@ -1,0 +1,15 @@
+### D3945: vorher 67 Einheiten, nachher 67 Einheiten
+GEÄ  X.H.13. [ID 13, Dossier, E1, Eltern -, S.1] Gemeindewappen Oberstrass 2,5 cm x 2,7 cm (doppelt vorhanden) | 
+        Titel: 'Gemeindewappen Oberstrass 2,5 cm x 2,7 cm Signatur Beschreibung Format' => 'Gemeindewappen Oberstrass 2,5 cm x 2,7 cm (doppelt vorhanden)'
+        [Darin]
+           -(doppelt vorhanden)
+           +
+GEÄ  X.H.28. [ID 28, Dossier, E1, Eltern -, S.2] Zwei stehende Löwen als Schildhalter des 4,8 cm x 6,7 cm Zürcher Vollwappens mit dreizinniger | 
+        [Darin]
+           -Signatur Beschreibung Format
+GEÄ  X.H.44. [ID 44, Dossier, E1, Eltern -, S.4] Gemeindewappen Hottingen 2,6 cm x 2,6 cm | 
+        [Prüfhinweise]
+           -Steht im Findmittel unter der Zwischenüberschrift «Signatur Beschreibung Format».
+GEÄ  X.H.62. [ID 62, Dossier, E1, Eltern -, S.5] Stehende Frau, sich mit der Rechten auf den 4,6 cm x 4,8 cm Zürcher Wappenschild stützend, mit der Linken einen Lorbeerkranz über einen stehenden Engel haltend, in der Mi | 
+        [Prüfhinweise]
+           -Steht im Findmittel unter der Zwischenüberschrift «Signatur Beschreibung Format».

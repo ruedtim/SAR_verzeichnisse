@@ -1,0 +1,794 @@
+datei;paket;einheiten;umfang_geprueft;kritisch;mittel;gering;urteil;urteil_jetzt;signale;schluss;info;nicht_uebernommen;bemerkung
+D151150;G1;649;"Diff ganz (3 WEG/NEU, 2 GEÄ) am PDF S. 6 und 12 (Zeilen-Cache, pdftotext); Skript über alle Nr.-Zeilen x72 (weitere Zweinummer-Fälle); Info/Vollständigkeit/Prüfliste alt↔neu; Rest zellgleich mit Runde 11 (NP14 G1: Abschnitt 9 ganz geprüft)";0;0;1;ohne kritischen Fehler;ohne kritischen Fehler;"[SIG?] 184 = Mappen-Rauschen (PDF «412», Excel «9.412/415.»); [VOR] 7/[NACH] 1 = gleichlautende Folgezeilen (z. B. «Tierfutter» y264 → ID 245)";;;;Regel 6 richtig: 412/415, 1516/1517, 1523/1524 je ein Dossier, Titel ganz, ohne fremde Teile (412/415 bekannt, G1-1 und G1-2 der NP14 behoben). Gering bekannt: 9.395./T2 ohne Hinweis (NP14). Konventionsfrage 9.1386./T2 (NP14) unverändert.
+D151210;G1;3161;"Diff ganz (2 GEÄ) am PDF S. 419–420 (Zeilen-Cache mit Abständen); Umgebung 13.3.9.–14.3.; Info/Vollständigkeit/Prüfliste alt↔neu; Rest zellgleich (NP14 ZL1 ganz geprüft)";0;8;2;ohne kritischen Fehler;ohne kritischen Fehler;"[NACH] bei S. 420 y355/y370 = gewollt (Darin der Gruppe 13.4., Regel 3b); übrige Warnzeichen wie in NP14 erklärt (Teile langer Serien)";;;;"K208 behoben (Regel 3b). Mittel bekannt offen, von Runde 12 unberührt: ZL1-02 bis ZL1-09 (NP14); gering ZL1-10 und neu G1-N1 (Hinweis abgeschnitten)."
+D3466;G1;1197;"Diff ganz (10 GEÄ) am PDF (Zeilen-Cache S. 5–9, 30–32, 40–41, 58–59, 78–79, 85–86, 97–98, 100–103); Skript: 1197 Nummernzeilen ↔ 1197 Einheiten in Folge, alle 69 Einheiten über einen Seitenwechsel, kurze Einzeiler Titel/Darin; Info/Vollständigkeit/Prüfliste alt↔neu; Rest zellgleich (NP14 ZL2 ganz geprüft)";0;4;0;ohne kritischen Fehler;ohne kritischen Fehler;"[SIG?] 694 = die Teile; [NACH] 93/[VOR] 203 = gleichlautende Zeilen («Dampfturbinenfundamente», «Pläne von Locher & Co», «dito»); [NICHT] 20 = Titelblatt, Einleitung, Schlussvermerk";;;;Regel 8 richtig an allen 10 Einheiten, kein Fehlgriff, kein weiterer Seitenwechsel ohne Regel. Mittel bekannt offen: 584./T19 (nicht umgesetzt), :131. «1921 &» in 18 Titeln samt 131./T5 «Kohlensilos» am Seitenwechsel (NP4–NP6), :423. Darin falsch umbrochen, Ortsname über zwei Zeilen (NP14).
+D3470;G1;1950;"Diff ganz (11 WEG/NEU, 1 GEÄ) am PDF (pdftotext S. 23, 24, 36, 61; Mappe); Skript: Signatur = Nr. im PDF für alle Einheiten, Doppelte, Laufnummer über die Jahreswechsel; Info/Vollständigkeit/Prüfliste alt↔neu; Rest zellgleich (NP14 G2)";0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;"Strukturbericht [HINWEIS] 550/[RÜCK] 18/[LÜCKE] 111 = flache Projektliste mit Jahr.Laufnummer (unverändert); Mappe [SIG?] 21/[VOR] 20/[NACH] 1 unverändert";;;;Regel 5 richtig, G2-N2 (NP14) behoben. 1942.759 hat jetzt ebenfalls einen Hinweis (richtig: im PDF steht 1943.758 davor).
+D177470;G1;29;"ganz: Prüfmappe voll, Diff (4 GEÄ) am PDF S. 1–3; Info/Vollständigkeit alt↔neu; Testdatei zellgleich";0;1;2;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 1 = Schlussvermerk (Info, richtig);;;;"G2-N1 behoben (15., 24. ganz), 27. c) zusammengefügt. Gering: 28. e)/f) ohne «; » (angekündigt); 28. a) Unterzeilen als eigene Darin-Zeilen (Rest G2-N4). Mittel bekannt: 27. ab 31.10.1886 = Lebensdaten aus e) (NP13)."
+D3774;G1;59;"ganz: Prüfmappe voll, Diff (1 GEÄ) am PDF S. 1–3 (Übersicht, Vorspann), S. 12–13; Info/Vollständigkeit/Prüfliste alt↔neu";0;3;2;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 4 = Zwischenüberschrift «Grossformate (ausserhalb der Schachteln)» (Hinweis bei 6.4.) und 3 Schlussvermerke (Info);;;;"Regel 9 richtig: 6.4. ohne Schachtel (G1-4 der NP14 behoben). Bekannt offen (NP12 P6, mittel): 1.–1.5. ohne Schachtel 1, Zeitraum von 1. aus der Übersicht, Titel mit Unterzeilen (2.2., 3.53., 4.53., 6.1., 6.4.); Stücke in Schachtel 1 nur im Vorspann = Entscheid Hauptsession (kein Fund). Gering bekannt (NP14): «1866*» ohne «, », Fussnote an Nr. 122."
+D152401;G2;7;"ganz (Prüfmappe voll, PDF S. 1–2 ganz, alle Blätter alt↔neu; Vergleich 1 Eintrag)";0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;"[NICHT] 2 = Tabellenkopf und «Total: 20 Schachteln» (Info, richtig); [VOR] 1 = «2 Schachteln» (Umfang von 2., Zuordnung der Mappe, Excel richtig)";;;;Regel 1 richtig: Bestandszeile ID 7 mit ganzem Satz, Info nur «Total: 20 Schachteln». Zu Entscheid 1: das Total 20 ist die Summe der sechs Einheiten (13+2+1+1+2+1) ohne die zusätzliche Schachtel – am Ergebnis ändert das nichts.
+D152817;G2;704;"Vergleich ganz (18 Einträge) am PDF S. 6, 11, 14–17, 19–21; Strukturbericht ganz; alle Blätter alt↔neu (nur diese 18 Zeilen geändert); übrige Datei nicht neu geprüft (NP12–NP14)";0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;"[NICHT] 13 = 9 Lückenvermerke (gewollt), Titelblatt, Tabellenkopf, Schlussvermerk; [HINWEIS] 12 = 9 Lückenvermerke + Nummernsprünge nach 45. (Gruppe 46.-60.), nach 71. und VI.SB.D.6.:13; [LÜCKE] 18; [DOPPELT] 21/[OHNE] 55/[RÜCK] 4/[SIG?] 54 = Schachtel-Abschnitte VI.SB.D. (vorbestehend, nicht neu geprüft)";;;;Regel 7 richtig (9 Hinweise je bei der nächsten Nummer, 97. Titel ohne Vermerk). NP14 G2-N3 (gering) damit erledigt. S1-Kandidat 16 (VI.SB.D.6.:8-12) hier nicht beurteilt.
+D1729;G2;8;"ganz (Prüfmappe voll, PDF S. 1, alle Blätter alt↔neu; Vergleich 1 Eintrag)";0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 2 = Tabellenkopf, Schlussvermerk (Info, richtig);;;;K206 behoben.
+D175949;G2;41;"ganz (Prüfmappe voll, PDF S. 2, alle Blätter alt↔neu; Vergleich 1 Eintrag)";0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;"[NICHT] 4 = Titelblatt (2) und die zwei Schlussvermerke (Info, richtig); EINHEIT-Zuordnung der Mappe bei A, E, F um eine Zeile verschoben (Rauschen, Excel richtig: D.1. Darin 4 Zeilen, E.1. Titel mit «Fuxenschule»)";;;;"K203 behoben. S1-Kandidat 18 (D.1 «Quittungsbücher» …) gehört zu S1; eigener Blick: Liste in der Textspalte von D.1 (x142) wie bei C.2./C.3., kein Fund."
+D2502;G2;20;"ganz (Prüfmappe voll, PDF S. 1, alle Blätter alt↔neu; Vergleich 1 Eintrag)";0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 5 = Titelblatt, Tabellenkopf, «Anmerkungen:» und Bearbeitervermerk (Info, richtig);;;;K207 behoben (Entscheid 1). Bekannt: Bestandstitel mit Datum («Mehrere Zeitangaben im Titel»).
+D2951;G2;51;"Vergleich ganz (2 Einträge) am PDF; S. 13–16 Zeile für Zeile; Prüfmappe ganz durchgesehen (Signaturspalte, Warnzeichen, Gruppenenden, Schluss); alle Blätter alt↔neu";0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;"[NACH] 5 = vier Zeilen des Gruppenvermerks bei 2. (gewollt) und «Stadtarchiv Zürich» (Schlussvermerk); [VOR] 2 = «habe.» (2.11.) und «Heinrich Nehracher“.» (3.3.), Zuordnung der Mappe, Excel richtig; [NICHT] 8 = Titelblatt, Einleitung, Schlussvermerke";;;;"K204 behoben; 2.4./2.9. und alle übrigen Zellen unverändert. Lange Briefregesten weiter an Zeilengrenzen in Titel/Darin geteilt (z. B. 2.9. Titel endet «… um»), vorbestehend, Text vollständig."
+D3099;G2;161;"Vergleich ganz (9 Einträge) am PDF; S. 1–2 und 4–7 (Text) mit Prüfmappe; Warnzeichen; alle Blätter alt↔neu";0;1;0;ohne kritischen Fehler;ohne kritischen Fehler;"[NACH] 2 = Filmvermerk bei 7.3. (gewollt); [NICHT] 15 = Schlussvermerke S. 6–7 und eine Übersichtszeile S. 1 (Zuordnung der Mappe); [SIG?] 1 = zweite «1.2.5.» (Teil mit Hinweis «Tippfehler?», in NP4–NP6 als behoben gewertet)";;;;"K205 behoben; neu mittel G2-N1 (7. 1963–1988 statt 1941–1988, Folge von Regel 3a). Grenzfall nicht neu gemeldet: 1.2.5. «6. Generation: Hansjürg Diener» als Teil von 1.2.5. – 1.2.6. fehlt, die Gruppe endet aber dort."
+D3793;G2;227;"Vergleich ganz (2 Einträge) am PDF S. 22–23; Strukturbericht; Warnzeichen [NACH]/[NICHT]/[SIG?]; alle Blätter alt↔neu (nur diese 2 Zeilen geändert); übrige Datei nicht neu geprüft";0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;"[NACH] 10 = acht Sitzungszeilen von 1.7., «(4 Schachteln)» (Titel von 2.) und «Eingemeindungen / 1934.» (Info), Excel richtig; [NICHT] 9 = Lückenvermerk (gewollt) und Schlussvermerke; [SIG?] 1 = Überschrift «2. Allgemeine Akten …» (Einheit ID 14 vorhanden); [DARIN] 54 = «n. Sitzung: Datum»-Listen";;;;Regel 7 richtig. Bekannt (mittel, früher gemeldet): 5.3.21. Titel der Eltern statt «Sammeldossier: andere schweizerische Eingemeindungen».
+D49;G2;13;"ganz (Prüfmappe voll, PDF S. 3–4, alle Blätter alt↔neu; Vergleich 4 Einträge)";0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;"[NACH] 3 = Kategorie-Überschriften a), c), d) (Gruppen aus der Übersicht); [VOR] 5 = gleiche Texte bei 1./2. bzw. 17./18. (Zuordnung der Mappe); [NICHT] 11 = Titelblatt, Übersicht (Info), Tabellenköpfe, Lückenvermerke (gewollt), «e) Akten (keine)»";;;;"Regel 7 richtig (Hinweise bei 11. und 17.; 13. behält «Von Johann Jakob Scheuchzer, Baumeister»). Bekannt (mittel, M07 offen): «b) Amtsordnungen (keine)» im Darin von a)."
+D65;G2;12;"ganz (Prüfmappe voll, PDF S. 3; Vergleich 2 Einträge)";0;1;0;ohne kritischen Fehler;ohne kritischen Fehler;"[NACH] 2 = Kategorie-Überschriften d), e); [NICHT] 14 = Titelblatt, Übersicht, Tabellenköpfe, Lückenvermerk (gewollt)";;;;Regel 7 richtig (Hinweis bei 21.). Neu mittel G2-N3: «Fortsetzung der Rechnung vgl. IV.C. 2. …» im Darin von 21. (Akten) statt bei den Rechnungen d) bzw. im Info.
+D67;G2;32;"ganz (Prüfmappe voll, PDF S. 3; Vergleich 2 Einträge)";0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;"[NACH] 3 = Kategorie-Überschriften a), b), d); [NICHT] 11 = Titelblatt, Übersicht, Tabellenköpfe, Lückenvermerk (gewollt), «e) Akten (keine)», Schlussvermerk";;;;"Regel 7 richtig (Hinweis bei 11.; 4. behält die Fortsetzungsnotiz). Bekannt (mittel, NP12 G1 offen): Verweis «Die Rechnungen … V.H. b.2., eingegliedert.» im Darin von 33.; M07 «c) … (keine)» im Darin von b)."
+D69;G2;31;"ganz (Prüfmappe voll, PDF S. 3–5; Vergleich 4 Einträge)";0;1;0;ohne kritischen Fehler;ohne kritischen Fehler;"[NACH] 3 = Kategorie-Überschriften b), d), e); [NICHT] 11 = Titelblatt, Übersicht (Info), Tabellenköpfe, Lückenvermerke (gewollt)";;;;Regel 7 richtig (Hinweise bei 5. und 36.). Neu mittel G2-N2: «Fortsetzung der Rechung vgl. IV.C. 1. …» im Darin von 28. statt der Gruppe d). Bekannt (mittel, M07): «c) … (keine)» im Darin von b).
+D141024;Z1;1;ganz: Prüfmappe, Excel, PDF S. 1–2;0;0;1;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 3;;;;"Findmittel ohne Signaturen: eine Bestandszeile mit 24 Darin-Zeilen (Konvention); Spaltenmischung bekannt (Z1-23)."
+D144914;Z1;7;ganz: Prüfmappe, Excel, PDF S. 1–3;0;0;1;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 1;;;;"Schachtel-Einheiten aus dem Detailverzeichnis; Übersicht S. 1 nicht importiert (Konvention); «chr Stand: 05.07.1992» im Info. Sch. 4 Titel (Z1-21)."
+D152459;Z1;7;ganz: Prüfmappe;0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 3;;;;Unauffällig.
+D1595;Z1;14;ganz: Prüfmappe;0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 2;;;;Unauffällig.
+D1656;Z1;5;ganz: Prüfmappe;0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 2;;;;Unauffällig.
+D176551;Z1;9;ganz: Prüfmappe, Excel mit allen Darin-Zeilen, PDF S. 1–7;0;1;0;ohne kritischen Fehler;ohne kritischen Fehler;[SIG?] 91, [NACH] 20, [VOR] 9, [NICHT] 6;;;;"SIG?: nummerierte Druckschriftenlisten im Darin (Entscheid 7); NACH/VOR: Die Mappe legt EINHEIT 3. und 7. auf die Listenzeilen «3.»/«7.» der Vorgänger, die Excel ist richtig. «Der Bestand enthält auch die aus dem Ringordner Personalrecht entfernten (ersetzten) Blätter» steht zu Recht im Darin von 4.2. Schachtel fehlt (Z1-05)."
+D2192;Z1;29;ganz: Prüfmappe, Excel, PDF S. 2–4;0;1;1;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 4, [VOR] 1;;;;"Einleitung mit Geschichte und Verweisen auf V.H.c.906./911. (kein Stück); «Schachtel 1» steht nur bei 1. (aus dem PDF nicht zu klären)."
+D2587;Z1;1;ganz: Prüfmappe;0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 1;;;;Bestandszeile, ganzer Text im Darin.
+D2729;Z1;2;ganz: Prüfmappe, Excel, PDF;0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 1;;;;"Nummer 1 fehlt im PDF; «Akten» richtig als 1. mit Hinweis."
+D2739;Z1;2;ganz: Prüfmappe, Excel, PDF;0;1;1;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 1;;;;2. Zeitraum zu eng (Z1-17).
+D2960;Z1;17;ganz: Prüfmappe, Excel, PDF;0;3;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 1, [VOR] 5;;;;VOR: gleiche Band-Zeilen bei 10. und 11. (Zuordnungsrauschen). 1-3., 3a., 5a. richtig. «[fehlt bei Kontrolle Januar 1993 /rpt]» ist ein Vermerk zur Einheit, kein Bearbeitervermerk. Mittel alle schon NP10/NP11.
+D3060;Z1;9;ganz: Prüfmappe, Excel, PDF S. 1–2, 5, 7–8;0;0;1;ohne kritischen Fehler;ohne kritischen Fehler;[NACH] 5, [VOR] 3;;;;"Schachteln 3, 4, 7, 8/9 und 10 aus der Zusammenfassung; Block «Porträtbild …» S. 8 richtig bei Schachtel 10, «General Guisan …» bei Schachtel 6."
+D3077;Z1;17;ganz: Prüfmappe, Excel, PDF S. 1;0;1;1;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 2;;;;Zeiträume aus Lebensdaten (10., 12.) bekannt, nicht gemeldet.
+D3225;Z1;87;ganz: Kompaktmappe, Excel aller Einheiten, PDF S. 1, 5, 7, 9–12;0;2;1;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 4, [VOR] 7;;;;"VOR: Zuordnungsrauschen, am Excel geprüft; doppelte Einträge in 10. stehen so im PDF; die Einleitung nennt den Hinterlegungsvertrag (Vorspann, Konvention)."
+D3432;Z1;24;ganz: Prüfmappe;0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 12;;;;Gruppenzeilen 3., 4., 5. … fehlen im PDF (Hinweis «Keine übergeordnete Signatur»), kein Fund.
+D3705;Z1;64;ganz: Kompaktmappe (= voll), Excel 1.1–1.4;0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 4, [VOR] 1;;;;Nummernsprünge 2.34→2.51 und 2.59→2.100 stehen so im PDF.
+D3727;Z1;46;"ganz: Prüfmappe (3250 Z.; 10.3 per Filter auf Lage, Schrift, Signaturform und alle «?»- und Warnzeilen), Excel mit ganzem Darin von 10.3, PDF S. 5, 7, 71–72";0;3;0;ohne kritischen Fehler;ohne kritischen Fehler;[VOR] 48, [NACH] 1, [NICHT] 4;;;;"«Signaturen nur im Vorspann: 20.» sind Datumszeilen der Chronik; VOR/NACH Zuordnungsrauschen; Schlussvermerk «Planarchiv … gta» (Verweis) zu Recht im Info."
+D458;Z1;5;ganz: Prüfmappe;0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 5;;;;Unauffällig.
+D460;Z1;26;ganz: Prüfmappe;0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 8;;;;Unauffällig.
+D845;Z1;203;ganz: Kompaktmappe, Diff zur vollen Mappe, Strukturbericht, Excel, PDF S. 5–8;1;2;1;kritisch;kritisch;"DOPPELT 5, HINWEIS 2, LÜCKE 1, OHNE 6; [NICHT] 7, [VOR] 1, [NACH] 1";;;;"Fünf Teil-2-Einheiten aus den Köpfen der Unterverzeichnisse (Z1-01). LÜCKE 13–100 und Hinweis 1.2 stehen so im PDF; 124.a)–g) richtig als Kinder."
+D1317;Z2;5;ganz: Prüfmappe, Excel aller Einheiten (Dump), Info, Vollständigkeit, Positionsprüfung (tmp_Z2/poscheck.py), PDF S. 1;0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 2 = Tabellenkopf, Schlussvermerk (Info);;;;"5 Bände lückenlos; Vorspann nur Titelblatt."
+D1325;Z2;11;ganz: Prüfmappe, Excel aller Einheiten (Dump), Info, Vollständigkeit, Positionsprüfung (tmp_Z2/poscheck.py), PDF S. 1;0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 2 = Tabellenkopf, Schlussvermerk (Info);;;;11 Bände lückenlos.
+D140969;Z2;97;"ganz: Kompaktmappe, volle Prüfmappe an allen Verdachtsstellen, Excel aller 97 Einheiten mit ganzem Darin, Info, Vollständigkeit; Positionsprüfung (61 Abweichungen nur durch Anker an Übersichtszeilen, alle Zeilen in der richtigen Einheit); Datumsspalten-Suchlauf; PDF S. 1–4, 13–14";0;4;0;ohne kritischen Fehler;ohne kritischen Fehler;"[SIG?] 33 = Übersicht S. 1, Übersicht in 50–58, Zitate wie «46 (1939)», «128 Farbdias»; [NACH] 33/[VOR] 16 = Anker an Übersichtszeilen und gleichlautende Texte (Rauschen); [NICHT] 11 = Kopf und Schlussteil (Literatur, Bearbeiter im Info)";;;;"Gliederung 1-12, 13-34, 35-49, 50-58 (mit 50a., 57-58), 59-81, 82-86, 87.–89. E1 wie bisher. Neu mittel Z2-01 (Titel 6., 24.). Bekannt offen (NP10/NP12): Titel 36a.–48a./83./84./86./87., Zeiträume 14./17./50a./85.–88., Eltern 87. Notiz «(neu archiviert von Prof. Werner G. Zimmermann im August 1990)» im Darin von 59-81 = Gruppenbeschreibung, kein K169-Fall; Info «[Photokopie in der 1. Schachtel dieses Bestandes]» gehört zum Literaturhinweis, kein Stück ohne Nummer."
+D141056;Z2;38;ganz: Prüfmappe, Excel aller Einheiten (Dump), Info, Vollständigkeit, Positionsprüfung (tmp_Z2/poscheck.py), PDF S. 7–8;0;0;1;ohne kritischen Fehler;ohne kritischen Fehler;"[VOR] 4 = gleichlautende Zeilen («Protokolle (gebunden)», «Jahresbericht») – Rauschen; [NICHT] 1 = Schlussvermerk";;;;Gliederung 1.–9. mit Unternummern richtig. «1883 – 1991», «1987», «9. Juli 1985» sind PDF-Tippfehler (kein Fund). Gering Z2-07.
+D151735;Z2;12;ganz: Prüfmappe, Excel aller Einheiten (Dump), Info, Vollständigkeit, Positionsprüfung (tmp_Z2/poscheck.py), PDF S. 1;0;1;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 8 = ganzer Vorspann inkl. «Inhalt:» (Blatt Vollständigkeit);;;;12 Schachteln = 12 Einheiten mit Hinweis «Signatur aus der Nummer der Schachtel». Mittel Z2-05: Inhaltsangabe und Lückennotiz nur im Blatt Vollständigkeit.
+D1578;Z2;5;ganz: Prüfmappe, Excel aller Einheiten (Dump), Info, Vollständigkeit, Positionsprüfung (tmp_Z2/poscheck.py), PDF S. 1;0;1;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 2 = Tabellenkopf, Schlussvermerk;;;;Datum mitten im Titel von :3–:5 (NP11 E6) unverändert offen.
+D1612;Z2;6;ganz: Prüfmappe, Excel aller Einheiten (Dump), Info, Vollständigkeit, Positionsprüfung (tmp_Z2/poscheck.py);0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 2 = Tabellenkopf, Schlussvermerk;;;;"6 Bände; «(I)/(II)» im Titel richtig."
+D1676;Z2;5;ganz: Prüfmappe, Excel aller Einheiten (Dump), Info, Vollständigkeit, Positionsprüfung (tmp_Z2/poscheck.py);0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 2 = Tabellenkopf, Schlussvermerk;;;;"5 Bände; «(I)/(II)» im Titel richtig."
+D2141;Z2;1;ganz: Prüfmappe, Excel aller Einheiten (Dump), Info, Vollständigkeit, Positionsprüfung (tmp_Z2/poscheck.py);0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;keine;;;;"Findmittel ohne Signaturen: Bestandszeile mit 5 Kreisen; «1995-1897» steht so im PDF."
+D2147;Z2;8;ganz: Prüfmappe, Excel aller Einheiten (Dump), Info, Vollständigkeit, Positionsprüfung (tmp_Z2/poscheck.py);0;0;1;ohne kritischen Fehler;ohne kritischen Fehler;"[NICHT] 1 = Tabellenkopf; «?» = «Schachtel 2:» (steht in Schachtel-Nr.)";;;;Schachtel 1/2 richtig verteilt. Gering Z2-08.
+D2623;Z2;1;ganz: Prüfmappe, Excel aller Einheiten (Dump), Info, Vollständigkeit, Positionsprüfung (tmp_Z2/poscheck.py);0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 2 = Schlussvermerke;;;;"Bestandszeile mit 23 Einträgen; «Der Bestand umfasst zwei Archivschachteln.» fasst nur zusammen (Info, kein Fund)."
+D2839;Z2;23;ganz: volle Prüfmappe (1065 Zeilen, alle Sonderzeilen einzeln), Excel aller Einheiten mit ganzem Darin, Info, Vollständigkeit, Positionsprüfung, Datumsspalten-Suchlauf (tmp_Z2/datecol.py), PDF S. 2, 8, 9, 11, 14, 18, 20;0;2;0;ohne kritischen Fehler;ohne kritischen Fehler;"[SIG?] 1/[NACH] 1 = Prüfmappe verankert 2. am Punkt «2.» in 1.2. (Excel richtig); [NICHT] 21 = 19 Köpfe «Nr. / Titel Datum», Schlussvermerke; 2 Fehlwort-Zeilen S. 9 = Fehlalarm (Text vorhanden)";;;;"Mappen 1–17 (2.1.–2.17.), 3. (Mappe 18), 4. richtig; «Der Bestand umfasst 18 Mappen.» = Zusammenfassung. Mittel Z2-06 (5 Spaltendaten ohne Tag/Monat, Grenzfall «Text weg», nach Ersteinstufung 19.11. mittel); bekannt offen: Titel 1.1./1.2."
+D2850;Z2;69;ganz: Kompaktmappe, volle Prüfmappe an allen Verdachtsstellen, Excel aller Einheiten mit ganzem Darin, Info, Vollständigkeit, Positionsprüfung (219 Namen A–M richtig in 55.), PDF S. 9, 12–13, 23–24;0;2;2;ohne kritischen Fehler;ohne kritischen Fehler;"[NACH] 222 = Briefliste A–M (gedruckt nach dem Kopf «56», richtig auf 55 verteilt) und gleichlautende Namen; [NICHT] 24 = Gruppenköpfe ohne Signatur, wiederholte Köpfe «55/56 Briefe …», Schlussteil (Info); [SIG?] 3 = wiederholte Köpfe, «50 Jahre Stadtvereinigung»";;;;"Gruppenköpfe als Hinweis bei der ersten Einheit; 48. mit 48.A./48.B.; Bestandszeile mit Pokal (Stück ohne Nummer) richtig; Info = Bearbeitungsgeschichte. Gering Z2-12 neu; bekannt offen: 64. (NP8–NP13), 48.A./48.B. Zeitraum (NP10), 55./56. Namenszeilen (NP10)."
+D3008;Z2;8;ganz: Prüfmappe, Excel aller Einheiten (Dump), Info, Vollständigkeit, Positionsprüfung (tmp_Z2/poscheck.py), PDF S. 1–2;0;1;0;ohne kritischen Fehler;ohne kritischen Fehler;"[SIG?] 2 = wiederholte 3.1./3.2. (Teile in Schachtel 2/3, Konvention); [NICHT] 2 = Schlussvermerk";;;;"Schachtel-Nr. von 2., 3., 3.1., 4. (NP11 E7) unverändert offen; Zeiträume aus Lebensdaten/Werktitel = «Bekannt, nicht neu melden»."
+D3398;Z2;35;ganz: Prüfmappe, Excel aller Einheiten (Dump), Info, Vollständigkeit, Positionsprüfung (tmp_Z2/poscheck.py), PDF S. 1–4;0;1;2;ohne kritischen Fehler;ohne kritischen Fehler;"[VOR] 10/[NACH] 1 = Schachtelzeilen der Teile (Rauschen); [NICHT] 7 = Köpfe «Signatur Inhalt Zeit», «Gesuch Nr.» (so Soll seit 19.11.), Schlussvermerke";;;;":1. Schachtelliste im Darin (Zeile 31 doppelt = PDF); :2./:4./:5. je Schachtel ein Teil. Info: «88 Schachteln» = Summe, Endablieferung 2012 = Bestandsgeschichte (kein Fund). Gering Z2-09 neu; bekannt offen (19.11.): :7./:8./:9. (mittel), f)."
+D3599;Z2;25;ganz: Prüfmappe, Excel aller Einheiten (Dump), Info, Vollständigkeit, Positionsprüfung (tmp_Z2/poscheck.py), PDF S. 1–5;0;1;1;ohne kritischen Fehler;ohne kritischen Fehler;"[SIG?] 1 = Schlussvermerk mit Datum; [NICHT] 1 = Schlussvermerk";;;;"Gliederung 1.–8. richtig; Einleitung/«Inhalt:» = Vorspann-Prosa zu verzeichneten Stücken. Kassabücher Nr. VII/VIII fehlen schon im PDF. Mittel Z2-04, gering Z2-11."
+D3718;Z2;191;ganz: Kompaktmappe, volle Prüfmappe an allen Verdachtsstellen, Excel aller 191 Einheiten (Gliederung gegen Inhaltsverzeichnis S. 2–3), Positionsprüfung (12 Abweichungen, alle erklärt), Gruppenende-Kandidaten, PDF S. 4, 7, 12, 14–17, 20–21, 28;0;4;1;ohne kritischen Fehler;ohne kritischen Fehler;"[VOR] 13/[NACH] 1 = gleichlautende Zeilen («Zeitungsartikel», «Frühling 1960») – Rauschen; [SIG?] 4 = Buchtitel mit Zahl am Anfang in 13.; [NICHT] 3 = Schlussvermerke";;;;"Gliederung 1.–13. bis zur 4. Ebene wie im Inhaltsverzeichnis. Gruppenende-Kandidaten (4.2.2.3., 5.1.5., 5.2.10., 9.8.) sind Einträge der letzten Untereinheit. Neu mittel Z2-02, Z2-03, gering Z2-10; bekannt offen: «Sch. n» im Titel / keine Schachtel-Nr. inkl. Titel 8. (NP12), 4.2.19. (NP2–NP6)."
+D3781;Z2;14;ganz: Prüfmappe, Excel aller Einheiten (Dump), Info, Vollständigkeit, Positionsprüfung (tmp_Z2/poscheck.py), PDF S. 1–2;0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;"[NICHT] 6 = Titelblatt, «Inhaltsverzeichnis» (= das Verzeichnis selbst), Tabellenkopf, Schlussvermerk; [VOR] 1 = «1 Band» (Rauschen)";;;;NP11-Zeile («chr Stand: 27.08.1993» im Darin von :14) behoben: Vermerk steht jetzt im Info.
+D3791;Z2;21;ganz: Prüfmappe, Excel aller Einheiten (Dump), Info, Vollständigkeit, Positionsprüfung (tmp_Z2/poscheck.py), PDF S. 1–3;0;1;1;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 3 = Tabellenkopf, Schlussvermerke;;;;"Gliederung 1.–6. richtig; «1845» bei 6.4. steht so im PDF. Bekannt offen (NP11): Bände-Zahl im Titel (mittel), zweizeilige Einträge getrennt (gering)."
+D1182;Z3;34;"ganze Mappe Zeile für Zeile; Excel alle 34 Einheiten mit Titel und Darin; PDF S. 1 (Lage von «2 Bände …»)";0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;"[NICHT] 5 = Titelblatt (4), Schlussvermerk; [SIG?] 1 und EINHEIT bei «2 Bände, siehe separate Schachtel» = Zuordnungsrauschen der Mappe (Zeile x126, steht richtig im Darin von 1.9.); [VOR] 5 = gleichlautender Reihentitel «Sittengeschichte der Kulturwelt … Wien / Leipzig» bei 2.14.–2.18., steht jeweils richtig";;;;Gliederung 1./1.1.–1.9., 2./2.1.–2.22., 3. richtig. «2 Bände, siehe separate Schachtel» gehört zum Stück 1.9. (keine Gruppenzeile). Bekannt (NP11 mittel, nicht neu gezählt): 2.6. Zeitraum 1800–1927 aus «seit 1800», daher 2. 1800–1971.
+D1362;Z3;37;"ganze Mappe; Excel alle 37 Einheiten";0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;"[NICHT] 1 = Tabellenkopf; [VOR] 1 = «Zürich» (gleichlautend, steht richtig bei :28)";;;;37 Drucksachen :1–:37 flach, Titel und Darin («Von …») richtig, Zeitraum aus der Datumsspalte. «(siehe Nachtrag auf Seite 4, Bestattungswesen)» steht bei :17 im Titel wie im PDF.
+D150324;Z3;3;"ganze Mappe; Excel alle 3 Einheiten mit 84 Darin-Zeilen; PDF S. 2–4 gegen das Darin von 2. abgeglichen (73 Einträge)";0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;"[NICHT] 1 = Schlussvermerk; [VOR] 1 = Folgezeile «Januar 1872» (steht richtig in Darin 5 von 1.)";;;;1. Briefe (7), 2. Akten (73), 3. Abbildungen (4) vollständig und in PDF-Reihenfolge. Bestandstitel «… 1819 ff.» nur im Vorspann (bekannte Art).
+D152386;Z3;7;"ganze Mappe; Excel";0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 2 = Tabellenkopf, Schlussvermerk;;;;"7 Bände :1–:7 richtig; «(7 Bände)» im Titelblatt fasst nur zusammen."
+D152404;Z3;10;"ganze Mappe; Excel";0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 4 = Titelblatt, Tabellenkopf;;;;:I.–:VIIIa. flach, :Va./:Vb./:VIIIa. als Geschwister wie im PDF. Der kritische Fund aus NP9 (VIII./VIIIa. im Darin von VII.) ist weiter behoben.
+D1632;Z3;9;"ganze Mappe; Excel";0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 2 = Tabellenkopf, Schlussvermerk;;;;9 Bände :1–:9 richtig.
+D1668;Z3;5;"ganze Mappe; Excel";0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 2 = Tabellenkopf, Schlussvermerk;;;;5 Bände :1–:5 richtig.
+D1720;Z3;5;"ganze Mappe; Excel";0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 2 = Tabellenkopf, Schlussvermerk;;;;5 Bände :1–:5 richtig.
+D191;Z3;19;"ganze Mappe; Excel; PDF S. 1 (8.)";0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;keine;;;;"19 Reisen 1.–19. flach richtig. Bekannt (NP11 mittel, nicht neu gezählt): 8. Titel «… beim 29. - 20- Januar 1971 Büro GR», Genau 01.1971; Ursache ist der Tippfehler «20-» im PDF."
+D244;Z3;2;"ganze Mappe; Excel";0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 5 = Titelblatt (3), Schlussvermerk (2);;;;1. und 2. richtig.
+D2641;Z3;155;"Kompaktmappe ganz, volle Mappe für die verdichteten Stellen; Excel alle 155 Einheiten mit Titel, Darin, Schachtel; Blatt Vollständigkeit";0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;"[VOR] 5/[NACH] 1 = gleichlautende Widmungs- und Jahreszeilen, stehen richtig (geprüft :12, :17, :45, :65, :76, :120, :144); [NICHT] 2 = Tabellenkopf, Schlussvermerk; «fehlt: ohne/datum» bei :71, :100, :136 = Rauschen (Text steht im Titel); :65 ohne EINHEIT-Zeile in der Mappe wegen «100 Anni» (Einheit vorhanden)";;;;"155 Bücher flach, Schachtel 1–9 aus der rechten Spalte richtig, jede Widmung bei ihrem Buch. Bekannt (nicht neu gezählt): Widmungszeile im Titel statt im Darin bei 37 Einheiten (:1, :3, :13 … :151; Runde 1 mittel), Zeitraum aus Werktitel :13, :40, :154 (NP12), kein Zeitraum bei «ca. 1960» :18, :85, :97 (Runde 1). Kosmetik, nicht gezählt: :4 «Paris 1966 (Nr. 39)» verliert das Jahr in der Titelmitte (Mechanismus wie NP12 D408)."
+D3200;Z3;12;"ganze Mappe; Excel; PDF S. 1";0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 5 = Schlussvermerke (Personennotiz, Umfang, Bearbeiter);;;;Gliederung 1./1.1.–1.3. (Sch. 1–3) und 2./2.1.–2.7. (Sch. 4) richtig, alle Listeneinträge bei ihrer Einheit. Die Personennotiz «(Arno Uhlig, geboren …)» nach der letzten Einheit steht im Info (Konvention). Bekannt (NP11 mittel, nicht neu gezählt): 2.1. Titel «… (1919): Regierungsratsprotokoll» ohne Zeitraum, 2.2. 1918–1921 (Werktitel), 2.5. Zeitraum ohne die Darin-Jahre 1902–1913.
+D3265;Z3;16;"ganze Mappe; Excel; PDF S. 1–2";0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 6 = Titelblatt, «V ERZEICHNIS», Schlussvermerke;;;;"Gliederung 1.–5. mit Unternummern richtig; 3.3. nach 3.1. wie im PDF, mit Hinweis. Bekannt (NP11, nicht neu gezählt): 5.2. Titel «Statuten des Vereins: 16.5.1897», Zeitraum 1899–1908 (mittel); 2.1. «Kassabuch 1.1.1945-31.12.1959 Kassabuch» (gering). Offen, nicht gemeldet: 3. und 5. ohne Schachtel (das PDF nennt keine; Sch. 2/3 nur vermutet)."
+D32738;Z3;23;"ganze Mappe; Excel; PDF S. 1–2 (Spaltenlage)";0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;"[NICHT] 21 = Titelblatt, Hinweistext (Einleitung in Prosa), Tabellenkopf, Schlussvermerk; [NACH] 1 = gleichlautende Zeile bei :19, steht richtig";;;;"23 Registerbände flach richtig; die Einleitung «Hinweis für das Finden von Akten und Plänen» bleibt im Blatt Vollständigkeit (Konvention). Bekannt (NP10 mittel, nicht neu gezählt): Schachtelnummer 1–9 der rechten Spalte steht mitten im Titel, Schachtel-Nr. bei allen 23 leer."
+D3548;Z3;62;"Kompaktmappe ganz, volle Mappe S. 2–4 (4.1.); PDF S. 1–10; Excel alle 62 Einheiten mit Darin";0;1;1;ohne kritischen Fehler;ohne kritischen Fehler;"[SIG?] 11 = das wiederholte «4.1.» (10×, Teile nach Konvention) und «10.» (Zuordnungsrauschen, Einheit vorhanden); [VOR] 4/[NACH] 1 = gleichlautende Zeilen, stehen richtig; [NICHT] 2 = Schlussvermerke";;;;"Gliederung 1.–10. richtig, 4.1. mit Teilen 2–11, 6.13. mit Teil 2 (Schachtel III); die Übersicht S. 1 kommt im Detail ganz vor. Mittel neu: 6.13./6.21. Zeitraum ohne die Darin-Jahre. Gering neu: 6.17. «siehe: …» im Titel. Bekannt (nicht neu gezählt): 4.1. Teiltitel = erster Name, Teile ohne Schachtel (NP12), Schachtel III bei 6.14.–6.24. (NP12), 5.3. Zeitraum 1987–1990 (NP3). Kosmetik, nicht gezählt: Datumszeilen unter «Protokolle»/«Akten» als eigene Darin-Zeilen (1., 2., 5.1.1., 5.1.2.)."
+D3853;Z3;24;"ganze Mappe; Excel";0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 14 = Titelblatt, Absatz zur Geschichte der Kasse, Schlussvermerk;;;;"24 Einheiten 1.–24. flach richtig; der Absatz zur Geschichte der Kasse nach der letzten Einheit steht im Info (Konvention)."
+D4027;Z3;7;"ganze Mappe; Excel; PDF S. 1";0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;"[NICHT] 1 = Schlussvermerk; [VOR] 2 = Folgezeile «Napf» (steht richtig bei 1.1.)";;;;Gliederung 1./1.1.–1.2., 2./2.1.–2.2., 3. richtig, alle Listeneinträge mit ihrem Datum.
+D408;Z3;143;"Kompaktmappe ganz, volle Mappe S. 4–5; Excel alle 143 Einheiten; PDF S. 1";0;0;0;ohne kritischen Fehler;ohne kritischen Fehler;"[NICHT] 7 = Titelblatt, Vorbemerkung, Schlussvermerke; [VOR] 1 = «1975» (Titelumbruch bei 1.35., steht richtig)";;;;"Gliederung 1.–8. richtig; 1.2.x, 1.10.x, 1.20.x, 1.33.x, 1.40.x, 1.41.x, 1.46.x hängen mit Hinweis unter 1. (die Gruppen fehlen im PDF). Bekannt (NP12 mittel, nicht neu gezählt): Das Zähljahr in der Titelmitte ist entfernt (z. B. 1.2.2. «Eidgenössische Volkszählung, Instruktion»), 27 Einheiten."
+D4098;Z3;1;"ganze Mappe; Excel Bestandszeile mit 29 Darin-Zeilen; PDF S. 1–2";0;0;1;ohne kritischen Fehler;ohne kritischen Fehler;[NICHT] 1 = Schlussvermerk;;;;"Findmittel ohne Signaturen: ganzer Inhalt im Darin der Bestandszeile VII.465. (Konvention); der kritische Fund aus NP3 «VII.465.J.J.» ist weiter behoben. Gering neu: Darin 17/18 «Identitätskarte … dat.» / «1. Juli 1944» getrennt."
+D150829;ZL1;518;"ganz: Kompaktmappe Zeile für Zeile (alle 518 EINHEIT-Zeilen, 20 [VOR], 6 [NICHT], 3 «?» einzeln); volle Prüfmappe für die verdichteten Stellen (4., 5.1.–5.4., 5.8., 6.3., 6.13., 7.); Excel aller Einheiten ungekürzt (eigener Dump, alle Darin-Zeilen ausser Querverweisen einzeln); Skript: 526 Signaturzeilen des Zeilen-Caches ↔ 518 Einheiten in Folge (Überschuss nur «6 Pläne …», «10 Pläne …», «12 Zeichnungen …», Datumsrest «1961»), Eltern/Ebene/Lücken/Doppelte aller Einheiten; Strukturbericht (leer); PDF S. 1–2, 4, 6, 8, 15–16, 20–21, 23, 32–34; Blatt Info und Vollständigkeit";0;8;2;ohne kritischen Fehler;ohne kritischen Fehler;"Strukturbericht: keine Auffälligkeiten; [NICHT] 6 = Titelblatt S. 1 (3) und Schlussvermerke S. 34 (3, im Info); [VOR] 20 = Rauschen der Textsuche bei wortgleichen Zeilen («[im Dossier „Seepark, 5.1.“]», «Aufsatz», «Fotografien», «Modell», «Zeichnungen», «1961», Klammersatz von 5.5.2.–5.5.4.), jede Zeile bei ihrer Einheit; «?» = Routenzeile von 1.6. (auf Darin 1–2 verteilt) und Kopf-/Fusszeile";;;;"Gliederung 1.–7. mit 4.1.–4.3. (4.3.1./4.3.2.), 5.1.–5.8. (5.5., 5.6., 5.7.1./5.7.2.) und 6.1.–6.13. lückenlos, alle Eltern richtig; Gruppenbeschreibung von 4. in dessen Darin; Titelblatt nur im Blatt Vollständigkeit; Schlussvermerke im Info, kein Stück ohne Nummer. Mittel: Zeitraum 5.1. (ZL1-01), Titel 1.6., 2.6., 4.1.51., 4.1.79., 4.2.117., 5.5.18., 6.3. Bekannt, nicht neu gemeldet: Zeiträume aus Werktiteln/Lebensdaten 4.1.62. (1991 statt 02.10.1982), 4.1.75. (bis 2000, dadurch 4.1. und 4.), 5.6.30. (1992, PDF «o.D.»), 6.3. (1877)."
+D3170;ZL1;385;"ganz: Kompaktmappe Zeile für Zeile (382 EINHEIT-Zeilen + 3 Teile, alle 28 [VOR], 6 [SIG?], 4 [NICHT], 8 «?» einzeln am Excel-Dump); Strukturbericht ganz (9 [HINWEIS], 1 [DARIN], 3 [OHNE]); volle Prüfmappe S. 14–16; Skript: Signaturzeilen des Zeilen-Caches ↔ Einheiten in Folge (Überschuss nur Übersicht S. 1–2, «1 Polarabend» 2×, «6. Heidelberger Stückemarkt»), Eltern/Ebene/Lücken/Doppelte; Excel aller Einheiten ungekürzt (6.4. alle 233 Darin-Zeilen); PDF S. 1–5, 9–13, 16–17, 19–20, 31–32, 40–42, 49–50; Blatt Info und Vollständigkeit";0;1;1;ohne kritischen Fehler;ohne kritischen Fehler;"[SIG?] 6 = Einträge 2.1./2.4./2.5. (gleiche Nummer wie die fette Gruppenzeile → Teil 2, Konvention) und Darin-Titel «1 Polarabend» (2×), «6. Heidelberger Stückemarkt»; [VOR] 28 = dieselben Stücke in aufeinanderfolgenden Spielzeiten («Hope and Glory», «Polly», «Samuel», «(2 Schachteln)» …), jede Zeile bei ihrer Einheit; [HINWEIS] 6.1.3.4.→6.1.4.4. (Tippfehlerregel), 6.3.0., 7.2.1.a.–f. unter 7.2. (7.2.1. fehlt im PDF), 7.2.2.: kein Fund; [DARIN] Plakattitel; [OHNE] = die 3 Teile; [NICHT] 4 = Schlussvermerke";;;;"Gliederung 1.–8. lückenlos; Übersicht S. 1–2 nur Vorspann; 6.4. Plakate eine Einheit (Spielzeit-Überschriften ohne Nummer im Darin); 7.2.1.d. hat «(2 Schachteln)» zweimal wie im PDF. Schlussvermerke (drei Bearbeitungsvermerke) im Info, kein Stück ohne Nummer. Mittel: 4.2.1.6. Titel am Gedankenstrich (ZL1-09). Gering: Listenumbrüche in den Presse-, Programm- und Fotolisten (ZL1-12)."
+D10009;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Schluss: nur letzte Einheit; Schlussvermerk im Info; nicht übernommen nur Titelblatt."
+D10575;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Schluss ok (Darin 15.3., Schlussvermerk Info). «fehlt» nur Trennreste (Mai-land, Um-schlagseite, «fort u-ne», Ab-stammung; Werkzeug liest «Mai» als 5). Vorspann «38.» = «38 broschierte Bände» (Zahl, keine Signatur). Länderköpfe S. 36–37 = Zwischenüberschriften."
+D10581;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Erhaltvermerk «Dokumente von privat erhalten …» mit Bearbeiter im Info = Bearbeitungs-/Erwerbsvermerk.
+D10585;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Schluss ok. Gruppen 1.–8. aus der Übersicht S. 2 (Kinder richtig darunter), Detailköpfe S. 2–18 und Ortsköpfe (Zug, Olten …) nicht übernommen = Zwischenüberschriften, Titel bleiben verständlich.
+D10587;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Schlussvermerk im Info; Fusszeile «15.02.11 / 3 / …» ohne Ziel = Fusszeile."
+D10649;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;Fund;"Fund mittel (Grenzfall): «Eine Fotokopie der einzelnen Bilder liegt bei.» (S. 2) nur im Blatt Vollständigkeit; als Stück gewertet kritisch (Soll Bestandszeile). Übrige Angaben (Fotograf, Herausgeber, Provenienz) = Bestandsangaben."
+D10675;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;802 «Dubletten» mit Liste im Darin = Kopien vorhandener Einheiten (744.6 Sch. 161, 745.19 Sch. 166). Köpfe «712 … KVA 1/2» nicht übernommen: bekannt (mittel), nicht neu gemeldet.
+D10684;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Darin «Drei Pokale» richtig bei 8.; Bearbeitungsvermerk im Info."
+D10744;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Vorbemerkung zum Registraturplan nicht übernommen (Konvention).
+D109662;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Archivierung und «Nachtrag zur Archivierung … abgeschlossen» im Info = Bearbeitungsvermerke.
+D109666;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Letzte Einheit (PDF-Folge) ist Serie 2.; Schachteln 2–23 als Teile, Inhalt je Schachtel richtig verteilt (Sch. 11–13 eine Einheit), Hinweis bei ID 23 (Absatz in Sch. 23) richtig."
+D1111;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;Nur letzte Einheit, kein Schlusstext.
+D1116;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;Nur letzte Einheit, kein Schlusstext.
+D1118;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;"Titel über 5 Zeilen ganz; Titelblatt nicht übernommen."
+D1120;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;Nur letzte Einheit mit Titelfortsetzung.
+D1127;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;Darin und Umfang «3 Stück» richtig bei :6.
+D1131;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Nur Bestandszeile: alle Drucksachen im Darin; Schlussvermerk im Info."
+D1167;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;Nur letzte Einheit.
+D1169;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;Nur letzte Einheit mit Titelfortsetzung.
+D1173;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;Nur letzte Einheit.
+D1175;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Nur Bestandszeile: Länderliste im Darin; Schlussvermerk im Info."
+D1180;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;«Nachtrag am 11. Oktober 2010 archiviert» = Bearbeitungsvermerk.
+D1182;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Darin 3. richtig; Schlussvermerke im Info."
+D1185;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Schluss ok; Titel 2. mitten im Satz geteilt (bekannt mittel)."
+D1187;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Schluss ok.
+D1191;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Nur Bestandszeile; Kopfzeile und Titel als Darin 1–2 (bekannt Kosmetik)."
+D1193;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;Nur letzte Einheit.
+D1220;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Schluss ok («Stadtarchiv Zürich» steht im Info, Zuordnung der Mappe ist Rauschen); Jahr/Schachtel im Titel bekannt (mittel)."
+D1229;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Schluss ok.
+D1237;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;«Die Materialien in Ordnern wurden … verschachtelt.» = Ordnungsvermerk, kein Stück.
+D1255;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Nur letzte Einheit, Schlussvermerk im Info.
+D1257;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Nur letzte Einheit, Schlussvermerk im Info.
+D1261;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;5 Bände :1–:5 richtig (Prüfmappe erkennt «b.13.b:1» nicht als Einheitszeile).
+D1263;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;6 Bände :1–:6 richtig (Prüfmappe erkennt «b.13.c:1» nicht als Einheitszeile).
+D1267;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Nur letzte Einheit, Schlussvermerk im Info.
+D1269;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Nur letzte Einheit; Zeit/Band im Titel bekannt (gering)."
+D1273;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Nur letzte Einheit, Schlussvermerk im Info.
+D1285;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Nur letzte Einheit, Schlussvermerk im Info.
+D1295;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Nur letzte Einheit, Schlussvermerk im Info.
+D1315;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Nur letzte Einheit; Datum im Titel bekannt (gering)."
+D1317;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Nur letzte Einheit, Schlussvermerk im Info.
+D1325;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Nur letzte Einheit, Schlussvermerk im Info.
+D1327;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Nur letzte Einheit, Schlussvermerk im Info.
+D1329;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Nur letzte Einheit, Schlussvermerk im Info.
+D133;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;Nur letzte Einheit.
+D1341;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;Nur letzte Einheit.
+D1343;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;«Ablieferung vom 16. März 1948» = Zwischenüberschrift, Hinweis bei ID 2 (zweite Folge :1–:9 als Teile).
+D134644;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Darin 16.2.3. richtig; Bearbeitungsvermerke im Info."
+D1347;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Provenienz «Die Akten stammen von Dr. Max Landolt …» im Info = Bestandsgeschichte.
+D1360;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;Nur letzte Einheit mit Titelfortsetzung.
+D1362;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;Nur letzte Einheit mit Titelfortsetzung.
+D1387;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Behälter :1/:2/:3 mit Positionen 1.–31. im Darin (Mappe :3 mit 31.); Schlussvermerk im Info."
+D1389;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;Nur letzte Einheit.
+D1391;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;«Rütihof - Höngg» als zwei Darin-Zeilen von 14. (Kosmetik, Text da).
+D1395;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;21. mit Schachtelzeile im Darin (Form der Datei, bisher akzeptiert).
+D1401;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Darin 2.10. richtig; Schlussvermerk im Info."
+D1404;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Darin 7. richtig; Schlussvermerk im Info."
+D1406;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;Nur letzte Einheit.
+D140947;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Nur letzte Einheit, Schlussvermerk im Info.
+D140955;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Vorbemerkung (Übernahme 2007, Nachlieferung 2013, Ordnung) = Bestandsgeschichte.
+D140969;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Letzte Einheit ist 89. (ID 97; Mappe erkennt die Zeile nicht), Darin richtig; Überlieferungsgeschichte und Literatur im Info (Photokopie in Schachtel 1 = Literatur)."
+D140974;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Provenienz «Akten erhalten von Herrn Gerster …» im Info; Vorbemerkung Stiftungsgeschichte."
+D141005;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Schluss ok; «fehlt: 8» = Vorname «August» in 1.9. (bekannt mittel)."
+D141020;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;«Der Bestand umfasst 64 Schachteln … und 1 Mappe» = Umfangsangabe.
+D141024;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Nur Bestandszeile (Konvention, vgl. Soll K41); Schlussvermerke im Info."
+D141056;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Darin 9.2. richtig; Schlussvermerk im Info."
+D141058;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;«Nachtrag vom 26. Februar 2015» = Datum der Ergänzung, kein Stück.
+D141060;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Darin 2. über Seitenwechsel richtig.
+D141062;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"«Ferner sind kleinere Aktenbestände vorhanden …» fasst 2.–4. zusammen (City-Vereinigung, Gewerbeverband, Quartierverein, Radio Z, Verkehrsverein in 3.; Al Golfo, Dörfli in 4.)."
+D141;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Nur letzte Einheit; Jahr/Schachtel im Titel bekannt (mittel)."
+D1437;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;«Der Bestand umfasst acht Archivschachteln.» = Umfang.
+D1439;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Zuordnung der Kommission 1995 im Info = Verwaltungsgeschichte.
+D144909;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"«Bemerkungen» im Info: Umfang, Bibliothek = Verweis; Ordner in Sch. 3 verzeichnet."
+D144912;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Vorbemerkung (Herkunft der Unterlagen) nicht übernommen.
+D144914;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;«chr Stand: 05.07.1992» im Info.
+D144915;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;Fund;ok;ok;Fund gering: Baugeschichte (S. 2 y243–342) und «Vgl. …» im Darin der Bestandszeile statt im Info.
+D144926;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Nur letzte Einheit, Bearbeitervermerk im Info.
+D1473;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Nur letzte Einheit, Schlussvermerk im Info.
+D1479;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Nur letzte Einheit, Schlussvermerk im Info.
+D1481;D1;;;;;;kritisch;kritisch;;ok;Fund;ok;Fund kritisch: «Die Protokolle von 1971 bis 1987 sind lückenhaft in einer Archivschachtel.» (S. 3) nur im Info, keine Bestandszeile (Online-Archiv 1900-1987).
+D148468;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Umfang im Info; Titel 4. mit Umfang/Datumsvermerk bekannt (mittel)."
+D149622;D1;;;;;;kritisch;kritisch;;Fund;Fund;ok;"bekannt K38 (bewusst offen), unverändert: «Anmerkung zu 1757/1795 …» samt «Der Bestand enthält: …» nur im Info (Soll Darin Sch. 1), «Mappe für Grossformate …» und «Chronologisches Verzeichnis» als Darin 1–2 von Sch. 3; «Bemerkung zur Signatur» richtig im Info. Nicht neu gemeldet."
+D149628;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Umfangstabelle im Info; «Lose Kassarapporte / …» = Zwischenüberschrift mit Hinweis bei 5.4.3.3./T55; «fehlt: 10» = «Okt.» in 26.2.4. (bekannt mittel)."
+D149634;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;"Nur letzte Einheit; «fehlt 1878» in :105 bekannt (mittel); «Akten» = Zwischenüberschrift mit Hinweis."
+D149825;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Bestandszeile mit Protokoll (vor 1.) und Messingpokal (nach 272.), K3/K4 umgesetzt; Übergabe des Pokals im Info = Erwerb."
+D149835;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;«Anmerkungen zum Bestand»: weiteres Material im Bestand Nc, «Standort ungeklärt» oder Nr. 14 = Verweise, kein Stück dieses Bestands.
+D149867;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Drucksachen ohne Nummer in der Bestandszeile (K100 umgesetzt, Zugehörigkeit zu I. nur im Vorspann, gering bekannt).
+D149888;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Lagerungsangabe «4.1.2. – 4.1.4. in grossformatiger Schachtel:» nicht übernommen (bekannt); Ortsköpfe = Zwischenüberschriften."
+D150242;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Umfang, Provenienz im Info; Erhaltvermerk bei Mappe 11 richtig im Darin."
+D150296;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Umfang im Info; «fehlt» = Trennrest «Mai-ke» bzw. Datum vorhanden; Köpfe mit Hinweis."
+D150306;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Darin 64. richtig; Schlussvermerke im Info."
+D150324;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Darin 3. richtig; Schlussvermerk im Info."
+D150491;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Hinweis zur Bandanzahl im Info; Titel 21. mit erster Darin-Zeile bekannt (mittel)."
+D150536;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Bibliothekstitel, Bemerkungen, Hinterlegungsvertrag und Umfang im Info; Handwerkskundschaft 1782 ist in 9.3."
+D150589;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Nur letzte Einheit; «o. J.» steht im Titel von 6.1.8. (Werkzeug-Rauschen)."
+D150689;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Literaturverzeichnis im Info; 7. mit Übersicht, Detailkopf S. 177 nicht übernommen; Vorspann «51», «17» = Schachtelzahlen."
+D150829;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Darin 7. richtig; Schlussvermerke im Info."
+D151150;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Nicht übernommen nur Tabellenköpfe «Sch.».
+D151194;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;"Nur letzte Einheit f); Titel :a. bekannt (mittel)."
+D151210;D1;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Umfang und Bearbeitung im Info; K208 (bekannt.csv) in Runde 12 umgesetzt (Plakat im Darin von 13.4. mit Hinweis), Gegenprüfung bei G."
+D151217;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Info: Archivierungs- und Ergänzungsvermerk; Nicht übernommen: nur Silbenreste «No-»/«vember» (1.2.2.), Wort im Import ganz."
+D151271;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Darin 1–4 von :6 sind dessen eigene Beschreibung (Personen, Originaltitel kursiv, Umfang), wie bei den übrigen Einheiten; Info: 2 Bearbeitervermerke."
+D151399;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: 2 Bearbeitervermerke.
+D151730;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Info: «Anhang» / «Verweis auf andere Archivbestände» (V.J. b.301.–309., V.J. c.401., V.J. c.17.) = Verweise auf andere Bestände, kein Stück (alle 32 Zeilen im Info); Nicht übernommen: Titelblatt."
+D151733;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Info: Fussnote «*Nach 1975 …» zu Heft Nr. 7 (bekannt NP10, mittel); Schachtel 3/4 im Darin von :5 bekannt (NP10, mittel); Nicht übernommen: Vorbemerkung zum ganzen Bestand (Prosa)."
+D151735;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;leer;leer;ok;"Schluss nur die Signaturzeile; Nicht übernommen: Titelblatt und Vorbemerkung mit «Inhalt: …» zum ganzen Bestand (Prosa, Konvention, höchstens mittel)."
+D151745;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D151756;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;«Die Protokolle von 1950 bis 1960 und von 1963 bis 1981 sind lose verschachtelt.» im Darin der Bestandszeile ID 6 (Konvention).
+D151759;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;«Die Protokolle von 1964 bis 1981 sind lose verschachtelt.» im Darin der Bestandszeile ID 7 (Konvention).
+D151761;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D151766;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;"Schluss: Titelfortsetzung der letzten Einheit; kein Schlussvermerk."
+D151768;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;leer;leer;leer;"Schluss nur die Signaturzeile; kein Schlussvermerk."
+D151769;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D151773;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Info: Änderungsvermerk; «b.53..6» mit Tippfehler-Hinweis."
+D152379;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D152382;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D152383;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;«Die Protokolle von 1962 bis 1988 sind lose verschachtelt.» im Darin der Bestandszeile ID 9 (Konvention).
+D152386;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D152387;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D152390;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Überleitungssatz «Zu dieser vollständigen gebundenen Serie … als Dublette:» im Darin von :6 – bekannt (NP12, mittel), nicht neu gemeldet; die Dubletten :1–:4 (Doppel) sind Teile T2 (Konvention), in der Prüfmappe «?»; Nicht übernommen: Tabellenkopf."
+D152392;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D152394;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;"Schluss: Darin «1 Blatt» der letzten Einheit; kein Schlussvermerk."
+D152396;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;leer;leer;leer;"Schluss nur die Signaturzeile; kein Schlussvermerk."
+D152398;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;"Schachteln 2–7 sind Teile T2–T7 von :1. (bekannt, K76/NP12 behoben; Prüfmappe «?»); Vorbemerkung Vorspann; kein Schlussvermerk."
+D152400;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: «Vgl. auch V.J. b.202. Jahresrechnungen der Heime: …» = Verweis auf anderen Bestand.
+D152401;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;Fund;ok;leer;"Bestandszeile ID 7 mit «Zusätzlich 1 Schachtel Besoldungsquittungen …» (Runde 12 Regel 1); Info «Total: 20 Schachteln» = Summe der Einheiten :1–:6 (13+2+1+1+2+1); gering D2-3: Darin 4 von :6 verbindet zwei Listeneinträge."
+D152404;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;leer;leer;ok;"Schluss nur die Signaturzeile; Nicht übernommen: Titelblatt."
+D152442;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Info: Umfangsangabe «Der Bestand umfasst …» (Zusammenfassung des Verzeichneten) und Bearbeitervermerk; Nicht übernommen: Tabellenkopf."
+D152459;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Info: Umfangsangabe «Der Bestand umfasst …» (Zusammenfassung des Verzeichneten) und Bearbeitervermerk; Nicht übernommen: Tabellenkopf."
+D152460;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Info: Umfangsangabe «Der Bestand umfasst …» (Zusammenfassung des Verzeichneten) und Bearbeitervermerk; Nicht übernommen: Tabellenkopf."
+D152461;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Info: Umfangsangabe «Der Bestand umfasst …» (Zusammenfassung des Verzeichneten) und Bearbeitervermerk; Nicht übernommen: Tabellenkopf."
+D152781;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Info: Umfang, 2 Bearbeitervermerke und «Bibliografie» (Werke von Olga Meyer, Quelle) = Literatur; alle 41 Zeilen im Info («→ ID …» in der Prüfmappe nur Wortgleichheit); Nicht übernommen: Gliederungsüberschriften I./II."
+D152817;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Info: Änderungsvermerk; Nicht übernommen: Titelblatt, Tabellenkopf und 9 Lückenvermerke «[… nicht belegte Signaturen]» (Runde 12 Regel 7, kein Fund)."
+D1533;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Info: Änderungsvermerk; Nicht übernommen: Titelblatt."
+D1541;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1572;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1574;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1576;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1578;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Info: Änderungsvermerk; Datum im Titel bekannt (NP11, mittel)."
+D1580;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1582;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1584;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1589;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Info: Änderungsvermerk; :15 Zeitraum offen und «1812 (mit unvollständigem Register)» im Darin bekannt (NP11, mittel)."
+D1591;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Info: Änderungsvermerk; Titel «Hochbauinspekto- 1932-1935 rats» bekannt (NP10/11, mittel)."
+D1593;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1595;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1600;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1602;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1604;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1606;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1608;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Info: Änderungsvermerk; Titel «Bauverwal- 1888-1892 tung» bekannt (NP10/11, mittel)."
+D1610;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1612;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1614;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1616;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1618;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: «Bei den Verzeichnissen gibt es zeitliche Überschneidungen. Der Archivbestand umfasst zwei Teilbestände.» = Zusammenfassung, kein Stück.
+D1620;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1622;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1624;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1626;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1628;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1630;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1632;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1634;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1636;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1638;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1640;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1642;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1644;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1646;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1648;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1650;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1652;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1654;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1656;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1658;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1660;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1662;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1664;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1666;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1668;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1670;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1672;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1674;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1676;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1678;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D167;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;Fund;leer;leer;"Findmittel ohne Signaturen: ganzer Inhalt im Darin der Bestandszeile (Konvention); gering D2-5: «A - D Gliederung wie 1975 (s. oben)» 6× in zwei Zeilen zerlegt; kein Schlussvermerk."
+D1680;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1686;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Einheiten :1–:11 vorhanden (PDF «V.G. b.58.h:n», NP11/12 behoben); die Prüfmappe ordnet die Signaturzeilen nicht zu, darum Schluss ab Seitenbeginn; Info: Änderungsvermerk."
+D1688;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1690;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1692;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1693;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1696;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Info: Änderungsvermerk; Signatur «V.G.b.608.:5» wie im PDF, mit Hinweis."
+D1698;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1700;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1702;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1704;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Info: Archivierungsvermerk; Nicht übernommen: Titelblatt."
+D1706;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1708;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Info: Änderungsvermerk; Nicht übernommen: Titelblatt."
+D1710;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1712;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1714;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1716;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1718;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1720;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1722;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1724;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1726;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;«Drei Archivschachteln enthalten Drucksachen des Heizamtes ab 1945.» im Darin der Bestandszeile ID 50 (Konvention).
+D1729;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"K206 behoben: Bestandszeile ID 8 mit «Der Archivbestand enthält noch eine Schachtel Hilfsregister …» und Hinweis; Info nur der Änderungsvermerk."
+D1731;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D1733;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;leer;leer;leer;"Schluss nur die Signaturzeile; kein Schlussvermerk."
+D1739;D2;;;;;;kritisch;kritisch;;Fund;ok;ok;"bekannt K39 (bewusst offen, noch da): «Mappe mit Grossformaten» samt Kopf und Eintrag im Darin 15–17 von Schachtel 28; Info: 2 Vermerke; Nicht übernommen: 30 Tabellenköpfe."
+D174224;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Info: Umfangsangabe «Der Bestand umfasst …» (Zusammenfassung des Verzeichneten) und Bearbeitervermerk; Nicht übernommen: Tabellenkopf."
+D174277;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Schluss: 55 Darin-Zeilen von :34 (eigene Liste, Unterüberschriften «Fotos …», «Diverses»); Info: Änderungsvermerk; mittel D2-2: Zeitraum :6–:34 aus dem Ablieferungsdatum."
+D174290;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Info: Umfangsangabe «Der Bestand umfasst …» (Zusammenfassung des Verzeichneten) und Bearbeitervermerk; Nicht übernommen: Tabellenkopf."
+D1746;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Darin von XIV. eigene Liste; Info: 2 Vermerke."
+D1749;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;leer;leer;leer;"Schluss nur die Signaturzeile; kein Schlussvermerk."
+D175454;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"K109 behoben: Literatur und Lagerungsvermerk im Info, Darin von 4.4. nur die Bilder; Titel «(1)» und Schachtel bekannt (NP12, mittel)."
+D175480;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;Fund;ok;ok;"Findmittel ohne Signaturen: ganzer Inhalt im Darin der Bestandszeile; gering D2-6: Einträge am Spiegelstrich zerrissen, Verweis «vgl. auch …» im Darin; Info: Umfang, Archivierungsvermerk; Nicht übernommen: Kopf."
+D1754;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Info: Archivierungsvermerk; Nicht übernommen: Titelblatt."
+D175561;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;"Schluss: Darin der letzten Einheit; kein Schlussvermerk."
+D1757;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: nur Bearbeitungs-/Änderungsvermerk.
+D175827;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Anhang «Darstellungen zur Zunft Hottingen …» und Bibliotheksstandort im Info (K NP10/11 behoben); Vorspann: 2.2. nur in der Inventarübersicht – bekannt (NP10, mittel, Entscheid: dem Detailverzeichnis folgen)."
+D175949;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"K203 behoben: «17. April 1998 béatrice wiggenhauser» im Info, Q.1 ohne Darin; Nicht übernommen: Titelblatt."
+D175994;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;Fund;ok;ok;"gering D2-4: Darin 2 von IV.A.65. verbindet zwei Einträge; Info: Revisionsvermerk; Nicht übernommen: Titelblatt und «Gemeindegutsrechnungen, Rechnungsbeilagen» mit Bemerkung (als Hinweis bzw. Darin bei IV.A.45., K172 behoben)."
+D175996;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Info: Revisionsvermerk «… Einarbeitung weiterer Rechnungen wegen ausstehender Nachlieferungen sistiert» = Bearbeitungsvermerk; Nicht übernommen: Titelblatt."
+D175997;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Info: Revisionsvermerk; Nicht übernommen: Titelblatt und Zwischenüberschriften «Öffentliche …» / «Bürgerliche Stiftungen und Fonds» (Hinweis bei IV.C.130.)."
+D1759;D2;;;;;;kritisch;kritisch;;ok;Fund;leer;"NEU kritisch D2-1: «Die dazugehörigen vier Compact Discs wurden in den Archivbestand integriert.» steht nur im Info, keine Bestandszeile (Konventionsfall gegen K110); Schluss sonst richtig (6.2.3. nur «Undatiert; Format …»)."
+D176018;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Info: Umfangsangabe «Der Bestand umfasst …» (Zusammenfassung des Verzeichneten) und Bearbeitervermerk; Nicht übernommen: Tabellenkopf."
+D176060;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;"Schluss: Darin der letzten Einheit; kein Schlussvermerk."
+D176151;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Info: Änderungsvermerk; Nicht übernommen «fehlt: 7» = Spaltendatum «Juli 1925» bei 1.1.1. – bekannt (funde.csv M05, mittel, durch «Heumonat 1925» gedeckt); Zeitraum 16.20. bekannt (mittel)."
+D176186;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Info: Umfangsangabe «Der Bestand umfasst …» (Zusammenfassung des Verzeichneten) und Bearbeitervermerk; Nicht übernommen: Tabellenkopf. Titel/Schachtel bekannt (mittel)."
+D1761;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;"Schluss: Titelfortsetzung der letzten Einheit; kein Schlussvermerk."
+D176367;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Info: 2 Bearbeitervermerke; Nicht übernommen: nur Silbenreste «Novem-»/«ber» (2.1.3.)."
+D1763;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;leer;leer;leer;"Schluss nur die Signaturzeile; kein Schlussvermerk."
+D176551;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Prüfmappe ordnet «7.» der Unterliste von 6. zu; die echte letzte Einheit 7. (S. 6 y548) hat Darin 1–6 richtig, die Statuten 7.–11. stehen bei 6.; Info: Erstellungs- und Bearbeitervermerke; Schachteln bekannt (NP12, mittel)."
+D176555;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Info: Archivierungsvermerk; Schachtelnummer im Titel bekannt (NP11, mittel); Nicht übernommen: Titelblatt."
+D176578;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Info: Umfangsangabe «Der Bestand umfasst …» (Zusammenfassung des Verzeichneten) und Bearbeitervermerk; Nicht übernommen: Tabellenkopf."
+D176579;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Info: Umfangsangabe «Der Bestand umfasst …» (Zusammenfassung des Verzeichneten) und Bearbeitervermerk; Nicht übernommen: Tabellenkopf."
+D176580;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Info: Umfangsangabe «Der Bestand umfasst …» (Zusammenfassung des Verzeichneten) und Bearbeitervermerk; Nicht übernommen: Tabellenkopf."
+D176721;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Info: Umfangsangabe «Der Bestand umfasst …» (Zusammenfassung des Verzeichneten) und Bearbeitervermerk; Nicht übernommen: Tabellenkopf. Schachteln 1–14 belegt."
+D176726;D2;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Findmittel ohne Signaturen: ganzer Inhalt im Darin der Bestandszeile; Personenrecherche im Vorspann; Block «NACHWEISE» (S. 4) im Darin – bekannt (NP11, gering); Info: Archivierungsvermerk."
+D176772;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info «Der Nachlass besteht aus 18 Schachteln, davon 3 im Grossformat.» fasst die verzeichneten Schachteln 1–18 zusammen.
+D176793;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Info «Der Bestand umfasst gegenwärtig 92 Archivschachteln.» = Umfang. Vorspann «Der Archivbestand enthält vereinzelt Drucksachen ab 1851.» = Beschreibung, kein Stück.
+D176795;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"«Kinder von …»-Überschriften als Hinweis; Übergabevermerk «Die Bücher wurden am 24. März 2017 … übergeben.» gehört zur Einheit 5."
+D176824;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;«In Schachtel 9 befindet sich ferner …» steht in der Bestandszeile (K164 behoben). a./b.-Zeilen im Darin nach Soll (NP2). Bestandssignatur «VII.308.A.» steht auf der Bekannt-Liste.
+D176868;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;«KOMMENTAR FEHLT NOCH» ist eine Notiz, zu Recht nicht übernommen.
+D177234;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Info «Der Bestand umfasst 0.10 Laufmeter (1 Schachtel).» = Umfang.
+D177448;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Folgezeile «Altstetten» steht in Darin 4 (Mappe zeigt «Titel» = Rauschen).
+D177460;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;«C Biergerichtsentscheide» ist Zwischenüberschrift innerhalb von C (vor C 25–C 29), kein Fund.
+D177470;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Datei aus G; Schluss nach 29. richtig."
+D1791;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;
+D1793;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;
+D1795;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;
+D1797;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;"Erster Listeneintrag als Titel, übrige Nummern im Darin – bekannt mittel; Schluss vollständig."
+D1801;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;
+D1803;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;"Teile T2/T3 = Schachteln 1/2 mit a)–d) bzw. e)–h) richtig; Teil-Titel bekannt mittel (NP10/NP14)."
+D1805;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;
+D1814;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;
+D1820;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;Titel von :18. am Zeilenende abgebrochen, Rest im Darin – bekannt mittel (NP10).
+D1822;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;
+D1828;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;
+D1830;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;
+D1832;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;
+D1837;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D1856;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D1858;D3;;;;;;kritisch;kritisch;;ok;ok;ok;bekannt K40 (bewusst offen). Die Positionen der Schachteln 14–20 nach :10. («?» in der Mappe) stehen als Teile von :1.–:8. mit Schachtel-Nr. 14–20 im Import (geprüft, kein Text weg). Schluss, Info und Tabellenköpfe sonst richtig.
+D185;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Vorbemerkung zum gedruckten Aktenverzeichnis der PUK (in Schachtel 1) nur im Blatt Vollständigkeit – Prosa, Konvention.
+D1860;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;
+D1874;D3;;;;;;kritisch;kritisch;;ok;ok;ok;bekannt K173 (bewusst offen, Code «-» in 2. weiter weg). Schluss nach 3.11.5. und die drei Bearbeitervermerke im Info richtig.
+D1877;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D1880;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Schluss (331 Zeilen) = 3. Serie H.–P. nach G.VI.; alle Inhalte stehen bei den richtigen Teilen T2/T3 (Registraturplan, z. B. O. T3 ID 185 mit 12 Darin-Zeilen, H.III. T2 ID 163). «→ ID 160/170» in der Mappe = Rauschen. «Altstadtsanierung,» endet schon im PDF mit Komma."
+D188;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;
+D1916;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;"Erster Listeneintrag als Titel, übrige Nummern im Darin – bekannt mittel; Schluss vollständig."
+D1918;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;"Erster Listeneintrag als Titel, übrige Nummern im Darin – bekannt mittel; Schluss vollständig."
+D191;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;
+D1922;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;
+D1924;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Schachteln 79/79a im PDF alphabetisch gemischt; jede Zeile richtig nach ihrer Schachtel verteilt (ID 79: 14, ID 80: 15 Einträge). «?» und «→ ID 48/40 …» in der Mappe = Rauschen."
+D1926;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;
+D1933;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Vorspann-Satz beschreibt den Bestand, kein Stück.
+D1935;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D1937;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;"Schachtel 2 als Teil 2 mit «8. …» als Titel bekannt mittel (NP11); alle Einträge 1.–10. vorhanden."
+D1963;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Vorspann-Satz beschreibt den Bestand, kein Stück.
+D1964;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D1967;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;
+D196;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;
+D2009;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info «Ab 1990 werden die Protokolle gebunden in Archivschachteln gesammelt.» ist ein Überlieferungshinweis (Bestand laut Titelblatt 7 Bände 1962–1990), kein Stück des Bestands.
+D2040;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2067;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info «Ab 1986 werden die Protokolle zusätzlich und ab 1991 ausschliesslich ungebunden in Archivschachteln gesammelt.» ist ein Überlieferungshinweis (Bestand laut Titelblatt 5 Bände), keine Menge, kein Stück des Bestands.
+D2075;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2077;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2079;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2081;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2083;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2085;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2087;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2089;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2091;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2093;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2095;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2097;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2101;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2104;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2108;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;
+D2123;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;"«→ ID 26/4/14 …» in der Mappe = Rauschen (gleiche Titel); Schachteln 33–36 vollständig."
+D2127;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Vorspann «Bemerkungen zum Bestand» = Bestandsgeschichte; Jahre im Text bekannt mittel (NP12)."
+D2129;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;
+D2131;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;
+D2133;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;
+D2135;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;
+D2137;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;
+D2139;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;Stückzahl «2» im Titel von :42. – bekannt mittel (NP-Funde zu V.H.c.46.).
+D2141;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;Findmittel ohne Signaturen: ganze Liste im Darin der Bestandszeile (Konvention).
+D2143;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;
+D2145;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;
+D2147;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;
+D2192;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Vorspann-Satz beschreibt den Bestand, kein Stück.
+D2268;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Stückzahl «1» im Titel von :9. – bekannt mittel.
+D2270;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Titel von :16. mit Stückzahl «1», Rest im Darin – bekannt mittel (NP13).
+D2284;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;
+D2286;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;
+D2289;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;
+D2323;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2329;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;Vorbemerkung mit «Inhalt: …» nur im Blatt Vollständigkeit – bekannt gering (Bestandsbeschreibung).
+D2346;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;Fund;leer;ok;D3-4 (gering): drei Einträge «Neubühl ohne Angabe» ×2 / «Neubühl 1987» in einer Darin-Zeile der Bestandszeile. Sonst Findmittel ohne Signaturen, ganze Liste im Darin der Bestandszeile (Konvention).
+D2348;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;Findmittel ohne Signaturen: ganze Liste im Darin der Bestandszeile (Konvention).
+D2352;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;Findmittel ohne Signaturen: ganze Liste im Darin der Bestandszeile (Konvention).
+D2363;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;"Vorspann «Informationen über die Tätigkeit …» und «Vorgängerbestand …» nicht importiert (Konvention); Schachtel-Einheiten und Inhalte richtig."
+D2366;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;"Vorspann «Informationen über die Tätigkeit …» und «Vorgängerbestand …» nicht importiert (Konvention); Schachtel-Einheiten und Inhalte richtig."
+D2372;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;"Vorspann «Informationen über die Tätigkeit …» und «Vorgängerbestand …» nicht importiert (Konvention); Schachtel-Einheiten und Inhalte richtig."
+D2378;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2380;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D244;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;
+D2502;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"K207 behoben: Bestandszeile ID 20 V.L.1. (Stufe Bestand, E1) mit dem Satz «… umfasst neben … noch 5 Schachteln …» im Darin und Hinweis; im Info nur «Anmerkungen:» und «7. Juni 2000 / RD …»."
+D2504;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info «Die verzeichneten Bilder … waren von 1976 bis 2007 im Aufenthaltsraum … aufgehängt.» = Bestandsgeschichte. Langer Titel von 2.3. bekannt (mittel, NP12).
+D2506;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2508;D3;;;;;;kritisch;kritisch;;Fund;ok;ok;"D3-2: Schlussvermerk «Der Bestand der Politischen Flugblätter … umfasst 16 Archivschachteln.» (x 71) im Darin von :16; seit NP10 als mittel gemeldet, nach K75 kritisch (Schwere bitte bestätigen). Titel «Zeitraum Anzahl Auswahl, Schachtel n» bekannt mittel (NP10). Nicht übernommen = Titel, Einleitung, Tabellenkopf."
+D2510;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Letzte Einheit ist eigentlich ID 107 :123 (S. 79–82, 81 Darin-Zeilen, Inhalt richtig, Bearbeitervermerk jetzt im Info). «C Elternzeit-Initiative - Kantonale Volksinitiative …» in zwei Darin-Zeilen (Kosmetik).
+D2512;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2514;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2516;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Nummerierte Liste 1.–16. im Darin der Bestandszeile – bekannt (NP11 mittel, Konventionsfrage), ebenso Darin 13 mit zwei Einträgen; Bearbeitervermerk im Info."
+D2519;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;«Siehe unter Abnormes …» in «Verwandte Verzeichnungseinheiten» (Konvention «Siehe …»).
+D2525;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2527;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2529;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2531;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2534;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;Fund;ok;leer;D3-3 (gering): Darin von 6.10. durch die Umbruch-Reparatur falsch getrennt («Entwurf: Paul» / «Boesch, …» / «Werner, … Beschreibung dieser Scheiben …»). Info = Bestandsgeschichte und Bearbeitervermerke, richtig.
+D2538;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D253;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;Vorbemerkung mit «23.02.1995/rpt» nur im Blatt Vollständigkeit (Vorspann).
+D2540;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2544;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2546;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2550;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2552;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2554;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2556;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2558;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2560;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2562;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2564;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;
+D2566;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Vorspann-Satz beschreibt den Bestand, kein Stück.
+D256;D3;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;
+D2575;D3;;;;;;kritisch;kritisch;;ok;Fund;leer;"D3-1: «Des Weiteren enthält der Bestand vereinzelte Dokumente, die nicht ins „Acten-Verzeichnis“ aufgenommen wurden.» nur im Blatt Info; Stück ohne Nummer, Bestandszeile fehlt (Text weg). Schluss sonst ok (1.44. vollständig)."
+D2587;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Findmittel ohne Signaturen: ganzer Inhalt in der Bestandszeile (Konvention), auch Erwerbsnotiz und Hinweise auf Exemplare in X.G. 73./Db 1139; Bearbeitervermerk im Info."
+D2589;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;Fund;ok;ok;"Bekannt NP12 G1 (mittel, Grenzfall), unverändert und nicht neu gemeldet: «Gedruckte Exemplare (Lichtdruck):» (S. 2 y296, Kopf des Verweisblocks) ist einziges Darin von 19. Info: Literatur, Exemplare in V.L.136.a/Db 1139/X.G. 73., Benützung, Bearbeitervermerk – richtig. Nicht übernommen: Titelblatt, Biografie, Vorbemerkung, Gruppenköpfe (Hinweise bei 10. und 11.; «9 Stadträte» vor 1. nur als Text vor der ersten Signatur, Titel 1.–9. auch ohne ihn verständlich)."
+D258;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;"Nach 26. kein Text; keine Schlussvermerke im PDF."
+D2591;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Bestandszeile (Konvention); Darin 3 vorhanden (Zuordnung «Titel» = Rauschen)."
+D2596;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Bestandszeile; Nicht übernommen nur Kopfzeile."
+D2607;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Nach 2.15. nur Archivierungsvermerk (Info).
+D2609;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Vorspann «64.» = «64. Eidgenössisches Turnfest …» im Titelblatt, keine Signatur.
+D260;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;"«Schachtel II.» mit Inhalt im Darin der Bestandszeile (Konvention, so in NP14); Nicht übernommen = Titelzeilen."
+D2614;D4;;;;;;kritisch;kritisch;;ok;ok;Fund;"Bekannt K41, unverändert (nicht neu gemeldet): V.L.149.–155., 157.–161. und die Beschreibungen von V.L.156./162. nur «Text vor der ersten Signatur» (89 Zeilen). Schluss richtig: «u. a.» im Darin von V.L.162.:4; «Die Bestände umfassen 27 Normschachteln …» und Bearbeitervermerke im Info."
+D2616;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Bestandszeile (Konvention).
+D2618;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Bestandszeile (Konvention).
+D2620;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"«Anmerkungen zum Bestand» (Benützung, alter Bestand, Umfang, Verweise auf Zeitungsausschnitte, Bibliothek, V.H.c.906., Blasonierungen in 15.1.5.) und Bearbeitervermerke im Info – kein Stück ohne Nummer; [NACH] = Wortgleichheit. D2620 1.14. bekannt (nicht neu)."
+D2623;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Bestandszeile; «Der Bestand umfasst zwei Archivschachteln.» = Zusammenfassung."
+D2628;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Bestandszeile; Nicht übernommen nur Kopfzeile."
+D2630;D4;;;;;;kritisch;kritisch;;Fund;leer;ok;"NEU kritisch (D4-1): Bearbeitervermerk «Erstellt und bearbeitet von cca / 20. Juni 2000» als Darin 8 von 9. «Varia»; Info «–». Bekannt (mittel, nicht neu): 9. Schachtel 1 statt 2 (Überschrift «Schachtel 2 (Grossformat)» in Nicht übernommen, Hinweis bei 9.)."
+D2632;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Darin 1–4 von 7. in dessen Textspalte (x 170) = eigener Text; «STADTARCHIV ZÜRICH» und Bearbeitervermerke im Info."
+D263;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;Nicht übernommen = Titelblatt.
+D2641;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"«fehlt: ohne/datum» bei :71, :100, :136 ist Fehlalarm – «(ohne Datum …)» steht im Titel; sonst Tabellenkopf."
+D2643;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Info: Bestandsbeschreibung, «Der Bestand umfasst 140 Archivschachteln.» (Zusammenfassung), Archivierungsvermerk.
+D2645;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Wie D2643 (67 Archivschachteln).
+D2649;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Bestandszeile (Konvention).
+D2653;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Bildliste im Darin von 4.2.; Bearbeitervermerke im Info."
+D2655;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Bestandszeile (Konvention); Nicht übernommen nur Kopfzeile."
+D2657;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;Fund;ok;leer;Neu gering (D4-3): «Die Dokumentation kann erweitert werden.» als Darin 16 der Bestandszeile. Bekannt kosmetisch (NP11 E3): Darin 1–6 = Titelblatt samt «Angelegt 15. Dezember 2005» (Datum ohne Name, nicht K169).
+D2659;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D265;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;"Nach :6 kein Text; keine Schlussvermerke im PDF."
+D2663;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Bestandszeile (Konvention).
+D2665;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2667;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Bestandszeile; Nicht übernommen nur Kopfzeile."
+D2669;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Zeitraum 1825–1956 wie Titelzeile im PDF (vermutlich Tippfehler im PDF), kein Fund.
+D2671;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2673;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Ohne Signaturen; Zwischenkopf «Verzeichnisse» im Darin von Schachtel 3."
+D2675;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2677;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2679;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2681;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Köpfe der zwei Mappenfolgen in Nicht übernommen: bewusst offen (Runde 7, doppelte Signaturen; NP12 mittel), nicht neu gemeldet. «Der Bestand umfasst eine Archivschachtel.» = Zusammenfassung."
+D2683;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2685;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2687;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2695;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2697;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2699;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2704;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;Fund;ok;leer;Neu gering (D4-2): Verweis «Vgl. auch … Dokument 0474B …» als Darin 7 der Bestandszeile. Einleitung mit Verweisen vor dem Detailverzeichnis = Vorspann (nicht importiert, Konvention).
+D2706;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2708;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;«cm)» («?») steht im Darin.
+D2710;D4;;;;;;kritisch;kritisch;;ok;ok;ok;"Bekannt K117, unverändert (Teile der Jahresdokumentation Sch. 1/2; ausserhalb der Durchsicht-Abschnitte; nicht neu gemeldet). Literatur und Umfangssatz im Info (60 Zeilen vollständig, [NACH] = Wortgleichheit). Nicht übernommen: Vorbemerkung, Abschnittsköpfe; «Die Schachteln 1 und 2 enthalten in loser Folge:» = Einleitungssatz (kein Fund, höchstens gering)."
+D2713;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2715;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Nicht übernommen = Titelblatt.
+D2717;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2719;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2721;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Geschichte des Einigungsamtes und Verweise auf V.B.a.18./b.58./c.22. im Info.
+D2723;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2725;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2727;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Bestandszeile (Konvention).
+D2729;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2731;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2733;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;«Verweise auf andere Bestände» samt «Nr. 7:» usw. im Info (seit NP12 behoben).
+D2735;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Mappen 1–8 und Provenienznotiz im Darin von Schachtel 3 (Textspalte).
+D2737;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;«Der Bestand umfasst 11 Normschachteln.» = Zusammenfassung (1, 2, 3/4, 5, 6, 7/8, 9, 10/11).
+D2739;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2741;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2743;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Bestandszeile (Konvention).
+D2745;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2749;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Bestandszeile (Konvention).
+D2751;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Bekannt (NP11, mittel): 4.4. Titel «… vom 1. August», Zeitraum offen –19.11.1919.
+D2753;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Bestandszeile (Konvention).
+D2754;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Bekannt gering (NP11 E7): «1897» / «1904» der ersten Darin-Zeile getrennt.
+D2757;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Bekannt gering (NP11 E2): Bestandstitel endet auf «Zeitliche Erstreckung:». «?» S. 5 y254 = Rauschen (Text in Darin 58/59).
+D2759;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Notiz zu den 3 Mäpplein und Verweise im Info (K99, Rest mittel laut NP13).
+D2761;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2763;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;Fund;ok;ok;"Neu gering (D4-4): 9. Darin 5 = zwei Einträge in einer Zeile. Verweis «Weitere Pflichtenhefte … V.B. c.9. und V.L. 14.» im Info; Tabellenkopf in Nicht übernommen."
+D2765;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2767;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Verweis auf V.L.1001./V.L.1000. im Info.
+D2776;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"«Lagerung: 1 grossformatige Schachtel» im Info; Nicht übernommen = Titelblatt, Literaturangabe der Faksimiles."
+D2828;D4;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Bekannt K15 (Entscheid: Mindest-Soll erfüllt, Rest mittel): Anhang «Vorhelvetische Urkunden» ganz im Info (137 Zeilen, auch «Pa»/«Pg»). Nicht übernommen = Vorbemerkung (u. a. 31. obsolet).
+D2834;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;"c) mit Darin 1.–40. nach Soll K17; nicht übernommen nur der Tabellenkopf."
+D2839;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"«Der Bestand umfasst 18 Mappen» = Umfang (Mappen 1–18); «fehlt: 7/11» bei 2.6. ist Werkzeugrauschen, Einträge 45. und 48. stehen vollständig im Darin."
+D2841;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;«Dokumentation von Werner Friedrich Kunz (…), Bildhauer und Plastiker» = Herkunft der ganzen Dokumentation (schon auf dem Titelblatt), im Info richtig.
+D2848;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Absatz zu StRB 1930/1931 = Bestandsgeschichte → Info; [NACH] nur Textsuche."
+D2850;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Pokal → Bestandszeile mit Hinweis; Bearbeitungsabsatz → Info; Köpfe «55/56 Briefe …» S. 14/18 gehören zur Briefliste, 55. und 56. sind Einheiten (S. 13)."
+D2853;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"«Aufteilung des Bestandes in Schachteln» = Zusammenfassung, Schachtelfelder 1/1/1-4/4/5 stimmen; Lücken 1b und 10a schon im PDF."
+D2857;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Biographie Zollinger → Info.
+D2859;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;Schluss = nur die letzte Einheit.
+D2861;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2872;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;«Aufteilung der Bilder und Skulpturen auf die Schachteln 7 bis 12» = Schachtelfelder von 10.1–10.14 (alle 14 stimmen).
+D2894;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;«73 Schachteln» = Summe der je Gruppe gezählten Schachteln.
+D2901;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Genossenschaftsgeschichte → Info (K145 bleibt behoben); «Grütli-Buchdruckerei» vollständig in :11 Darin."
+D2915;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;Fund;ok;leer;D5-5 (mittel): 9.2./9.1. Zeitraum = Übergabejahr 1982/1959.
+D2921;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;"Briefliste von 7. = bekannt «D2921 Briefgruppen als Liste»; «Vgl. auch … VII 131» = Verweis."
+D2923;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;Fund;ok;"D5-6 (gering): Bearbeitervermerk im Blatt Vollständigkeit statt Info; Abschnitte 1.–3. = Vorbemerkung, vier Schachtel-Einheiten richtig."
+D2925;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Biographie Raths → Info.
+D2931;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;«VII. 138. Fotografien» → Bestandszeile mit Hinweis (Konvention Stück ohne Nummer).
+D2933;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2935;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;«10 Normschachteln» = Sch. 1–10.
+D2937;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Kopf «Nachtrag vom 4. Juni 2008 (erhalten von …)» als Hinweis bei N.1.; Übersicht A.–N. = Einheiten; «Nachtrag: …» im Info = Bearbeitung."
+D2940;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"«Vgl. auch: … Na 1334 / Grf.» = Verweis auf die Bibliothek → Info; «12. Diverses» ist schon im PDF ohne Inhalt."
+D2945;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Biographie → Info.
+D2947;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;«Ausgewählte Literatur und Hinweise zu den Personen» → Info.
+D2951;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"K204 behoben (N.B.-Vermerk jetzt im Darin von 2.); Schluss 4.5. richtig."
+D2953;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;
+D2958;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2960;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;14. Titel mit «1 Sch.» (mittel, schon gemeldet, unverändert).
+D2962;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"«52 Schachteln …» = Umfang; bekannt «D2962 7.–10. Schachtel 3»."
+D2975;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;
+D2979;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Geschichte der Armenpflege → Info.
+D2988;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2990;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D2992;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"«Bestand: 7 Schachteln, 1 Mappe» = Umfang; 6.3. «… 1 Mappe» im Titel schon gemeldet (mittel)."
+D2994;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"4.3. zweimal → Teil 2 (Sch. 11) nach Konvention; «11 Archivschachteln» = Umfang."
+D3002;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D3004;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Übergabe 1967 = Bestandsgeschichte; «Umfang: 1 Schachtel»."
+D3006;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D3008;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;«u. a.» steht als Darin 7.
+D3012;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;8.c Titel «Diverse Drehbücher von» (mittel, schon gemeldet).
+D3018;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Kurzliste S. 78 = Zusammenfassung S. 10 (08.9., 09. mit Hinweis), Cakeplatte bei 09.; Vorspann «02.3.l.» = Tippfehler für 02.3.1. (ID 21 vorhanden); 09. Zeitraum 15.04.2009 schon gemeldet; Darin 5 «Ergänzt durch Caroline Senn (sec), 15. April 2009» in der Herkunftsklammer = Grenzfall, siehe D5-1."
+D3021;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"E) mit Teil 2 (Sch. 12) richtig; «Dienschtma No 13», «Aktivdienst 1940 …» vorhanden."
+D3026;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Register → Schachtel-Einheiten; Geschäftsbuch → Bestandszeile mit Hinweis."
+D3038;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;
+D3043;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;Fund;ok;ok;"D5-7 (gering): «HVZ - Kurier» geteilt; Titel mit «VII.183: n» schon gemeldet (mittel)."
+D3057;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;7. Titel «Musealien Schachtel 7 (Grf.) 3 Karton …», Schachtel leer (mittel, schon gemeldet, unverändert).
+D3060;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;"Porträtbild → Schachtel 10 nach Konvention; «16.06.1906» fehlt bei :1 weiter (mittel, schon gemeldet [M05])."
+D3063;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Anhang (#-Gegenstände bei den Erben bzw. im Landesmuseum) im Info nach Konvention (K148 behoben); Vorspann «25.» = Datum im Fliesstext; Schachtellücken schon gemeldet."
+D3067;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Köpfe «VIII. Nachtrag A/B vom …» als Hinweis; VIII. Zeitraum = Abgabedaten (mittel, schon gemeldet)."
+D3077;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D3080;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D3087;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;"Aufführungsliste in der Bestandszeile (Konvention); Tabellenkopf im Titel schon gemeldet (gering)."
+D3089;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;Fund;ok;Fund;"D5-4 (mittel): Schachtelköpfe 62–67 der Textbücher-Liste fehlen im Darin; D5-3 (mittel): VII.1. ohne Zeitraum (1934-1960); Detailverzeichnisse sonst richtig nach Schachtel verteilt."
+D3099;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"«Bemerkung: …» = Bestandsgeschichte → Info; K205 behoben."
+D3105;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D3131;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;
+D3133;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Teile 2–4 mit Zeitraum 1942–1986 statt je Schachtel, Titel «… 1942–1986 Schachtel» (mittel, schon gemeldet).
+D3142;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;«16 Archivschachteln sowie 1 grf. Spezialschachtel» = Umfang (keine Schachtelnummern im Verzeichnis).
+D3161;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;«fehlt: Schachtel 3/4» bei 1. und 2.d = Schachtel-Nr. (mittel, schon gemeldet).
+D3170;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D3178;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D3186;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;«24 Schachteln» = Umfang.
+D3190;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;«11 Schachteln» = Umfang.
+D3200;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Familienbiographie in Klammern → Info (Bestand «Familie Uhlig»).
+D3204;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"«Das übrige Material … V.L. 14.» = Verweis → Info; Kopf «Officielles Notizenblatt …» als Hinweis bei 12.; 51. Zeitraum aus dem Werktitel (bekannt); 14. schon gemeldet."
+D3206;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Bestandszeile; Titel mit doppeltem «Helene Tobler» (gering, schon gemeldet)."
+D3208;D5;;;;;;kritisch;kritisch;;Fund;ok;ok;"nur bekannt K42 (bewusst offen), unverändert; nichts Neues."
+D3217;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;«5 Schachteln» = Umfang.
+D3221;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D3225;D5;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;«79 Archivschachteln … und 1 Archivmappe» = Umfang.
+D3231;D5;;;;;;kritisch;kritisch;;ok;Fund;ok;"D5-1 (kritisch): Bearbeitervermerk «Nachlieferung verzeichnet 29.3.1993/Anna Pia Maissen» im Darin von 2.8. Teil 12 (gehört ins Info bzw. zur Gruppe); D5-2 (mittel) Titel mit «Verschiedenes»; Schluss 3.16. mit Teilen richtig."
+D323;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Darin von 3. (Akten 24/25, Fehlvermerk «Akten 18/1–24 … fehlen») richtig; «Stadtarchiv Zürich» / «Archivierung … Behrens» im Info. Nicht übernommen: Titelblatt, «Inhalt»."
+D3253;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;«Bestand: 1 Schachtel» (Zusammenfassung) und Bearbeitervermerke im Info. Nicht übernommen: Titelblatt und Vorbemerkung zur Geschichte der Volksbühne (Prosa, Übergabe durch A. Friedmann) – kein Stück.
+D3256;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;"5. mit «1949-1971, 1980» / «(1972-1979 fehlt)» richtig; PDF hat keine Schlussvermerke (geprüft). Absatz zur Stiftung im Vorspann (nicht importiert, Konvention)."
+D3265;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;«Bestand: 3 Schachteln, davon 1 im Ueberformat» = Schachtel 1–3 des Verzeichnisses (PDF geprüft). Nicht übernommen: Titelblatt.
+D3271;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Anhang «Baugruppen, Häuser, Siedlungen, Erstellungszeit» (S. 26) ganz im Info (Konvention «Anhang»); «4 Häuser Hirslanden 1877 → ID 16» nur Zuordnungsrauschen, Zeile steht im Info. Gruppenzeilen S. 9–22 als Hinweis; «Vgl. die vollständige Serie …» im Darin aller 29 Hefte 4.2.22.–4.2.50., «(Die Bände enthalten Notizen …)» bei 4.2.51./4.2.52."
+D32738;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Titel von 23. zweizeilig richtig, Bearbeitervermerk im Info. Bekannt mittel (NP10 C4): Schachtelnummer der rechten Spalte («9») im Titel, Schachtel-Nr. leer (alle 23). Nicht übernommen: Titelblatt, Benützungshinweis (Prosa).
+D3273;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Transkription und «Anmerkungen:» zu den Personen im Darin von B. (Textspalte x 99) richtig; Bearbeitervermerke im Info. Grenzfall: «Alle Dokumente liegen in Photokopie bei.» (S. 1 y266) nur im Blatt Vollständigkeit – Satz der Vorbemerkung, nach Konvention höchstens mittel, kein Fund."
+D3275;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Findmittel ohne Signaturen, ganzer Inhalt im Darin der Bestandszeile ID 1 (inkl. «Lose beiliegend: 1 Kupferstich …», Originalbrief); «marmoriert).», «Ott Usteri», «27. Mai 1832» stehen in Darin 121/136/137 (Zuordnung «Darin 13» nur Rauschen). Bearbeitervermerke im Info."
+D3277;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"«Grossformate: …» (S. 3 y368, 4 Stück) im Darin der Bestandszeile ID 11 mit Hinweis; Literaturliste «Hauptwerke von H. Strehler» und «Der Bestand umfasst zehn Archivschachteln und vier Grossformate» (= Sch. 1–10 + Grossformate) im Info; «Beiträge zur Kulturgeschichte … → ID 1» nur Rauschen, Zeile im Info."
+D32837;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Bild 1–6 im Darin von 4.4.4.; «Der Bestand umfasst:» mit Umfangszeilen und Nachlieferungsvermerke im Info."
+D3293;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"«Literatur» (Stahel 1950 «(Kopie)», Cincera 2003) nach Konvention im Info; Bearbeitervermerk im Info. Nicht übernommen: Titelblatt, Vorbemerkung zu den Vorläufervereinen («Es sind keine Akten vorhanden»)."
+D3313;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Schluss mit 138 Zeilen ganz in der vollen Mappe geprüft: Photoalbum und «Detailinventar der enthaltenen Porträtphotographien» 1.–47. als Liste im Darin von 4. (Konvention Liste; [SIG?] = Listennummern, PDF S. 3 geprüft). Bearbeitervermerke im Info."
+D3316;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Literatur, «Zu diesem Bestand», Schachtelaufteilung, Bibliotheksliste und Vermerke im Info (K120 erledigt); «→ ID 73/24/65» nur Rauschen, Zeilen im Info. Bekannt mittel (N2 NP12): «Schachtel 3: … 1.44. bis 2.5.» (im Blatt Vollständigkeit), «Schachtel 4 …», «Grossformat: 3.5.» nicht angewendet."
+D3321;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Beilagen im Darin von 8.; Übergabe und «Umfang: 1 Normschachtel» im Info. Nicht übernommen: Titelblatt."
+D3324;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"«HEINRICH WEHRLI (1834-1909): Biografisches» und «Nekrolog mit Bild: … in: Zürcher Wochenchronik» (Literaturangabe, PDF S. 6–7 geprüft) im Info; «Heinrich, 13.7.1859 → ID 8» nur Rauschen, Zeile im Info."
+D3329;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"«Anmerkungen:» (Biographie J. Maurer) und «rpt Stand 27.01.1995» im Info; 6. Bibliographie hat im PDF keine Einträge (geprüft)."
+D3343;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Darin von 3. richtig; Vermerk im Info. Nicht übernommen: nur Tabellenköpfe."
+D3352;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Darin von 2.2. richtig; Vermerk im Info. Nicht übernommen: Titelblatt, Vorbemerkung zum Reinhart Chor."
+D3355;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Absatz zur Gesellschaftsgeschichte nach der letzten Einheit und Bearbeitervermerk im Info. Nicht übernommen: Titelblatt.
+D3357;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Darin von 4.9. richtig; «Der Bestand umfasst 62 Schachteln und 2 Mappen» (Mappen = 4.3.1., 4.7.6.) und Umfangszeilen im Info (Zusammenfassung)."
+D3363;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Vermerk im Info. Nicht übernommen: Titelblatt, Vorbemerkung.
+D3382;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Darin von 5.4. richtig; Erwerbsvermerk und Bearbeitervermerk im Info."
+D3385;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Findmittel ohne Signaturen, Inhalt im Darin der Bestandszeile ID 1; Bearbeitervermerk im Info."
+D3390;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;«Nachweise zur Personenrecherche» (Verweise auf andere Bestände) und Geschenkvermerk im Info. Nicht übernommen: Titelblatt.
+D3398;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Titel von 9. über drei Zeilen richtig; Umfang, Ablieferung «VII.282.:8.–9.» und Vermerke im Info (PDF S. 4 geprüft). Nicht übernommen: Tabellenkopf «Gesuch Nr.»."
+D3405;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"«7. Akten Klusstrasse 30/32 … Schachtel 15» = Inhaltszeile der einschachteligen Gruppe 7. im Darin, gleich behandelt wie 4. und 5. (PDF S. 2 geprüft); Vermerk im Info."
+D3412;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"«Nr. K.V.»/«Nr. -» ohne Nummer im Darin der Bestandszeile ID 147 (bekannt «Nr.-», nicht neu gemeldet); Einheiten 273.–312. vorhanden (Zuordnung «?» nur, weil die Mappe die Nummernzeilen nicht verknüpft)."
+D3415;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"«u. a.» an Darin 4 angehängt; Umfang und Vermerk im Info. Nicht übernommen: Titelblatt, Biographie, Übergabe."
+D3425;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Darin (1)–(14) von C. samt Zwischenzeile «Aus anderer Provenienz …» richtig; Vermerke im Info. Nicht übernommen: Vorbemerkung, Schachtelübersicht (bekannt mittel: Schachteln nicht gesetzt)."
+D3429;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Gegenstände im Darin von 10.; «Der Bestand umfasst 15 Schachteln und 1 Mappe» = Zusammenfassung (PDF nennt nur Sch. 1–14 und Mappe 9/1, Unstimmigkeit im PDF)."
+D3432;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Vermerke im Info. Nicht übernommen: Titelblatt, Firmengeschichte.
+D3437;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Darin von 5.3. richtig; Vereinsangaben, Umfang, Übergabe im Info. Bekannt mittel: Titel 5.3. «Drucksachen» statt «Plakat: Motion Vorderberg Ja (1963)»."
+D3459;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Titel von 3.4. über den Seitenwechsel richtig; Vermerk im Info. Nicht übernommen: Titelblatt, Vereinsgeschichte."
+D3462;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"«Anhang» mit «Genealogische Zusammenhänge» und «Das Haus zur Kleinen Zinne» im Info (Konvention Anhang); «Eltern:» und «Heinrich Frick, von Adliswil» stehen im Info (Zuordnung nur Rauschen). Bekannt: Titelblattzeile im Info (gering), Verweis «1.8.)» bei 1.3. (mittel, NP10 A2)."
+D3466;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Schluss mit 78 Zeilen in voller Mappe und Excel geprüft: 584. mit Teilen T2–T30 (IDs 1169–1197), jeder mit eigenem Inhalt; Vermerk im Info. Bekannt 584./T19. Nicht übernommen: Titelblatt, Einleitung."
+D3468;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Zweite Zeile «1984.11 … 911» als Teil ID 852 (Sch. 911); Vermerk im Info."
+D3470;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"«Nachführung: 26.02.2026 / Max Schultheiss» im Info; Signatur «1964.1971» nach Regel Jahr.Laufnummer."
+D3472;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Vermerk im Info. Nicht übernommen: Titelblatt, Einleitung.
+D3474;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Titel von 47 zweizeilig; Vermerk im Info (bekannt mittel: Obergruppe/Details)."
+D3482;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"«do.» steht so im PDF; Vermerk im Info."
+D3484;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Vermerk im Info.
+D3503;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Absatz zur Vereinsgeschichte nach der letzten Einheit im Info (früherer Fund erledigt).
+D3505;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;«Bemerkungen zum Friesischen Legat», Bestandsgeschichte und Schachtelübersicht 1.–7. im Info. Bekannt mittel: Schachtel 1/2 nicht gesetzt.
+D3509;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;"«6. Verschiedenes II» als Teil ID 9 mit allen drei Einträgen (inkl. «Töchterchor Fluntern“»); PDF hat keine Schlussvermerke. Bekannt gering: Darin von 6."
+D3512;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Darin von 14. richtig; «STADTARCHIV ZÜRICH» und Vermerk im Info (Trennlinie «____» im Info, gering)."
+D3515;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Biographie R. Pfenninger und Vermerke im Info. Bekannt mittel: Titel 7.16. endet mit «alle ca».
+D3520;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;«Der Bestand umfasst 2 Schachteln» und Vermerk im Info.
+D3523;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Findmittel ohne Signaturen, Inhalt im Darin der Bestandszeile ID 1; Vermerk im Info."
+D3525;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Darin von 3.9. richtig; Übergabe und Vermerk im Info."
+D3528;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Darin von 4.3.11. richtig; Vermerke im Info."
+D3530;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Vier Inventare im Darin von 3. (K114 erledigt); Übergabe und Umfang im Info. Vorspann «4. Bilder … (separates Verzeichis)» = Teil in D3528, kein Fund. Bekannt: Zeitraum 1890."
+D3533;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;«Alfred Jud-Frei … Kurzbiografie liegt bei.» im Darin der Bestandszeile ID 16 mit Hinweis (K174 erledigt).
+D3542;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"«Anmerkungen zu Schachtel 29» im Darin von 29 (richtig); Bestandsgeschichte und «Signatur des Originals» im Info. Nicht übernommen: Titelblatt, Tabellenkopf."
+D3545;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Inhaltszeile «4. „Ferdinand Küchler …“» im Darin von 4. (bekannt gering, Z3 NP14); Vermerk im Info."
+D3548;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"«10 Years Opera Factory …» steht in Darin 2 von 9.3. (Mappe verankert 10. nur an der falschen Zeile, Excel geprüft); 10. mit Darin richtig; Umfang im Info."
+D3557;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"«Reproduktionen (Beilage)» im Darin der Bestandszeile ID 12 (K95 erledigt); Herstellung und «Standort … 1 Rolle» (gerollte Blätter 4.) im Info."
+D3561;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Darin von 8.4. richtig; Vermerk im Info. Nicht übernommen: Titelblatt, Biographie, Übergabe."
+D3563;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"«Beim Bestand befinden sich ferner 4 Ausstellungstafeln …» und «Der Bestand enthält auch die Materialien zur Übergabefeier …» im Darin der Bestandszeile ID 20; Anmerkungen, Verweis ZB und Verpackung im Info («Holzkonsole» gehört zu Nr. 15)."
+D3566;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Briefe «Nummer 1–4» im Darin von 3.; Vermerk im Info. Nicht übernommen: Vorbemerkung (die Familienchroniken Zoller stehen in 2. als Nummer 9/10)."
+D3569;D6;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Darin von 7.3. richtig; Vermerk im Info. Vorspann «220.» = Teil einer Adresse in der Biographie, keine Signatur."
+D3575;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;"2. Porträts mit 4 Darin-Zeilen vollständig; PDF endet mit Fusszeile; N = Titelblatt."
+D3579;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Info = Übergabe und Herkunftsnotiz («In der Beilage die folgende Notiz:» = Bestandsgeschichte, kein Stück); «Frau» → ID 2 nur Zuordnungsrauschen (steht im Info); 6. Titel/Darin bekannt mittel (C3/Z3); N = Titelblatt, Personenrecherche."
+D3581;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"«Der Bestand umfasst 6 Schachteln» fasst zusammen (Schachteln je Abschnitt gezählt); «Schachtel 3» bei 2.1. bekannt mittel (NP12)."
+D3585;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"5. mit Kopf- und Eintragszeile, Heftliste im Darin; Bearbeitervermerk im Info; N = Titelblatt."
+D3587;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Übergabe- und Bearbeitervermerke im Info.
+D3589;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Einträge der Schachtel 11 = Teile T2–T11 von 11. (Konvention), «… von 19» schon im PDF abgebrochen; N: «2. Werke anderer Autoren» als Hinweis bei 3. (NP13 behoben), «o .D.» nur Rest."
+D3593;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"3.5. Titel mit Darin-Text bekannt mittel (NP10/NP14); Bearbeitervermerk im Info; N = Titelblatt und Vorbemerkung in Prosa."
+D3596;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;«Der Bestand umfasst 45 Schachteln» = Summe der Übersicht S. 1.
+D3599;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Bearbeitervermerk «17. 8. 2005 / Lic. phil. Karin Beck» im Info.
+D3604;D7;;;;;;kritisch;kritisch;;Fund;leer;ok;"Bearbeitervermerk «13. September 2002 / lic. phil. Karin Beck» ist Darin 15 der letzten Schachtel :2, Zeitraum bis 2002, Info leer (Fund 1); N = Tabellenkopf."
+D3606;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"«zwei A4-Archivschachteln» fasst zusammen; N = Vorbemerkung in Prosa."
+D3612;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Verweis «Zu diesem Bestand vgl. auch … Nc 43» im Info richtig; «27. Juli 2010» → ID 3 nur Rauschen (steht im Info); 8.4. «Heft 1» im Titel (mittel, Fund 4); «Mappe 6» bekannt mittel."
+D3614;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Bearbeitervermerk im Info.
+D3620;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;«vier G-Schachteln und eine Mappe» fasst zusammen.
+D3628;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Umfangszeilen «Der Bestand umfasst:» im Info (NP13 behoben); «Lose Protokolle» als Hinweis bei 2.1.8./2.2.10."
+D3631;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"9. Literatur ist nummerierte Einheit; Bearbeitervermerk im Info."
+D3643;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;"Endet mit Umfang «1 Schachtel»; PDF-Ende nur Fusszeile."
+D3647;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Bearbeitervermerk im Info; 6.7. Titel mit Regest bekannt mittel (NP12); Info «Archivierung überlassen.» (Satzrest der Einleitung) bekannt gering."
+D3657;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"«5. Fremdenzimmer 1964»/«6. Löschung … 2003» nach 6.3. (Nummernfehler im PDF, wohl 7./8.) als Teile T2 mit Hinweis – Konvention, bekannt mittel (NP12); N = Titelblatt."
+D3664;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;«42 G-Archivschachteln und eine Doppel-G-Archivschachtel» fasst zusammen.
+D3672;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;"Nur Signaturzeile 12.12.; PDF-Ende ohne Vermerk."
+D3677;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"«Genealogische Quellen» = Literatur im Info (NP12 behoben); 8. Zeitraum aus «erhalten Anfang 2008» bekannt mittel (NP14)."
+D3682;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Übergabevermerk und Bearbeitervermerk im Info.
+D3684;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Bestandszeile mit «Dem Bestand liegen bei:» und 3 Photokopien (Konvention); N = Personenrecherche und Nachweise (Vorbemerkung)."
+D3686;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Findmittel ohne Signaturen, alles in der Bestandszeile; Personendaten und Übergabe S. 1 = Vorspann (15 Zeilen, Konvention); Schlussvermerk im Info."
+D3688;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Bearbeitervermerk im Info.
+D3691;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Bearbeitervermerk im Info.
+D3698;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;"Endet mit Umfang «1 Schachtel»; PDF-Ende nur Fusszeile; N = Titelblatt."
+D3702;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"«Literatur» S. 20–21 im Info (NP12 behoben); N: Bereichsköpfe 2.4.–6. und 2.8.–9. bekannt mittel (K63-Rest)."
+D3705;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Bearbeitervermerk im Info; N = Titelblatt."
+D3709;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Vereinsgeschichte am linken Rand im Info (Bestandsgeschichte).
+D3715;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Bearbeitervermerke im Info; N = Titelblatt und Vorbemerkung."
+D3718;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"13. Bücherliste (111 Zeilen) vollständig, zwei Einträge zerteilt (gering, Fund 5); «Modellvorführungen» als Hinweis bei 8.2."
+D3725;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Mappen 4–10 als Mappen-Einheiten :4–:7 mit allem Text (Zuordnungsrauschen bei gleichen Sätzen); Bearbeitervermerk im Info."
+D3727;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"«Das Planarchiv befindet sich … am gta» = Verweis ausserhalb des Bestands, im Info richtig; Vorspann-Signatur «20.» = Datumszeilen."
+D3736;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Bearbeitervermerk im Info; N = Einleitung, Bestände, Literatur (Vorspann)."
+D3742;D7;;;;;;kritisch;kritisch;;Fund;ok;Fund;"«Letztes Blatt (schwarz kalligraphiert):» im Darin von 22., Inschrift «AUSGEFÜHRT / VON R. GANZ PHOT. / ZÜRICH» nur im Blatt Vollständigkeit (Fund 2); Titelblatt mit Dedikation S. 3 Grenzfall; «Anmerkung» im Info richtig; Zeitraum = Amtszeit bekannt mittel (NP10)."
+D3750;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Bearbeitervermerk im Info; N = Titelblatt und Biografie."
+D3761;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"7. «Dias Sch. 8» – Schachtelspalte im Titel bekannt mittel (NP10); N = Vorbemerkung."
+D3764;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Bearbeitervermerk im Info.
+D3767;D7;;;;;;kritisch;kritisch;;Fund;ok;ok;"«Beilagen (3 Farbbildchen)» mit den 3 Bildern im Darin von 37. (Fund 3; NP11 von der Hauptsession auf mittel gesetzt, Entscheid nötig)."
+D3769;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"«Mappe 4» im Darin bekannt mittel (NP11); Bearbeitervermerk im Info."
+D3774;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"6.4. unter «Grossformate (ausserhalb der Schachteln)» ohne Schachtel, mit Hinweis (Runde 12); Bearbeitervermerke im Info."
+D3776;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Mappen 10–18 als Mappen-Einheiten; «Lagerung», «Standort», INSA-Notizen im Info (Bestandsgeschichte)."
+D3778;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Findmittel ohne Signaturen, alles in der Bestandszeile inkl. «Eiserne Truhe»; Schlussvermerk im Info."
+D3781;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;«chr Stand: 27.08.1993» im Info.
+D3791;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Bearbeitervermerke im Info.
+D3793;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"8. Dubletten mit Schachtel 1/2 als Teile T2/T3; «Anmerkungen zu diesem Bestand» = Verweise (V.L. 1001., Zg, V.A. c.32.) im Info; «22 Normschachteln» fasst zusammen; N: Lückenvermerk (Runde 12), «Verband der Gemeindepräsidenten …:» bekannt mittel (NP12)."
+D3795;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Schlussvermerk im Info.
+D3804;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;"Endet mit Umfang «1 Mappe»; PDF-Ende nur Fusszeile."
+D3808;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Bestandszeile mit «Beilagen:» (K156 behoben), Schlussvermerk im Info.
+D3810;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"Liste 8.–21. im Darin von 7. (NP9 behoben), 8. «Nachträge» Sch. IV mit allem Inhalt; Schlussvermerk im Info."
+D3816;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;"96. mit Umfang; Zeitraum bis 1993 (Übergabedatum) bekannt mittel (NP11)."
+D3818;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;"Nur Signaturzeile; «1» aus der Bände-Spalte im Titel bekannt mittel (NP11)."
+D3820;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Bearbeitervermerke im Info.
+D3826;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Bestandszeile mit «Mappe – Porträt (Grossformat)» (K43 behoben); Nc-Verzeichnis im Info = Verweis auf die Bibliothek; «Weitere Diplome …» im Darin der Bestandszeile bekannt gering; Schachtelköpfe bekannt mittel."
+D3828;D7;;;;;;kritisch;kritisch;;ok;ok;ok;"Schluss/Info/N ohne neuen Fund: CV-Beilage steht in der Bestandszeile, Info = Lebenslauf; «5.» S. 14 nur Nummernrest vor «6. 5.». Urteil wegen bekannt K44 (3.4., ausserhalb des Schlusses)."
+D3833;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Geschichte des Landtöchter-Instituts im Info (Bestandsgeschichte).
+D3842;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Schlussvermerk im Info.
+D3853;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Geschichte der Alterspensionskasse im Info (Bestandsgeschichte).
+D3861;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"7.26. Darin-Zeile zerteilt (gering, Fund 6); ARCHIVIERUNGSVERMERKE und UMFANG im Info; Bereichsköpfe Sammelrahmen bekannt mittel (NP12)."
+D3874;D7;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;"«1 Normschachtel» fasst zusammen; Bearbeitervermerk im Info."
+D3894;D7;;;;;;kritisch;kritisch;;Fund;ok;ok;"Schluss nach X.C.85. = Abschnitte 2.–4. als Teile von X.C.2./3./4.: nur bekannt K78 (unverändert), nichts Neues; N = Tabellenkopf."
+D3896;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Avers/Umschrift im Darin von X.D.97., Schlussvermerk im Info. Ortsüberschriften als Hinweis bei der Folgeeinheit, «Affoltern» steht im Titel von X.D.1.
+D3898;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Ortsüberschriften als Hinweis. Bekannt (mittel, früher gemeldet): «Ledermesse Zürich, Stempel für die Lederballen» nur als Hinweis bei X.E.111., Titel 112.–116. «LZ N 1» … ohne sie unverständlich.
+D3943;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;"Stücke «Keine Nr.» richtig in der Bestandszeile X.G. (ID 247), «(2 Stück)» dort enthalten ([NACH] ist Rauschen). Bekannt: Zeichenerklärung «*»/«**» im Darin der Bestandszeile (gering, NP13); «fehlt»-Zeilen bei X.G.209. = bekannt «D3943 99,9 %», Text in :1–:3 vorhanden."
+D3945;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Wiederholte Tabellenköpfe nicht übernommen (richtig).
+D3949;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Titelblatt und Tabellenkopf. Bekannt mittel: Spalten Interpret/Titel/Datum im Titel vermischt.
+D3951;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Bekannt, nicht neu gemeldet (NP12 auf mittel herabgestuft): «(Band) Datum» von :8 als Tabellenkopf verworfen, «(Band)» nicht importiert. Ursache: ist_tabellenkopf, «band» und «datum» stehen in KOPFWORTE.
+D3986;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D3988;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D3990;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D3993;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D3998;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;«?» bei S. 3 ist der Seitenkopf.
+D4001;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D4007;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Findmittel ohne Signaturen: Plakatliste 1925–2002 vollständig in der Bestandszeile (letzte Zeile «2002 1.-August-Landschaften (dreisprachig), 6 Expl.»). «fehlt: 1925/2002» ist Rauschen der Prüfung. Gering: Tabellenkopf «Datum Titel des Plakates …» als Darin 1.
+D400;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Absatz zur Disziplinarkommission (Aufgabe, Auflösung 2002) nach 4. ist Behördengeschichte des Bestands, daher Info (Konvention). PDF geprüft.
+D4011;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D4013;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D4015;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D4024;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Schachtel 3 mit Teil 2 (ID 4, Zellgrenze). Die letzten Zeilen S. 37 stehen alle im Darin von ID 4 (am Excel geprüft, z. B. Darin 87 «Alfred-Escher-Strasse … Verbreiterung, 1935»). Keine Schachtel 4 im PDF.
+D4027;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D4029;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D4030;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D4039;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Findmittel ohne Signaturen. Schachteln 42–47 am PDF S. 5–6 geprüft: der Inhalt steht je bei der richtigen Schachtel (Nummer am Gruppenende).
+D403;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;leer;leer;leer;Kein Text nach b). «V.B.c.12.:1» ist ein Tippfehler im PDF, mit Hinweis.
+D4054;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;«Der Bestand umfasst:» mit Umfangszeilen und Bearbeitervermerken im Info (Konvention). Bei «fehlt» fehlen nur Silbenreste (Junifestwochen, Umbauzeit, Abrechnungen, Abschiedskonzertes sind vorhanden). Offene Frage, nicht gezählt: «66 Normschachteln (Verbrauchsmaterial)» kommt sonst im Verzeichnis nicht vor.
+D4057;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;«Mappe 2» steht in Darin 4 von 20.3. ([?] ist Rauschen). Bekannt: Eltern 20. in einer anderen Datei (mittel).
+D4058;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;«A 4» = Darin 4 von 19.13.16. Vorspann «19.»: Eltern in D4054 (NP12 auf mittel herabgestuft, bekannt). Bereichskopf 19.13.1.–7. bekannt (mittel).
+D406;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Bekannt, nicht neu: Vermerk «V.B.3.:56. – 65. sind nicht vorhanden …» nur im Hinweis. Bei :19. fehlt im Titel der Vorname «August» (NP12 P1 mittel).
+D408;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;
+D4098;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Findmittel ohne Signaturen: Inhalt, Übergabe und Nachweise in der Bestandszeile (Konvention). Bearbeitervermerk im Info.
+D4110;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D414;D8;;;;;;kritisch;kritisch;;Fund;Fund;leer;D8-2: Schlussabsatz zu den Faszikeln I.–XV. (Inhalt nicht verzeichnet, «rotes D + Datum», 36 Sitzungsdaten) steht nur im Info statt im Darin der Gruppe Schachtel 5.
+D4173;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Zwischenüberschriften als Hinweise. Bekannt (NP13 G2 mittel N2): der Block «Porträts von August Benziger …» steht nur als Hinweis bei 1.14., die Titel 1.14.–1.16. sind ohne ihn unverständlich. Vorspann = Bestandsgeschichte und Familie.
+D4175;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Caduff-Vermerke beider Teile im Info. Übersichten und Titelblatt von Teil 2 nicht übernommen (K122 behoben).
+D432;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;
+D434;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D438;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D442;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D444;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D446;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D448;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D450;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D452;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;
+D454;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D456;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;
+D458;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;
+D460;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;«Nachtrag: 5. August 2003 / max» ist ein Bearbeitungsvermerk.
+D49;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;leer;ok;ok;Von Runde 12 geändert (Regel 7: Lückenvermerke als Hinweis), richtig. Leere Kategorie «e) Akten keine» als Einheit: Konvention seit NP11 (bekannt gering).
+D512;D8;;;;;;kritisch;kritisch;;ok;ok;ok;Schluss und Info richtig («Der Bestand umfasst: 58 Normalschachteln» steht im Info). Die «fehlt»-Zeilen sind bekannt K45 (bewusst offen, Datumsspalte). Sonst nichts Neues.
+D537;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;«(ohne Datum)» steht im Darin (Rauschen der Prüfung). Bekannt gering: «Seite. ( Expl.)» als Tabellenkopf verworfen (NP12). «ff.» bei Schachtel 23 betrifft nur den Zeitraum.
+D539;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D631;D8;;;;;;kritisch;kritisch;;Fund;Fund;ok;D8-1: Bearbeitervermerk «Ende Juli 2004 / Dr. Robert Dünki» steht als Darin 40 in der Bestandszeile. Das Info hat keinen Schlussvermerk.
+D65;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Von Runde 12 geändert (Regel 7), richtig. «Fortsetzung der Rechnung vgl. IV.C. 2./27.» steht im Darin von 21., wie im PDF unter 21. Übersicht a)–c) im Info (gering, bekannt).
+D67;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Von Runde 12 geändert (Regel 7), richtig. Verweis «Das Aktenbuch … ist in den Bestand Schulamt … eingegliedert» im Darin von e).
+D69;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Von Runde 12 geändert (Regel 7), richtig. Verweis «… siehe Abteilung V.H. b.3.» im Darin von 36.
+D71;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;leer;ok;ok;Leere Kategorie «e) Akten keine» als Einheit: Konvention (bekannt gering).
+D73;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Der Vorspann mit «Lagerung: 3 Schachteln» (Filmnummern je Schachtel) wird nach Konvention nicht importiert. Die Schachtel-Nr. der 23 Einheiten ist leer, nicht gezählt.
+D789;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;leer;leer;leer;
+D812;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;leer;leer;leer;
+D814;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;Findmittel ohne Signaturen, Schachteln 30–65. «Diverse Unterlagen Herberge Rieterstrasse und Ottenweg, alt» ist unter 63 eingerückt und steht im Darin von 63 (PDF geprüft).
+D817;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;Bekannt mittel: Titel :15 an «- und Waisenfonds» zerlegt.
+D819;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;leer;leer;leer;
+D821;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;Bekannt mittel: Titel :9 zum Teil im Darin, der Text ist vollständig.
+D837;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;leer;leer;leer;
+D840;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Bekannt: die Jahresliste der Überschrift steht nur im Vorspann.
+D842;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;leer;
+D845;D8;;;;;;ohne kritischen Fehler;kritisch;;ok;ok;ok;Verweis «Weitere Akten s. Abt. …» im Info (Konvention «Verweise»).
+D847;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;
+D860;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;Findmittel ohne Signaturen, Schachteln 98–134. Der Inhalt steht je bei der richtigen Schachtel: bei 133 ist «Liberale Baugenossenschaft …» Darin 1 von ID 36, die Zuordnung [ID 25] in der Prüfmappe ist Rauschen. Bei «fehlt: nr» fehlt nur «Nr.» der Schachtelzeilen.
+D8631;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Rechercheblock im Darin von 3. (vertretbar, NP11). Die Übergabe durch Frau Guggisberg ist Bestandsgeschichte und steht im Info.
+D8651;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Findmittel ohne Signaturen, Bestandszeile. «STADTARCHIV ZÜRICH» steht im Info, die Zuordnung zu Darin 17 in der Prüfmappe ist Rauschen.
+D867;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;Abteilungsköpfe im Darin von 45. Bekannt mittel: verschmolzene Darin-Zeilen.
+D8943;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;
+D8945;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Die Rückseitennotiz ist Darin 1 von 3.9.13. «Schreibblöcke im Format A 6/A 5» stehen als Hinweis (Zwischenüberschrift).
+D8947;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;Findmittel ohne Signaturen. «1. Kuvert»/«2. Kuvert» stehen im Darin, es gibt keine erfundenen Einheiten. Die Übermittlungsnotiz steht in der Bestandszeile (Konvention).
+D8949;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Vorspann = Bestandsbeschreibung (Konvention).
+D8952;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Bekannt (NP13 Z1, höchstens mittel): «Es liegen Farbfotokopien der 8 Lithographien bei.» steht in der Bestandsbeschreibung vor der ersten Signatur.
+D966;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;leer;leer;leer;
+D980;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;leer;«Nota:» zur Zuständigkeit ist Behördengeschichte und steht im Info.
+D982;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;leer;ok;
+D987;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;leer;leer;leer;
+D9978;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;Bekannt (mittel): Mappen 1–9 nicht als Behälter, Bereichskopf 28.5.2.-14., Eltern 28. in einer anderen Datei. Bekannt «D9978 28.4.25. Zeitraum».
+D9983;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;Fund;D8-3 (mittel): «Kopien» der Gruppe 5.2. steht nur als Hinweis bei 5.2.1. Die «Bemerkungen zu diesem Teilbestand» (Bestandsgeschichte, Verweis) stehen richtig im Info.
+D9985;D8;;;;;;ohne kritischen Fehler;ohne kritischen Fehler;;ok;ok;ok;«Der Bestand umfasst 21 Planmappen.» fasst zusammen, daher Info. Bekannt: Eltern 27.2. in einer anderen Datei (mittel).

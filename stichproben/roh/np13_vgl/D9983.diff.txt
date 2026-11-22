@@ -1,0 +1,128 @@
+### D9983: vorher 299 Einheiten, nachher 299 Einheiten
+GEÄ  VII.12.A.:5.6.7. [ID 163, Dossier, E3, Eltern VII.12.A.:5.6., S.17] Journal | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+        Prüfhinweise: 'Untereinheiten reichen über den Zeitraum hinaus (1840–1842).' => ''
+GEÄ  VII.12.A.:5.6.7.a. [ID 164, Dossier, E3, Eltern VII.12.A.:5.6., S.17] Journal | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.7.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.7.' => 'VII.12.A.:5.6.'
+GEÄ  VII.12.A.:5.6.7.b. [ID 165, Dossier, E3, Eltern VII.12.A.:5.6., S.17] Journal | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.7.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.7.' => 'VII.12.A.:5.6.'
+GEÄ  VII.12.A.:5.6.8. [ID 166, Dossier, E3, Eltern VII.12.A.:5.6., S.18] Journal | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+        Prüfhinweise: 'Untereinheiten reichen über den Zeitraum hinaus (1843–1846).' => ''
+GEÄ  VII.12.A.:5.6.8.a. [ID 167, Dossier, E3, Eltern VII.12.A.:5.6., S.18] Journal | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.8.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.8.' => 'VII.12.A.:5.6.'
+GEÄ  VII.12.A.:5.6.8.b. [ID 168, Dossier, E3, Eltern VII.12.A.:5.6., S.18] Journal | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.8.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.8.' => 'VII.12.A.:5.6.'
+GEÄ  VII.12.A.:5.6.9. [ID 169, Dossier, E3, Eltern VII.12.A.:5.6., S.18] Journal | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+        Prüfhinweise: 'Untereinheiten reichen über den Zeitraum hinaus (1848–1849).' => ''
+GEÄ  VII.12.A.:5.6.9.a. [ID 170, Dossier, E3, Eltern VII.12.A.:5.6., S.18] Journal | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.9.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.9.' => 'VII.12.A.:5.6.'
+GEÄ  VII.12.A.:5.6.13. [ID 174, Dossier, E3, Eltern VII.12.A.:5.6., S.18] Journal | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+        Prüfhinweise: 'Untereinheiten reichen über den Zeitraum hinaus (1864–1884).' => ''
+GEÄ  VII.12.A.:5.6.13.a. [ID 175, Dossier, E3, Eltern VII.12.A.:5.6., S.18] Journal | Genau (=)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+GEÄ  VII.12.A.:5.6.13.b. [ID 176, Dossier, E3, Eltern VII.12.A.:5.6., S.18] Journal | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+GEÄ  VII.12.A.:5.6.13.c. [ID 177, Dossier, E3, Eltern VII.12.A.:5.6., S.18] Journal | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+GEÄ  VII.12.A.:5.6.13.d. [ID 178, Dossier, E3, Eltern VII.12.A.:5.6., S.19] Journal | Genau (=)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+GEÄ  VII.12.A.:5.6.13.e. [ID 179, Dossier, E3, Eltern VII.12.A.:5.6., S.19] Journal | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+GEÄ  VII.12.A.:5.6.13.f. [ID 180, Dossier, E3, Eltern VII.12.A.:5.6., S.19] Journal | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+GEÄ  VII.12.A.:5.6.13.g. [ID 181, Dossier, E3, Eltern VII.12.A.:5.6., S.19] Journal | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+GEÄ  VII.12.A.:5.6.13.h. [ID 182, Dossier, E3, Eltern VII.12.A.:5.6., S.19] Journal | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+GEÄ  VII.12.A.:5.6.13.i. [ID 183, Dossier, E3, Eltern VII.12.A.:5.6., S.19] Journal | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+GEÄ  VII.12.A.:5.6.13.k. [ID 184, Dossier, E3, Eltern VII.12.A.:5.6., S.19] Journal | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+GEÄ  VII.12.A.:5.6.13.l. [ID 185, Dossier, E3, Eltern VII.12.A.:5.6., S.19] Journal | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+GEÄ  VII.12.A.:5.6.13.m. [ID 186, Dossier, E3, Eltern VII.12.A.:5.6., S.19] Journal | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+GEÄ  VII.12.A.:5.6.13.n. [ID 187, Dossier, E3, Eltern VII.12.A.:5.6., S.19] Journal | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+GEÄ  VII.12.A.:5.6.13.o. [ID 188, Dossier, E3, Eltern VII.12.A.:5.6., S.20] Journal | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+GEÄ  VII.12.A.:5.6.13.p. [ID 189, Dossier, E3, Eltern VII.12.A.:5.6., S.20] Journal | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+GEÄ  VII.12.A.:5.6.13.q. [ID 190, Dossier, E3, Eltern VII.12.A.:5.6., S.20] Journal | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+GEÄ  VII.12.A.:5.6.13.r. [ID 191, Dossier, E3, Eltern VII.12.A.:5.6., S.20] Journal | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+GEÄ  VII.12.A.:5.6.13.s. [ID 192, Dossier, E3, Eltern VII.12.A.:5.6., S.20] Journal | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+GEÄ  VII.12.A.:5.6.13.t. [ID 193, Dossier, E3, Eltern VII.12.A.:5.6., S.20] Journal | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+GEÄ  VII.12.A.:5.6.13.u. [ID 194, Dossier, E3, Eltern VII.12.A.:5.6., S.20] Journal | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+GEÄ  VII.12.A.:5.6.13.v. [ID 195, Dossier, E3, Eltern VII.12.A.:5.6., S.21] Journal | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+GEÄ  VII.12.A.:5.6.13.w. [ID 196, Dossier, E3, Eltern VII.12.A.:5.6., S.21] Journal | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.13.' => 'VII.12.A.:5.6.'
+GEÄ  VII.12.A.:5.6.14. [ID 197, Dossier, E3, Eltern VII.12.A.:5.6., S.21] Journal | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+        Prüfhinweise: 'Untereinheiten reichen über den Zeitraum hinaus (1885–1886).' => ''
+GEÄ  VII.12.A.:5.6.14.a. [ID 198, Dossier, E3, Eltern VII.12.A.:5.6., S.21] Journal | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.12.A.:5.6.14.' => 'VII.12.A.:5.6.'
+        Eltern: 'VII.12.A.:5.6.14.' => 'VII.12.A.:5.6.'

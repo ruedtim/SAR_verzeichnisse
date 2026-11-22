@@ -1,0 +1,15 @@
+### D10585 – dezimal – 249 Einheiten – Bestand VII.510.
+Zusammenfassung: DARIN 3, HINWEIS 9, LÜCKE 1
+[HINWEIS] ID 2 VII.510.:1.1. S.2 | Steht im Findmittel unter der Zwischenüberschrift «1. Publizität der Griechenvereine».
+[HINWEIS] ID 55 VII.510.:2.1. S.6 | Steht im Findmittel unter der Zwischenüberschrift «2. Philhellenische Predigten».
+[HINWEIS] ID 66 VII.510.:3.1. S.7 | Steht im Findmittel unter der Zwischenüberschrift «3. Verschiedene Schriften (Schweiz und Umfeld)».
+[DARIN] ID 73 VII.510.:3.8. Darin 1: 1. und 2. Heft, Basel 1827; 3. Heft (mit einer Ansicht des Griechen-Hauses in Beuggen), Basel 1828
+[HINWEIS] ID 117 VII.510.:4.1. S.11 | Steht im Findmittel unter der Zwischenüberschrift «4. Verschiedene Schriften (International)».
+[DARIN] ID 118 VII.510.:4.2. Darin 1: 1. August 1821, in: Allgemeine Zeitung, Nr. 235, 23. August 1821, S. 939
+[HINWEIS] ID 131 VII.510.:5.1. S.12 | Steht im Findmittel unter der Zwischenüberschrift «5. Griechenlyrik».
+[HINWEIS] ID 165 VII.510.:6.1. S.14 | Steht im Findmittel unter der Zwischenüberschrift «6. Auszüge aus Presse und Periodica».
+[HINWEIS] ID 204 VII.510.:7.1. S.16 | Steht im Findmittel unter der Zwischenüberschrift «7. Darstellungen». / Zeitraum aus geschätzten Zeiträumen der Untereinheiten.
+[DARIN] ID 220 VII.510.:7.2.2. Darin 2: 7. 2.3. Raffaele Ciampini, Filellenismo e liberalismo nel 1826, in: Nuova Antologia, fasc. 1815, Rom
+[HINWEIS] ID 221 VII.510.:7.2.4. S.18 | Nummerierung springt: nach 2 folgt 4. / Zeitraum aus den Jahreszahlen im Darin geschätzt.
+[HINWEIS] ID 224 VII.510.:8.1. S.18 | Steht im Findmittel unter der Zwischenüberschrift «8. Arbeiten von Robert Dünki mit Materialien».
+[LÜCKE] 3–3 fehlen vor ID 221 VII.510.:7.2.4. (Eltern 218) S.18

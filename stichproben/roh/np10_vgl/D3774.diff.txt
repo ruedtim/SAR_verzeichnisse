@@ -1,0 +1,11 @@
+### D3774: vorher 59 Einheiten, nachher 59 Einheiten
+GEÄ  VII.47.:6. [ID 55, Teilbestand, E1, Eltern -, S.13] Pläne | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '7'
+GEÄ  VII.47.:6.1. [ID 56, Dossier, E2, Eltern VII.47.:6., S.13] Situation 1848-1848 Okt. Plan des Privatkirchhofes auf der Hohen Promenade, von G. Bürkly, Jngen.Hauptm. | Genau (=)
+        Schachtel-Nr.: '' => '7'
+GEÄ  VII.47.:6.2. [ID 57, Dossier, E2, Eltern VII.47.:6., S.13] Situation | Genau (=)
+        Schachtel-Nr.: '' => '7'
+GEÄ  VII.47.:6.3. [ID 58, Dossier, E2, Eltern VII.47.:6., S.13] Pläne des 20. Jahrhunderts | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '7'
+GEÄ  VII.47.:6.4. [ID 59, Dossier, E2, Eltern VII.47.:6., S.13] ohne Datum Bestattungsplan des Privat-Kirchhofes auf der Hohen Promenade 1:50 | 
+        Schachtel-Nr.: '' => '7'

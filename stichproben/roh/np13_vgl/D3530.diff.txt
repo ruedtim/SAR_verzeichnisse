@@ -1,0 +1,11 @@
+### D3530: vorher 8 Einheiten, nachher 8 Einheiten
+GEÄ  VII.327.:3. [ID 8, Dossier, E1, Eltern -, S.34] Inventare | Von/bis (>= x und <=y)
+        Entstehungszeitraum: '' => 'Von/bis (>= x und <=y)'
+        von: '' => '1890'
+        bis: '' => '1981'
+        [Darin]
+           +Mario von Moos, Verzeichnis der heraldischen und genealogischen Forschungen des Aargauer Heraldikers Heinrich Walser-Battaglia im Besitze der Genealogisch-Heraldischen G
+           +Mario von Moos, Der genealogische Nachlass von Dr. Konrad Schulthess 1890 - 1980, von Zürich, maschinenschriftliches Manuskript, Fehraltorf 1981
+           +Stadtarchiv Zürich VII. 327., Detailverzeichnis
+        Zeitraum-Quelle: '' => 'Darin (geschätzt)'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => 'Zeitraum aus den Jahreszahlen im Darin geschätzt.'

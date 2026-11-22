@@ -1,0 +1,57 @@
+### D1874: vorher 105 Einheiten, nachher 111 Einheiten
+NEU  V.G.c.42.:Reg. [ID 39, Teilbestand, E1, Eltern -, S.1] Register | 
+        H: Kein Zeitraum gefunden (auch nicht in den Untereinheiten).
+NEU  V.G.c.42.:Reg.1 [ID 40, Dossier, E2, Eltern V.G.c.42.:Reg., S.1] Zeichnungsverzeichnis 1-3000 | 
+NEU  V.G.c.42.:Reg.2 [ID 41, Dossier, E2, Eltern V.G.c.42.:Reg., S.1] Zeichnungsverzeichnis 3001-6000 | 
+NEU  V.G.c.42.:Reg.3 [ID 42, Dossier, E2, Eltern V.G.c.42.:Reg., S.1] Mappenregister | 
+NEU  V.G.c.42.:Reg.4 [ID 43, Dossier, E2, Eltern V.G.c.42.:Reg., S.1] Sachregister | 
+NEU  V.G.c.42.:Reg.5 [ID 44, Dossier, E2, Eltern V.G.c.42.:Reg., S.1] Anlageregister | 
+GEÄ  V.G.c.42.:1. [ID 1, Teilbestand, E1, Eltern -, S.1] Kontrollen und Register | Von/bis (>= x und <=y)
+        [Darin]
+           -V.G. c.42.:Reg. Register
+           -V.G. c.42.:Reg. 1 Zeichnungsverzeichnis 1-3000
+           -V.G. c.42.:Reg. 2 Zeichnungsverzeichnis 3001-6000
+           -V.G. c.42.:Reg. 3 Mappenregister
+           -V.G. c.42.:Reg. 4 Sachregister
+           -V.G. c.42.:Reg. 5 Anlageregister
+           +
+        Umfang: '179 Bände (inkl. Ordner und Boxen); 5 Bände' => '179 Bände (inkl. Ordner und Boxen)'
+GEÄ  V.G.c.42.:3. [ID 46, Teilbestand, E1, Eltern -, S.16] Pläne in Mappen (plano gelagerte Pläne) | 
+        Entstehungszeitraum: 'Genau (=)' => ''
+        von: '1260' => ''
+        Zeitraum-Quelle: 'Untereinheiten' => ''
+        Prüfhinweise: '' => 'Kein Zeitraum gefunden (auch nicht in den Untereinheiten).'
+GEÄ  V.G.c.42.:3.1. [ID 47, Serie, E2, Eltern V.G.c.42.:3., S.16] 220 x 350 | 
+        Prüfhinweise: 'Kein Zeitraum gefunden (auch nicht in den Untereinheiten).' => ''
+GEÄ  V.G.c.42.:3.2. [ID 52, Serie, E2, Eltern V.G.c.42.:3., S.16] 440 x 350 | 
+        Prüfhinweise: 'Kein Zeitraum gefunden (auch nicht in den Untereinheiten).' => ''
+GEÄ  V.G.c.42.:3.3. [ID 58, Serie, E2, Eltern V.G.c.42.:3., S.16] 660 x 350 | 
+        Prüfhinweise: 'Kein Zeitraum gefunden (auch nicht in den Untereinheiten).' => ''
+GEÄ  V.G.c.42.:3.4. [ID 63, Serie, E2, Eltern V.G.c.42.:3., S.16] 420 x 594 | 
+        Prüfhinweise: 'Kein Zeitraum gefunden (auch nicht in den Untereinheiten).' => ''
+GEÄ  V.G.c.42.:3.5. [ID 69, Serie, E2, Eltern V.G.c.42.:3., S.17] 660 x 700 | 
+        Prüfhinweise: 'Kein Zeitraum gefunden (auch nicht in den Untereinheiten).' => ''
+GEÄ  V.G.c.42.:3.6. [ID 78, Serie, E2, Eltern V.G.c.42.:3., S.17] 880 x 700 | 
+        Prüfhinweise: 'Kein Zeitraum gefunden (auch nicht in den Untereinheiten).' => ''
+GEÄ  V.G.c.42.:3.7. [ID 89, Serie, E2, Eltern V.G.c.42.:3., S.17] 1050 x 594 | 
+        Prüfhinweise: 'Kein Zeitraum gefunden (auch nicht in den Untereinheiten).' => ''
+GEÄ  V.G.c.42.:3.8. [ID 95, Serie, E2, Eltern V.G.c.42.:3., S.18] 1050 x 880 | 
+        Prüfhinweise: 'Kein Zeitraum gefunden (auch nicht in den Untereinheiten).' => ''
+GEÄ  V.G.c.42.:3.9. [ID 99, Serie, E2, Eltern V.G.c.42.:3., S.18] 1050 x 891 | 
+        Prüfhinweise: 'Kein Zeitraum gefunden (auch nicht in den Untereinheiten).' => ''
+GEÄ  V.G.c.42.:3.10. [ID 102, Serie, E2, Eltern V.G.c.42.:3., S.18] 1100 x 1050 | 
+        Prüfhinweise: 'Kein Zeitraum gefunden (auch nicht in den Untereinheiten).' => ''
+GEÄ  V.G.c.42.:3.11. [ID 106, Serie, E2, Eltern V.G.c.42.:3., S.18] 1260 x 891 | 
+        Entstehungszeitraum: 'Genau (=)' => ''
+        von: '1260' => ''
+        Zeitraum-Quelle: 'Titel' => ''
+GEÄ  V.G.c.42.:3.11.1. [ID 107, Dossier, E3, Eltern V.G.c.42.:3.11., S.18] Mappe 11 1 - 50 | 
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+GEÄ  V.G.c.42.:3.11.2. [ID 108, Dossier, E3, Eltern V.G.c.42.:3.11., S.18] Mappe 11 51 - 100 | 
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+GEÄ  V.G.c.42.:3.11.3. [ID 109, Dossier, E3, Eltern V.G.c.42.:3.11., S.18] Mappe 11 101 - 150 | 
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+GEÄ  V.G.c.42.:3.11.4. [ID 110, Dossier, E3, Eltern V.G.c.42.:3.11., S.18] Mappe 11 151 - 200 | 
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+GEÄ  V.G.c.42.:3.11.5. [ID 111, Dossier, E3, Eltern V.G.c.42.:3.11., S.18] Mappe 11 201 - 250 | 
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''

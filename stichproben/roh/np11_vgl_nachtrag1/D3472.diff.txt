@@ -1,0 +1,9 @@
+### D3472: vorher 1721 Einheiten, nachher 1722 Einheiten
+NEU  VII.308.F.a.:1973.9a [ID 1233, Dossier, E1, Eltern -, S.46] Küsnacht, Herr W. F. Herzog, Zellikon, EFH Tägerhalde, Zimmerarbeiten | Genau (=)
+GEÄ  VII.308.F.a.:1973.9 [ID 1232, Dossier, E1, Eltern -, S.46] Küsnacht, Prof. Dr. med. A. Schreiber, Anbau Studio und Schwimmhalle | Genau (=)
+        Entstehungszeitraum, Anm.: '' => 'ca.'
+        [Darin]
+           -1973.9a Küsnacht, Herr W. F. Herzog, Zellikon, EFH Tägerhalde, Zimmerarbeiten
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Signatur (Jahr)'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''

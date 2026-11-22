@@ -1,0 +1,29 @@
+### D2137: vorher 17 Einheiten, nachher 17 Einheiten
+GEÄ  V.H.c.45.:2. [ID 2, Dossier, E1, Eltern -, S.1] Kontrolle des Schulbesuches in den Stadtschulen | Genau (=)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.H.c.45.:3. [ID 3, Dossier, E1, Eltern -, S.1] Akten der Kommission betr. die Schulverhältnisse | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.H.c.45.:4. [ID 4, Dossier, E1, Eltern -, S.1] Akten betr. Schreibmaterialien | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.H.c.45.:5. [ID 5, Dossier, E1, Eltern -, S.1] Vorarbeiten betr. Besetzungsweise in den Schulklassen und vierteljährliche Zeugnisse | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.H.c.45.:7. [ID 7, Dossier, E1, Eltern -, S.1] Festsetzung der Schul- und Schreibgelder im neuen Münzfuss | Genau (=)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.H.c.45.:8. [ID 8, Dossier, E1, Eltern -, S.1] Privatschulen besuchende Kinder, für welche der Stadt ein Schulgeld von Fr. 3.-- entrichtet wurde. | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.H.c.45.:9. [ID 9, Dossier, E1, Eltern -, S.1] Akten der Reorganisationskommission der Stadtschulpflege | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.H.c.45.:13. [ID 11, Dossier, E1, Eltern -, S.1] Akten der Schulgemeinde | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '3'
+GEÄ  V.H.c.45.:14. [ID 12, Dossier, E1, Eltern -, S.2] Schulzeugnisse. Muster. | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '3'
+GEÄ  V.H.c.45.:15. [ID 13, Dossier, E1, Eltern -, S.2] Akten betr. Subventionierung der Gewerbeschule | Genau (=)
+        Schachtel-Nr.: '' => '3'
+GEÄ  V.H.c.45.:16. [ID 14, Dossier, E1, Eltern -, S.2] Promotionsakten der Primar- und Sekundarschulen | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '3'
+GEÄ  V.H.c.45.:17. [ID 15, Dossier, E1, Eltern -, S.2] Akten betr. die Organisation und Geschäftsordnung der Stadtschulpflege | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '3'
+GEÄ  V.H.c.45.:18. [ID 16, Dossier, E1, Eltern -, S.2] Erhebungen betr. Schülervereine | Genau (=)
+        Schachtel-Nr.: '' => '3'
+GEÄ  V.H.c.45.:19. [ID 17, Dossier, E1, Eltern -, S.2] Gewerbemuseum Zürich und Winterthur | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '3'

@@ -1,0 +1,16 @@
+datei;einheiten;umfang_geprueft;kritisch;mittel;gering;urteil;signale;bemerkung
+D149888;262;"Änderungen (2) am PDF; Teile der Datei";0;0;1;ohne kritischen Fehler;Regel 17: 2 Hinweise, einer falsch (Schachtel-Teil);"13.1. Teil 2: Hinweis falsch (gering, G3-8); 14.20. Teil 2 richtig."
+D150296;153;Änderungen (3) am PDF, Altzeile B5;0;0;0;ohne kritischen Fehler;Regel 9;K149 behoben.
+D151210;3161;Änderungen (3) am PDF (S.106, 115);0;0;0;ohne kritischen Fehler;Regel 9;"Nur die Änderung geprüft; 4.1.3.38. richtig."
+D152817;704;Änderungen (4) am PDF, alle Buchstaben-Einheiten der Datei;1;0;0;kritisch;"Regel 10; Buchstaben-Einheit nach eigenen Bänden von n.";"18.a richtig Geschwister; 33.a bleibt Kind von 33. (G3-4, vor Runde 10)."
+D175996;1337;Änderungen (5) am PDF, Altzeile B4, alle Buchstaben-Einheiten;0;0;0;ohne kritischen Fehler;Regel 10;K143 behoben.
+D2857;419;Änderungen (8) am PDF, Altzeile B2, alle Teile;0;0;0;ohne kritischen Fehler;Regel 9, Regel 17 (5 Hinweise);"K132 behoben; 5 Regel-17-Hinweise ohne fehlende Nachbarnummer (Projektzeile + einziges Blatt)."
+D2992;13;ganze Prüfmappe;0;0;0;ohne kritischen Fehler;Regel 9 (nur Hinweistext);
+D3186;109;Änderung (1), alle Einheitszeilen der Prüfmappe;0;0;0;ohne kritischen Fehler;Regel 17;"10. Teil 2 ohne fehlende Nachbarnummer; Test = Hauptlauf."
+D3470;1950;"Änderungen (9; Regel 9 von der Prüfsession), alle Buchstaben-Einheiten und Teile";1;2;0;kritisch;Regel 9 (Fehlgriff, Prüfsession), Regel 17 (7 Hinweise);"11.43.a./11.44.a. Kinder statt Geschwister (G3-3, vor Runde 10); 40.430/41.436 mittel (Prüfsession); 7 Regel-17-Hinweise ohne fehlende Nachbarnummer."
+D3472;1719;Änderungen (6) am PDF, Altzeile B3, Teile;2;0;0;kritisch;Regel 15, Regel 17 (2 Hinweise);"K142 behoben; 1952.8 und 1952.14 doppelt, 1952.9/1952.15 fehlen (G3-1, G3-2; Prüfsession)."
+D847;292;Änderungen (2) am PDF, Buchstaben-Einheiten;0;0;0;ohne kritischen Fehler;Regel 17 (2 Hinweise);30. und 271. ohne fehlende Nachbarnummer.
+D9978;167;Änderungen (29) am PDF, Altzeilen B6–B8;0;2;0;ohne kritischen Fehler;Regel 10, Regel 11, K153;"K152, K153, K154 behoben; mittel: 28.3.25. «undatiert, ungezeichnet» im Titel (bekannt), 28.4.25. Zeitraum 07.1935–1984 (G3-7)."
+D9983;299;Änderungen (33) am PDF, Altzeile B1;0;0;0;ohne kritischen Fehler;Regel 10;"K123 behoben; Test = Hauptlauf."
+D152810;616;Testdaten: Änderungen (8) am PDF, alle Buchstaben-Einheiten;2;0;0;kritisch;"Regel 10; Buchstaben-Einheit nach eigenen Bänden von n.";"13.a und 73.a richtig Geschwister; 32.a und 75.a bleiben Kinder (G3-5, G3-6, vor Runde 10). Nur Testdaten."
+D3031;291;Testdaten: Änderungen (4) am PDF, alle Buchstaben-Einheiten;0;0;0;ohne kritischen Fehler;Regel 10;"I.1.a. und IV.l.2.a. richtig Geschwister; eingerückte IV.c.2.a/IV.d.5.a richtig Kinder."

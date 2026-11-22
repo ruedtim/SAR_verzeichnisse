@@ -1,0 +1,15 @@
+### D2850: vorher 68 Einheiten, nachher 69 Einheiten
+NEU  VII.109. [ID 69, Bestand, E1, Eltern -, S.24] Dr. Emil Klöti (1877-1963), Stadtrat und Stadtpräsident. Nachlass, 1906-1977 | Von/bis (>= x und <=y)
+        D: Zu diesem Bestand gehört auch ein Pokal des Lord Mayor von London aus dem Jahr 1939 (ohne Nummer, besonderer Standort).
+        H: Stück ohne Nummer im Findmittel («Zu diesem Bestand gehört auch ein Pokal des Lord Mayor von London aus», S. 24) – hier beim Bestand übernommen (keine Signatur erfunden); in scope beim Bestand ergänzen oder von Hand als Einheit anlegen.
+GEÄ  VII.109.:63. [ID 65, Dossier, E1, Eltern -, S.23] Ausstellungen über Emil Klöti (Grossformate zur Ausstellung “Emil Klöti (1877 – 1963), Stadtpräsident in den dreissiger Jahren”, Ausstellung zum 100. Geburtstag im Stadth | Von/bis (>= x und <=y)
+        [Darin]
+           -Diverses
+           +
+GEÄ  VII.109.:64. [ID 66, Dossier, E1, Eltern -, S.23] Urkunde zur Verleihung der Ehrendoktorwürde der technischen 1930 Wissenschaften der Eidgenössischen Technischen Hochschule ETH Wahlplakat der SP der Stadt Zürich mit der  | Von/bis (>= x und <=y)
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Diverses».
+GEÄ  VII.109.:66. [ID 68, Dossier, E1, Eltern -, S.24] Schweizer Armee- und Zivilschutzgasmaske in Metallbüchse mit Bezeichnung “CIVILE” (persönliches Exemplar von Emil Klöti) | Genau (=)
+        [Darin]
+           -Zu diesem Bestand gehört auch ein Pokal des Lord Mayor von London aus dem Jahr 1939 (ohne Nummer, besonderer Standort).
+           +

@@ -1,0 +1,19 @@
+### D175996: vorher 1337 Einheiten, nachher 1337 Einheiten
+GEÄ  IV.B.1. [ID 1, Dossier, E1, Eltern -, S.1] Rechnungen der Stadtkanzlei | Von/bis (>= x und <=y)
+        Stufe: 'Teilbestand' => 'Dossier'
+        Prüfhinweise: 'Untereinheiten reichen über den Zeitraum hinaus (1798–1799).' => ''
+GEÄ  IV.B.1.a) [ID 2, Dossier, E1, Eltern -, S.1] Rechnung über den Kasernenbau im Talacker | Von/bis (>= x und <=y)
+        Ebene: '2' => '1'
+        Übergeordnete Signatur: 'IV.B.1.' => 'IV.B.'
+        Eltern: 'IV.B.1.' => '-'
+GEÄ  IV.B.460. [ID 497, Dossier, E1, Eltern -, S.35] Bau der Walchebrücke sowie der Strassen und Plätze im Stampfenbachareal, 1910–1924 | Genau (=)
+        Stufe: 'Teilbestand' => 'Dossier'
+        Prüfhinweise: 'Untereinheiten reichen über den Zeitraum hinaus (1916–1916).' => ''
+GEÄ  IV.B.460.a) [ID 498, Dossier, E1, Eltern -, S.35] Neubau Krematorium. Einfriedung und Unrnennischen | Genau (=)
+        Ebene: '2' => '1'
+        Übergeordnete Signatur: 'IV.B.460.' => 'IV.B.'
+        Eltern: 'IV.B.460.' => '-'
+GEÄ  IV.B.460.b) [ID 499, Dossier, E1, Eltern -, S.35] Landerwerb zur Erweiterung des Friedhofes Sihlfeld und Erstellung der Zufahrtstrassen und Wege zum Krematorium inkl. Verlegung der Wasserleitung der SBB, 1912–1916 | Genau (=)
+        Ebene: '2' => '1'
+        Übergeordnete Signatur: 'IV.B.460.' => 'IV.B.'
+        Eltern: 'IV.B.460.' => '-'

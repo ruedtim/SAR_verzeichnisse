@@ -1,0 +1,254 @@
+### D3528: vorher 119 Einheiten, nachher 120 Einheiten
+NEU  VII.327.:4. [ID 1, Teilbestand, E1, Eltern -, S.1] Bilder, Zeichnungen und Skizzen aus der Sammlung Heinrich P. Walser-Battaglia (Grossformate) | Von/bis (>= x und <=y)
+        H: Nummerierung beginnt bei 4.
+Zeitraum aus geschätzten Zeiträumen der Untereinheiten.
+GEÄ  VII.327.:4.1. [ID 2, Serie, E2, Eltern VII.327.:4., S.1] Wappen | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.327.' => 'VII.327.:4.'
+        [Prüfhinweise]
+           -Keine übergeordnete Signatur gefunden (erwartet 4.).
+        Eltern: '-' => 'VII.327.:4.'
+GEÄ  VII.327.:4.1.1. [ID 3, Dossier, E3, Eltern VII.327.:4.1., S.1] Allemann von Farnern BE 1651: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.2. [ID 4, Dossier, E3, Eltern VII.327.:4.1., S.1] Bach: Vollwappen | 
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.3. [ID 5, Dossier, E3, Eltern VII.327.:4.1., S.1] Stadt Baden AG: Ortswappen, Mauerzinne | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.4. [ID 6, Dossier, E3, Eltern VII.327.:4.1., S.1] Bärlocher 1590: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.5. [ID 7, Dossier, E3, Eltern VII.327.:4.1., S.1] Bärtschi: Wappenschild | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.6. [ID 8, Dossier, E3, Eltern VII.327.:4.1., S.1] Bollier von Horgen ZH 1465: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.7. [ID 9, Dossier, E3, Eltern VII.327.:4.1., S.1] Boner von Laupersdorf SO: Helm, Helmzier | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.8. [ID 10, Dossier, E3, Eltern VII.327.:4.1., S.1] Bumbacher aus Zug und aus dem Aargau: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.9. [ID 11, Dossier, E3, Eltern VII.327.:4.1., S.1] Busslinger von Gebenstorf, Rütihof-Dättwil und Birmenstorf AG: Vollwappen Scheibenrissentwurf | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.10. [ID 12, Dossier, E3, Eltern VII.327.:4.1., S.1] Deubelbeiss aus dem Aargau: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.11. [ID 13, Dossier, E3, Eltern VII.327.:4.1., S.2] Disch von Elm (SG) | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.12. [ID 14, Dossier, E3, Eltern VII.327.:4.1., S.2] Döbeli von Fahrwangen: Vollwappen | 
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.13. [ID 15, Dossier, E3, Eltern VII.327.:4.1., S.2] Dulliker 1522: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.14. [ID 16, Dossier, E3, Eltern VII.327.:4.1., S.2] Eichmann von Gommiswald SG: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.15. [ID 17, Dossier, E3, Eltern VII.327.:4.1., S.2] Fischer von Stetten SH: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.16. [ID 18, Dossier, E3, Eltern VII.327.:4.1., S.2] Frunz von Obersiggenthal: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.17. [ID 19, Dossier, E3, Eltern VII.327.:4.1., S.2] Gloor von Birrwil AG: Vollwappen | 
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.18. [ID 20, Dossier, E3, Eltern VII.327.:4.1., S.2] Graber: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.19. [ID 21, Dossier, E3, Eltern VII.327.:4.1., S.2] Gyr 1720: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.20. [ID 22, Dossier, E3, Eltern VII.327.:4.1., S.2] Heimgartner von Fislisbach AG: Wappenschild | 
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.21. [ID 23, Dossier, E3, Eltern VII.327.:4.1., S.2] Hermann von Inden VS: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.22. [ID 24, Dossier, E3, Eltern VII.327.:4.1., S.2] Hilfiker von Othmarsingen AG: Vollwappen | 
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.23. [ID 25, Dossier, E3, Eltern VII.327.:4.1., S.2] Humm von Strengelbach AG: Vollwappen | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.24. [ID 26, Dossier, E3, Eltern VII.327.:4.1., S.2] Jeuch von Baden AG: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.25. [ID 27, Dossier, E3, Eltern VII.327.:4.1., S.2] Kalt von Gippingen-Leuggern AG: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.26. [ID 28, Dossier, E3, Eltern VII.327.:4.1., S.2] Keller aus dem Aargau: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.27. [ID 29, Dossier, E3, Eltern VII.327.:4.1., S.3] Kleiner von Affoltern a. Albis ZH: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.28. [ID 30, Dossier, E3, Eltern VII.327.:4.1., S.3] Knecht von Döttingen AG: Vollwappen; Widmung: Für 50 Jahre treue Dienste als Kassier der Darlehenskasse Schneisingen / Aarg. | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.29. [ID 31, Dossier, E3, Eltern VII.327.:4.1., S.3] Kunz: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.30. [ID 32, Dossier, E3, Eltern VII.327.:4.1., S.3] Kürsteiner von Gais (AR): Wappenschild, Helm. Helmzier | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.31. [ID 33, Dossier, E3, Eltern VII.327.:4.1., S.3] Lotter (Ludwigsburgerlinie): Vollwappen | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.32. [ID 34, Dossier, E3, Eltern VII.327.:4.1., S.3] Maeder von Ried bei Kerzers: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.33. [ID 35, Dossier, E3, Eltern VII.327.:4.1., S.3] Markwalder aus dem Aargau 1457: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.34. [ID 36, Dossier, E3, Eltern VII.327.:4.1., S.3] Meier 1302: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.35. [ID 37, Dossier, E3, Eltern VII.327.:4.1., S.3] Meier 1611: Wappenschild. Helm, Helmzier | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.36. [ID 38, Dossier, E3, Eltern VII.327.:4.1., S.3] Meier von Endingen AG: Wappenschild | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.37. [ID 39, Dossier, E3, Eltern VII.327.:4.1., S.3] Meier: Vollwappen | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.38. [ID 40, Dossier, E3, Eltern VII.327.:4.1., S.3] Meyer aus dem Aargau 1322: Vollwappen; Beiblatt: Wappenbeschreibung und kurze Familiengeschichte | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.39. [ID 41, Dossier, E3, Eltern VII.327.:4.1., S.3] Meyer von Knonau (Meier): Vollwappen | 
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.40. [ID 42, Dossier, E3, Eltern VII.327.:4.1., S.3] Müller von Affoltern a. Albis ZH | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.41. [ID 43, Dossier, E3, Eltern VII.327.:4.1., S.3] Müller von Lengnau AG: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.42. [ID 44, Dossier, E3, Eltern VII.327.:4.1., S.4] Müller von Lengnau AG: Vollwappen | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.43. [ID 45, Dossier, E3, Eltern VII.327.:4.1., S.4] Müller von Lengnau AG: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.44. [ID 46, Dossier, E3, Eltern VII.327.:4.1., S.4] Muntwyler von Spreitenbach AG: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.45. [ID 47, Dossier, E3, Eltern VII.327.:4.1., S.4] Müri von Schinznach AG: Vollwappen | 
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.46. [ID 48, Dossier, E3, Eltern VII.327.:4.1., S.4] Gemeinde Neuenhof AG: Ortswappen; Widmung: Der loebl. Gemeinde Wettingen gewidmet von der Gemeinde Neuenhof. | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.47. [ID 49, Dossier, E3, Eltern VII.327.:4.1., S.4] Notter aus dem Freiamt AG: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.48. [ID 50, Dossier, E3, Eltern VII.327.:4.1., S.4] Pfister von Sumiswald BE: Wappenschild | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.49. [ID 51, Dossier, E3, Eltern VII.327.:4.1., S.4] Preiswerk von Basel: Vollwappen | 
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.50. [ID 52, Dossier, E3, Eltern VII.327.:4.1., S.4] Ramsperger von Guntershausen: Wappenschild | 
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.51. [ID 53, Dossier, E3, Eltern VII.327.:4.1., S.4] Ruprecht: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.52. [ID 54, Dossier, E3, Eltern VII.327.:4.1., S.4] Saam von Lützelflüh: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.53. [ID 55, Dossier, E3, Eltern VII.327.:4.1., S.4] Schäfer von Bern: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.54. [ID 56, Dossier, E3, Eltern VII.327.:4.1., S.4] Schäfer von Bern: Wappenschild (blanko), Helm, Helmzier | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.55. [ID 57, Dossier, E3, Eltern VII.327.:4.1., S.4] Schatzmann aus dem Aargau: Vollwappen | 
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.56. [ID 58, Dossier, E3, Eltern VII.327.:4.1., S.4] Schulthess von Melchnau BE: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.57. [ID 59, Dossier, E3, Eltern VII.327.:4.1., S.5] Siegrist von Seengen AG: Wappenschild | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.58. [ID 60, Dossier, E3, Eltern VII.327.:4.1., S.5] Spriessler: Vollwappen | 
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.59. [ID 61, Dossier, E3, Eltern VII.327.:4.1., S.5] Spühler: Vollwappen | 
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.60. [ID 62, Dossier, E3, Eltern VII.327.:4.1., S.5] Stamm: Vollwappen | 
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.61. [ID 63, Dossier, E3, Eltern VII.327.:4.1., S.5] Stauffacher von Matt GL: Vollwappen | 
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.62. [ID 64, Dossier, E3, Eltern VII.327.:4.1., S.5] Stierli 1563: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.63. [ID 65, Dossier, E3, Eltern VII.327.:4.1., S.5] Thommen von Gelterkinden BL: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.64. [ID 66, Dossier, E3, Eltern VII.327.:4.1., S.5] Tröndle: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.65. [ID 67, Dossier, E3, Eltern VII.327.:4.1., S.5] Tröndle: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.66. [ID 68, Dossier, E3, Eltern VII.327.:4.1., S.5] Tschumper von Nesslau SG: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.67. [ID 69, Dossier, E3, Eltern VII.327.:4.1., S.5] Venner von Köniz BE: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.68. [ID 70, Dossier, E3, Eltern VII.327.:4.1., S.5] Vollwappen ohne nähere Angaben | 
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.69. [ID 71, Dossier, E3, Eltern VII.327.:4.1., S.5] Weber: Vollwappen | 
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.70. [ID 72, Dossier, E3, Eltern VII.327.:4.1., S.5] Wiederkehr von Spreitenbach AG: Vollwappen | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.71. [ID 73, Dossier, E3, Eltern VII.327.:4.1., S.5] Wirz: Vollwappen | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.72. [ID 74, Dossier, E3, Eltern VII.327.:4.1., S.5] Zürcher von Trub BE: Vollwappen | 
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.1.73. [ID 75, Dossier, E3, Eltern VII.327.:4.1., S.6] Bekröntes Wappen von Zürich | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2. [ID 76, Serie, E2, Eltern VII.327.:4., S.6] Stammbäume, Stammtafeln | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.327.' => 'VII.327.:4.'
+        [Prüfhinweise]
+           -Keine übergeordnete Signatur gefunden (erwartet 4.).
+        Eltern: '-' => 'VII.327.:4.'
+GEÄ  VII.327.:4.2.1. [ID 77, Dossier, E3, Eltern VII.327.:4.2., S.6] Stammbaum von Rudolf Ackermann-Angliker, Tieffurtmüller zu Dottikon, von Hendschikon, Kanton Aargau | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.2. [ID 78, Dossier, E3, Eltern VII.327.:4.2., S.6] Stammbaum Walter Ackermann-Angliker, Landwirt von und in Hendschikon Wappenschilde des Stammbaums (blanko) | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.3. [ID 79, Dossier, E3, Eltern VII.327.:4.2., S.6] Stammbaum Walter Ackermann-Angliker, Landwirt, von und in Hendschikon im Kt. Aargau | 
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.4. [ID 80, Dossier, E3, Eltern VII.327.:4.2., S.6] 1. Teil der Stammtafel Ackermann von Hendschikon im Kanton Aargau. Ausgezogen aus den Tauf-, Ehen- & Totenrödeln der Pfarreien Ammerswil und Lenzburg und den Bürger- & Fa | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.5. [ID 81, Dossier, E3, Eltern VII.327.:4.2., S.6] 2. Teil der Stammtafel Ackermann von Hendschikon | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.6. [ID 82, Dossier, E3, Eltern VII.327.:4.2., S.6] 3. Teil der Stammtafel Ackermann von Hendschikon | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.7. [ID 83, Dossier, E3, Eltern VII.327.:4.2., S.6] Stammbaum des Herrn Gem.’rat Ernst Angliker-Gloor, Landwirt & Wirt zum „Bären“ von und in Birr (Aarg.) | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.8. [ID 84, Dossier, E3, Eltern VII.327.:4.2., S.6] Stammbaum der Familie Baumann aus dem Dürrenmoos, Gemeinde Hirzel, stammend. Entworfen im Jahre 1908 | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.9. [ID 85, Dossier, E3, Eltern VII.327.:4.2., S.6] Stammbaum der Familie Baumann, seit 1393, aus dem Zimmerberg (Hirzel) stammend, in Dürrenmoos (Hirzel) angesessen von 1586 bis zur Jetztzeit. Entworfen im Jahre 1912 | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.10. [ID 86, Dossier, E3, Eltern VII.327.:4.2., S.7] Nachfahren des Johannes Dändliker (1764 – 1817) und der Anna Barbara, geb. Dändliker (1762 – 1842) aus dem Langenriedt in Hombrechtikon | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.11. [ID 87, Dossier, E3, Eltern VII.327.:4.2., S.7] Stammbaum des Hans Ersimann-Gerber von Gontenschwil | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.12. [ID 88, Dossier, E3, Eltern VII.327.:4.2., S.7] Stammbaum des Herrn Hans Erismann-Gerber von Gontenschwil | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.13. [ID 89, Dossier, E3, Eltern VII.327.:4.2., S.7] Stammbaum Johann Jakob Gehrig von Ammerswil (1818 – 1881). Im Auftrag von Ernst Gehrig, Solothurn, hergestellt | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.14. [ID 90, Dossier, E3, Eltern VII.327.:4.2., S.7] Stammtafel von Johann Jakob Gehrig von Ammerswil, Gemeinderat (1818 – 1881). Im Auftrag von Ernst Gehrig. Solothurn, hergestellt | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.15. [ID 91, Dossier, E3, Eltern VII.327.:4.2., S.7] Stammbaum des Walter Jos. Kaufmann-Schnebli von Baden, Kt. Aarg. Wappenschilde des Stammbaums (blanko) | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.16. [ID 92, Dossier, E3, Eltern VII.327.:4.2., S.7] Stammtafel I „Kaufmann“ von Baden | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.17. [ID 93, Dossier, E3, Eltern VII.327.:4.2., S.7] Stammtafel II „Kaufmann“ von Baden | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.18. [ID 94, Dossier, E3, Eltern VII.327.:4.2., S.7] Stammbaum des Herrn Verwalter Robert Meier-Peterhans von Baden, Kanton Aargau Wappenschilde des Stammbaums (blanko) | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.19. [ID 95, Dossier, E3, Eltern VII.327.:4.2., S.7] Stammtafel der Herren Eugen Peterhans, Landwirt, in Baden; Ernst Peterhans, Bankverwalter, in Brugg | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.20. [ID 96, Dossier, E3, Eltern VII.327.:4.2., S.7] Stammbaum der Familie Renold auf Hochstrass von Dättwil und Brunegg | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.21. [ID 97, Dossier, E3, Eltern VII.327.:4.2., S.7] Stammbaum der Familie Renold auf Hochstrass von Dättwil und Brunegg | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.22. [ID 98, Dossier, E3, Eltern VII.327.:4.2., S.7] Stammbaum der Familie Renold auf Hochstrass von Dättwil und Brunegg Wappenschilde des Stammbaumes (blanko) | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.23. [ID 99, Dossier, E3, Eltern VII.327.:4.2., S.8] Stammtafel Renold von Dättwil, Anno | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.24. [ID 100, Dossier, E3, Eltern VII.327.:4.2., S.8] Stammbaum des Herrn Dr. med. Ernst Renold-Wunderlich von Dättwil, Kt. Aarg. Wappenschilde des Stammbaums (blanko) | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.25. [ID 101, Dossier, E3, Eltern VII.327.:4.2., S.8] Linien-Stammtafel Renold von Dättwil. Teilweise Ergänzung der Tafel vom Juli 1942 aufzeigend die Nachkommen des Hans Jakob No. 308 & die Nachkommen des Samuel No. 309 | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.26. [ID 102, Dossier, E3, Eltern VII.327.:4.2., S.8] Stammtafel des Herrn Samuel Albrecht Schmid-Schmid sel. von Aarau | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.27. [ID 103, Dossier, E3, Eltern VII.327.:4.2., S.8] Stammbaum des Herrn Armin Schneider von Birmenstorf / AG, Nachfahre der „Schnyder ab Oberhard“ | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.28. [ID 104, Dossier, E3, Eltern VII.327.:4.2., S.8] Stammbaum des Herrn Kurt Schneider von Birmenstorf / AG, „Nachfahre der Schnyder ab Oberhard“ | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.29. [ID 105, Dossier, E3, Eltern VII.327.:4.2., S.8] Schema-Skizze zu einem Stammbaum-Bild „Schneider“ | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.30. [ID 106, Dossier, E3, Eltern VII.327.:4.2., S.8] Stammbaum des Herrn Louis Philippe Steffan-Menzi von Wädenswil Wappenschilde des Stammbaums (blanko) | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.31. [ID 107, Dossier, E3, Eltern VII.327.:4.2., S.8] Stammbaum des Herrn Louis Philippe Steffan-Menzi von Wädenswil | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.2.32. [ID 108, Dossier, E3, Eltern VII.327.:4.2., S.8] Stammbaum Alfed Suter-Büchler von Schnottwil, Kt. Solothurn | 
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.3. [ID 109, Serie, E2, Eltern VII.327.:4., S.8] Diverse Zeichnungen | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.327.' => 'VII.327.:4.'
+        [Prüfhinweise]
+           -Keine übergeordnete Signatur gefunden (erwartet 4.).
+        Eltern: '-' => 'VII.327.:4.'
+GEÄ  VII.327.:4.3.1. [ID 110, Dossier, E3, Eltern VII.327.:4.3., S.8] Baden – Brugger Tor und Gegend des heutigen Schlossbergplatzes Scheibenrissentwurf | 
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.3.2. [ID 111, Dossier, E3, Eltern VII.327.:4.3., S.8] Baden – Mellinger Turm und Ansicht gegen den Stein, um 1800 Scheibenrissentwurf | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.3.3. [ID 112, Dossier, E3, Eltern VII.327.:4.3., S.8] Gefaltete Hände, Sterne, religiöser Text | 
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.3.4. [ID 113, Dossier, E3, Eltern VII.327.:4.3., S.9] Gefaltete Hände (Zeichnung nach Albrecht Dürer), religiöser Text (aus dem Zwingli-Kalender für 1928) | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.3.5. [ID 114, Dossier, E3, Eltern VII.327.:4.3., S.9] Küchenszene, Widmungstext für Hans Hausheer, Wirt zum Sonnental Scheibenrissentwurf für Hans Hausheer | 
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.3.6. [ID 115, Dossier, E3, Eltern VII.327.:4.3., S.9] Kreuz, religiöser Text | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.3.7. [ID 116, Dossier, E3, Eltern VII.327.:4.3., S.9] Kreuz, religiöser Text (nach M. Feesche) | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.3.8. [ID 117, Dossier, E3, Eltern VII.327.:4.3., S.9] Religiöser Text (nach Matthias Claudius) | 
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.3.9. [ID 118, Dossier, E3, Eltern VII.327.:4.3., S.9] Pferd (Vorlage für Wappen von Lengnau) | 
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.3.10. [ID 119, Dossier, E3, Eltern VII.327.:4.3., S.9] Gemeinde Lengnau AG: Ortswappen, Ährenschmuck | Genau (=)
+        Ebene: '2' => '3'
+GEÄ  VII.327.:4.3.11. [ID 120, Dossier, E3, Eltern VII.327.:4.3., S.9] Gemeinde Lengnau AG: Ortswappen, Pflanzenschmuck | Genau (=)
+        Ebene: '2' => '3'

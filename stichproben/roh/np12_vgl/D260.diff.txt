@@ -1,0 +1,10 @@
+### D260: vorher 120 Einheiten, nachher 121 Einheiten
+NEU  V.A.c.23. [ID 121, Bestand, E1, Eltern -, S.8] Grosser Stadtrat. Gemeindeordnung vom 8. September 1907, 1907 | Genau (=)
+        D: Schachtel II. Anträge der Verwaltungs- und Dienstabteilungen; Entwürfe zur Gemeindeordnung
+        H: Stück ohne Nummer im Findmittel («Schachtel II. Anträge der Verwaltungs- und», S. 8) – hier beim Bestand übernommen (keine Signatur erfunden); in scope beim Bestand ergänzen oder von Hand als Einheit anlegen.
+GEÄ  V.A.c.23.:120 [ID 120, Dossier, E1, Eltern -, S.8] Antrag an die Stimmberechtigten auf Revision der Gemeindeordnung | Genau (=)
+        [Darin]
+           -Schachtel II. Anträge der Verwaltungs- und Dienstabteilungen; Entwürfe zur Gemeindeordnung
+           +
+        [Prüfhinweise]
+           -Nach der letzten Einheit steht im Findmittel ein Absatz ohne Signatur («Schachtel II. Anträge der Verwaltungs- und» …) – hier im Darin übernommen, bitte prüfen

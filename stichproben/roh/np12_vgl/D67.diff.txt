@@ -1,0 +1,7 @@
+### D67: vorher 32 Einheiten, nachher 32 Einheiten
+GEÄ  III.Q.:e. [ID 32, Dossier, E1, Eltern -, S.5] Akten | Von/bis (>= x und <=y)
+        bis: '20.01.2004' => '1822'
+        [Darin]
+           -Neu erfasst am 20. Januar 2004 / RD
+        [Prüfhinweise]
+           -Nach der letzten Einheit steht im Findmittel ein Absatz ohne Signatur («Neu erfasst am 20. Januar 2004 / RD» …) – hier im Darin übernommen, bitte prüfen.

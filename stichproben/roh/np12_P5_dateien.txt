@@ -1,0 +1,23 @@
+D2735	Mappen/Schachteln	23 Einheiten	Prüfmappe voll	Warnzeichen: [NACH] 2, [NICHT] 6, [VOR] 6
+D1924	Mappen/Schachteln	82 Einheiten	Kompaktmappe (mappen_kompakt/)	Warnzeichen: [NICHT] 5
+D819	Vollsignatur	3 Einheiten	Prüfmappe voll	Warnzeichen: [NICHT] 1
+D3657	dezimal	22 Einheiten	Prüfmappe voll	Warnzeichen: [NICHT] 5, [SIG?] 2, [VOR] 1
+D3429	dezimal	28 Einheiten	Prüfmappe voll	Warnzeichen: [NACH] 1, [NICHT] 3, [VOR] 4
+D3828	dezimal	31 Einheiten	Prüfmappe voll	Warnzeichen: [NACH] 30, [NICHT] 16, [SIG?] 390, [VOR] 3
+D512	dezimal	63 Einheiten	Kompaktmappe (mappen_kompakt/)	Warnzeichen: [NACH] 1, [NICHT] 6, [SIG?] 1, [VOR] 65
+D176795	dezimal	63 Einheiten	Kompaktmappe (mappen_kompakt/)	Warnzeichen: [NICHT] 4, [VOR] 26
+D3357	dezimal	68 Einheiten	Kompaktmappe (mappen_kompakt/)	Warnzeichen: [NACH] 37, [NICHT] 9, [SIG?] 39, [VOR] 7
+D151399	dezimal	72 Einheiten	Kompaktmappe (mappen_kompakt/)	Warnzeichen: [NICHT] 2
+D3231	dezimal	130 Einheiten	Kompaktmappe (mappen_kompakt/)	Warnzeichen: [NACH] 32, [NICHT] 6, [SIG?] 95, [VOR] 48
+D408	dezimal	143 Einheiten	Kompaktmappe (mappen_kompakt/)	Warnzeichen: [NICHT] 7, [VOR] 1
+D3099	dezimal	161 Einheiten	Kompaktmappe (mappen_kompakt/)	Warnzeichen: [NICHT] 15, [SIG?] 1
+D2990	fortlaufend	2 Einheiten	Prüfmappe voll	Warnzeichen: [NICHT] 1
+D8949	fortlaufend	6 Einheiten	Prüfmappe voll	Warnzeichen: [NICHT] 24, [VOR] 9
+D3077	fortlaufend	17 Einheiten	Prüfmappe voll	Warnzeichen: [NICHT] 2
+D73	fortlaufend	23 Einheiten	Prüfmappe voll	Warnzeichen: [NICHT] 12
+D1858	fortlaufend	92 Einheiten	Kompaktmappe (mappen_kompakt/)	Warnzeichen: [NICHT] 3, [SIG?] 47
+D4098	ohne Signaturen	1 Einheiten	Prüfmappe voll	Warnzeichen: [NICHT] 1
+D2141	ohne Signaturen	1 Einheiten	Prüfmappe voll	Warnzeichen: keine
+D71	römisch/Buchstaben	6 Einheiten	Prüfmappe voll	Warnzeichen: [NICHT] 11
+D3795	römisch/Buchstaben	10 Einheiten	Prüfmappe voll	Warnzeichen: [NICHT] 6
+D3038	römisch/Buchstaben	32 Einheiten	Prüfmappe voll	Warnzeichen: [NACH] 3, [NICHT] 1

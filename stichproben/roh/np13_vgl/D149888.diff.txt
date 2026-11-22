@@ -1,0 +1,7 @@
+### D149888: vorher 262 Einheiten, nachher 262 Einheiten
+GEÄ  VII.159.:13.1./T2 [ID 224, Dossier, E3, Eltern VII.159.:13.1., S.48] Weiss, Hermann. | Von/bis (>= x und <=y)
+        [Prüfhinweise]
+           +Signatur 13.1. steht im Findmittel zweimal hintereinander mit anderem Titel – Tippfehler? Als Teil übernommen, bitte prüfen.
+GEÄ  VII.159.:14.20./T2 [ID 252, Dossier, E3, Eltern VII.159.:14.20., S.51] Gerahmte Urkunde hinter Glas | Von/bis (>= x und <=y)
+        [Prüfhinweise]
+           +Signatur 14.20. steht im Findmittel zweimal hintereinander mit anderem Titel – Tippfehler? Als Teil übernommen, bitte prüfen.

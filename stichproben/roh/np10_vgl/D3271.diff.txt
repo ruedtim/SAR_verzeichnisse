@@ -1,0 +1,63 @@
+### D3271: vorher 120 Einheiten, nachher 120 Einheiten
+GEÄ  VII.24.:4.2. [ID 27, Serie, E2, Eltern VII.24.:4., S.9] Buchhaltung: Bände und Hefte | Von/bis (>= x und <=y)
+        [Darin]
+           -Kassenbücher (5 Bände)
+GEÄ  VII.24.:4.2.1. [ID 28, Dossier, E3, Eltern VII.24.:4.2., S.9] Bd. 1: | Von/bis (>= x und <=y)
+        Prüfhinweise: '' => 'Steht im Findmittel unter der Zwischenüberschrift «Kassenbücher (5 Bände)».'
+GEÄ  VII.24.:4.2.5. [ID 32, Dossier, E3, Eltern VII.24.:4.2., S.9] Bd. 5: | Von/bis (>= x und <=y)
+        [Darin]
+           -Kassenbelege (2 Bände)
+           +
+GEÄ  VII.24.:4.2.6. [ID 33, Dossier, E3, Eltern VII.24.:4.2., S.9] Bd. 1: | Genau (=)
+        Prüfhinweise: '' => 'Steht im Findmittel unter der Zwischenüberschrift «Kassenbelege (2 Bände)».'
+GEÄ  VII.24.:4.2.7. [ID 34, Dossier, E3, Eltern VII.24.:4.2., S.9] Bd. 2: | Genau (=)
+        [Darin]
+           -Kontokorrentbücher (4 Bände)
+           +
+GEÄ  VII.24.:4.2.8. [ID 35, Dossier, E3, Eltern VII.24.:4.2., S.9] a. "Conto-Corrent. Quartier in Aussersihl. Angefangen 11 Sept. 1873" [Einträge bis 1881] | Von/bis (>= x und <=y)
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Kontokorrentbücher (4 Bände)».
+GEÄ  VII.24.:4.2.11. [ID 38, Dossier, E3, Eltern VII.24.:4.2., S.10] e. Hypotheken-Amortisations-Buch (Vordruck; Verweise auf die Kontokorrentbücher) [Einträge 1874 bis 1888] | Von/bis (>= x und <=y)
+        [Darin]
+           -Zahlungen an Unternehmer und Handwerker [Barzahlungen, Zahlungen an Kreditoren] (2 Bände)
+           +
+GEÄ  VII.24.:4.2.12. [ID 39, Dossier, E3, Eltern VII.24.:4.2., S.10] Bd. 1: 1873 bis 1875 [Enthält auch Bauvoranschläge für einzelne Liegenschaften, S. 132 ff.] | Von/bis (>= x und <=y)
+        Prüfhinweise: '' => 'Steht im Findmittel unter der Zwischenüberschrift «Zahlungen an Unternehmer und Handwerker [Barzahlungen, Zahlungen an Kreditoren] (2 Bände)».'
+GEÄ  VII.24.:4.2.13. [ID 40, Dossier, E3, Eltern VII.24.:4.2., S.10] Bd. 2: 1875 bis 1880 [Enthält auch Inventare des Materialbestandes] | Von/bis (>= x und <=y)
+        [Darin]
+           -Mietzins-Conto [Erträge] (2 Bände)
+           +
+GEÄ  VII.24.:4.2.14. [ID 41, Dossier, E3, Eltern VII.24.:4.2., S.10] Bd. 1: | Von/bis (>= x und <=y)
+        Prüfhinweise: '' => 'Steht im Findmittel unter der Zwischenüberschrift «Mietzins-Conto [Erträge] (2 Bände)».'
+GEÄ  VII.24.:4.2.18. [ID 45, Dossier, E3, Eltern VII.24.:4.2., S.10] Bd. 2: | Von/bis (>= x und <=y)
+        [Darin]
+           -Hauptbuch und Hauptbuchregister (3 Bände)
+           +
+GEÄ  VII.24.:4.2.19. [ID 46, Dossier, E3, Eltern VII.24.:4.2., S.10] a. Bd. 1: (ohne Register) | Von/bis (>= x und <=y)
+        Prüfhinweise: '' => 'Steht im Findmittel unter der Zwischenüberschrift «Hauptbuch und Hauptbuchregister (3 Bände)».'
+GEÄ  VII.24.:4.2.50. [ID 77, Dossier, E3, Eltern VII.24.:4.2., S.11] 29. Rechnungsabschluss per | Genau (=)
+        [Darin]
+           -Notizen (2 Bände) (Die Bände enthalten Notizen vorwiegend zum Rechnungswesen, zu den Sitzungen verschiedener Gremien [bes. Baukommission], zu Handwerkeraufträg
+           +
+GEÄ  VII.24.:4.2.51. [ID 78, Dossier, E3, Eltern VII.24.:4.2., S.11] Bd. 1: [23. Mai] 1872 bis [25. Januar] | Von/bis (>= x und <=y)
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Notizen (2 Bände) (Die Bände enthalten Notizen vorwiegend zum Rechnungswesen, zu den Sitzungen verschiedener
+GEÄ  VII.24.:4.2.52. [ID 79, Dossier, E3, Eltern VII.24.:4.2., S.11] Bd. 2: | Von/bis (>= x und <=y)
+        [Darin]
+           -Abrechnungsbücher (5 Bändchen)
+           +
+GEÄ  VII.24.:4.2.53. [ID 80, Dossier, E3, Eltern VII.24.:4.2., S.11] a. Abrechnungsbuch für Hrn. Heinrich Surber, Schlosser, in Aussersihl; aussen anders bezeichnet: F. B. Eppensteiner (!) | 
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Abrechnungsbücher (5 Bändchen)».
+GEÄ  VII.24.:4.2.57. [ID 84, Dossier, E3, Eltern VII.24.:4.2., S.11] e. Abrechnungsbuch für Hrn. Louis Streuli, Lehrer in Wipkingen | 
+        [Darin]
+           -Varia (6 Bändchen bzw. Hefte)
+           +
+GEÄ  VII.24.:4.2.58. [ID 85, Dossier, E3, Eltern VII.24.:4.2., S.12] a. Notizen zur Liegenschaftenrechnung (1873 bis 1888) | Von/bis (>= x und <=y)
+        Prüfhinweise: '' => 'Steht im Findmittel unter der Zwischenüberschrift «Varia (6 Bändchen bzw. Hefte)».'
+GEÄ  VII.24.:4.2.63. [ID 90, Dossier, E3, Eltern VII.24.:4.2., S.12] f. Notizen zur Rechnung 1890/91 [mit Rekapitulation 1874 bis 1890] | Von/bis (>= x und <=y)
+        [Darin]
+           -Liquidationsrechnung (4 Bände)
+           +
+GEÄ  VII.24.:4.2.64. [ID 91, Dossier, E3, Eltern VII.24.:4.2., S.12] a. Bilanzen, Hauptbücher, Kontokorrente (1902/02) | Genau (=)
+        Prüfhinweise: '' => 'Steht im Findmittel unter der Zwischenüberschrift «Liquidationsrechnung (4 Bände)».'

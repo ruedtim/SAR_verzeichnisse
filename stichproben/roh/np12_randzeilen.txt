@@ -1,0 +1,183 @@
+D134644	S23	y783	1984.
+D141020	S39	y80	4.4.12.2. Akten
+D141020	S40	y80	4.4.13.2. Akten
+D141020	S44	y79	4.6.3.2. Akten
+D141020	S48	y80	Kritiken/Presse allgemein (III)
+D141020	S50	y79	Kritiken/Presse allgemein (III)
+D149628	S50	y78	1923
+D149628	S69	y78	1938
+D149628	S94	y76	1938
+D149628	S115	y78	5.4.1.10. Akten betreffend Kosten des Stadttheaters 1921-1925
+D149628	S116	y78	5.4.1.16. Akten betreffend Kosten des Stadttheaters 1935-1937
+D149628	S118	y78	5.4.1.24. Akten betreffend Kosten des Stadttheaters 1961-1964
+D149628	S175	y78	7.2.1.59. Verträge A – Z 1969-1970
+D149628	S183	y78	7.2.1.128. Verträge A – Z 1986-1987
+D149628	S255	y76	1964
+D149628	S257	y76	1966
+D149628	S506	y78	23.3.5. Album 5:
+D149628	S512	y78	23.3.8. Album 8:
+D150689	S12	y80	Mappe 5:
+D150689	S13	y80	Mappe 1:
+D150689	S22	y80	Mappe 9:
+D150689	S33	y80	Mappe 9:
+D150689	S37	y80	Mappe 3:
+D150689	S54	y80	Mappe 62: 1939
+D150689	S55	y80	Mappe 69: 1943
+D150689	S80	y80	Mappe 8:
+D150689	S104	y80	Mappe 2
+D150689	S139	y80	Mappe 2:
+D150689	S143	y80	Mappe 14:
+D150689	S157	y80	Mappe 4:
+D150689	S173	y80	Mappe 4
+D1739	S5	y80	Schachtel 14
+D1739	S10	y80	Schachtel 28
+D175994	S4	y78	57 Bände
+D175994	S5	y78	60 Bände
+D175996	S13	y78	1 Band
+D175996	S16	y78	1 Band
+D175996	S26	y78	1 Band
+D175996	S27	y78	1 Band
+D175996	S28	y78	1 Band
+D175996	S29	y78	1 Band
+D175996	S31	y78	16 Bände
+D175996	S32	y78	1 Band
+D175996	S34	y78	1 Band
+D175996	S36	y78	1 Band
+D175996	S39	y78	1 Band
+D175996	S40	y78	1 Band
+D175996	S47	y78	1 Band
+D175996	S49	y78	1 Band
+D175996	S51	y78	1 Band
+D175996	S52	y78	1 Band
+D175996	S60	y78	1 Band
+D175996	S66	y78	1 Band
+D175996	S69	y78	1 Band
+D175996	S70	y78	1 Band
+D175996	S71	y78	1 Band
+D175996	S72	y78	1 Band
+D175996	S79	y78	1 Band
+D175996	S81	y78	1 Band
+D175996	S82	y78	1 Band
+D175996	S83	y78	1 Band
+D175996	S84	y78	1 Band
+D175996	S85	y78	1 Band
+D175996	S87	y78	1 Band
+D175996	S88	y78	1 Band
+D175996	S94	y78	1 Band
+D175996	S98	y78	1 Band
+D175996	S100	y78	4 Bände
+D176721	S3	y78	Signatur Titel von – bis Schachtel
+D176721	S4	y78	Signatur Titel von – bis Schachtel
+D176721	S5	y78	Signatur Titel von – bis Schachtel
+D176721	S6	y78	Signatur Titel von – bis Schachtel
+D176721	S7	y78	Signatur Titel von – bis Schachtel
+D2510	S30	y75	- Sozialdemokratische Partei (SP)
+D2510	S41	y75	- Sozialdemokratische Partei (SP)
+D2510	S45	y75	- Überparteiliche Komitees
+D2510	S64	y75	- Überparteiliche Komitees
+D2935	S6	y79	Schachtel 2
+D2935	S12	y79	Schachtel 3
+D3089	S5	y73	Titel Jahre Schachtel
+D3089	S6	y73	Titel Jahre Schachtel
+D3089	S7	y73	Titel Jahre Schachtel
+D3089	S9	y73	Titel Jahre Schachtel
+D3089	S10	y73	Titel Jahre Schachtel
+D3089	S11	y73	Titel Jahre Schachtel
+D3089	S12	y73	Titel Jahre Schachtel
+D3089	S15	y73	Titel Jahre Schachtel
+D3089	S17	y73	Titel Jahre Schachtel
+D3089	S18	y73	Titel Jahre Schachtel
+D3089	S19	y73	Titel Jahre Schachtel
+D3089	S23	y73	Titel Jahre Ort
+D3089	S24	y73	Titel Jahre Ort
+D3089	S25	y73	Titel Jahre Ort
+D3089	S26	y73	Titel Jahre Ort
+D3089	S27	y73	Titel Jahre Ort
+D3089	S29	y73	Titel Jahre Ort
+D3089	S30	y73	Titel Jahre Ort
+D3089	S31	y73	Titel Jahre Ort
+D3089	S32	y73	Titel Jahre Ort
+D3089	S33	y73	Titel Jahre Ort
+D3089	S34	y73	Titel Jahre Ort
+D3089	S35	y73	Titel Jahre Ort
+D3089	S36	y73	Titel Jahre Ort
+D3089	S37	y73	Titel Jahre Ort
+D3089	S38	y73	Titel Jahre Ort
+D3170	S45	y73	7.2.11. 1980/81
+D3170	S46	y73	7.2.15. 1984/85
+D3170	S47	y73	7.2.28. 1997/98
+D32837	S55	y73	4.4.3. Album 2:
+D32837	S56	y73	4.4.3. Album 12:
+D3482	S20	y73	Pläne Locher und Cie AG
+D3482	S25	y73	Pläne Locher und Cie AG
+D3482	S29	y73	do.
+D3482	S38	y73	do.
+D3482	S39	y73	Pläne Locher und Cie AG
+D3482	S40	y73	Pläne Locher und Cie AG
+D3482	S44	y73	Pläne Locher und Cie AG
+D3482	S53	y73	Pläne Locher und Cie AG
+D3482	S80	y73	do.
+D3482	S91	y73	do.
+D3482	S92	y73	do.
+D3482	S103	y73	do.
+D3482	S104	y73	do.
+D3482	S108	y73	do.
+D3482	S114	y73	do.
+D3484	S24	y76	521 Kembs Rheinkraftwerk 1929 / 1933 248
+D3484	S27	y76	555 Kembs Rheinkraftwerk 1930 / 1932 286
+D3566	S3	y73	Nummer 4
+D3566	S7	y73	Nummer 10
+D3612	S15	y79	Mappe 6
+D3612	S16	y79	Mappe 4
+D3727	S32	y73	- Programmheft
+D3727	S55	y73	- Programmheft
+D3727	S69	y73	- Programmheft
+D4054	S24	y74	1980 – 1990
+D4054	S31	y74	1983 – 1985
+D4054	S48	y74	1929 – 1969
+D4054	S107	y74	1980
+D4054	S111	y74	1984 – 1987
+D4054	S125	y74	1958 – 1967
+D4054	S144	y74	1980
+D4054	S145	y74	1929
+D537	S57	y73	Drucksachen 1841
+D537	S129	y73	Drucksachen 1901
+D539	S8	y73	6 Exemplare
+D539	S9	y73	6 Exemplare
+D539	S11	y73	8 Exemplare
+D539	S19	y73	5 Exemplare
+D539	S22	y74	Drucksachen 1869
+D539	S37	y73	9 Exemplare
+D539	S38	y73	11 Exemplare
+D539	S40	y73	5 Exemplare
+D539	S50	y73	5 Exemplare
+D539	S54	y73	4 Exemplare
+D539	S56	y73	10 Exemplare
+D539	S60	y73	6 Exemplare
+D539	S75	y74	Drucksachen 1906
+D539	S85	y73	7 Exemplare
+D9978	S12	y76	Mappe 5:
+D9978	S16	y76	Mappe 6:
+D9978	S20	y76	Mappe 8:
+D1220	S3	y73	6771 – 6930 332
+D1220	S4	y73	12301 – 12500 367
+D1220	S5	y73	18201 – 18400 402
+D1220	S6	y73	23851 – 24050 437
+D2653	S12	y76	Diverse Fotokopien
+D2653	S13	y76	Diverse Fotokopien
+D3087	S4	y73	05.07.1885
+D3087	S5	y73	26.05.1889
+D3087	S8	y73	10.03.1905
+D3087	S10	y73	06.12.1910
+D3087	S11	y73	21.06.1913
+D3087	S12	y73	27.11.1915
+D3087	S13	y73	06.12.1917
+D3087	S14	y73	27.09.1920
+D3087	S16	y73	01.12.1925
+D3087	S17	y73	21.02.1927
+D3087	S21	y73	09.09.1941
+D3664	S9	y79	- Presseball im Hotel Baur au Lac am 25. Oktober 1986 1986
+D3664	S10	y79	- Presseball im Hotel Baur au Lac am 30. Oktober 1993 1993
+D4024	S16	y73	Kleinsteinpflästerung
+D4024	S18	y73	Kleinsteinpflästerung
+D4024	S35	y73	Kleinsteinpflästerung

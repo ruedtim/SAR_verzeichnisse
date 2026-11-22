@@ -1,0 +1,8 @@
+### D3186: vorher 108 Einheiten, nachher 109 Einheiten
+NEU  VII.212.:10./T2 [ID 76, Dossier, E2, Eltern VII.212.:10., S.3] Varia - Sachen | 
+GEÄ  VII.212.:10. [ID 75, Serie, E1, Eltern -, S.3] Quartierverein Hottingen Varia-Ordner | 
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -10. Varia - Sachen
+           +
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => 'Kein Zeitraum gefunden (auch nicht in den Untereinheiten).'

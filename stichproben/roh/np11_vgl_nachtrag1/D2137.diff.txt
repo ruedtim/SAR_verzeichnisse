@@ -1,0 +1,14 @@
+### D2137: vorher 17 Einheiten, nachher 19 Einheiten
+NEU  V.H.c.45.:10. [ID 10, Dossier, E1, Eltern -, S.1] Absenzenlisten der Stadtschulen. Muster. | Von/bis (>= x und <=y)
+        H: Signatur «V.G.c.45.:10.» passt nicht zum Bestand V.H.c.45. – Tippfehler im Findmittel? Bitte prüfen.
+NEU  V.H.c.45.:11. [ID 11, Dossier, E1, Eltern -, S.1] Akten betr. Errichtung einer kantonalen Webschule | Von/bis (>= x und <=y)
+        H: Signatur «V.G.c.45.:11.» passt nicht zum Bestand V.H.c.45. – Tippfehler im Findmittel? Bitte prüfen.
+GEÄ  V.H.c.45.:9. [ID 9, Dossier, E1, Eltern -, S.1] Akten der Reorganisationskommission der Stadtschulpflege | Von/bis (>= x und <=y)
+        bis: '1892' => '1861'
+        Entstehungszeitraum, Anm.: '1860-1861; Darin: 1862–1892' => ''
+        [Darin]
+           -V.G. c.45.:10. Absenzenlisten der Stadtschulen. Muster., 1862-1892
+           -V.G. c.45.:11. Akten betr. Errichtung einer kantonalen Webschule, 1866-1881
+           +
+GEÄ  V.H.c.45.:12. [ID 12, Dossier, E1, Eltern -, S.1] Akten betr. Schulluftuntersuchungen | Von/bis (>= x und <=y)
+        Prüfhinweise: 'Nummerierung springt: nach 9 folgt 12.' => ''

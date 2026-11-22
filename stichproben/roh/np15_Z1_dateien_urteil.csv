@@ -1,0 +1,21 @@
+datei;einheiten;umfang_geprueft;kritisch;mittel;gering;urteil;signale;bemerkung
+D141024;1;ganz: Prüfmappe, Excel, PDF S. 1–2;0;0;1;ohne kritischen Fehler;[NICHT] 3;"Findmittel ohne Signaturen: eine Bestandszeile mit 24 Darin-Zeilen (Konvention); Spaltenmischung bekannt (Z1-23)."
+D144914;7;ganz: Prüfmappe, Excel, PDF S. 1–3;0;0;1;ohne kritischen Fehler;[NICHT] 1;"Schachtel-Einheiten aus dem Detailverzeichnis; Übersicht S. 1 nicht importiert (Konvention); «chr Stand: 05.07.1992» im Info. Sch. 4 Titel (Z1-21)."
+D152459;7;ganz: Prüfmappe;0;0;0;ohne kritischen Fehler;[NICHT] 3;Unauffällig.
+D1595;14;ganz: Prüfmappe;0;0;0;ohne kritischen Fehler;[NICHT] 2;Unauffällig.
+D1656;5;ganz: Prüfmappe;0;0;0;ohne kritischen Fehler;[NICHT] 2;Unauffällig.
+D176551;9;ganz: Prüfmappe, Excel mit allen Darin-Zeilen, PDF S. 1–7;0;1;0;ohne kritischen Fehler;[SIG?] 91, [NACH] 20, [VOR] 9, [NICHT] 6;"SIG?: nummerierte Druckschriftenlisten im Darin (Entscheid 7); NACH/VOR: Die Mappe legt EINHEIT 3. und 7. auf die Listenzeilen «3.»/«7.» der Vorgänger, die Excel ist richtig. «Der Bestand enthält auch die aus dem Ringordner Personalrecht entfernten (ersetzten) Blätter» steht zu Recht im Darin von 4.2. Schachtel fehlt (Z1-05)."
+D2192;29;ganz: Prüfmappe, Excel, PDF S. 2–4;0;1;1;ohne kritischen Fehler;[NICHT] 4, [VOR] 1;"Einleitung mit Geschichte und Verweisen auf V.H.c.906./911. (kein Stück); «Schachtel 1» steht nur bei 1. (aus dem PDF nicht zu klären)."
+D2587;1;ganz: Prüfmappe;0;0;0;ohne kritischen Fehler;[NICHT] 1;Bestandszeile, ganzer Text im Darin.
+D2729;2;ganz: Prüfmappe, Excel, PDF;0;0;0;ohne kritischen Fehler;[NICHT] 1;"Nummer 1 fehlt im PDF; «Akten» richtig als 1. mit Hinweis."
+D2739;2;ganz: Prüfmappe, Excel, PDF;0;1;1;ohne kritischen Fehler;[NICHT] 1;2. Zeitraum zu eng (Z1-17).
+D2960;17;ganz: Prüfmappe, Excel, PDF;0;3;0;ohne kritischen Fehler;[NICHT] 1, [VOR] 5;VOR: gleiche Band-Zeilen bei 10. und 11. (Zuordnungsrauschen). 1-3., 3a., 5a. richtig. «[fehlt bei Kontrolle Januar 1993 /rpt]» ist ein Vermerk zur Einheit, kein Bearbeitervermerk. Mittel alle schon NP10/NP11.
+D3060;9;ganz: Prüfmappe, Excel, PDF S. 1–2, 5, 7–8;0;0;1;ohne kritischen Fehler;[NACH] 5, [VOR] 3;"Schachteln 3, 4, 7, 8/9 und 10 aus der Zusammenfassung; Block «Porträtbild …» S. 8 richtig bei Schachtel 10, «General Guisan …» bei Schachtel 6."
+D3077;17;ganz: Prüfmappe, Excel, PDF S. 1;0;1;1;ohne kritischen Fehler;[NICHT] 2;Zeiträume aus Lebensdaten (10., 12.) bekannt, nicht gemeldet.
+D3225;87;ganz: Kompaktmappe, Excel aller Einheiten, PDF S. 1, 5, 7, 9–12;0;2;1;ohne kritischen Fehler;[NICHT] 4, [VOR] 7;"VOR: Zuordnungsrauschen, am Excel geprüft; doppelte Einträge in 10. stehen so im PDF; die Einleitung nennt den Hinterlegungsvertrag (Vorspann, Konvention)."
+D3432;24;ganz: Prüfmappe;0;0;0;ohne kritischen Fehler;[NICHT] 12;Gruppenzeilen 3., 4., 5. … fehlen im PDF (Hinweis «Keine übergeordnete Signatur»), kein Fund.
+D3705;64;ganz: Kompaktmappe (= voll), Excel 1.1–1.4;0;0;0;ohne kritischen Fehler;[NICHT] 4, [VOR] 1;Nummernsprünge 2.34→2.51 und 2.59→2.100 stehen so im PDF.
+D3727;46;"ganz: Prüfmappe (3250 Z.; 10.3 per Filter auf Lage, Schrift, Signaturform und alle «?»- und Warnzeilen), Excel mit ganzem Darin von 10.3, PDF S. 5, 7, 71–72";0;3;0;ohne kritischen Fehler;[VOR] 48, [NACH] 1, [NICHT] 4;"«Signaturen nur im Vorspann: 20.» sind Datumszeilen der Chronik; VOR/NACH Zuordnungsrauschen; Schlussvermerk «Planarchiv … gta» (Verweis) zu Recht im Info."
+D458;5;ganz: Prüfmappe;0;0;0;ohne kritischen Fehler;[NICHT] 5;Unauffällig.
+D460;26;ganz: Prüfmappe;0;0;0;ohne kritischen Fehler;[NICHT] 8;Unauffällig.
+D845;203;ganz: Kompaktmappe, Diff zur vollen Mappe, Strukturbericht, Excel, PDF S. 5–8;1;2;1;kritisch;"DOPPELT 5, HINWEIS 2, LÜCKE 1, OHNE 6; [NICHT] 7, [VOR] 1, [NACH] 1";"Fünf Teil-2-Einheiten aus den Köpfen der Unterverzeichnisse (Z1-01). LÜCKE 13–100 und Hinweis 1.2 stehen so im PDF; 124.a)–g) richtig als Kinder."

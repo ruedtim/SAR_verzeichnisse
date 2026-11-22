@@ -1,0 +1,11 @@
+### D4173: vorher 44 Einheiten, nachher 44 Einheiten
+GEÄ  VII.455.:3.1. [ID 41, Dossier, E2, Eltern VII.455.:3., S.5] Genealogische Notiz, maschinenschriftlich, über Alfred und Anna Schwarzenbach-Breuning (1 Blatt) | Von/bis (>= x und <=y)
+        [Darin]
+           -Inhalt: „Genealogie der Familien Schwarzenbach von Thalwil Stamm V a – Zweig Rudolf 157:
+           -geboren 5. 8. 1845 gestorben in Zürich am 23. 4. 1901 an einer Lungenentzündung verheiratet am 21. 2. 1881 in Thalwil mit ANNA ROSALIE BREUNING von Balzholz (W
+           -Tochter des Heinrich BREUNING und der Anna, geborene BAUMANN (CH) wohnhaft im ‚Rosengarten‘, Seidenfabrikant in Thalwil und Adliswil.
+           -War bis zu seinem Tode nie krank.“
+           +Inhalt: „Genealogie der Familien Schwarzenbach von Thalwil Stamm V a – Zweig Rudolf 157: ALFRED geboren 5. 8. 1845 gestorben in Zürich am 23. 4. 1901 an einer 
+GEÄ  VII.455.:3.2. [ID 42, Dossier, E2, Eltern VII.455.:3., S.5] Auszug aus der genealogischen Literatur | Von/bis (>= x und <=y)
+        [Prüfhinweise]
+           -Steht im Findmittel unter der Zwischenüberschrift «ALFRED».

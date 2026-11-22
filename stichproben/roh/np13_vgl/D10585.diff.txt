@@ -1,0 +1,44 @@
+### D10585: vorher 249 Einheiten, nachher 250 Einheiten
+NEU  VII.510.:7.2.3. [ID 221, Dossier, E3, Eltern VII.510.:7.2., S.18] Raffaele Ciampini, Filellenismo e liberalismo nel 1826, in: Nuova Antologia, fasc. 1815, Rom 1952, S. 280 – 295 | Von/bis (>= x und <=y)
+        H: Im Findmittel «7. 2.3.» mit Leerzeichen – als «7.2.3.» gelesen.
+Mehrere Zeitangaben im Titel (1826, 1815, 1952).
+GEÄ  VII.510.:1.6.2. [ID 31, Dossier, E3, Eltern VII.510.:1.6., S.4] Bericht des Glarnerischen Hülfsvereins für die Griechen an die Wohlthäter derselben, Glarus | Genau (=)
+        [Darin]
+           -Zug
+           +
+GEÄ  VII.510.:1.7. [ID 32, Dossier, E2, Eltern VII.510.:1., S.4] Karl Kaiser, Rede, gehalten bey der ersten Versammlung des zugerschen Hülfsvereines für die Griechen am 8. Christmonat 1822, Zug | Genau (=)
+        [Darin]
+           -Olten
+           +
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Zug».
+GEÄ  VII.510.:1.8. [ID 33, Dossier, E2, Eltern VII.510.:1., S.4] «Griechenland’s glorreicher Kampf für Religion, Freiheit, Vaterland seit bald drey Jahren …», Flugblatt ohne Titel, Olten | Genau (=)
+        Prüfhinweise: '' => 'Steht im Findmittel unter der Zwischenüberschrift «Olten».'
+GEÄ  VII.510.:1.10.3. [ID 40, Dossier, E3, Eltern VII.510.:1.10., S.5] Geschichte des Vereins der Griechenfreunde in S. Gallen und Ablegung der Rechnung desselben, St. Gallen | Genau (=)
+        [Darin]
+           -Graubünden
+           +
+GEÄ  VII.510.:1.11. [ID 41, Dossier, E2, Eltern VII.510.:1., S.5] Statuts della Societad d’ajüt per ils Grecs in Engadina, o. O. | Genau (=)
+        Prüfhinweise: '' => 'Steht im Findmittel unter der Zwischenüberschrift «Graubünden».'
+GEÄ  VII.510.:1.12.2. [ID 44, Dossier, E3, Eltern VII.510.:1.12., S.5] Einladung zur Unterschrift, die kämpfenden Griechen zu unterstützen | Genau (=)
+        [Darin]
+           -Thurgau
+GEÄ  VII.510.:1.13. [ID 45, Dossier, E2, Eltern VII.510.:1., S.5] Bericht über die Einnahmen und Ausgaben des Thurgauischen Hülfsvereins für die Griechen, o. O. u. J. [hdschr. Anm. | Genau (=)
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Thurgau».
+GEÄ  VII.510.:1.15.2. [ID 52, Dossier, E3, Eltern VII.510.:1.15., S.5] Nouvel appel à la bienfaisance en faveur des chrétiens de l’Orient, Genf | Genau (=)
+        [Darin]
+           -Freiburg im Breisgau
+           +
+GEÄ  VII.510.:1.16. [ID 53, Dossier, E2, Eltern VII.510.:1., S.5] Bericht über Einnahme, Ausgabe und Wirksamkeit der Griechenfreunde zu Freiburg im Breisgau vom September 1822 bis März 1823, Freiburg im Breisgau | Von/bis (>= x und <=y)
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Freiburg im Breisgau».
+GEÄ  VII.510.:7.2.2. [ID 220, Dossier, E3, Eltern VII.510.:7.2., S.18] Johannes Irmscher, Der Philhellenismus in Preussen als Forschungsanliegen, in | Genau (=)
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => 'Genau (=)'
+        von: '1815' => '1966'
+        bis: '1966' => ''
+        [Darin]
+           -7. 2.3. Raffaele Ciampini, Filellenismo e liberalismo nel 1826, in: Nuova Antologia, fasc. 1815, Rom 1952, S. 280 – 295
+GEÄ  VII.510.:7.2.4. [ID 222, Dossier, E3, Eltern VII.510.:7.2., S.18] Virginia Penn, Philhellenism in England (1821 – 1827), in | Von/bis (>= x und <=y)
+        [Prüfhinweise]
+           -Nummerierung springt: nach 2 folgt 4.

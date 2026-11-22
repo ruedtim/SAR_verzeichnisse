@@ -1,0 +1,66 @@
+### D2759: vorher 1 Einheiten, nachher 11 Einheiten
+WEG  V.L.88. [ID 1, Bestand, E1, Eltern -, S.1] Ehrenbürgerrecht der Äbte des Stiftes Einsiedeln Dokumentation | Von/bis (>= x und <=y)
+        D: 1
+        D: Verzeichnis der Fürstäbte von Einsiedeln 934 – 1924 (Auszug aus dem historisch-biographischen Lexikon der Schweiz, Bd. 3, 1926, S. 11 f.)
+        D: Liste Einsiedler Amtsleute in Zürich, 1253 – 1817
+        D: Liste Äbte des Stiftes Einsiedeln, 1798 – 1969
+        D: 2
+        D: Quellen des Stadtarchivs Zürich u. a.: (Abschriften, Regesten), 1362 – 1871
+        D: Gedingburgerrecht und Gedingburgerzins des Abtes zu Einsiedeln
+        D: Privileg Karls IV. vom 31. März 1362
+        D: … (52 Zeilen)
+NEU  V.L.88.:1 [ID 1, Dossier, E1, Eltern -, S.1] Verzeichnis der Fürstäbte von Einsiedeln 934 – 1924 (Auszug aus dem historisch-biographischen Lexikon der Schweiz, Bd. 3, 1926, S. 11 f.) | Von/bis (>= x und <=y)
+        D: Liste Einsiedler Amtsleute in Zürich, 1253 – 1817
+        D: Liste Äbte des Stiftes Einsiedeln, 1798 – 1969
+        H: Signatur aus der Nummer der Mappe gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Mehrere Zeitangaben im Titel (1924, 1926).
+NEU  V.L.88.:2 [ID 2, Dossier, E1, Eltern -, S.1] Quellen des Stadtarchivs Zürich u. a.: (Abschriften, Regesten) | Von/bis (>= x und <=y)
+        D: Gedingburgerrecht und Gedingburgerzins des Abtes zu Einsiedeln
+        D: Privileg Karls IV. vom 31. März 1362
+        H: Signatur aus der Nummer der Mappe gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+NEU  V.L.88.:3 [ID 3, Dossier, E1, Eltern -, S.1] Paul Guyer, "Das Ehrenbürgerrecht des Abtes von Einsiedeln" | Genau (=)
+        D: Max Imboden, "Ehrenbürgerrecht des Abtes von Einsiedeln, rechtliche Zulässigkeit", 1947
+        H: Signatur aus der Nummer der Mappe gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+NEU  V.L.88.:4 [ID 4, Dossier, E1, Eltern -, S.1] Persönliches zu einzelnen Äbten: Pater Dr. Benno Gut | Von/bis (>= x und <=y)
+        D: Photographien
+        D: Todesanzeige, 1970
+        D: Pater Dr. Raimund Tschudy:
+        D: Photographie
+        D: J. P. Zwicky von Gauen, "Der neue Abt von Einsiedeln und seine Abstammung", 1959
+        H: Signatur aus der Nummer der Mappe gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.L.88.:5 [ID 5, Dossier, E1, Eltern -, S.1] Bürgerrechtsurkunde/Verleihung des Ehrenbürgerrechts an Pater Dr. iur. can. Georg | Genau (=)
+        D: Holzherr, Zürich
+        H: Signatur aus der Nummer der Mappe gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+NEU  V.L.88.:6 [ID 6, Dossier, E1, Eltern -, S.1] Burgerzinsen des Abtes von Einsiedeln, Abschriften aus Gemeindegutsrechnungen 1806/7-1928/30 u.a. | Von/bis (>= x und <=y)
+        H: Signatur aus der Nummer der Mappe gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+NEU  V.L.88.:7 [ID 7, Dossier, E1, Eltern -, S.1] Akten / Protokollauszüge 1 | Von/bis (>= x und <=y)
+        D: 1825
+        H: Signatur aus der Nummer der Mappe gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+NEU  V.L.88.:8 [ID 8, Dossier, E1, Eltern -, S.2] Akten / Protokollauszüge 2 | Von/bis (>= x und <=y)
+        D: 1876, 1893 1896
+        H: Signatur aus der Nummer der Mappe gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+NEU  V.L.88.:9 [ID 9, Dossier, E1, Eltern -, S.2] Akten / Protokollauszüge 3 | Von/bis (>= x und <=y)
+        D: 1923, 1924, 1934, 1947, 1950, 1951, 1959, 1969, 1970
+        H: Signatur aus der Nummer der Mappe gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+NEU  V.L.88.:10 [ID 10, Dossier, E1, Eltern -, S.2] Zeitungsausschnitte | Von/bis (>= x und <=y)
+        D: Einsiedeln und Zürich etc.
+        D: 1000 Jahre Kloster Einsiedeln 934 – 1934
+        D: 1000 Jahre Mariendom Einsiedeln 948 – 1948
+        D: Neuwahlen von Klostervorstehern:
+        D: P. Dr. Benno Gut, 15.4.1947
+        D: P. Dr. Raimund Tschudy, 29.10.1959
+        D: P. Dr. Georg Holzherr, 10.10.1969
+        H: Signatur aus der Nummer der Mappe gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+NEU  V.L.88.:11 [ID 11, Dossier, E1, Eltern -, S.2] Publikationen | Von/bis (>= x und <=y)
+        D: Robert Hoppeler, "Zürichs Burgrecht mit dem Abt von Einsiedeln" (3 Exemplare), 1928
+        D: P. Eberhard Croenlein, "Die Abtweihe", 1947
+        D: Zeitschrift der Stiftsschule Marie Einsiedeln; "St. Meinrads Raben", Nr. 3, 14. Jahrgang, 1924
+        D: Zeitschrift der Stiftsschule Maria Einsiedeln; "St. Meinrads Raben", Nr. 5/6, Juli/Okt., 1959
+        D: Zeitschrift der Stiftsschule Maria Einsiedeln; "St. Meinrads Raben", Nr. 1, Nov./Dez., 1959
+        D: Programm "Musik in der Klosterkirche; Einsiedeln", 1962
+        D: Programm "Das grosse Welttheater", 1970
+        D: Odilo Ringholz, Aus den Erinnerungen eines alten; Stiftsarchivars von Einsiedeln; In: Einsiedler Anzeiger Nr. 66, 68, 70, 72 vom 23., 30. August, 6., 13. Septem
+        D: … (13 Zeilen)
+        H: Signatur aus der Nummer der Mappe gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus der Datumsspalte und den Jahreszahlen im Darin geschätzt.

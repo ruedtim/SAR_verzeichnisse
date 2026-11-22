@@ -1,0 +1,1277 @@
+### D177460: vorher 167 Einheiten, nachher 596 Einheiten
+NEU  VII.267.:D 1:1 [ID 62, Dossier, E3, Eltern VII.267.:D 1, S.4] Protokolle, Korrespondenz und Abrechnungen des AH-Verbandes | Von/bis (>= x und <=y)
+NEU  VII.267.:D 1:2 [ID 63, Dossier, E3, Eltern VII.267.:D 1, S.4] Protokolle, Korrespondenz und Abrechnungen des AH-Verbandes | Von/bis (>= x und <=y)
+NEU  VII.267.:D 1:3 [ID 64, Dossier, E3, Eltern VII.267.:D 1, S.4] Protokolle, Korrespondenz und Abrechnungen des AH-Verbandes | Von/bis (>= x und <=y)
+NEU  VII.267.:D 1:4 [ID 65, Dossier, E3, Eltern VII.267.:D 1, S.4] Protokolle, Korrespondenz und Abrechnungen des AH-Verbandes | Von/bis (>= x und <=y)
+NEU  VII.267.:D 1:5 [ID 66, Dossier, E3, Eltern VII.267.:D 1, S.4] Protokolle, Korrespondenz und Abrechnungen des AH-Verbandes | Von/bis (>= x und <=y)
+NEU  VII.267.:D 1:6 [ID 67, Dossier, E3, Eltern VII.267.:D 1, S.4] Protokolle, Korrespondenz und Abrechnungen des AH-Verbandes | Von/bis (>= x und <=y)
+NEU  VII.267.:D 1:7 [ID 68, Dossier, E3, Eltern VII.267.:D 1, S.4] Protokolle, Korrespondenz und Abrechnungen des AH-Verbandes | Von/bis (>= x und <=y)
+NEU  VII.267.:D 1:8 [ID 69, Dossier, E3, Eltern VII.267.:D 1, S.4] Protokolle, Korrespondenz und Abrechnungen des AH-Verbandes | Von/bis (>= x und <=y)
+NEU  VII.267.:D 1:9 [ID 70, Dossier, E3, Eltern VII.267.:D 1, S.4] Protokolle, Korrespondenz und Abrechnungen des AH-Verbandes | Von/bis (>= x und <=y)
+NEU  VII.267.:D 1:10 [ID 71, Dossier, E3, Eltern VII.267.:D 1, S.4] Protokolle, Korrespondenz und Abrechnungen des VVZS 1965 – 1999 (1972 – 1975 fehlt) | Von/bis (>= x und <=y)
+        H: Mehrere Zeitangaben im Titel (1965 – 1999, 1972 – 1975).
+NEU  VII.267.:D 1:11 [ID 72, Dossier, E3, Eltern VII.267.:D 1, S.4] Protokolle des AV-Komitees | Von/bis (>= x und <=y)
+NEU  VII.267.:D 5:1 [ID 77, Dossier, E3, Eltern VII.267.:D 5, S.5] Inventare | Von/bis (>= x und <=y)
+NEU  VII.267.:D 5:2 [ID 78, Dossier, E3, Eltern VII.267.:D 5, S.5] Einsichtsvereinbarung mit dem Stadtarchiv | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:D 5:3 [ID 79, Dossier, E3, Eltern VII.267.:D 5, S.5] Korrespondenz | Von/bis (>= x und <=y)
+NEU  VII.267.:D 5:4 [ID 80, Dossier, E3, Eltern VII.267.:D 5, S.5] Diverse Korrespondenz 1965 – 1976 von Dr. Werner Wohnlich | Von/bis (>= x und <=y)
+NEU  VII.267.:E 1:1 [ID 83, Dossier, E3, Eltern VII.267.:E 1, S.5] fehlt | 
+        H: Laut Findmittel keine Unterlagen vorhanden.
+NEU  VII.267.:E 1:2 [ID 84, Serie, E3, Eltern VII.267.:E 1, S.5] Farbencomment | Von/bis (>= x und <=y)
+NEU  VII.267.:E 1:2/T2 [ID 85, Dossier, E4, Eltern VII.267.:E 1:2, S.5] Farbencomment | Genau (=)
+NEU  VII.267.:E 1:3 [ID 86, Dossier, E3, Eltern VII.267.:E 1, S.5] fehlt | 
+        H: Laut Findmittel keine Unterlagen vorhanden.
+NEU  VII.267.:E 2:1 [ID 88, Dossier, E3, Eltern VII.267.:E 2, S.5] Biercomment 1897 (Der Biercomment des Studentengesangvereins von 1888/1889 befindet sich unter I 4:6.) | Von/bis (>= x und <=y)
+        H: Mehrere Zeitangaben im Titel (1897, 1888/1889).
+NEU  VII.267.:E 2:2 [ID 89, Dossier, E3, Eltern VII.267.:E 2, S.5] Biercomment | Genau (=)
+NEU  VII.267.:E 2:3 [ID 90, Dossier, E3, Eltern VII.267.:E 2, S.5] Biercomment | Genau (=)
+NEU  VII.267.:E 2:4 [ID 91, Dossier, E3, Eltern VII.267.:E 2, S.5] Biercomment | Genau (=)
+NEU  VII.267.:E 2:5 [ID 92, Dossier, E3, Eltern VII.267.:E 2, S.5] Biercomment | Genau (=)
+NEU  VII.267.:E 2:6 [ID 93, Dossier, E3, Eltern VII.267.:E 2, S.5] Biercomment | Genau (=)
+NEU  VII.267.:E 2:7 [ID 94, Dossier, E3, Eltern VII.267.:E 2, S.5] fehlt | 
+        H: Laut Findmittel keine Unterlagen vorhanden.
+NEU  VII.267.:E 3:1 [ID 96, Dossier, E3, Eltern VII.267.:E 3, S.5] Statuten | Genau (=)
+NEU  VII.267.:E 3:2 [ID 97, Dossier, E3, Eltern VII.267.:E 3, S.5] Statuten | Genau (=)
+NEU  VII.267.:E 3:3 [ID 98, Dossier, E3, Eltern VII.267.:E 3, S.5] Statuten | Genau (=)
+NEU  VII.267.:E 3:4 [ID 99, Dossier, E3, Eltern VII.267.:E 3, S.5] Statuten | Genau (=)
+NEU  VII.267.:E 3:5 [ID 100, Dossier, E3, Eltern VII.267.:E 3, S.5] Statuten | Genau (=)
+NEU  VII.267.:E 3:6 [ID 101, Dossier, E3, Eltern VII.267.:E 3, S.5] Statuten | Genau (=)
+NEU  VII.267.:E 3:7 [ID 102, Dossier, E3, Eltern VII.267.:E 3, S.5] Statuten | Genau (=)
+NEU  VII.267.:E 3:8 [ID 103, Dossier, E3, Eltern VII.267.:E 3, S.5] Statuten | Genau (=)
+NEU  VII.267.:E 4:1 [ID 105, Dossier, E3, Eltern VII.267.:E 4, S.5] Leitsätze (Beilage zu Juni 1954 Semesternachrichten) | Genau (=)
+NEU  VII.267.:E 4:2 [ID 106, Dossier, E3, Eltern VII.267.:E 4, S.5] Leitsätze und Statuten vom 4. Juli 1954 | Genau (=)
+NEU  VII.267.:E 4:3 [ID 107, Dossier, E3, Eltern VII.267.:E 4, S.5] fehlt (?) | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:E 4:4 [ID 108, Dossier, E3, Eltern VII.267.:E 4, S.5] Leitsätze und Statuten vom 6. Juli 1975 | Genau (=)
+NEU  VII.267.:E 5:1 [ID 110, Dossier, E3, Eltern VII.267.:E 5, S.5] Pflichtenheft, Nr. 1 von 1965 | Genau (=)
+NEU  VII.267.:E 5:2 [ID 111, Dossier, E3, Eltern VII.267.:E 5, S.5] Pflichtenheft Präses, Nr. 2 von 1969/70 | Von/bis (>= x und <=y)
+NEU  VII.267.:E 5:3 [ID 112, Dossier, E3, Eltern VII.267.:E 5, S.5] Pflichtenheft Kassier) | Von/bis (>= x und <=y)
+NEU  VII.267.:E 5:4 [ID 113, Dossier, E3, Eltern VII.267.:E 5, S.5] Pflichtenheft Aktuar | Genau (=)
+NEU  VII.267.:E 5:5 [ID 114, Dossier, E3, Eltern VII.267.:E 5, S.5] Pflichtenheft Aktuar | Genau (=)
+NEU  VII.267.:E 5:6 [ID 115, Dossier, E3, Eltern VII.267.:E 5, S.5] Diverse lose zu Pflichtenheften gehörende Blätter | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:E 5:7 [ID 116, Dossier, E3, Eltern VII.267.:E 5, S.5] Beschlussbuch | Von/bis (>= x und <=y)
+NEU  VII.267.:E 5:8 [ID 117, Dossier, E3, Eltern VII.267.:E 5, S.6] Beschlussbuch | Von/bis (>= x und <=y)
+NEU  VII.267.:E 6:1 [ID 119, Dossier, E3, Eltern VII.267.:E 6, S.6] Statutenrevision | Genau (=)
+NEU  VII.267.:E 7:1 [ID 121, Dossier, E3, Eltern VII.267.:E 7, S.6] Jahresberichte und Jahresrechnungen | Von/bis (>= x und <=y)
+NEU  VII.267.:E 8:1 [ID 123, Dossier, E3, Eltern VII.267.:E 8, S.6] Hauptbuch | Von/bis (>= x und <=y)
+NEU  VII.267.:E 8:2 [ID 124, Dossier, E3, Eltern VII.267.:E 8, S.6] Hauptbuch | Von/bis (>= x und <=y)
+NEU  VII.267.:E 8:3 [ID 125, Dossier, E3, Eltern VII.267.:E 8, S.6] Hauptbuch | Von/bis (>= x und <=y)
+NEU  VII.267.:E 8:4 [ID 126, Dossier, E3, Eltern VII.267.:E 8, S.6] Hauptbuch | Von/bis (>= x und <=y)
+NEU  VII.267.:F 1:1 [ID 129, Dossier, E3, Eltern VII.267.:F 1, S.6] Schauenburgs Allgemeines Deutsches Kommersbuch von Friedrich Silcher und Friedrich Erk, 51. Auflage (undatiert) | 
+NEU  VII.267.:F 1:2 [ID 130, Dossier, E3, Eltern VII.267.:F 1, S.6] Liederbuch für den Zofinger-Verein schweizerischer Studierender, Zürich, 2. Auflage | Genau (=)
+NEU  VII.267.:F 1:3 [ID 131, Dossier, E3, Eltern VII.267.:F 1, S.6] Kommersbuch, herausgegeben und mit historischen Anmerkungen versehen von Max Friedländer, 4. Auflage (undatiert) | 
+NEU  VII.267.:F 1:4 [ID 132, Dossier, E3, Eltern VII.267.:F 1, S.6] Liederbuch des Eidgenössischen Sängervereins | Genau (=)
+NEU  VII.267.:F 1:5 [ID 133, Dossier, E3, Eltern VII.267.:F 1, S.6] Auswahl von Commers- und Gesellschaftsliedern von Karl August Kümmel, Halle | Genau (=)
+NEU  VII.267.:F 1:6 [ID 134, Dossier, E3, Eltern VII.267.:F 1, S.6] Canti Populari Ticinesi e Italiani, Club Tesserete del St. G. V. Z. 2. unverbesserliche Auflage (undatiert) | 
+NEU  VII.267.:F 1:7 [ID 135, Dossier, E3, Eltern VII.267.:F 1, S.6] Schweizer Volks- und Soldaten-Lieder-Texte, Zürich (undatiert) | 
+NEU  VII.267.:F 1:8 [ID 136, Dossier, E3, Eltern VII.267.:F 1, S.6] Lieder-Büchlein, Basel | Genau (=)
+NEU  VII.267.:F 1:9 [ID 137, Dossier, E3, Eltern VII.267.:F 1, S.6] Diu Fart uff diu Ufenow in mitteldütscher Schreibwis | Genau (=)
+NEU  VII.267.:F 1:10 [ID 138, Dossier, E3, Eltern VII.267.:F 1, S.6] Maifahrt des Studentengesangsvereins auf die Ufenau | Genau (=)
+NEU  VII.267.:F 1:11 [ID 139, Dossier, E3, Eltern VII.267.:F 1, S.6] Kommerslieder vom Fest-Kommers bei der Universitäts-Einweihung | Genau (=)
+NEU  VII.267.:F 1:12 [ID 140, Dossier, E3, Eltern VII.267.:F 1, S.6] Kommers-Lieder, 50 Jahre Altherrenverband des Studentengesangvereins Zürich | Genau (=)
+NEU  VII.267.:F 1:13 [ID 141, Dossier, E3, Eltern VII.267.:F 1, S.6] Die Maifahrt 1878 der Studenten auf die Ufenau | Genau (=)
+NEU  VII.267.:F 1:14 [ID 142, Dossier, E3, Eltern VII.267.:F 1, S.6] Maifahrt 1888 des Studentengesangvereins Zürich auf die Ufenau (2 Exemplare) | Genau (=)
+NEU  VII.267.:F 1:15 [ID 143, Dossier, E3, Eltern VII.267.:F 1, S.6] Vita Brevis Ars Longa – Lieder zur Erheiterung der feuchten Stunden, 41. Versammlung des ärztlichen Zentralvereins, Basel | Genau (=)
+NEU  VII.267.:F 1:16 [ID 144, Dossier, E3, Eltern VII.267.:F 1, S.6] Festspiel zur 50-jährigen Stiftungsfeier des Studentengesangvereins Zürich von Dr. A. Zimmermann, Musik von Dr. Carl Attenhofer und Lothar Kempter | Von/bis (>= x und <=y)
+NEU  VII.267.:F 1:17 [ID 145, Dossier, E3, Eltern VII.267.:F 1, S.6] Konzert des Studenten-Gesangvereins im Casino in Zürich am 16. Februar 1873 unter Mitwirkung von Caroline Stahel und den Herren Ruhoff und G. Weber | Genau (=)
+NEU  VII.267.:F 1:18 [ID 146, Dossier, E3, Eltern VII.267.:F 1, S.6] Der Mensch und der Parastit – Ein fliegendes Blatt für Ärzte, Apotheker und Naturforscher beiden Hemisphären von Dr. Supinator Longus, 4. Auflage, Magdeburg | Genau (=)
+NEU  VII.267.:F 1:19 [ID 147, Dossier, E3, Eltern VII.267.:F 1, S.6] Studentenlieder-Konzert der Berner Singstudenten und des Studentengesangverein Zürich, Zürich (Tonhalle) | Genau (=)
+NEU  VII.267.:F 1:20 [ID 148, Dossier, E3, Eltern VII.267.:F 1, S.6] Wir singen mit Gefreitem Schreiber, Liedertexte | Genau (=)
+NEU  VII.267.:F 1:21 [ID 149, Dossier, E3, Eltern VII.267.:F 1, S.6] Konzert der Berner- und Zürcher-Singstudenten, Zürich und Bern | Genau (=)
+NEU  VII.267.:F 1:22 [ID 150, Dossier, E3, Eltern VII.267.:F 1, S.6] Bierzeitung der Gesellschaft der deutschen Studenten in Zürich | Genau (=)
+NEU  VII.267.:F 1:23 [ID 151, Dossier, E3, Eltern VII.267.:F 1, S.6] Gedichte und Deutsche Burschen-Sänge (undatiert) | 
+NEU  VII.267.:F 1:24 [ID 152, Dossier, E3, Eltern VII.267.:F 1, S.6] Liederbuch der Zürcher und Berner Singstudenten (2 Exemplare) | Genau (=)
+NEU  VII.267.:F 1:25 [ID 153, Dossier, E3, Eltern VII.267.:F 1, S.6] Der vierte Fortunagässler der Zürcher Singstudenten (2 Exemplare) | Von/bis (>= x und <=y)
+NEU  VII.267.:F 1:26 [ID 154, Dossier, E3, Eltern VII.267.:F 1, S.7] Liederbuch der Zürcher- und Berner-Singstudenten (4 Exemplare) | Genau (=)
+NEU  VII.267.:F 1:27 [ID 155, Dossier, E3, Eltern VII.267.:F 1, S.7] 4. Auflage des Liederbuches der Zürcher- und Berner Singstudenten (ungebundenes Exemplar) | Genau (=)
+NEU  VII.267.:F 1:28 [ID 156, Dossier, E3, Eltern VII.267.:F 1, S.7] 3. Abzug des Liederbuches der Zürcher- und Berner Singstudenten (in Fotokopie, ungebunden) | Genau (=)
+NEU  VII.267.:F 2:1 [ID 158, Dossier, E3, Eltern VII.267.:F 2, S.7] Morgenwache; Musik: Ernst Hess, Text: Gottfried Keller | Genau (=)
+NEU  VII.267.:F 2:2 [ID 159, Dossier, E3, Eltern VII.267.:F 2, S.7] Trinklied für Männerchor und Orchester; Musik: Ernst Hess, Text: Johann Fischhart | Genau (=)
+NEU  VII.267.:F 2:3 [ID 160, Dossier, E3, Eltern VII.267.:F 2, S.7] Wanderlied der Prager Studenten; Musik: Anonymus, Orchestrierung: Ernst Hess | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:4 [ID 161, Dossier, E3, Eltern VII.267.:F 2, S.7] Bicocca Lied für Männerchor; Musik: Ernst Hess 1939 (Orchestrierung 1965) | Von/bis (>= x und <=y)
+        H: Mehrere Zeitangaben im Titel (1939, 1965).
+NEU  VII.267.:F 2:5 [ID 162, Dossier, E3, Eltern VII.267.:F 2, S.7] Integer vitae; Musik: P. Fleming, Orchestrierung: Ernst Hess | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:6 [ID 163, Dossier, E3, Eltern VII.267.:F 2, S.7] Aufmunterung zur Freude; Musik: F. A. Hofmeister; Orchestrierung: Ernst Hess | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:7 [ID 164, Dossier, E3, Eltern VII.267.:F 2, S.7] Willhelm bin ich der Telle; Musik: Hilber, Orchestrierung: Ernst Hess | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:8 [ID 165, Dossier, E3, Eltern VII.267.:F 2, S.7] Winzerchor aus "Loreley"; Musik: Felix Mendelssohn-Bartholdy, Orchestrierung: Ernst Hess | Genau (=)
+NEU  VII.267.:F 2:9 [ID 166, Dossier, E3, Eltern VII.267.:F 2, S.7] Wiserspruch; Musik: Franz Schubert Op. 105; Orchestrierung: Ernst Hess | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:10 [ID 167, Dossier, E3, Eltern VII.267.:F 2, S.7] Trinklied (Shakespeare) Bacchus; Musik: Franz Schubert, Orchestrierung: Ernst Hess | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:11 [ID 168, Dossier, E3, Eltern VII.267.:F 2, S.7] Fuge (Aus des Knaben Wunderhorn; Musik: Karl F. Zelter, Orchestrierung: Ernst Hess | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:12 [ID 169, Dossier, E3, Eltern VII.267.:F 2, S.7] So lang man nüchtern ist; Musik: Karl F. Zelter; Text: Johann Wolfgang Goethe, Orchestrierung: Ernst Hess | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:13 [ID 170, Dossier, E3, Eltern VII.267.:F 2, S.7] Bundes-Lied; Musik: Karl F. Zelter; Text: Johann Wolfgang Goethe, Orchestrierung: Ernst Hess | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:14 [ID 171, Dossier, E3, Eltern VII.267.:F 2, S.7] Liederzyklus; Musik: Nico Kaufmann, Text: Hermann Hesse | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:15 [ID 172, Dossier, E3, Eltern VII.267.:F 2, S.7] L. Rybach: Wir Singstudenten (1961), Text: M. C. Brunner | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:16 [ID 173, Dossier, E3, Eltern VII.267.:F 2, S.7] L. Rybach: Swingender Aufruf (1987), Text: R. Zeller | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:17 [ID 174, Dossier, E3, Eltern VII.267.:F 2, S.7] L. Rybach: Mit Swing in den Frühling (1988), Text: R. Zeller | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:18 [ID 175, Dossier, E3, Eltern VII.267.:F 2, S.7] L. Rybach: die Kantorei (2014), Text: R. Zeller | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:19 [ID 176, Dossier, E3, Eltern VII.267.:F 2, S.7] Lob der edlen Musica (1976), Melodie und Text: trad.; Chorsatz: L. Rybach | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:20 [ID 177, Dossier, E3, Eltern VII.267.:F 2, S.7] Frisch, fröhlich wend wir singen (1973), Melodie und Text: aus dem "Rosengarten", Chorsatz: L. Rybach | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:21 [ID 178, Dossier, E3, Eltern VII.267.:F 2, S.7] Ergo bibamus (1982), Melodie: T. M. Eberwein, Chorsatz: L. Rybach | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:22 [ID 179, Dossier, E3, Eltern VII.267.:F 2, S.7] F. Zelter: Bundeslied, Text: J. W. Goethe | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:23 [ID 180, Dossier, E3, Eltern VII.267.:F 2, S.7] H. Lavater: Drei Galgenlieder, Text: Chr. Morgenstern | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:24 [ID 181, Dossier, E3, Eltern VII.267.:F 2, S.7] F. Zelter: Genialisch Treiben, Text: J. W. Goethe | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:25 [ID 182, Dossier, E3, Eltern VII.267.:F 2, S.7] K. Lissmann: Der Rattenfänger, Text: J. W. Goethe | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:26 [ID 183, Dossier, E3, Eltern VII.267.:F 2, S.7] F. Zelter: Kophtisches Lied, Text: J. W. Goethe | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:27 [ID 184, Dossier, E3, Eltern VII.267.:F 2, S.7] H. G. Nägeli: Motette, Text: M. Claudius | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:28 [ID 185, Dossier, E3, Eltern VII.267.:F 2, S.7] K. Weil: Grosser Dankchoral aus Berliner Requiem, Text: B. Brecht | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:29 [ID 186, Dossier, E3, Eltern VII.267.:F 2, S.7] F. Mendelssohn: Periti autem, Psalmentext (Dan. 12.3) | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:30 [ID 187, Dossier, E3, Eltern VII.267.:F 2, S.7] Wolauf, Ir musici | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:31 [ID 188, Dossier, E3, Eltern VII.267.:F 2, S.7] Das alte Tellenlied, Melodie und Text: Urner Pritschenmeister Hieronymus Muheim, Chorsatz: J. B. Hilber | Genau (=)
+NEU  VII.267.:F 2:32 [ID 189, Dossier, E3, Eltern VII.267.:F 2, S.7] Der Landsknecht, Melodie und Text: Soldatenlied von 1622, Chorsatz: G. Weber | Genau (=)
+NEU  VII.267.:F 2:33 [ID 190, Dossier, E3, Eltern VII.267.:F 2, S.7] W. A. Mozart: Zum Schluss… KV 439 | 
+        D: W. A. Mozart: Zum Schluss… KV 439
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:34 [ID 191, Dossier, E3, Eltern VII.267.:F 2, S.7] F. A. Hofmeister: Aufmunterung zur Freude, Text: A. Mahlmann | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:35 [ID 192, Dossier, E3, Eltern VII.267.:F 2, S.7] F. Zelter: Solang man nüchtern ist, Text: J. W. Goethe | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:36 [ID 193, Dossier, E3, Eltern VII.267.:F 2, S.7] Diverse Notenmaterialien (Strawinsky, Beethoven, Offenbach, Orff) | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:37 [ID 194, Dossier, E3, Eltern VII.267.:F 2, S.7] Diverse Chorstimmen von L. Rybach | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 2:38 [ID 195, Dossier, E3, Eltern VII.267.:F 2, S.8] Diverse Chorpartituren | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:1 [ID 197, Dossier, E3, Eltern VII.267.:F 3, S.8] Cantate zum 50 jährigen Jubiläum der Universität Zürich (Carl Attenhofer, Text: Gottfried Keller) | Genau (=)
+NEU  VII.267.:F 3:2 [ID 198, Dossier, E3, Eltern VII.267.:F 3, S.8] Männerchöre, Abt. Volksgesang: 19. Eidgenössisches Sängerfest in Basel | Genau (=)
+NEU  VII.267.:F 3:3 [ID 199, Dossier, E3, Eltern VII.267.:F 3, S.8] Muss i denn zum Städtele hinaus (Walter Rein), Nr. 800 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:4 [ID 200, Dossier, E3, Eltern VII.267.:F 3, S.8] Lasst uns mit vereinten Händen (Schlusschor aus der Kantate K.V. 623 von Wolfgang Amadeus Mozart), Nr. 801 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:5 [ID 201, Dossier, E3, Eltern VII.267.:F 3, S.8] Junger Mut (Johann Zeltner), Nr. 802 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:6 [ID 202, Dossier, E3, Eltern VII.267.:F 3, S.8] Psalm der Berge (Otto Kreis), Nr. 803 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:7 [ID 203, Dossier, E3, Eltern VII.267.:F 3, S.8] Le vieux chalet (J. Bovet), 804 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:8 [ID 204, Dossier, E3, Eltern VII.267.:F 3, S.8] Maienfahrt (Gustav Weber), Nr. 805 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:9 [ID 205, Dossier, E3, Eltern VII.267.:F 3, S.8] Reisläuferlied „De Zapfe vom Spunte“ (Otto Uhlmann), Nr. 806 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:10 [ID 206, Dossier, E3, Eltern VII.267.:F 3, S.8] Mädel mach kein bös Gesicht (Friedrich Nagler), Nr. 807 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:11 [ID 207, Dossier, E3, Eltern VII.267.:F 3, S.8] Lebensfreude „Soldat sein ist gefährlich“ (Hans Lavater, Text: Josef Eichendorf), Nr. 808 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:12 [ID 208, Dossier, E3, Eltern VII.267.:F 3, S.8] Kamerad der Tod (Willy Kaufmann), Nr. 809 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:13 [ID 209, Dossier, E3, Eltern VII.267.:F 3, S.8] Landeshymne (Hermann Suter), Nr. 810 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:14 [ID 210, Dossier, E3, Eltern VII.267.:F 3, S.8] Weinliedchen (Hans Lavater, Text: Robert Blum), Nr. 811 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:15 [ID 211, Dossier, E3, Eltern VII.267.:F 3, S.8] Schwyzermanne (Willi Kaufmann), Nr. 812 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:16 [ID 212, Dossier, E3, Eltern VII.267.:F 3, S.8] Zwei Vaterlandshymnen (Otto Kreis), Nr. 813 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:17 [ID 213, Dossier, E3, Eltern VII.267.:F 3, S.8] Weihe des Gesangs (Wolfgang Amadeus Mozart), Nr. 814 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:18 [ID 214, Dossier, E3, Eltern VII.267.:F 3, S.8] Schelmenlied (Friedrich Niggli), Nr. 815 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:19 [ID 215, Dossier, E3, Eltern VII.267.:F 3, S.8] Vagans scholasticus (Hans Lavater), Nr. 816 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:20 [ID 216, Dossier, E3, Eltern VII.267.:F 3, S.8] Kapitän und Leutnant (Volkmar Andreae), Nr. 817 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:21 [ID 217, Dossier, E3, Eltern VII.267.:F 3, S.8] Schwur (Caesar von Arx, instr. Otto Uhlmann), Nr. 818 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:22 [ID 218, Dossier, E3, Eltern VII.267.:F 3, S.8] Landeshymne (Hermann Suter), Nr. 819 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:23 [ID 219, Dossier, E3, Eltern VII.267.:F 3, S.8] Jägerlied (Heiner Vollenwyder), Nr. 820 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:24 [ID 220, Dossier, E3, Eltern VII.267.:F 3, S.8] Kein Tröpflein mehr im Becher (Tr. Kremser), Nr. 825 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:25 [ID 221, Dossier, E3, Eltern VII.267.:F 3, S.8] Mein Lebenslauf ist Lieb und Lust. (A.A. Mahlmann nach Baumgartner), Nr. 822 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:26 [ID 222, Dossier, E3, Eltern VII.267.:F 3, S.8] Sehnsucht (Othmar Schoeck), Nr. 822 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:27 [ID 223, Dossier, E3, Eltern VII.267.:F 3, S.8] S'Heiwehland (Hans Lavater), Nr. 824 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:28 [ID 224, Dossier, E3, Eltern VII.267.:F 3, S.8] Unterm Lindenbaum (Wilhelm Sturm), Nr. 825 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:29 [ID 225, Dossier, E3, Eltern VII.267.:F 3, S.8] Schweizer Hymne (Otto Kreis), Nr. 826 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:30 [ID 226, Dossier, E3, Eltern VII.267.:F 3, S.8] Schweizer Hymne (Joseph Peter) Nr. 827 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:31 [ID 227, Dossier, E3, Eltern VII.267.:F 3, S.8] Schweizer Psalm „Trittst im Morgenrot daher“, P.A. Zwyssig | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:32 [ID 228, Dossier, E3, Eltern VII.267.:F 3, S.8] Waldkönig (Carl Attenhofer), Nr. 829 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:34 [ID 229, Dossier, E3, Eltern VII.267.:F 3, S.8] Schenkt ein (Wilhelm. Baumgartner), Nr. 831 | 
+        H: Nummerierung springt: nach 32 folgt 34.
+Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:35 [ID 230, Dossier, E3, Eltern VII.267.:F 3, S.8] Tummel Dich gut's Weinlein (Walter Rein), Nr. 832 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:36 [ID 231, Dossier, E3, Eltern VII.267.:F 3, S.8] Schwäbische Erbschaft (Richard Strauss), Nr. 833 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:37 [ID 232, Dossier, E3, Eltern VII.267.:F 3, S.8] Zigeunerleben (Robert Schumann), Nr. 834 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:38 [ID 233, Dossier, E3, Eltern VII.267.:F 3, S.8] Skolian (Gustav Weber), Nr. 836 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:39 [ID 234, Dossier, E3, Eltern VII.267.:F 3, S.8] Schwurgesang (Hans Lavater), Nr. 837 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:40 [ID 235, Dossier, E3, Eltern VII.267.:F 3, S.8] Zwei Festgesänge (Felix Mendelssohn-Bartholdy), Nr. 838 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:41 [ID 236, Dossier, E3, Eltern VII.267.:F 3, S.8] Festheft für das eidgenössisches Sängerfest 1899, Nr. 839 | Genau (=)
+NEU  VII.267.:F 3:42 [ID 237, Dossier, E3, Eltern VII.267.:F 3, S.8] Grenzwacht (Hans Lavater), Nr. 841 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:43 [ID 238, Dossier, E3, Eltern VII.267.:F 3, S.8] Am Rhein (Carl Attenhofer), Nr. 842 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:44 [ID 239, Dossier, E3, Eltern VII.267.:F 3, S.8] Dem Vaterland „Hoch am Firn glüht unser Zeichen“ (Hans Lavater), Nr. 843 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:45 [ID 240, Dossier, E3, Eltern VII.267.:F 3, S.8] Burschen heraus (ges. V. Andreae), Nr. 844 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:46 [ID 241, Dossier, E3, Eltern VII.267.:F 3, S.8] Burschen heraus (ges. Hans Lavater und Robert Blum), Nr. 845 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:47 [ID 242, Dossier, E3, Eltern VII.267.:F 3, S.9] Heimatlied (Hans Lavater), Nr. 846 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:48 [ID 243, Dossier, E3, Eltern VII.267.:F 3, S.9] Donaustrudel „Als wir jüngst in Regensburg“ (Walter Rein), Nr. 847 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:49 [ID 244, Dossier, E3, Eltern VII.267.:F 3, S.9] An die Musik (Franz Schubert), Nr. 848 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:50 [ID 245, Dossier, E3, Eltern VII.267.:F 3, S.9] Ein Heller und Batzen (Hans Lavater und Robert Blum), Nr. 849 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:51 [ID 246, Dossier, E3, Eltern VII.267.:F 3, S.9] Die Nacht (Hans Lavater), Nr. 850 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:52 [ID 247, Dossier, E3, Eltern VII.267.:F 3, S.9] Die Nacht (Ernst Hess), Nr. 851 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:53 [ID 248, Dossier, E3, Eltern VII.267.:F 3, S.9] Braun Mägdelein (Gustav Weber), Nr. 852 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:54 [ID 249, Dossier, E3, Eltern VII.267.:F 3, S.9] Ich fahr dahin (Satz von Gustav Weber), Nr. 853 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:55 [ID 250, Dossier, E3, Eltern VII.267.:F 3, S.9] Festgesang (F. Rohrer, Willi Kaufmann), Nr. 854 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:56 [ID 251, Dossier, E3, Eltern VII.267.:F 3, S.9] An mein Vaterland (Hermann Suter), Nr. 855 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:57 [ID 252, Dossier, E3, Eltern VII.267.:F 3, S.9] Christenglaube (Hans Georg Nägeli), Nr. 856 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:58 [ID 253, Dossier, E3, Eltern VII.267.:F 3, S.9] Der Zigeuner (Max Weinzierl), Nr. 857 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:59 [ID 254, Dossier, E3, Eltern VII.267.:F 3, S.9] Ehre Gottes aus der Natur (Ludwig van Beethoven), Nr. 858 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:60 [ID 255, Dossier, E3, Eltern VII.267.:F 3, S.9] Im Wandern (Friedrich Niggli), Nr. 859 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:61 [ID 256, Dossier, E3, Eltern VII.267.:F 3, S.9] Es ritt ein Jäger wohlgemut (Walter Rein), Nr. 860 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:62 [ID 257, Dossier, E3, Eltern VII.267.:F 3, S.9] De Rosegarte z'Mailand (Otto Kreis), Nr. 861 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:63 [ID 258, Dossier, E3, Eltern VII.267.:F 3, S.9] Das Lied von Herrn von Falkenstein (Otto Brahms), Nr. 862 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:64 [ID 259, Dossier, E3, Eltern VII.267.:F 3, S.9] Fahne (Meinrad Lienert, Satz: Hans Lavater), Nr. 863 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:65 [ID 260, Dossier, E3, Eltern VII.267.:F 3, S.9] Eröffnungslied (Hermann Suter), Nr. 864 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:66 [ID 261, Dossier, E3, Eltern VII.267.:F 3, S.9] Dankgebet (Eduard Kremser), Nr. 865 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:67 [ID 262, Dossier, E3, Eltern VII.267.:F 3, S.9] Frech und froh (Johann Wolfgang von Goethe, Hans Oser), Nr. 866 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:68 [ID 263, Dossier, E3, Eltern VII.267.:F 3, S.9] Die Weisheit des Mirza Schaffy (Carl Mangold), Nr. 867 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:69 [ID 264, Dossier, E3, Eltern VII.267.:F 3, S.9] Die Macht des Gesanges (C. J. Brambach), Nr. 868 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:70 [ID 265, Dossier, E3, Eltern VII.267.:F 3, S.9] Germanenzug (John R. Lund), Nr. 869 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:71 [ID 266, Dossier, E3, Eltern VII.267.:F 3, S.9] Chor der Summtöpfe (Carl Attenhofer), Nr. 870 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:72 [ID 267, Dossier, E3, Eltern VII.267.:F 3, S.9] St. Paulus (Karl F. Zelter), Nr. 871 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:73 [ID 268, Dossier, E3, Eltern VII.267.:F 3, S.9] Hymne an die Musik (A. Billeter), Nr. 872 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:74 [ID 269, Dossier, E3, Eltern VII.267.:F 3, S.9] Altniederländisches Lied (Eduard Kremser), Nr. 873 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:75 [ID 270, Dossier, E3, Eltern VII.267.:F 3, S.9] Fausts Verdammung (Soldatenchor), Nr. 875 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:76 [ID 271, Dossier, E3, Eltern VII.267.:F 3, S.9] Held Samson (Carl Reinecke), Nr. 876 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:77 [ID 272, Dossier, E3, Eltern VII.267.:F 3, S.9] Ergo bibamus, Weg mit den Grillen und Sorgen (Studentenhymne) | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:78 [ID 273, Dossier, E3, Eltern VII.267.:F 3, S.9] Der Zigeuner (Max Weinzier) | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:79 [ID 274, Dossier, E3, Eltern VII.267.:F 3, S.9] Trinklied von Fischart (nur Text) | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:80 [ID 275, Dossier, E3, Eltern VII.267.:F 3, S.9] Neue Liebeslieder von Johannes Brahms | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:81 [ID 276, Dossier, E3, Eltern VII.267.:F 3, S.9] Dir, Stelle des Weltalls (Wolfgang Amadeus Mozart) | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:82 [ID 277, Dossier, E3, Eltern VII.267.:F 3, S.9] Diverse einzelne Studentenlieder | Von/bis (>= x und <=y)
+        H: Offener Zeitraum (nur Beginn oder nur Ende).
+NEU  VII.267.:F 3:83 [ID 278, Dossier, E3, Eltern VII.267.:F 3, S.9] Diverse einzelne Studentenlieder | Von/bis (>= x und <=y)
+        H: Offener Zeitraum (nur Beginn oder nur Ende).
+NEU  VII.267.:F 3:84 [ID 279, Dossier, E3, Eltern VII.267.:F 3, S.9] Vagans Scholasticus, Lob der Edlen Musica, Burschen heraus | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:F 3:85 [ID 280, Dossier, E3, Eltern VII.267.:F 3, S.9] Schneider Courage (Walter Rein) | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:I 1:1 [ID 330, Dossier, E3, Eltern VII.267.:I 1, S.12] Tugendspiegel | Von/bis (>= x und <=y)
+NEU  VII.267.:I 1:2 [ID 331, Dossier, E3, Eltern VII.267.:I 1, S.12] Zwischenspiegel | Von/bis (>= x und <=y)
+        D: I.1:3 Untugendspiegel 1919 – 1959
+NEU  VII.267.:I 2:1 [ID 333, Dossier, E3, Eltern VII.267.:I 2, S.12] Stammbuch (Gästebuch) 1939 – 1968 (enthält Champagnerfrühstücksprotokoll 1960 – 1968) | Von/bis (>= x und <=y)
+        H: Mehrere Zeitangaben im Titel (1939 – 1968, 1960 – 1968).
+NEU  VII.267.:I 2:2 [ID 334, Dossier, E3, Eltern VII.267.:I 2, S.12] Champagnerfrühstücksprotokoll | Von/bis (>= x und <=y)
+NEU  VII.267.:I 2:3 [ID 335, Dossier, E3, Eltern VII.267.:I 2, S.12] Stammtischbuch | Von/bis (>= x und <=y)
+NEU  VII.267.:I 3:1 [ID 337, Dossier, E3, Eltern VII.267.:I 3, S.12] Produktion zur Feier des 70. Geburtstags von Herrn Direktor Dr. Carl Attenhofer | Genau (=)
+NEU  VII.267.:I 3:2 [ID 338, Dossier, E3, Eltern VII.267.:I 3, S.12] Produktion des Studentengesangvereins am Männerchorabend, Manuskript (Prolog des Einfuhrtrusts) | Genau (=)
+NEU  VII.267.:I 3:3 [ID 339, Dossier, E3, Eltern VII.267.:I 3, S.12] Die letzten Tage von Alt Turicum oder die Rache Poseidons, Fuxenproduktion (Typoskript und Manuskript) | Genau (=)
+NEU  VII.267.:I 3:4 [ID 340, Dossier, E3, Eltern VII.267.:I 3, S.12] Georg von Griechenland oder ubi bene ibi patria, Burschenproduktion (Typoskript) | Genau (=)
+NEU  VII.267.:I 3:5 [ID 341, Dossier, E3, Eltern VII.267.:I 3, S.12] Was Ihr wollt oder das erste Schweizerische Handelsuboot, Fuxenproduktion (Typoskript) | Genau (=)
+NEU  VII.267.:I 3:6 [ID 342, Dossier, E3, Eltern VII.267.:I 3, S.12] Der Europäische Pauktag (Typoskript) (undatiert, vermutlich während dem Ersten Weltkrieg entstanden) | 
+NEU  VII.267.:I 3:7 [ID 343, Dossier, E3, Eltern VII.267.:I 3, S.12] Das Europäische Konzert (Typoskript) (Undatiert, vermutlich während dem ersten Weltkrieg entstanden) | 
+NEU  VII.267.:I 3:8 [ID 344, Dossier, E3, Eltern VII.267.:I 3, S.12] Weihnachts-Produktion 1936: Der Traum des Kneipanten (Typoskript) | Genau (=)
+NEU  VII.267.:I 3:9 [ID 345, Dossier, E3, Eltern VII.267.:I 3, S.12] Das Fähnlein der 7 Aufrechten. Eine Singstudentenproduktion, sehr frei nach Gottfried Keller, 1938 mit einem Begleitbrief von Hans Iklé (Typoskript) | Genau (=)
+NEU  VII.267.:I 3:10 [ID 346, Dossier, E3, Eltern VII.267.:I 3, S.12] Ein Füxlein in Gefahr. Kommersproduktion im Jubiläumssemester | Genau (=)
+NEU  VII.267.:I 3:11 [ID 347, Dossier, E3, Eltern VII.267.:I 3, S.12] Jux um die "Schreitende" von Bänninger (Witz darüber aus dem Nebelspalter) | Genau (=)
+NEU  VII.267.:I 3:12 [ID 348, Dossier, E3, Eltern VII.267.:I 3, S.12] Fuxenproduktion zum Altherrentag in Winterthur | Genau (=)
+NEU  VII.267.:I 3:13 [ID 349, Dossier, E3, Eltern VII.267.:I 3, S.12] Der Singstudent. Singstudententag, zwei Gedichte von Alfred Keller (undatiert) | 
+NEU  VII.267.:I 3:14 [ID 350, Dossier, E3, Eltern VII.267.:I 3, S.12] Produktion für den Abschied von Lazi (Ladislaus Rybach) undatiert. (vermutlich 1989) | Genau (=)
+NEU  VII.267.:I 3:15 [ID 351, Dossier, E3, Eltern VII.267.:I 3, S.12] Diverse Texte für Produktionen, gedruckt | 
+        D: E. Galotti, Lais. Ein Sittenbild aus der Guten alten Zeit (2 Exemplare); Menelik oder der Katzenmord zu Adigrat; Die Indianerin; Die Geish., Eine japanische Tee
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:I 3:16 [ID 352, Dossier, E3, Eltern VII.267.:I 3, S.12] Heute in Seldwyla. Ein Spiel mit Gesang und Tanz in zwei Bildern und einem Prolog im Himmel. Zum 100-jährigen Jubiläum des Studentengesangvereins Zürich (3 Exem | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:I 4:1 [ID 354, Dossier, E3, Eltern VII.267.:I 4, S.12] Fuchsentaufe 1878 an der Weihnachtskneipe des Studentengesangsvereins Zürich | Genau (=)
+NEU  VII.267.:I 4:2 [ID 355, Dossier, E3, Eltern VII.267.:I 4, S.12] Fuchsentaufe 1887 am Weihnachtskommers des Studentengesangvereins Zürich | Genau (=)
+NEU  VII.267.:I 4:3 [ID 356, Dossier, E3, Eltern VII.267.:I 4, S.12] Visionen eines Alten Hauses, Fuchsentaufe 1892 am Weihnachtskommers des Studentengesangvereins in der Schmiedstube in Zürich | Genau (=)
+NEU  VII.267.:I 4:4 [ID 357, Dossier, E3, Eltern VII.267.:I 4, S.12] Vorspiel zur Fuchsentaufe 1895, aufgeführt am Weihnachtskommers des Studentengesangvereins in der Zimmerleuten in Zürich (2 Exemplare) | Genau (=)
+NEU  VII.267.:I 4:5 [ID 358, Dossier, E3, Eltern VII.267.:I 4, S.12] Fuxentaufe am Weihnachtskommers vom 16. Dezember 1899 von Piet H. Deutsch, Meinem lieben Baron gewidmet (2 Exemplare) | Genau (=)
+NEU  VII.267.:I 4:6 [ID 359, Dossier, E3, Eltern VII.267.:I 4, S.13] Verschiedene kleine Drucksachen gebunden (enthält neben den erwähnten Fuchsentaufen: Fuchsentaufe 1886 am Weihnachtskommers des Studentengesangvereins Zürich) | Genau (=)
+NEU  VII.267.:I 4:7 [ID 360, Dossier, E3, Eltern VII.267.:I 4, S.13] Verschiedene Unterlagen zu den Fuxen | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:I 4:8 [ID 361, Dossier, E3, Eltern VII.267.:I 4, S.13] Fuxenveranstaltungen | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:I 4:9 [ID 362, Dossier, E3, Eltern VII.267.:I 4, S.13] Fuxenpublikationen | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:I 4:10 [ID 363, Dossier, E3, Eltern VII.267.:I 4, S.13] Burschenprüfungen | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:I 4:11 [ID 364, Dossier, E3, Eltern VII.267.:I 4, S.13] Fuchsentaufe 1877 an der Weihnachtskneipe des Studentengesangvereins Zürich | Genau (=)
+NEU  VII.267.:I 4:12 [ID 365, Dossier, E3, Eltern VII.267.:I 4, S.13] Fuxentaufe 1880 an der Weihnachtskneipe des Studentengesangsvereins Zürich | Genau (=)
+NEU  VII.267.:I 4:13 [ID 366, Dossier, E3, Eltern VII.267.:I 4, S.13] Fuchsentaufe 1886 am Weihnachtscommers des Studentengesangsvereins Zürich (2 Exemplare) | Genau (=)
+NEU  VII.267.:I 4:14 [ID 367, Dossier, E3, Eltern VII.267.:I 4, S.13] Vorspiel zur Fuxentaufe 1895 am Weihnachts-Kommers des Studenten-Gesangsvereins in der Zimmerleuten in Zürich | Genau (=)
+NEU  VII.267.:I 4:15 [ID 368, Dossier, E3, Eltern VII.267.:I 4, S.13] Fuxentaufe 1899 am Weihnachtscommers von Peit H. Deutsch, meinem lieben „Baron“ gewidmet. | Genau (=)
+NEU  VII.267.:I 4:16 [ID 369, Dossier, E3, Eltern VII.267.:I 4, S.13] Fuxenproduktion Weihnachtskommers | Genau (=)
+NEU  VII.267.:I 5:1 [ID 371, Dossier, E3, Eltern VII.267.:I 5, S.13] Maifahrt | Genau (=)
+NEU  VII.267.:I 5:2 [ID 372, Dossier, E3, Eltern VII.267.:I 5, S.13] Erinnerungen an das eidgenössische Sängerfest in Bern von Piet H. Deutsch (2 Exemplare) | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:I 5:3 [ID 373, Dossier, E3, Eltern VII.267.:I 5, S.13] Mein Lebenslauf ist Lieb und Lust und lauter Becherklang (2 Exemplare) | Genau (=)
+NEU  VII.267.:I 5:4 [ID 374, Dossier, E3, Eltern VII.267.:I 5, S.13] Maifahrt | Genau (=)
+NEU  VII.267.:I 5:5 [ID 375, Dossier, E3, Eltern VII.267.:I 5, S.13] Maifahrt 1872 des Studentengesangvereins Zürich auf die Ufenau | Genau (=)
+NEU  VII.267.:I 5:6 [ID 376, Dossier, E3, Eltern VII.267.:I 5, S.13] Diu Fahrt uff die Ufenow in mitteldütscher Schribwis, allen maidelin und bueben die uff der fart gesin, in züchten gewidmet vom schriber | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:I 5:7 [ID 377, Dossier, E3, Eltern VII.267.:I 5, S.13] Maifahrt 1878 des Studentengesangvereins Zürich auf die Ufenau | Genau (=)
+NEU  VII.267.:I 5:8 [ID 378, Dossier, E3, Eltern VII.267.:I 5, S.13] Maifahrt 1885 des Studentengesangvereins Zürich auf die Ufenau | Genau (=)
+NEU  VII.267.:I 5:9 [ID 379, Dossier, E3, Eltern VII.267.:I 5, S.13] Jubiläumsnummer 1974 „Mein Lebenslauf ist Lieb und Lust“ (3 Exemplare) | Genau (=)
+NEU  VII.267.:I 5:10 [ID 380, Dossier, E3, Eltern VII.267.:I 5, S.13] Offizielle Zeitung des Singstudenten Altherrenballs (3 Exemplare) | Genau (=)
+NEU  VII.267.:I 5:11 [ID 381, Dossier, E3, Eltern VII.267.:I 5, S.13] Ballzeitung der Zürcher Singstudenten | Genau (=)
+NEU  VII.267.:I 5:12 [ID 382, Dossier, E3, Eltern VII.267.:I 5, S.13] Der Sänger-Wonnefahrt 1872 auf die Ufenau | Genau (=)
+NEU  VII.267.:K 1:1 [ID 385, Dossier, E3, Eltern VII.267.:K 1, S.13] 75 Jahre Altherrenverband (Korrespondenz, Rechnung, Programm) | Genau (=)
+NEU  VII.267.:K 1:2 [ID 386, Dossier, E3, Eltern VII.267.:K 1, S.13] 125 Jahre Zürcher Singstudenten, Korrespondenz, Rechnungen, Programm) | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:K 1:3 [ID 387, Dossier, E3, Eltern VII.267.:K 1, S.13] 100 Jahre Altherrenverband, Korrespondenz, Rechnung, Programm) | Genau (=)
+NEU  VII.267.:K 1:4 [ID 388, Dossier, E3, Eltern VII.267.:K 1, S.13] 150 Jahre Zürcher Singstudenten, verschiedene Unterlagen) | Genau (=)
+NEU  VII.267.:K 2:1 [ID 390, Dossier, E3, Eltern VII.267.:K 2, S.13] Festkonzert Männerchor Zürich und Studentengesangverein | Genau (=)
+NEU  VII.267.:K 2:2 [ID 391, Dossier, E3, Eltern VII.267.:K 2, S.13] Studentengesangverein, Conzert Tonhalle | Genau (=)
+NEU  VII.267.:K 2:3 [ID 392, Dossier, E3, Eltern VII.267.:K 2, S.13] Studentengesangverein, Conzert Tonhalle | Genau (=)
+NEU  VII.267.:K 2:4 [ID 393, Dossier, E3, Eltern VII.267.:K 2, S.13] Jubiläum, Programmkarte | Von/bis (>= x und <=y)
+NEU  VII.267.:K 2:5 [ID 394, Dossier, E3, Eltern VII.267.:K 2, S.13] Festspiel zur fünfzigjährigen Stiftungsfeier des Studentengesangvereins | Genau (=)
+NEU  VII.267.:K 2:6 [ID 395, Dossier, E3, Eltern VII.267.:K 2, S.13] Studentengesangverein, Conzert Tonhalle | Genau (=)
+NEU  VII.267.:K 2:7 [ID 396, Dossier, E3, Eltern VII.267.:K 2, S.13] Studentengesangverein, Conzert Musikschule Zürich | Genau (=)
+NEU  VII.267.:K 2:8 [ID 397, Dossier, E3, Eltern VII.267.:K 2, S.13] Commerslieder Dies Academicus | Genau (=)
+NEU  VII.267.:K 2:9 [ID 398, Dossier, E3, Eltern VII.267.:K 2, S.13] Studentengesangverein, Conzert Konservatorium | Genau (=)
+NEU  VII.267.:K 2:10 [ID 399, Dossier, E3, Eltern VII.267.:K 2, S.13] Studentengesangverein; Conzert Konservatorium | Genau (=)
+NEU  VII.267.:K 2:11 [ID 400, Dossier, E3, Eltern VII.267.:K 2, S.13] Studentenliederabend Lesezirkel Hottingen, Tonhalle | Genau (=)
+NEU  VII.267.:K 2:12 [ID 401, Dossier, E3, Eltern VII.267.:K 2, S.14] Festkonzert 75 Jahre, Tonhalle | Genau (=)
+NEU  VII.267.:K 2:13 [ID 402, Dossier, E3, Eltern VII.267.:K 2, S.14] Festspiel 75 Jahre Studentengesangverein | Genau (=)
+NEU  VII.267.:K 2:14 [ID 403, Dossier, E3, Eltern VII.267.:K 2, S.14] 75 Jahr Jubiläum Studentengesangverein, Menukarte, und Programm | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:K 2:15 [ID 404, Dossier, E3, Eltern VII.267.:K 2, S.14] Studentenliederkonzert Studentengesangverein Zürich und Singstudenten Bern | Genau (=)
+NEU  VII.267.:K 2:16 [ID 405, Dossier, E3, Eltern VII.267.:K 2, S.14] Konzert der Zürcher und Berner Singstudenten, neue Börse Zürich | Genau (=)
+NEU  VII.267.:K 2:17 [ID 406, Dossier, E3, Eltern VII.267.:K 2, S.14] Berner und Zürcher Singstudenten, Konzert, Tonhalle und Kasino Bern | Genau (=)
+NEU  VII.267.:K 2:18 [ID 407, Dossier, E3, Eltern VII.267.:K 2, S.14] Jubiläumskonzert der Zürcher Singstudenten, Tonhalle (2 Exemplare) | Genau (=)
+NEU  VII.267.:K 2:19 [ID 408, Dossier, E3, Eltern VII.267.:K 2, S.14] Text der Gesänge von dem Studentengesangverein vom 27. Februar 1859 | Genau (=)
+NEU  VII.267.:K 2:20 [ID 409, Dossier, E3, Eltern VII.267.:K 2, S.14] Konzert der Zürcher Singstudenten, Tonhalle | Genau (=)
+NEU  VII.267.:K 2:21 [ID 410, Dossier, E3, Eltern VII.267.:K 2, S.14] Konzert der Zürcher Singstudenten, Tonhalle | Genau (=)
+NEU  VII.267.:K 2:22 [ID 411, Dossier, E3, Eltern VII.267.:K 2, S.14] Konzert der Berner und Zürcher Singstudenten, Tonhalle (2 Exemplare) | Genau (=)
+NEU  VII.267.:K 2:23 [ID 412, Dossier, E3, Eltern VII.267.:K 2, S.14] Abschiedskonzert 1989 von Ladislaus Rybach als Direktor der Zürcher Singstudenten (5 Exemplare) | Genau (=)
+NEU  VII.267.:K 2:24 [ID 413, Dossier, E3, Eltern VII.267.:K 2, S.14] Konzert der Berner und Zürcher Singstudenten „Perlen der Romantik“, Konservatorium Zürich (2 Exemplare) | Genau (=)
+NEU  VII.267.:K 2:25 [ID 414, Dossier, E3, Eltern VII.267.:K 2, S.14] 15. Zentralschweizerisches Sängerfest (inkl. Ehrenurkunde) | Genau (=)
+NEU  VII.267.:K 2:26 [ID 415, Dossier, E3, Eltern VII.267.:K 2, S.14] Semesterprogramme des Studentengesangvereins | Von/bis (>= x und <=y)
+NEU  VII.267.:K 2:27 [ID 416, Dossier, E3, Eltern VII.267.:K 2, S.14] Konzert des Männerchors Chur und Studentengesangverein Zürich (undatiert) | 
+NEU  VII.267.:K 2:28 [ID 417, Dossier, E3, Eltern VII.267.:K 2, S.14] 80. Versammlung des Schweizerischen ärztlichen Zentralvereins, St. Gallen | Genau (=)
+NEU  VII.267.:K 2:29 [ID 418, Dossier, E3, Eltern VII.267.:K 2, S.14] Konzert der Zürcher Singstudenten unter Mitwirkung von Luise Schlatter und Ruth Mettler (Imthurneum Schaffhausen) | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:K 2:30 [ID 419, Dossier, E3, Eltern VII.267.:K 2, S.14] Konzert der Zürcher Singstudenten und dem Akademischen Orchester Zürich, Zürich (Peterhofstatt) | Genau (=)
+NEU  VII.267.:K 2:31 [ID 420, Dossier, E3, Eltern VII.267.:K 2, S.14] Konzert mit Martin Weidmann und Martina Frank, Schaffhausen | Genau (=)
+NEU  VII.267.:K 2:32 [ID 421, Dossier, E3, Eltern VII.267.:K 2, S.14] Konzerte der Zürcher Singstudenten, Männerchöre aus Oper und Operette, unter der Leitung von Martin Baur, Rapperswil, Fischingen, Aarau | Genau (=)
+NEU  VII.267.:K 2:33 [ID 422, Dossier, E3, Eltern VII.267.:K 2, S.14] Festspiel zur 100-jährigen Gründungsfeier der Gesellschaft der Ärzte des Kantons Zürich von Dr. A. Zimmermann | Genau (=)
+NEU  VII.267.:K 3:1 [ID 424, Dossier, E3, Eltern VII.267.:K 3, S.14] Diverse Einladungen des Studentengesangvereins | Von/bis (>= x und <=y)
+NEU  VII.267.:K 3:2 [ID 425, Dossier, E3, Eltern VII.267.:K 3, S.14] Einladungen zum Familienabend | Von/bis (>= x und <=y)
+NEU  VII.267.:K 3:3 [ID 426, Dossier, E3, Eltern VII.267.:K 3, S.14] Einladungen zu Couleur-Bällen | Von/bis (>= x und <=y)
+NEU  VII.267.:K 3:4 [ID 427, Dossier, E3, Eltern VII.267.:K 3, S.14] Einladungen zu Maifahrten | Von/bis (>= x und <=y)
+NEU  VII.267.:K 3:5 [ID 428, Dossier, E3, Eltern VII.267.:K 3, S.14] Einladungen zu persönlichen Anlässen | Von/bis (>= x und <=y)
+NEU  VII.267.:K 4:1 [ID 430, Dossier, E3, Eltern VII.267.:K 4, S.14] Zeitungsausschnitte | Von/bis (>= x und <=y)
+NEU  VII.267.:K 5:1 [ID 432, Dossier, E3, Eltern VII.267.:K 5, S.14] Jungfrau-Stafette | Genau (=)
+NEU  VII.267.:K 5:2 [ID 433, Dossier, E3, Eltern VII.267.:K 5, S.14] Zürcher Singstudenten, Verein Operetten für Zürich: Orpheus in der Unterwelt | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:L 1:1 [ID 436, Dossier, E3, Eltern VII.267.:L 1, S.14] Statuten des Vereins Verbindungshaus Zürcher Singstudenten | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:L 1:2 [ID 437, Dossier, E3, Eltern VII.267.:L 1, S.14] Verbindungslokal Johanniter | Genau (=)
+NEU  VII.267.:L 2:1 [ID 439, Dossier, E3, Eltern VII.267.:L 2, S.14] Erwerb und Finanzierung der Kantorei, Donatoren | Von/bis (>= x und <=y)
+NEU  VII.267.:L 2:2 [ID 440, Dossier, E3, Eltern VII.267.:L 2, S.15] Umbau und Bewilligungsverfahren (Bauabrechnung) | Von/bis (>= x und <=y)
+NEU  VII.267.:L 2:3 [ID 441, Dossier, E3, Eltern VII.267.:L 2, S.15] Umbaupläne Kantorei | Von/bis (>= x und <=y)
+NEU  VII.267.:L 2:4 [ID 442, Dossier, E3, Eltern VII.267.:L 2, S.15] Wasserschaden Kantorei | Genau (=)
+NEU  VII.267.:L 2:5 [ID 443, Dossier, E3, Eltern VII.267.:L 2, S.15] Diverse anwaltliche Unterlagen zur Kantorei; Gebäudeversicherung | Von/bis (>= x und <=y)
+NEU  VII.267.:L 2:6 [ID 444, Dossier, E3, Eltern VII.267.:L 2, S.15] Eröffnung der Kantorei | Genau (=)
+NEU  VII.267.:L 2:7 [ID 445, Dossier, E3, Eltern VII.267.:L 2, S.15] Betriebliches Kantorei 1968 ff: Möblierung, Erhöhung des ausländischen Personals, Heizung, Lüftung, Abwasser, Abfallentsorgung | Genau (=)
+NEU  VII.267.:L 2:8 [ID 446, Dossier, E3, Eltern VII.267.:L 2, S.15] Projekt Antilärmdecke Kantorei (Plan) | Genau (=)
+NEU  VII.267.:L 2:9 [ID 447, Dossier, E3, Eltern VII.267.:L 2, S.15] Korrespondenz und Finanzielles | Von/bis (>= x und <=y)
+NEU  VII.267.:L 2:10 [ID 448, Dossier, E3, Eltern VII.267.:L 2, S.15] Küchenumbau Kantorei | Genau (=)
+NEU  VII.267.:L 2:11 [ID 449, Dossier, E3, Eltern VII.267.:L 2, S.15] Korrespondenz und Finanzielles 1985 – 1986, (Pläne Trottoirmöblierung 1985) | Von/bis (>= x und <=y)
+        H: Mehrere Zeitangaben im Titel (1985 – 1986, 1985).
+NEU  VII.267.:L 2:12 [ID 450, Dossier, E3, Eltern VII.267.:L 2, S.15] Korrespondenz und Finanzielles | Von/bis (>= x und <=y)
+NEU  VII.267.:L 2:13 [ID 451, Dossier, E3, Eltern VII.267.:L 2, S.15] Korrespondenz und Finanzielles 1989 – 1998 (Umsatzabrechnungen 1968 – 1997) | Von/bis (>= x und <=y)
+        H: Mehrere Zeitangaben im Titel (1989 – 1998, 1968 – 1997).
+NEU  VII.267.:L 2:14 [ID 452, Dossier, E3, Eltern VII.267.:L 2, S.15] Protokolle, Jahresberichte, Rechnungen | Von/bis (>= x und <=y)
+NEU  VII.267.:L 2:16 [ID 453, Dossier, E3, Eltern VII.267.:L 2, S.15] 25 Jahre Kantorei 1992 (mit Bierdeckeln zum Jubiläum), Weihnachtsbeleuchtung | Genau (=)
+        H: Nummerierung springt: nach 14 folgt 16.
+NEU  VII.267.:L 2:17 [ID 454, Dossier, E3, Eltern VII.267.:L 2, S.15] Renovationen, Erneuerungen, Unterhalt 1988 – 1992 (Pläne Architekt Behles, 1989) | Von/bis (>= x und <=y)
+        H: Mehrere Zeitangaben im Titel (1988 – 1992, 1989).
+NEU  VII.267.:L 2:18 [ID 455, Dossier, E3, Eltern VII.267.:L 2, S.15] Renovationen, Erneuerungen, Unterhalt | Von/bis (>= x und <=y)
+NEU  VII.267.:L 2:19 [ID 456, Dossier, E3, Eltern VII.267.:L 2, S.15] Grossformatige Pläne zu Umbauten und Erneuerungen (Planmappe: NEU/UG2/P2/7) | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:L 2:20 [ID 457, Dossier, E3, Eltern VII.267.:L 2, S.15] Korrespondenz, Grundlagen, Renovationen, Bauarbeiten, Umbauten | Von/bis (>= x und <=y)
+NEU  VII.267.:L 3:1 [ID 459, Dossier, E3, Eltern VII.267.:L 3, S.15] Broschüre zum Kauf des Verbindungshauses am Neumarkt 2 | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:L 3:2 [ID 460, Dossier, E3, Eltern VII.267.:L 3, S.15] Partizipationsschein vom Verein Verbindungshaus Zürich Singstudenten 1978) | Genau (=)
+NEU  VII.267.:M 1:1 [ID 463, Dossier, E3, Eltern VII.267.:M 1, S.15] Verzeichnis der Alten Mitglieder 1886 des Studentengesangvereins Zürich (3 Exemplare) | Genau (=)
+NEU  VII.267.:M 1:2 [ID 464, Dossier, E3, Eltern VII.267.:M 1, S.15] Mitgliederverzeichnis 1905 des Altherrenverbandes des Studentengesangvereins Zürich (3 Exemplare) | Genau (=)
+NEU  VII.267.:M 1:3 [ID 465, Dossier, E3, Eltern VII.267.:M 1, S.15] Mitgliederverzeichnis 1913 des Altherrenverbandes des Studentengesangvereins Zürich | Genau (=)
+NEU  VII.267.:M 1:4 [ID 466, Dossier, E3, Eltern VII.267.:M 1, S.15] Mitgliederverzeichnis 1924 des Altherrenverbandes des Studentengesangvereins Zürich (3 Exemplare) | Genau (=)
+NEU  VII.267.:M 1:5 [ID 467, Dossier, E3, Eltern VII.267.:M 1, S.15] Mitgliederverzeichnis 1933 des Altherrenverbandes des Studentengesangvereins Zürich (3 Exemplare) | Genau (=)
+NEU  VII.267.:M 1:6 [ID 468, Dossier, E3, Eltern VII.267.:M 1, S.15] Mitgliederverzeichnis 1938 des Altherrenverbandes des Studentengesangvereins Zürich (3 Exemplare) | Genau (=)
+NEU  VII.267.:M 1:7 [ID 469, Dossier, E3, Eltern VII.267.:M 1, S.15] Mitgliederverzeichnis 1943 des Altherrenverbandes des Studentengesangvereins Zürich (3 Exemplare) | Genau (=)
+NEU  VII.267.:M 1:8 [ID 470, Dossier, E3, Eltern VII.267.:M 1, S.15] Mitgliederverzeichnis 1949 des Altherrenverbandes des Studentengesangvereins Zürich (3 Exemplare) | Genau (=)
+NEU  VII.267.:M 1:9 [ID 471, Dossier, E3, Eltern VII.267.:M 1, S.15] Mitgliederverzeichnis 1957 des Altherrenverbandes des Studentengesangvereins Zürich (3 Exemplare) | Genau (=)
+NEU  VII.267.:M 1:10 [ID 472, Dossier, E3, Eltern VII.267.:M 1, S.15] Verzeichnis 1974 der Alten Herren des Altherrenverbandes der Zürcher Singstudenten (3 Exemplare) | Genau (=)
+NEU  VII.267.:M 1:11 [ID 473, Dossier, E3, Eltern VII.267.:M 1, S.15] Verzeichnis 1981 der Alten Herren des Altherrenverbandes der Zürcher Singstudenten (3 Exemplare) | Genau (=)
+NEU  VII.267.:M 1:12 [ID 474, Dossier, E3, Eltern VII.267.:M 1, S.15] Verzeichnis 1985 der Alten Herren des Altherrenverbandes der Zürcher Singstudenten (2 Exemplare) | Genau (=)
+NEU  VII.267.:M 1:13 [ID 475, Dossier, E3, Eltern VII.267.:M 1, S.15] Adressverzeichnis 1993 der Alten Herren der Zürcher Singstudenten | Genau (=)
+NEU  VII.267.:M 1:14 [ID 476, Dossier, E3, Eltern VII.267.:M 1, S.15] Adressverzeichnisse 1978/79 – 2000 der Zürcher Singstudenten | Von/bis (>= x und <=y)
+NEU  VII.267.:M 1:15 [ID 477, Dossier, E3, Eltern VII.267.:M 1, S.16] Verzeichnis 1965 der Alten Herren des Alt-Herrenverbandes der Züricher Singstudenten | Genau (=)
+NEU  VII.267.:M 1:16 [ID 478, Dossier, E3, Eltern VII.267.:M 1, S.16] Mitgliederliste und Adressverzeichnis 2005 der Alten Herren der Zürcher Singstudenten | Genau (=)
+NEU  VII.267.:M 2:1 [ID 480, Dossier, E3, Eltern VII.267.:M 2, S.16] Mitgliederkartei | Von/bis (>= x und <=y)
+NEU  VII.267.:M 2:2 [ID 481, Dossier, E3, Eltern VII.267.:M 2, S.16] Mitgliederkartei | Von/bis (>= x und <=y)
+NEU  VII.267.:M 2:3 [ID 482, Dossier, E3, Eltern VII.267.:M 2, S.16] Mitgliederkartei | Von/bis (>= x und <=y)
+NEU  VII.267.:M 2:4 [ID 483, Dossier, E3, Eltern VII.267.:M 2, S.16] Karteikarten verstorbener Alter Herren | Von/bis (>= x und <=y)
+NEU  VII.267.:M 2:5 [ID 484, Dossier, E3, Eltern VII.267.:M 2, S.16] Adressenkontrolle des Studentengesangsvereins | Von/bis (>= x und <=y)
+NEU  VII.267.:M 3:1 [ID 486, Dossier, E3, Eltern VII.267.:M 3, S.16] Bierfamilie Zimmermann, gegründet 1886 (1964) | Genau (=)
+NEU  VII.267.:M 3:2 [ID 487, Dossier, E3, Eltern VII.267.:M 3, S.16] Bierfamilie Zimmermann, gegründet 1886 (ca. 1980) | Von/bis (>= x und <=y)
+NEU  VII.267.:M 3:3 [ID 488, Dossier, E3, Eltern VII.267.:M 3, S.16] Die Altehrwürdigste Bierfamilie (Grob) | Genau (=)
+NEU  VII.267.:M 3:4 [ID 489, Dossier, E3, Eltern VII.267.:M 3, S.16] Unsere Bierfamilie (Huber), gegründet 1884 (ca. 1945) | Von/bis (>= x und <=y)
+NEU  VII.267.:M 3:5 [ID 490, Dossier, E3, Eltern VII.267.:M 3, S.16] Bierfamilie Huber (Typoskript, ca. 1969) | Genau (=)
+NEU  VII.267.:M 3:6 [ID 491, Dossier, E3, Eltern VII.267.:M 3, S.16] Bierfamilie Huber (Typoskript, ca. 1974) | Genau (=)
+NEU  VII.267.:M 3:7 [ID 492, Dossier, E3, Eltern VII.267.:M 3, S.16] Bierfamilie Huber (Typoskript, ca. 1974); Wer ist die Bierfamilie Vicor Huber? | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:M 3:8 [ID 493, Dossier, E3, Eltern VII.267.:M 3, S.16] Bierfamilie Grob | Genau (=)
+NEU  VII.267.:M 3:9 [ID 494, Dossier, E3, Eltern VII.267.:M 3, S.16] Bierfamilie Stierlin | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:M 3:10 [ID 495, Dossier, E3, Eltern VII.267.:M 3, S.16] Bierfamilie Apotheker und Consorten (gegründet 1895 von Julius Tomann) | Genau (=)
+NEU  VII.267.:M 3:11 [ID 496, Dossier, E3, Eltern VII.267.:M 3, S.16] Bierfamilie Zimmermann, Adressliste (ca. 1980er Jahre) | Von/bis (>= x und <=y)
+NEU  VII.267.:M 3:12 [ID 497, Dossier, E3, Eltern VII.267.:M 3, S.16] Bierfamilie Breiter | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:M 3:13 [ID 498, Dossier, E3, Eltern VII.267.:M 3, S.16] Bierfamilie Hans Herzog 1878: Festschrift 125 Jahre (2 Exemplare) | Genau (=)
+NEU  VII.267.:M 3:14 [ID 499, Dossier, E3, Eltern VII.267.:M 3, S.16] Bierfamilien-Gesamtverzeichnis der Zürcher Singstudenten, 2. Auflage | Genau (=)
+NEU  VII.267.:M 3:15 [ID 500, Dossier, E3, Eltern VII.267.:M 3, S.16] Die Zürcher Singstudenten ihrer lieben Biermutter Gritli Scheidegger zu ihrem | Genau (=)
+        D: 70. Geburtstag, Buch mit Dankesschreiben und Unterschriften 1930
+        H: Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  VII.267.:M 3:16 [ID 501, Dossier, E3, Eltern VII.267.:M 3, S.16] Herzog Fibel – Geschichte der Bierfamilie Hans Herzog | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:M 4:1 [ID 503, Dossier, E3, Eltern VII.267.:M 4, S.16] Mitgliederwerbung (diverse Akten) | 
+NEU  VII.267.:M 4:2 [ID 504, Dossier, E3, Eltern VII.267.:M 4, S.16] Mitgliederbewerbung (Bewerbungsschreiben) | 
+NEU  VII.267.:N 4:1 [ID 510, Dossier, E3, Eltern VII.267.:N 4, S.17] Fotoalbum mit Porträts (beschriftet) | Von/bis (>= x und <=y)
+NEU  VII.267.:N 4:2 [ID 511, Dossier, E3, Eltern VII.267.:N 4, S.17] Fotoalbum mit Porträts (beschriftet) | Von/bis (>= x und <=y)
+NEU  VII.267.:N 4:3 [ID 512, Dossier, E3, Eltern VII.267.:N 4, S.17] Fotoalbum mit Fotos aus dem Verbindungsleben, undatiert (ca. 1930er und 1940er Jahre) | Von/bis (>= x und <=y)
+NEU  VII.267.:N 4:4 [ID 513, Dossier, E3, Eltern VII.267.:N 4, S.17] Fotoalbum mit Fotos aus dem Verbindungsleben, undatiert (2 Bände) | 
+NEU  VII.267.:N 4:5 [ID 514, Dossier, E3, Eltern VII.267.:N 4, S.17] Fotoalbum mit Porträts (beschriftet) | Genau (=)
+NEU  VII.267.:N 4:6 [ID 515, Dossier, E3, Eltern VII.267.:N 4, S.17] Sängerfahrt Castagnola | Genau (=)
+NEU  VII.267.:N 4:7 [ID 516, Dossier, E3, Eltern VII.267.:N 4, S.17] Bilderband mit Fotos aus dem Johanniter, welche beim Umzug ausgeschieden wurden. Enthält | Von/bis (>= x und <=y)
+        D: Maifahrten 1902, 1901, 1903, der Studentengesangverein am Nil 1898, Fütterung der Zehntausend 1910, Bluestbummel auf den Hirzel 1927, Armeetag 1918, Altherrenta
+        H: Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  VII.267.:N 4:8 [ID 517, Dossier, E3, Eltern VII.267.:N 4, S.17] Fotoalbum Dies Academicus (beschriftet) | Genau (=)
+NEU  VII.267.:N 4:9 [ID 518, Dossier, E3, Eltern VII.267.:N 4, S.18] Fotoalbum mit Fotos aus dem Verbindungsleben (ca. 1910 – 1940), enthält auch Porträts (beschriftet) | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:N 4:10 [ID 519, Dossier, E3, Eltern VII.267.:N 4, S.18] Fotoalbum mit sehr alten Porträts, undatiert | 
+NEU  VII.267.:N 4:11 [ID 520, Dossier, E3, Eltern VII.267.:N 4, S.18] Fotoalbum Sommersemester 1930 | Genau (=)
+NEU  VII.267.:N 4:12 [ID 521, Dossier, E3, Eltern VII.267.:N 4, S.18] Fotoalbum mit Portraits (beschriftet) | Von/bis (>= x und <=y)
+NEU  VII.267.:N 4:13 [ID 522, Dossier, E3, Eltern VII.267.:N 4, S.18] Fotoalbum mit beschrifteten Portraits zur freundlichen Erinnerung von den Damen der Maifahrt | Genau (=)
+NEU  VII.267.:N 4:14 [ID 523, Dossier, E3, Eltern VII.267.:N 4, S.18] Fotoalbum mit alten Porträts, gewidmet dem Studentengesangverein Zürich von PH. Link, Fotograf | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:N 4:15 [ID 524, Dossier, E3, Eltern VII.267.:N 4, S.18] 3 Fotoalben zum Vereinsleben von Danny Gundelfinger | Von/bis (>= x und <=y)
+NEU  VII.267.:N 5:1 [ID 526, Dossier, E3, Eltern VII.267.:N 5, S.18] Maifahrt 1904 des Studentengesangvereins Zürich (in weissen Holzrahmen) | Genau (=)
+NEU  VII.267.:N 5:2 [ID 527, Dossier, E3, Eltern VII.267.:N 5, S.18] Maifahrt des Studentengesangvereins Zürich, undatiert (in braunem Holzrahmen) | 
+NEU  VII.267.:N 5:3 [ID 528, Dossier, E3, Eltern VII.267.:N 5, S.18] zwei Singstudenten in Uniform, undatiert (in ovalem braunen Holzrahmen) | 
+NEU  VII.267.:N 5:4 [ID 529, Dossier, E3, Eltern VII.267.:N 5, S.18] Maifahrt des Studentengesangvereins, undatiert (in braunem Holzrahmen) | 
+NEU  VII.267.:N 5:5 [ID 530, Dossier, E3, Eltern VII.267.:N 5, S.18] Die Fuxenecke der Bollerei (Zeichnung), gestiftet von Willi Kapp und Hans Ikl (in braunem Holzrahmen) | Genau (=)
+NEU  VII.267.:N 5:6 [ID 531, Dossier, E3, Eltern VII.267.:N 5, S.18] Collage mit diversen Fotos von den Singstudenten. Geschenk der Iponia Oberägeri, überreicht am 27. Januar 1996 am Fuxen-Ski-Weekend (Collage in silberfarbenem W | Genau (=)
+NEU  VII.267.:N 5:7 [ID 532, Dossier, E3, Eltern VII.267.:N 5, S.18] Singstudenten am 26. Eidgenössischen Sängerfest Bern (Foto in schwarzem Wechselrahmen) | Genau (=)
+NEU  VII.267.:N 5:8 [ID 533, Dossier, E3, Eltern VII.267.:N 5, S.18] Singstudenten, undatiert (in ovalem braunen Holzrahmen) | 
+NEU  VII.267.:N 5:9 [ID 534, Dossier, E3, Eltern VII.267.:N 5, S.18] Zwei Singstudenten in Uniform, undatiert (in ovalem braunen Holzrahmen) | 
+NEU  VII.267.:N 6:1 [ID 536, Dossier, E3, Eltern VII.267.:N 6, S.18] Nationalspende (Radierung) | Genau (=)
+NEU  VII.267.:N 6:2 [ID 537, Dossier, E3, Eltern VII.267.:N 6, S.18] (Sing-)Studenten auf Pferden von Oscar Früh, undatiert | 
+NEU  VII.267.:N 6:3 [ID 538, Dossier, E3, Eltern VII.267.:N 6, S.18] Schreiben an die Maifahrts-Damen, undatiert | 
+NEU  VII.267.:N 6:4 [ID 539, Dossier, E3, Eltern VII.267.:N 6, S.18] Freimitglieder Urkunden des Studentengesangsvereins Zürich (9 Exemplare) | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:N 6:5 [ID 540, Dossier, E3, Eltern VII.267.:N 6, S.18] Diplom für den Studentengesangverein Zürich für den 10. Rang am 23. Eidgenössischen Sängerfest Luzern | Genau (=)
+NEU  VII.267.:N 6:6 [ID 541, Dossier, E3, Eltern VII.267.:N 6, S.18] Diverse Illustrationen der Kantorei | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:N 6:7 [ID 542, Dossier, E3, Eltern VII.267.:N 6, S.18] Urkunde für die Zürcher Singstudenten, ausgezeichnet am 40. Beszirks-Sängerfest in Haag | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:N 8:1 [ID 545, Dossier, E3, Eltern VII.267.:N 8, S.18] Fuxenfahrt (Negative) | Genau (=)
+NEU  VII.267.:N 8:2 [ID 546, Dossier, E3, Eltern VII.267.:N 8, S.18] 150 Jahre Singstudentenverein Jubiläumsbuch (Negative) | Genau (=)
+NEU  VII.267.:N 8:3 [ID 547, Dossier, E3, Eltern VII.267.:N 8, S.18] Kantorei Umbau (Negative) | Genau (=)
+NEU  VII.267.:N 8:4 [ID 548, Dossier, E3, Eltern VII.267.:N 8, S.18] Diverse unbeschriftete Negative | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:N 8:5 [ID 549, Dossier, E3, Eltern VII.267.:N 8, S.18] 150 Jahre Singstudentenverein Jubiläumsbuch (Diavorlagen) | Genau (=)
+NEU  VII.267.:N 8:6 [ID 550, Dossier, E3, Eltern VII.267.:N 8, S.18] Kantorei Glasmalereien (Dias) | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:P 1:1 [ID 553, Dossier, E3, Eltern VII.267.:P 1, S.19] Zigarettenetui (Silber, Leder mit Elfenbein); Text | Genau (=)
+        D: G. Wieland s(einem) l(lieben) L(ei)bf(uxen) O. Wild z(ur) f(reundlichen) Er(innerun)g, Weihnachten 1894 (auf der Vorderseite ist ein Zirkel des Studentengesangv
+        H: Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  VII.267.:P 1:2 [ID 554, Dossier, E3, Eltern VII.267.:P 1, S.19] Erinnerungsmedaille zum 75. Stiftungsfest des Männerchors Zürich 1904; vorne: Porträt von Dr. Carl Attenhofer (in blauer Schachtel) | Genau (=)
+NEU  VII.267.:P 1:3 [ID 555, Dossier, E3, Eltern VII.267.:P 1, S.19] Zinnteller, Preis für 1. Rang CV-Schiessen, Mannschaft: Beat Semadeni, Felix Baumann, Martin Höchner, Martin Glarner und Walter Müri | Genau (=)
+NEU  VII.267.:P 1:4 [ID 556, Dossier, E3, Eltern VII.267.:P 1, S.19] Becher (ohne Fuss) mit der Inschrift „Dem Studentengesangverein ein Andenken an den lieben Hans, Die Familie Schoop, Weihnachten 1885“ | Genau (=)
+NEU  VII.267.:P 1:5 [ID 557, Dossier, E3, Eltern VII.267.:P 1, S.19] Schärpen (4 Stück) | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:P 1:6 [ID 558, Dossier, E3, Eltern VII.267.:P 1, S.19] Silberfarbenes Taschenmesser; auf der Vorderseite ist das Emblem des Studentengesangvereins eingraviert | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:P 1:7 [ID 559, Dossier, E3, Eltern VII.267.:P 1, S.19] Wappenscheibe 150 Jahre Zürcher Singstudenten (koloriertes Bild der Kantorei) | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:P 1:8 [ID 560, Dossier, E3, Eltern VII.267.:P 1, S.19] Wappenscheibe mit Berner Wappen zum 150. Jubiläum Helvetia Bern | Genau (=)
+NEU  VII.267.:P 1:9 [ID 561, Dossier, E3, Eltern VII.267.:P 1, S.19] Album mit Unterschriften von Mitgliedern des Studentengesangvereins, gewidmet dem Ehrendirektor Dr. Carl Attenhofer | Genau (=)
+NEU  VII.267.:P 1:10 [ID 562, Dossier, E3, Eltern VII.267.:P 1, S.19] Wappen des Studentengesangvereins (auf Email gemalt von Trudy Gut, Mutter von Alt Tobias Gut, ca. 1992) | Genau (=)
+NEU  VII.267.:P 1:11 [ID 563, Dossier, E3, Eltern VII.267.:P 1, S.19] Pin mit dem Wappen des Studentengesangvereins | Von/bis (>= x und <=y)
+NEU  VII.267.:P 1:12 [ID 564, Dossier, E3, Eltern VII.267.:P 1, S.19] Silberfarbenes Buchzeichen mit dem Wappen des Studentengesangvereins; Rückseite mit Gravur „Altherren-Tag Bern 2001“ | Genau (=)
+NEU  VII.267.:P 1:13 [ID 565, Dossier, E3, Eltern VII.267.:P 1, S.19] Wappen zum Jubiläum des 100. Altherren-Tages (Stoff) | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:P 1:14 [ID 566, Dossier, E3, Eltern VII.267.:P 1, S.19] Diverse Aufkleber | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:P 1:15 [ID 567, Dossier, E3, Eltern VII.267.:P 1, S.19] Pins mit der Kantorei und Grimmenturm, undatiert | 
+NEU  VII.267.:P 1:16 [ID 568, Dossier, E3, Eltern VII.267.:P 1, S.19] Brief von Gottfried Keller | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:P 1:17 [ID 569, Dossier, E3, Eltern VII.267.:P 1, S.19] Bild "Gottfried Keller auf Stuhl" (Karl Stauffer, Bern 1887) (Planmappe: NEU/UG2/P2/7) | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:P 1:18 [ID 570, Dossier, E3, Eltern VII.267.:P 1, S.19] Stammblätter von Eichendorf | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:P 2:1 [ID 572, Dossier, E3, Eltern VII.267.:P 2, S.19] 125 Jahre Zürcher Singstudenten: Jubiläumskonzert, Tonhalle Zürich (Schallplatte) | Genau (=)
+NEU  VII.267.:P 2:2 [ID 573, Dossier, E3, Eltern VII.267.:P 2, S.19] Bohuslav Martinu (Schallplatte) | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:P 2:3 [ID 574, Dossier, E3, Eltern VII.267.:P 2, S.19] Konzert der Berner und Zürcher Singstudenten, Tonhalle Zürich (Musikkassette) | Genau (=)
+NEU  VII.267.:P 2:4 [ID 575, Dossier, E3, Eltern VII.267.:P 2, S.19] Konzert der Berner und Zürcher Singstudenten „Perlen der Romantik“ (CD) | Genau (=)
+NEU  VII.267.:P 2:5 [ID 576, Dossier, E3, Eltern VII.267.:P 2, S.19] Lieder aus dem Kantusprügel „Mein Lebenslauf ist Lieb und Lust…“ (CD) | Von/bis (>= x und <=y)
+NEU  VII.267.:P 2:6 [ID 577, Dossier, E3, Eltern VII.267.:P 2, S.19] Studentenlieder, undatiert (CD) | 
+NEU  VII.267.:P 2:7 [ID 578, Dossier, E3, Eltern VII.267.:P 2, S.19] Studentenlieder „Schwört bei dieser blanken Wehre“, undatiert (CD) | 
+NEU  VII.267.:P 2:8 [ID 579, Dossier, E3, Eltern VII.267.:P 2, S.19] Sendung von Radio 24: Biergarten Bauschänzli (Audio-CD) | Genau (=)
+NEU  VII.267.:P 2:9 [ID 580, Dossier, E3, Eltern VII.267.:P 2, S.19] Zürcher Singstudenten, Verein Operetten für Zürich: Orpheus im Kaufleuten Zürich (CD) | Genau (=)
+        D: P2:10 Musikdose-Laufwerk «Mein Lebenslauf» inkl. Schlüssel (Melodie des Verbindungskantus)
+NEU  VII.267.:P 2:11 [ID 581, Dossier, E3, Eltern VII.267.:P 2, S.19] Die Ära Lazi. Ladislaus Rybach als Direktor der Zürcher Singstudenten 1968-1989, Ausschnitte aus Konzertaufnahmen der Jahre 1974-1989 (CD) | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 9 folgt 11.
+Mehrere Zeitangaben im Titel (1968-1989, 1974-1989).
+NEU  VII.267.:Q 1:1 [ID 585, Dossier, E3, Eltern VII.267.:Q 1, S.19] Adressverzeichnisse | Von/bis (>= x und <=y)
+NEU  VII.267.:Q 3:1 [ID 588, Dossier, E3, Eltern VII.267.:Q 3, S.20] Hug, Stefan Karl. Das Kavaliersdelikt. Die Rechtsgeschichte der Mensur, in: Studentica Helvetica 19/2003 (H. 38) | 
+NEU  VII.267.:Q 3:2 [ID 589, Dossier, E3, Eltern VII.267.:Q 3, S.20] Die geschichtliche Herkunft des studentischen Fechtens | 
+NEU  VII.267.:R 1:1 [ID 592, Dossier, E3, Eltern VII.267.:R 1, S.20] Statuten | Von/bis (>= x und <=y)
+NEU  VII.267.:R 1:2 [ID 593, Dossier, E3, Eltern VII.267.:R 1, S.20] Adressverzeichnisse | 
+        H: Kein Zeitraum gefunden.
+NEU  VII.267.:R 3:1 [ID 596, Dossier, E3, Eltern VII.267.:R 3, S.20] Wider uns die Zeit, CV-Sondernummer des „Zürcher Student“, Jahrgang. 34/1956, Nr.6 | 
+GEÄ  VII.267.:D 1 [ID 61, Serie, E2, Eltern VII.267.:D, S.4] Protokolle | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -D 1:1 Protokolle, Korrespondenz und Abrechnungen des AH-Verbandes 1921 – 1960
+           -D 1:2 Protokolle, Korrespondenz und Abrechnungen des AH-Verbandes 1961 – 1970
+           -D 1:3 Protokolle, Korrespondenz und Abrechnungen des AH-Verbandes 1971 – 1978
+           -D 1:4 Protokolle, Korrespondenz und Abrechnungen des AH-Verbandes 1979 – 1982
+           -D 1:5 Protokolle, Korrespondenz und Abrechnungen des AH-Verbandes 1983 – 1985
+           -D 1:6 Protokolle, Korrespondenz und Abrechnungen des AH-Verbandes 1986 – 1990
+           -D 1:7 Protokolle, Korrespondenz und Abrechnungen des AH-Verbandes 1991 – 1995
+           -D 1:8 Protokolle, Korrespondenz und Abrechnungen des AH-Verbandes 1996 – 1999
+           -D 1:9 Protokolle, Korrespondenz und Abrechnungen des AH-Verbandes 2000 – 2005
+           -D 1:10 Protokolle, Korrespondenz und Abrechnungen des VVZS 1965 – 1999 (1972 – 1975 fehlt) D 1:11 Protokolle des AV-Komitees 2006-2018
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:D 5 [ID 76, Serie, E2, Eltern VII.267.:D, S.5] Unterlagen zum Archiv | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -D 5:1 Inventare 1996 – 2003
+           -D 5:2 Einsichtsvereinbarung mit dem Stadtarchiv
+           -D 5:3 Korrespondenz 1979 – 1993, 2000 – 2005
+           -D 5:4 Diverse Korrespondenz 1965 – 1976 von Dr. Werner Wohnlich
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:E [ID 81, Teilbestand, E1, Eltern -, S.5] Comments, Statuten, Pflichtenhefte, Leitsätze, Jahresberichte, Jahresrechnungen | Von/bis (>= x und <=y)
+        Entstehungszeitraum, Anm.: '' => 'ca.'
+        Zeitraum-Quelle: 'Untereinheiten (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.' => ''
+GEÄ  VII.267.:E 1 [ID 82, Serie, E2, Eltern VII.267.:E, S.5] Farbencomments | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -E 1:1 fehlt
+           -E 1:2 Farbencomment 1937
+           -E 1:2 Farbencomment 1962
+           -E 1:3 fehlt
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:E 2 [ID 87, Serie, E2, Eltern VII.267.:E, S.5] Biercomments | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -E 2:1 Biercomment 1897 (Der Biercomment des Studentengesangvereins von 1888/1889 befindet sich unter I 4:6.) E 2:2 Biercomment 1906
+           -E 2:3 Biercomment 1915
+           -E 2:4 Biercomment 1931
+           -E 2:5 Biercomment 1942
+           -E 2:6 Biercomment 1969
+           -E 2:7 fehlt
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:E 3 [ID 95, Serie, E2, Eltern VII.267.:E, S.5] Statuten | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -E 3:1 Statuten 1888
+           -E 3:2 Statuten 1895
+           -E 3:3 Statuten 1900
+           -E 3:4 Statuten 1903
+           -E 3:5 Statuten 1911
+           -E 3:6 Statuten 1921
+           -E 3:7 Statuten 1953
+           -E 3:8 Statuten 1972
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:E 4 [ID 104, Serie, E2, Eltern VII.267.:E, S.5] Leitsätze und Statuten (Altherrenverband) | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -E 4:1 Leitsätze (Beilage zu Juni 1954 Semesternachrichten)
+           -E 4:2 Leitsätze und Statuten vom 4. Juli 1954
+           -E 4:3 fehlt (?)
+           -E 4:4 Leitsätze und Statuten vom 6. Juli 1975
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:E 5 [ID 109, Serie, E2, Eltern VII.267.:E, S.5] Pflichtenhefte | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        Entstehungszeitraum, Anm.: '' => 'ca.'
+        [Darin]
+           -E 5:1 Pflichtenheft, Nr. 1 von 1965
+           -E 5:2 Pflichtenheft Präses, Nr. 2 von 1969/70
+           -E 5:3 Pflichtenheft Kassier) 1947 – 1970
+           -E 5:4 Pflichtenheft Aktuar 1973
+           -E 5:5 Pflichtenheft Aktuar 1941
+           -E 5:6 Diverse lose zu Pflichtenheften gehörende Blätter
+           -E 5:7 Beschlussbuch ca. 1910 – 1930
+           -E 5:8 Beschlussbuch ca. 1938 – 1970
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:E 6 [ID 118, Serie, E2, Eltern VII.267.:E, S.6] Statutenrevisionen | Genau (=)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -E 6:1 Statutenrevision 1972/1972
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:E 7 [ID 120, Serie, E2, Eltern VII.267.:E, S.6] Jahresberichte und Jahresrechnungen | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -E 7:1 Jahresberichte und Jahresrechnungen 1979 – 1994
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:E 8 [ID 122, Serie, E2, Eltern VII.267.:E, S.6] Rechnungswesen | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -E 8:1 Hauptbuch 1877 – 1884
+           -E 8:2 Hauptbuch 1885 – 1899
+           -E 8:3 Hauptbuch 1892 – 1900
+           -E 8:4 Hauptbuch 1905 – 1916
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:F [ID 127, Teilbestand, E1, Eltern -, S.6] Liederbücher und Noten | Von/bis (>= x und <=y)
+        von: '1816' => '1613'
+        bis: '2014' => '1993'
+        Entstehungszeitraum, Anm.: '' => 'ca.'
+        Zeitraum-Quelle: 'Untereinheiten (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.' => ''
+GEÄ  VII.267.:F 1 [ID 128, Serie, E2, Eltern VII.267.:F, S.6] Liederbücher | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -F 1:1 Schauenburgs Allgemeines Deutsches Kommersbuch von Friedrich Silcher und Friedrich Erk, 51. Auflage (undatiert)
+           -F 1:2 Liederbuch für den Zofinger-Verein schweizerischer Studierender, Zürich, 2. Auflage, 1868
+           -F 1:3 Kommersbuch, herausgegeben und mit historischen Anmerkungen versehen von Max Friedländer, 4. Auflage (undatiert)
+           -F 1:4 Liederbuch des Eidgenössischen Sängervereins, 1908
+           -F 1:5 Auswahl von Commers- und Gesellschaftsliedern von Karl August Kümmel, Halle 1816 F 1:6 Canti Populari Ticinesi e Italiani, Club Tesserete del St. G. V. Z
+           -F 1:7 Schweizer Volks- und Soldaten-Lieder-Texte, Zürich (undatiert)
+           -F 1:8 Lieder-Büchlein, Basel 1933
+           -F 1:9 Diu Fart uff diu Ufenow in mitteldütscher Schreibwis, 1873
+           -F 1:10 Maifahrt des Studentengesangsvereins auf die Ufenau, 1876
+           -F 1:11 Kommerslieder vom Fest-Kommers bei der Universitäts-Einweihung, 1914
+           -F 1:12 Kommers-Lieder, 50 Jahre Altherrenverband des Studentengesangvereins Zürich, 1938 F 1:13 Die Maifahrt 1878 der Studenten auf die Ufenau
+           -F 1:14 Maifahrt 1888 des Studentengesangvereins Zürich auf die Ufenau (2 Exemplare)
+           -F 1:15 Vita Brevis Ars Longa – Lieder zur Erheiterung der feuchten Stunden, 41. Versammlung des ärztlichen Zentralvereins, Basel 1891
+           -F 1:16 Festspiel zur 50-jährigen Stiftungsfeier des Studentengesangvereins Zürich von Dr. A. Zimmermann, Musik von Dr. Carl Attenhofer und Lothar Kempter, 1849
+           -F 1:17 Konzert des Studenten-Gesangvereins im Casino in Zürich am 16. Februar 1873 unter Mitwirkung von Caroline Stahel und den Herren Ruhoff und G. Weber
+           -F 1:18 Der Mensch und der Parastit – Ein fliegendes Blatt für Ärzte, Apotheker und Naturforscher beiden Hemisphären von Dr. Supinator Longus, 4. Auflage, Magde
+           -F 1:19 Studentenlieder-Konzert der Berner Singstudenten und des Studentengesangverein Zürich, Zürich (Tonhalle), 28. Februar 1926
+           -F 1:20 Wir singen mit Gefreitem Schreiber, Liedertexte 1957
+           -F 1:21 Konzert der Berner- und Zürcher-Singstudenten, Zürich und Bern 1977
+           -F 1:22 Bierzeitung der Gesellschaft der deutschen Studenten in Zürich 1866
+           -F 1:23 Gedichte und Deutsche Burschen-Sänge (undatiert)
+           -F 1:24 Liederbuch der Zürcher und Berner Singstudenten 1926 (2 Exemplare)
+           -F 1:25 Der vierte Fortunagässler der Zürcher Singstudenten 1849 bis 1974 (2 Exemplare)
+           -F 1:26 Liederbuch der Zürcher- und Berner-Singstudenten 1966 (4 Exemplare)
+           -F 1:27 4. Auflage des Liederbuches der Zürcher- und Berner Singstudenten, 1989 (ungebundenes Exemplar)
+           -F 1:28 3. Abzug des Liederbuches der Zürcher- und Berner Singstudenten, 1988 (in Fotokopie, ungebunden)
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:F 2 [ID 157, Serie, E2, Eltern VII.267.:F, S.7] Noten (Manuskripte) | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        von: '1847' => '1613'
+        bis: '2014' => '1965'
+        Entstehungszeitraum, Anm.: '' => 'ca.'
+        [Darin]
+           -F 2:1 Morgenwache; Musik: Ernst Hess 1959, Text: Gottfried Keller
+           -F 2:2 Trinklied für Männerchor und Orchester; Musik: Ernst Hess 1964, Text: Johann Fischhart F 2:3 Wanderlied der Prager Studenten; Musik: Anonymus, Orchestrie
+           -F 2:4 Bicocca Lied für Männerchor; Musik: Ernst Hess 1939 (Orchestrierung 1965)
+           -F 2:5 Integer vitae; Musik: P. Fleming, Orchestrierung: Ernst Hess
+           -F 2:6 Aufmunterung zur Freude; Musik: F. A. Hofmeister; Orchestrierung: Ernst Hess
+           -F 2:7 Willhelm bin ich der Telle; Musik: Hilber, Orchestrierung: Ernst Hess
+           -F 2:8 Winzerchor aus "Loreley"; Musik: Felix Mendelssohn-Bartholdy 1847, Orchestrierung: Ernst Hess
+           -F 2:9 Wiserspruch; Musik: Franz Schubert Op. 105; Orchestrierung: Ernst Hess
+           -F 2:10 Trinklied (Shakespeare) Bacchus; Musik: Franz Schubert, Orchestrierung: Ernst Hess
+           -F 2:11 Fuge (Aus des Knaben Wunderhorn; Musik: Karl F. Zelter, Orchestrierung: Ernst Hess F 2:12 So lang man nüchtern ist; Musik: Karl F. Zelter; Text: Johann 
+           -F 2:29 F. Mendelssohn: Periti autem, Psalmentext (Dan. 12.3)
+           -F 2:30 Wolauf, Ir musici
+           -F 2:31 Das alte Tellenlied, Melodie und Text: Urner Pritschenmeister Hieronymus Muheim ca. 1613, Chorsatz: J. B. Hilber
+           -F 2:32 Der Landsknecht, Melodie und Text: Soldatenlied von 1622, Chorsatz: G. Weber
+           -F 2:33 W. A. Mozart: Zum Schluss… KV 439; W. A. Mozart: Zum Schluss… KV 439
+           -F 2:34 F. A. Hofmeister: Aufmunterung zur Freude, Text: A. Mahlmann
+           -F 2:35 F. Zelter: Solang man nüchtern ist, Text: J. W. Goethe
+           -F 2:36 Diverse Notenmaterialien (Strawinsky, Beethoven, Offenbach, Orff)
+           -F 2:37 Diverse Chorstimmen von L. Rybach
+           -F 2:38 Diverse Chorpartituren
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:F 3 [ID 196, Serie, E2, Eltern VII.267.:F, S.8] Noten (gedruckt) | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -F 3:1 Cantate zum 50 jährigen Jubiläum der Universität Zürich 1883 (Carl Attenhofer, Text: Gottfried Keller)
+           -F 3:2 Männerchöre, Abt. Volksgesang: 19. Eidgenössisches Sängerfest in Basel 1893
+           -F 3:3 Muss i denn zum Städtele hinaus (Walter Rein), Nr. 800
+           -F 3:4 Lasst uns mit vereinten Händen (Schlusschor aus der Kantate K.V. 623 von Wolfgang Amadeus Mozart), Nr. 801
+           -F 3:5 Junger Mut (Johann Zeltner), Nr. 802
+           -F 3:6 Psalm der Berge (Otto Kreis), Nr. 803
+           -F 3:7 Le vieux chalet (J. Bovet), 804
+           -F 3:8 Maienfahrt (Gustav Weber), Nr. 805
+           -F 3:9 Reisläuferlied „De Zapfe vom Spunte“ (Otto Uhlmann), Nr. 806
+           -F 3:10 Mädel mach kein bös Gesicht (Friedrich Nagler), Nr. 807
+           -F 3:11 Lebensfreude „Soldat sein ist gefährlich“ (Hans Lavater, Text: Josef Eichendorf), Nr. 808 F 3:12 Kamerad der Tod (Willy Kaufmann), Nr. 809
+           -F 3:13 Landeshymne (Hermann Suter), Nr. 810
+           -F 3:14 Weinliedchen (Hans Lavater, Text: Robert Blum), Nr. 811
+           -F 3:15 Schwyzermanne (Willi Kaufmann), Nr. 812
+           -F 3:16 Zwei Vaterlandshymnen (Otto Kreis), Nr. 813
+           -F 3:17 Weihe des Gesangs (Wolfgang Amadeus Mozart), Nr. 814
+           -F 3:18 Schelmenlied (Friedrich Niggli), Nr. 815
+           -F 3:19 Vagans scholasticus (Hans Lavater), Nr. 816
+           -F 3:20 Kapitän und Leutnant (Volkmar Andreae), Nr. 817
+           -F 3:21 Schwur (Caesar von Arx, instr. Otto Uhlmann), Nr. 818
+           -F 3:22 Landeshymne (Hermann Suter), Nr. 819
+           -F 3:23 Jägerlied (Heiner Vollenwyder), Nr. 820
+           -F 3:24 Kein Tröpflein mehr im Becher (Tr. Kremser), Nr. 825
+           -F 3:25 Mein Lebenslauf ist Lieb und Lust. (A.A. Mahlmann nach Baumgartner), Nr. 822
+           -F 3:26 Sehnsucht (Othmar Schoeck), Nr. 822
+           -F 3:27 S'Heiwehland (Hans Lavater), Nr. 824
+           -F 3:28 Unterm Lindenbaum (Wilhelm Sturm), Nr. 825
+           -F 3:29 Schweizer Hymne (Otto Kreis), Nr. 826
+           -F 3:30 Schweizer Hymne (Joseph Peter) Nr. 827
+           -F 3:31 Schweizer Psalm „Trittst im Morgenrot daher“, P.A. Zwyssig
+           -F 3:32 Waldkönig (Carl Attenhofer), Nr. 829
+           -F 3:34 Schenkt ein (Wilhelm. Baumgartner), Nr. 831
+           -F 3:35 Tummel Dich gut's Weinlein (Walter Rein), Nr. 832
+           -F 3:36 Schwäbische Erbschaft (Richard Strauss), Nr. 833
+           -F 3:37 Zigeunerleben (Robert Schumann), Nr. 834
+           -F 3:38 Skolian (Gustav Weber), Nr. 836
+           -F 3:39 Schwurgesang (Hans Lavater), Nr. 837
+           -F 3:40 Zwei Festgesänge (Felix Mendelssohn-Bartholdy), Nr. 838
+           -F 3:41 Festheft für das eidgenössisches Sängerfest 1899, Nr. 839
+           -F 3:42 Grenzwacht (Hans Lavater), Nr. 841
+           -F 3:43 Am Rhein (Carl Attenhofer), Nr. 842
+           -F 3:44 Dem Vaterland „Hoch am Firn glüht unser Zeichen“ (Hans Lavater), Nr. 843
+           -F 3:45 Burschen heraus (ges. V. Andreae), Nr. 844
+           -F 3:46 Burschen heraus (ges. Hans Lavater und Robert Blum), Nr. 845
+           -F 3:47 Heimatlied (Hans Lavater), Nr. 846
+           -F 3:48 Donaustrudel „Als wir jüngst in Regensburg“ (Walter Rein), Nr. 847
+           -F 3:49 An die Musik (Franz Schubert), Nr. 848
+           -F 3:50 Ein Heller und Batzen (Hans Lavater und Robert Blum), Nr. 849
+           -F 3:51 Die Nacht (Hans Lavater), Nr. 850
+           -F 3:52 Die Nacht (Ernst Hess), Nr. 851
+           -F 3:53 Braun Mägdelein (Gustav Weber), Nr. 852
+           -F 3:54 Ich fahr dahin (Satz von Gustav Weber), Nr. 853
+           -F 3:55 Festgesang (F. Rohrer, Willi Kaufmann), Nr. 854
+           -F 3:56 An mein Vaterland (Hermann Suter), Nr. 855
+           -F 3:57 Christenglaube (Hans Georg Nägeli), Nr. 856
+           -F 3:58 Der Zigeuner (Max Weinzierl), Nr. 857
+           -F 3:59 Ehre Gottes aus der Natur (Ludwig van Beethoven), Nr. 858
+           -F 3:60 Im Wandern (Friedrich Niggli), Nr. 859
+           -F 3:61 Es ritt ein Jäger wohlgemut (Walter Rein), Nr. 860
+           -F 3:62 De Rosegarte z'Mailand (Otto Kreis), Nr. 861
+           -F 3:63 Das Lied von Herrn von Falkenstein (Otto Brahms), Nr. 862
+           -F 3:64 Fahne (Meinrad Lienert, Satz: Hans Lavater), Nr. 863
+           -F 3:65 Eröffnungslied (Hermann Suter), Nr. 864
+           -F 3:66 Dankgebet (Eduard Kremser), Nr. 865
+           -F 3:67 Frech und froh (Johann Wolfgang von Goethe, Hans Oser), Nr. 866
+           -F 3:68 Die Weisheit des Mirza Schaffy (Carl Mangold), Nr. 867
+           -F 3:69 Die Macht des Gesanges (C. J. Brambach), Nr. 868
+           -F 3:70 Germanenzug (John R. Lund), Nr. 869
+           -F 3:71 Chor der Summtöpfe (Carl Attenhofer), Nr. 870
+           -F 3:72 St. Paulus (Karl F. Zelter), Nr. 871
+           -F 3:73 Hymne an die Musik (A. Billeter), Nr. 872
+           -F 3:74 Altniederländisches Lied (Eduard Kremser), Nr. 873
+           -F 3:75 Fausts Verdammung (Soldatenchor), Nr. 875
+           -F 3:76 Held Samson (Carl Reinecke), Nr. 876
+           -F 3:77 Ergo bibamus, Weg mit den Grillen und Sorgen (Studentenhymne)
+           -F 3:78 Der Zigeuner (Max Weinzier)
+           -F 3:79 Trinklied von Fischart (nur Text)
+           -F 3:80 Neue Liebeslieder von Johannes Brahms
+           -F 3:81 Dir, Stelle des Weltalls (Wolfgang Amadeus Mozart)
+           -F 3:82 Diverse einzelne Studentenlieder bis 1969
+           -F 3:83 Diverse einzelne Studentenlieder ab 1969
+           -F 3:84 Vagans Scholasticus, Lob der Edlen Musica, Burschen heraus
+           -F 3:85 Schneider Courage (Walter Rein)
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:I [ID 328, Teilbestand, E1, Eltern -, S.12] Produktionen, Humoristika, Spiegel, Fuxen | Von/bis (>= x und <=y)
+        Zeitraum-Quelle: 'Untereinheiten (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.' => ''
+GEÄ  VII.267.:I 1 [ID 329, Serie, E2, Eltern VII.267.:I, S.12] Spiegel | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -I 1:1 Tugendspiegel 1908 – 1961
+           -I 1:2 Zwischenspiegel 1938 – 1962
+           -I.1:3 Untugendspiegel 1919 – 1959
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:I 2 [ID 332, Serie, E2, Eltern VII.267.:I, S.12] Champagnerfrühstücksprotokoll, Stammbuch | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -I 2:1 Stammbuch (Gästebuch) 1939 – 1968 (enthält Champagnerfrühstücksprotokoll 1960 – 1968) I 2:2 Champagnerfrühstücksprotokoll 1968 – 1988
+           -I 2:3 Stammtischbuch 1972 – 1982
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:I 3 [ID 336, Serie, E2, Eltern VII.267.:I, S.12] Einzelne Produktionen | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -I 3:1 Produktion zur Feier des 70. Geburtstags von Herrn Direktor Dr. Carl Attenhofer, 1907
+           -I 3:2 Produktion des Studentengesangvereins am Männerchorabend 1915, Manuskript (Prolog des Einfuhrtrusts)
+           -I 3:3 Die letzten Tage von Alt Turicum oder die Rache Poseidons, Fuxenproduktion 1916 (Typoskript und Manuskript)
+           -I 3:4 Georg von Griechenland oder ubi bene ibi patria, Burschenproduktion 1916 (Typoskript) I 3:5 Was Ihr wollt oder das erste Schweizerische Handelsuboot, Fux
+           -I 3:6 Der Europäische Pauktag (Typoskript) (undatiert, vermutlich während dem Ersten Weltkrieg entstanden)
+           -I 3:7 Das Europäische Konzert (Typoskript) (Undatiert, vermutlich während dem ersten Weltkrieg entstanden)
+           -I 3:8 Weihnachts-Produktion 1936: Der Traum des Kneipanten (Typoskript)
+           -I 3:9 Das Fähnlein der 7 Aufrechten. Eine Singstudentenproduktion, sehr frei nach Gottfried Keller, 1938 mit einem Begleitbrief von Hans Iklé (Typoskript)
+           -I 3:10 Ein Füxlein in Gefahr. Kommersproduktion im Jubiläumssemester 1949
+           -I 3:11 Jux um die "Schreitende" von Bänninger 1955 (Witz darüber aus dem Nebelspalter)
+           -I 3:12 Fuxenproduktion zum Altherrentag in Winterthur 1968
+           -I 3:13 Der Singstudent. Singstudententag, zwei Gedichte von Alfred Keller (undatiert)
+           -I 3:14 Produktion für den Abschied von Lazi (Ladislaus Rybach) undatiert. (vermutlich 1989)
+           -I 3:15 Diverse Texte für Produktionen, gedruckt: E. Galotti, Lais. Ein Sittenbild aus der Guten alten Zeit (2 Exemplare); Menelik oder der Katzenmord zu Adigra
+           -I 3:16 Heute in Seldwyla. Ein Spiel mit Gesang und Tanz in zwei Bildern und einem Prolog im Himmel. Zum 100-jährigen Jubiläum des Studentengesangvereins Zürich
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:I 4 [ID 353, Serie, E2, Eltern VII.267.:I, S.12] Fuchsen, Fuchsentaufen | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -I 4:1 Fuchsentaufe 1878 an der Weihnachtskneipe des Studentengesangsvereins Zürich
+           -I 4:2 Fuchsentaufe 1887 am Weihnachtskommers des Studentengesangvereins Zürich
+           -I 4:3 Visionen eines Alten Hauses, Fuchsentaufe 1892 am Weihnachtskommers des Studentengesangvereins in der Schmiedstube in Zürich
+           -I 4:4 Vorspiel zur Fuchsentaufe 1895, aufgeführt am Weihnachtskommers des Studentengesangvereins in der Zimmerleuten in Zürich (2 Exemplare)
+           -I 4:5 Fuxentaufe am Weihnachtskommers vom 16. Dezember 1899 von Piet H. Deutsch, Meinem lieben Baron gewidmet (2 Exemplare)
+           -I 4:6 Verschiedene kleine Drucksachen gebunden (enthält neben den erwähnten Fuchsentaufen: Fuchsentaufe 1886 am Weihnachtskommers des Studentengesangvereins Zü
+           -I 4:7 Verschiedene Unterlagen zu den Fuxen
+           -I 4:8 Fuxenveranstaltungen
+           -I 4:9 Fuxenpublikationen
+           -I 4:10 Burschenprüfungen
+           -I 4:11 Fuchsentaufe 1877 an der Weihnachtskneipe des Studentengesangvereins Zürich
+           -I 4:12 Fuxentaufe 1880 an der Weihnachtskneipe des Studentengesangsvereins Zürich
+           -I 4:13 Fuchsentaufe 1886 am Weihnachtscommers des Studentengesangsvereins Zürich (2 Exemplare)
+           -I 4:14 Vorspiel zur Fuxentaufe 1895 am Weihnachts-Kommers des Studenten-Gesangsvereins in der Zimmerleuten in Zürich
+           -I 4:15 Fuxentaufe 1899 am Weihnachtscommers von Peit H. Deutsch, meinem lieben „Baron“ gewidmet.
+           -I 4:16 Fuxenproduktion Weihnachtskommers 1950
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:I 5 [ID 370, Serie, E2, Eltern VII.267.:I, S.13] Bierzeitungen | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -I 5:1 Maifahrt 1904
+           -I 5:2 Erinnerungen an das eidgenössische Sängerfest in Bern von Piet H. Deutsch (2 Exemplare) I 5:3 Mein Lebenslauf ist Lieb und Lust und lauter Becherklang, 1
+           -I 5:4 Maifahrt 1905
+           -I 5:5 Maifahrt 1872 des Studentengesangvereins Zürich auf die Ufenau
+           -I 5:6 Diu Fahrt uff die Ufenow in mitteldütscher Schribwis, allen maidelin und bueben die uff der fart gesin, in züchten gewidmet vom schriber
+           -I 5:7 Maifahrt 1878 des Studentengesangvereins Zürich auf die Ufenau
+           -I 5:8 Maifahrt 1885 des Studentengesangvereins Zürich auf die Ufenau
+           -I 5:9 Jubiläumsnummer 1974 „Mein Lebenslauf ist Lieb und Lust“ (3 Exemplare)
+           -I 5:10 Offizielle Zeitung des Singstudenten Altherrenballs 1988 (3 Exemplare)
+           -I 5:11 Ballzeitung der Zürcher Singstudenten 1939
+           -I 5:12 Der Sänger-Wonnefahrt 1872 auf die Ufenau
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:K [ID 383, Teilbestand, E1, Eltern -, S.13] Jubiläen, Programme, Einladungen, Zeitungsausschnitte, Veranstaltungen | Von/bis (>= x und <=y)
+        Zeitraum-Quelle: 'Untereinheiten (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.' => ''
+GEÄ  VII.267.:K 1 [ID 384, Serie, E2, Eltern VII.267.:K, S.13] Jubiläen | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -K 1:1 75 Jahre Altherrenverband 1964 (Korrespondenz, Rechnung, Programm), K 1:2 125 Jahre Zürcher Singstudenten, Korrespondenz, Rechnungen, Programm)
+           -K 1:3 100 Jahre Altherrenverband 1988, Korrespondenz, Rechnung, Programm)
+           -K 1:4 150 Jahre Zürcher Singstudenten 1999, verschiedene Unterlagen)
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:K 2 [ID 389, Serie, E2, Eltern VII.267.:K, S.13] Programme | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -K 2:1 Festkonzert Männerchor Zürich und Studentengesangverein 1886
+           -K 2:2 Studentengesangverein, Conzert Tonhalle 1887
+           -K 2:3 Studentengesangverein, Conzert Tonhalle 1898
+           -K 2:4 Jubiläum 1899/1900, Programmkarte
+           -K 2:5 Festspiel zur fünfzigjährigen Stiftungsfeier des Studentengesangvereins 1900
+           -K 2:6 Studentengesangverein, Conzert Tonhalle 1901
+           -K 2:7 Studentengesangverein, Conzert Musikschule Zürich 1904
+           -K 2:8 Commerslieder Dies Academicus 1907
+           -K 2:9 Studentengesangverein, Conzert Konservatorium 1919
+           -K 2:10 Studentengesangverein; Conzert Konservatorium 1921
+           -K 2:11 Studentenliederabend Lesezirkel Hottingen, Tonhalle 1923
+           -K 2:12 Festkonzert 75 Jahre, Tonhalle 1924
+           -K 2:13 Festspiel 75 Jahre Studentengesangverein 1924
+           -K 2:14 75 Jahr Jubiläum Studentengesangverein, Menukarte, und Programm
+           -K 2:15 Studentenliederkonzert Studentengesangverein Zürich und Singstudenten Bern 1926
+           -K 2:16 Konzert der Zürcher und Berner Singstudenten, neue Börse Zürich 1931
+           -K 2:17 Berner und Zürcher Singstudenten, Konzert, Tonhalle und Kasino Bern 1946
+           -K 2:18 Jubiläumskonzert der Zürcher Singstudenten, Tonhalle 1949 (2 Exemplare)
+           -K 2:19 Text der Gesänge von dem Studentengesangverein vom 27. Februar 1859
+           -K 2:20 Konzert der Zürcher Singstudenten, Tonhalle 1950
+           -K 2:21 Konzert der Zürcher Singstudenten, Tonhalle 1959
+           -K 2:22 Konzert der Berner und Zürcher Singstudenten, Tonhalle 1985 (2 Exemplare)
+           -K 2:23 Abschiedskonzert 1989 von Ladislaus Rybach als Direktor der Zürcher Singstudenten (5 Exemplare)
+           -K 2:24 Konzert der Berner und Zürcher Singstudenten „Perlen der Romantik“, Konservatorium Zürich 1992 (2 Exemplare)
+           -K 2:25 15. Zentralschweizerisches Sängerfest 1990 (inkl. Ehrenurkunde)
+           -K 2:26 Semesterprogramme des Studentengesangvereins 1984 – 2003
+           -K 2:27 Konzert des Männerchors Chur und Studentengesangverein Zürich (undatiert)
+           -K 2:28 80. Versammlung des Schweizerischen ärztlichen Zentralvereins, St. Gallen, 1911
+           -K 2:29 Konzert der Zürcher Singstudenten unter Mitwirkung von Luise Schlatter und Ruth Mettler (Imthurneum Schaffhausen)
+           -K 2:30 Konzert der Zürcher Singstudenten und dem Akademischen Orchester Zürich, Zürich (Peterhofstatt), 1946
+           -K 2:31 Konzert mit Martin Weidmann und Martina Frank, Schaffhausen, 28. Mai 2005
+           -K 2:32 Konzerte der Zürcher Singstudenten, Männerchöre aus Oper und Operette, unter der Leitung von Martin Baur, Rapperswil, Fischingen, Aarau, 2006
+           -K 2:33 Festspiel zur 100-jährigen Gründungsfeier der Gesellschaft der Ärzte des Kantons Zürich von Dr. A. Zimmermann, 1910
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:K 3 [ID 423, Serie, E2, Eltern VII.267.:K, S.14] Einladungen | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -K 3:1 Diverse Einladungen des Studentengesangvereins 1888 – 1999
+           -K 3:2 Einladungen zum Familienabend 1951 – 2003
+           -K 3:3 Einladungen zu Couleur-Bällen 1985 – 2004
+           -K 3:4 Einladungen zu Maifahrten 1985 – 2006
+           -K 3:5 Einladungen zu persönlichen Anlässen 1967 – 1999
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:K 4 [ID 429, Serie, E2, Eltern VII.267.:K, S.14] Zeitungsausschnitte | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -K 4:1 Zeitungsausschnitte 1923 und 2007
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:K 5 [ID 431, Serie, E2, Eltern VII.267.:K, S.14] Veranstaltungen | Genau (=)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -K 5:1 Jungfrau-Stafette 1939
+           -K 5:2 Zürcher Singstudenten, Verein Operetten für Zürich: Orpheus in der Unterwelt
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:L [ID 434, Teilbestand, E1, Eltern -, S.14] Verein Verbindungshaus | Von/bis (>= x und <=y)
+        Entstehungszeitraum, Anm.: '' => 'ca.'
+        Zeitraum-Quelle: 'Untereinheiten (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.' => ''
+GEÄ  VII.267.:L 1 [ID 435, Serie, E2, Eltern VII.267.:L, S.14] Grundlagen | Genau (=)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -L 1:1 Statuten des Vereins Verbindungshaus Zürcher Singstudenten
+           -L 1:2 Verbindungslokal Johanniter 1955
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:L 2 [ID 438, Serie, E2, Eltern VII.267.:L, S.14] Verbindungshaus Kantorei | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        Entstehungszeitraum, Anm.: '' => 'ca.'
+        [Darin]
+           -L 2:1 Erwerb und Finanzierung der Kantorei, Donatoren 1966 – 1968
+           -L 2:2 Umbau und Bewilligungsverfahren 1966 – 1971 (Bauabrechnung)
+           -L 2:3 Umbaupläne Kantorei 1966 – 1968
+           -L 2:4 Wasserschaden Kantorei 1968
+           -L 2:5 Diverse anwaltliche Unterlagen zur Kantorei; Gebäudeversicherung 1953 – 1989
+           -L 2:6 Eröffnung der Kantorei 1968
+           -L 2:7 Betriebliches Kantorei 1968 ff: Möblierung, Erhöhung des ausländischen Personals, Heizung, Lüftung, Abwasser, Abfallentsorgung
+           -L 2:8 Projekt Antilärmdecke Kantorei ca. 1971 (Plan)
+           -L 2:9 Korrespondenz und Finanzielles 1976 – 1985
+           -L 2:10 Küchenumbau Kantorei 1982
+           -L 2:11 Korrespondenz und Finanzielles 1985 – 1986, (Pläne Trottoirmöblierung 1985)
+           -L 2:12 Korrespondenz und Finanzielles 1987 – 1988
+           -L 2:13 Korrespondenz und Finanzielles 1989 – 1998 (Umsatzabrechnungen 1968 – 1997)
+           -L 2:14 Protokolle, Jahresberichte, Rechnungen 1965 – 1999
+           -L 2:16 25 Jahre Kantorei 1992 (mit Bierdeckeln zum Jubiläum), Weihnachtsbeleuchtung
+           -L 2:17 Renovationen, Erneuerungen, Unterhalt 1988 – 1992 (Pläne Architekt Behles, 1989)
+           -L 2:18 Renovationen, Erneuerungen, Unterhalt 1993 – 1998
+           -L 2:19 Grossformatige Pläne zu Umbauten und Erneuerungen (Planmappe: NEU/UG2/P2/7)
+           -L 2:20 Korrespondenz, Grundlagen, Renovationen, Bauarbeiten, Umbauten 1966 – 1982
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:L 3 [ID 458, Serie, E2, Eltern VII.267.:L, S.15] Drucksachen zur Kantorei | Genau (=)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -L 3:1 Broschüre zum Kauf des Verbindungshauses am Neumarkt 2
+           -L 3:2 Partizipationsschein vom Verein Verbindungshaus Zürich Singstudenten 1978)
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:M 1 [ID 462, Serie, E2, Eltern VII.267.:M, S.15] Mitgliederverzeichnisse | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -M 1:1 Verzeichnis der Alten Mitglieder 1886 des Studentengesangvereins Zürich (3 Exemplare) M 1:2 Mitgliederverzeichnis 1905 des Altherrenverbandes des Student
+           -M 1:3 Mitgliederverzeichnis 1913 des Altherrenverbandes des Studentengesangvereins Zürich M 1:4 Mitgliederverzeichnis 1924 des Altherrenverbandes des Studenten
+           -M 1:5 Mitgliederverzeichnis 1933 des Altherrenverbandes des Studentengesangvereins Zürich (3 Exemplare)
+           -M 1:6 Mitgliederverzeichnis 1938 des Altherrenverbandes des Studentengesangvereins Zürich (3 Exemplare)
+           -M 1:7 Mitgliederverzeichnis 1943 des Altherrenverbandes des Studentengesangvereins Zürich (3 Exemplare)
+           -M 1:8 Mitgliederverzeichnis 1949 des Altherrenverbandes des Studentengesangvereins Zürich (3 Exemplare)
+           -M 1:9 Mitgliederverzeichnis 1957 des Altherrenverbandes des Studentengesangvereins Zürich (3 Exemplare)
+           -M 1:10 Verzeichnis 1974 der Alten Herren des Altherrenverbandes der Zürcher Singstudenten (3 Exemplare)
+           -M 1:11 Verzeichnis 1981 der Alten Herren des Altherrenverbandes der Zürcher Singstudenten (3 Exemplare)
+           -M 1:12 Verzeichnis 1985 der Alten Herren des Altherrenverbandes der Zürcher Singstudenten (2 Exemplare)
+           -M 1:13 Adressverzeichnis 1993 der Alten Herren der Zürcher Singstudenten
+           -M 1:14 Adressverzeichnisse 1978/79 – 2000 der Zürcher Singstudenten
+           -M 1:15 Verzeichnis 1965 der Alten Herren des Alt-Herrenverbandes der Züricher Singstudenten M 1:16 Mitgliederliste und Adressverzeichnis 2005 der Alten Herren 
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:M 2 [ID 479, Serie, E2, Eltern VII.267.:M, S.16] Mitgliederkarteien | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        Entstehungszeitraum, Anm.: '' => 'ca.'
+        [Darin]
+           -M 2:1 Mitgliederkartei ca. 1890 – 1933
+           -M 2:2 Mitgliederkartei ca. 1933 – 1960
+           -M 2:3 Mitgliederkartei ca. 1960 – 1981
+           -M 2:4 Karteikarten verstorbener Alter Herren 1984 – 1988
+           -M 2:5 Adressenkontrolle des Studentengesangsvereins ca. 1933 – 1970
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:M 3 [ID 485, Serie, E2, Eltern VII.267.:M, S.16] Bierfamilien | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -M 3:1 Bierfamilie Zimmermann, gegründet 1886 (1964)
+           -M 3:2 Bierfamilie Zimmermann, gegründet 1886 (ca. 1980)
+           -M 3:3 Die Altehrwürdigste Bierfamilie 1870 (Grob)
+           -M 3:4 Unsere Bierfamilie (Huber), gegründet 1884 (ca. 1945)
+           -M 3:5 Bierfamilie Huber (Typoskript, ca. 1969)
+           -M 3:6 Bierfamilie Huber (Typoskript, ca. 1974)
+           -M 3:7 Bierfamilie Huber (Typoskript, ca. 1974); Wer ist die Bierfamilie Vicor Huber?
+           -M 3:8 Bierfamilie Grob, ca. 1952
+           -M 3:9 Bierfamilie Stierlin
+           -M 3:10 Bierfamilie Apotheker und Consorten (gegründet 1895 von Julius Tomann)
+           -M 3:11 Bierfamilie Zimmermann, Adressliste (ca. 1980er Jahre)
+           -M 3:12 Bierfamilie Breiter
+           -M 3:13 Bierfamilie Hans Herzog 1878: Festschrift 125 Jahre (2 Exemplare)
+           -M 3:14 Bierfamilien-Gesamtverzeichnis der Zürcher Singstudenten, 2. Auflage, 1991
+           -M 3:15 Die Zürcher Singstudenten ihrer lieben Biermutter Gritli Scheidegger zu ihrem
+           -70. Geburtstag, Buch mit Dankesschreiben und Unterschriften 1930
+           -M 3:16 Herzog Fibel – Geschichte der Bierfamilie Hans Herzog
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten (geschätzt)'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.'
+GEÄ  VII.267.:M 4 [ID 502, Serie, E2, Eltern VII.267.:M, S.16] Mitgliederwerbung und Mitgliederbewerbung | 
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -M 4:1 Mitgliederwerbung (diverse Akten)
+           -M 4:2 Mitgliederbewerbung (Bewerbungsschreiben)
+           +
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => 'Kein Zeitraum gefunden (auch nicht in den Untereinheiten).'
+GEÄ  VII.267.:N 4 [ID 509, Serie, E2, Eltern VII.267.:N, S.17] Fotoalben | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -N 4:1 Fotoalbum mit Porträts 1910 – 1930 (beschriftet)
+           -N 4:2 Fotoalbum mit Porträts ca. 1930 – 1950 (beschriftet)
+           -N 4:3 Fotoalbum mit Fotos aus dem Verbindungsleben, undatiert (ca. 1930er und 1940er Jahre) N 4:4 Fotoalbum mit Fotos aus dem Verbindungsleben, undatiert (2 Bä
+           -N 4:5 Fotoalbum mit Porträts 1950 (beschriftet)
+           -N 4:6 Sängerfahrt Castagnola 1981
+           -N 4:7 Bilderband mit Fotos aus dem Johanniter, welche beim Umzug ausgeschieden wurden. Enthält: Maifahrten 1902, 1901, 1903, der Studentengesangverein am Nil 1
+           -N 4:8 Fotoalbum Dies Academicus 1937 (beschriftet)
+           -N 4:9 Fotoalbum mit Fotos aus dem Verbindungsleben (ca. 1910 – 1940), enthält auch Porträts (beschriftet)
+           -N 4:10 Fotoalbum mit sehr alten Porträts, undatiert
+           -N 4:11 Fotoalbum Sommersemester 1930
+           -N 4:12 Fotoalbum mit Portraits 1961 – 1977 (beschriftet)
+           -N 4:13 Fotoalbum mit beschrifteten Portraits zur freundlichen Erinnerung von den Damen der Maifahrt 1886
+           -N 4:14 Fotoalbum mit alten Porträts, gewidmet dem Studentengesangverein Zürich von PH. Link, Fotograf
+           -N 4:15 3 Fotoalben zum Vereinsleben von Danny Gundelfinger 1976-1990
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten (geschätzt)'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.'
+GEÄ  VII.267.:N 5 [ID 525, Serie, E2, Eltern VII.267.:N, S.18] Fotografien, gerahmt | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -N 5:1 Maifahrt 1904 des Studentengesangvereins Zürich (in weissen Holzrahmen)
+           -N 5:2 Maifahrt des Studentengesangvereins Zürich, undatiert (in braunem Holzrahmen)
+           -N 5:3 zwei Singstudenten in Uniform, undatiert (in ovalem braunen Holzrahmen)
+           -N 5:4 Maifahrt des Studentengesangvereins, undatiert (in braunem Holzrahmen)
+           -N 5:5 Die Fuxenecke der Bollerei (Zeichnung), gestiftet von Willi Kapp und Hans Ikl, 1986 (in braunem Holzrahmen)
+           -N 5:6 Collage mit diversen Fotos von den Singstudenten. Geschenk der Iponia Oberägeri, überreicht am 27. Januar 1996 am Fuxen-Ski-Weekend (Collage in silberfar
+           -N 5:7 Singstudenten am 26. Eidgenössischen Sängerfest Bern 1948 (Foto in schwarzem Wechselrahmen)
+           -N 5:8 Singstudenten, undatiert (in ovalem braunen Holzrahmen)
+           -N 5:9 Zwei Singstudenten in Uniform, undatiert (in ovalem braunen Holzrahmen)
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:N 6 [ID 535, Serie, E2, Eltern VII.267.:N, S.18] Zeichnungen, Radierungen, Illustrationen | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -N 6:1 Nationalspende 1918 (Radierung)
+           -N 6:2 (Sing-)Studenten auf Pferden von Oscar Früh, undatiert
+           -N 6:3 Schreiben an die Maifahrts-Damen, undatiert
+           -N 6:4 Freimitglieder Urkunden des Studentengesangsvereins Zürich (9 Exemplare)
+           -N 6:5 Diplom für den Studentengesangverein Zürich für den 10. Rang am 23. Eidgenössischen Sängerfest Luzern, Juni 1922
+           -N 6:6 Diverse Illustrationen der Kantorei
+           -N 6:7 Urkunde für die Zürcher Singstudenten, ausgezeichnet am 40. Beszirks-Sängerfest in Haag
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:N 8 [ID 544, Serie, E2, Eltern VII.267.:N, S.18] Negative und Dias | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -N 8:1 Fuxenfahrt Juni 1986 (Negative)
+           -N 8:2 150 Jahre Singstudentenverein Jubiläumsbuch 1998 (Negative)
+           -N 8:3 Kantorei Umbau 1997 (Negative)
+           -N 8:4 Diverse unbeschriftete Negative
+           -N 8:5 150 Jahre Singstudentenverein Jubiläumsbuch 1998 (Diavorlagen)
+           -N 8:6 Kantorei Glasmalereien (Dias)
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:P 1 [ID 552, Serie, E2, Eltern VII.267.:P, S.18] Objekte | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -P 1:1 Zigarettenetui (Silber, Leder mit Elfenbein); Text: G. Wieland s(einem) l(lieben) L(ei)bf(uxen) O. Wild z(ur) f(reundlichen) Er(innerun)g, Weihnachten 18
+           -P 1:2 Erinnerungsmedaille zum 75. Stiftungsfest des Männerchors Zürich 1904; vorne: Porträt von Dr. Carl Attenhofer (in blauer Schachtel)
+           -P 1:3 Zinnteller, Preis für 1. Rang CV-Schiessen 1965, Mannschaft: Beat Semadeni, Felix Baumann, Martin Höchner, Martin Glarner und Walter Müri
+           -P 1:4 Becher (ohne Fuss) mit der Inschrift „Dem Studentengesangverein ein Andenken an den lieben Hans, Die Familie Schoop, Weihnachten 1885“
+           -P 1:5 Schärpen (4 Stück)
+           -P 1:6 Silberfarbenes Taschenmesser; auf der Vorderseite ist das Emblem des Studentengesangvereins eingraviert
+           -P 1:7 Wappenscheibe 150 Jahre Zürcher Singstudenten (koloriertes Bild der Kantorei)
+           -P 1:8 Wappenscheibe mit Berner Wappen zum 150. Jubiläum Helvetia Bern 1999
+           -P 1:9 Album mit Unterschriften von Mitgliedern des Studentengesangvereins 1913, gewidmet dem Ehrendirektor Dr. Carl Attenhofer
+           -P 1:10 Wappen des Studentengesangvereins (auf Email gemalt von Trudy Gut, Mutter von Alt Tobias Gut, ca. 1992)
+           -P 1:11 Pin mit dem Wappen des Studentengesangvereins 1849 – 1999
+           -P 1:12 Silberfarbenes Buchzeichen mit dem Wappen des Studentengesangvereins; Rückseite mit Gravur „Altherren-Tag Bern 2001“
+           -P 1:13 Wappen zum Jubiläum des 100. Altherren-Tages (Stoff)
+           -P 1:14 Diverse Aufkleber
+           -P 1:15 Pins mit der Kantorei und Grimmenturm, undatiert
+           -P 1:16 Brief von Gottfried Keller
+           -P 1:17 Bild "Gottfried Keller auf Stuhl" (Karl Stauffer, Bern 1887) (Planmappe: NEU/UG2/P2/7) P 1:18 Stammblätter von Eichendorf
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten (geschätzt)'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.'
+GEÄ  VII.267.:P 2 [ID 571, Serie, E2, Eltern VII.267.:P, S.19] Tonträger | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -P 2:1 125 Jahre Zürcher Singstudenten: Jubiläumskonzert 1974, Tonhalle Zürich (Schallplatte)
+           -P 2:2 Bohuslav Martinu (Schallplatte)
+           -P 2:3 Konzert der Berner und Zürcher Singstudenten, Tonhalle Zürich, 1985 (Musikkassette)
+           -P 2:4 Konzert der Berner und Zürcher Singstudenten „Perlen der Romantik“, 1992 (CD)
+           -P 2:5 Lieder aus dem Kantusprügel „Mein Lebenslauf ist Lieb und Lust…“, 1992/93 (CD)
+           -P 2:6 Studentenlieder, undatiert (CD)
+           -P 2:7 Studentenlieder „Schwört bei dieser blanken Wehre“, undatiert (CD)
+           -P 2:8 Sendung von Radio 24: Biergarten Bauschänzli, 2003 (Audio-CD)
+           -P 2:9 Zürcher Singstudenten, Verein Operetten für Zürich: Orpheus im Kaufleuten Zürich, 2003 (CD)
+           -P2:10 Musikdose-Laufwerk «Mein Lebenslauf» inkl. Schlüssel (Melodie des Verbindungskantus) P 2:11 Die Ära Lazi. Ladislaus Rybach als Direktor der Zürcher Sings
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        [Prüfhinweise]
+           -Verschobene Zeilenumbrüche in Listen repariert – Stichprobe prüfen.
+           -Zeitraum aus den Jahreszahlen im Darin geschätzt.
+           +
+GEÄ  VII.267.:Q [ID 583, Teilbestand, E1, Eltern -, S.19] Fechtclub | Von/bis (>= x und <=y)
+        Zeitraum-Quelle: 'Untereinheiten (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.' => ''
+GEÄ  VII.267.:Q 1 [ID 584, Serie, E2, Eltern VII.267.:Q, S.19] Mitglieder | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -Q 1:1 Adressverzeichnisse 1985 – 1987
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:Q 3 [ID 587, Serie, E2, Eltern VII.267.:Q, S.20] Schriften zum Fechten | 
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -Q 3:1 Hug, Stefan Karl. Das Kavaliersdelikt. Die Rechtsgeschichte der Mensur, in: Studentica Helvetica 19/2003 (H. 38)
+           -Q 3:2 Die geschichtliche Herkunft des studentischen Fechtens
+           +
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => 'Kein Zeitraum gefunden (auch nicht in den Untereinheiten).'
+GEÄ  VII.267.:R [ID 590, Teilbestand, E1, Eltern -, S.20] Corporationen Convent | Von/bis (>= x und <=y)
+        Zeitraum-Quelle: 'Untereinheiten (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.' => ''
+GEÄ  VII.267.:R 1 [ID 591, Serie, E2, Eltern VII.267.:R, S.20] Statuten, Mitglieder | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -R 1:1 Statuten 1975 – 1981
+           -R 1:2 Adressverzeichnisse
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Untereinheiten'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.267.:R 3 [ID 595, Serie, E2, Eltern VII.267.:R, S.20] Publikationen | 
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -R 3:1 Wider uns die Zeit, CV-Sondernummer des „Zürcher Student“, Jahrgang. 34/1956, Nr.6
+           +
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => 'Kein Zeitraum gefunden (auch nicht in den Untereinheiten).'

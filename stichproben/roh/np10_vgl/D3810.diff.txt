@@ -1,0 +1,9 @@
+### D3810: vorher 8 Einheiten, nachher 8 Einheiten
+GEÄ  VII.67.:3. [ID 3, Dossier, E1, Eltern -, S.1] Auszüge aus den Eheregistern von Illnau, nach dem Wohnort geordnet | 
+        Schachtel-Nr.: '' => 'II'
+GEÄ  VII.67.:4. [ID 4, Dossier, E1, Eltern -, S.1] Familienblätter auf Grund der Pfarrbücher von Illnau 1552 | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  VII.67.:5. [ID 5, Dossier, E1, Eltern -, S.1] Auszüge aus dem Bevölkerungsverzeichnis Kiburg-Brünggen | 
+        Schachtel-Nr.: '' => 'II'
+GEÄ  VII.67.:6. [ID 6, Dossier, E1, Eltern -, S.1] Auszüge aus Haushaltungsregistern Lindau | Genau (=)
+        Schachtel-Nr.: '' => 'II'

@@ -1,0 +1,51 @@
+### D3943: vorher 238 Einheiten, nachher 247 Einheiten
+NEU  X.G.93.:1 [ID 105, Dossier, E2, Eltern X.G.93., S.6] «Blauer Himmel», Zürich (1 Expl.) | Genau (=)
+        H: Unternummer «X.G.93.:1» steht im Findmittel im Text von X.G.93. – als eigene Einheit übernommen, bitte prüfen.
+NEU  X.G.93.:2 [ID 106, Dossier, E2, Eltern X.G.93., S.6] «Gelber Himmel», Zürich (ca. 50 Expl.) | Genau (=)
+        H: Unternummer «X.G.93.:2» steht im Findmittel im Text von X.G.93. – als eigene Einheit übernommen, bitte prüfen.
+NEU  X.G.200.:1 [ID 221, Dossier, E2, Eltern X.G.200., S.12] Zürich. Stadtführer für Zürcher und Nichtzürcher | Genau (=)
+        H: Unternummer «X.G.200.:1» steht im Findmittel im Text von X.G.200. – als eigene Einheit übernommen, bitte prüfen.
+NEU  X.G.200.:2 [ID 222, Dossier, E2, Eltern X.G.200., S.12] Zurich City Guide for Zurichers and Vistitors | 
+        H: Unternummer «X.G.200.:2» steht im Findmittel im Text von X.G.200. – als eigene Einheit übernommen, bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  X.G.200.:3 [ID 223, Dossier, E2, Eltern X.G.200., S.12] Zurich for Visitors | 
+        H: Unternummer «X.G.200.:3» steht im Findmittel im Text von X.G.200. – als eigene Einheit übernommen, bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  X.G.200.:4 [ID 224, Dossier, E2, Eltern X.G.200., S.12] Zürich zum Essen gern, Restaurantführer | 
+        H: Unternummer «X.G.200.:4» steht im Findmittel im Text von X.G.200. – als eigene Einheit übernommen, bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  X.G.209.:1 [ID 234, Dossier, E2, Eltern X.G.209., S.12] Taschenmesser Victorinox Militär (200 Stück) | Genau (=)
+        H: Unternummer «X.G.209.:1» steht im Findmittel im Text von X.G.209. – als eigene Einheit übernommen, bitte prüfen.
+NEU  X.G.209.:2 [ID 235, Dossier, E2, Eltern X.G.209., S.12] flache Taschenmesser | 
+        H: Unternummer «X.G.209.:2» steht im Findmittel im Text von X.G.209. – als eigene Einheit übernommen, bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  X.G.209.:3 [ID 236, Dossier, E2, Eltern X.G.209., S.12] Damenmesser mit Kette | 
+        H: Unternummer «X.G.209.:3» steht im Findmittel im Text von X.G.209. – als eigene Einheit übernommen, bitte prüfen.
+Kein Zeitraum gefunden.
+GEÄ  X.G.93. [ID 104, Teilbestand, E1, Eltern -, S.6] * Zender, Rudolf. Drahtschmidli. Lithographie (Grf.) | Von/bis (>= x und <=y)
+        Titel: '* Zender, Rudolf. Drahtschmidli. Lithographie (Grf.): X.G.93.:1 «Blauer Himmel», Zürich (1 Expl.)' => '* Zender, Rudolf. Drahtschmidli. Lithographie (Grf.)'
+        Stufe: 'Dossier' => 'Teilbestand'
+        Entstehungszeitraum: 'Genau (=)' => 'Von/bis (>= x und <=y)'
+        bis: '' => '1962'
+        [Darin]
+           -X.G.93.:2 «Gelber Himmel», Zürich 1962 (ca. 50 Expl.)
+           +
+        Zeitraum-Quelle: 'Titel' => 'Untereinheiten'
+GEÄ  X.G.200. [ID 220, Teilbestand, E1, Eltern -, S.12] Zürich. Stadtführer für Zürcher und Nichtzürcher | Genau (=)
+        Titel: '[ohne Titel]' => 'Zürich. Stadtführer für Zürcher und Nichtzürcher'
+        Stufe: 'Dossier' => 'Teilbestand'
+        [Darin]
+           -Zürich. Stadtführer für Zürcher und Nichtzürcher, 1977 (X.G.200.:1)
+           -Zurich City Guide for Zurichers and Vistitors (X.G.200.:2)
+           -Zurich for Visitors (X.G.200.:3)
+           -Zürich zum Essen gern, Restaurantführer (X.G.200.:4)
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Titel'
+        [Prüfhinweise]
+           -Kein Titel erkannt.
+           -Zeitraum aus den Jahreszahlen im Darin geschätzt.
+           +Titel aus der ersten Unternummer übernommen (das Findmittel nennt nur die Unternummern) – Sammeltitel bitte prüfen.
+GEÄ  X.G.209. [ID 233, Teilbestand, E1, Eltern -, S.12] Taschenmesser Victorinox Militär (200 Stück) | Genau (=)
+        Titel: 'Taschenmesser Victorinox Militär, 1980 (200 Stück) (X.G.209.:1); flache Taschenmesser (X.G.209.:2); Damenmesser mit Kette (X.G.209.:3)' => 'Taschenmesser Victorinox Militär (200 Stück)'
+        Stufe: 'Dossier' => 'Teilbestand'
+        Prüfhinweise: '' => 'Titel aus der ersten Unternummer übernommen (das Findmittel nennt nur die Unternummern) – Sammeltitel bitte prüfen.'

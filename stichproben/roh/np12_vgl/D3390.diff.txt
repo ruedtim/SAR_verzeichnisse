@@ -1,0 +1,11 @@
+### D3390: vorher 6 Einheiten, nachher 6 Einheiten
+GEÄ  VII.280.:6. [ID 6, Dossier, E1, Eltern -, S.2] Photographien | 
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => ''
+        von: '1898' => ''
+        bis: '1964' => ''
+        [Darin]
+           -Nachweise zur Personenrecherche über Carolina Grob (1871 - 1962): V.E. c.100., 1933 - 1964
+           -VIII.B. c.201., 1898, A, Nr. 1414
+           -VIII.B. c.108., 1962, A, Nr. 370
+        Zeitraum-Quelle: 'Darin (geschätzt)' => ''
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => 'Kein Zeitraum gefunden.'

@@ -1,0 +1,162 @@
+### D3313: vorher 50 Einheiten, nachher 4 Einheiten
+WEG  VII.254.:1./T2 [ID 2, Dossier, E2, Eltern VII.254.:1., S.3] L. R. Lavater | 
+        D: Leonhard Rudolf Lavater (1. Porträt, lag lose bei, in leeres Fenster vor S. 1 plaziert, s. Nr. 45 f.)
+WEG  VII.254.:2./T2 [ID 4, Dossier, E2, Eltern VII.254.:2., S.3] Fr. Bürkli | 
+        D: Paul David 'Friedrich' Bürkli, Buchdruckereibesitzer, unter der Ragion "David Bürkli"
+WEG  VII.254.:3./T2 [ID 6, Dossier, E2, Eltern VII.254.:3., S.3] J. Escher | 
+        D: Johann Jakob Escher vom Glas, Dr. iur., Oberrichter, des Grossen Rats, Stadtschulpfleger
+WEG  VII.254.:4./T2 [ID 8, Dossier, E2, Eltern VII.254.:4., S.3] C. Escher | 
+        D: Hans Conrad Escher vom Glas, Kaufmann, des Grösseren Stadtrats
+WEG  VII.254.:5. [ID 9, Dossier, E1, Eltern -, S.3] H. Pestalozzi | 
+        D: Heinrich Pestalozzi, Seidenfabrikant, Infanteriemajor
+WEG  VII.254.:6. [ID 10, Dossier, E1, Eltern -, S.3] F. von Wyss | 
+        D: Friedrich von Wyss, Dr. iur., Oberrichter, des Grossen Rats, PD und a. o. Prof. an der Universität
+WEG  VII.254.:7. [ID 11, Dossier, E1, Eltern -, S.3] Mennet | Genau (=)
+        D: Johann Gabriel Ludwig Mennet, Contremaître bei Escher, Wyss & Comp., Hauptmann der Landwehr-Infanterie, von Lausanne und Crissier VD, ursprünglich von Valence, Dauphiné, 1860 von Zürich
+WEG  VII.254.:8. [ID 12, Dossier, E1, Eltern -, S.3] J. Letsch | 
+        D: Johannes Letsch, Glaser
+WEG  VII.254.:9. [ID 13, Dossier, E1, Eltern -, S.3] H. Naef | Von/bis (>= x und <=y)
+        D: Heinrich Naef, Hutmachter (von Zürich, 1840 in der Fremde, 1855 zuletzt im Etat)
+WEG  VII.254.:10. [ID 14, Dossier, E1, Eltern -, S.3] Heinrich Kölliker | 
+        D: Heinrich Kölliker, Kaufmann, Klavierfabrikant unter der Ragion Kölliker und Trost, Hauptmann der Landwehr-Artillerie, von Thalwil
+WEG  VII.254.:11. [ID 15, Dossier, E1, Eltern -, S.3] B. Staub | Genau (=)
+        D: Bernhard Staub, Weinhändler, von Dübendorf, 1855 von Zürich
+WEG  VII.254.:12. [ID 16, Dossier, E1, Eltern -, S.3] Glaskünstler Cramer | 
+        D: Johann Georg Cramer, Glaskünstler (ursprünglich von Baden/Deutschland)
+WEG  VII.254.:13. [ID 17, Dossier, E1, Eltern -, S.3] E. C. Willner (1. Porträt, vgl. Nr. 34) | 
+        D: Eduard Carl Willner, Buchbinder, von Aussersihl
+WEG  VII.254.:14. [ID 18, Dossier, E1, Eltern -, S.3] Ferd. Carpentier | 
+        D: Christoph Gottfried 'Ferdinand' Carpentier, Buchbinder, im Seefeld (ursprünglich von Burg, Preussen)
+WEG  VII.254.:15. [ID 19, Dossier, E1, Eltern -, S.3] J. C. Vogel | 
+        D: Johann Caspar Vogel, Buchhalter
+WEG  VII.254.:16. [ID 20, Dossier, E1, Eltern -, S.3] E. Schweizer | Von/bis (>= x und <=y)
+        D: Matthias 'Eduard' Schweizer (7. August 1818 bis 23. Oktober 1860) Dr. phil., PD und a. o. Prof. an der Philosophischen Fakultät [II. Sektion] für Chemie
+WEG  VII.254.:17. [ID 21, Dossier, E1, Eltern -, S.3] J. Wehrli | 
+        D: Jakob Wehrli (Weerli), Commis, von Sirnach TG
+WEG  VII.254.:18. [ID 22, Dossier, E1, Eltern -, S.3] G. Vogel (Dieses Porträt fehlt.) | 
+WEG  VII.254.:19. [ID 23, Dossier, E1, Eltern -, S.3] D. Fries | 
+        D: David Fries, VDM, Seminardirektor, des Grossen Rats, Erziehungsrat (in Küsnacht)
+WEG  VII.254.:20. [ID 24, Dossier, E1, Eltern -, S.4] D. Oeri | 
+        D: Daniel Oeri, Hauptmann der Landwehr-Infanterie
+WEG  VII.254.:21. [ID 25, Dossier, E1, Eltern -, S.4] L. Tobler | 
+        D: Leonhard Tobler, Erster Obergerichtsschreiber, des Grösseren Stadtrats
+WEG  VII.254.:22. [ID 26, Dossier, E1, Eltern -, S.4] A. H. Habich | Genau (=)
+        D: August Heinrich Habich, Kaufmann im Bleicherweg, von Cassel, 1857 von Zürich
+WEG  VII.254.:23. [ID 27, Dossier, E1, Eltern -, S.4] H. Hirzel | 
+        D: Heinrich Hirzel (17. August 1818 bis 29. April 1871), Diakon, später Pfarrer beim St. Peter, des Grösseren Stadtrats, Kantonsrat, Mitglied der engeren Stadtschulpflege (Zürcher Pfarrerbuch, S. 340)
+WEG  VII.254.:24. [ID 28, Dossier, E1, Eltern -, S.4] J. Lüti | 
+        D: Jakob Lüti, Eisenhändler, unter der Ragion: Joh. David Wiser (ursprünglich von Stettfort TG)
+WEG  VII.254.:25. [ID 29, Dossier, E1, Eltern -, S.4] J. J. Meyer z. Kronenhalle | 
+        D: Johann Jakob Meyer, Kleiderfabrikant (ursprünglich von Stadel ZH)
+WEG  VII.254.:26. [ID 30, Dossier, E1, Eltern -, S.4] C. Huber | 
+        D: 'Carl' August Huber, Baumeister, im Bleicherweg
+WEG  VII.254.:27. [ID 31, Dossier, E1, Eltern -, S.4] H. Ottiker | 
+        D: Heinrich Ottiker, Kuttler
+WEG  VII.254.:28. [ID 32, Dossier, E1, Eltern -, S.4] C. Keller | 
+        D: Johann 'Caspar' Keller, Hafner
+WEG  VII.254.:29. [ID 33, Dossier, E1, Eltern -, S.4] C. Corrodi | 
+        D: Hans 'Caspar' Kaufmann, unter der Ragion Corrodi und Tobler
+WEG  VII.254.:30. [ID 34, Dossier, E1, Eltern -, S.4] H. Brunner, Gastwirt (1. Porträt) | Genau (=)
+        D: Heinrich Brunner, Speisewirt, von Würenlos AG, 1867 von Zürich
+WEG  VII.254.:31. [ID 35, Dossier, E1, Eltern -, S.4] H. Brunner, Gastwirt (2. Porträt) s. oben | 
+WEG  VII.254.:32. [ID 36, Dossier, E1, Eltern -, S.4] Salomon Brunner, Sattler | 
+        D: Salomon Brunner, Sattler, von Bassersdorf
+WEG  VII.254.:33. [ID 37, Dossier, E1, Eltern -, S.4] Metzger Schober | 
+        D: Zacharias Schober, Metzger, von Bahlingen/Württemberg, später von Andelfingen ZH
+WEG  VII.254.:34. [ID 38, Dossier, E1, Eltern -, S.4] E. Hofmeister | 
+        D: Eduard Hofmeister, städtischer Centralverwalter, in Riesbach
+WEG  VII.254.:35. [ID 39, Dossier, E1, Eltern -, S.4] M. Kuhn | 
+        D: Mathias Kuhn, Schreiner
+WEG  VII.254.:36. [ID 40, Dossier, E1, Eltern -, S.4] E. C. Willner (2. Porträt) s. Nr. 12 | 
+WEG  VII.254.:37. [ID 41, Dossier, E1, Eltern -, S.4] J. U. Elsinger | 
+        D: Hans Ulrich Elsinger, Bezirksratsschreiber
+WEG  VII.254.:38. [ID 42, Dossier, E1, Eltern -, S.4] J. C. Wild | 
+        D: Hans 'Caspar' Wild, Quästor der Sparkasse für alle Stände
+WEG  VII.254.:39. [ID 43, Dossier, E1, Eltern -, S.4] J. Böckli | 
+        D: Johannes Böckli, Schreiner
+WEG  VII.254.:40. [ID 44, Dossier, E1, Eltern -, S.4] Joh. Frey | 
+        D: Johannes Frey, Holzhändler und Sägemüller
+        D: 41. von Steiner
+        D: Johann Heinrich von Steiner-Fels, Kaufmann, Hauptmann der Infanterie
+WEG  VII.254.:42. [ID 45, Dossier, E1, Eltern -, S.4] Hirzel-Landolt | 
+        D: Heinrich Gustav Hirzel-Landolt, Eidg. Post-Traininspektor
+WEG  VII.254.:43. [ID 46, Dossier, E1, Eltern -, S.5] Wälti | 
+        D: Friedrich Welti, Tuchhändler, unter der Ragion J. F. Welti zum Steg
+WEG  VII.254.:44. [ID 47, Dossier, E1, Eltern -, S.5] Bluntschli-Dändliker | 
+        D: Carl Bluntschli-Dändliker, Appreteur, in Genf
+WEG  VII.254.:45. [ID 48, Dossier, E1, Eltern -, S.5] Forstad. Lavater (2. Porträt) | 
+        D: Leonhard Rudolf Lavater, Forstadjunkt, Sihlamtskassier
+WEG  VII.254.:46. [ID 49, Dossier, E1, Eltern -, S.5] Lavater Sihl (3. Porträt) s. Nrn. 1 und 45 | 
+WEG  VII.254.:47. [ID 50, Dossier, E1, Eltern -, S.5] Furrer | 
+        D: Jakob Furrer-Waser, Pferdeverleiher
+GEÄ  VII.254.:1. [ID 1, Dossier, E1, Eltern -, S.1] Jahrgängerverein 1786 (1834 – 1863) | Genau (=)
+        Stufe: 'Serie' => 'Dossier'
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => 'Genau (=)'
+        bis: '11.05.1863' => ''
+        Zeitraum-Quelle: 'Untereinheiten (geschätzt)' => 'Titel (Ereignisdatum)'
+        Prüfhinweise: 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.' => ''
+GEÄ  VII.254.:2. [ID 2, Dossier, E1, Eltern -, S.1] Jahrgängerverein 1804 (1854) | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+        bis: '12.05.1854' => '1854'
+        Zeitraum-Quelle: 'Untereinheiten (geschätzt)' => 'Titel (Ereignisdatum)'
+        Prüfhinweise: 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.' => ''
+GEÄ  VII.254.:3. [ID 3, Dossier, E1, Eltern -, S.1] Jahrgängerverein 1810 (1885 – 1887) | Genau (=)
+        Stufe: 'Serie' => 'Dossier'
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => 'Genau (=)'
+        bis: '08.12.1887' => ''
+        Zeitraum-Quelle: 'Untereinheiten (geschätzt)' => 'Titel (Ereignisdatum)'
+        Prüfhinweise: 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.' => ''
+GEÄ  VII.254.:4. [ID 4, Dossier, E1, Eltern -, S.2] Jahrgängerverein 1818 (1858 – 1895) | Genau (=)
+        Stufe: 'Serie' => 'Dossier'
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => 'Genau (=)'
+        bis: '01.1994' => ''
+        [Darin]
+           +1. L. R. Lavater; Leonhard Rudolf Lavater (1. Porträt, lag lose bei, in leeres Fenster vor S. 1 plaziert, s. Nr. 45 f.)
+           +2. Fr. Bürkli; Paul David 'Friedrich' Bürkli, Buchdruckereibesitzer, unter der Ragion "David Bürkli"
+           +3. J. Escher; Johann Jakob Escher vom Glas, Dr. iur., Oberrichter, des Grossen Rats, Stadtschulpfleger
+           +4. C. Escher; Hans Conrad Escher vom Glas, Kaufmann, des Grösseren Stadtrats
+           +5. H. Pestalozzi; Heinrich Pestalozzi, Seidenfabrikant, Infanteriemajor
+           +6. F. von Wyss; Friedrich von Wyss, Dr. iur., Oberrichter, des Grossen Rats, PD und a. o. Prof. an der Universität
+           +7. Mennet; Johann Gabriel Ludwig Mennet, Contremaître bei Escher, Wyss & Comp., Hauptmann der Landwehr-Infanterie, von Lausanne und Crissier VD, ursprünglich von Valence, Dauphiné, 1860 von Zürich
+           +8. J. Letsch; Johannes Letsch, Glaser
+           +9. H. Naef; Heinrich Naef, Hutmachter (von Zürich, 1840 in der Fremde, 1855 zuletzt im Etat)
+           +10. Heinrich Kölliker; Heinrich Kölliker, Kaufmann, Klavierfabrikant unter der Ragion Kölliker und Trost, Hauptmann der Landwehr-Artillerie, von Thalwil
+           +11. B. Staub; Bernhard Staub, Weinhändler, von Dübendorf, 1855 von Zürich
+           +12. Glaskünstler Cramer; Johann Georg Cramer, Glaskünstler (ursprünglich von Baden/Deutschland)
+           +13. E. C. Willner (1. Porträt, vgl. Nr. 34); Eduard Carl Willner, Buchbinder, von Aussersihl
+           +14. Ferd. Carpentier; Christoph Gottfried 'Ferdinand' Carpentier, Buchbinder, im Seefeld (ursprünglich von Burg, Preussen)
+           +15. J. C. Vogel; Johann Caspar Vogel, Buchhalter
+           +16. E. Schweizer; Matthias 'Eduard' Schweizer (7. August 1818 bis 23. Oktober 1860) Dr. phil., PD und a. o. Prof. an der Philosophischen Fakultät [II. Sektion] für Chemie
+           +17. J. Wehrli; Jakob Wehrli (Weerli), Commis, von Sirnach TG
+           +18. G. Vogel (Dieses Porträt fehlt.)
+           +19. D. Fries; David Fries, VDM, Seminardirektor, des Grossen Rats, Erziehungsrat (in Küsnacht)
+           +20. D. Oeri; Daniel Oeri, Hauptmann der Landwehr-Infanterie
+           +21. L. Tobler; Leonhard Tobler, Erster Obergerichtsschreiber, des Grösseren Stadtrats
+           +22. A. H. Habich; August Heinrich Habich, Kaufmann im Bleicherweg, von Cassel, 1857 von Zürich
+           +23. H. Hirzel; Heinrich Hirzel (17. August 1818 bis 29. April 1871), Diakon, später Pfarrer beim St. Peter, des Grösseren Stadtrats, Kantonsrat, Mitglied der engeren Stadtschulpflege (Zürcher Pfarrer
+           +24. J. Lüti; Jakob Lüti, Eisenhändler, unter der Ragion: Joh. David Wiser (ursprünglich von Stettfort TG)
+           +25. J. J. Meyer z. Kronenhalle; Johann Jakob Meyer, Kleiderfabrikant (ursprünglich von Stadel ZH)
+           +26. C. Huber; 'Carl' August Huber, Baumeister, im Bleicherweg
+           +27. H. Ottiker; Heinrich Ottiker, Kuttler
+           +28. C. Keller; Johann 'Caspar' Keller, Hafner
+           +29. C. Corrodi; Hans 'Caspar' Kaufmann, unter der Ragion Corrodi und Tobler
+           +30. H. Brunner, Gastwirt (1. Porträt); Heinrich Brunner, Speisewirt, von Würenlos AG, 1867 von Zürich
+           +31. H. Brunner, Gastwirt (2. Porträt) s. oben
+           +32. Salomon Brunner, Sattler; Salomon Brunner, Sattler, von Bassersdorf
+           +33. Metzger Schober; Zacharias Schober, Metzger, von Bahlingen/Württemberg, später von Andelfingen ZH
+           +34. E. Hofmeister; Eduard Hofmeister, städtischer Centralverwalter, in Riesbach
+           +35. M. Kuhn; Mathias Kuhn, Schreiner
+           +36. E. C. Willner (2. Porträt) s. Nr. 12
+           +37. J. U. Elsinger; Hans Ulrich Elsinger, Bezirksratsschreiber
+           +38. J. C. Wild; Hans 'Caspar' Wild, Quästor der Sparkasse für alle Stände
+           +39. J. Böckli; Johannes Böckli, Schreiner
+           +40. Joh. Frey; Johannes Frey, Holzhändler und Sägemüller
+           +41. von Steiner; Johann Heinrich von Steiner-Fels, Kaufmann, Hauptmann der Infanterie
+           +42. Hirzel-Landolt; Heinrich Gustav Hirzel-Landolt, Eidg. Post-Traininspektor
+           +43. Wälti; Friedrich Welti, Tuchhändler, unter der Ragion J. F. Welti zum Steg
+           +44. Bluntschli-Dändliker; Carl Bluntschli-Dändliker, Appreteur, in Genf
+           +45. Forstad. Lavater (2. Porträt); Leonhard Rudolf Lavater, Forstadjunkt, Sihlamtskassier
+           +46. Lavater Sihl (3. Porträt) s. Nrn. 1 und 45
+           +47. Furrer; Jakob Furrer-Waser, Pferdeverleiher
+        Zeitraum-Quelle: 'Untereinheiten (geschätzt)' => 'Titel (Ereignisdatum)'
+        Prüfhinweise: 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.' => ''

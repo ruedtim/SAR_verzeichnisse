@@ -1,0 +1,21 @@
+### D152817: vorher 704 Einheiten, nachher 704 Einheiten
+GEÄ  VI.SB.C.33. [ID 255, Serie, E2, Eltern VI.SB.C., S.11] Brandassekuranz-Steuerregister | Von/bis (>= x und <=y)
+        Prüfhinweise: 'Untereinheiten reichen über den Zeitraum hinaus (1809–1933).' => ''
+GEÄ  VI.SB.C.33.a [ID 259, Serie, E2, Eltern VI.SB.C., S.11] Brandassekuranzbücher Seebach | Von/bis (>= x und <=y)
+        Ebene: '3' => '2'
+        Übergeordnete Signatur: 'VI.SB.C.33.' => 'VI.SB.C.'
+        Eltern: 'VI.SB.C.33.' => 'VI.SB.C.'
+GEÄ  VI.SB.C.33.a:1 [ID 260, Dossier, E3, Eltern VI.SB.C.33.a, S.11] Band 1: Nrn. 1-82 | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+GEÄ  VI.SB.C.33.a:2 [ID 261, Dossier, E3, Eltern VI.SB.C.33.a, S.11] Band 2: Nrn. 1-110 | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+GEÄ  VI.SB.C.33.a:3 [ID 262, Dossier, E3, Eltern VI.SB.C.33.a, S.11] Band 3: Nrn. 111-209 | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+GEÄ  VI.SB.C.33.a:4 [ID 263, Dossier, E3, Eltern VI.SB.C.33.a, S.11] Band 4: Nrn. 210-285 | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+GEÄ  VI.SB.C.33.a:5 [ID 264, Dossier, E3, Eltern VI.SB.C.33.a, S.11] Band 5 (I): Nrn. 1-367 | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+GEÄ  VI.SB.C.33.a:6 [ID 265, Dossier, E3, Eltern VI.SB.C.33.a, S.11] Band 6 (II): Nrn. 368-662 | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+GEÄ  VI.SB.C.33.a:7 [ID 266, Dossier, E3, Eltern VI.SB.C.33.a, S.11] Band 7 (III): Nrn. 663-892 | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'

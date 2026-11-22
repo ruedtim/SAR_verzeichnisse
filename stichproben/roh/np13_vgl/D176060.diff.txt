@@ -1,0 +1,33 @@
+### D176060: vorher 1293 Einheiten, nachher 1293 Einheiten
+GEÄ  VII.423.:3.6.3.3. [ID 227, Dossier, E4, Eltern VII.423.:3.6.3., S.16] Korrespondenz mit der Gesundheitsdirektion des Kantons Zürich und dem Gesundheitsamt der Stadt Zürich | Von/bis (>= x und <=y)
+        [Darin]
+           -
+           +(Enthält Patientendaten!)
+GEÄ  VII.423.:3.6.3.4. [ID 228, Dossier, E4, Eltern VII.423.:3.6.3., S.16] Korrespondenz mit der Kantons- und der Stadtpolizei Zürich | Von/bis (>= x und <=y)
+        [Darin]
+           -
+           +(Enthält Patientendaten!)
+        Prüfhinweise: 'Steht im Findmittel unter der Zwischenüberschrift «(Enthält Patientendaten!)».' => ''
+GEÄ  VII.423.:3.6.3.5. [ID 229, Dossier, E4, Eltern VII.423.:3.6.3., S.16] Korrespondenz mit der kantonalen Heilmittelkontrolle und dem Kantonsapotheker | Von/bis (>= x und <=y)
+        [Darin]
+           -
+           +(Enthält Patientendaten!)
+        Prüfhinweise: 'Steht im Findmittel unter der Zwischenüberschrift «(Enthält Patientendaten!)».' => ''
+GEÄ  VII.423.:3.6.3.6. [ID 230, Dossier, E4, Eltern VII.423.:3.6.3., S.16] Korrespondenz mit der Fürsorgedirektion des Kantons Zürich, dem Sozialamt / Fürsorgeamt und der Vormundschaftsbehörde der Stadt Zürich | Von/bis (>= x und <=y)
+        [Darin]
+           -
+           +(Enthält Patientendaten!)
+        Prüfhinweise: 'Steht im Findmittel unter der Zwischenüberschrift «(Enthält Patientendaten!)».' => ''
+GEÄ  VII.423.:3.6.3.7. [ID 231, Dossier, E4, Eltern VII.423.:3.6.3., S.16] Korrespondenz mit dem Gesundheits- und Wirtschaftsamt der Stadt Zürich | Von/bis (>= x und <=y)
+        [Darin]
+           -
+           +(Enthält Patientendaten!)
+        Prüfhinweise: 'Steht im Findmittel unter der Zwischenüberschrift «(Enthält Patientendaten!)».' => ''
+GEÄ  VII.423.:3.6.3.8. [ID 232, Dossier, E4, Eltern VII.423.:3.6.3., S.16] Korrespondenz mit dem Kantonsärztlichen und dem Stadtärztlichen Dienst | Von/bis (>= x und <=y)
+        Prüfhinweise: 'Steht im Findmittel unter der Zwischenüberschrift «(Enthält Patientendaten!)».' => ''
+GEÄ  VII.423.:3.6.4.7. [ID 242, Dossier, E4, Eltern VII.423.:3.6.4., S.16] Unterlagen bezüglich der polizeilichen Feststellungen betreffend Delinquenz (Enthält Patientendaten!) | Von/bis (>= x und <=y)
+        Titel: 'Unterlagen bezüglich der polizeilichen Feststellungen betreffend Delinquenz' => 'Unterlagen bezüglich der polizeilichen Feststellungen betreffend Delinquenz (Enthält Patientendaten!)'
+GEÄ  VII.423.:3.6.4.8. [ID 243, Dossier, E4, Eltern VII.423.:3.6.4., S.17] Auszählung | Genau (=)
+        Prüfhinweise: 'Steht im Findmittel unter der Zwischenüberschrift «(Enthält Patientendaten!)».' => ''
+GEÄ  VII.423.:7.4.1.26./T2 [ID 491, Dossier, E5, Eltern VII.423.:7.4.1.26., S.32] „Pathologies somatiques liées à la Toxicomanie“ | Genau (=)
+        Prüfhinweise: '' => 'Signatur 7.4.1.26. steht im Findmittel zweimal hintereinander mit anderem Titel – Tippfehler? Als Teil übernommen, bitte prüfen.'

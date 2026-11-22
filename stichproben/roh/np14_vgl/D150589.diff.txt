@@ -1,0 +1,15 @@
+### D150589: vorher 1853 Einheiten, nachher 1853 Einheiten
+GEÄ  VII.142.:2.2.1.8. [ID 115, Dossier, E3, Eltern VII.142.:2.2., S.81] Holländischer Arbeitergesangsverein | Genau (=)
+        Stufe: 'Serie' => 'Dossier'
+GEÄ  VII.142.:2.2.1.8.a. [ID 116, Dossier, E3, Eltern VII.142.:2.2., S.81] Affoltern bei Zürich, Vortrag vom 11. Januar 1958 | Genau (=)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.142.:2.2.1.8.' => 'VII.142.:2.2.'
+        Prüfhinweise: '' => 'Übergeordnete Signatur 2.2.1. fehlt im Findmittel; eingehängt unter 2.2.'
+        Eltern: 'VII.142.:2.2.1.8.' => 'VII.142.:2.2.'
+GEÄ  VII.142.:2.2.9.12. [ID 389, Dossier, E3, Eltern VII.142.:2.2., S.90] Abgeordnetenversammlung der Schweizerischen Gemeinnützigen Gesellschaft, Zürich (Spirgarten) | Genau (=)
+        Stufe: 'Serie' => 'Dossier'
+GEÄ  VII.142.:2.2.9.12.a. [ID 390, Dossier, E3, Eltern VII.142.:2.2., S.90] 102- Rütli-Schiessen | Genau (=)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.142.:2.2.9.12.' => 'VII.142.:2.2.'
+        Prüfhinweise: '' => 'Übergeordnete Signatur 2.2.9. fehlt im Findmittel; eingehängt unter 2.2.'
+        Eltern: 'VII.142.:2.2.9.12.' => 'VII.142.:2.2.'

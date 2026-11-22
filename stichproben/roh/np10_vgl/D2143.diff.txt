@@ -1,0 +1,31 @@
+### D2143: vorher 19 Einheiten, nachher 19 Einheiten
+GEÄ  V.H.c.57.:2. [ID 2, Dossier, E1, Eltern -, S.1] Vorbereitungsschule für die Gewerbeschule | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.H.c.57.:3. [ID 3, Dossier, E1, Eltern -, S.1] Neue Lehrstellen | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.H.c.57.:4. [ID 4, Dossier, E1, Eltern -, S.1] Lehrmittel-Kommission | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.H.c.57.:5. [ID 5, Dossier, E1, Eltern -, S.1] Lehrmittel für Heimatkunde | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.H.c.57.:6. [ID 6, Dossier, E1, Eltern -, S.1] Stottererkurse | Genau (=)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.H.c.57.:7. [ID 7, Dossier, E1, Eltern -, S.1] Nebenbeschäftigung von Schülern | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.H.c.57.:9. [ID 9, Dossier, E1, Eltern -, S.1] Grippe-Epidemie | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.H.c.57.:10. [ID 10, Dossier, E1, Eltern -, S.1] Hauswirtschaftlicher Unterricht | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.H.c.57.:11. [ID 11, Dossier, E1, Eltern -, S.1] Italienische Abendschule | Genau (=)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.H.c.57.:12. [ID 12, Dossier, E1, Eltern -, S.1] Israelitische Religionsschule | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.H.c.57.:13. [ID 13, Dossier, E1, Eltern -, S.1] Knaben- Handarbeits- und Ferienkurse | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.H.c.57.:14. [ID 14, Dossier, E1, Eltern -, S.1] Religionsunterricht | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.H.c.57.:15. [ID 15, Dossier, E1, Eltern -, S.1] Bibliothek der Gewerbeschule (Stiftung des Gewerbeschulvereins für Zürich und Umgebung) | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.H.c.57.:16. [ID 16, Dossier, E1, Eltern -, S.1] Sparmassnahmen | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.H.c.57.:18. [ID 18, Dossier, E1, Eltern -, S.2] Reorganisation der Gewerbeschule (s. auch Nr. 1) | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '3'

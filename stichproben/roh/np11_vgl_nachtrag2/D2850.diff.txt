@@ -1,0 +1,6 @@
+### D2850: vorher 68 Einheiten, nachher 68 Einheiten
+GEÄ  VII.109.:56. [ID 58, Dossier, E1, Eltern -, S.13] Briefe an und von Emil Klöti II N – Z | Genau (=)
+        [Darin]
+           +SATUS
+GEÄ  VII.109.:57. [ID 59, Dossier, E1, Eltern -, S.22] Gratulationsschreiben zum 60. bis 85. Geburtstag | Von/bis (>= x und <=y)
+        Prüfhinweise: 'Steht im Findmittel unter der Zwischenüberschrift «SATUS».' => ''

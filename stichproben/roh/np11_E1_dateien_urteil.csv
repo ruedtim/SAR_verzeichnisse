@@ -1,0 +1,41 @@
+datei;einheiten;umfang_geprueft;kritisch;mittel;gering;urteil;signale;bemerkung
+D1237;6;"alle 6 Einheiten und jede Zeile der Prüfmappe; Zuordnung Zeile → Einheit per Skript";0;1;0;ohne kritischen Fehler;[NICHT] 1 = Schlussvermerk im Info, richtig;"Schachtel-Einheiten nach Konvention; Schlussnotiz zum Bestand im Darin von :6 (mittel)."
+D539;24;"alle 24 Einheiten; jede PDF-Zeile S. 1–88 per Skript der Schachtel ihres PDF-Abschnitts zugeordnet (alle bis auf die Schlussvermerke bei der erwarteten Einheit); S. 1–3, 46, 57–59, 86–88 Zeile für Zeile";0;2;0;ohne kritischen Fehler;"[VOR] 150 und [NACH] 5 = Rauschen (gleich lautende Anfänge «Weisung des Stadtrathes …», «1 Seite», «folio» bei anderen Schachteln gefunden); [NICHT] 2 = Schlussvermerke, richtig";"ID 15 «Drucksachen, Teil 2» (:14 T2) ist die beabsichtigte Teilung eines zu langen Darin (Zellgrenze), kein Fehler. Mittel: 12 Zeiträume durch erwähnte Daten erweitert; Bearbeiterzeile im Darin von :23."
+D175561;1;ganze Prüfmappe, Wortpositionen S. 1 aus dem Zeilen-Cache;1;0;0;kritisch;[NICHT] 1 = Tabellenkopf «Signatur Inhalt Jahre», richtig;"21 Einheiten (2.–22.) stehen im Darin der einzigen Einheit V.G.c.63.1.; Signatur ohne «:», Zeitraum 1889–1946."
+D2284;3;ganze Prüfmappe;0;0;0;ohne kritischen Fehler;[NICHT] 1 = Tabellenkopf, richtig;
+D1360;4;ganze Prüfmappe;0;0;0;ohne kritischen Fehler;[NICHT] 1 = Tabellenkopf, richtig;mehrzeilige Titel vollständig
+D3643;4;ganze Prüfmappe;0;0;0;ohne kritischen Fehler;[NICHT] 1 = Tabellenkopf, richtig;1.–3. in der Inhaltsspalte unter 4. ohne eigene Signatur = Darin nach Konvention (Runde 7).
+D176580;4;ganze Prüfmappe;0;0;0;ohne kritischen Fehler;[NICHT] 3 = Tabellenkopf und 2 Schlusszeilen («Der Bestand umfasst …», Datum/Bearbeiter), richtig;
+D1269;5;ganze Prüfmappe, Spalten aus dem Zeilen-Cache;0;0;1;ohne kritischen Fehler;[NICHT] 2 = Tabellenkopf und «Letzte Änderung», richtig;Titel mit Zeitspalte und Bandnummer (gering).
+D2289;5;ganze Prüfmappe;0;0;0;ohne kritischen Fehler;[NICHT] 4 = Titelblatt (3 Zeilen) und Tabellenkopf als «Text vor der ersten Signatur», richtig;
+D1763;5;ganze Prüfmappe;0;0;0;ohne kritischen Fehler;[NICHT] 1 = Tabellenkopf, richtig;
+D1630;6;ganze Prüfmappe;0;0;0;ohne kritischen Fehler;[NICHT] 2 = Tabellenkopf und «Letzte Änderung», richtig;
+D2009;7;ganze Prüfmappe;0;0;0;ohne kritischen Fehler;[NICHT] 3 = Tabellenkopf, Schlussnotiz «Ab 1990 werden die Protokolle gebunden …» und «Letzte Änderung» im Info, richtig;
+D1731;7;ganze Prüfmappe;0;0;0;ohne kritischen Fehler;[NICHT] 2 = Tabellenkopf und «Letzte Änderung», richtig;
+D152459;7;ganze Prüfmappe;0;0;0;ohne kritischen Fehler;[NICHT] 3 = Tabellenkopf und 2 Schlusszeilen, richtig;
+D1718;8;ganze Prüfmappe;0;0;0;ohne kritischen Fehler;[NICHT] 2 = Tabellenkopf und «Letzte Änderung», richtig;
+D1646;10;ganze Prüfmappe;0;0;0;ohne kritischen Fehler;[NICHT] 2 = Tabellenkopf und «Letzte Änderung», richtig;
+D2083;10;ganze Prüfmappe;0;0;0;ohne kritischen Fehler;[NICHT] 2 = Tabellenkopf und «Letzte Änderung», richtig;
+D1273;12;ganze Prüfmappe;0;0;0;ohne kritischen Fehler;[NICHT] 2 = Tabellenkopf und «Letzte Änderung», richtig;«(Kreis I, links der Limmat» ohne Klammer wie im PDF.
+D1589;15;ganze Prüfmappe, Excel IDs 2, 6, 15;0;2;0;ohne kritischen Fehler;[NICHT] 2 = Tabellenkopf und «Letzte Änderung», richtig;"Einleitung S. 1 als Vorspann richtig; Spalte «Alte Bandnummer» (I, IIa …) hängt am Titel (Kosmetik, nicht gezählt); mittel: ID 2 Titelrest im Darin, ID 15 Zeitraum offen."
+D1604;15;ganze Prüfmappe;0;0;0;ohne kritischen Fehler;[NICHT] 2 = Tabellenkopf und «Letzte Änderung», richtig;
+D1805;15;ganze Prüfmappe;0;0;0;ohne kritischen Fehler;[NICHT] 4 = Titelblatt (3 Zeilen) und Tabellenkopf, richtig;«V.G c.185.:4.» als Tippfehler erkannt (Hinweis).
+D2097;19;ganze Prüfmappe;0;0;0;ohne kritischen Fehler;[NICHT] 2 = Tabellenkopf und «Letzte Änderung», richtig;
+D140974;21;ganze Prüfmappe, Zuordnung per Skript, Wortpositionen S. 1;0;2;0;ohne kritischen Fehler;[NICHT] 10 = Titelblatt und Einleitung S. 1 (Text vor der ersten Signatur) sowie Provenienz-/Schlussvermerk S. 2 im Info, richtig;"Gliederung 9. mit 9.1–9.11 richtig; mittel: Lagerungsvermerk im Titel von :4, Zeiträume :6/:7."
+D842;29;ganze Prüfmappe, Zuordnung per Skript;0;0;0;ohne kritischen Fehler;"[NICHT] 1 = Tabellenkopf; [VOR] 1 = «Von Ulrich Meister.» steht richtig im Darin von :27 (gleicher Text in :28)";
+D3949;34;ganze Prüfmappe, Zuordnung per Skript, Spalten S. 1;0;1;0;ohne kritischen Fehler;"[NICHT] 5 = Titelblatt und Tabellenkopf, «Letzte Änderung»; [VOR] 6 = «(Single)»/«Zürich 1978» bei gleichlautenden Folgeeinheiten gefunden, stehen richtig";Titel mischen die Spalten Interpret/Komponist und Titel (mittel, alle 34).
+D1674;37;ganze Prüfmappe;0;1;0;ohne kritischen Fehler;[NICHT] 2 = Tabellenkopf und «Letzte Änderung», richtig;mittel: :6 «1897-898».
+D4013;15;ganze Prüfmappe, Zuordnung per Skript;0;0;0;ohne kritischen Fehler;[NICHT] 1 = Schlussvermerk, richtig;"Gliederung 1.–5. mit kursiven Unternummern richtig; Jahresberichte-Zeilen unter 1.2. im Darin."
+D3682;19;ganze Prüfmappe, Zuordnung per Skript, Excel IDs 2, 4, 8, 13;0;1;0;ohne kritischen Fehler;[NICHT] 3 = Übergabevermerk und «Letzte Änderung» im Info, richtig;"Fussnoten (8-pt-Zeichen) im Darin von 2.2., richtig; mittel: Zeiträume aus Lebens-/Geburtsdaten."
+D2925;25;ganze Prüfmappe, Zuordnung per Skript;0;1;0;ohne kritischen Fehler;[NICHT] 10 = Titelblatt (Text vor der ersten Signatur), Biografie des Bestandsbildners und Erfassungsvermerk am Schluss im Info, richtig;"«1. das Gasthaus …»–«4. …» im Titel von 2.7. sind Aufzählung, keine Signaturen; mittel: 1.2. Zeitraum aus Todesdatum."
+D3614;30;ganze Prüfmappe, Zuordnung per Skript;0;1;0;ohne kritischen Fehler;[NICHT] 1 und [SIG?] 1 = Schlussvermerk «26. 9. 2002 / Lic. phil. Karin Beck», richtig im Info;
+D1757;33;ganze Prüfmappe, Zuordnung per Skript;0;0;0;ohne kritischen Fehler;"[NICHT] 1 = Schlussvermerk; [VOR] 5 = gleich lautende Zeilen («Pergaminplan, beschädigt», «Genehmigt: Ulrich …») bei Nachbareinheiten gefunden, stehen richtig";"Einleitung S. 1 als Vorspann richtig; «Format: …» teils im Titel (Kosmetik)."
+D3998;44;ganze Prüfmappe;0;0;0;ohne kritischen Fehler;"[NICHT] 1 = Schlussvermerk; [VOR] 1 = «Februar 1967» (Datumszeile), Rauschen";«4.5» ohne Punkt richtig als 4.5.
+D2529;2;ganze Prüfmappe, Zuordnung per Skript (S. 1–3);0;0;0;ohne kritischen Fehler;[NICHT] 1 = Schlussvermerk, richtig;60 Briefzeilen vollständig im Darin von 1.
+D1229;2;ganze Prüfmappe, Zuordnung per Skript;0;0;0;ohne kritischen Fehler;[NICHT] 6 = Titelblatt (4 Zeilen, Text vor der ersten Signatur) und 2 Schlusszeilen, richtig;
+D2665;3;ganze Prüfmappe, Zuordnung per Skript, Darin-Daten von 2.;0;1;0;ohne kritischen Fehler;[NICHT] 1 = Schlussvermerk, richtig;mittel: 2. bis 1955 aus Tippfehler.
+D2525;3;ganze Prüfmappe, Zuordnung per Skript;0;0;0;ohne kritischen Fehler;[NICHT] 1 = Schlussvermerk, richtig;«1.2 .» richtig als 1.2.
+D3080;8;ganze Prüfmappe, Zuordnung per Skript;0;0;0;ohne kritischen Fehler;[NICHT] 1 = Schlussvermerk, richtig;a)/b)/c) stehen in der Inhaltsspalte (x 312) wie die übrigen Inhaltszeilen = Liste im Darin, keine eigene Spalte «Bez.».
+D2767;9;ganze Prüfmappe;0;2;0;ohne kritischen Fehler;[NICHT] 4 = Verweis auf andere Bestände und Archivierungsvermerk am Schluss im Info, richtig;mittel: 3. Zeitungszeilen im Titel, 4. Titel/Zeitraum abgeschnitten.
+D3818;12;ganze Prüfmappe, Spalten S. 1 aus dem Zeilen-Cache;0;1;0;ohne kritischen Fehler;[NICHT] 1 = Tabellenkopf «Nr. Titel Bände Jahre», richtig;"1.–10. unter 10. ohne eigene Signatur in der Titelspalte = Darin nach Konvention; mittel: Bände-Spalte im Titel."
+D3474;52;ganze Prüfmappe (alle Seiten), Zuordnung per Skript, Excel IDs 2–3, 18–24;0;2;0;ohne kritischen Fehler;"[SIG?] 9 = wiederholte Mappennummern in neuer Schachtel, richtig als Teile; [NICHT] 10 = Titelblatt, Einleitung S. 1 und Schlussvermerk; [VOR] 2 = «– Kabelkran», «Stahlbauteile» bei gleichlautenden Nachbarn gefunden, stehen richtig";"Nummern 28–31 fehlen schon im PDF; mittel: Obergruppe zerteilt, Zeitraum 1200–1700 aus Durchmessern."

@@ -1,0 +1,23 @@
+### D3842: vorher 4 Einheiten, nachher 2 Einheiten
+WEG  VII.83.:3. [ID 3, Dossier, E1, Eltern -, S.2] Kompagnie Bat. 11 | Genau (=)
+WEG  VII.83.:4. [ID 4, Dossier, E1, Eltern -, S.2] Kompagnie Bat. 11 | Genau (=)
+        D: Kompagnie 1-4 (Verschiedenes), 1871
+        D: Grenzbesetzung 1871, Fotografien
+        D: Major Escher Bataillon 11, 1871
+        D: Brand Bassecourt, Sammlung, 1871
+        D: Verschiedenes, 1871
+        D: Errinnerungen des Bataillons Nr. 11 an die Grenzbesetzung 1871
+        D: Kommandant Graf Bataillon 11, 1871
+        D: Private Schreiben, 1871
+GEÄ  VII.83.:2. [ID 2, Dossier, E1, Eltern -, S.2] Korrespondenz Militär, Broschüren | Von/bis (>= x und <=y)
+        [Darin]
+           +3. Kompagnie Bat. 11, 1871
+           +4. Kompagnie Bat. 11, 1871
+           +Kompagnie 1-4 (Verschiedenes), 1871
+           +Grenzbesetzung 1871, Fotografien
+           +Major Escher Bataillon 11, 1871
+           +Brand Bassecourt, Sammlung, 1871
+           +Verschiedenes, 1871
+           +Errinnerungen des Bataillons Nr. 11 an die Grenzbesetzung 1871
+           +Kommandant Graf Bataillon 11, 1871
+           +Private Schreiben, 1871

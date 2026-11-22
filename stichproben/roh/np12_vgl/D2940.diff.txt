@@ -1,0 +1,37 @@
+### D2940: vorher 16 Einheiten, nachher 15 Einheiten
+WEG  VII.141.:2./T2 [ID 3, Dossier, E2, Eltern VII.141.:2., S.2] Vorträge und nicht einer Publikation zuordenbare Artikel | Von/bis (>= x und <=y)
+        D: Bericht vom VIII internationalen Wohnungskongress in London, 1908
+        D: Vortrag vor Quartierverein Oberstrass, 1910
+        D: Das „Alte Tonhalle-Areal“ Zürich im Wandel der Zeiten 1850 – 1940, 1939
+        D: Studien zur Zürcher Hauptbahnhof-Frage und zur Gestaltung der Bahnhof-Waisenhaus-Quai, an den Stadtrat von Zürich (Überformat), 1941
+        D: Umbau der Grossmünstertreppe, 1942
+        D: Liegenschaft „Zum Sihlgarten“, 1945
+GEÄ  VII.141.:1. [ID 1, Dossier, E1, Eltern -, S.1] Persönliche Unterlagen | Von/bis (>= x und <=y)
+        von: '1890' => '1808'
+        [Darin]
+           +2 Handwerkskundschaften von Jakob Friedrich Fissler von Tann (Überformate), 1808 – 1810
+           +Architektur-Diplom der Eidgenössischen Technischen Hochschule (Überformat), 1899
+           +Ehrenurkunde für Förderung der Internationalen Hygiene Ausstellung Dresen 1911 für Herrn F. Fissler, Stadtbaumeister, Zürich (Überformat)
+           +Anerkennungsurkunde für die Mitarbeit an der Schweizerischen Landesausstellung in Bern (Überformat), 1914
+           +Bürgerrechtsurkunde der Stadt Zürich (Überformat), 1919
+           +Kolorierte Zeichnung eines säulenflankierten Portals, darüber Christusdarstellung in Tympanon, gez. Friedr. Fissl[er], W. S. 1896[/97], auf Karton aufgezogen, 
+GEÄ  VII.141.:2. [ID 2, Dossier, E1, Eltern -, S.2] Vorträge und nicht einer Publikation zuordenbare Artikel | Von/bis (>= x und <=y)
+        Titel: 'Handwerkskundschaften von Jakob Friedrich Fissler von Tann (Überformate)' => 'Vorträge und nicht einer Publikation zuordenbare Artikel'
+        Stufe: 'Serie' => 'Dossier'
+        von: '1808' => '1908'
+        bis: '1919' => '1945'
+        Entstehungszeitraum, Anm.: '1808 – 1810; Darin: 1896–1919' => ''
+        [Darin]
+           -Architektur-Diplom der Eidgenössischen Technischen Hochschule (Überformat), 1899
+           -Ehrenurkunde für Förderung der Internationalen Hygiene Ausstellung Dresen 1911 für Herrn F. Fissler, Stadtbaumeister, Zürich (Überformat)
+           -Anerkennungsurkunde für die Mitarbeit an der Schweizerischen Landesausstellung in Bern (Überformat), 1914
+           -Bürgerrechtsurkunde der Stadt Zürich (Überformat), 1919
+           -Kolorierte Zeichnung eines säulenflankierten Portals, darüber Christusdarstellung in Tympanon, gez. Friedr. Fissl[er], W. S. 1896[/97], auf Karton aufgezogen, 
+           +Bericht vom VIII internationalen Wohnungskongress in London, 1908
+           +Vortrag vor Quartierverein Oberstrass, 1910
+           +Das „Alte Tonhalle-Areal“ Zürich im Wandel der Zeiten 1850 – 1940, 1939
+           +Studien zur Zürcher Hauptbahnhof-Frage und zur Gestaltung der Bahnhof-Waisenhaus-Quai, an den Stadtrat von Zürich (Überformat), 1941
+           +Umbau der Grossmünstertreppe, 1942
+           +Liegenschaft „Zum Sihlgarten“, 1945
+        Nr. im PDF: '2' => '2.'
+        Prüfhinweise: 'Untereinheiten reichen über den Zeitraum hinaus (1896–1945).' => ''

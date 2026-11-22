@@ -1,0 +1,547 @@
+### D1880: vorher 151 Einheiten, nachher 192 Einheiten
+NEU  V.G.c.50.:F.III.a. [ID 94, Serie, E3, Eltern V.G.c.50.:F.III., S.6] Gebäude der Allgemeinen Verwaltung | Von/bis (>= x und <=y)
+        D: Stadthaus, Stadtkanzlei, Bürohaus an der Walche, Brandwache (Schipfe 30/ 32), Bauten auf Friedhöfen, Amtshäuser I bis IV, Verwaltungsgebäude in Selnau, Polizeia
+        H: Zeitraum aus geschätzten Zeiträumen der Untereinheiten.
+NEU  V.G.c.50.:F.III.a./T2 [ID 95, Dossier, E4, Eltern V.G.c.50.:F.III.a., S.13] Gebäude der Allgemeinen Verwaltung | Genau (=)
+        D: Stadthaus, Stadtkanzlei, Amtshäuser I bis V, Verwaltungsgebäude Selnaustrasse/ Flössergasse/ Gerechtigkeitsgasse, Bürohaus an der Walche, Bauten auf Friedhöfen,
+        D: Vormundschafts- und Armenwesen (Wohlfahrtsamt), Bauamt I (Kanzlei, Strasseninspektorat, Materialverwaltung), Quartierplanbüro, Bebauungsplanbüro, Gartenbauamt, 
+        H: Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.G.c.50.:F.III.a./T3 [ID 96, Dossier, E4, Eltern V.G.c.50.:F.III.a., S.19] Gebäude der Allgemeinen Verwaltung | Von/bis (>= x und <=y)
+        D: Amtshaus I, Schachtel 116
+        D: Amtshaus I-III, Schachtel 117
+        D: Amtshaus III-V, Schachtel 118
+        D: Bauamt I (Gartenbauamt, Kakteenhaus am Mythenquai, Materialverwaltung, Strasseninspektorat), Schachtel 119
+        D: Bauamt I (Stadtgärtnerei, Stadtforstamt), Turn- und Sportamt (Wirtschaftsgebäude Albishorn), Schachtel 120
+        D: Betreibung- und Friedensrichtersämter, Brandwachegebäude, Bürohaus Walche, Friedhöfe und Krematorien (Affoltern, Enzenbühl, Fluntern, Manegg, Nordheim, Oerlikon
+        D: Kreisbüros, Kriegswirtschaftsamt (Lebensmittel- und Brennstoffabteilung), Metropol, Polizeiwache, Stadthaus, Schachtel 122
+        D: Schiessplatz Propstei (Schwamendingen), Schachtel 123
+        D: … (10 Zeilen)
+        H: Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.G.c.50.:F.III.b. [ID 97, Serie, E3, Eltern V.G.c.50.:F.III., S.7] Gebäude des Gesundheits- und Landwirtschaftsamtes/ Wirtschaftsamtes | 
+        D: Arbeitsamt, Poliklinik, Chemisches Laboratorium, Schlachthof, Sperrgutzerkleinerungs-Anlage, Badeanstalten, Strandbad am Mythenquai, Bedürfnisanstalten und Piss
+        H: Kein Zeitraum gefunden (auch nicht in den Untereinheiten).
+NEU  V.G.c.50.:F.III.b./T2 [ID 98, Dossier, E4, Eltern V.G.c.50.:F.III.b., S.13] Gebäude des Gesundheits- und Landwirtschaftsamtes/ Wirtschaftsamtes | 
+        D: Badeanstalten (Letten, Stadthausquai, Unterer Mühlesteg, Utoquai), Strandbad Mythenquai, Frauenbadeanstalt Belvoirpark, Badeanstalten (Allgemeines), Desinfektio
+        H: Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.
+NEU  V.G.c.50.:F.III.b./T3 [ID 99, Dossier, E4, Eltern V.G.c.50.:F.III.b., S.20] Gesundheits- und Landwirtschaftsamt | 
+        D: Badeanlagen (Allenmoos, Belvoirpark, Bürkliplatz, Höngg, Letten, Quaipark, Schanzengraben, Tiefenbrunnen, Utoquai, Wollishofen), Schachtel 126
+        D: Strandbad Mythenquai (Frauen- und Männergarderoben), Schachtel 127
+        D: Bedürfnisanstalten, Krankenhäuser (Chemisches Laboratorium, Diakonenhaus Erlenhof, Desinfektionsanstalt Sihlquai, Notspital Rohr, Haus Freudenbergstrasse 93, Ho
+        D: Kadaververwertungsanstalt, Kehrichtverbrennungsanlage, Krankenversicherungsamt, Schlachthof, Öffentliche Waschküchen Hardturmstrasse, Arbeitsamt, Schachtel 129
+        H: Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.
+NEU  V.G.c.50.:F.III.c. [ID 100, Serie, E3, Eltern V.G.c.50.:F.III., S.7] Gebäude des Schulamtes | 
+        D: Schulhäuser und Turnhallen (Triemlistrasse, In der Ey, Bläsistrasse, Bühl, Buhn, Feldstrasse, Friesenberg, Hainerweg, Halde, Hirschengraben, Höngg, Hohe Promena
+        D: Allgemeines (Schulsammlungen, Schulprovisorien, Gewerbeschulhaus [mit gemieteten Lokalen], Gemietete Schullokale, Freiluftschulen, Jugendherbergen, Kindergärten
+        H: Kein Zeitraum gefunden (auch nicht in den Untereinheiten).
+NEU  V.G.c.50.:F.III.c./T2 [ID 101, Dossier, E4, Eltern V.G.c.50.:F.III.c., S.14] Gebäude des Schulamtes | 
+        D: Schulhäuser und Kindergärten (Aegerten, Aemtlerstrasse, Albisrieden, Altstetten, Bühl, Feldstrasse, Friesenberg, Gablerstrasse, Hainerweg, Hirschengraben, Hochs
+        H: Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.
+NEU  V.G.c.50.:F.III.c./T3 [ID 102, Dossier, E4, Eltern V.G.c.50.:F.III.c., S.20] Gebäude des Schulamtes (Schulhäuser und Turnhallen) | 
+        D: Allgemeines (Schanzengraben, Seebacherstrasse, Spielwiese Waldgarten, Stapferstrasse/ Herrenbergstrasse, Weinbergstrasse), Schachtel 130
+        D: Röslistrasse, Schachtel 131
+        D: Aegertenstrasse, Aemtlerstrasse, Ahornstrasse, Altstetterstrasse, Bertastrasse, Biberlinstrasse, Brauerstrasse, Bühl, Buhn, Buhnrain, Dachslernstrasse, Entlisbe
+        D: Gabler, Gotthelfstrasse, Grossmünster, Gubel, Hainerweg, Haldenschulhaus Regensbergstrasse, Hardplatz, Herostrasse, Hirschengraben, Hochstrasse, Hofackerstrasse
+        D: Kernstrasse, Klingenstrasse, Kolbenacker, Lavaterstrasse, Leimbach I, Schachtel 134
+        D: Leimbach II, Letten, Leutholdstrasse, Liguster, Limmatstrasse, Lintheschergasse, Maienstrasse, Manegg, Milchbuck, Mühlebachstrasse, Münchhaldenstrasse, Neumünst
+        D: Scherrstrasse, Schulhausstrasse, Seebacherstrasse, Seefeldstrasse, Sihlfeld, Triemli, Uetliberg, Waidhalde, Weinbergstrasse, Wengistrasse, Witikon, Wolfbach, Wo
+        D: Klingenstrasse (Pläne und Rechnungen), Lavater (Pläne und Rechnungen), Turnhalle Ilgenstrasse (Pläne und Rechnungen), Schachtel 137
+        D: … (14 Zeilen)
+        H: Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.
+NEU  V.G.c.50.:F.III.d. [ID 103, Serie, E3, Eltern V.G.c.50.:F.III., S.7] Bezirksgebäude | 
+        H: Kein Zeitraum gefunden (auch nicht in den Untereinheiten).
+NEU  V.G.c.50.:F.III.d./T2 [ID 104, Dossier, E4, Eltern V.G.c.50.:F.III.d., S.14] Bezirksgebäude | 
+        H: Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.
+NEU  V.G.c.50.:F.III.d./T3 [ID 105, Dossier, E4, Eltern V.G.c.50.:F.III.d., S.21] Bezirksgebäude | 
+        H: Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.
+NEU  V.G.c.50.:F.III.e. [ID 106, Serie, E3, Eltern V.G.c.50.:F.III., S.7] Gebäude des Finanzamtes | 
+        D: Fiskalische Liegenschaften und Wirtschaftsgebäude (Bauschänzli, Häringstrasse, Platzpromenade, Strohhof, Wohnkolonien Birkenhof, Bullingerhof, Erismannhof, Frie
+        H: Kein Zeitraum gefunden (auch nicht in den Untereinheiten).
+NEU  V.G.c.50.:F.III.e./T2 [ID 107, Dossier, E4, Eltern V.G.c.50.:F.III.e., S.14] Gebäude des Finanzamtes | 
+        D: Altes Tonhalleareal, Schaustellplätze, Wirtschaftsgebäude (Zürichhorn, Belvoirpark), Wohnkolonien (Birkenhof, Brunnenhof, Bullingerhof, Erismannhof, Friesenberg
+        H: Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.
+NEU  V.G.c.50.:F.III.e./T3 [ID 108, Dossier, E4, Eltern V.G.c.50.:F.III.e., S.21] Gebäude des Finanzamtes | 
+        D: Verschiedene Gebäude (Bauernhaus Fahr, Haus zum Napf, Pestalozzihaus Burghof), Schachtel 145
+        D: Wohnkolonien, Wirtschaftsgebäude, Altstadtsanierung, Schachtel 146
+        D: Verschiedenes, Schachtel 147
+        H: Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.
+NEU  V.G.c.50.:F.III.f. [ID 109, Serie, E3, Eltern V.G.c.50.:F.III., S.7] Gebäude des Wohlfahrtsamtes | 
+        D: Altersheime Rosengarten (Oberuster), Waldfrieden (Pfäffikon), Jugendheim Erika Rötelstrasse, Kindererholungsheime Rivapiana (Minusio-Locarno), St. Peter (Graubü
+        H: Kein Zeitraum gefunden (auch nicht in den Untereinheiten).
+NEU  V.G.c.50.:F.III.f./T2 [ID 110, Dossier, E4, Eltern V.G.c.50.:F.III.f., S.14] Gebäude des Wohlfahrtsamtes | 
+        D: Tagesheime, Kinderkrippen, Jugendhorte (Hirschengraben 42), Altersheime Rosengarten (Oberuster), Waldfrieden (Pfäffikon), Bürgerasyl, Bürgerstube, Mädchenerholu
+        H: Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.
+NEU  V.G.c.50.:F.III.f./T3 [ID 111, Dossier, E4, Eltern V.G.c.50.:F.III.f., S.21] Gebäude des Wohlfahrtsamtes | 
+        D: Altersheime (Doldertal, Ebelstrasse, Lilienberg [Affoltern], Plattenhof zum Rosengarten [Oberuster], Sonnenhof [Erlenbach]), Pfrundhaus und Männerhaus Leonhards
+        D: Mädchenerholungsheim Gais, Kinderheim Hegi (Winterthur), Kindererholungsheim Laret, Säuglingsheim Ottenweg, Kindererholungsheim Rivapiana, Kinderheim Rosenhügel
+        D: Knabenheim Selnau, Jugendheim Artergut, Pestalozziheim Bethesda (Redlikon-Stäfa), Jugendheim Erika Rötelstrasse, Jugendheim Florhof, Mädchenasyl Heimgarten (Bül
+        D: Jugendheim Neumünsterallee, Mädchenheim Neumünsterstrasse, Männerheim Weid (Rossau-Mettmenstetten), Schachtel 151
+        D: Männerheim Weid (Rossau-Mettmenstetten), Schachtel 152
+        H: Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.
+NEU  V.G.c.50.:F.III.g. [ID 112, Serie, E3, Eltern V.G.c.50.:F.III., S.7] Bauten auf Spiel-, Sport- und Schiessplätzen | 
+        H: Kein Zeitraum gefunden (auch nicht in den Untereinheiten).
+NEU  V.G.c.50.:F.III.g./T2 [ID 113, Dossier, E4, Eltern V.G.c.50.:F.III.g., S.14] Bauten auf Spiel-, Sport- und Schiessplätzen | 
+        D: Schiessplätze (Rehalp, Allmend Fluntern, Albisgütli), Allgemeines
+        H: Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.
+NEU  V.G.c.50.:F.III.g./T3 [ID 114, Dossier, E4, Eltern V.G.c.50.:F.III.g., S.22] Bauten auf Spiel-, Sport- und Schiessplätzen, Tramwartehallen [Änderung gegenüber dem Registraturplan] | 
+        D: Sportanlage Sihlhölzli, Sportplätze (Förrlibuck, Hardhof, Hönggerberg, Letzigrund, Utogrund, Wallisellenstrasse), Akten betreffend Verrechnung von Gebühren für 
+        D: Schiessplätze (Albisgütli, Schwamendingen, Bühl, Altstetten, Allmend, Hasenrain, Allgemeines), Tramwartehallen (Albisriederplatz, Bahnhofplatz, Rehalp, Schaffha
+        H: Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.
+NEU  V.G.c.50.:F.III.h. [ID 115, Serie, E3, Eltern V.G.c.50.:F.III., S.7] Verschiedene Bauten [Änderung gegenüber dem Registraturplan] | 
+        D: Landesmuseum, Seidenwebschule und Arbeiterwohnungen der Wasserversorgung Wasserwerkstrasse/ Imfeldsteig, Häuserabbruch, Anpassungsarbeiten, Schwänekolonie, Vers
+        H: Kein Zeitraum gefunden (auch nicht in den Untereinheiten).
+NEU  V.G.c.50.:F.III.h./T2 [ID 116, Dossier, E4, Eltern V.G.c.50.:F.III.h., S.14] Verschiedene Bauten [Änderung gegenüber dem Registraturplan] | 
+        D: Landesmuseum, Renovations- und Abbrucharbeiten, Verschiedenes
+        H: Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.
+NEU  V.G.c.50.:F.III.h./T3 [ID 117, Dossier, E4, Eltern V.G.c.50.:F.III.h., S.22] Industrielle Betriebe | 
+        D: Gaswerk, Elektrizitätswerk, Strassenbahn (Garagen, Magazingebäude u. a.), Wasserversorgung
+        H: Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.
+NEU  V.G.c.50.:F.III.i. [ID 120, Dossier, E3, Eltern V.G.c.50.:F.III., S.22] Verschiedene Bauten | 
+        D: Dienstgebäude Strasseninspektorat Hornbach, Schwänekolonie, Volière, Villa Rietberg, Rathaus, Landesmuseum, Muraltengut, Umbau Krematorium, Allgemeines
+        H: Kein Zeitraum gefunden.
+NEU  V.G.c.50.:H.II.a. [ID 145, Serie, E3, Eltern V.G.c.50.:H.II., S.8] Verwaltungs- und Dienstgebäude | Von/bis (>= x und <=y)
+        D: Amtshäuser III und IV (Wettbewerb Bemalung der Nischen), Brandwache Zürich 3 (Kostenvoranschlag), Schachtel 19
+        D: Materialverwaltung, Dienstgebäude Zürich 6, Neubauten im Bullingerhof 1935/36 (Werkverträge), Schachtel 20
+        D: Amtshaus V (Kostenvoranschlag, Berichte, Pläne), Schachtel 21
+        D: Amtshaus V (Gutachten, Bauprogramme, Raumbedürfnisse [Umfrage 1927], Akten ab 1922, Pläne), Schachtel 22
+        D: Amtshaus V (Korrespondenz ab 1921 [mit Fotos]), Schachtel 23
+        H: Zeitraum aus geschätzten Zeiträumen der Untereinheiten.
+NEU  V.G.c.50.:H.II.a./T2 [ID 146, Dossier, E4, Eltern V.G.c.50.:H.II.a., S.23] Verwaltungs- und Dienstgebäude | 
+        D: Amtshaus V (Zentralgarage), Schachtel 163-164
+        D: Zentralwerkstätte (Projektbesichtigung, Protokolle, Beschlüsse, Korrespondenz, Vergebungen, Berichte), Schachtel 165
+        D: Zentralwerkstätte (Pläne), Schachtel 166
+        D: EWZ-Verwaltungsgebäude (Protokolle, Beschlüsse, Arbeitsvergebungen, Bauabrechnung, Korrespondenz), Schachtel 167
+        D: EWZ-Verwaltungsgebäude (Kostenvoranschlag, Wandmosaik), Schachtel 168
+        D: Brandwache (Protokolle, Verträge, Korrespondenz, Arbeitsvergebungen), Schachtel 169
+        H: Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.
+Kein Zeitraum gefunden.
+NEU  V.G.c.50.:H.II.b. [ID 147, Serie, E3, Eltern V.G.c.50.:H.II., S.8] Gebäude des Schulamtes | Von/bis (>= x und <=y)
+        D: Albisrieden (Protokolle, Arbeitsvergebungen), Schachtel 23
+        D: Albisrieden (Korrespondenz, Empfehlungen, Beschwerden, Verträge, Wettbewerbsprogramm, Kostenvoranschlag, Fotos), Schachtel 24
+        D: Ackermannstrasse, Hard, Balgristquartier, Seebach, Schachtel 25
+        D: Kartaus, Leutholdstrasse, Witikon, Schachtel 26
+        D: Linthescher, Oberstrass, Wiedikon (ab 1918), Sihlhölzli, Schachtel 27
+        D: Gewerbeschulhaus (ohne Pläne), Schachtel 28
+        D: Wipkingen (Kostenvoranschlag), Verschiedenes, Schachtel 29
+        H: Zeitraum aus geschätzten Zeiträumen der Untereinheiten.
+NEU  V.G.c.50.:H.II.b./T2 [ID 148, Dossier, E4, Eltern V.G.c.50.:H.II.b., S.23] Gebäude des Schulamtes | Von/bis (>= x und <=y)
+        D: Allgemeines 1938-1946, Schachtel 170
+        D: Allgemeines 1948-1955, Schachtel 171
+        D: Vier-Zimmer-Schulpavillon u. a., Schachtel 172-173
+        D: Schulhausrapporte 1943-1955, Schachtel 174
+        D: Schulmobiliar, Schallmessungen, Schachtel 175
+        D: Aegerten (Wettbewerb), Ahornstrasse (Pavillons), Schachtel 176
+        D: In der Ey (Werkverträge), Schachtel 177-178
+        D: In der Ey (Baupläne, Kostenvoranschläge), Schachtel 179-180
+        D: … (97 Zeilen)
+        H: Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.G.c.50.:H.II.c. [ID 149, Serie, E3, Eltern V.G.c.50.:H.II., S.9] Wohnungsbau | Von/bis (>= x und <=y)
+        H: Zeitraum aus geschätzten Zeiträumen der Untereinheiten.
+NEU  V.G.c.50.:H.II.c./T2 [ID 150, Dossier, E4, Eltern V.G.c.50.:H.II.c., S.28] Wohnungsbau/ Wohnkolonien | Von/bis (>= x und <=y)
+        D: Neubauten im Bullingerhof (Protokolle, Empfehlungen, Beschwerden, Korrespondenz, Arbeitsvergebungen, Verträge, Kostenvoranschlag), Schachtel 275
+        D: Neubauten im Bullingerhof (Pläne), Schachtel 276
+        D: Heiligfeld (1. Bauetappe), Schachtel 277-278
+        D: Heiligfeld (2. und 3. Bauetappe [Arbeitsvergebungen]), Schachtel 279
+        D: Heiligfeld (3. Bauetappe), Schachtel 280
+        D: Heiligfeld (3. Bauetappe), Manegg (Beschlüsse, Arbeitsvergebungen, Finanzrapporte, Korrespondenz), Schachtel 281
+        D: Fasanenweg (Protokolle, Verfügungen, Finanzrapporte, Arbeitsvergebungen, Korrespondenz, Kostenvergleiche, Kostenvoranschlag), Herbstweg (Verfügungen, Bauabrechn
+        D: Farbhof (Protokolle, Verfügungen, Arbeitsvergebungen, Wettbewerb, Kostenvoranschlag), Schachtel 283
+        D: … (11 Zeilen)
+        H: Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.G.c.50.:H.II.d. [ID 151, Serie, E3, Eltern V.G.c.50.:H.II., S.9] Gebäude des Wohlfahrtsamtes | Genau (=)
+        D: Knabenheim Friesenberg, Verschiedenes
+        H: Zeitraum aus geschätzten Zeiträumen der Untereinheiten.
+NEU  V.G.c.50.:H.II.d./T2 [ID 152, Dossier, E4, Eltern V.G.c.50.:H.II.d., S.28] Gebäude des Wohlfahrtsamtes | Genau (=)
+        D: Volksküche (Protokolle, Beschlüsse, Notizen ab 1929), Schachtel 288
+        D: Volksküche (Gutachten, Verträge, Fotos, Drucksachen, Empfehlungen, Beschwerden, Korrespondenz, Wettbewerb für Steinmosaik ab 1929), Schachtel 289
+        D: Jugendstätte Gfellergut (Protokolle, Beschlüsse, Korrespondenz, Arbeitsvergebungen, Kostenvoranschlag), Schachtel 290
+        D: Personalhäuser Stadtspital Waid (Beschlüsse, Korrespondenz, Kostenvoranschlag, Arbeitsvergebungen), Schachtel 291
+        D: Jugendheim Erika Rötelstrasse (Weisungen, Kostenvoranschlag, Korrespondenz, Projekt), Schachtel 292
+        D: Kinderheim Magdalenenstrasse (Protokolle, Beschlüsse, Kostenvoranschlag, Finanzrapporte, Korrespondenz), Schachtel 293
+        D: Altersiedlung Espenhof I und II (Protokolle, Beschlüsse, Finanzrapporte, Arbeitsvergebungen, Einweihung, Kostenberechnungen, Statuten), Schachtel 294
+        D: Kinderkrippe Pflanzschulstrasse (Weisungen, Protokolle, Arbeitsvergebungen, Rekurse, Kostenvoranschlag), Schachtel 295
+        H: Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.G.c.50.:H.II.e. [ID 153, Serie, E3, Eltern V.G.c.50.:H.II., S.9] Gebäude des Gesundheits- und Landwirtschaftsamtes/ Wirtschaftsamtes | Von/bis (>= x und <=y)
+        D: Kranken- und Diakonissenanstalt Neumünster (Eingabe an den Stadtrat), Altersheim Waid (Wettbewerb, Kostenvoranschlag), Krankenheim Waid, Schachtel 30
+        D: Poliklinik, Wasch- und Badeanstalt Kreis 1, Schwimmbäder (Protokolle, Stiftungsurkunden, Statuten, Drucksachen), Schachtel 31
+        D: Hallenschwimmbad Genossenschaft Sumatra, Hallenschwimmbad Zähringer, Verschiedenes, Schachtel 32
+        H: Zeitraum aus geschätzten Zeiträumen der Untereinheiten.
+NEU  V.G.c.50.:H.II.e./T2 [ID 154, Dossier, E4, Eltern V.G.c.50.:H.II.e., S.29] Gebäude des Gesundheits- und Wirtschaftsamtes | Von/bis (>= x und <=y)
+        D: Freibad Allenmoos (Erweiterung 1956-1957), Freibad Auhof (Beschlüsse, Finanzrapporte, Korrespondenz, Wettbewerb, Arbeitsvergebungen, Kostenvoranschlag), Schacht
+        D: Strandbad Tiefenbrunnen/ Zürichhorn (Protokolle, Beschlüsse, Finanzrapporte, Korrespondenz, Arbeitsvergebungen), Schachtel 297
+        D: Strandbad Tiefenbrunnen/ Zürichhorn (Gutachten, Eröffnung), Schachtel 298
+        D: Hallenschwimmbad im Sihlbadareal (Protokolle, Kostenvoranschlag), Sanitätshilfsstelle für den Luftschutz (Empfehlungen, Beschwerden, Arbeitsvergebungen), Schach
+        D: Sanitätshilfsstelle für den Luftschutz (Wettbewerbsakten, Publikationen, Korrespondenz, Verschiedenes ab 1924), Schachtel 300
+        D: Freibad Letzigraben (Protokolle, Beschlüsse, Korrespondenz), Schachtel 301
+        D: Freibad Letzigraben (Arbeitsvergebungen, Wettbewerbsakten), Schachtel 302
+        D: Freibad Letzigraben (Pläne), Schachtel 303
+        D: … (28 Zeilen)
+        H: Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.G.c.50.:H.II.f. [ID 155, Serie, E3, Eltern V.G.c.50.:H.II., S.9] Kioske, Wartehallen, Bedürfnisanstalten [Änderung gegenüber dem Registraturplan] | 
+        H: Kein Zeitraum gefunden (auch nicht in den Untereinheiten).
+NEU  V.G.c.50.:H.II.f./T2 [ID 156, Dossier, E4, Eltern V.G.c.50.:H.II.f., S.30] Kioske, Wartehallen und Bedürfnisanstalten [Änderung gegenüber dem Registraturplan] | 
+        D: Bedürfnisanstalt am Bellevueplatz, Bedürfnisanstalt mit Wartehalle am Bürkliplatz, Bedürfnisanstalt Belvoirpark, Bedürfnisanstalt, Tramwartehalle und Kiosk im B
+        H: Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.
+NEU  V.G.c.50.:H.II.g. [ID 157, Serie, E3, Eltern V.G.c.50.:H.II., S.9] Friedhöfe und Krematorien | 
+        D: Friedhof Enzenbühl, Krematorium Sihlfeld, Verschiedenes
+        H: Kein Zeitraum gefunden (auch nicht in den Untereinheiten).
+NEU  V.G.c.50.:H.II.g./T2 [ID 158, Dossier, E4, Eltern V.G.c.50.:H.II.g., S.30] Bauten auf Friedhöfen | 
+        D: Friedhof Höngg (enthält Wettbewerb Wandbild in der Abdankungshalle), Schachtel 327
+        D: Friedhof Fluntern, Friedhof Nordheim (Abdankungshalle, Krematorium), Friedhof Sihlfeld A und C (Urnennischenanlage), Schachtel 328
+        H: Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.
+NEU  V.G.c.50.:H.II.h. [ID 159, Serie, E3, Eltern V.G.c.50.:H.II., S.9] Verschiedene Bauten und Denkmäler | Von/bis (>= x und <=y)
+        D: Alfred-Escher-Denkmal (Versetzung), Krematorium Sihlfeld und Amtshäuser III bis V (Berichte und Urteile über Wettbewerbe der Preisgerichte), Waldmann-Denkmal, U
+        D: Planetarium, Sport- und Ausstellungshalle Oerlikon, Stadionhalle Hardau, Kunsthaus, Markthalle, Schachtel 35
+        D: Rüden (Umbau, Pläne ab 1926), Schachtel 36
+        D: Telefonkabinen, Überbauung im Sydefädeli, Hotel Uetliberg, Schachtel 37
+        D: Kongress- und Ausstellungsgebäude (altes Projekt), Schachtel 38
+        D: Altstadtsanierung, Wetterstation Alpenquai, Bootshäuser, Verlängerung Mythenquai (Bauten der Dampfbootgesellschaft u. a.), Verschiedenes, Schachtel 39
+        H: Zeitraum aus geschätzten Zeiträumen der Untereinheiten.
+NEU  V.G.c.50.:H.II.h./T2 [ID 160, Dossier, E4, Eltern V.G.c.50.:H.II.h., S.30] Brunnenanlagen, Denkmäler, Verschiedene Bauten | Von/bis (>= x und <=y)
+        D: Brunnenanlagen Stüssihofstatt, Sihlhölzli, Verschiedene Brunnenanlagen, Fraumünsterdurchgang (Bemalung), Denkmal „Ehrung der Arbeit“ am Helvetiaplatz (Vorakten)
+        D: Gewerkschaftshaus Helvetiaplatz 1922-1934, Kantonale Verwaltungsgebäude Stampfenbach-/ Walchestrasse 1932-1933, Sihlbrücke (Umbau 1927-1933), Wasserkirche-Helmh
+        D: Wasserkirche, Helmhaus und Baugeschichtliches Museum (enthält Akten betreffend Stadtmodell von H. Langmack; erweitertes Dossier 1916-1961), Schachtel 331
+        D: Kirchgemeindehaus Wipkingen 1922-1935, Volkshaus Industriequartier 1920-1936, Schachtel 332
+        D: Schanzengraben (Kiosk, Bootsunterstände, Ufergestaltung), Schachtel 333
+        D: Kasino Zürichhorn (Protokolle, Arbeitsvergebungen, Beschlüsse, Korrespondenz, Pläne), Schachtel 334
+        D: Kasino Zürichhorn (Wettbewerbsakten, Kostenvoranschlag), Schachtel 335
+        D: Globus (Berichte, Beschlüsse, Korrespondenz), Schachtel 336
+        D: … (30 Zeilen)
+        H: Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+GEÄ  V.G.c.50.:F.III. [ID 93, Serie, E2, Eltern V.G.c.50.:F., S.6] Neu- und Umbauten (mit Plänen) | Von/bis (>= x und <=y)
+        Titel: 'Neu- und Umbauten (mit Plänen) a. Gebäude der Allgemeinen Verwaltung, Schachtel 8' => 'Neu- und Umbauten (mit Plänen)'
+        [Darin]
+           -Stadthaus, Stadtkanzlei, Bürohaus an der Walche, Brandwache (Schipfe 30/ 32), Bauten auf Friedhöfen, Amtshäuser I bis IV, Verwaltungsgebäude in Selnau, Polizei
+           -b. Gebäude des Gesundheits- und Landwirtschaftsamtes/ Wirtschaftsamtes, Schachtel 9
+           -Arbeitsamt, Poliklinik, Chemisches Laboratorium, Schlachthof, Sperrgutzerkleinerungs-Anlage, Badeanstalten, Strandbad am Mythenquai, Bedürfnisanstalten und Pis
+           -c. Gebäude des Schulamtes, Schachtel 10-11
+           -Schulhäuser und Turnhallen (Triemlistrasse, In der Ey, Bläsistrasse, Bühl, Buhn, Feldstrasse, Friesenberg, Hainerweg, Halde, Hirschengraben, Höngg, Hohe Promen
+           -Allgemeines (Schulsammlungen, Schulprovisorien, Gewerbeschulhaus [mit gemieteten Lokalen], Gemietete Schullokale, Freiluftschulen, Jugendherbergen, Kindergärte
+           -d. Bezirksgebäude
+           -e. Gebäude des Finanzamtes, Schachtel 12
+           -Fiskalische Liegenschaften und Wirtschaftsgebäude (Bauschänzli, Häringstrasse, Platzpromenade, Strohhof, Wohnkolonien Birkenhof, Bullingerhof, Erismannhof, Fri
+           -f. Gebäude des Wohlfahrtsamtes, Schachtel 13
+           -Altersheime Rosengarten (Oberuster), Waldfrieden (Pfäffikon), Jugendheim Erika Rötelstrasse, Kindererholungsheime Rivapiana (Minusio-Locarno), St. Peter (Graub
+           -g. Bauten auf Spiel-, Sport- und Schiessplätzen
+           -h. Verschiedene Bauten [Änderung gegenüber dem Registraturplan]
+           -Landesmuseum, Seidenwebschule und Arbeiterwohnungen der Wasserversorgung Wasserwerkstrasse/ Imfeldsteig, Häuserabbruch, Anpassungsarbeiten, Schwänekolonie, Ver
+           +
+GEÄ  V.G.c.50.:F.III./T2 [ID 118, Dossier, E3, Eltern V.G.c.50.:F.III., S.13] Neu- und Umbauten (mit Plänen) | 
+        Titel: 'Neu- und Umbauten (mit Plänen) a. Gebäude der Allgemeinen Verwaltung, Schachtel 53-54' => 'Neu- und Umbauten (mit Plänen)'
+        Entstehungszeitraum: 'Genau (=)' => ''
+        von: '1934' => ''
+        [Darin]
+           -Stadthaus, Stadtkanzlei, Amtshäuser I bis V, Verwaltungsgebäude Selnaustrasse/ Flössergasse/ Gerechtigkeitsgasse, Bürohaus an der Walche, Bauten auf Friedhöfen
+           -Vormundschafts- und Armenwesen (Wohlfahrtsamt), Bauamt I (Kanzlei, Strasseninspektorat, Materialverwaltung), Quartierplanbüro, Bebauungsplanbüro, Gartenbauamt,
+           -b. Gebäude des Gesundheits- und Landwirtschaftsamtes/ Wirtschaftsamtes
+           -Badeanstalten (Letten, Stadthausquai, Unterer Mühlesteg, Utoquai), Strandbad Mythenquai, Frauenbadeanstalt Belvoirpark, Badeanstalten (Allgemeines), Desinfekti
+           -c. Gebäude des Schulamtes, Schachtel 55
+           -Schulhäuser und Kindergärten (Aegerten, Aemtlerstrasse, Albisrieden, Altstetten, Bühl, Feldstrasse, Friesenberg, Gablerstrasse, Hainerweg, Hirschengraben, Hoch
+           -d. Bezirksgebäude, Schachtel 56
+           -e. Gebäude des Finanzamtes
+           -Altes Tonhalleareal, Schaustellplätze, Wirtschaftsgebäude (Zürichhorn, Belvoirpark), Wohnkolonien (Birkenhof, Brunnenhof, Bullingerhof, Erismannhof, Friesenber
+           -f. Gebäude des Wohlfahrtsamtes
+           -Tagesheime, Kinderkrippen, Jugendhorte (Hirschengraben 42), Altersheime Rosengarten (Oberuster), Waldfrieden (Pfäffikon), Bürgerasyl, Bürgerstube, Mädchenerhol
+           -g. Bauten auf Spiel-, Sport- und Schiessplätzen
+           -Schiessplätze (Rehalp, Allmend Fluntern, Albisgütli), Allgemeines
+           -h. Verschiedene Bauten [Änderung gegenüber dem Registraturplan]
+           -Landesmuseum, Renovations- und Abbrucharbeiten, Verschiedenes
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => ''
+        [Prüfhinweise]
+           -Zeitraum aus den Jahreszahlen im Darin geschätzt.
+           +Kein Zeitraum gefunden.
+GEÄ  V.G.c.50.:F.III./T3 [ID 119, Dossier, E3, Eltern V.G.c.50.:F.III., S.19] Neu- und Umbauten (mit Plänen) | Von/bis (>= x und <=y)
+        Titel: 'Neu- und Umbauten 1937-1948 (mit Plänen) a. Gebäude der Allgemeinen Verwaltung, Schachtel 116-125' => 'Neu- und Umbauten (mit Plänen)'
+        [Darin]
+           -Amtshaus I, Schachtel 116
+           -Amtshaus I-III, Schachtel 117
+           -Amtshaus III-V, Schachtel 118
+           -Bauamt I (Gartenbauamt, Kakteenhaus am Mythenquai, Materialverwaltung, Strasseninspektorat), Schachtel 119
+           -Bauamt I (Stadtgärtnerei, Stadtforstamt), Turn- und Sportamt (Wirtschaftsgebäude Albishorn), Schachtel 120
+           -Betreibung- und Friedensrichtersämter, Brandwachegebäude, Bürohaus Walche, Friedhöfe und Krematorien (Affoltern, Enzenbühl, Fluntern, Manegg, Nordheim, Oerliko
+           -Kreisbüros, Kriegswirtschaftsamt (Lebensmittel- und Brennstoffabteilung), Metropol, Polizeiwache, Stadthaus, Schachtel 122
+           -Schiessplatz Propstei (Schwamendingen), Schachtel 123
+           -Transformatorenstationen, Stiftungen, Verwaltungsgebäude Selnau, Volksküchen (enthält Bericht über Sudienreise nach Berlin und Kopenhagen 1943), Speiselokale, 
+           -Bauprojekt im Laubegg, Mietobjekte für das Militär, Übernahme von Gebäuden der Landesausstellung 1939, Verwaltungsgebäude (Kreis 5), Neubau Münsterhof 3, Poliz
+           -b. Gesundheits- und Landwirtschaftsamt, Schachtel 126-129
+           -Badeanlagen (Allenmoos, Belvoirpark, Bürkliplatz, Höngg, Letten, Quaipark, Schanzengraben, Tiefenbrunnen, Utoquai, Wollishofen), Schachtel 126
+           -Strandbad Mythenquai (Frauen- und Männergarderoben), Schachtel 127
+           -Bedürfnisanstalten, Krankenhäuser (Chemisches Laboratorium, Diakonenhaus Erlenhof, Desinfektionsanstalt Sihlquai, Notspital Rohr, Haus Freudenbergstrasse 93, H
+           -Kadaververwertungsanstalt, Kehrichtverbrennungsanlage, Krankenversicherungsamt, Schlachthof, Öffentliche Waschküchen Hardturmstrasse, Arbeitsamt, Schachtel 129
+           -c. Gebäude des Schulamtes (Schulhäuser und Turnhallen), Schachtel 130-143
+           -Allgemeines (Schanzengraben, Seebacherstrasse, Spielwiese Waldgarten, Stapferstrasse/ Herrenbergstrasse, Weinbergstrasse), Schachtel 130
+           -Röslistrasse, Schachtel 131
+           -Aegertenstrasse, Aemtlerstrasse, Ahornstrasse, Altstetterstrasse, Bertastrasse, Biberlinstrasse, Brauerstrasse, Bühl, Buhn, Buhnrain, Dachslernstrasse, Entlisb
+           -Gabler, Gotthelfstrasse, Grossmünster, Gubel, Hainerweg, Haldenschulhaus Regensbergstrasse, Hardplatz, Herostrasse, Hirschengraben, Hochstrasse, Hofackerstrass
+           -Kernstrasse, Klingenstrasse, Kolbenacker, Lavaterstrasse, Leimbach I, Schachtel 134
+           -Leimbach II, Letten, Leutholdstrasse, Liguster, Limmatstrasse, Lintheschergasse, Maienstrasse, Manegg, Milchbuck, Mühlebachstrasse, Münchhaldenstrasse, Neumüns
+           -Scherrstrasse, Schulhausstrasse, Seebacherstrasse, Seefeldstrasse, Sihlfeld, Triemli, Uetliberg, Waidhalde, Weinbergstrasse, Wengistrasse, Witikon, Wolfbach, W
+           -Klingenstrasse (Pläne und Rechnungen), Lavater (Pläne und Rechnungen), Turnhalle Ilgenstrasse (Pläne und Rechnungen), Schachtel 137
+           -Mühlebach (Pläne und Rechnungen, Anbau Turnhalle und Platzumgestaltung), Schachtel 138
+           -Töchterschule (Staatsbeiträge u. a.), Gewerbeschule, Kunstgewerbemuseum, Bergschule Casoja, Horte, Schulspeiselokale, Ferien- und Tagesheime, Gemietete Schullo
+           -Schulmobiliar, Werkstätten für das Werkjahr, Schachtel 140
+           -Kindergärten (Apfelbaumstrasse, Altstetterstrasse, Aemtlerstrasse, Albisriederstrasse, Badenerstrasse, Dachslernstrasse, Döltschi, Friedheimstrasse, Friesstras
+           -Turnhallen (Bühl, Feldstrasse, Hohe Promenade, Hirschengraben, Gabler, Ilgenstrasse, Letten, Limmatstrasse, Milchbuck, Münchhalde, Näfgasse, Riedenhalde, Rosen
+           -Verschiedenes, Schachtel 143
+           -d. Bezirksgebäude, Schachtel 144
+           -e. Gebäude des Finanzamtes, Schachtel 145-147
+           -Verschiedene Gebäude (Bauernhaus Fahr, Haus zum Napf, Pestalozzihaus Burghof), Schachtel 145
+           -Wohnkolonien, Wirtschaftsgebäude, Altstadtsanierung, Schachtel 146
+           -Verschiedenes, Schachtel 147
+           -f. Gebäude des Wohlfahrtsamtes, Schachtel 148-152
+           -Altersheime (Doldertal, Ebelstrasse, Lilienberg [Affoltern], Plattenhof zum Rosengarten [Oberuster], Sonnenhof [Erlenbach]), Pfrundhaus und Männerhaus Leonhard
+           -Mädchenerholungsheim Gais, Kinderheim Hegi (Winterthur), Kindererholungsheim Laret, Säuglingsheim Ottenweg, Kindererholungsheim Rivapiana, Kinderheim Rosenhüge
+           -Knabenheim Selnau, Jugendheim Artergut, Pestalozziheim Bethesda (Redlikon-Stäfa), Jugendheim Erika Rötelstrasse, Jugendheim Florhof, Mädchenasyl Heimgarten (Bü
+           -Jugendheim Neumünsterallee, Mädchenheim Neumünsterstrasse, Männerheim Weid (Rossau-Mettmenstetten), Schachtel 151
+           -Männerheim Weid (Rossau-Mettmenstetten), Schachtel 152
+           -g. Bauten auf Spiel-, Sport- und Schiessplätzen, Tramwartehallen [Änderung gegenüber dem Registraturplan], Schachtel 153-154
+           -Sportanlage Sihlhölzli, Sportplätze (Förrlibuck, Hardhof, Hönggerberg, Letzigrund, Utogrund, Wallisellenstrasse), Akten betreffend Verrechnung von Gebühren für
+           -Schiessplätze (Albisgütli, Schwamendingen, Bühl, Altstetten, Allmend, Hasenrain, Allgemeines), Tramwartehallen (Albisriederplatz, Bahnhofplatz, Rehalp, Schaffh
+           -h. Industrielle Betriebe, Schachtel 155
+           -Gaswerk, Elektrizitätswerk, Strassenbahn (Garagen, Magazingebäude u. a.), Wasserversorgung
+           -i. Verschiedene Bauten, Schachtel 156
+           -Dienstgebäude Strasseninspektorat Hornbach, Schwänekolonie, Volière, Villa Rietberg, Rathaus, Landesmuseum, Muraltengut, Umbau Krematorium, Allgemeines
+           +
+GEÄ  V.G.c.50.:H.II. [ID 144, Serie, E2, Eltern V.G.c.50.:H., S.8] Neubauten (mit Plänen) Schachteln19-39 | Von/bis (>= x und <=y)
+        Titel: 'Neubauten (mit Plänen) Schachteln19-39 a. Verwaltungs- und Dienstgebäude, Schachtel 19-23' => 'Neubauten (mit Plänen) Schachteln19-39'
+        [Darin]
+           -Amtshäuser III und IV (Wettbewerb Bemalung der Nischen), Brandwache Zürich 3 (Kostenvoranschlag), Schachtel 19
+           -Materialverwaltung, Dienstgebäude Zürich 6, Neubauten im Bullingerhof 1935/36 (Werkverträge), Schachtel 20
+           -Amtshaus V (Kostenvoranschlag, Berichte, Pläne), Schachtel 21
+           -Amtshaus V (Gutachten, Bauprogramme, Raumbedürfnisse [Umfrage 1927], Akten ab 1922, Pläne), Schachtel 22
+           -Amtshaus V (Korrespondenz ab 1921 [mit Fotos]), Schachtel 23
+           -b. Gebäude des Schulamtes, Schachtel 23-29
+           -Albisrieden (Protokolle, Arbeitsvergebungen), Schachtel 23
+           -Albisrieden (Korrespondenz, Empfehlungen, Beschwerden, Verträge, Wettbewerbsprogramm, Kostenvoranschlag, Fotos), Schachtel 24
+           -Ackermannstrasse, Hard, Balgristquartier, Seebach, Schachtel 25
+           -Kartaus, Leutholdstrasse, Witikon, Schachtel 26
+           -Linthescher, Oberstrass, Wiedikon (ab 1918), Sihlhölzli, Schachtel 27
+           -Gewerbeschulhaus (ohne Pläne), Schachtel 28
+           -Wipkingen (Kostenvoranschlag), Verschiedenes, Schachtel 29
+           -c. Wohnungsbau, Schachtel 30
+           -d. Gebäude des Wohlfahrtsamtes
+           -Knabenheim Friesenberg, Verschiedenes
+           -e. Gebäude des Gesundheits- und Landwirtschaftsamtes/ Wirtschaftsamtes, Schachtel 30-32
+           -Kranken- und Diakonissenanstalt Neumünster (Eingabe an den Stadtrat), Altersheim Waid (Wettbewerb, Kostenvoranschlag), Krankenheim Waid, Schachtel 30
+           -Poliklinik, Wasch- und Badeanstalt Kreis 1, Schwimmbäder (Protokolle, Stiftungsurkunden, Statuten, Drucksachen), Schachtel 31
+           -Hallenschwimmbad Genossenschaft Sumatra, Hallenschwimmbad Zähringer, Verschiedenes, Schachtel 32
+           -f. Kioske, Wartehallen, Bedürfnisanstalten [Änderung gegenüber dem Registraturplan]
+           -g. Friedhöfe und Krematorien, Schachtel 33
+           -Friedhof Enzenbühl, Krematorium Sihlfeld, Verschiedenes
+           -h. Verschiedene Bauten und Denkmäler, Schachtel 34-39
+           -Alfred-Escher-Denkmal (Versetzung), Krematorium Sihlfeld und Amtshäuser III bis V (Berichte und Urteile über Wettbewerbe der Preisgerichte), Waldmann-Denkmal, 
+           -Planetarium, Sport- und Ausstellungshalle Oerlikon, Stadionhalle Hardau, Kunsthaus, Markthalle, Schachtel 35
+           -Rüden (Umbau, Pläne ab 1926), Schachtel 36
+           -Telefonkabinen, Überbauung im Sydefädeli, Hotel Uetliberg, Schachtel 37
+           -Kongress- und Ausstellungsgebäude (altes Projekt), Schachtel 38
+           -Altstadtsanierung, Wetterstation Alpenquai, Bootshäuser, Verlängerung Mythenquai (Bauten der Dampfbootgesellschaft u. a.), Verschiedenes, Schachtel 39
+           +
+        Schachtel-Nr.: '19-39' => ''
+GEÄ  V.G.c.50.:H.II./T2 [ID 161, Dossier, E3, Eltern V.G.c.50.:H.II., S.23] Neubauten (mit Plänen) | 
+        Titel: 'Neubauten (mit Plänen) a. Verwaltungs- und Dienstgebäude, Schachtel 163-169' => 'Neubauten (mit Plänen)'
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => ''
+        von: '1910' => ''
+        bis: '1964' => ''
+        [Darin]
+           -Amtshaus V (Zentralgarage), Schachtel 163-164
+           -Zentralwerkstätte (Projektbesichtigung, Protokolle, Beschlüsse, Korrespondenz, Vergebungen, Berichte), Schachtel 165
+           -Zentralwerkstätte (Pläne), Schachtel 166
+           -EWZ-Verwaltungsgebäude (Protokolle, Beschlüsse, Arbeitsvergebungen, Bauabrechnung, Korrespondenz), Schachtel 167
+           -EWZ-Verwaltungsgebäude (Kostenvoranschlag, Wandmosaik), Schachtel 168
+           -Brandwache (Protokolle, Verträge, Korrespondenz, Arbeitsvergebungen), Schachtel 169
+           -b. Gebäude des Schulamtes, Schachtel 170-274
+           -Allgemeines 1938-1946, Schachtel 170
+           -Allgemeines 1948-1955, Schachtel 171
+           -Vier-Zimmer-Schulpavillon u. a., Schachtel 172-173
+           -Schulhausrapporte 1943-1955, Schachtel 174
+           -Schulmobiliar, Schallmessungen, Schachtel 175
+           -Aegerten (Wettbewerb), Ahornstrasse (Pavillons), Schachtel 176
+           -In der Ey (Werkverträge), Schachtel 177-178
+           -In der Ey (Baupläne, Kostenvoranschläge), Schachtel 179-180
+           -Allenmoos, Schachtel 181
+           -Altstetterstrasse, Bachtobel, Schachtel 182
+           -Bachtobel, Bucheggplatz, Schachtel 183
+           -Manegg (Werkverträge u. a.), Schachtel 184-185
+           -Buhn (Bauabrechnung, Kostenvoranschlag, Verträge), Schachtel 186-187
+           -Schulpavillon Auf der Egg, Schachtel 188
+           -Schulpavillon Auf der Egg, Schulpavillon Buchwiesen 1951, Schachtel 189
+           -Entlisberg (Arbeitsvergebungen, Beschlüsse, Korrespondenz), Schachtel 190
+           -Entlisberg (Kostenvoranschlag, Protokolle, Wettbewerb 1946-1947), Schachtel 191
+           -Fallätsche, Schachtel 192
+           -Im Lee, Schachtel 193
+           -Triemli (Kostenvoranschlag, Korrespondenz), Schachtel 194
+           -Triemli (Verträge), Schachtel 195
+           -Hochstrasse (Werkverträge), Schachtel 196
+           -Hochstrasse (Kostenvoranschlag, Arbeitsvergebungen), Schachtel 197
+           -Hochstrasse (Beschlüsse, Protokolle, Empfehlungen), Schachtel 198
+           -Hochstrasse (Korrespondenz, Wettbewerbe), Schachtel 199
+           -Friesenberg (Werkverträge), Schachtel 200
+           -Friesenberg (Garantieverzeichnis, Korrespondenz), Schachtel 201
+           -Gewerbeschule (Allgemeines 1927-1930, Protokolle ab 1922), Schachtel 202
+           -Gewerbeschule (Wettbewerbsprogramm, Bauprogramm, Kostenvoranschläge, Berichte), Schachtel 203
+           -Töchterschule Minervastrasse (Kostenvoranschlag, Bauabrechnung, Wettbewerbe), Schachtel 204
+           -Töchterschule Minervastrasse (Wettbewerbe, Protokolle, Beschlüsse), Schachtel 205
+           -Töchterschule Minervastrasse (Arbeitsvergebungen, Eröffnungsakten, Korrespondenz), Schachtel 206
+           -Töchterschule Minervastrasse (Landerwerb), Im Herrlig (Arbeitsvergebungen, Beschlüsse, Finanzrapporte), Schachtel 207
+           -Im Herrlig (Wettbewerb, Korrespondenz), Schachtel 208
+           -Im Herrlig (Kostenvoranschlag), Schachtel 209
+           -Herzogenmühle (Arbeitsvergebungen, Beschlüsse, Kostenvoranschlag), Schachtel 210
+           -Herzogenmühle (Bauabrechnung, Finanzrapporte, Korrespondenz), Schachtel 211
+           -Herzogenmühle (Wettbewerb), Schachtel 212
+           -Holderbach I-II (Wettbewerb, Arbeitsvergebungen, Beschlüsse, Finanzrapporte, Korrespondenz, Kostenvoranschlag), Schachtel 213
+           -Holderbach III (Wettbewerb, Arbeitsvergebungen, Beschlüsse, Finanzrapporte, Korrespondenz, Kostenvoranschlag), Schachtel 214
+           -Im Gut (Arbeitsvergebungen, Beschlüsse, Korrespondenz), Schachtel 215
+           -Im Gut (Protokolle, Wettbewerbe), Schachtel 216
+           -Im Gut (Kostenvoranschlag), Schachtel 217
+           -Im Gut (Pläne), Schachtel 218
+           -Balgrist (Finanzrapporte, Korrespondenz, Arbeitsvergebungen, Protokolle, Verträge, Kostenvoranschlag), Schachtel 219
+           -Chriesiweg (Arbeitsvergebungen, Kostenvoranschlag, Wettbewerb), Schachtel 220
+           -Chriesiweg (Protokolle, Korrespondenz, Beschlüsse), Schachtel 221
+           -Kappeli (Protokolle, Beschlüsse, Empfehlungen, Beschwerden), Schachtel 222
+           -Kappeli (Korrespondenz, Arbeitsvergebungen), Schachtel 223
+           -Kappeli (Bauabrechnung, Kostenvoranschlag), Schachtel 224
+           -Kappeli (Werkverträge, Verschiedenes), Schachtel 225-228
+           -Grütlistrasse (Protokolle, Beschlüsse, Empfehlungen, Beschwerden, Korrespondenz, Arbeitsvergebungen), Goldbrunnenstrasse (Protokolle, Beschlüsse, Verträge, Emp
+           -Pestalozzianum im Beckenhof (Protokolle, Beschlüsse, Empfehlungen, Beschwerden, Vergebungen, Verträge, Korrespondenz), Herzogenmühle, Bergacker, Heiligfeld, Sc
+           -Heiligfeld, Regensberg-/ Gubelstrasse, Sennhauserweg, Schachtel 231
+           -Riedenhaldenstrasse, Kindergarten und Arbeitsschulgebäude Kolbenacker (Arbeitsvergebungen, Beschlüsse, Finanzrapporte, Korrespondenz), Schachtel 232
+           -Kindergarten und Arbeitsschulgebäude Kolbenacker (Wettbewerbe, Expropriation, Verschiedenes), Schachtel 233
+           -Käferholz (Arbeitsvegebungen, Korrespondenz, Beschlüsse), Schachtel 234
+           -Käferholz (Kostenvoranschlag), Schachtel 235
+           -Käferholz (Wettbewerbe, Gutachten), Schachtel 236
+           -Kügeliloo (Protokolle, Beschlüsse, Finanzrapporte, Bauabrechnung, Wettbewerb, Korrespondenz), Schachtel 237
+           -Kügeliloo (Kostenvoranschlag, Arbeitsvergebungen), Schachtel 238
+           -Küngenmatt (Protokolle, Bauabrechnung, Arbeitsvergebungen, Beschlüsse, Einweihung 1954, Finanzrapporte, Korrespondenz, Wettbewerb, Expropriation), Schachtel 23
+           -Küngenmatt (Kostenvoranschlag), Schachtel 240
+           -Kornhausbrücke (Arbeitsvergebungen, Protokolle, Beschlüsse, Korrespondenz, Empfehlungen, Beschwerden, Schachtel 241
+           -Kornhausbrücke (Wettbewerbe), Schachtel 242
+           -Kornhausbrücke (Werkverträge, Kostenvoranschlag), Schachtel 243
+           -LachenzelgI (Protokolle, Beschlüsse, Arbeitsvergebungen, Korrespondenz), Schachtel 244
+           -Lachenzelg I (Kostenvoranschlag), Schachtel 245
+           -Lachenzelg II (Beschlüsse, Arbeitsvergebungen, Korrespondenz,, Finanzrapporte, Kostenvoranschlag), Schachtel 246
+           -Leimbach (Kostenvoranschlag, Verschiedenes), Schachtel 247
+           -Letzigraben (Arbeitsvergebungen, Beschlüsse, Finanzrapporte, Korrespondenz, Wettbewerb), Schachtel 248
+           -Letzigraben (Kostenvoranschlag), Schachtel 249
+           -Luchswiesengraben (Arbeitsvergebungen, Beschlüsse, Korrespondenz, Wettbewerb), Schachtel 250
+           -Luchswiesengraben (Kostenvoranschlag), Schachtel 251
+           -Maienstrasse (Protokolle, Beschlüsse, Kostenvoranschlag), Schachtel 252
+           -Maienstrasse (Werkverträge), Schachtel 253
+           -Rebhügel (Protokolle, Beschlüsse, Korrespondenz), Schachtel 254
+           -Rebhügel (Kostenvoranschlag), Schachtel 255
+           -Rebhügel (Projektpläne, Wettbewerbe, Vorlagen), Schachtel 256
+           -Saatlen (1. und 2. Bauetappe), Schachtel 257
+           -Saatlen (2. Bauetappe), Schachtel 258
+           -Saatlen (3. Bauetappe), Schachtel 259
+           -Propstei (1. Bauetappe), Schachtel 260
+           -Propstei (2. Bauetappe, Kostenvoranschlag), Schachtel 261
+           -Seidenwebschule (Protokolle, Gutachten, Baukostenabrechnung), Schachtel 262
+           -Seidenwebschule (Verträge, Kostenvoranschlag, Baukostenabrechnung), Schachtel 263
+           -Turnhalle Letten (Protokolle, Empfehlungen, Beschwerden, Korrespondenz, Arbeitsvergebungen), Schachtel 264
+           -Turnhalle Hofacker (Verträge, Beschlüsse, Empfehlungen, Beschwerden, Korrespondenz, Arbeitsvergebungen), Schachtel 265
+           -Utogrund (Verträge), Schachtel 266
+           -Utogrund (Kostenvoranschlag, Wettbewerb, Protokolle, Korrespondenz), Schachtel 267
+           -Turnhalle Sihlhölzli (Wettbewerb über Freiplastiken) Turnhalle Kartaus (Arbeitsvergebungen, Beschlüsse, Korrespondenz, Protokolle, Wettbewerb), Schachtel 268
+           -Turnhalle Kartaus (Kostenvoranschlag, Pläne), Schachtel 269
+           -Schulzahnklinik Friedrichstrasse (Protokolle, Verfügungen, Kostenvoranschlag, Bauabrechnung), Heubeeribühl (Arbeitsvergebungen, Beschlüsse, Finanzrapporte, Kos
+           -Heilighüsli (Arbeitsvergebungen, Beschlüsse, Finanzrapporte, Korrespondenz, Kostenvoranschlag), Schachtel 271
+           -Tannenrauch-/ Thujastrasse (Protokolle, Berichte, Studienreise, Wettbewerbsunterlagen, Wettbewerbsprogramme), Sportplätze Wallisellenstrasse, Schachtel 272
+           -Untermoos (Bauabrechnung, Arbeitsvergebungen, Beschlüsse, Finanzrapporte, Korrespondenz, Wettbewerb), Schachtel 273
+           -Untermoos (Pläne), Werkjahrschulhaus an der Wehntalerstrasse (Arbeitsvergebungen, Beschlüsse, Finanzrapporte, Kostenvoranschlag, Korrespondenz, Pressekonferenz
+           -c. Wohnungsbau/ Wohnkolonien, Schachtel 275-287
+           -Neubauten im Bullingerhof (Protokolle, Empfehlungen, Beschwerden, Korrespondenz, Arbeitsvergebungen, Verträge, Kostenvoranschlag), Schachtel 275
+           -Neubauten im Bullingerhof (Pläne), Schachtel 276
+           -Heiligfeld (1. Bauetappe), Schachtel 277-278
+           -Heiligfeld (2. und 3. Bauetappe [Arbeitsvergebungen]), Schachtel 279
+           -Heiligfeld (3. Bauetappe), Schachtel 280
+           -Heiligfeld (3. Bauetappe), Manegg (Beschlüsse, Arbeitsvergebungen, Finanzrapporte, Korrespondenz), Schachtel 281
+           -Fasanenweg (Protokolle, Verfügungen, Finanzrapporte, Arbeitsvergebungen, Korrespondenz, Kostenvergleiche, Kostenvoranschlag), Herbstweg (Verfügungen, Bauabrech
+           -Farbhof (Protokolle, Verfügungen, Arbeitsvergebungen, Wettbewerb, Kostenvoranschlag), Schachtel 283
+           -Siedlung für kinderreiche Arbeiterfamilien Au (Protokolle, Weisungen, Bauabrechnung, Korrespondenz, Werkverträge), Schachtel 284
+           -Siedlungsprojekte (nicht städtische), Schachtel 285-286
+           -Wohnungsbaukommission (Protokolle 1943-1948), Schachtel 287
+           -d. Gebäude des Wohlfahrtsamtes, Schachtel 288-295
+           -Volksküche (Protokolle, Beschlüsse, Notizen ab 1929), Schachtel 288
+           -Volksküche (Gutachten, Verträge, Fotos, Drucksachen, Empfehlungen, Beschwerden, Korrespondenz, Wettbewerb für Steinmosaik ab 1929), Schachtel 289
+           -Jugendstätte Gfellergut (Protokolle, Beschlüsse, Korrespondenz, Arbeitsvergebungen, Kostenvoranschlag), Schachtel 290
+           -Personalhäuser Stadtspital Waid (Beschlüsse, Korrespondenz, Kostenvoranschlag, Arbeitsvergebungen), Schachtel 291
+           -Jugendheim Erika Rötelstrasse (Weisungen, Kostenvoranschlag, Korrespondenz, Projekt), Schachtel 292
+           -Kinderheim Magdalenenstrasse (Protokolle, Beschlüsse, Kostenvoranschlag, Finanzrapporte, Korrespondenz), Schachtel 293
+           -Altersiedlung Espenhof I und II (Protokolle, Beschlüsse, Finanzrapporte, Arbeitsvergebungen, Einweihung, Kostenberechnungen, Statuten), Schachtel 294
+           -Kinderkrippe Pflanzschulstrasse (Weisungen, Protokolle, Arbeitsvergebungen, Rekurse, Kostenvoranschlag), Schachtel 295
+           -e. Gebäude des Gesundheits- und Wirtschaftsamtes, Schachtel 296-325
+           -Freibad Allenmoos (Erweiterung 1956-1957), Freibad Auhof (Beschlüsse, Finanzrapporte, Korrespondenz, Wettbewerb, Arbeitsvergebungen, Kostenvoranschlag), Schach
+           -Strandbad Tiefenbrunnen/ Zürichhorn (Protokolle, Beschlüsse, Finanzrapporte, Korrespondenz, Arbeitsvergebungen), Schachtel 297
+           -Strandbad Tiefenbrunnen/ Zürichhorn (Gutachten, Eröffnung), Schachtel 298
+           -Hallenschwimmbad im Sihlbadareal (Protokolle, Kostenvoranschlag), Sanitätshilfsstelle für den Luftschutz (Empfehlungen, Beschwerden, Arbeitsvergebungen), Schac
+           -Sanitätshilfsstelle für den Luftschutz (Wettbewerbsakten, Publikationen, Korrespondenz, Verschiedenes ab 1924), Schachtel 300
+           -Freibad Letzigraben (Protokolle, Beschlüsse, Korrespondenz), Schachtel 301
+           -Freibad Letzigraben (Arbeitsvergebungen, Wettbewerbsakten), Schachtel 302
+           -Freibad Letzigraben (Pläne), Schachtel 303
+           -Unterer Letten (Beschlüsse, Arbeitsvergebungen, Finanzrapporte, Korrespondenz, Kostenvoranschlag), Oberer Letten (Protokolle, Verfügungen, Weisungen, Kostenvor
+           -Badeanstalt Wollishofen (Protokolle, Korrespondenz, Drucksachen, Kostenvoranschlag), Schachtel 305
+           -Stadtspital Waid (Protokolle 1910-1953), Schachtel 306
+           -Stadtspital Waid (Protokolle Baukommission 1912-1948, Raumprogramme, Fotos, Drucksachen), Schachtel 307
+           -Stadtspital Waid (Protokolle Baukommission 1949-1952), Schachtel 308
+           -Stadtspital Waid (Beschlüsse 1910-1920, 1933-1948), Schachtel 309
+           -Stadtspital Waid (Beschlüsse 1948-1953, Korrespondenz 1910-1933, Personelles), Schachtel 310
+           -Stadtspital Waid (Korrespondenz 1936-1948), Schachtel 311
+           -Stadtspital Waid (Korrespondenz 1949-1953), Schachtel 312
+           -Stadtspital Waid (Arbeitsvergebungen [bis 1953]), Schachtel 313-314
+           -Stadtspital Waid (Wettbewerbe), Schachtel 315-316
+           -Stadtspital Waid (Wettbewerbe, Festschrift, Finanzrapporte, Grundsteinlegung 1950, Einweihung 1953), Schachtel 317
+           -Poliklinik (Protokolle, Empfehlungen, Beschwerden, Korrespondenz, Arbeitsvergebungen, Kostenvoranschlag), Schachtel 318
+           -Poliklinik (Werkverträge), Schachtel 319
+           -Poliklinik (Werkverträge, Pläne), Schachtel 320
+           -Wirtschaftsgebäude Waid (Protokolle, Beschlüsse, Empfehlungen, Beschwerden, Korrespondenz, Arbeitsvergebungen, Preisgericht, Wettbewerb), Schachtel 321
+           -WirtschaftsgebäudeWaid (Baubeschrieb, Kostenvoranschläge u. a.), Schachtel 322
+           -WirtschaftsgebäudeWaid (Verträge), Schachtel 323
+           -Wirtschaftsgebäude Belvoir (Instandstellungen, Renovation, Erweiterungsbau), Schachtel 324
+           -Wirtschaftsgebäude im Wildpark Langenberg (Protokolle, Beschlüsse, Korrespondenz, Kostenvoranschlag, Arbeitsvergebungen), Schachtel 325
+           -f. Kioske, Wartehallen und Bedürfnisanstalten [Änderung gegenüber dem Registraturplan], Schachtel 326
+           -Bedürfnisanstalt am Bellevueplatz, Bedürfnisanstalt mit Wartehalle am Bürkliplatz, Bedürfnisanstalt Belvoirpark, Bedürfnisanstalt, Tramwartehalle und Kiosk im 
+           -g. Bauten auf Friedhöfen, Schachtel 327-328
+           -Friedhof Höngg (enthält Wettbewerb Wandbild in der Abdankungshalle), Schachtel 327
+           -Friedhof Fluntern, Friedhof Nordheim (Abdankungshalle, Krematorium), Friedhof Sihlfeld A und C (Urnennischenanlage), Schachtel 328
+           -h. Brunnenanlagen, Denkmäler, Verschiedene Bauten, Schachtel 329-360
+           -Brunnenanlagen Stüssihofstatt, Sihlhölzli, Verschiedene Brunnenanlagen, Fraumünsterdurchgang (Bemalung), Denkmal „Ehrung der Arbeit“ am Helvetiaplatz (Vorakten
+           -Gewerkschaftshaus Helvetiaplatz 1922-1934, Kantonale Verwaltungsgebäude Stampfenbach-/ Walchestrasse 1932-1933, Sihlbrücke (Umbau 1927-1933), Wasserkirche-Helm
+           -Wasserkirche, Helmhaus und Baugeschichtliches Museum (enthält Akten betreffend Stadtmodell von H. Langmack; erweitertes Dossier 1916-1961), Schachtel 331
+           -Kirchgemeindehaus Wipkingen 1922-1935, Volkshaus Industriequartier 1920-1936, Schachtel 332
+           -Schanzengraben (Kiosk, Bootsunterstände, Ufergestaltung), Schachtel 333
+           -Kasino Zürichhorn (Protokolle, Arbeitsvergebungen, Beschlüsse, Korrespondenz, Pläne), Schachtel 334
+           -Kasino Zürichhorn (Wettbewerbsakten, Kostenvoranschlag), Schachtel 335
+           -Globus (Berichte, Beschlüsse, Korrespondenz), Schachtel 336
+           -Globus (Mietvertrag Linthescher-Areal, Motion „Freie Limmat“, Protokollnotizen, Zeitungsausschnitte, Pläne), Schachtel 337
+           -Garderobengebäude Wallisellenstrasse, Gaskompressorenstation Zürichhorn, Schachtel 338
+           -Stadion Letzigrund (Akten), Schachtel 339
+           -Stadion Letzigrund (Pläne), Kunsthauserweiterung, Schachtel 340
+           -Hauptbahnhof-Erweiterungsbauten (Protokolle, Gutachten, Zeitungsausschnitte, Referate, Beschlüsse, Korrespondenz, Drucksachen), Schachtel 341
+           -Engros-Markthalle (Gutachten, Publikationen, Kostenberechnungen, Pläne), Schachtel 342
+           -Engros-Markthalle (Protokolle, Korrespondenz, Pläne), Schachtel 343
+           -Fortbildungsschule Wipkingen, SAFFA 1958 (Plastikwettbewerb, Malerei-Wettbewerb), Schachtel 344
+           -Flughafen-Immobilien-Gesellschaft (Protokolle Bauausschuss I), Schachtel 345
+           -Flughafen-Immobilien-Gesellschaft (Protokolle von Bauausschuss II, Baukommission, Verwaltungsausschuss, Verwaltungsrat, und Generalversammlungen, Diverse Proto
+           -Flughafen-Immobilien-Gesellschaft (Protokolle Flugplatz-Genossenschaft, Statuten, Verträge), Schachtel 347
+           -Flughafen-Immobilien-Gesellschaft (Korrespondenz), Schachtel 348
+           -Flughafen-Immobilien-Gesellschaft (Monatsberichte, Notizen), Schachtel 349
+           -Flughafen-Immobilien-Gesellschaft (Berichte, Beschlüsse, Einladungen), Schachtel 350
+           -Flughafen-Immobilien-Gesellschaft (Pläne), Schachtel 351-352
+           -Akten und Drucksachen des Bauvorstandes II (Flughafen-Immobilien-Gesellschaft 1962-1964), Schachtel 353
+           -Akten und Drucksachen des Bauvorstandes II (Dolder-Kunsteisbahn 1952-1964), Schachtel 354
+           -Akten und Drucksachen des Bauvorstandes II (Schauspielhaus 1958-1964), Schachtel 355-356
+           -Technikum Winterthur (Allgemeines, Korrespondenz, Besetzung von Lehrstellen [Besoldungsfragen Lehrkörper], Drucksachen), Schachtel 357
+           -Technikum Winterthur (Protokolle Aufsichtskommission, Pläne, Drucksachen), Schachtel 358
+           -23. Eidgenössisches Musikfest (Baubeschrieb, Baukomitee [Fragebogen, Korrespondenz, Kostenvoranschlag, Mitgliederverzeichnis, Presseorientierung, Protokolle]),
+           -Muraltengut (Ausschmückung), Hallenstadion, Bullinger-Denkmal am Grossmünster (mit Ausgestaltung), Verschiedenes, Schachtel 360
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => ''
+        [Prüfhinweise]
+           -Zeitraum aus den Jahreszahlen im Darin geschätzt.
+           +Kein Zeitraum gefunden.

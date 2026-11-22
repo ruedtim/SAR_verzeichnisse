@@ -1,0 +1,27 @@
+### D3566: vorher 4 Einheiten, nachher 3 Einheiten
+WEG  VII.340.:S. [ID 3, Teilbestand, E1, Eltern -, S.7] Vögelin, Zürich’s ehemalige Stadtthore, Ein Beitrag zur Geschichte der Stadt Zürich, Zürich 1840 [enthält im Anhang Farbkopien der Illustrationen] | Genau (=)
+WEG  VII.340.:S.3. [ID 4, Dossier, E2, Eltern VII.340.:S., S.8] Kopierte Briefe von und an Heinrich Weiss (1805-1877) | Von/bis (>= x und <=y)
+        D: Nummer 1
+        D: Zürich, 2. Dezember 1829
+        D: Absender: Der „Telgen“
+        D: Empfänger: Heinrich Weiss VDM, zurzeit bei Frau Dr. Hänlein, Friedrichstrasse, Erlangen (Bayern)
+        D: Nummer 2
+        D: Berlin, 10. (?) Mai 1831
+        D: Absender: H. Pestalozzi und Andreas Ziegler
+        D: Empfänger: Heinrich Weiss VDM in Basel
+        D: … (18 Zeilen)
+NEU  VII.340.:3. [ID 3, Dossier, E1, Eltern -, S.8] Kopierte Briefe von und an Heinrich Weiss (1805-1877) | Von/bis (>= x und <=y)
+        D: Nummer 1
+        D: Zürich, 2. Dezember 1829
+        D: Absender: Der „Telgen“
+        D: Empfänger: Heinrich Weiss VDM, zurzeit bei Frau Dr. Hänlein, Friedrichstrasse, Erlangen (Bayern)
+        D: Nummer 2
+        D: Berlin, 10. (?) Mai 1831
+        D: Absender: H. Pestalozzi und Andreas Ziegler
+        D: Empfänger: Heinrich Weiss VDM in Basel
+        D: … (17 Zeilen)
+        H: Zeitraum aus den Jahreszahlen im Darin geschätzt.
+GEÄ  VII.340.:2. [ID 2, Dossier, E1, Eltern -, S.6] Kopien | Von/bis (>= x und <=y)
+        [Darin]
+           +Nummer 12
+           +S. Vögelin, Zürich’s ehemalige Stadtthore, Ein Beitrag zur Geschichte der Stadt Zürich, Zürich 1840 [enthält im Anhang Farbkopien der Illustrationen]

@@ -1,0 +1,6 @@
+### D10675: vorher 619 Einheiten, nachher 620 Einheiten
+NEU  V.F.c.28.:730a [ID 363, Dossier, E2, Eltern V.F.c.28.:730, S.12] Allgemeine Akten | 
+GEÄ  V.F.c.28.:730 [ID 362, Teilbestand, E1, Eltern -, S.12] Finanzielles 21 | 
+        [Darin]
+           -730a Allgemeine Akten, Schachtel 138
+        Schachtel-Nr.: '138' => ''

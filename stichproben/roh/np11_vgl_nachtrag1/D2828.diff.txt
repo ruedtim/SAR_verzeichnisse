@@ -1,0 +1,95 @@
+### D2828: vorher 90 Einheiten, nachher 91 Einheiten
+NEU  VII.1.:32. [ID 91, Dossier, E1, Eltern -, S.8] Verkommniss zwischen dem Regierungsrate, dem Stadtrat und der Kaufmannschaft betreffend Erbauung einer zweiten fahrbaren Brücke, eines Posthauses und der übrige | Von/bis (>= x und <=y)
+        H: Nummerierung springt: nach 30 folgt 32.
+GEÄ  VII.1.:19.2. [ID 37, Dossier, E2, Eltern VII.1.:19., S.3] Verträge mit Behörden, Privaten und Baumeistern, mit Verträgen zwischen dem Kaufmännischen Direktorium und dem Regierungsrat des Kantons Zürich vom 5. Juni 1833 | Von/bis (>= x und <=y)
+        Titel: 'Verträge mit Behörden, Privaten und Baumeistern, mit Verträgen zwischen dem Kaufmännischen Direktorium und dem Regierungsrat des Kantons Zürich vom 5. Juni 1833' => 'Verträge mit Behörden, Privaten und Baumeistern, mit Verträgen zwischen dem Kaufmännischen Direktorium und dem Regierungsrat des Kantons Zürich vom 5. Juni 1833'
+        [Darin]
+           -Ausgrabung im Flussbette der Limmat sowie Korrespondenz
+           +
+GEÄ  VII.1.:24.11. [ID 73, Dossier, E2, Eltern VII.1.:24., S.7] Bericht der Vorsteherschaft der im Ragionenbuch der Stadt Zürich eingetragenen und hier verbürgerten Kaufleute an den Hohen Regierungsrat betreffend die Erbauun | Genau (=)
+        Titel: 'Bericht der Vorsteherschaft der im Ragionenbuch der Stadt Zürich eingetragenen und hier verbürgerten Kaufleute an den Hohen' => 'Bericht der Vorsteherschaft der im Ragionenbuch der Stadt Zürich eingetragenen und hier verbürgerten Kaufleute an den Hohen Regierungsrat betreffend die Erbauun'
+        [Darin]
+           -Regierungsrat betreffend die Erbauung einer zweiten fahrbaren Brücke über die Limmat
+           +
+        Prüfhinweise: '' => 'Sehr langer Titel – evtl. Darin-Text im Titel.'
+GEÄ  VII.1.:27.4. [ID 84, Dossier, E2, Eltern VII.1.:27., S.8] Kauf- und Schuldbriefe von Häusern, die niedergerissen und Schulbriefe, welche abbezahlt worden sind, Kaufbriefe über die Liegenschaften „zum Höfli“ Ass.-Nr. 34 | Von/bis (>= x und <=y)
+        Titel: 'Kauf- und Schuldbriefe von Häusern, die niedergerissen und Schulbriefe, welche abbezahlt worden sind, Kaufbriefe über die Liegenschaften „zum Höfli“ Ass.-Nr. 34' => 'Kauf- und Schuldbriefe von Häusern, die niedergerissen und Schulbriefe, welche abbezahlt worden sind, Kaufbriefe über die Liegenschaften „zum Höfli“ Ass.-Nr. 34'
+        [Darin]
+           -22
+           +
+GEÄ  VII.1.:30. [ID 90, Dossier, E1, Eltern -, S.8] „Öffentliche Rechenschaft über die Verwendung des im Jahre 1834 der Korporation der Kaufleute in Zürich übergebenen Theiles des Directorial-Fondes, abgelegt von | Genau (=)
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => 'Genau (=)'
+        von: '1834' => '1843'
+        bis: '1843' => ''
+        Entstehungszeitraum, Anm.: '1843; Darin: 1834–1837' => ''
+        [Darin]
+           -32. Verkommniss zwischen dem Regierungsrate, dem Stadtrat und der Kaufmannschaft betreffend Erbauung einer zweiten fahrbaren Brücke, eines Posthauses und der ü
+           -Anhang: Vorhelvetische Urkunden
+           -Die Urkunden der Liegenschaft Zum vorderen und hinteren Beerenberg (Waagasse 5, 7) wurden den Hausurkunden I.A. zugeordnet (Archivsignatur I.A. 4861. bis I.A. 
+           -I.A. 4861. 4. September 1368 („An dem nechsten Mentag nach sant Verenentag“)
+           -Fraumünsteräbtissin Beatrix von Wolhusen, Fraumünsterabtei
+           -Klaus Itschner, Elisabeth Itschner, Ulrich Letz, Anna Itschner, Johann Hert, Meister Heinrich von Linz, Augustiner-Chorherrenstift Mariazell auf dem Beerenberg
+           -Vor Fraumünsteräbtissin Beatrix von Wolhusen verkaufen Klaus und Elisabeth, Ulrich Itschners (Itzschner) hinterlassene Kinder, mit ihrem Vogt Ulrich Letz und i
+           -Pg
+           -Siegel der Fraumünsterabtei und Siegelschnur beschädigt
+           -Format: 32,5 cm x 16,5 cm
+           -I.A. 4862. 18. Februar 1455 („Uff die jungen Vassnacht“)
+           -Fraumünsteräbtissin Anna von Hewen, Fraumünsterabtei
+           -Leutpriester Johannes Häring, Rudi Egens, Ehefrau von Rudi Egens
+           -Niklaus Ekinger, Schaffner im Beerenberg, Augustiner-Chorherrenstift Mariazell auf dem Beerenberg
+           -Fraumünsteräbtissin Anna von Hewen verkündet, dass Leutpriester Johannes Häring sich mit seinem Vogt Rudi Egens verpflichtet, jeweils am ersten Maitag 4 Gulden
+           -Pg
+           -Siegel der Fraumünsterabtei (in Stofftasche) zerbrochen
+           -Format: 33,5 cm x 18,5 cm
+           -I.A. 4863. 25. März 1521 („Uff unser lieben Frowen tag jnn der Vasten“)
+           -Johannes Berger, Zunftmeister zum Weggen
+           -Lienhard Sessler
+           -Doktor Heinrich Engelhart, Leutpriester der Fraumünsterabtei
+           -Lienhard Sessler verkündet, dass er von Doktor Heinrich Engelhart, Leutpriester der Fraumünsterabtei, ein Haus mit Hofstatt und Garten gekauft habe. Dieses lie
+           -Pg
+           -Siegel des Johannes Berger
+           -Format: 25 cm x 18 cm
+           -I.A. 4864. 6. April 1533
+           -Doktor Heinrich Engelhart
+           -Hans Engelhart
+           -Doktor Heinrich Engelhart verkauft seinem Vetter Hans Engelhart und dessen Erben einen Jahreszins von 10 Pfund ab seinem Haus und Garten, im Münsterhof in der 
+           -Pg
+           -Siegel fehlt
+           -Dorsualnotiz: Disen brieff, namlich 5 gulde, hatt mir der vetter Hans Engelhart an min hochzitt zur gab geschenkt.
+           -Format: 38 cm x 13 cm.
+           -I.A. 4865. 15. März 1568
+           -Junker Felix Engelhart, Ratsmitglied
+           -Felix Engelhart
+           -Bürgermeister und Rat der Stadt Zürich, Leutpriesterei der Fraumünsterabtei
+           -Felix Engelhart der Jüngere verkauft Bürgermeister und Rat der Stadt Zürich zuhanden der Leutpriesterei, Pfrund der Fraumünsterabtei, sein Haus mit Hofstatt, H
+           -Pg
+           -Siegel des Rates Felix Engelhart
+           -Format: 40,5 cm x 26,7 cm
+           -in 17.6. 1726.12.10.
+           -Statthalter Escher, Bauherr Gessner, Zunftmeister Lavater, Zunftmeister Wüest, Ratsherr Hans Ludwig Escher und Ratsherr Caspar Muralt
+           -Meister Hartmann Kölliker, Tischmacher, Meister Joachim Freudweiler, Geschworener Reüter
+           -Da von Köllikers neuem Waschaus die Winde von Freudweiler unsicher gemacht werde, soll Freudweiler seine Winde abschliessbar machen.
+           -Pa
+           -in 17.6. 1727.01.09.
+           -Statthalter Escher, Bauherr Gessner, Zunftmeister Lavater, Zunftmeister Wüest, Ratsherr Hans Ludwig Escher und Ratsherr Caspar Muralt
+           -Meister Hartmann Kölliker, Tischmacher, Meister Joachim Freudweiler, Geschworener Reüter
+           -Da von Köllikers neuem Waschaus die Winde von Freudweiler unsicher gemacht werde, soll Freudweiler seine Winde abschliessbar machen.
+           -Pa
+           -in 17.6. 1727.04.22.
+           -Statthalter Hofmeister, Bauherr Gessner, Zunftmeister Lavater, Zunftmeister Wüest, Zunftmeiter Muralt und Ratsherr Caspar Muralt
+           -Meister Hartmann Kölliker, Tischmacher, Meister Joachim Freudweiler, Geschworener Reüter
+           -Da von Köllikers neuem Waschaus die Winde von Freudweiler unsicher gemacht werde, soll Freudweiler seine Winde abschliessbar machen.
+           -Pa
+           -in 18. 1772.12.31.
+           -Anna Barbara Glattfelder-Hug
+           -Felix Holzhalb, Messerschmied
+           -Anna Barbara Glattfelder-Hug verkauft dem Felix Holzhalb auf offener Gant ihr Haus und die Schleife, auf dem oberen Mühlesteg gelegen, mit einem Mannort in der
+           -Pa
+           -Bescheinigung von Gantmeister Hs. Conrad Ulrich mit Siegel
+           -in 18. 1798.07.09.
+           -Erben von Meister Felix Holzhalb, dem Schleifer, sowie Anna Elisabetha Holzhalb-Guyer
+           -Messerschmied Ziegler, alt Kornhausmeister
+           -Die Holzhalben verkaufen Ziegler in offener Gant das unter Nr. 639 bei der Brandkasse eingeschriebene Haus auf dem oberen Mühlesteg mit allem was Niet und Nage
+           -Pa
+           -Unterschriften und Siegel der Verkäufer und des Käufers
+           +

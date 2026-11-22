@@ -1,0 +1,4 @@
+### D176824: vorher 9 Einheiten, nachher 10 Einheiten
+NEU  VII.308.A. [ID 10, Bestand, E1, Eltern -, S.3] Locher & Cie. AG Bauunternehmung. Firmenarchiv | Von/bis (>= x und <=y)
+        D: In Schachtel 9 befindet sich ferner ein "Schachtelregister der Pausenverzeichnisse", aus welchem hervorgeht, welcher Plan ich in welcher Rolle oder Schachtel der Plansamm
+        H: Stück ohne Nummer im Findmittel («In Schachtel 9 befindet sich ferner ein "Schachtelregister der Pausenv», S. 3) – hier beim Bestand übernommen (keine Signatur erfunden); in scope beim Bestand ergänzen oder von Hand als Einheit anlegen.

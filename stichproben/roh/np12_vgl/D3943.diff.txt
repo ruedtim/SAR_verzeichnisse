@@ -1,0 +1,19 @@
+### D3943: vorher 237 Einheiten, nachher 238 Einheiten
+NEU  X.G. [ID 238, Bestand, E1, Eltern -, S.13] Geschenkwerke der Stadt Zürich, s. d. (sine dato) | 
+        D: Keine Nr. Französische Photographie 1840 – 1871, Schweizerische Stiftung für die Photographie, Kunsthaus Zürich, 5. Juni – 23. August 1987
+        D: Keine Nr. *Wappenscheiben, Vergabungsliste, Anschaffungen und Entwürfe in Schachtel / Stadt Zürich Wappen, Siegel Fahne. XG: Statistik-Schachtel
+        D: Keine Nr. Flasche Marc vom Chillesteig, Rebgut der Stadt Zürich, destilliert in der Weinkellerei Zwiefel & Co. Höngg, Anschaffung zu Geschenkzwecken 1985 (2 Stü
+        D: Keine Nr. Zinnbecher, eingraviertes Zürichwappen mit zwei Löwen
+        D: * Vorhandene Geschenkwerke
+        D: ** Eingetragen auf Grund der Belege
+        H: Stück ohne Nummer im Findmittel («Keine Nr. Französische Photographie 1840 – 1871, Schweizerische Stiftu», S. 13) – hier beim Bestand übernommen (keine Signatur erfunden); in scope beim Bestand ergänzen oder von Hand als Einheit anlegen.
+GEÄ  X.G.219. [ID 237, Dossier, E1, Eltern -, S.13] * Rauch, Bruno / Finck, Heinz Dieter. Zürich – ein einmaliges Gefühl, deutsch/französisch/englisch, Zürich | Genau (=)
+        [Darin]
+           -Keine Nr. Französische Photographie 1840 – 1871, Schweizerische Stiftung für die Photographie, Kunsthaus Zürich, 5. Juni – 23. August 1987
+           -Keine Nr. *Wappenscheiben, Vergabungsliste, Anschaffungen und Entwürfe in Schachtel / Stadt Zürich Wappen, Siegel Fahne. XG: Statistik-Schachtel
+           -Keine Nr. Flasche Marc vom Chillesteig, Rebgut der Stadt Zürich, destilliert in der Weinkellerei Zwiefel & Co. Höngg, Anschaffung zu Geschenkzwecken 1985 (2 St
+           -Keine Nr. Zinnbecher, eingraviertes Zürichwappen mit zwei Löwen
+           -* Vorhandene Geschenkwerke
+           -** Eingetragen auf Grund der Belege
+           +
+        Prüfhinweise: 'Nach der letzten Einheit steht im Findmittel ein Absatz ohne Signatur («Keine Nr. Französische Photographie 1840 – 1871, Schweizeris» …) – hier im Darin übernom' => ''

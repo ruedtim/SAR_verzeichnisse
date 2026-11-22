@@ -1,0 +1,1244 @@
+### D32837: vorher 266 Einheiten, nachher 268 Einheiten
+WEG  VII.237.:1.1.2.1.1. [ID 24, Dossier, E4, Eltern VII.237.:1.1.2.1., S.15] Programme | Von/bis (>= x und <=y)
+        D: Dürrenmatt, Friedrich: Romulus der Grosse (Schauspielhaus Zürich)
+NEU  VII.237.:1. [ID 1, Teilbestand, E1, Eltern -, S.1] Archiv Anne-Marie Blanc | Von/bis (>= x und <=y)
+        H: Nur in der Übersicht verzeichnet (S. 1), das Detailverzeichnis beginnt mit den Unternummern – als übergeordnete Einheit von dort übernommen, bitte prüfen.
+NEU  VII.237.:1.2.1.1./T67 [ID 129, Dossier, E5, Eltern VII.237.:1.2.1.1., S.22] Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 67 | Von/bis (>= x und <=y)
+        D: Programme 2004/05
+        D: UNICEF Day (Schiffbau Zürich)
+        D: Savannah Bay (Theater am Kirchplatz, Schaan Liechtenstein)
+        D: Anne-Marie Blanc liest „Der Alchimist“ von Paolo Coelho (Alt Züri Restaurant)
+        D: Gioacchino Rossini – von Sünden und anderen Unfällen (Gemeindesaal Zumikon)
+        D: undatierte Programme
+        D: Goetz, Ruth; Goetz, Augustus: Der verborgene Strom (Tribüne; Berlin)
+        D: Verneuil, Louis: Herr Lamberthier (Theater- und Tournée-Genossenschaft Zürich)
+        D: … (12 Zeilen)
+        H: Verschobene Zeilenumbrüche in Listen repariert – Stichprobe prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  VII.237.:4.4.1./T16 [ID 247, Dossier, E4, Eltern VII.237.:4.4.1., S.53] Mappe 15 | Von/bis (>= x und <=y)
+        D: Ferien am Hiddensee; Familienfotos 1921 – 1929 z. T. beschriftet
+        D: undatierte und nicht bezeichnete Fotoaufnahmen von Familie Fueter bzw. einzelne von Familie Faesi u. a. mit Heinrich Fueter und Anne-Marie Blanc
+        D: Bild von einer Mutter mit zwei Töchtern, wahrscheinlich Daguerreotypie ca. 1840 – 1960
+        H: Zeitraum aus den Jahreszahlen im Darin geschätzt.
+GEÄ  VII.237.:1.1. [ID 2, Serie, E2, Eltern VII.237.:1., S.5] Biografisches | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.237.' => 'VII.237.:1.'
+        Prüfhinweise: 'Keine übergeordnete Signatur gefunden (erwartet 1.).' => ''
+        Eltern: '-' => 'VII.237.:1.'
+GEÄ  VII.237.:1.1.1. [ID 3, Serie, E3, Eltern VII.237.:1.1., S.5] Private Korrespondenz | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.237.:1.1.1.1. [ID 4, Dossier, E4, Eltern VII.237.:1.1.1., S.5] Korrespondenz, chronologisch geordnet | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.1.1.2. [ID 5, Dossier, E4, Eltern VII.237.:1.1.1., S.5] Korrespondenz, alphabetisch und chronologisch geordnet | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.1.1.3. [ID 6, Serie, E4, Eltern VII.237.:1.1.1., S.5] Briefwechsel zwischen Anne-Marie Blanc und Heinrich Fueter | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.1.1.3.1. [ID 7, Dossier, E5, Eltern VII.237.:1.1.1.3., S.5] Briefe von Anne-Marie Blanc an Heinrich Fueter, chronologisch geordnet | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.1.1.3.2. [ID 8, Dossier, E5, Eltern VII.237.:1.1.1.3., S.6] Briefe von Heinrich Fueter an Anne-Marie Blanc, chronologisch geordnet | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.1.1.4. [ID 9, Dossier, E4, Eltern VII.237.:1.1.1., S.6] Korrespondenz mit den Kindern: Martin, Peter-Christian und Daniel Fueter, chronologisch geordnet | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.1.1.5. [ID 10, Serie, E4, Eltern VII.237.:1.1.1., S.6] Korrespondenz mit verschiedenen Familienmitgliedern, chronologisch geordnet | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.1.1.5.1. [ID 11, Dossier, E5, Eltern VII.237.:1.1.1.5., S.6] Briefe von Jenny Faesi-Weber und Robert Faesi an Anne-Marie und Heinrich Fueter-Blanc | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.1.1.5.2. [ID 12, Dossier, E5, Eltern VII.237.:1.1.1.5., S.6] Briefe von anderen Familienmitgliedern | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.1.1.6. [ID 13, Serie, E4, Eltern VII.237.:1.1.1., S.6] Briefe von Zuschauern, Gratulationen | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.1.1.6.1. [ID 14, Dossier, E5, Eltern VII.237.:1.1.1.6., S.6] Verschiedene Briefe von Zuschauern, chronologisch geordnet | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.1.1.6.2. [ID 15, Dossier, E5, Eltern VII.237.:1.1.1.6., S.6] 60. Geburtstag von Anne-Marie Blanc | Genau (=)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.1.1.6.3. [ID 16, Dossier, E5, Eltern VII.237.:1.1.1.6., S.6] 65. Geburtstag von Anne-Marie Blanc | Genau (=)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.1.1.6.4. [ID 17, Dossier, E5, Eltern VII.237.:1.1.1.6., S.7] 70. Geburtstag von Anne-Marie Blanc | Genau (=)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.1.1.6.5. [ID 18, Dossier, E5, Eltern VII.237.:1.1.1.6., S.7] 75. Geburtstag von Anne-Marie Blanc | Genau (=)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.1.1.6.6. [ID 19, Dossier, E5, Eltern VII.237.:1.1.1.6., S.7] 80. Geburtstag von Anne-Marie Blanc | Genau (=)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.1.1.6.7. [ID 20, Dossier, E5, Eltern VII.237.:1.1.1.6., S.7] 85. Geburtstag von Anne-Marie Blanc | Genau (=)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.1.1.6.8. [ID 21, Dossier, E5, Eltern VII.237.:1.1.1.6., S.7] Diverse Briefe mit Geburtstagwünschen | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.1.1.7. [ID 22, Dossier, E4, Eltern VII.237.:1.1.1., S.7] Einladungen zu verschiedenen Anlässen | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.1.2. [ID 23, Serie, E3, Eltern VII.237.:1.1., S.7] Biografische Materialien, persönliche Dokumente | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+        von: '1949' => '1938'
+        Zeitraum-Quelle: 'Untereinheiten' => 'Untereinheiten (geschätzt)'
+        Prüfhinweise: '' => 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.'
+GEÄ  VII.237.:1.1.2.1. [ID 24, Dossier, E4, Eltern VII.237.:1.1.2., S.7] Verschiedene persönliche Dokumente | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+        Ebene: '3' => '4'
+        von: '1949' => '1938'
+        bis: '1950' => '2001'
+        Zeitraum-Quelle: 'Untereinheiten' => 'Darin (geschätzt)'
+        Prüfhinweise: '' => 'Zeitraum aus den Jahreszahlen im Darin geschätzt.'
+GEÄ  VII.237.:1.1.2.2. [ID 25, Dossier, E4, Eltern VII.237.:1.1.2., S.8] Terminkalender von Anne-Marie Blanc | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.1.2.3. [ID 26, Serie, E4, Eltern VII.237.:1.1.2., S.8] Reise-Tagebücher | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.1.2.3./T2 [ID 27, Dossier, E5, Eltern VII.237.:1.1.2.3., S.8] Reise-Tagebuch | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.1.2.3./T3 [ID 28, Dossier, E5, Eltern VII.237.:1.1.2.3., S.8] Reise-Tagebuch | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.1.2.4. [ID 29, Serie, E4, Eltern VII.237.:1.1.2., S.8] Gästebücher der Familie Fueter-Blanc | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.1.2.4.1. [ID 30, Dossier, E5, Eltern VII.237.:1.1.2.4., S.8] Gästebuch, Zürich | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.1.2.4.2. [ID 31, Dossier, E5, Eltern VII.237.:1.1.2.4., S.9] Gästebuch, Villa Nimet (Engadin) | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.1.2.4.3. [ID 32, Dossier, E5, Eltern VII.237.:1.1.2.4., S.9] Gästebuch, Villa Nimet (Engadin) | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.1.2.4.4. [ID 33, Dossier, E5, Eltern VII.237.:1.1.2.4., S.9] Gästebuch, Zürich | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.1.2.4.5. [ID 34, Dossier, E5, Eltern VII.237.:1.1.2.4., S.9] Gästebuch, Berna (Engadin) | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.1.2.4.6. [ID 35, Dossier, E5, Eltern VII.237.:1.1.2.4., S.9] Gästebuch, Villa Berna (Engadin) | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.1.2.4.7. [ID 36, Dossier, E5, Eltern VII.237.:1.1.2.4., S.9] Gästebuch | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.1.3. [ID 37, Serie, E3, Eltern VII.237.:1.1., S.10] Diverse biografische Materialien betreffend die Familie von Anne-Marie Blanc | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.237.:1.1.3.1. [ID 38, Serie, E4, Eltern VII.237.:1.1.3., S.10] Heinrich Fueter | Genau (=)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.1.3.1.1. [ID 39, Dossier, E5, Eltern VII.237.:1.1.3.1., S.10] Abdankung nach dem Tod von Heinrich Fueter | Genau (=)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.1.3.1.2. [ID 40, Dossier, E5, Eltern VII.237.:1.1.3.1., S.10] Kondolenzkarten und Kondolenzbriefe an Anne-Marie Blanc und an die Familie Fueter, alphabetisch geordnet | 
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.1.3.2. [ID 41, Dossier, E4, Eltern VII.237.:1.1.3., S.10] Martin A. Fueter | Genau (=)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.1.3.3. [ID 42, Dossier, E4, Eltern VII.237.:1.1.3., S.10] Peter-Christian Fueter | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.1.3.4. [ID 43, Dossier, E4, Eltern VII.237.:1.1.3., S.10] Daniel Fueter | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.1.3.5. [ID 44, Dossier, E4, Eltern VII.237.:1.1.3., S.11] Mona Fueter, Enkelin von Anne-Marie Blanc, Tochter von Daniel Fueter | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.1.4. [ID 45, Serie, E3, Eltern VII.237.:1.1., S.11] Auszeichnungen für die künstlerische Leistung von Anne-Marie Blanc | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.237.:1.1.4.1. [ID 46, Dossier, E4, Eltern VII.237.:1.1.4., S.11] Armin-Ziegler-Stiftung-Preis | Genau (=)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.1.4.2. [ID 47, Dossier, E4, Eltern VII.237.:1.1.4., S.11] Hans Reinhart-Ring | Genau (=)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.1.4.3. [ID 48, Dossier, E4, Eltern VII.237.:1.1.4., S.11] Goldene Nadel des Schauspielhauses | Genau (=)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.1.4.4. [ID 49, Dossier, E4, Eltern VII.237.:1.1.4., S.11] Auszeichnung mit der „Goldenen Maske“ (Maschera d’Oro) | Genau (=)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.1.4.5. [ID 50, Dossier, E4, Eltern VII.237.:1.1.4., S.12] Auszeichnung mit dem Ehren-Prix-Walo für das Lebenswerk | Genau (=)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.1.4.6. [ID 51, Dossier, E4, Eltern VII.237.:1.1.4., S.12] Auszeichnung mit Cine-Prix Telecom | 
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.1.4.7. [ID 52, Dossier, E4, Eltern VII.237.:1.1.4., S.12] Verleihung des Kulturpreises der Bürgi-Willert-Stiftung | Genau (=)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.1.4.8. [ID 53, Dossier, E4, Eltern VII.237.:1.1.4., S.12] Anerkennungsmedaille für kulturelle Verdienste der Stadt Zürich | Genau (=)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.1.5. [ID 54, Dossier, E3, Eltern VII.237.:1.1., S.12] Diverse Vorträge / Reden | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.237.:1.1.6. [ID 55, Dossier, E3, Eltern VII.237.:1.1., S.12] Nachrufe, Todesanzeigen u. a. einzelne Fotos, Zeitungsausschnitte, Briefe, autobiographische Notizen | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.237.:1.1.7. [ID 56, Serie, E3, Eltern VII.237.:1.1., S.13] Zum Tod von Anne-Marie Blanc | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.237.:1.1.7.1. [ID 57, Dossier, E4, Eltern VII.237.:1.1.7., S.13] Todesanzeigen | 
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.1.7.2. [ID 58, Dossier, E4, Eltern VII.237.:1.1.7., S.13] Abdankung für Anne-Marie Fueter-Blanc am 14. Februar 2009 | Genau (=)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.1.7.3. [ID 59, Dossier, E4, Eltern VII.237.:1.1.7., S.13] Kondolenzbriefe und Kondolenzkarten an die Familie Fueter, alphabetisch geordnet | Genau (=)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.1.7.4. [ID 60, Dossier, E4, Eltern VII.237.:1.1.7., S.13] Pressestimmen zum Hinschied von Anne-Marie Blanc | 
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.2. [ID 61, Serie, E2, Eltern VII.237.:1., S.14] Theater | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.237.' => 'VII.237.:1.'
+        Prüfhinweise: 'Keine übergeordnete Signatur gefunden (erwartet 1.).' => ''
+        Eltern: '-' => 'VII.237.:1.'
+GEÄ  VII.237.:1.2.1. [ID 62, Serie, E3, Eltern VII.237.:1.2., S.14] Programmhefte | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.237.:1.2.1.1. [ID 63, Serie, E4, Eltern VII.237.:1.2.1., S.14] Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.2.1.1./T2 [ID 64, Dossier, E5, Eltern VII.237.:1.2.1.1., S.14] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.2.1.1./T3 [ID 65, Dossier, E5, Eltern VII.237.:1.2.1.1., S.14] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.2.1.1./T4 [ID 66, Dossier, E5, Eltern VII.237.:1.2.1.1., S.14] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.2.1.1./T5 [ID 67, Dossier, E5, Eltern VII.237.:1.2.1.1., S.14] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.2.1.1./T6 [ID 68, Dossier, E5, Eltern VII.237.:1.2.1.1., S.14] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.2.1.1./T7 [ID 69, Dossier, E5, Eltern VII.237.:1.2.1.1., S.14] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.2.1.1./T8 [ID 70, Dossier, E5, Eltern VII.237.:1.2.1.1., S.14] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.2.1.1./T9 [ID 71, Dossier, E5, Eltern VII.237.:1.2.1.1., S.14] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.2.1.1./T10 [ID 72, Dossier, E5, Eltern VII.237.:1.2.1.1., S.14] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.2.1.1./T11 [ID 73, Dossier, E5, Eltern VII.237.:1.2.1.1., S.14] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.2.1.1./T12 [ID 74, Dossier, E5, Eltern VII.237.:1.2.1.1., S.15] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.2.1.1./T13 [ID 75, Dossier, E5, Eltern VII.237.:1.2.1.1., S.15] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.2.1.1./T14 [ID 76, Dossier, E5, Eltern VII.237.:1.2.1.1., S.15] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+GEÄ  VII.237.:1.2.1.1./T15 [ID 77, Dossier, E5, Eltern VII.237.:1.2.1.1., S.15] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1950' => '1949'
+        bis: '1951' => '1950'
+        Entstehungszeitraum, Anm.: '1950/51' => '1949/50'
+        [Darin]
+           -Camus, Albert: Die Gerechten (Schauspielhaus Zürich)
+           -Eliot, Thomas Stearns: Die Cocktail Party (Schauspielhaus Zürich)
+           -Eröffnung der Juni-Festwochen (Schauspielhaus Zürich)
+           -Ibsen, Henrik: Die Stützen der Gesellschaft (Schauspielhaus Zürich)
+           -Shaw, George Bernard: Mensch und Übermensch (Schauspielhaus Zürich)
+           +Dürrenmatt, Friedrich: Romulus der Grosse (Schauspielhaus Zürich)
+        Nr. im PDF: '1.2.1.1.' => '1.1.2.1.1.'
+        Prüfhinweise: 'Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.' => 'Im Findmittel «1.1.2.1.1.» mitten unter den Einträgen 1.2.1.1. – als 1.2.1.1. gelesen (Tippfehler?), bitte prüfen.'
+GEÄ  VII.237.:1.2.1.1./T16 [ID 78, Dossier, E5, Eltern VII.237.:1.2.1.1., S.15] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1951' => '1950'
+        bis: '1952' => '1951'
+        Entstehungszeitraum, Anm.: '1951/52' => '1950/51'
+        [Darin]
+           -Giovaninetti, Silvio: Tanz ums Geld (Schauspielhaus Zürich)
+           -Medrano, Sebastian Francisco de: Liebe, Freundespflicht und Redlichkeit (Schauspielhaus Zürich)
+           -Molière: Tartuffe (Schauspielhaus Zürich)
+           +Camus, Albert: Die Gerechten (Schauspielhaus Zürich)
+           +Eliot, Thomas Stearns: Die Cocktail Party (Schauspielhaus Zürich)
+           +Eröffnung der Juni-Festwochen (Schauspielhaus Zürich)
+           +Ibsen, Henrik: Die Stützen der Gesellschaft (Schauspielhaus Zürich)
+           +Shaw, George Bernard: Mensch und Übermensch (Schauspielhaus Zürich)
+GEÄ  VII.237.:1.2.1.1./T17 [ID 79, Dossier, E5, Eltern VII.237.:1.2.1.1., S.15] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1953' => '1951'
+        bis: '1954' => '1952'
+        Entstehungszeitraum, Anm.: '1953/54' => '1951/52'
+        [Darin]
+           -Achard, Marcel: Die Zeit des Glücks (Theater am Central; Zürich)
+           -Birabeau, André: Das heimliche Nest (Komödie im Marquardt; Stuttgart)
+           +Giovaninetti, Silvio: Tanz ums Geld (Schauspielhaus Zürich)
+           +Medrano, Sebastian Francisco de: Liebe, Freundespflicht und Redlichkeit (Schauspielhaus Zürich)
+           +Molière: Tartuffe (Schauspielhaus Zürich)
+GEÄ  VII.237.:1.2.1.1./T18 [ID 80, Dossier, E5, Eltern VII.237.:1.2.1.1., S.15] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1954' => '1953'
+        bis: '1955' => '1954'
+        Entstehungszeitraum, Anm.: '1954/55' => '1953/54'
+        [Darin]
+           -Lengyel, Melchior; Sauvajon, Marc-Gilbert: Ninotchka (Theater am Central; Zürich)
+           +Achard, Marcel: Die Zeit des Glücks (Theater am Central; Zürich)
+           +Birabeau, André: Das heimliche Nest (Komödie im Marquardt; Stuttgart)
+GEÄ  VII.237.:1.2.1.1./T19 [ID 81, Dossier, E5, Eltern VII.237.:1.2.1.1., S.15] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1955' => '1954'
+        bis: '1956' => '1955'
+        Entstehungszeitraum, Anm.: '1955/56' => '1954/55'
+        [Darin]
+           -Shaw, George Bernard: Candida (Theater am Central; Zürich)
+           -Zuckmayer, Carl: Das kalte Licht (Schauspielhaus Zürich)
+           +Lengyel, Melchior; Sauvajon, Marc-Gilbert: Ninotchka (Theater am Central; Zürich)
+GEÄ  VII.237.:1.2.1.1./T20 [ID 82, Dossier, E5, Eltern VII.237.:1.2.1.1., S.15] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1957' => '1955'
+        bis: '1958' => '1956'
+        Entstehungszeitraum, Anm.: '1957/58' => '1955/56'
+        [Darin]
+           -Schiller, Friedrich: Don Carlos (Schauspielhaus Zürich; im Stadttheater Luzern)
+           +Shaw, George Bernard: Candida (Theater am Central; Zürich)
+           +Zuckmayer, Carl: Das kalte Licht (Schauspielhaus Zürich)
+GEÄ  VII.237.:1.2.1.1./T21 [ID 83, Dossier, E5, Eltern VII.237.:1.2.1.1., S.15] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1958' => '1957'
+        bis: '1959' => '1958'
+        Entstehungszeitraum, Anm.: '1958/59' => '1957/58'
+        [Darin]
+           -Eröffnungsfeier der Juni-Festwochen (Schauspielhaus Zürich)
+           -Schiller, Friedrich: Kabale und Liebe (Theater Ensemble Oskar Werner; Innsbruck)
+           -Schweikart, Hans: Ich brauche dich (Komödie im Marquardt; Stuttgart)
+           +Schiller, Friedrich: Don Carlos (Schauspielhaus Zürich; im Stadttheater Luzern)
+        Prüfhinweise: 'Verschobene Zeilenumbrüche in Listen repariert – Stichprobe prüfen.' => ''
+GEÄ  VII.237.:1.2.1.1./T22 [ID 84, Dossier, E5, Eltern VII.237.:1.2.1.1., S.15] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1959' => '1958'
+        bis: '1960' => '1959'
+        Entstehungszeitraum, Anm.: '1959/60' => '1958/59'
+        [Darin]
+           -Maugham, Somerset: Finden Sie, dass Constance sich richtig verhält? (Komödie im Marquardt; Stuttgart)
+           +Eröffnungsfeier der Juni-Festwochen (Schauspielhaus Zürich)
+           +Schiller, Friedrich: Kabale und Liebe (Theater Ensemble Oskar Werner; Innsbruck)
+           +Schweikart, Hans: Ich brauche dich (Komödie im Marquardt; Stuttgart)
+        PDF-Seite: '16' => '15'
+        Prüfhinweise: '' => 'Verschobene Zeilenumbrüche in Listen repariert – Stichprobe prüfen.'
+GEÄ  VII.237.:1.2.1.1./T23 [ID 85, Dossier, E5, Eltern VII.237.:1.2.1.1., S.16] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1960' => '1959'
+        bis: '1961' => '1960'
+        Entstehungszeitraum, Anm.: '1960/61' => '1959/60'
+        [Darin]
+           -Roussin, André: Viola [Nina] (Schauspielhaus Zürich)
+           +Maugham, Somerset: Finden Sie, dass Constance sich richtig verhält? (Komödie im Marquardt; Stuttgart)
+GEÄ  VII.237.:1.2.1.1./T24 [ID 86, Dossier, E5, Eltern VII.237.:1.2.1.1., S.16] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1961' => '1960'
+        bis: '1962' => '1961'
+        Entstehungszeitraum, Anm.: '1961/62' => '1960/61'
+        [Darin]
+           -Rattigan, Terence: Der schlafende Prinz (Kleine Komödie; München)
+           +Roussin, André: Viola [Nina] (Schauspielhaus Zürich)
+GEÄ  VII.237.:1.2.1.1./T25 [ID 87, Dossier, E5, Eltern VII.237.:1.2.1.1., S.16] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1962' => '1961'
+        bis: '1963' => '1962'
+        Entstehungszeitraum, Anm.: '1962/63' => '1961/62'
+        [Darin]
+           -Anouilh, Jean: Die Grotte (Theater am Kurfürstendamm; Berlin)
+           -Fröhlich, Gustav: Seiltänzer (Theater an der Berliner Allee; Düsseldorf)
+           -Sauvajon, Marc Gilbert: Bezaubernde Julia (Theater an der Berliner Allee; Düsseldorf)
+           -Savory, Gerald: Zwei unter einer Decke (Theater an der Berliner Allee; Düsseldorf)
+           +Rattigan, Terence: Der schlafende Prinz (Kleine Komödie; München)
+GEÄ  VII.237.:1.2.1.1./T26 [ID 88, Dossier, E5, Eltern VII.237.:1.2.1.1., S.16] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1963' => '1962'
+        bis: '1964' => '1963'
+        Entstehungszeitraum, Anm.: '1963/64' => '1962/63'
+        [Darin]
+           -Kilty, Jerome: Gelieber Lügner (Atelier Theater; Bern)
+           -Beer, Otto; Preses, Peter: Man ist nur zweimal jung (Komödie im Marquardt; Stuttgart)
+           -Maugham, Somerset: Der Brotverdiener (Komödie im Marquardt; Stuttgart)
+           +Anouilh, Jean: Die Grotte (Theater am Kurfürstendamm; Berlin)
+           +Fröhlich, Gustav: Seiltänzer (Theater an der Berliner Allee; Düsseldorf)
+           +Sauvajon, Marc Gilbert: Bezaubernde Julia (Theater an der Berliner Allee; Düsseldorf)
+           +Savory, Gerald: Zwei unter einer Decke (Theater an der Berliner Allee; Düsseldorf)
+GEÄ  VII.237.:1.2.1.1./T27 [ID 89, Dossier, E5, Eltern VII.237.:1.2.1.1., S.16] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1964' => '1963'
+        bis: '1965' => '1964'
+        Entstehungszeitraum, Anm.: '1964/65' => '1963/64'
+        [Darin]
+           -Goetz, Curt: Ingeborg (Theater an der Berliner Allee; Düsseldorf)
+           -Sagan, Françoise: Das Lila-Kleid von Valentine (Atelier Theater; Bern)
+           -Shaw, George Bernard: Candida (Theater an der Berliner Allee; Düsseldorf)
+           +Kilty, Jerome: Gelieber Lügner (Atelier Theater; Bern)
+           +Beer, Otto; Preses, Peter: Man ist nur zweimal jung (Komödie im Marquardt; Stuttgart)
+           +Maugham, Somerset: Der Brotverdiener (Komödie im Marquardt; Stuttgart)
+GEÄ  VII.237.:1.2.1.1./T28 [ID 90, Dossier, E5, Eltern VII.237.:1.2.1.1., S.16] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1965' => '1964'
+        bis: '1966' => '1965'
+        Entstehungszeitraum, Anm.: '1965/66' => '1964/65'
+        [Darin]
+           -Coward, Noël: Amouren (Kleine Komödie; München)
+           -Hochwälder, Fritz: Der Himbeerpfücker (Schauspielhaus Zürich)
+           -Gaulis, Louis: Anton oder Der vollkommene Diener (Zürcher Werkbühne; Winterthur)
+           -Shaw, George Bernard: Candida (Stadttheater Chur; Chur)
+           -Advent 1965 (Kirchgemeindehaus Oberstrass; Zürich)
+           -St. Niklaus – Ladies Night 1966 (Lions Club St. Moritz)
+           +Goetz, Curt: Ingeborg (Theater an der Berliner Allee; Düsseldorf)
+           +Sagan, Françoise: Das Lila-Kleid von Valentine (Atelier Theater; Bern)
+           +Shaw, George Bernard: Candida (Theater an der Berliner Allee; Düsseldorf)
+GEÄ  VII.237.:1.2.1.1./T29 [ID 91, Dossier, E5, Eltern VII.237.:1.2.1.1., S.16] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1966' => '1965'
+        bis: '1967' => '1966'
+        Entstehungszeitraum, Anm.: '1966/67' => '1965/66'
+        [Darin]
+           -Graham, Burton: Frühstück mit Julia (Hamburger Kammerspiele; Hamburg)
+           -Marcus, Frank: Schwester George muss sterben (Schauspielhaus Zürich)
+           +Coward, Noël: Amouren (Kleine Komödie; München)
+           +Hochwälder, Fritz: Der Himbeerpfücker (Schauspielhaus Zürich)
+           +Gaulis, Louis: Anton oder Der vollkommene Diener (Zürcher Werkbühne; Winterthur)
+           +Shaw, George Bernard: Candida (Stadttheater Chur; Chur)
+           +Advent 1965 (Kirchgemeindehaus Oberstrass; Zürich)
+           +St. Niklaus – Ladies Night 1966 (Lions Club St. Moritz)
+GEÄ  VII.237.:1.2.1.1./T30 [ID 92, Dossier, E5, Eltern VII.237.:1.2.1.1., S.16] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1967' => '1966'
+        bis: '1968' => '1967'
+        Entstehungszeitraum, Anm.: '1967/68' => '1966/67'
+        [Darin]
+           -Congreve, William: Liebe für Liebe (Schauspielhaus Zürich)
+           -Kleist, Heinrich von: Amphityon (Hamburger Kammerspiele; Hamburg)
+           -Ustinov, Peter: Halb auf dem Baum (Schauspielhaus Zürich)
+           -Anne-Marie Blanc lit poèmes, textes et lettres de Marie de St. Exupéry mère et d`Antoine de St. Exupéry (Zimmertheater Heddy Maria Wettstein)
+           +Graham, Burton: Frühstück mit Julia (Hamburger Kammerspiele; Hamburg)
+           +Marcus, Frank: Schwester George muss sterben (Schauspielhaus Zürich)
+GEÄ  VII.237.:1.2.1.1./T31 [ID 93, Dossier, E5, Eltern VII.237.:1.2.1.1., S.16] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1968' => '1967'
+        bis: '1969' => '1968'
+        Entstehungszeitraum, Anm.: '1968/69' => '1967/68'
+        [Darin]
+           -Moliére: George Dandin (Schauspielhaus Zürich)
+           -Colette: Gigi (Komödie im Marquardt; Stuttgart)
+           -Anne-Marie Blanc lit poèmes, textes et lettres de Marie de St. Exupéry mère et d`Antoine de St. Exupéry (Galerietheater „Die Rampe“; Bern)
+           +Congreve, William: Liebe für Liebe (Schauspielhaus Zürich)
+           +Kleist, Heinrich von: Amphityon (Hamburger Kammerspiele; Hamburg)
+           +Ustinov, Peter: Halb auf dem Baum (Schauspielhaus Zürich)
+           +Anne-Marie Blanc lit poèmes, textes et lettres de Marie de St. Exupéry mère et d`Antoine de St. Exupéry (Zimmertheater Heddy Maria Wettstein)
+        PDF-Seite: '17' => '16'
+GEÄ  VII.237.:1.2.1.1./T32 [ID 94, Dossier, E5, Eltern VII.237.:1.2.1.1., S.17] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1969' => '1968'
+        bis: '1970' => '1969'
+        Entstehungszeitraum, Anm.: '1969/70' => '1968/69'
+        [Darin]
+           -Grumberg, Jean-Claude: Morgen – Ein Fenster zur Strasse (Schauspielhaus Zürich)
+           -Maugham, Somerset: Finden Sie, dass Constance sich richtig verhält ? (Komödie im Marquardt; Stuttgart)
+           -Barillet, Pierre: 40 Karat (Komödie im Marquardt; Stuttgart)
+           -Die wundersame Liebesgeschichte der schönen Magelone (Tonhalle Zürich)
+           +Moliére: George Dandin (Schauspielhaus Zürich)
+           +Colette: Gigi (Komödie im Marquardt; Stuttgart)
+           +Anne-Marie Blanc lit poèmes, textes et lettres de Marie de St. Exupéry mère et d`Antoine de St. Exupéry (Galerietheater „Die Rampe“; Bern)
+GEÄ  VII.237.:1.2.1.1./T33 [ID 95, Dossier, E5, Eltern VII.237.:1.2.1.1., S.17] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1970' => '1969'
+        bis: '1971' => '1970'
+        Entstehungszeitraum, Anm.: '1970/71' => '1969/70'
+        [Darin]
+           -Barnes, Peter: Die herrschende Klasse (Schauspielhaus Zürich)
+           +Grumberg, Jean-Claude: Morgen – Ein Fenster zur Strasse (Schauspielhaus Zürich)
+           -Home, William Douglas: Handicap (Komödie im Marquardt; Stuttgart)
+           -Papp, Joseph: William Shakespeares "nackter" Hamlet (Schauspielhaus Zürich)
+           +Barillet, Pierre: 40 Karat (Komödie im Marquardt; Stuttgart)
+           +Die wundersame Liebesgeschichte der schönen Magelone (Tonhalle Zürich)
+GEÄ  VII.237.:1.2.1.1./T34 [ID 96, Dossier, E5, Eltern VII.237.:1.2.1.1., S.17] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1971' => '1970'
+        bis: '1972' => '1971'
+        Entstehungszeitraum, Anm.: '1971/72' => '1970/71'
+        [Darin]
+           -Albee, Edward: Alles vorbei (Schauspielhaus Zürich)
+           -Garcia Lorca, Federico: Dona Rosita bleibt ledig oder Die Sprache der Blumen (Schauspielhaus Zürich)
+           -Home, William Douglas: Handicap (Renaissance-Theater Berlin; Schauspielhaus Zürich)
+           -Pagnol, Marcel: César (Hörspiel-Programm; Radio DRS)
+           -Shaw, George Bernard: Candida (Hamburger Kammerspiele; Hamburg)
+           -Die wundersame Liebesgeschichte der schönen Magelone (Engadiner Konzert-Wochen)
+           +Barnes, Peter: Die herrschende Klasse (Schauspielhaus Zürich)
+           +Maugham, Somerset: Finden Sie, dass Constance sich richtig verhält ? (Komödie im Marquardt; Stuttgart)
+           +Home, William Douglas: Handicap (Komödie im Marquardt; Stuttgart)
+           +Papp, Joseph: William Shakespeares "nackter" Hamlet (Schauspielhaus Zürich)
+GEÄ  VII.237.:1.2.1.1./T35 [ID 97, Dossier, E5, Eltern VII.237.:1.2.1.1., S.17] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1972' => '1971'
+        bis: '1973' => '1972'
+        Entstehungszeitraum, Anm.: '1972/73' => '1971/72'
+        [Darin]
+           -Home, William Douglas: Handicap (Hamburger Kammerspiele; Hamburg)
+           -Feydeau, Georges: Einer muss der Dumme sein (Schauspielhaus Zürich)
+           -Die schöne Magelone (Schloss Thun)
+           +Albee, Edward: Alles vorbei (Schauspielhaus Zürich)
+           +Garcia Lorca, Federico: Dona Rosita bleibt ledig oder Die Sprache der Blumen (Schauspielhaus Zürich)
+           +Home, William Douglas: Handicap (Renaissance-Theater Berlin; Schauspielhaus Zürich)
+           +Pagnol, Marcel: César (Hörspiel-Programm; Radio DRS)
+           +Shaw, George Bernard: Candida (Hamburger Kammerspiele; Hamburg)
+           +Die wundersame Liebesgeschichte der schönen Magelone (Engadiner Konzert-Wochen)
+GEÄ  VII.237.:1.2.1.1./T36 [ID 98, Dossier, E5, Eltern VII.237.:1.2.1.1., S.17] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1973' => '1972'
+        bis: '1974' => '1973'
+        Entstehungszeitraum, Anm.: '1973/74' => '1972/73'
+        [Darin]
+           -Shakespeare, William: Hamlet (Schauspielhaus Zürich)
+           -Holt, Hans: Der Traumtänzer (Komödie im Marquardt; Stuttgart)
+           -Die schöne Magelone (Casino Zug / Clubhaus Brown Boveri))
+           +Home, William Douglas: Handicap (Hamburger Kammerspiele; Hamburg)
+           +Feydeau, Georges: Einer muss der Dumme sein (Schauspielhaus Zürich)
+           +Die schöne Magelone (Schloss Thun)
+GEÄ  VII.237.:1.2.1.1./T37 [ID 99, Dossier, E5, Eltern VII.237.:1.2.1.1., S.17] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1974' => '1973'
+        bis: '1975' => '1974'
+        Entstehungszeitraum, Anm.: '1974/75' => '1973/74'
+        [Darin]
+           -Härtling, Peter: Ein Abend, eine Nacht, ein Morgen (Fernsehspiel; Eigenproduktion des Senders Freies Berlin)
+           -Kriegsmobilmachung August 1914. Unterhaltungsprogramm (Militärreithalle; Zürich)
+           -Pinter, Harold: Alte Zeiten (Euro-Studio; Tournee)
+           -Shaffer, Peter: Equus (Schauspielhaus Zürich)
+           +Shakespeare, William: Hamlet (Schauspielhaus Zürich)
+           +Holt, Hans: Der Traumtänzer (Komödie im Marquardt; Stuttgart)
+           +Die schöne Magelone (Casino Zug / Clubhaus Brown Boveri))
+GEÄ  VII.237.:1.2.1.1./T38 [ID 100, Dossier, E5, Eltern VII.237.:1.2.1.1., S.17] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1975' => '1974'
+        bis: '1976' => '1975'
+        Entstehungszeitraum, Anm.: '1975/76' => '1974/75'
+        [Darin]
+           -Giraudoux, Jean: Die Irre von Chaillot (Schauspielhaus Zürich)
+           -Kesselring, Joseph: Spitzenhäubchen und Arsenik (Schauspielhaus Zürich)
+           +Härtling, Peter: Ein Abend, eine Nacht, ein Morgen (Fernsehspiel; Eigenproduktion des Senders Freies Berlin)
+           +Kriegsmobilmachung August 1914. Unterhaltungsprogramm (Militärreithalle; Zürich)
+           -Shakespeare, William: Leben und Tod König Richards des Dritten (Schauspielhaus Zürich)
+           +Shaffer, Peter: Equus (Schauspielhaus Zürich)
+        PDF-Seite: '18' => '17'
+GEÄ  VII.237.:1.2.1.1./T39 [ID 101, Dossier, E5, Eltern VII.237.:1.2.1.1., S.18] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1976' => '1975'
+        bis: '1977' => '1976'
+        Entstehungszeitraum, Anm.: '1976/77' => '1975/76'
+        [Darin]
+           -Bellon, Loleh: Wie immer am Donnerstag (Renaissance-Theater; Berlin)
+           -Die glättischt Freinacht (Weihnachts-Veranstaltung in Einkaufszentrum Glatt; Wallisellen)
+           -Hacks, Peter: Ein Gespräch im Hause Stein über den abwesenden Herrn von Goethe (Schauspielhaus Zürich)
+           -Die wundersame Liebesgeschichte der schönen Magelone (Alte Kirche Boswil)
+           +Giraudoux, Jean: Die Irre von Chaillot (Schauspielhaus Zürich)
+           +Kesselring, Joseph: Spitzenhäubchen und Arsenik (Schauspielhaus Zürich)
+           +Pinter, Harold: Alte Zeiten (Euro-Studio; Tournee)
+           +Shakespeare, William: Leben und Tod König Richards des Dritten (Schauspielhaus Zürich)
+GEÄ  VII.237.:1.2.1.1./T40 [ID 102, Dossier, E5, Eltern VII.237.:1.2.1.1., S.18] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1977' => '1976'
+        bis: '1978' => '1977'
+        Entstehungszeitraum, Anm.: '1977/78' => '1976/77'
+        [Darin]
+           -Beckett, Samuel: Glückliche Tage (Schauspielhaus Zürich)
+           -Feydeau, Georges: Der Floh im Ohr (Schauspielhaus Zürich)
+           -Guicciardini, Roberto: Candide oder Die wechselvolle Reise durch den Archipel der Vernunft (Schauspielhaus Zürich)
+           -Hacks, Peter: Ein Gespräch im Hause Stein über den abwesenden Herrn von Goethe (Stadttheater Chur; Chur)
+           -Das Märchen von der schönen Magelone (Evangelisches Kirchgemeindehaus Kreuzlingen)
+           +Bellon, Loleh: Wie immer am Donnerstag (Renaissance-Theater; Berlin)
+           +Die glättischt Freinacht (Weihnachts-Veranstaltung in Einkaufszentrum Glatt; Wallisellen)
+           +Hacks, Peter: Ein Gespräch im Hause Stein über den abwesenden Herrn von Goethe (Schauspielhaus Zürich)
+           +Die wundersame Liebesgeschichte der schönen Magelone (Alte Kirche Boswil)
+GEÄ  VII.237.:1.2.1.1./T41 [ID 103, Dossier, E5, Eltern VII.237.:1.2.1.1., S.18] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1978' => '1977'
+        bis: '1979' => '1978'
+        Entstehungszeitraum, Anm.: '1978/79' => '1977/78'
+        [Darin]
+           -Hacks, Peter: Ein Gespräch im Hause Stein über den abwesenden Herrn von Goethe (Schauspielhaus Zürich / Paris)
+           -Huonker, Gustav: Zürich, Florhofgasse 1 (Tucholsky und Nuuna) (Schauspielhaus Zürich)
+           -Matinee zugunsten der Stiftung Alte Kirche Boswil (Schauspielhaus Zürich)
+           -So leb denn wohl, du altes Haus! Abschied vom Stadttheater Winterthur.
+           -Strauss, Botho: Gross und Klein (Schauspielhaus Zürich)
+           -„Die Bühne der Welt“ – „die Weltbühne“ (Keller-Forum, Schauspielhaus Zürich)
+           +Beckett, Samuel: Glückliche Tage (Schauspielhaus Zürich)
+           +Feydeau, Georges: Der Floh im Ohr (Schauspielhaus Zürich)
+           +Guicciardini, Roberto: Candide oder Die wechselvolle Reise durch den Archipel der Vernunft (Schauspielhaus Zürich)
+           +Hacks, Peter: Ein Gespräch im Hause Stein über den abwesenden Herrn von Goethe (Stadttheater Chur; Chur)
+           +Das Märchen von der schönen Magelone (Evangelisches Kirchgemeindehaus Kreuzlingen)
+GEÄ  VII.237.:1.2.1.1./T42 [ID 104, Dossier, E5, Eltern VII.237.:1.2.1.1., S.18] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1979' => '1978'
+        bis: '1980' => '1979'
+        Entstehungszeitraum, Anm.: '1979/80' => '1978/79'
+        [Darin]
+           -Arbusow, Alexej: Altmodische Komödie (Theater am Hechtplatz; Zürich)
+           -Ibsen, Henrik: John Gabriel Borkman (Schauspielhaus Zürich)
+           +Hacks, Peter: Ein Gespräch im Hause Stein über den abwesenden Herrn von Goethe (Schauspielhaus Zürich / Paris)
+           +Huonker, Gustav: Zürich, Florhofgasse 1 (Tucholsky und Nuuna) (Schauspielhaus Zürich)
+           +Matinee zugunsten der Stiftung Alte Kirche Boswil (Schauspielhaus Zürich)
+           +So leb denn wohl, du altes Haus! Abschied vom Stadttheater Winterthur.
+           +Strauss, Botho: Gross und Klein (Schauspielhaus Zürich)
+           +„Die Bühne der Welt“ – „die Weltbühne“ (Keller-Forum, Schauspielhaus Zürich)
+GEÄ  VII.237.:1.2.1.1./T43 [ID 105, Dossier, E5, Eltern VII.237.:1.2.1.1., S.18] Programme | Von/bis (>= x und <=y)
+        Titel: 'Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 43' => 'Programme'
+        Ebene: '4' => '5'
+        von: '1980' => '1979'
+        bis: '1981' => '1980'
+        Entstehungszeitraum, Anm.: '' => '1979/80'
+        [Darin]
+           -Programme 1980/81
+           -Die ferne Laute. Musik und Dichtung der Jahrhundertwende (Schloss Thun)
+           -Musikalisch umrahmte Lesung: Undine (Gästehaus Migros Gubel am Zürichsee)
+           +Arbusow, Alexej: Altmodische Komödie (Theater am Hechtplatz; Zürich)
+           +Ibsen, Henrik: John Gabriel Borkman (Schauspielhaus Zürich)
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Titel'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.237.:1.2.1.1./T44 [ID 106, Dossier, E5, Eltern VII.237.:1.2.1.1., S.18] Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 44 | Von/bis (>= x und <=y)
+        Titel: 'Programme' => 'Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 44'
+        Ebene: '4' => '5'
+        von: '1981' => '1980'
+        bis: '1982' => '1981'
+        Entstehungszeitraum, Anm.: '1981/82' => ''
+        [Darin]
+           -Schumann-Soiree (Schloss-Konzertwochen Thun)
+           +Programme 1980/81
+           +Die ferne Laute. Musik und Dichtung der Jahrhundertwende (Schloss Thun)
+           +Musikalisch umrahmte Lesung: Undine (Gästehaus Migros Gubel am Zürichsee)
+        Zeitraum-Quelle: 'Titel' => 'Darin (geschätzt)'
+        Prüfhinweise: '' => 'Zeitraum aus den Jahreszahlen im Darin geschätzt.'
+GEÄ  VII.237.:1.2.1.1./T45 [ID 107, Dossier, E5, Eltern VII.237.:1.2.1.1., S.18] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1982' => '1981'
+        bis: '1983' => '1982'
+        Entstehungszeitraum, Anm.: '1982/83' => '1981/82'
+        [Darin]
+           -Kilty, Jerome: Geliebter Lügner (Fritz Rémond Theater im ZOO; Frankfurt a. M.)
+           -Kilty, Jerome: Geliebter Lügner (Fritz Rémond Theater im ZOO; Zürich)
+           -Kobrynski, Lazare: Die Dame mit dem Hündchen (Atelier Theater; Bern)
+           -Strauss, Botho: Trilogie des Wiedersehens (Schauspielhaus Zürich)
+           -Lieder und Gesänge von Johannes Brahms (Château de Guévaux)
+           -Rezitation von Anne-Marie Blanc (Haydn-Fest; Basel 1983)
+           +Schumann-Soiree (Schloss-Konzertwochen Thun)
+GEÄ  VII.237.:1.2.1.1./T46 [ID 108, Dossier, E5, Eltern VII.237.:1.2.1.1., S.18] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1983' => '1982'
+        bis: '1984' => '1983'
+        Entstehungszeitraum, Anm.: '1983/84' => '1982/83'
+        [Darin]
+           -Hasenclever, Walter: Ein besserer Herr (Schauspielhaus Zürich)
+           -Im Tierkostüm. Gedichte, Sprüche und Notizen von Christian Morgenstern (Schauspielhaus Zürich / Theater im Burgbachkeller, Zug / St. Moritz)
+           +Kilty, Jerome: Geliebter Lügner (Fritz Rémond Theater im ZOO; Frankfurt a. M.)
+           +Kilty, Jerome: Geliebter Lügner (Fritz Rémond Theater im ZOO; Zürich)
+           +Kobrynski, Lazare: Die Dame mit dem Hündchen (Atelier Theater; Bern)
+           +Strauss, Botho: Trilogie des Wiedersehens (Schauspielhaus Zürich)
+           +Lieder und Gesänge von Johannes Brahms (Château de Guévaux)
+           +Rezitation von Anne-Marie Blanc (Haydn-Fest; Basel 1983)
+        PDF-Seite: '19' => '18'
+GEÄ  VII.237.:1.2.1.1./T47 [ID 109, Dossier, E5, Eltern VII.237.:1.2.1.1., S.19] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1984' => '1983'
+        bis: '1985' => '1984'
+        Entstehungszeitraum, Anm.: '1984/85' => '1983/84'
+        [Darin]
+           -Bernhard, Thomas: Am Ziel (Atelier Theater; Bern)
+           +Hasenclever, Walter: Ein besserer Herr (Schauspielhaus Zürich)
+           +Im Tierkostüm. Gedichte, Sprüche und Notizen von Christian Morgenstern (Schauspielhaus Zürich / Theater im Burgbachkeller, Zug / St. Moritz)
+GEÄ  VII.237.:1.2.1.1./T48 [ID 110, Dossier, E5, Eltern VII.237.:1.2.1.1., S.19] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1986' => '1984'
+        bis: '1987' => '1985'
+        Entstehungszeitraum, Anm.: '1986/87' => '1984/85'
+        [Darin]
+           -O'Neill, Eugene: Eines langen Tages Reise in die Nacht (Atelier Theater; Bern) Anne-Marie Blanc rezitiert Texte von Ingeborg Bachmann (Literarische Vereinigung Winterthu
+           +Bernhard, Thomas: Am Ziel (Atelier Theater; Bern)
+GEÄ  VII.237.:1.2.1.1./T49 [ID 111, Dossier, E5, Eltern VII.237.:1.2.1.1., S.19] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1987' => '1986'
+        bis: '1988' => '1987'
+        Entstehungszeitraum, Anm.: '1987/88' => '1986/87'
+        [Darin]
+           -Fischer, Peter: Werft eure Herzen über alle Grenzen (Schauspielhaus Zürich) Matinee zugunsten des Schweizer Kinderdorfs in Israel (Basel-Bischofshof) Matinee Harry Buckw
+           +O'Neill, Eugene: Eines langen Tages Reise in die Nacht (Atelier Theater; Bern) Anne-Marie Blanc rezitiert Texte von Ingeborg Bachmann (Literarische Vereinigung Winterthu
+GEÄ  VII.237.:1.2.1.1./T50 [ID 112, Dossier, E5, Eltern VII.237.:1.2.1.1., S.19] Programme | Von/bis (>= x und <=y)
+        Titel: 'Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 50' => 'Programme'
+        Ebene: '4' => '5'
+        von: '1917' => '1987'
+        bis: '1989' => '1988'
+        Entstehungszeitraum, Anm.: '' => '1987/88'
+        [Darin]
+           -Programme 1988/89
+           -Clark, Horst: Offener Brief (Fritz Rémond Theater im ZOO; Frankfurt a. M.)
+           -Clark, Horst: Offener Brief (Fritz Rémond Theater im ZOO; Zürch)
+           -Hütte, Klaus; Blanc, Anne-Marie: Balladen in Wort und Musik (Zelglitrotte Hettlingen)
+           -Anne Cuneo: Madame Paradis (Théâtre de Carouge; La Chaux-de-Fonds)
+           -Die wiedergefundene Zeit (Matinee zum Thema Altern, Theater am Neumarkt)
+           -Liebeserklärung. Das Echo der Gefühle im Schweizer Film 1917 – 1987 (Zürich)
+           -Fabeln und Balladen (Zelglitrotte Hettlingen, 1989)
+           -150 Jahre Rüeschliker Kulturleben (Hotel Belvoir)
+           +Fischer, Peter: Werft eure Herzen über alle Grenzen (Schauspielhaus Zürich) Matinee zugunsten des Schweizer Kinderdorfs in Israel (Basel-Bischofshof) Matinee Harry Buckw
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Titel'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.237.:1.2.1.1./T51 [ID 113, Dossier, E5, Eltern VII.237.:1.2.1.1., S.19] Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 51 | Von/bis (>= x und <=y)
+        Titel: 'Programme' => 'Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 51'
+        Ebene: '4' => '5'
+        von: '1989' => '1917'
+        bis: '1990' => '1989'
+        Entstehungszeitraum, Anm.: '1989/90' => ''
+        [Darin]
+           -Anne-Marie Blanc zu Ehren. Eine Matinée zu ihrem 70. Geburtstag. (Schauspielhaus Zürich)
+           -Hürlimann, Thomas: Der letzte Gast (Schauspielhaus Zürich)
+           -Bernhard, Thomas: Am Ziel (Schauspielhaus Zürich)
+           -Unter Sternen. Literarisch-musikalische Soirée (Thuner Schlosskonzert)
+           -Lesung (Insel Ufenau – Ulrich von Hutten, 1990)
+           -Rezitations-Matinee: Fabeln und Balladen (Wildt`schen Haus / Ramsteinerhof, Basel; Château de Guévaux)
+           +Programme 1988/89
+           +Clark, Horst: Offener Brief (Fritz Rémond Theater im ZOO; Frankfurt a. M.)
+           +Clark, Horst: Offener Brief (Fritz Rémond Theater im ZOO; Zürch)
+           +Hütte, Klaus; Blanc, Anne-Marie: Balladen in Wort und Musik (Zelglitrotte Hettlingen)
+           +Anne Cuneo: Madame Paradis (Théâtre de Carouge; La Chaux-de-Fonds)
+           +Die wiedergefundene Zeit (Matinee zum Thema Altern, Theater am Neumarkt)
+           +Liebeserklärung. Das Echo der Gefühle im Schweizer Film 1917 – 1987 (Zürich)
+           +Fabeln und Balladen (Zelglitrotte Hettlingen, 1989)
+           +150 Jahre Rüeschliker Kulturleben (Hotel Belvoir)
+        Zeitraum-Quelle: 'Titel' => 'Darin (geschätzt)'
+        Prüfhinweise: '' => 'Zeitraum aus den Jahreszahlen im Darin geschätzt.'
+GEÄ  VII.237.:1.2.1.1./T52 [ID 114, Dossier, E5, Eltern VII.237.:1.2.1.1., S.19] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1990' => '1989'
+        bis: '1991' => '1990'
+        Entstehungszeitraum, Anm.: '1990/91' => '1989/90'
+        [Darin]
+           -Saint-Exupéry, Antoine de: Der kleine Prinz (Lesung: Lighthouse-Gala; Zürich)
+           -Hochhuth, Rolf: Ärztinnen (Schauspielhaus Zürich)
+           -15. Mai: Max Frisch-Tag (Schauspielhaus Zürich)
+           -Unter Sternen. Literarisch-musikalische Soiree
+           -Rezitations-Matinee: Fabeln und Balladen (Aulaverein Bolligen)
+           -Franz Schubert: Lieder und Gesänge auf Gedichte von Johann Mayrhofer, Franz von Schober und Ernst Schulze (Stadthaus-Konzerte im Château de Guévaux)
+           +Anne-Marie Blanc zu Ehren. Eine Matinée zu ihrem 70. Geburtstag. (Schauspielhaus Zürich)
+           +Hürlimann, Thomas: Der letzte Gast (Schauspielhaus Zürich)
+           +Bernhard, Thomas: Am Ziel (Schauspielhaus Zürich)
+           +Unter Sternen. Literarisch-musikalische Soirée (Thuner Schlosskonzert)
+           +Lesung (Insel Ufenau – Ulrich von Hutten, 1990)
+           +Rezitations-Matinee: Fabeln und Balladen (Wildt`schen Haus / Ramsteinerhof, Basel; Château de Guévaux)
+GEÄ  VII.237.:1.2.1.1./T53 [ID 115, Dossier, E5, Eltern VII.237.:1.2.1.1., S.19] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1991' => '1990'
+        bis: '1992' => '1991'
+        Entstehungszeitraum, Anm.: '1991/92' => '1990/91'
+        [Darin]
+           -Silvester-Gala 1991. Beitrag Blanc-Brenk-Capretti (Programm, Texte, Musik) Veranstaltungen in Centre Culturel Suisse: Va-et-vient franco-germanique Rezitations-Matinee (
+           -Wer war Christian Morgenstern? Versuch einer Annäherung (Calvinhaus in Bern)
+           +Saint-Exupéry, Antoine de: Der kleine Prinz (Lesung: Lighthouse-Gala; Zürich)
+           +Hochhuth, Rolf: Ärztinnen (Schauspielhaus Zürich)
+           +15. Mai: Max Frisch-Tag (Schauspielhaus Zürich)
+           +Unter Sternen. Literarisch-musikalische Soiree
+           +Rezitations-Matinee: Fabeln und Balladen (Aulaverein Bolligen)
+           +Franz Schubert: Lieder und Gesänge auf Gedichte von Johann Mayrhofer, Franz von Schober und Ernst Schulze (Stadthaus-Konzerte im Château de Guévaux)
+        PDF-Seite: '20' => '19'
+GEÄ  VII.237.:1.2.1.1./T54 [ID 116, Dossier, E5, Eltern VII.237.:1.2.1.1., S.20] Programme | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1992' => '1991'
+        bis: '1993' => '1992'
+        Entstehungszeitraum, Anm.: '1992/93' => '1991/92'
+        [Darin]
+           -Robert Schumann-Matinee (Konzerte im Château von Guévaux)
+           +Silvester-Gala 1991. Beitrag Blanc-Brenk-Capretti (Programm, Texte, Musik) Veranstaltungen in Centre Culturel Suisse: Va-et-vient franco-germanique Rezitations-Matinee (
+           +Wer war Christian Morgenstern? Versuch einer Annäherung (Calvinhaus in Bern)
+GEÄ  VII.237.:1.2.1.1./T55 [ID 117, Dossier, E5, Eltern VII.237.:1.2.1.1., S.20] Programme | Von/bis (>= x und <=y)
+        Titel: 'Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 55' => 'Programme'
+        Ebene: '4' => '5'
+        von: '1993' => '1992'
+        bis: '1994' => '1993'
+        Entstehungszeitraum, Anm.: '' => '1992/93'
+        [Darin]
+           -Programme 1993/94
+           -Anne-Marie Blanc liest Ingeborg Bachmann (Atelier Theater Bern)
+           -Driving Miss Daisy (Theater am Hechtplatz)
+           -Frauen-Wahlveranstaltung im Kino Morgental. Lesung aus „Die Wachsflügelfrau“ von Eveline Hasler
+           -Lyrik und Prosa von Silja Walter (Musik und Dichtung)
+           -Konzerte im Chateau de Guevaux; Rezitation: Eduard Mörike und Hugo Wolf-Briefe Abdankung Walter A. Bechtler-Heer (Kirche St. Peter; Zürich)
+           +Robert Schumann-Matinee (Konzerte im Château von Guévaux)
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Titel'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.237.:1.2.1.1./T56 [ID 118, Dossier, E5, Eltern VII.237.:1.2.1.1., S.20] Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 56 | Von/bis (>= x und <=y)
+        Titel: 'Programme' => 'Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 56'
+        Ebene: '4' => '5'
+        von: '1994' => '1993'
+        bis: '1995' => '1994'
+        Entstehungszeitraum, Anm.: '1994/95' => ''
+        [Darin]
+           -Konzerte im Château de Guévaux, Rezitation
+           -Ein Abend mit der Schauspielerin Anne-Marie Blanc, im Gespräch mit Peter Peiker 70. Geburtstag von Max Beat Ludwig (Casino Bern)
+           +Programme 1993/94
+           +Anne-Marie Blanc liest Ingeborg Bachmann (Atelier Theater Bern)
+           +Driving Miss Daisy (Theater am Hechtplatz)
+           +Frauen-Wahlveranstaltung im Kino Morgental. Lesung aus „Die Wachsflügelfrau“ von Eveline Hasler
+           +Lyrik und Prosa von Silja Walter (Musik und Dichtung)
+           +Konzerte im Chateau de Guevaux; Rezitation: Eduard Mörike und Hugo Wolf-Briefe Abdankung Walter A. Bechtler-Heer (Kirche St. Peter; Zürich)
+        Zeitraum-Quelle: 'Titel' => 'Darin (geschätzt)'
+        Prüfhinweise: '' => 'Zeitraum aus den Jahreszahlen im Darin geschätzt.'
+GEÄ  VII.237.:1.2.1.1./T57 [ID 119, Dossier, E5, Eltern VII.237.:1.2.1.1., S.20] Programme | Von/bis (>= x und <=y)
+        Titel: 'Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 57' => 'Programme'
+        Ebene: '4' => '5'
+        von: '1995' => '1994'
+        bis: '1996' => '1995'
+        Entstehungszeitraum, Anm.: '' => '1994/95'
+        [Darin]
+           -Programme 1995/96
+           -Drei grosse Frauen (Stadttheater St. Gallen; Programmheft und div. Materialien)
+           -Hannah Arendt Tage Zürich (Matinee Schauspielhaus Zürich)
+           -Aulakonzert (Uni-Konzert, Universität Zürich)
+           -Gewiss ein Vorschmack vom Paradiese! (Aulakonzert, Universität Zürich)
+           -Matinee zum 100. Geburtstag von Oskar Wälterlin (Schauspielhaus Zürich)
+           +Konzerte im Château de Guévaux, Rezitation
+           +Ein Abend mit der Schauspielerin Anne-Marie Blanc, im Gespräch mit Peter Peiker 70. Geburtstag von Max Beat Ludwig (Casino Bern)
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Titel'
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => ''
+GEÄ  VII.237.:1.2.1.1./T58 [ID 120, Dossier, E5, Eltern VII.237.:1.2.1.1., S.20] Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 58 | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1996' => '1995'
+        bis: '1997' => '1996'
+        [Darin]
+           -Programme 1996/97
+           -Der graue Engel (Schauspielhaus Zürich)
+           -Matinee des Vereins „Konzerte im Château de Guévaux“
+           -Europa unsere gemeinsame Sache (Münsterhof Zürich)
+           -Literatur und Musik (Lesung, Stadttheater Schaffhausen)
+           -Baselbieter Konzerte in Liestal, Rezitation (Stadtkirche Liestal)
+           -Johannes Brahms „Die schöne Magelone“ (Baselbieter Konzerte in Liestal)
+           -Johannes Brahms-Konzert, Rezitation (Stadthaus Zürich)
+           -Balladen (Zumiker Kultur Kreis, Gemeindesaal Zumikon)
+           -Anne-Marie Blanc liest Rainer Maria Rilke (Konzert des Männerchors Zürich, Fraumünster Zürich 1997)
+           -Gedenkveranstaltung für Jean Rudolf von Salis (Schauspielhaus Zürich)
+           +Programme 1995/96
+           +Drei grosse Frauen (Stadttheater St. Gallen; Programmheft und div. Materialien)
+           +Hannah Arendt Tage Zürich (Matinee Schauspielhaus Zürich)
+           +Aulakonzert (Uni-Konzert, Universität Zürich)
+           +Gewiss ein Vorschmack vom Paradiese! (Aulakonzert, Universität Zürich)
+           +Matinee zum 100. Geburtstag von Oskar Wälterlin (Schauspielhaus Zürich)
+GEÄ  VII.237.:1.2.1.1./T59 [ID 121, Dossier, E5, Eltern VII.237.:1.2.1.1., S.20] Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 59 | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1997' => '1996'
+        bis: '1998' => '1997'
+        [Darin]
+           -Programme 1997/98
+           -Der Krüppel von Inishmaan (Schauspielhaus Zürich)
+           -Romulus der Grosse (Schauspielhaus Zürich)
+           -Briefe Eduard Mörikes an Luise Rau mit einem Brief Hugo Wolfs an Frieda Zerny als Prolog und als Epilog ein Gedicht von Frieda Zerny auf Hugo Wolf. Matinee (Verein „Konz
+           -Theodor Fontane: Balladen und Gedichte. Matinee (Verein „Konzerte im Château de Guévaux“)
+           -Weltrotkreuztag (Lesung)
+           -Alliance Française de Zurich (Hotel Marriott, Zürich)
+           -Die sieben Worte Jesu am Kreuz in Dichtung und Musik (Klosterkirche Einsiedeln)
+           -Eine Geschichte am Sonntagabend. Die grosse Zeit der Pfauenbühne (Helferei Grossmünster)
+           +Programme 1996/97
+           +Der graue Engel (Schauspielhaus Zürich)
+           +Matinee des Vereins „Konzerte im Château de Guévaux“
+           +Europa unsere gemeinsame Sache (Münsterhof Zürich)
+           +Literatur und Musik (Lesung, Stadttheater Schaffhausen)
+           +Baselbieter Konzerte in Liestal, Rezitation (Stadtkirche Liestal)
+           +Johannes Brahms „Die schöne Magelone“ (Baselbieter Konzerte in Liestal)
+           +Johannes Brahms-Konzert, Rezitation (Stadthaus Zürich)
+           +Balladen (Zumiker Kultur Kreis, Gemeindesaal Zumikon)
+           +Anne-Marie Blanc liest Rainer Maria Rilke (Konzert des Männerchors Zürich, Fraumünster Zürich 1997)
+           +Gedenkveranstaltung für Jean Rudolf von Salis (Schauspielhaus Zürich)
+GEÄ  VII.237.:1.2.1.1./T60 [ID 122, Dossier, E5, Eltern VII.237.:1.2.1.1., S.20] Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 60 | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1998' => '1997'
+        bis: '1999' => '1998'
+        [Darin]
+           -Programme 1998/99
+           -La petite Gilberte d. h. Frau Anne-Marie Blanc (Kino Claudia; Kloten)
+           -Ein Abend mit Anne-Marie Blanc (Kulturkreis der Kolonie Tobler- und Hochstrasse; Zürich)
+           -Lieder und Balladen im Château de Guévaux
+           -Lesung während des Gottesdienstes: Aids-Gottesdienst für alle zum mit-fühlen, mithoffen, mit-erleben (Ökumenisches Aidspfarramt; Zürich)
+           +Programme 1997/98
+           +Der Krüppel von Inishmaan (Schauspielhaus Zürich)
+           +Romulus der Grosse (Schauspielhaus Zürich)
+           +Briefe Eduard Mörikes an Luise Rau mit einem Brief Hugo Wolfs an Frieda Zerny als Prolog und als Epilog ein Gedicht von Frieda Zerny auf Hugo Wolf. Matinee (Verein „Konz
+           +Theodor Fontane: Balladen und Gedichte. Matinee (Verein „Konzerte im Château de Guévaux“)
+           +Weltrotkreuztag (Lesung)
+           +Alliance Française de Zurich (Hotel Marriott, Zürich)
+           +Die sieben Worte Jesu am Kreuz in Dichtung und Musik (Klosterkirche Einsiedeln)
+           +Eine Geschichte am Sonntagabend. Die grosse Zeit der Pfauenbühne (Helferei Grossmünster)
+        PDF-Seite: '21' => '20'
+GEÄ  VII.237.:1.2.1.1./T61 [ID 123, Dossier, E5, Eltern VII.237.:1.2.1.1., S.21] Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 61 | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '1926' => '1998'
+        bis: '2000' => '1999'
+        [Darin]
+           -Programme 1999/00
+           -Boulevard der Dämmerung (Theater am Hechtplatz; Das Theater an der Effiengerstrasse)
+           -Ingeborg Bachmann 1926 – 1973; Aus der Selbstbiografie Gedichte (Matinee, Verein „Konzerte im Chateau de Guevaux“)
+           -Lieder von Robert Schumann (Schloss Guévaux)
+           -Julia Mann (Lesung)
+           -Claude Debussy und Ernest Chausson. Eine Begegnung (Musikhochschule Zürich)
+           +Programme 1998/99
+           +La petite Gilberte d. h. Frau Anne-Marie Blanc (Kino Claudia; Kloten)
+           +Ein Abend mit Anne-Marie Blanc (Kulturkreis der Kolonie Tobler- und Hochstrasse; Zürich)
+           +Lieder und Balladen im Château de Guévaux
+           +Lesung während des Gottesdienstes: Aids-Gottesdienst für alle zum mit-fühlen, mithoffen, mit-erleben (Ökumenisches Aidspfarramt; Zürich)
+GEÄ  VII.237.:1.2.1.1./T62 [ID 124, Dossier, E5, Eltern VII.237.:1.2.1.1., S.21] Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 62 | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '2000' => '1926'
+        bis: '2001' => '2000'
+        [Darin]
+           -Programme 2000/01
+           -Anne-Marie Blanc, Geschichten zur Weihnacht (Seniorenweihnacht 2000)
+           -Kantaten und Lieder. Matinee mit Rezitation und Musik (Château de Guévaux)
+           -Anne-Marie Blanc liesst aus „Schumann“ von Peter Härtling (7. Konzert Spektrum Musikhochschule 2000/01)
+           -Schweizer Schriftsteller über ihre Berufe (Feier in Gerzensee)
+           -Anne-Marie Blanc liest kleine Prosatexte von Robert Walser (Kirchgemeindehaus, Baumackerstrasse in Zürich)
+           -Julia Mann. Lebensstationen der Mutter von Heinrich und Thomas Mann (Strauhof Zürich)
+           +Programme 1999/00
+           +Boulevard der Dämmerung (Theater am Hechtplatz; Das Theater an der Effiengerstrasse)
+           +Ingeborg Bachmann 1926 – 1973; Aus der Selbstbiografie Gedichte (Matinee, Verein „Konzerte im Chateau de Guevaux“)
+           +Lieder von Robert Schumann (Schloss Guévaux)
+           +Julia Mann (Lesung)
+           +Claude Debussy und Ernest Chausson. Eine Begegnung (Musikhochschule Zürich)
+GEÄ  VII.237.:1.2.1.1./T63 [ID 125, Dossier, E5, Eltern VII.237.:1.2.1.1., S.21] Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 63 | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '2001' => '2000'
+        bis: '2002' => '2001'
+        [Darin]
+           -Programme 2001/02
+           -Anne-Marie Blanc, Schauspielerin (Arthouse Movie, Zürich)
+           -Hoher Besuch bei den Pensionierten der Novartis (Personalrestaurant Klybeck; Basel)
+           -Anne-Marie Blanc wird bei uns sein (Kirchgemeindehaus; Zürich-Oerlikon)
+           -Malgré moi – Hommage an Jacques Prévert, Matinee (Theater Heubühne / Theater Stadelhofen)
+           -Erika Mann: Das letzte Jahr. Bericht über meinen Vater (Lesung, Forum der Kirche Stadel)
+           -Lesung: Die Nachtigall, Märchen von Hans Christian Andersen (Flims)
+           +Programme 2000/01
+           +Anne-Marie Blanc, Geschichten zur Weihnacht (Seniorenweihnacht 2000)
+           +Kantaten und Lieder. Matinee mit Rezitation und Musik (Château de Guévaux)
+           +Anne-Marie Blanc liesst aus „Schumann“ von Peter Härtling (7. Konzert Spektrum Musikhochschule 2000/01)
+           +Schweizer Schriftsteller über ihre Berufe (Feier in Gerzensee)
+           +Anne-Marie Blanc liest kleine Prosatexte von Robert Walser (Kirchgemeindehaus, Baumackerstrasse in Zürich)
+           +Julia Mann. Lebensstationen der Mutter von Heinrich und Thomas Mann (Strauhof Zürich)
+GEÄ  VII.237.:1.2.1.1./T64 [ID 126, Dossier, E5, Eltern VII.237.:1.2.1.1., S.21] Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 64 | Von/bis (>= x und <=y)
+        Ebene: '4' => '5'
+        von: '2002' => '2001'
+        bis: '2003' => '2002'
+        [Darin]
+           -Programme 2002/03
+           -Basel Sinfonietta (Casino Bern)
+           -Märchen, Musik (Quartier-Kultur im Kreis 6)
+           -Gottfried Keller: Zwei Legenden (Guévaux-Konzerte 2002)
+           -Veranstaltung: Dank-, Buss- und Bettag (Evangelisch-Reformierte Kirchgemeinde Horgen)
+           -Anne-Marie Blanc liest Kurt Guggenheim
+           -Thomas Demenga. Orchesterkonzert (Tonhalle St. Gallen)
+           -Oratorio de Noël. Weihnachtskonzert (Kirche St. Laurenzen, St. Gallen)
+           -Aribert Reimann: Bernarda Albas Haus (Stadttheater Bern)
+           -Basel Sinfonietta (Stadtcasino Basel)
+           -Wie klang die Welt zurzeit von „Gilberte de Courgenay“? (UBS Arena Konzert an der EXPO.02)
+           +Programme 2001/02
+           +Anne-Marie Blanc, Schauspielerin (Arthouse Movie, Zürich)
+           +Hoher Besuch bei den Pensionierten der Novartis (Personalrestaurant Klybeck; Basel)
+           +Anne-Marie Blanc wird bei uns sein (Kirchgemeindehaus; Zürich-Oerlikon)
+           +Malgré moi – Hommage an Jacques Prévert, Matinee (Theater Heubühne / Theater Stadelhofen)
+           +Erika Mann: Das letzte Jahr. Bericht über meinen Vater (Lesung, Forum der Kirche Stadel)
+           +Lesung: Die Nachtigall, Märchen von Hans Christian Andersen (Flims)
+        PDF-Seite: '22' => '21'
+GEÄ  VII.237.:1.2.1.1./T65 [ID 127, Dossier, E5, Eltern VII.237.:1.2.1.1., S.22] Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 65 | Von/bis (>= x und <=y)
+        Titel: 'Programme' => 'Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 65'
+        Ebene: '4' => '5'
+        von: '2003' => '2002'
+        bis: '2004' => '2003'
+        Entstehungszeitraum, Anm.: '2003/04' => ''
+        [Darin]
+           -Lieder, Balladen, Kantaten. Konzert für Cembalo (Chateau de Guevaux)
+           -MS [Multiple Sklerose] Benefizkonzert
+           -Savannah Bay (Reithalle; Kaserne Basel)
+           +Programme 2002/03
+           +Basel Sinfonietta (Casino Bern)
+           +Märchen, Musik (Quartier-Kultur im Kreis 6)
+           +Gottfried Keller: Zwei Legenden (Guévaux-Konzerte 2002)
+           +Veranstaltung: Dank-, Buss- und Bettag (Evangelisch-Reformierte Kirchgemeinde Horgen)
+           +Anne-Marie Blanc liest Kurt Guggenheim
+           +Thomas Demenga. Orchesterkonzert (Tonhalle St. Gallen)
+           +Oratorio de Noël. Weihnachtskonzert (Kirche St. Laurenzen, St. Gallen)
+           +Aribert Reimann: Bernarda Albas Haus (Stadttheater Bern)
+           +Basel Sinfonietta (Stadtcasino Basel)
+           +Wie klang die Welt zurzeit von „Gilberte de Courgenay“? (UBS Arena Konzert an der EXPO.02)
+        Zeitraum-Quelle: 'Titel' => 'Darin (geschätzt)'
+        Prüfhinweise: '' => 'Zeitraum aus den Jahreszahlen im Darin geschätzt.'
+GEÄ  VII.237.:1.2.1.1./T66 [ID 128, Dossier, E5, Eltern VII.237.:1.2.1.1., S.22] Programme | Von/bis (>= x und <=y)
+        Titel: 'Aufführungen und diverse Veranstaltungen mit Anne-Marie Blanc, Programmhefte, Teil 66' => 'Programme'
+        Ebene: '4' => '5'
+        von: '2004' => '2003'
+        bis: '2005' => '2004'
+        Entstehungszeitraum, Anm.: '' => '2003/04'
+        [Darin]
+           -Programme 2004/05
+           -UNICEF Day (Schiffbau Zürich)
+           -Savannah Bay (Theater am Kirchplatz, Schaan Liechtenstein)
+           -Anne-Marie Blanc liest „Der Alchimist“ von Paolo Coelho (Alt Züri Restaurant)
+           -Gioacchino Rossini – von Sünden und anderen Unfällen (Gemeindesaal Zumikon)
+           -undatierte Programme
+           -Goetz, Ruth; Goetz, Augustus: Der verborgene Strom (Tribüne; Berlin)
+           -Verneuil, Louis: Herr Lamberthier (Theater- und Tournée-Genossenschaft Zürich)
+           -Plauderei mit Anne-Marie Blanc (Arbeitsgemeinschaft 3. Lebensphase; Illnau-Effretikon)
+           -Die unwürdige Greisin (Volkshochschule Oberengadin in der St. Moritzer Laudinella)
+           -Anne-Marie Blanc begegnet und erzählt uns aus Ihrem Leben (Ref. Kirchgemeindehaus, Limmatstrasse 114, Zürich)
+           -Diverse undatierte Programmhefte
+           +Lieder, Balladen, Kantaten. Konzert für Cembalo (Chateau de Guevaux)
+           +MS [Multiple Sklerose] Benefizkonzert
+           +Savannah Bay (Reithalle; Kaserne Basel)
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Titel'
+        [Prüfhinweise]
+           -Verschobene Zeilenumbrüche in Listen repariert – Stichprobe prüfen.
+           -Zeitraum aus den Jahreszahlen im Darin geschätzt.
+           +
+GEÄ  VII.237.:1.2.1.2. [ID 130, Dossier, E4, Eltern VII.237.:1.2.1., S.22] Aufführungen und diverse Veranstaltungen ohne Anne-Marie Blanc als Mitwirkende, Programmhefte | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.2.2. [ID 131, Serie, E3, Eltern VII.237.:1.2., S.23] Rollenbücher | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.237.:1.2.2./T2 [ID 132, Dossier, E4, Eltern VII.237.:1.2.2., S.23] Rollenbücher | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.2.2./T3 [ID 133, Dossier, E4, Eltern VII.237.:1.2.2., S.23] Rollenbücher | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.2.2./T4 [ID 134, Dossier, E4, Eltern VII.237.:1.2.2., S.23] Rollenbücher | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.2.2./T5 [ID 135, Dossier, E4, Eltern VII.237.:1.2.2., S.24] Rollenbücher | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.2.2./T6 [ID 136, Dossier, E4, Eltern VII.237.:1.2.2., S.24] Rollenbücher | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.2.2./T7 [ID 137, Dossier, E4, Eltern VII.237.:1.2.2., S.25] Rollenbücher | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.2.2./T8 [ID 138, Dossier, E4, Eltern VII.237.:1.2.2., S.25] Rollenbücher | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.2.2./T9 [ID 139, Dossier, E4, Eltern VII.237.:1.2.2., S.25] Rollenbücher | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.2.2./T10 [ID 140, Dossier, E4, Eltern VII.237.:1.2.2., S.25] Rollenbücher | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.2.2./T11 [ID 141, Dossier, E4, Eltern VII.237.:1.2.2., S.26] Rollenbücher | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.2.2./T12 [ID 142, Dossier, E4, Eltern VII.237.:1.2.2., S.26] Rollenbücher, Teil 12 | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.2.2./T13 [ID 143, Dossier, E4, Eltern VII.237.:1.2.2., S.27] Rollenbücher | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.2.2./T14 [ID 144, Dossier, E4, Eltern VII.237.:1.2.2., S.27] Rollenbücher | 
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.2.2./T15 [ID 145, Dossier, E4, Eltern VII.237.:1.2.2., S.27] Rollenbücher | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.3. [ID 146, Serie, E2, Eltern VII.237.:1., S.28] Film | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.237.' => 'VII.237.:1.'
+        Prüfhinweise: 'Keine übergeordnete Signatur gefunden (erwartet 1.).' => ''
+        Eltern: '-' => 'VII.237.:1.'
+GEÄ  VII.237.:1.3.1. [ID 147, Serie, E3, Eltern VII.237.:1.3., S.28] Film-Materialien, Drehbücher | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.237.:1.3.1./T2 [ID 148, Dossier, E4, Eltern VII.237.:1.3.1., S.28] Drehbücher | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.3.1./T3 [ID 149, Dossier, E4, Eltern VII.237.:1.3.1., S.28] Drehbücher | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.3.1./T4 [ID 150, Dossier, E4, Eltern VII.237.:1.3.1., S.28] Drehbücher | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.3.1./T5 [ID 151, Dossier, E4, Eltern VII.237.:1.3.1., S.28] Drehbücher | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.3.1./T6 [ID 152, Dossier, E4, Eltern VII.237.:1.3.1., S.28] Drehbücher | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.3.1./T7 [ID 153, Dossier, E4, Eltern VII.237.:1.3.1., S.29] Drehbücher | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.3.1./T8 [ID 154, Dossier, E4, Eltern VII.237.:1.3.1., S.29] Drehbücher | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.3.2. [ID 155, Serie, E3, Eltern VII.237.:1.3., S.29] Diverse Film-Veranstaltungen: Programme, verschiedene Materialien | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.237.:1.3.2.1. [ID 156, Dossier, E4, Eltern VII.237.:1.3.2., S.29] Film-Veranstaltungen | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.3.2.2. [ID 157, Dossier, E4, Eltern VII.237.:1.3.2., S.30] International Quorum of Film and Video Producers | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.3.3. [ID 158, Serie, E3, Eltern VII.237.:1.3., S.30] Condor-Film AG Zürich, Akten | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.237.:1.3.3.1. [ID 159, Dossier, E4, Eltern VII.237.:1.3.3., S.30] Gründung und Geschichte der Condor-Film AG, Dokumentation | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.3.3.2. [ID 160, Dossier, E4, Eltern VII.237.:1.3.3., S.30] Akten betreffend Condor-Film AG Zürich | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.3.3.3. [ID 161, Dossier, E4, Eltern VII.237.:1.3.3., S.30] Diverse Akten | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.4. [ID 162, Dossier, E2, Eltern VII.237.:1., S.30] Radio | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.237.' => 'VII.237.:1.'
+        [Prüfhinweise]
+           -Keine übergeordnete Signatur gefunden (erwartet 1.).
+        Eltern: '-' => 'VII.237.:1.'
+GEÄ  VII.237.:1.5. [ID 163, Dossier, E2, Eltern VII.237.:1., S.31] Kritiken | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.237.' => 'VII.237.:1.'
+        Prüfhinweise: 'Keine übergeordnete Signatur gefunden (erwartet 1.).' => ''
+        Eltern: '-' => 'VII.237.:1.'
+GEÄ  VII.237.:1.6. [ID 164, Serie, E2, Eltern VII.237.:1., S.31] Drucksachen | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.237.' => 'VII.237.:1.'
+        Prüfhinweise: 'Keine übergeordnete Signatur gefunden (erwartet 1.).' => ''
+        Eltern: '-' => 'VII.237.:1.'
+GEÄ  VII.237.:1.6.1. [ID 165, Serie, E3, Eltern VII.237.:1.6., S.31] Publikationen | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.237.:1.6.1./T2 [ID 166, Dossier, E4, Eltern VII.237.:1.6.1., S.32] Publikationen, Teil 2 | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.6.1./T3 [ID 167, Dossier, E4, Eltern VII.237.:1.6.1., S.32] Schweizerischer Bühnenverband (Hg.): 50 Jahre Schweizerischer Bühnenverband. Union des Thèâtres Suisses 1920 – 1970. Zürich: Schweizerischer Bühnenverband | Genau (=)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.6.1./T4 [ID 168, Dossier, E4, Eltern VII.237.:1.6.1., S.33] Theatertreffen Deutschsprachiger Schauspielstudenten und Bundeswettbewerb zur Förderung des Schauspielnachwuchses 1990 – 1999, 10 Jahre. Hamburg | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.6.2. [ID 169, Dossier, E3, Eltern VII.237.:1.6., S.33] Musik-Noten | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.237.:1.6.3. [ID 170, Dossier, E3, Eltern VII.237.:1.6., S.33] Zeitschriften | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.237.:1.7. [ID 171, Serie, E2, Eltern VII.237.:1., S.34] Fotografien | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.237.' => 'VII.237.:1.'
+        Prüfhinweise: 'Keine übergeordnete Signatur gefunden (erwartet 1.).' => ''
+        Eltern: '-' => 'VII.237.:1.'
+GEÄ  VII.237.:1.7.1. [ID 172, Serie, E3, Eltern VII.237.:1.7., S.34] Alben mit privaten Fotografien | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.237.:1.7.1./T2 [ID 173, Dossier, E4, Eltern VII.237.:1.7.1., S.34] Album 1 | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.7.1./T3 [ID 174, Dossier, E4, Eltern VII.237.:1.7.1., S.35] Album 2 | Genau (=)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.7.1./T4 [ID 175, Dossier, E4, Eltern VII.237.:1.7.1., S.35] Album 3 | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.7.1./T5 [ID 176, Dossier, E4, Eltern VII.237.:1.7.1., S.35] Album 4 | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.7.1./T6 [ID 177, Dossier, E4, Eltern VII.237.:1.7.1., S.35] Album 5 | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.7.1./T7 [ID 178, Dossier, E4, Eltern VII.237.:1.7.1., S.35] Album 6 | Genau (=)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.7.1./T8 [ID 179, Dossier, E4, Eltern VII.237.:1.7.1., S.35] Album 7 | Genau (=)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.7.1./T9 [ID 180, Dossier, E4, Eltern VII.237.:1.7.1., S.35] Album 8 | Genau (=)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.7.1./T10 [ID 181, Dossier, E4, Eltern VII.237.:1.7.1., S.35] Album 9 | 
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.7.1./T11 [ID 182, Dossier, E4, Eltern VII.237.:1.7.1., S.35] Album 10 | Genau (=)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.7.1./T12 [ID 183, Dossier, E4, Eltern VII.237.:1.7.1., S.36] Album 11 | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.7.1./T13 [ID 184, Dossier, E4, Eltern VII.237.:1.7.1., S.36] Album 12 | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.7.1./T14 [ID 185, Dossier, E4, Eltern VII.237.:1.7.1., S.36] Album 13 | Genau (=)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.7.1./T15 [ID 186, Dossier, E4, Eltern VII.237.:1.7.1., S.36] Album 14 | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.7.1./T16 [ID 187, Dossier, E4, Eltern VII.237.:1.7.1., S.36] Album 15 | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.7.1./T17 [ID 188, Dossier, E4, Eltern VII.237.:1.7.1., S.36] Album 16 | Genau (=)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.7.1./T18 [ID 189, Dossier, E4, Eltern VII.237.:1.7.1., S.36] Album 17 | 
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.7.1./T19 [ID 190, Dossier, E4, Eltern VII.237.:1.7.1., S.36] Album 18 | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.7.1./T20 [ID 191, Dossier, E4, Eltern VII.237.:1.7.1., S.37] Album 19 | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.7.1./T21 [ID 192, Dossier, E4, Eltern VII.237.:1.7.1., S.37] Album 20 | Genau (=)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.7.1./T22 [ID 193, Dossier, E4, Eltern VII.237.:1.7.1., S.37] Album 21 | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.7.1./T23 [ID 194, Dossier, E4, Eltern VII.237.:1.7.1., S.37] Album 22 | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.7.1./T24 [ID 195, Dossier, E4, Eltern VII.237.:1.7.1., S.38] Album 23 | Genau (=)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.7.1./T25 [ID 196, Dossier, E4, Eltern VII.237.:1.7.1., S.38] Album 24 | Genau (=)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.7.2. [ID 197, Dossier, E3, Eltern VII.237.:1.7., S.38] Einzelne private Fotografien | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.237.:1.7.3. [ID 198, Serie, E3, Eltern VII.237.:1.7., S.39] Anne-Marie Blanc als Darstellerin, Aufführungs- und Veranstaltungsfotos | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.237.:1.7.3.1. [ID 199, Dossier, E4, Eltern VII.237.:1.7.3., S.39] Aufführungs- und Veranstaltungsfotos, Alben | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.7.3.2. [ID 200, Dossier, E4, Eltern VII.237.:1.7.3., S.40] Einzelne Aufführungsfotografien / Fotos von verschiedenen Veranstaltungen mit Teilnahme von Anne-Marie Blanc | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.7.3.3. [ID 201, Dossier, E4, Eltern VII.237.:1.7.3., S.41] Fotos von anderen Schauspielern mit Autographen | 
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.7.3.4. [ID 202, Dossier, E4, Eltern VII.237.:1.7.3., S.41] Fotos aus Filmen | Von/bis (>= x und <=y)
+        Ebene: '3' => '4'
+GEÄ  VII.237.:1.8. [ID 203, Serie, E2, Eltern VII.237.:1., S.41] Diverses | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.237.' => 'VII.237.:1.'
+        Prüfhinweise: 'Keine übergeordnete Signatur gefunden (erwartet 1.).' => ''
+        Eltern: '-' => 'VII.237.:1.'
+GEÄ  VII.237.:1.8.1. [ID 204, Dossier, E3, Eltern VII.237.:1.8., S.41] Plakate | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.237.:1.8.2. [ID 205, Dossier, E3, Eltern VII.237.:1.8., S.42] Bescheinigungen und Gratulationen | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.237.:1.8.3. [ID 206, Dossier, E3, Eltern VII.237.:1.8., S.42] Gegenstände | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.237.:2. [ID 207, Teilbestand, E1, Eltern -, S.43] Teil-Nachlass von Robert Faesi | Von/bis (>= x und <=y)
+        Prüfhinweise: 'Nummerierung beginnt bei 2.' => ''
+GEÄ  VII.237.:4. [ID 221, Teilbestand, E1, Eltern -, S.47] Nachlass von Heinrich Fueter | Von/bis (>= x und <=y)
+        bis: '19.11.2010' => '1978'
+GEÄ  VII.237.:4.4. [ID 231, Serie, E2, Eltern VII.237.:4., S.50] Fotografien der Familie Fueter | Von/bis (>= x und <=y)
+        bis: '19.11.2010' => '1976'
+GEÄ  VII.237.:4.4.1./T9 [ID 240, Dossier, E4, Eltern VII.237.:4.4.1., S.51] Mappe 8 | 
+        [Darin]
+           -IV.4.1. Mappe 9:
+           -Paul Fueter (geb. 1889) mit Tante Georgette
+           -Gustav Fueter (Bern)
+GEÄ  VII.237.:4.4.1./T10 [ID 241, Dossier, E4, Eltern VII.237.:4.4.1., S.51] Mappe 9 | 
+        Titel: 'Mappe 10' => 'Mappe 9'
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => ''
+        von: '1899' => ''
+        bis: '09.1917' => ''
+        [Darin]
+           -Fanny Corti-Weber mit Töchter: Gita und Ella, später Gita Jaeggli-Corti und Ella Gubler-Corti verheiratet mit Friedrich T. Gubler-Corti; beschriftet: „Gitta und Ella Cor
+           -Schülerinnen aus dem Victoria-Pensionat Karlsruhe 1902 (zwei Fotos, eins undatiert), klein Album mit mehren Bilder aus Pensionat u. a. Esszimmer und diverse Schulzimmer,
+           -Friedrich I., Grossherzog von Baden, mit der Grossherzogin von Baden und Prinzessin von Preussen, beschriftet: „Die königlichen Hoheiten Karlsruhe 1902“
+           -Fanny Corti-Weber und Robert Corti als junges Paar
+           -Fanny Corti-Weber mit Robert Corti-Weber und Töchter Gitta und Ella
+           -Carl Weber-Sulzer (2 Fotos), Kopie eines Foto: vermutlich Carl Weber-Sulzer mit Henriette Weber-Sulzer im Kostüm
+           -zwei Töchter von Carl Weber-Sulzer (vermutlich), aufgenommen in Winterthur
+           -Familienmitglieder bei einer Theateraufführung, kostümiert. Aufnahme in Lausanne gemacht
+           -Foto u. a. mit Jenny Faesi-Weber als Kind, beschriftet: „Grossmama Sulzer. Frau Prof. Biedermann-Sulzer, Tante Anna Sulzer Schwester. b. Mama Weber Traubengut, aufgenomm
+           -Foto mit 3 Mädchen, aufgenommen im Sept. 1917, beschriftet: „ Romana, Graziella und Bicelotte Segantini grüsse herzlich. Maloja September 1917
+           -Foto beschriftet: „Die Schweiz in Freiersbach. Pfingsten 1903 aufgenommen von Marguerete Schreiber
+           +Paul Fueter (geb. 1889) mit Tante Georgette
+           +Gustav Fueter (Bern)
+        Nr. im PDF: '4.4.1.' => 'IV.4.1.'
+        Zeitraum-Quelle: 'Darin (geschätzt)' => ''
+        [Prüfhinweise]
+           -Zeitraum aus den Jahreszahlen im Darin geschätzt.
+           +Im Findmittel «IV.4.1.» mit römischer erster Stelle – als «4.4.1.» gelesen (wohl verschrieben), bitte prüfen.
+           +Kein Zeitraum gefunden.
+GEÄ  VII.237.:4.4.1./T11 [ID 242, Dossier, E4, Eltern VII.237.:4.4.1., S.51] Mappe 10 | Von/bis (>= x und <=y)
+        Titel: 'Mappe 11' => 'Mappe 10'
+        von: '1890' => '1899'
+        bis: '1915' => '09.1917'
+        [Darin]
+           -Jenny Faesi-Weber als junge Frau um 1900 (zwei Fotos) und in England 1907 (vier Fotos)
+           -Jenny Faesi-Weber als Kind, als junge Frau (mehrere Porträts), mit Schwestern Alice Weber und Fanny Weber-Corti
+           -Jenny Faesi-Weber und Eduard Fueter (1876 – 1928); auf Postkarte geklebtes Foto, gesandt von Carl Weber-Sulzer an Eduard am 29. April 1907
+           -Henriette Weber-Sulzer mit Töchter Alice, Fanny und Jenny um 1890
+           -Jenny Faesi-Weber mit Kinder Eduard und Heinrich um 1915
+           -Foto beschriftet: „Tante Amélie mit Lix“
+           -Fotoaufnahme der Villa „Traubengut“, beschriftet: „Tischkarte für die Hausräucke des Trabensguts; Donnerstag, 10. Sept. 1903, Fräulein Jenny Weber“. Traubengut war ab 19
+           -Fotoaufnahme der Villa „Traubengut“; auf dem Foto sind 2 Personen zu sehen, wahrscheinlich Henriette und Carl Weber-Sulzer, undatiert und unbeschriftet
+           +Fanny Corti-Weber mit Töchter: Gita und Ella, später Gita Jaeggli-Corti und Ella Gubler-Corti verheiratet mit Friedrich T. Gubler-Corti; beschriftet: „Gitta und Ella Cor
+           +Schülerinnen aus dem Victoria-Pensionat Karlsruhe 1902 (zwei Fotos, eins undatiert), klein Album mit mehren Bilder aus Pensionat u. a. Esszimmer und diverse Schulzimmer,
+           +Friedrich I., Grossherzog von Baden, mit der Grossherzogin von Baden und Prinzessin von Preussen, beschriftet: „Die königlichen Hoheiten Karlsruhe 1902“
+           +Fanny Corti-Weber und Robert Corti als junges Paar
+           +Fanny Corti-Weber mit Robert Corti-Weber und Töchter Gitta und Ella
+           +Carl Weber-Sulzer (2 Fotos), Kopie eines Foto: vermutlich Carl Weber-Sulzer mit Henriette Weber-Sulzer im Kostüm
+           +zwei Töchter von Carl Weber-Sulzer (vermutlich), aufgenommen in Winterthur
+           +Familienmitglieder bei einer Theateraufführung, kostümiert. Aufnahme in Lausanne gemacht
+           +Foto u. a. mit Jenny Faesi-Weber als Kind, beschriftet: „Grossmama Sulzer. Frau Prof. Biedermann-Sulzer, Tante Anna Sulzer Schwester. b. Mama Weber Traubengut, aufgenomm
+           +Foto mit 3 Mädchen, aufgenommen im Sept. 1917, beschriftet: „ Romana, Graziella und Bicelotte Segantini grüsse herzlich. Maloja September 1917
+           +Foto beschriftet: „Die Schweiz in Freiersbach. Pfingsten 1903 aufgenommen von Marguerete Schreiber
+        PDF-Seite: '52' => '51'
+GEÄ  VII.237.:4.4.1./T12 [ID 243, Dossier, E4, Eltern VII.237.:4.4.1., S.52] Mappe 11 | Von/bis (>= x und <=y)
+        Titel: 'Mappe 12' => 'Mappe 11'
+        von: '1900' => '1890'
+        bis: '1973' => '1915'
+        [Darin]
+           -Jenny Faesi-Weber (vermutlich), Beschriftung auf der Rückseite des Bildes „Churer-Joch, Aug. 1902“
+           -Diverse Fotografien mit Jenny Faesi-Weber und von anderen Familienmitgliedern und mit Freunden ca. 1900 – 1973, nur einzelne datiert oder beschriftet
+           -Jenny Faesi-Weber auf der Landesausstellung 1939, Eintrittskarte: Schweizerische Landesausstellung 1939 Zürich mit Foto und Unterschrift von Jenny Faesi-Weber
+           -Jenny Faesi-Weber mit dem schwedischen Minister A. Ekstrand, mit dem Prinzen Wilhelm von Schweden und der holländischen Delegierten Kitty de Josselin de Jong bei einem A
+           -Zwei Fotos aus demselben Anlass, eins beschriftet: „Frau Prof. Faesi und Minister Hammel“, undatiert
+           +Jenny Faesi-Weber als junge Frau um 1900 (zwei Fotos) und in England 1907 (vier Fotos)
+           +Jenny Faesi-Weber als Kind, als junge Frau (mehrere Porträts), mit Schwestern Alice Weber und Fanny Weber-Corti
+           +Jenny Faesi-Weber und Eduard Fueter (1876 – 1928); auf Postkarte geklebtes Foto, gesandt von Carl Weber-Sulzer an Eduard am 29. April 1907
+           +Henriette Weber-Sulzer mit Töchter Alice, Fanny und Jenny um 1890
+           +Jenny Faesi-Weber mit Kinder Eduard und Heinrich um 1915
+           +Foto beschriftet: „Tante Amélie mit Lix“
+           +Fotoaufnahme der Villa „Traubengut“, beschriftet: „Tischkarte für die Hausräucke des Trabensguts; Donnerstag, 10. Sept. 1903, Fräulein Jenny Weber“. Traubengut war ab 19
+           +Fotoaufnahme der Villa „Traubengut“; auf dem Foto sind 2 Personen zu sehen, wahrscheinlich Henriette und Carl Weber-Sulzer, undatiert und unbeschriftet
+        PDF-Seite: '53' => '52'
+GEÄ  VII.237.:4.4.1./T13 [ID 244, Dossier, E4, Eltern VII.237.:4.4.1., S.53] Mappe 12 | Von/bis (>= x und <=y)
+        Titel: 'Mappe 13' => 'Mappe 12'
+        von: '1920' => '1900'
+        bis: '1930' => '1973'
+        [Darin]
+           -Robert (Rob, Robin) Faesi, Sohn von Jenny Faesi-Weber und Robert Faesi mit Eltern und mit anderen Familienmitgliedern als Kind um 1930 und später
+           -Robert Faesi, diverse Fotografien
+           -Album mit diversen Aufnahmen von Jenny Faesi-Weber ca. 1920, unbeschriftet, undatiert
+           -Robert Faesi, Porträts
+           +Jenny Faesi-Weber (vermutlich), Beschriftung auf der Rückseite des Bildes „Churer-Joch, Aug. 1902“
+           +Diverse Fotografien mit Jenny Faesi-Weber und von anderen Familienmitgliedern und mit Freunden ca. 1900 – 1973, nur einzelne datiert oder beschriftet
+           +Jenny Faesi-Weber auf der Landesausstellung 1939, Eintrittskarte: Schweizerische Landesausstellung 1939 Zürich mit Foto und Unterschrift von Jenny Faesi-Weber
+           +Jenny Faesi-Weber mit dem schwedischen Minister A. Ekstrand, mit dem Prinzen Wilhelm von Schweden und der holländischen Delegierten Kitty de Josselin de Jong bei einem A
+           +Zwei Fotos aus demselben Anlass, eins beschriftet: „Frau Prof. Faesi und Minister Hammel“, undatiert
+GEÄ  VII.237.:4.4.1./T14 [ID 245, Dossier, E4, Eltern VII.237.:4.4.1., S.53] Mappe 13 | Von/bis (>= x und <=y)
+        Titel: 'Mappe 14' => 'Mappe 13'
+        von: '1938' => '1920'
+        bis: '1969' => '1930'
+        [Darin]
+           -Wohnhaus der Familie Faesi in Zollikon „Rebgütli“, diverse Fotos, eines beschriftet: „Für 6 Monate zu vermieten, Auskunft Prof. Faesi Zollikon“, alte Fotoaufnahmen von Z
+           -Wohnhaus bei Wädenswil, auf der Rückseite des Fotos Beschriftung: „Neugut gekauft 1938, verkauft an die Gemeinde Wädenswil 1969
+           +Robert (Rob, Robin) Faesi, Sohn von Jenny Faesi-Weber und Robert Faesi mit Eltern und mit anderen Familienmitgliedern als Kind um 1930 und später
+           +Robert Faesi, diverse Fotografien
+           +Album mit diversen Aufnahmen von Jenny Faesi-Weber ca. 1920, unbeschriftet, undatiert
+           +Robert Faesi, Porträts
+GEÄ  VII.237.:4.4.1./T15 [ID 246, Dossier, E4, Eltern VII.237.:4.4.1., S.53] Mappe 14 | Von/bis (>= x und <=y)
+        Titel: 'Mappe 15' => 'Mappe 14'
+        von: '1840' => '1938'
+        bis: '1960' => '1969'
+        [Darin]
+           -Ferien am Hiddensee; Familienfotos 1921 – 1929 z. T. beschriftet
+           -undatierte und nicht bezeichnete Fotoaufnahmen von Familie Fueter bzw. einzelne von Familie Faesi u. a. mit Heinrich Fueter und Anne-Marie Blanc
+           -Bild von einer Mutter mit zwei Töchtern, wahrscheinlich Daguerreotypie ca. 1840 – 1960
+           +Wohnhaus der Familie Faesi in Zollikon „Rebgütli“, diverse Fotos, eines beschriftet: „Für 6 Monate zu vermieten, Auskunft Prof. Faesi Zollikon“, alte Fotoaufnahmen von Z
+           +Wohnhaus bei Wädenswil, auf der Rückseite des Fotos Beschriftung: „Neugut gekauft 1938, verkauft an die Gemeinde Wädenswil 1969
+GEÄ  VII.237.:4.4.4. [ID 268, Dossier, E3, Eltern VII.237.:4.4., S.56] Gerahmte Fotografien der Familie Fueter | Von/bis (>= x und <=y)
+        bis: '19.11.2010' => '14.02.1973'
+        [Darin]
+           -108 Normschachteln 10,80 lfm
+           -1 Grf. Schachtel 0,20 lfm
+           -Total 11 lfm
+           -Nachlieferung eingearbeitet, 5. Juli 2003 / PIC
+           -Nachlieferung eingearbeitet, 19. Mai 2006 / PIC
+           -Nachlieferung eingearbeitet, 4. Juli 2006 / PIC
+           -Nachlieferung eingearbeitet, 17. Juni 2010 / PIC
+           -Nachlieferung eingearbeitet, 19. November 2010 / PIC

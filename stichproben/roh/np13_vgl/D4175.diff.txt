@@ -1,0 +1,7 @@
+### D4175: vorher 45 Einheiten, nachher 45 Einheiten
+GEÄ  VII.232.:1.F. [ID 20, Dossier, E2, Eltern VII.232.:1., S.5] GEGENSTAENDE | Von/bis (>= x und <=y)
+        [Darin]
+           -Frau Myrthe Wedekind-Güttinger (1906 – 1990) Nachlass Mitglied des Dramatischen Vereins Zürich
+GEÄ  VII.232.:2. [ID 21, Teilbestand, E1, Eltern -, S.6] Myrthe Wedekind-Güttinger | Von/bis (>= x und <=y)
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Frau Myrthe Wedekind-Güttinger (1906 – 1990) / Nachlass / Mitglied des Dramatischen Vereins Zürich».

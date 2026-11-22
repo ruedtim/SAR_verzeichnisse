@@ -1,0 +1,7 @@
+### D3589: vorher 262 Einheiten, nachher 262 Einheiten
+GEÄ  VII.359.:2./T9 [ID 14, Dossier, E2, Eltern VII.359.:2., S.2] Morf, Werner. Im Stall. Es Chrippespiil vom Werner Morf. Zürich | Genau (=)
+        [Darin]
+           -2. Werke anderer Autoren
+           +
+GEÄ  VII.359.:3. [ID 15, Serie, E1, Eltern -, S.2] Binder, Walter. Sieben Bilder. Zürich o.D. | Von/bis (>= x und <=y)
+        Prüfhinweise: '' => 'Steht im Findmittel unter der Zwischenüberschrift «2. Werke anderer Autoren».'

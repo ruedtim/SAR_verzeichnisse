@@ -1,0 +1,16 @@
+### D1759: vorher 152 Einheiten, nachher 152 Einheiten
+GEÄ  V.G.c.118.:6. [ID 100, Teilbestand, E1, Eltern -, S.7] Fotografien, schwarzweiss | Von/bis (>= x und <=y)
+        bis: '02.2007' => '1954'
+GEÄ  V.G.c.118.:6.2. [ID 149, Serie, E2, Eltern V.G.c.118.:6., S.9] Aufgezogene Fotografien | Genau (=)
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => 'Genau (=)'
+        bis: '02.2007' => ''
+GEÄ  V.G.c.118.:6.2.3. [ID 152, Dossier, E3, Eltern V.G.c.118.:6.2., S.9] Reinigungsarbeit im Zierbecken, Nr. 16 | 
+        Entstehungszeitraum: 'Genau (=)' => ''
+        von: '02.2007' => ''
+        [Darin]
+           -Eine Auswahl von Plänen kopierte der GeoPrintShop (Werdmühlestrasse 9, CH-8001 Zürich) Anfang Februar 2007 für die vom Sportamt und dem Max-Frisch-Archiv gepla
+        Zeitraum-Quelle: 'Darin (geschätzt)' => ''
+        [Prüfhinweise]
+           -Nach der letzten Einheit steht im Findmittel ein Absatz ohne Signatur («Eine Auswahl von Plänen kopierte der GeoPrintShop (Werdmühle» …) – hier im Darin überno
+           -Zeitraum aus den Jahreszahlen im Darin geschätzt.
+           +Kein Zeitraum gefunden.

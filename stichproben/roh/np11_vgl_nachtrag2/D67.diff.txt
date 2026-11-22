@@ -1,0 +1,8 @@
+### D67: vorher 32 Einheiten, nachher 32 Einheiten
+GEÄ  III.Q.11.-33. [ID 7, Teilbestand, E1, Eltern -, S.2] d) Zinsbücher und Rechnungen | Von/bis (>= x und <=y)
+        [Darin]
+           -e) Akten (keine)
+           +
+GEÄ  III.Q.:e. [ID 32, Dossier, E1, Eltern -, S.5] Akten | Von/bis (>= x und <=y)
+        [Prüfhinweise]
+           +Nach der letzten Einheit steht im Findmittel ein Absatz ohne Signatur («Neu erfasst am 20. Januar 2004 / RD» …) – hier im Darin übernommen, bitte prüfen.

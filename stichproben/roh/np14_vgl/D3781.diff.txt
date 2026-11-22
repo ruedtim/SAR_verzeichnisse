@@ -1,0 +1,9 @@
+### D3781: vorher 14 Einheiten, nachher 14 Einheiten
+GEÄ  VII.5.:14 [ID 14, Dossier, E1, Eltern -, S.2] Quittungen | 
+        Entstehungszeitraum: 'Genau (=)' => ''
+        von: '27.08.1993' => ''
+        [Darin]
+           -chr Stand: 27.08.1993
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => ''
+        Prüfhinweise: 'Zeitraum aus den Jahreszahlen im Darin geschätzt.' => 'Kein Zeitraum gefunden.'

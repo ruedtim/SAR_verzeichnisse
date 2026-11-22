@@ -1,0 +1,6 @@
+### D3563: vorher 19 Einheiten, nachher 20 Einheiten
+NEU  VII.34. [ID 20, Bestand, E1, Eltern -, S.2] Wilhelm Baumgartner (1820-1867). Nachlass, 1846-1898 | Von/bis (>= x und <=y)
+        D: Beim Bestand befinden sich ferner 4 Ausstellungstafeln mit Texten von Prof. Dr. Werner G. Zimmermann.
+        D: Der Bestand enthält auch die Materialien zur Übergabefeier vom 17. Dezember 1990 im Musiksaal des Stadthauses Zürich.
+        H: Stück ohne Nummer im Findmittel («Beim Bestand befinden sich ferner 4 Ausstellungstafeln mit Texten von », S. 2) – hier beim Bestand übernommen (keine Signatur erfunden); in scope beim Bestand ergänzen oder von Hand als Einheit anlegen.
+Stück ohne Nummer im Findmittel («Der Bestand enthält auch die 

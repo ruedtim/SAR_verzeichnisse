@@ -1,0 +1,22 @@
+### D2923: vorher 3 Einheiten, nachher 4 Einheiten
+WEG  VII.134.:1. [ID 1, Dossier, E1, Eltern -, S.1] Herkunft des Bestandes | 
+        D: Teil einer privaten Schenkung von Hans Nussbaumer, vormals Mertens & Nussbaumer, Gartenbau in 8032 Zürich. (vgl. Brief von STAZH)
+WEG  VII.134.:2. [ID 2, Dossier, E1, Eltern -, S.1] Hinweise | 
+        D: Manche Haushaltungsbücher enthalten als lose Beilagen Rechnungen, Quittungen und Korrespondenzen.
+        D: Adressen: Firma: Oskar Mertens; Kunstgärtnerei; Jupiterstrasse 1
+        D: Wohnungen: a) Bergstrasse 162
+        D: b) Böcklinstrasse 35
+WEG  VII.134.:3. [ID 3, Dossier, E1, Eltern -, S.1] Gliederung | Von/bis (>= x und <=y)
+        D: Haushaltungsbücher 1917-1933, Schachtel 1
+        D: Haushaltungsbücher 1934-1946, Schachtel 2
+        D: Haushaltungsbücher 1947-1958, Schachtel 3
+        D: Haushaltungsbücher 1959–1973 (1970 fehlt), Schachtel 4
+NEU  VII.134.:1 [ID 1, Dossier, E1, Eltern -, S.1] Haushaltungsbücher | Von/bis (>= x und <=y)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+NEU  VII.134.:2 [ID 2, Dossier, E1, Eltern -, S.1] Haushaltungsbücher | Von/bis (>= x und <=y)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+NEU  VII.134.:3 [ID 3, Dossier, E1, Eltern -, S.1] Haushaltungsbücher | Von/bis (>= x und <=y)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+NEU  VII.134.:4 [ID 4, Dossier, E1, Eltern -, S.1] Haushaltungsbücher 1959–1973 (1970 fehlt) | Von/bis (>= x und <=y)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Mehrere Zeitangaben im Titel (1959–1973, 1970).

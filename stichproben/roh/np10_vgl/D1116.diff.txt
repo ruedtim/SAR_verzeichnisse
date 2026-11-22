@@ -1,0 +1,47 @@
+### D1116: vorher 26 Einheiten, nachher 26 Einheiten
+GEÄ  V.E.c.11.:2 [ID 2, Dossier, E1, Eltern -, S.1] Aufenthalts- und Passwesen | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.E.c.11.:3 [ID 3, Dossier, E1, Eltern -, S.1] Strassenbeleuchtung mittelst Oel | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.E.c.11.:4 [ID 4, Dossier, E1, Eltern -, S.1] Messen und Vorführen von Brennholz | Genau (=)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.E.c.11.:5 [ID 5, Dossier, E1, Eltern -, S.1] Nachweise, dass betr. Niederlassung in anderen Schweizerstädten Gegenrecht gehalten werde | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.E.c.11.:6 [ID 6, Dossier, E1, Eltern -, S.1] Bürgschaften für Niederlassungsbewilligungen | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.E.c.11.:7 [ID 7, Dossier, E1, Eltern -, S.1] Verzeichnis der Wirte und Weinschenken | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.E.c.11.:8 [ID 8, Dossier, E1, Eltern -, S.1] Stadtuhren | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.E.c.11.:9 [ID 9, Dossier, E1, Eltern -, S.1] Verzeichnis der Weggewiesenen | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.E.c.11.:10 [ID 10, Dossier, E1, Eltern -, S.1] Akten betr. Verpachtung der Strassenreinigung | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.E.c.11.:11 [ID 11, Dossier, E1, Eltern -, S.1] Verzeichnis der Studierenden | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.E.c.11.:12 [ID 12, Dossier, E1, Eltern -, S.1] Missionen des Stadtpolizeibureaus (Niederlassungswesen) | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.E.c.11.:13 [ID 13, Dossier, E1, Eltern -, S.1] Dienstbotenbücher | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.E.c.11.:15 [ID 15, Dossier, E1, Eltern -, S.1] Fischenzen | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.E.c.11.:16 [ID 16, Dossier, E1, Eltern -, S.1] Sonntagspolizei | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.E.c.11.:17 [ID 17, Dossier, E1, Eltern -, S.1] Dienstmännerwesen | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.E.c.11.:18 [ID 18, Dossier, E1, Eltern -, S.1] Bezug der Hundetaxen | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.E.c.11.:19 [ID 19, Dossier, E1, Eltern -, S.1] Bekämpfung des Vagabundentums | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.E.c.11.:20 [ID 20, Dossier, E1, Eltern -, S.1] Vorarbeiten für die Polizeiverordnung 1885 1883 | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.E.c.11.:22. [ID 22, Dossier, E1, Eltern -, S.1] Plakatsäulen | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'III'
+GEÄ  V.E.c.11.:23 [ID 23, Dossier, E1, Eltern -, S.1] Mietschiffe | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'III'
+GEÄ  V.E.c.11.:24 [ID 24, Dossier, E1, Eltern -, S.1] Legitimationskarten der Studierenden | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'III'
+GEÄ  V.E.c.11.:25 [ID 25, Dossier, E1, Eltern -, S.1] Einführung der elektrischen Beleuchtung | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'III'
+GEÄ  V.E.c.11.:26 [ID 26, Dossier, E1, Eltern -, S.1] Arbeiterschutz (Haftpflicht etc.) | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'III'

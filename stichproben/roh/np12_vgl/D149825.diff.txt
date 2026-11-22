@@ -1,0 +1,27 @@
+### D149825: vorher 273 Einheiten, nachher 274 Einheiten
+NEU  VII.10. [ID 274, Bestand, E1, Eltern -, S.12] Zwinglidenkmal-Kommission. Archiv | Von/bis (>= x und <=y)
+        D: Protokoll der Commission für Einrichtung eines Zwinglidenkmals
+        D: 19. Juli 1872 bis 23. Januar 1886
+        D: 1 Band (schwarz, rotes Deckeletikett)
+        D: 35 x 24 cm
+        D: Messingpokal, versilbert, mit Deckel
+        D: Höhe 22 cm
+        D: Deckelinschrift: «Die grössere Commission fuer Errichtung des Zwingli-Denkmales in Zürich ihrem Praesidenten Herrn Antistes Dr. D[iethelm] Georg Finsler zur Eri
+        H: Stück ohne Nummer im Findmittel vor der ersten Signatur («Protokoll der Commission für Einrichtung eines Zwinglidenkmals», S. 1) – hier beim Bestand übernommen (keine Signatur erfunden); in scope beim Bestand ergänzen oder von Hand als Einheit anlegen.
+Stück ohne Nummer im Findmittel («Messingpokal,
+GEÄ  VII.10.:1. [ID 1, Dossier, E1, Eltern -, S.1] Protokoll der ersten Versammlung | Genau (=)
+        [Darin]
+           -Protokoll der Commission für Einrichtung eines Zwinglidenkmals
+           -19. Juli 1872 bis 23. Januar 1886
+           -1 Band (schwarz, rotes Deckeletikett)
+           -35 x 24 cm
+           +
+        Prüfhinweise: 'Vor der ersten Signatur steht im Findmittel «Protokoll der Commission für Einrichtung eines Zwinglidenkmals» ohne Signatur – hier im Darin übernommen, bitte prü' => ''
+GEÄ  VII.10.:272. [ID 273, Dossier, E1, Eltern -, S.12] Neujahrsblatt der Freisinnig-Demokratischen Partei Zürich 1 auf das Jahr 1985 | Genau (=)
+        [Darin]
+           -Messingpokal, versilbert, mit Deckel
+           -Höhe 22 cm
+           -Deckelinschrift: «Die grössere Commission fuer Errichtung des Zwingli-Denkmales in Zürich ihrem Praesidenten Herrn Antistes Dr. D[iethelm] Georg Finsler zur Er
+           -Der Pokal wurde am 11. März 2016 von L. Andrew und Margrit Staehelin, Boulder, CO, USA, dem Stadtarchiv übergeben.
+           -Margrit Staehelin ist eine Urenkelin von Diethelm Georg Finsler (1819–1899).
+        Prüfhinweise: 'Nach der letzten Einheit steht im Findmittel ein Absatz ohne Signatur («Messingpokal, versilbert, mit Deckel» …) – hier im Darin übernommen, bitte prüfen.' => ''

@@ -1,0 +1,109 @@
+### D3566: vorher 8 Einheiten, nachher 4 Einheiten
+WEG  VII.340.:1./T2 [ID 2, Dossier, E2, Eltern VII.340.:1., S.2] Die Organisation des Landesmiliz wird beschleunigt, um die Verteidigung des Landes zu gewährleisten. | 
+WEG  VII.340.:2./T2 [ID 4, Dossier, E2, Eltern VII.340.:2., S.6] Kopien | Von/bis (>= x und <=y)
+        D: Nummern 1 bis 7
+        D: Sieben Dokumente von 1408 bis 1725, Urkunden, Akten und ein Rechnungsheft, wurden dem Gemeindearchiv Höngg zugeordnet und in den dortigen Urkundenbestand integriert. Die Datenbankaufnahmen findet man 
+        D: Nummer 8
+        D: Bericht über einen Comed Stern, ausgestellt von der Kanzlei der Grafschaft Baden im Aargau (23. Januar 1681)
+        D: In dem amtlichen Schreiben wird vermerkt, dass der Komet nit allein in unsern Landen, sondern allenthalben seit einer Zeit hiro, so heiter gesehen wird, kein ander Zeichen ist, als dass der Allmächtig
+        D: Nummer 9
+        D: Genealogische Aufzeichnung über die Familie Zoller I
+        D: Papierlibell mit genealogischen Aufzeichnungen über die Familie Zoller von 1041 bis 1703.
+        D: … (21 Zeilen)
+WEG  VII.340.:3. [ID 5, Dossier, E1, Eltern -, S.2] Die konstituierenden bisherigen Autoritäten werden in ihrer gesetzlichen Aktivität belassen. | 
+WEG  VII.340.:4. [ID 6, Dossier, E1, Eltern -, S.2] In allgemeinen Landesangelegenheiten darf ohne Vorwissen und Bewilligung der Repräsentanten nichts unternommen werden. | Von/bis (>= x und <=y)
+        D: Wenn die Landschaft ihre neue Souveränität erhalten hat, so werden die näheren Bestimmungen der schon zugeisicherten eidgenössichen Verbindung nach dem eigenen Wunsch der acht Orte zu gemeinsamer Bera
+        D: Es handelt sich um eine provisorische Erklärung, die unter dem Siegel des Standes Zürich den zuständigen Landes-Ausschüssen zugestellt wird.
+        D: Nummer 3
+        D: Copia: Freylassungs-Urkunde der III Landschaften Thurgau, Rheinthal und Sargans (Frauenfeld, 3. März 1798)
+        D: Die Repräsentanten der eidgenössischen Orte Zürich, Bern, Luzern, Uri, Schwyz, Unterwalden, Zug und Glarus urkunden für das Rheintal, Appenzell Inner- und Ausserrhoden, dass vor ihnen in Frauenfeld De
+        D: Die Repräsentanten erklären, dass die Landschaften frei und ledig gelassen werden. Es folgen weitere Bestimmungen.
+        D: Beglaubigung durch den Präsidenten und Repräsentanten des Standes Zürich, Mitglied des Inneren Rats, Jakob Pestalozzi (Pestaluz), Salomon Weiss, Legations-Sekretär des Standes Zürich, und Anton Jetlin
+        D: Dorsalnotiz: Copia: Freylassungs Urkunde für die III Landschaften Thurgau, Rheinthal und Sargans.
+        D: … (46 Zeilen)
+GEÄ  VII.340.:1. [ID 1, Dossier, E1, Eltern -, S.1] Originale | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+        von: '11.02.1798' => '1519'
+        bis: '02.03.1798' => '1953'
+        [Darin]
+           +1. Die Organisation des Landesmiliz wird beschleunigt, um die Verteidigung des Landes zu gewährleisten.
+           +2. Die innere Ruhe und Sicherheit der Personen und des Eigentums aller Art wird festgesetzt und heilig beibehalten.
+           +3. Die konstituierenden bisherigen Autoritäten werden in ihrer gesetzlichen Aktivität belassen.
+           +4. In allgemeinen Landesangelegenheiten darf ohne Vorwissen und Bewilligung der Repräsentanten nichts unternommen werden.
+           +Wenn die Landschaft ihre neue Souveränität erhalten hat, so werden die näheren Bestimmungen der schon zugeisicherten eidgenössichen Verbindung nach dem eigenen Wunsch der acht Orte zu gemeinsamer Ber
+           +Es handelt sich um eine provisorische Erklärung, die unter dem Siegel des Standes Zürich den zuständigen Landes-Ausschüssen zugestellt wird.
+           +Nummer 3
+           +Copia: Freylassungs-Urkunde der III Landschaften Thurgau, Rheinthal und Sargans (Frauenfeld, 3. März 1798)
+           +Die Repräsentanten der eidgenössischen Orte Zürich, Bern, Luzern, Uri, Schwyz, Unterwalden, Zug und Glarus urkunden für das Rheintal, Appenzell Inner- und Ausserrhoden, dass vor ihnen in Frauenfeld D
+           +Die Repräsentanten erklären, dass die Landschaften frei und ledig gelassen werden. Es folgen weitere Bestimmungen.
+           +Beglaubigung durch den Präsidenten und Repräsentanten des Standes Zürich, Mitglied des Inneren Rats, Jakob Pestalozzi (Pestaluz), Salomon Weiss, Legations-Sekretär des Standes Zürich, und Anton Jetli
+           +Dorsalnotiz: Copia: Freylassungs Urkunde für die III Landschaften Thurgau, Rheinthal und Sargans.
+           +Nummer 4
+           +Aufruf von Bürgermeister und Räten der Stadt Zürich mit Zugeordneten der Landschaft Zürich als provisorische Landes-Regierung (Druck: 6. März 1798)
+           +Der Aufruf erfolgt mit Zustimmung der Landes-Commission. Das Schreiben ist von Stadtschreiber Johann Conrad Escher angefertigt und wurde jeder Gemeinde unter dem Standes-Siegel zugestellt.
+           +Die provisorische Regierung erklärt, um eventuelle Zweifel verschiedener Staatsbürger auf der Landschaft zu beseitigen, dass man nichts dafür könne, dass bis jetzt noch keine neue Verfassung entstand
+           +Die neue Verfassung wird von der Landes-Commission entworfen. Alle bis anhin nur den Stadtbürgern zustehenden Rechte sollen nun auch den Bürgern auf dem Land offen stehen.
+           +Beschwerden werden von der Landes-Commission geprüft und wenn nötig wird den Bitten entsprochen.
+           +Nummer 5
+           +Le Général Brune, Commandant en Chef l’Armée Française en Helvetie, République d’Helvétie, Berne, le 29 Ventôse, An 6 de la République Française (Druck: 19. März 1798)
+           +Der französische General, Guillaume Marie Anne Brune (1763-1815), verkündet am 19. März 1798 die Errichtung der helvetischen Republik, umfassend zwölf Kantone, nämlich Basel, Aargau, Baden, Schaffhau
+           +Über General Brune: HBLS, 2, S. 375.
+           +Nummer 6
+           +Epistel an den Herrn Zeitungsschreiber Bürkli in Zürich, Von Jacob Schweizer, Pfarrer zu Embrach, Zweyte Auflage, Zürich, im Heumonat 1799 (Druck: Juli 1799)
+           +Papierlibell.
+           +Verfasser ist Johann Jakob Schweizer (1771-1843), 1798 Pfarrer in Embrach. Er wurde 1800 aus politischen Gründen angeklagt, 1801 gefangengesetzt und schliesslich 1804 abgesetzt. Er wirkte 1805 bis 18
+           +Adressat ist Johann Heinrich Bürkli (1760-1821), Grossrat von 1791 bis 1798. Bürkli musste wegen der franzosenfeindlichen Haltung seiner von ihm redigierten Freitagszeitung 1799 flüchten; das Blatt w
+           +Nummer 7
+           +Zuschrift der Munizipalität, Gemeinds-Kammer und Verwaltungs-Kommissarien der Stadtgemeinde Zürich an die gemeinhelvetische National-Tagsazung in Bern, Zürich, Im September 1801 (Druck)
+           +In den letzten Jahren hatte die Eidgenossenschaft ihre Selbständigkeit verloren. Erst in dem Friedens-Traktat von Lunéville, welches die Schweiz neuerdings für unabhängig erklärte, wurde von den bena
+           +Doch wir [die obengenannten Repräsentanten der Stadt Zürich] schreiten nunmehr zu den Vorstellungen sowohl gegen den allgemeinen Plan, als gegen die von dem Provisorium ertheilte Anleitung, und unser
+           +Nummer 8
+           +Die Bewohner der Kantone Uri, Schwyz und Unterwalden an das sämtliche biedere Schweizervolk (Druck: Schwyz, 14. August 1802)
+           +Papierlibell
+           +In einem kurzen historischen Abriss wird auf den Freiheits- und Unabhängigkeitswillen der eidgenössischen Orte eingegangen. Besonders die Ereignisse seit dem Untergang des Ancien Régime werden bedaue
+           +Verfasst wurde die Schrift von den Deputierten der Kantone Uri, Schwyz und Unterwalden.
+           +Nummer 9
+           +Verfügung des Sekratariats der Militär-Commission (Corrodi) (Druck: Zürich, 18. Dezember 1804)
+           +Der Brief wurde von der Militär-Commission an das Pfarramt Volketswil gesandt.
+           +Aus dem von dem Bataillons-Commando der Militär-Commission erstatteten Bericht geht hervor, dass mehrere Soldaten der Standes-Kompanie seit sie dort sind, das Gesuch gestellt haben, sich zu verheirat
+           +Da unmöglich gestattet werden kann, dass die Zahl der Verheirateten vergrössert werde, ohne dass dadurch für den einzelnen Soldaten und für die ganze Kompanie Nachteile entstehen, bestimmt die Militä
+           +Zugleich werden sämtliche kantonalen Pfarrer ersucht, keinem für den Dienst der Standes-Kompanie angeworbenen Unteroffizier und Soldaten die Promulgation oder Copulation zu gestatten, wenn derselbe n
+           +Nummer 10
+           +Aufruf von Bürgemeister und Räten des eidgenössischen Standes Zürich an die Kantonsbewohner (Druck: 13. September 1805)
+           +In der Proklamation geht um die Vertheidigung des allgemeinen und besondern Vaterlandes.
+           +Nachdem die Sicherheit des Landes wegen des androhenden Krieges zweier benachbarter Mächte – Frankreich und Österreich - gefährdet ist, hat der Landammann der Schweiz als oberste Bundesbehörde die vo
+           +Die Finanz-Commission wird ermächtigt, die Landessteuer zu revidieren und nach einem von der Regierung genehmigten Repartitionsfuss auf sämtliche Gemeinden zu verlegen und als einen, den obwaltenden 
+           +Die Proklamation soll am 22. September 1805 in allen Kirchen des Kantons von der offenen Kanzel verlesen, von den Bezirks- und Unterstatthaltern an den gewohnten öffentlichen Orten angeschlagen und a
+           +Im Namen des Kleinen Rats unterzeichnet: Amtsbürgermeister Reinhard, der erste Staatschreiber Lavater.
+           +Das Dokument ist in schlechtem Zustand.
+        Zeitraum-Quelle: 'Untereinheiten (geschätzt)' => 'Darin (geschätzt)'
+        Prüfhinweise: 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.' => 'Zeitraum aus den Jahreszahlen im Darin geschätzt.'
+GEÄ  VII.340.:2. [ID 2, Dossier, E1, Eltern -, S.6] Kopien | Von/bis (>= x und <=y)
+        Titel: 'Die innere Ruhe und Sicherheit der Personen und des Eigentums aller Art wird festgesetzt und heilig beibehalten.' => 'Kopien'
+        Stufe: 'Serie' => 'Dossier'
+        [Darin]
+           -
+           +Nummern 1 bis 7
+           +Sieben Dokumente von 1408 bis 1725, Urkunden, Akten und ein Rechnungsheft, wurden dem Gemeindearchiv Höngg zugeordnet und in den dortigen Urkundenbestand integriert. Die Datenbankaufnahmen findet man
+           +Nummer 8
+           +Bericht über einen Comed Stern, ausgestellt von der Kanzlei der Grafschaft Baden im Aargau (23. Januar 1681)
+           +In dem amtlichen Schreiben wird vermerkt, dass der Komet nit allein in unsern Landen, sondern allenthalben seit einer Zeit hiro, so heiter gesehen wird, kein ander Zeichen ist, als dass der Allmächti
+           +Nummer 9
+           +Genealogische Aufzeichnung über die Familie Zoller I
+           +Papierlibell mit genealogischen Aufzeichnungen über die Familie Zoller von 1041 bis 1703.
+           +Die ältesten Einträge mit genauen Jahresangaben sind mit ziemlicher Sicherheit nicht richtig, sondern entsprechen der damaligen Tradition, die Herkunft vornehmer Familien auf sehr frühe Zeiten zurück
+           +Einleitung: Die Zoller, ein alt adelich Geschlächt, haben vor Zeiten geheissen die von Boll, nach dem sie aber vom Römischen Reich die Zoll zu Andelfingen und andrest um (?) Ihrer getreüwen Diensten 
+           +Über die 1792 ausgestorbene Zürcher Famile Zoller vgl. HBLS, 7, S. 674 f. und die Bürgerbücher III.A. 1. und III.A. 2.
+           +Eine Uberprüfung von einigen wenigen Daten mit den amtlichen Einträgen in den Bürgerbüchern ergibt, dass nicht alle relevanten, das Bürgerrecht betreffenden Ereignisse in die Chronik aufgenommen word
+           +Nummer 10
+           +Genealogische Aufzeichnung über die Familie Zoller II
+           +Titel: Harnach volgende Zoller warend des Kleinen und Raths von Ao. 1384 bis uff jetzige Zyth.
+           +Beidseitig beschriebenes Blatt.
+           +Enthält Einträge über die Familie Zoller von 1366 bis 1711.
+           +Beim ältesten Eintrag geht es um den ersten Hinweis auf das Zürcher Bürgerrecht der Familie Zoller und nicht um deren Ratszugehörigkeit: 1366 ward Burger Ulrich Zoller von Louffenburg, was mit dem Bü
+           +Die Amtszeiten der überprüften Ratsmitglieder stimmen mit den Ratslisten überein (vgl. Werner Schnyder, Die Zürcher Ratslisten 1225 bis 1798, Zürich 1962).
+           +Nummer 11
+           +[David Nüschler], Der Wellenberg, Erinnerungen betreffend den in den Jahren 1837 und 1838 demolirten Wellenberg-Thurm, Zürich 1838
+        PDF-Seite: '2' => '6'
+        Zeitraum-Quelle: 'Untereinheiten (geschätzt)' => 'Darin (geschätzt)'
+        Prüfhinweise: 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.' => 'Zeitraum aus den Jahreszahlen im Darin geschätzt.'

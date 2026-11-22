@@ -1,0 +1,8 @@
+### D432: vorher 146 Einheiten, nachher 147 Einheiten
+NEU  V.B.c.5.:72. [ID 72, Dossier, E1, Eltern -, S.4] Preisliste Schukert, Nürnberg | Genau (=)
+GEÄ  V.B.c.5.:71. [ID 71, Dossier, E1, Eltern -, S.4] Preisliste "Elektro Bamberg" | Genau (=)
+        [Darin]
+           -V.B. c.5::72. Preisliste Schukert, Nürnberg, 23. März 1889
+           +
+GEÄ  V.B.c.5.:73. [ID 73, Dossier, E1, Eltern -, S.4] Preisliste Ernst Probst, Hannover, für Bogenlampen | Genau (=)
+        Prüfhinweise: 'Nummerierung springt: nach 71 folgt 73.' => ''

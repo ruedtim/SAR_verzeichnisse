@@ -1,0 +1,43 @@
+D1791	Vollsignatur	4 Einheiten	bis S. 1	Ebenen 1	Warnzeichen: [NICHT] 4
+D1801	Vollsignatur	4 Einheiten	bis S. 1	Ebenen 1	Warnzeichen: [NICHT] 1
+D1580	Vollsignatur	5 Einheiten	bis S. 1	Ebenen 1	Warnzeichen: [NICHT] 2
+D1600	Vollsignatur	5 Einheiten	bis S. 1	Ebenen 1	Warnzeichen: [NICHT] 2
+D1591	Vollsignatur	6 Einheiten	bis S. 1	Ebenen 1	Warnzeichen: [NICHT] 2
+D151745	Vollsignatur	6 Einheiten	bis S. 1	Ebenen 1	Warnzeichen: [NICHT] 2
+D2093	Vollsignatur	6 Einheiten	bis S. 1	Ebenen 1	Warnzeichen: [NICHT] 2
+D1606	Vollsignatur	7 Einheiten	bis S. 1	Ebenen 1	Warnzeichen: [NICHT] 2
+D1678	Vollsignatur	9 Einheiten	bis S. 1	Ebenen 1	Warnzeichen: [NICHT] 2
+D1285	Vollsignatur	9 Einheiten	bis S. 1	Ebenen 1	Warnzeichen: [NICHT] 2
+D1618	Vollsignatur	10 Einheiten	bis S. 1	Ebenen 1	Warnzeichen: [NICHT] 4
+D151766	Vollsignatur	12 Einheiten	bis S. 1	Ebenen 1	Warnzeichen: [NICHT] 1
+D1698	Vollsignatur	12 Einheiten	bis S. 1	Ebenen 1	Warnzeichen: [NICHT] 2
+D133	Vollsignatur	12 Einheiten	bis S. 1	Ebenen 1	Warnzeichen: [NICHT] 1
+D1257	Vollsignatur	15 Einheiten	bis S. 1	Ebenen 1	Warnzeichen: [NICHT] 2
+D1193	Vollsignatur	24 Einheiten	bis S. 2	Ebenen 1	Warnzeichen: [NICHT] 1
+D3698	Vollsignatur	25 Einheiten	bis S. 3	Ebenen 2	Warnzeichen: [NICHT] 4
+D1636	Vollsignatur	26 Einheiten	bis S. 1	Ebenen 1	Warnzeichen: [NICHT] 2
+D1726	Vollsignatur	49 Einheiten	bis S. 2	Ebenen 1	Warnzeichen: [NICHT] 3
+D3894	Vollsignatur	89 Einheiten	bis S. 8	Ebenen 2	Warnzeichen: [NACH] 1, [NICHT] 2, [SIG?] 3, [VOR] 6
+D1706	Vollsignatur	108 Einheiten	bis S. 4	Ebenen 1	Warnzeichen: [NICHT] 2
+D3816	Vollsignatur	125 Einheiten	bis S. 7	Ebenen 3	Warnzeichen: [NICHT] 6, [VOR] 4
+D2609	dezimal	8 Einheiten	bis S. 4	Ebenen 2	Warnzeichen: [NICHT] 1, [VOR] 2
+D2564	dezimal	15 Einheiten	bis S. 3	Ebenen 2	Warnzeichen: [NICHT] 3
+D1182	dezimal	34 Einheiten	bis S. 3	Ebenen 2	Warnzeichen: [NICHT] 5, [SIG?] 1, [VOR] 5
+D141056	dezimal	38 Einheiten	bis S. 8	Ebenen 2	Warnzeichen: [NICHT] 1, [VOR] 4
+D3545	dezimal	43 Einheiten	bis S. 3	Ebenen 3	Warnzeichen: [NICHT] 5, [SIG?] 1
+D1404	dezimal	54 Einheiten	bis S. 3	Ebenen 3	Warnzeichen: [NICHT] 1
+D3585	dezimal	88 Einheiten	bis S. 4	Ebenen 3	Warnzeichen: [NICHT] 5, [SIG?] 2
+D177448	dezimal	443 Einheiten	bis S. 25	Ebenen 5	Warnzeichen: [NICHT] 2, [VOR] 4
+D2745	fortlaufend	2 Einheiten	bis S. 2	Ebenen 1	Warnzeichen: [NICHT] 1, [VOR] 5
+D3004	fortlaufend	2 Einheiten	bis S. 1	Ebenen 1	Warnzeichen: [NICHT] 5
+D2659	fortlaufend	2 Einheiten	bis S. 1	Ebenen 1	Warnzeichen: [NICHT] 1
+D8631	fortlaufend	3 Einheiten	bis S. 2	Ebenen 1	Warnzeichen: [NICHT] 4
+D1754	fortlaufend	3 Einheiten	bis S. 1	Ebenen 1	Warnzeichen: [NICHT] 3
+D2921	fortlaufend	7 Einheiten	bis S. 1	Ebenen 1	Warnzeichen: [NICHT] 1
+D1187	fortlaufend	14 Einheiten	bis S. 2	Ebenen 1	Warnzeichen: [NICHT] 5, [VOR] 1
+D167	ohne Signaturen	1 Einheiten	bis S. 1	Ebenen 1	Warnzeichen: keine
+D175480	ohne Signaturen	1 Einheiten	bis S. 1	Ebenen 1	Warnzeichen: [NICHT] 3
+D2616	ohne Signaturen	1 Einheiten	bis S. 1	Ebenen 1	Warnzeichen: [NICHT] 1
+D2727	ohne Signaturen	1 Einheiten	bis S. 1	Ebenen 1	Warnzeichen: [NICHT] 1
+D2628	ohne Signaturen	1 Einheiten	bis S. 1	Ebenen 1	Warnzeichen: [NICHT] 2
+D2749	ohne Signaturen	1 Einheiten	bis S. 1	Ebenen 1	Warnzeichen: [NICHT] 1

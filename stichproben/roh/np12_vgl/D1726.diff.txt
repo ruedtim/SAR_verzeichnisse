@@ -1,0 +1,3 @@
+### D1726: vorher 49 Einheiten, nachher 50 Einheiten
+NEU  V.G.b.903. [ID 50, Bestand, E1, Eltern -, S.2] Heizamt. Zusammenstellung über den Brennstoffverbrauch in Heimen, Gewächshäusern, Schulgebäuden, Verwaltungsgebäuden und Gebäuden des Gesundheitsamtes (Kohlen-B | Von/bis (>= x und <=y)
+        H: Stück ohne Nummer im Findmittel («Drei Archivschachteln enthalten Drucksachen des Heizamtes ab 1945.», S. 2) – hier beim Bestand übernommen (keine Signatur erfunden); in scope beim Bestand ergänzen oder von Hand als Einheit anlegen.

@@ -1,0 +1,11 @@
+### D2947: vorher 71 Einheiten, nachher 71 Einheiten
+GEÄ  VII.144.:7.2. [ID 71, Dossier, E2, Eltern VII.144.:7., S.7] Baukalkulations- und Abrechnungsbuch | Von/bis (>= x und <=y)
+        [Darin]
+           -Ausgewählte Literatur und Hinweise zu den Personen; Zürcher Wochenchronik, 18. Juni 1910, S. 225 [Nekrolog August Stadler]
+           -; Albrecht Krayer. Die Baumeister- und Künstlerfamilie Stadler in Zürich und ihre Beziehungen
+           -zur Kunst im 19. Jahrhundert, Zürich 1948, S. 124 [August Conrad Stadler]; Hans Pestalozzi-Keyer. Geschichte der Familie Pestalozzi, Zürich 1958, S. 164 [Maria
+           -ne Pestalozzi-Stadler]; Schweizer Lexikon, Bd. 6, Luzern 1993, S. 56 f. [August Stadler]
+           -; Der Nachlass von August Stadler befindet sich in der Zentralbibliothek Zürich.
+           -; Hinweise über Maria Wilhelmine Stadler gibt es auch in Nekrologen und weiteren Drucksachen
+           -über ihren Ehemann, den Stadtpräsidenten Hans Konrad Pestalozzi.
+           +

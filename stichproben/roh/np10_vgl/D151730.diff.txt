@@ -1,0 +1,95 @@
+### D151730: vorher 42 Einheiten, nachher 42 Einheiten
+GEÄ  V.J.c.402.:2. [ID 4, Dossier, E1, Eltern -, S.1] Akten betreffend die Gründung des Mädchenheims (Beiträge) | Genau (=)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.J.c.402.:3. [ID 5, Dossier, E1, Eltern -, S.1] Statuten der Anfangszeit | 
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.J.c.402.:4. [ID 6, Teilbestand, E1, Eltern -, S.1] Jahresberichte | Genau (=)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.J.c.402.:4.1. [ID 7, Dossier, E2, Eltern V.J.c.402.:4., S.1] Gedruckte Jahresberichte | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.J.c.402.:4.2. [ID 8, Dossier, E2, Eltern V.J.c.402.:4., S.1] Jahresberichte im Manuskript | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.J.c.402.:5. [ID 9, Dossier, E1, Eltern -, S.1] Statistik Zöglinge und Verpflegungskosten | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.J.c.402.:7. [ID 11, Dossier, E1, Eltern -, S.1] Kontrolle der Rationierungskarten (Muster) | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.J.c.402.:8. [ID 12, Teilbestand, E1, Eltern -, S.1] Umgestaltung des Mädchenheims Tannenhof und Umzug nach Riesbach | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.J.c.402.:8.1. [ID 13, Dossier, E2, Eltern V.J.c.402.:8., S.1] Zur Frage der Umgestaltung des Tannenhofs an der Winterthurerstrasse 147 | 
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.J.c.402.:8.2. [ID 14, Dossier, E2, Eltern V.J.c.402.:8., S.1] Kauf und Umbau des Wohnhauses Neumünsterstrasse 2 | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.J.c.402.:9. [ID 15, Dossier, E1, Eltern -, S.2] Jugendaktion der Schweizerspende | Genau (=)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.J.c.402.:10. [ID 16, Dossier, E1, Eltern -, S.2] Bad- und Waschheft (Muster) | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.J.c.402.:11. [ID 17, Dossier, E1, Eltern -, S.2] Klassentagebücher (Muster) | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.J.c.402.:12. [ID 18, Dossier, E1, Eltern -, S.2] Originalzeichnungen von Bruno Bischofberger zur Broschüre "Wegweiser für Neueintretende" (vgl. V.J. c.402.13.) | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.J.c.402.:13. [ID 19, Dossier, E1, Eltern -, S.2] Drucksachen des Heimes | Genau (=)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.J.c.402.:14. [ID 20, Teilbestand, E1, Eltern -, S.2] Arbeitspapiere aus der Ära der Heimleiterin R. Hürlimann | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.J.c.402.:14.1. [ID 21, Dossier, E2, Eltern V.J.c.402.:14., S.2] Organigramme der Heimleitung | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.J.c.402.:14.2. [ID 22, Dossier, E2, Eltern V.J.c.402.:14., S.2] Stellenbeschreibungen | 
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.J.c.402.:14.3. [ID 23, Dossier, E2, Eltern V.J.c.402.:14., S.2] Hausordnung | 
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.J.c.402.:14.4. [ID 24, Dossier, E2, Eltern V.J.c.402.:14., S.2] Anamnese (Merkblätter | 
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.J.c.402.:14.5. [ID 25, Dossier, E2, Eltern V.J.c.402.:14., S.2] Fallführung (Merkblätter) | Genau (=)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.J.c.402.:14.6. [ID 26, Dossier, E2, Eltern V.J.c.402.:14., S.3] Arbeitsrapporte der Erzieher und Erzieherinnen (Muster) | 
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.J.c.402.:19. [ID 37, Teilbestand, E1, Eltern -, S.3] Diverses | 
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => ''
+        von: '1912' => ''
+        bis: '1947' => ''
+        Zeitraum-Quelle: 'Untereinheiten' => ''
+        [Prüfhinweise]
+           +Kein Zeitraum gefunden (auch nicht in den Untereinheiten).
+GEÄ  V.J.c.402.:19.1. [ID 38, Dossier, E2, Eltern V.J.c.402.:19., S.3] Mitarbeit in Kommissionen / Heimleitertagungen | 
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+GEÄ  V.J.c.402.:19.2. [ID 39, Dossier, E2, Eltern V.J.c.402.:19., S.3] Anschaffungen | 
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+GEÄ  V.J.c.402.:19.3. [ID 40, Dossier, E2, Eltern V.J.c.402.:19., S.3] Mitgliedschaften | 
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+GEÄ  V.J.c.402.:19.4. [ID 41, Dossier, E2, Eltern V.J.c.402.:19., S.3] Bauliche Veränderungen | 
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+GEÄ  V.J.c.402.:19.5. [ID 42, Dossier, E2, Eltern V.J.c.402.:19., S.3] Zigarettenausgabe an die Mädchen | 
+        Titel: 'Zigarettenausgabe an die Mädchen Anhang' => 'Zigarettenausgabe an die Mädchen'
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => ''
+        von: '1912' => ''
+        bis: '1947' => ''
+        [Darin]
+           -Verweis auf andere Archivbestände
+           -V.J. b.301. Aufnahmeprotokoll, 1913-1915
+           -V.J. b.302. Kassabuch (Muster), 1912-1914
+           -V.J. b.303. Journal-Hauptbuch, 1914-1926
+           -V.J. b.304. Jahresrechnungen, 1929-1943
+           -V.J. b.305. 17 Tagehefte von Insassen, 1915-1923
+           -V.J. b.306. Debitoren-Journal (Muster), 1914-1923
+           -V.J. b.307. Beiträge (an Institutionen ähnlicher Ausrichtung), 1918-1923
+           -V.J. b.308. Insassenverzeichnis, 1928-1939/40
+           -V.J. b.309. Menus (Muster), 1941-1942
+           -V.J. c.401. Aufnahmebogen und Aufnahmekarten, 1914
+           -1. Schachtel, 1914-1924
+           -2. Schachtel, 1925-1929
+           -3. Schachtel, 1930-1934
+           -4. Schachtel, 1935-1940
+           -Verzeichnete Angaben: Eintrittsdaten (durch wen eingewiesen)
+           -Letzter Ort
+           -Geburtsdatum
+           -Beruf
+           -Familienverhältnisse (Erziehung)
+           -Geschwister
+           -Barschaft
+           -Gesundheit
+           -Anlass der Einlieferung (Verfügung)
+           -Austritt (Wohin?)
+           -V.J. c.17. Akten des Zentralsekretariates des Wohlfahrtsamtes b. 10. Mädchenheim Tannenhof, 1942-1945
+           -g. 13. Mädchenheim Riesbach, 1943-1947
+           +
+        Zeitraum-Quelle: 'Datumsspalte' => ''

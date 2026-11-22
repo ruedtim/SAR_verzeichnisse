@@ -1,0 +1,26 @@
+### D3776: vorher 20 Einheiten, nachher 20 Einheiten
+GEÄ  VII.48.:18 [ID 20, Dossier, E1, Eltern -, S.3] 4.4. Literatur (alphabetisches Verzeichnis der benützten Literatur und der verwendeten Abkürzungen) | 
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => ''
+        von: '1850' => ''
+        bis: '1992' => ''
+        [Darin]
+           -Lagerung: 1 Normschachtel
+           -Standort: 3. Obergeschoss (Bibliothek), Zimmer 307 ("Genealogieraum"), Compactus 5
+           -16. März 1992 / RD / 185B
+           -Notizen zum INSA
+           -Inventar der neueren Schweizer Architektur 1850 - 1920
+           -(Manuskript von Hanspeter Rebsamen, Zürich, INSA-Band 10)
+           -Das Inventar der neueren Schweizer Architektur 1850 - 1920 wird von der Gesellschaft für Schweizerische Kunstgeschichte herausgegeben. Zuerst publiziert Band 3
+           -Stand 16. März 1992: Band 6, 1991
+           -Band 10 (Winterthur, Zürich, Zug) erschienen am 1. Dezember 1992 (Buchvernissage in der Aula des Hirschengrabenschulhauses)
+           -Zurzeit noch ausstehend: Bde. 7 bis 9
+           -In Band 10 (1992) wurde das Kapitel 1.3 ("Persönlichkeiten", S. 213 - 226) sehr stark gekürzt. Das ausführliche Manuskript befindet sich im Stadtarchiv Zürich 
+           -Signatur der INSA-Bände im Stadtarchiv: Bc 538: 1 ff.
+           -Das Werk bietet chronologisch die Fortsetzung der Reihe "Kunstdenkmäler der Schweiz". Der erste Band der Kunstdenkmäler erschien 1927. Es wurde eine zeitliche 
+           -"Das formulierte Ziel des INSA bestand darin, die Architektur zwischen Klassizismus und Neuem Bauen in einem Kurzinventar zu erfassen, das der Denkmalpflege wi
+           -Die Städteinventarisierung des INSA beschränkt sich auf 40 Städte der Schweiz: alle Kantonshauptorte und Orte, die 1920 über 10'000 Einwohner zählten. Diese we
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => ''
+        [Prüfhinweise]
+           -Zeitraum aus den Jahreszahlen im Darin geschätzt.
+           +Kein Zeitraum gefunden.

@@ -1,0 +1,4 @@
+### D539: vorher 24 Einheiten, nachher 24 Einheiten
+GEÄ  V.B.c.9.:23 [ID 24, Dossier, E1, Eltern -, S.86] Drucksachen | Von/bis (>= x und <=y)
+        [Darin]
+           -Dres. Robert Dünki und Max Schultheiss

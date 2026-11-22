@@ -1,0 +1,3 @@
+### D3530: vorher 8 Einheiten, nachher 8 Einheiten
+GEÄ  VII.327.:2.3. [ID 7, Dossier, E2, Eltern VII.327.:2., S.31] Bibliographie der gedruckten Arbeiten von Konrad Schulthess (in chronologischer Reihenfolge; Familie Schulthess am Schluss) | Von/bis (>= x und <=y)
+        von: '1862' => '1922'

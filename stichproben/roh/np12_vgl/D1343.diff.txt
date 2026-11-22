@@ -1,0 +1,31 @@
+### D1343: vorher 44 Einheiten, nachher 44 Einheiten
+GEÄ  V.F.c.111.:12 [ID 21, Dossier, E1, Eltern -, S.2] Luftschutz | 
+        Stufe: 'Teilbestand' => 'Dossier'
+        Prüfhinweise: 'Kein Zeitraum gefunden (auch nicht in den Untereinheiten).' => 'Kein Zeitraum gefunden.'
+GEÄ  V.F.c.111.:12.a [ID 22, Dossier, E1, Eltern -, S.2] Luftschutz | 
+        Ebene: '2' => '1'
+        Übergeordnete Signatur: 'V.F.c.111.:12' => 'V.F.c.111.'
+        Prüfhinweise: '' => 'Kein Zeitraum gefunden.'
+        Eltern: 'V.F.c.111.:12' => '-'
+GEÄ  V.F.c.111.:15 [ID 25, Dossier, E1, Eltern -, S.2] Städt. Poliklinik, Holstrasse 119 und Herman | 
+        Stufe: 'Teilbestand' => 'Dossier'
+        [Prüfhinweise]
+           -Kein Zeitraum gefunden (auch nicht in den Untereinheiten).
+           +Kein Zeitraum gefunden.
+GEÄ  V.F.c.111.:15.a [ID 26, Dossier, E1, Eltern -, S.2] Städt. Poliklinik, Holstrasse 119 und Herman | 
+        Ebene: '2' => '1'
+        Übergeordnete Signatur: 'V.F.c.111.:15' => 'V.F.c.111.'
+        Prüfhinweise: '' => 'Kein Zeitraum gefunden.'
+        Eltern: 'V.F.c.111.:15' => '-'
+GEÄ  V.F.c.111.:17 [ID 28, Dossier, E1, Eltern -, S.2] Aerztlicher Sonntags-Notfalldienst. | Von/bis (>= x und <=y)
+        Stufe: 'Teilbestand' => 'Dossier'
+GEÄ  V.F.c.111.:17.a [ID 29, Dossier, E1, Eltern -, S.2] Aerztlicher Sonntags-Notfalldienst. | Von/bis (>= x und <=y)
+        Ebene: '2' => '1'
+        Übergeordnete Signatur: 'V.F.c.111.:17' => 'V.F.c.111.'
+        Eltern: 'V.F.c.111.:17' => '-'
+GEÄ  V.F.c.111.:19 [ID 31, Dossier, E1, Eltern -, S.2] Eingemeindung | Genau (=)
+        Stufe: 'Teilbestand' => 'Dossier'
+GEÄ  V.F.c.111.:19.a [ID 32, Dossier, E1, Eltern -, S.2] Eingemeindung | Genau (=)
+        Ebene: '2' => '1'
+        Übergeordnete Signatur: 'V.F.c.111.:19' => 'V.F.c.111.'
+        Eltern: 'V.F.c.111.:19' => '-'

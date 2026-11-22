@@ -1,0 +1,17 @@
+### D2630: vorher 9 Einheiten, nachher 9 Einheiten
+GEÄ  V.L.186.:2. [ID 2, Dossier, E1, Eltern -, S.1] Zeitungsausschnitte und Pressemappen | Genau (=)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.L.186.:3. [ID 3, Dossier, E1, Eltern -, S.1] Kulturprogramm „Warmer Mai“ | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.L.186.:4. [ID 4, Dossier, E1, Eltern -, S.1] Sportprogramm (19 Sportarten) | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.L.186.:5. [ID 5, Dossier, E1, Eltern -, S.1] Organisation und Verein EuroGames | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.L.186.:6. [ID 6, Dossier, E1, Eltern -, S.1] Korrespondenz mit HelferInnen | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.L.186.:7. [ID 7, Dossier, E1, Eltern -, S.1] Opposition (EDU) | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.L.186.:8. [ID 8, Dossier, E1, Eltern -, S.1] Drucksachen (Programme, Stadtplan, Kleinplakate, Ausweise, Fotos, Parties, Briefpapier) | 
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.L.186.:9. [ID 9, Dossier, E1, Eltern -, S.1] Varia | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'

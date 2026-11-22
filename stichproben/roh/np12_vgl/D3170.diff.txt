@@ -1,0 +1,12 @@
+### D3170: vorher 384 Einheiten, nachher 385 Einheiten
+NEU  VII.209.:6.1.4.4. [ID 201, Dossier, E4, Eltern VII.209.:6.1.4., S.16] 1978/79 Saisonprospekt (fehlt) | Von/bis (>= x und <=y)
+        H: Im Findmittel «6.1.3.4.» nach 6.1.4.3. – als 6.1.4.4. gelesen (Tippfehler?), bitte prüfen.
+GEÄ  VII.209.:6.1.3. [ID 192, Serie, E3, Eltern VII.209.:6.1., S.16] Direktion Horst Zankl | Von/bis (>= x und <=y)
+        bis: '1979' => '1975'
+GEÄ  VII.209.:6.1.3.4. [ID 196, Dossier, E4, Eltern VII.209.:6.1.3., S.16] 1974/75 Saisonprospekt (fehlt) | Von/bis (>= x und <=y)
+        Titel: '1978/79 Saisonprospekt (fehlt)' => '1974/75 Saisonprospekt (fehlt)'
+        von: '1978' => '1974'
+        bis: '1979' => '1975'
+        Entstehungszeitraum, Anm.: '1978/79' => '1974/75'
+GEÄ  VII.209.:6.1.4. [ID 197, Serie, E3, Eltern VII.209.:6.1., S.16] Direktion Luis Bolliger | Von/bis (>= x und <=y)
+        bis: '1978' => '1979'

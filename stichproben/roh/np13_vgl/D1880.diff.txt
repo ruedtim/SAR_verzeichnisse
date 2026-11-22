@@ -1,0 +1,19 @@
+### D1880: vorher 192 Einheiten, nachher 192 Einheiten
+GEÄ  V.G.c.50.:A./T2 [ID 23, Dossier, E2, Eltern V.G.c.50.:A., S.12] Allgemeines | Von/bis (>= x und <=y)
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Stadtarchiv Zürich V.G. c.50., 2. Serie / Akten und Pläne des Bauwesens II bzw. Bauamtes II / 1930 – 1936 / (Detailver
+GEÄ  V.G.c.50.:A./T3 [ID 25, Dossier, E2, Eltern V.G.c.50.:A., S.16] Allgemeines | Von/bis (>= x und <=y)
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Stadtarchiv Zürich V.G. c.50., 3. Serie / Akten und Pläne des Bauwesens II bzw. Bauamtes II / 1910 – 1964 / (Detailver
+GEÄ  V.G.c.50.:R. [ID 191, Serie, E1, Eltern -, S.11] Notariate, Betreibungs- und Friedensrichterämter | Von/bis (>= x und <=y)
+        [Darin]
+           -Stadtarchiv Zürich V.G. c.50., 2. Serie
+           -Akten und Pläne des Bauwesens II bzw. Bauamtes II 1930 – 1936
+           -(Detailverzeichnis)
+           +
+GEÄ  V.G.c.50.:R./T2 [ID 192, Dossier, E2, Eltern V.G.c.50.:R., S.15] Notariate, Betreibungs- und Friedensrichterämter | Von/bis (>= x und <=y)
+        [Darin]
+           -Protokollauszüge, Verfügungen, Anträge; Stadtarchiv Zürich V.G. c.50., 3. Serie
+           -Akten und Pläne des Bauwesens II bzw. Bauamtes II 1910 – 1964
+           -(Detailverzeichnis)
+           +Protokollauszüge, Verfügungen, Anträge

@@ -1,0 +1,35 @@
+### D1820: vorher 19 Einheiten, nachher 19 Einheiten
+GEÄ  V.G.c.23.:2. [ID 2, Dossier, E1, Eltern -, S.1] Wasserrechtsverhältnisse der Häuser zum Taleck und 1862-1880 Hinteren Pelikan | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.G.c.23.:3. [ID 3, Dossier, E1, Eltern -, S.1] Liegenschaft Diener im Hard | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.G.c.23.:4. [ID 4, Dossier, E1, Eltern -, S.1] Quellen der Holzkorporation Albisrieden | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.G.c.23.:5. [ID 5, Dossier, E1, Eltern -, S.1] Pumpwerk oberer Mühlesteg und Platzpromenade | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.G.c.23.:6. [ID 6, Dossier, E1, Eltern -, S.1] Ankauf von Quellen des Ingenieurs Lang (Hirslanden und Zollikon) | Genau (=)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.G.c.23.:7. [ID 7, Dossier, E1, Eltern -, S.1] Ablösung von Brunnenrechten. Pumpwerk beim oberen Mühlesteg | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.G.c.23.:8. [ID 8, Dossier, E1, Eltern -, S.1] Filteranlage in der Limmat | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.G.c.23.:9. [ID 9, Dossier, E1, Eltern -, S.1] Wasserreservoirs | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.G.c.23.:9a. [ID 10, Dossier, E1, Eltern -, S.1] Wild'sche Karte 1850 mit Einzeichnung der Trink- und 1850-1865 Wasserleitungen der Stadt Zürich | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.G.c.23.:11. [ID 12, Dossier, E1, Eltern -, S.1] Liegenschaft Maggi im Hard | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.G.c.23.:12. [ID 13, Dossier, E1, Eltern -, S.1] Liegenschaft Müller Schiefser im Hard | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.G.c.23.:13. [ID 14, Dossier, E1, Eltern -, S.1] Klagen über den Lärm der Seiltransmission | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.G.c.23.:14. [ID 15, Dossier, E1, Eltern -, S.1] Liegenschaft Krebser im Hard | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.G.c.23.:15. [ID 16, Dossier, E1, Eltern -, S.1] Schlussbericht über die Wasserwerkanlage im Letten | Genau (=)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.G.c.23.:16. [ID 17, Dossier, E1, Eltern -, S.1] Wasserreservoireinsturz Plattenstrasse-Rämistrasse | Genau (=)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.G.c.23.:17. [ID 18, Dossier, E1, Eltern -, S.1] Brunnen an der Seidentrocknungsanstalt Bärengasse (Erneuerung) | Genau (=)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.G.c.23.:18. [ID 19, Dossier, E1, Eltern -, S.1] Verzeichnis der öffentlichen und privaten | Genau (=)
+        Schachtel-Nr.: '' => 'II'

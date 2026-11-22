@@ -1,0 +1,6 @@
+D140969	97 Einheiten	Gegenprüfung
+D2643	47 Einheiten	Gegenprüfung
+D3190	21 Einheiten	Gegenprüfung
+D32837	268 Einheiten	Gegenprüfung
+D3672	1503 Einheiten	Gegenprüfung
+D3943	247 Einheiten	Gegenprüfung

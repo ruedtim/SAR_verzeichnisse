@@ -1,0 +1,6 @@
+### D149825: vorher 272 Einheiten, nachher 273 Einheiten
+NEU  VII.10.:154a. [ID 155, Dossier, E1, Eltern -, S.7] Schreiben des Herrn F. Schulthess-Meyer | Genau (=)
+GEÄ  VII.10.:154. [ID 154, Dossier, E1, Eltern -, S.7] Schreiben des Herrn Fr. Schulthess, Buchhändler | Genau (=)
+        [Darin]
+           -154a Schreiben des Herrn F. Schulthess-Meyer, 11. Oktober 1884
+           +

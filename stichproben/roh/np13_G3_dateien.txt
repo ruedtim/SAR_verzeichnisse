@@ -1,0 +1,15 @@
+D149888	262 Einheiten	Gegenprüfung
+D150296	153 Einheiten	Gegenprüfung
+D151210	3161 Einheiten	Gegenprüfung
+D152817	704 Einheiten	Gegenprüfung
+D175996	1337 Einheiten	Gegenprüfung
+D2857	419 Einheiten	Gegenprüfung
+D2992	13 Einheiten	Gegenprüfung
+D3186	109 Einheiten	Gegenprüfung (auch Testdaten)
+D3470	1950 Einheiten	Gegenprüfung
+D3472	1719 Einheiten	Gegenprüfung
+D847	292 Einheiten	Gegenprüfung
+D9978	167 Einheiten	Gegenprüfung
+D9983	299 Einheiten	Gegenprüfung (auch Testdaten)
+D152810	Testdaten	Gegenprüfung (nur testdaten_excel)
+D3031	Testdaten	Gegenprüfung (nur testdaten_excel)

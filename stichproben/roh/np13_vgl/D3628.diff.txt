@@ -1,0 +1,17 @@
+### D3628: vorher 49 Einheiten, nachher 49 Einheiten
+GEÄ  VII.376.:2.1.7. [ID 12, Dossier, E3, Eltern VII.376.:2.1., S.3] Band I/12 | Von/bis (>= x und <=y)
+        [Darin]
+           -Lose Protokolle
+GEÄ  VII.376.:2.1.8. [ID 13, Dossier, E3, Eltern VII.376.:2.1., S.3] Lose Protokolle der Vorstandssitzung des Turnvereins Neumünster inkl. Einladungen, einzelne Briefe an Mitglieder und Präsenzlisten [nicht vollständig] | Von/bis (>= x und <=y)
+        Prüfhinweise: '' => 'Steht im Findmittel unter der Zwischenüberschrift «Lose Protokolle».'
+GEÄ  VII.376.:2.2.9. [ID 23, Dossier, E3, Eltern VII.376.:2.2., S.4] Band II/9 | Von/bis (>= x und <=y)
+        [Darin]
+           -lose Protokolle
+GEÄ  VII.376.:2.2.10. [ID 24, Dossier, E3, Eltern VII.376.:2.2., S.4] Lose Protokolle der General- und Vereinsversammlungen [nicht vollständig] | Von/bis (>= x und <=y)
+        Prüfhinweise: '' => 'Steht im Findmittel unter der Zwischenüberschrift «lose Protokolle».'
+GEÄ  VII.376.:8. [ID 49, Dossier, E1, Eltern -, S.8] Bildmaterial und Tonträger | Von/bis (>= x und <=y)
+        [Darin]
+           -1 Grf. Schachtel 0,20 lfm
+           -16 Normschachteln 1,60 lfm
+           -12 Bände 0,40 lfm
+           -Total 2, 20 lfm

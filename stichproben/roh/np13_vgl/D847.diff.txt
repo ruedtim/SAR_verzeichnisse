@@ -1,0 +1,5 @@
+### D847: vorher 292 Einheiten, nachher 292 Einheiten
+GEÄ  V.C.c.61.:30./T2 [ID 42, Dossier, E2, Eltern V.C.c.61.:30., S.2] Pensionsfonds für die städtischen Mitarbeiter | 
+        Prüfhinweise: '' => 'Signatur 30. steht im Findmittel zweimal hintereinander mit anderem Titel – Tippfehler? Als Teil übernommen, bitte prüfen.'
+GEÄ  V.C.c.61.:271./T2 [ID 287, Dossier, E2, Eltern V.C.c.61.:271., S.9] Forstreserve-Fonds des Gemeindegutes | 
+        Prüfhinweise: '' => 'Signatur 271. steht im Findmittel zweimal hintereinander mit anderem Titel – Tippfehler? Als Teil übernommen, bitte prüfen.'

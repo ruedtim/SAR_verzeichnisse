@@ -1,0 +1,342 @@
+### D3484 – fortlaufend – 704 Einheiten – Bestand VII.308.D.a.
+Zusammenfassung: LÜCKE 27, OHNE 313
+[LÜCKE] 215–215 fehlen vor ID 40 VII.308.D.a.:216. (Eltern None) S.4
+[LÜCKE] 256–260 fehlen vor ID 111 VII.308.D.a.:261. (Eltern None) S.7
+[LÜCKE] 276–278 fehlen vor ID 134 VII.308.D.a.:279. (Eltern None) S.8
+[LÜCKE] 289–292 fehlen vor ID 147 VII.308.D.a.:293. (Eltern None) S.8
+[LÜCKE] 316–323 fehlen vor ID 175 VII.308.D.a.:324. (Eltern None) S.10
+[LÜCKE] 326–328 fehlen vor ID 178 VII.308.D.a.:329. (Eltern None) S.10
+[LÜCKE] 330–338 fehlen vor ID 179 VII.308.D.a.:339. (Eltern None) S.10
+[LÜCKE] 340–342 fehlen vor ID 181 VII.308.D.a.:343. (Eltern None) S.10
+[LÜCKE] 371–371 fehlen vor ID 226 VII.308.D.a.:372. (Eltern None) S.12
+[LÜCKE] 375–377 fehlen vor ID 230 VII.308.D.a.:378. (Eltern None) S.12
+[LÜCKE] 379–380 fehlen vor ID 231 VII.308.D.a.:381. (Eltern None) S.12
+[LÜCKE] 390–390 fehlen vor ID 244 VII.308.D.a.:391. (Eltern None) S.13
+[LÜCKE] 394–394 fehlen vor ID 249 VII.308.D.a.:395. (Eltern None) S.13
+[LÜCKE] 404–404 fehlen vor ID 269 VII.308.D.a.:405. (Eltern None) S.14
+[LÜCKE] 410–410 fehlen vor ID 278 VII.308.D.a.:411. (Eltern None) S.14
+[LÜCKE] 413–413 fehlen vor ID 280 VII.308.D.a.:414. (Eltern None) S.15
+[LÜCKE] 424–424 fehlen vor ID 302 VII.308.D.a.:425. (Eltern None) S.15
+[LÜCKE] 446–446 fehlen vor ID 341 VII.308.D.a.:447. (Eltern None) S.17
+[LÜCKE] 471–473 fehlen vor ID 416 VII.308.D.a.:474. (Eltern None) S.20
+[LÜCKE] 494–494 fehlen vor ID 450 VII.308.D.a.:495. (Eltern None) S.22
+[LÜCKE] 572–572 fehlen vor ID 593 VII.308.D.a.:573. (Eltern None) S.28
+[LÜCKE] 582–583 fehlen vor ID 606 VII.308.D.a.:584. (Eltern None) S.28
+[LÜCKE] 589–589 fehlen vor ID 613 VII.308.D.a.:590. (Eltern None) S.29
+[LÜCKE] 609–609 fehlen vor ID 652 VII.308.D.a.:610. (Eltern None) S.30
+[LÜCKE] 620–620 fehlen vor ID 669 VII.308.D.a.:621. (Eltern None) S.31
+[LÜCKE] 632–632 fehlen vor ID 689 VII.308.D.a.:633. (Eltern None) S.32
+[LÜCKE] 635–635 fehlen vor ID 693 VII.308.D.a.:636. (Eltern None) S.32
+[OHNE] ID 2 P1 E2 Dossier VII.308.D.a.:190. T2 S.1 Sch.1 | 1915– | Bergdietikon A. Stierli, Zwirnerei, Uferregulierung
+[OHNE] ID 4 P3 E2 Dossier VII.308.D.a.:191. T2 S.1 Sch.2 | 1918– | Genève Departement des Travaux Publics, Pont Butin, Expertisen Unterlagen betreff Caisson-Bruch
+[OHNE] ID 5 P3 E2 Dossier VII.308.D.a.:191. T3 S.1 Sch.2 | 1918– | Basel, Kleinhünigen Baudepartement der Stadt Basel, Rheinhafenanlage
+[OHNE] ID 6 P3 E2 Dossier VII.308.D.a.:191. T4 S.2 Sch.2 | 1919– | Illnau W. Graf, Wehranlage im Kemptbach
+[OHNE] ID 8 P7 E2 Dossier VII.308.D.a.:192. T2 S.2 Sch.2 | 1920– | Bern Bernische Kraftwerk AG, Mühleberg-Werk Flossfedern
+[OHNE] ID 13 P12 E2 Dossier VII.308.D.a.:196. T2 S.2 Sch.5 | 1908–1909 | Turin S. A. Elletrica Alta Italia (Viverone), Anlage Stura di Viù, Wehranlage, Oberes Reservoi
+[OHNE] ID 15 P14 E2 Dossier VII.308.D.a.:197. T2 S.2 Sch.6 | 1916–1919 | Eglisau Nordostschweizerische Kraftwerk AG, Rheinbrücke, Pläne von Gebr. Pfister Architekten
+[OHNE] ID 20 P19 E2 Dossier VII.308.D.a.:201. T2 S.3 Sch.11 | 1916–1919 | Eglisau Nordostschweizerische Kraftwerk AG, Rheinbrücke, Verträge, Voranschäge, Vorschriften 
+[OHNE] ID 22 P21 E2 Dossier VII.308.D.a.:202. T2 S.3 Sch.12 | 1916–1919 | Eglisau Nordostschweizerische Kraftwerk AG, Rheinbrücke, Pläne vom Bauplatz
+[OHNE] ID 24 P23 E2 Dossier VII.308.D.a.:203. T2 S.3 Sch.13 | 1917– | Malters Kraftwerk an der Waldemme (L. Fischer-Reims)
+[OHNE] ID 25 P23 E2 Dossier VII.308.D.a.:203. T3 S.3 Sch.13 | 1917– | Malters Projekt der Kraftanlage Eigenthal-Malters (Elektrizitätswerk AG Rathausen)
+[OHNE] ID 26 P23 E2 Dossier VII.308.D.a.:203. T4 S.3 Sch.13 | 1917– | Luzern AG der v. Moos’schen Eisenwerke, Wasserkraft Projekte
+[OHNE] ID 29 P28 E2 Dossier VII.308.D.a.:205. T2 S.3 Sch.14 | 1917–1918 | Thorenberg, Luzern v. Moos’sche Eisenwerke, Wasserwerk Projekt
+[OHNE] ID 34 P33 E2 Dossier VII.308.D.a.:209. T2 S.3 Sch.17 | 1916–1919 | Eglisau Nordostschweizerische Kraftwerk AG, Rheinbrücke, Akten und Pläne
+[OHNE] ID 41 P40 E2 Dossier VII.308.D.a.:216. T2 S.4 Sch.23 | 1917–1918 | Eglisau Kraftwerk, Bauinstalationen Locher & Cie und Abrechnungspläne
+[OHNE] ID 43 P42 E2 Dossier VII.308.D.a.:217. T2 S.4 Sch.24 | 1917–1918 | Eglisau Kraftwerk, Abrechnungspläne, Pläne der Eisenkonstrukteure
+[OHNE] ID 46 P45 E2 Dossier VII.308.D.a.:219. T2 S.4 Sch.26 | 1918– | Eglisau Kraftwerk, Caissonpläne für Wehr, Fischtreppe und Steinarbeiten
+[OHNE] ID 49 P48 E2 Dossier VII.308.D.a.:221. T2 S.4 Sch.27 | 1918– | Eglisau Kraftwerk, Steinarbeiten
+[OHNE] ID 53 P52 E2 Dossier VII.308.D.a.:224. T2 S.5 Sch.30 | 1916–1917 | Aarburg Weber u. Cie, Umbau der Wasserkraftanlage
+[OHNE] ID 56 P55 E2 Dossier VII.308.D.a.:226. T2 S.5 Sch.31 | 1909–1917 | Bremgarten Reussbrücke f. Electr. Strassenbahn
+[OHNE] ID 57 P55 E2 Dossier VII.308.D.a.:226. T3 S.5 Sch.31 | 1909–1917 | Dottikon C. F. Bally
+[OHNE] ID 58 P55 E2 Dossier VII.308.D.a.:226. T4 S.5 Sch.31 | 1909–1917 | Emmenmatt Sohlensicherung
+[OHNE] ID 59 P55 E2 Dossier VII.308.D.a.:226. T5 S.5 Sch.31 | 1909– | Zürich Uraniabrücke
+[OHNE] ID 60 P55 E2 Dossier VII.308.D.a.:226. T6 S.5 Sch.31 | 1909– | Zürich Walchebrücke
+[OHNE] ID 68 P67 E2 Dossier VII.308.D.a.:233. T2 S.5 Sch.33 | 1921– | Glattfelden Elektrizitätswerk des Kantons Zürich, Umbau Wasserkraftanlage, Plan von Ing. Sommer
+[OHNE] ID 69 P67 E2 Dossier VII.308.D.a.:233. T3 S.5 Sch.34 | 1913– | Heidelberg Brückebwettbewerb über den Neckar
+[OHNE] ID 70 P67 E2 Dossier VII.308.D.a.:233. T4 S.5 Sch.34 | 1913– | Interlaken SBB
+[OHNE] ID 71 P67 E2 Dossier VII.308.D.a.:233. T5 S.6 Sch.34 | 1912– | Milano Brücke über den Po, Ed. Züblin & Cie
+[OHNE] ID 72 P67 E2 Dossier VII.308.D.a.:233. T6 S.6 Sch.34 | 1910– | Moncenisio Società delle Force Idrauliche, Stausee
+[OHNE] ID 73 P67 E2 Dossier VII.308.D.a.:233. T7 S.6 Sch.34 | 1911– | Montevideo Brücken über den Santa Lucia, Pläne von Züblin & Cie
+[OHNE] ID 74 P67 E2 Dossier VII.308.D.a.:233. T8 S.6 Sch.34 | 1912– | Saarbrücken Brückenwettbewerb
+[OHNE] ID 75 P67 E2 Dossier VII.308.D.a.:233. T9 S.6 Sch.34 | 1907–1912 | Thun Städtisches Wasserwerk, Umbau der Turbinenanlage
+[OHNE] ID 76 P67 E2 Dossier VII.308.D.a.:233. T10 S.6 Sch.34 | 1908–1913 | Waldshut - Koblenz Rheinbrücke
+[OHNE] ID 78 P77 E2 Dossier VII.308.D.a.:234. T2 S.6 Sch.35 | 1913– | Marseille Wasserkraftanlage an der Durance
+[OHNE] ID 80 P79 E2 Dossier VII.308.D.a.:235. T2 S.6 Sch.35 | 1908– | Oberwinterthur - Stationsvereinigung Grüze
+[OHNE] ID 81 P79 E2 Dossier VII.308.D.a.:235. T3 S.6 Sch.36 | 1909–1914 | Schönenwerd C. F. Bally’ Söhne, Wasserkraftanlage
+[OHNE] ID 83 P82 E2 Dossier VII.308.D.a.:236. T2 S.6 Sch.37 | 1917– | Fluhmühle bei Reussbrücke Luzern
+[OHNE] ID 88 P87 E2 Dossier VII.308.D.a.:240. T2 S.6 Sch.40 | 1910– | Isonzo Wasserkraftanlage
+[OHNE] ID 92 P91 E2 Dossier VII.308.D.a.:243. T2 S.6 Sch.42 | 1913– | Neuenburg Elekrtizitätswerk, Usine de Chanet
+[OHNE] ID 96 P95 E2 Dossier VII.308.D.a.:246. T2 S.7 Sch.44 | 1911– | Bremgarten Alte Strassenbrücke in Holz, Pläne Wartmann, Valette u. Cie
+[OHNE] ID 101 P100 E2 Dossier VII.308.D.a.:250. T2 S.7 Sch.48 | 1917–1922 | Eglisau Kraftwerk
+[OHNE] ID 104 P103 E2 Dossier VII.308.D.a.:252. T2 S.7 Sch.50 | 1911–1917 | Mosell Kraftwerke
+[OHNE] ID 105 P103 E2 Dossier VII.308.D.a.:252. T3 S.7 Sch.50 | 1911–1917 | Monte Pozo Kraftwerk
+[OHNE] ID 107 P106 E2 Dossier VII.308.D.a.:253. T2 S.7 Sch.50 | 1907–1908 | Weissenbach Bodensee-Toggenburg-Bahn, Viadukt
+[OHNE] ID 110 P109 E2 Dossier VII.308.D.a.:255. T2 S.7 Sch.53 | 1910–1919 | Eglisau Strassenbrücke
+[OHNE] ID 118 P117 E2 Dossier VII.308.D.a.:267. T2 S.7 Sch.58 | 1910–1914 | Flamisell superieur Wasserkraftanlage
+[OHNE] ID 122 P121 E2 Dossier VII.308.D.a.:270. T2 S.8 Sch.61 | 1910–1914 | Flamisell superieur Wasserkraftanlage
+[OHNE] ID 124 P123 E2 Dossier VII.308.D.a.:271. T2 S.8 Sch.62 | 1910–1914 | Flamisell superieur Wasserkraftanlage
+[OHNE] ID 125 P123 E2 Dossier VII.308.D.a.:271. T3 S.8 Sch.63 | 1910–1914 | Flamisell superieur Wasserkraftanlage
+[OHNE] ID 128 P127 E2 Dossier VII.308.D.a.:273. T2 S.8 Sch.66 | 1920–1921 | Münster im Elsass Hartmann & Fils AG
+[OHNE] ID 129 P127 E2 Dossier VII.308.D.a.:273. T3 S.8 Sch.67 | 1914–1921 | Münster im Elsass Hartmann & Fils AG
+[OHNE] ID 131 P130 E2 Dossier VII.308.D.a.:274. T2 S.8 Sch.68 | 1920–1921 | Münster im Elsass Hartmann & Fils AG
+[OHNE] ID 133 P132 E2 Dossier VII.308.D.a.:275. T2 S.8 Sch.69 | 1920–1921 | Münster im Elsass Hartmann & Fils AG
+[OHNE] ID 135 P134 E2 Dossier VII.308.D.a.:279. T2 S.8 Sch.70 | 1912–1913 | Isonzo Wasserkraftanlage
+[OHNE] ID 136 P134 E2 Dossier VII.308.D.a.:279. T3 S.8 Sch.71 | 1912–1913 | Isonzo Wasserkraftanlage
+[OHNE] ID 138 P137 E2 Dossier VII.308.D.a.:280. T2 S.8 Sch.72 | 1912–1913 | Isonzo Wasserkraftanlage
+[OHNE] ID 156 P155 E2 Dossier VII.308.D.a.:301. T2 S.9 Sch.81 | 1885– | Bremgarten Rob. Honegger, Wehranlage über die Reuss
+[OHNE] ID 160 P159 E2 Dossier VII.308.D.a.:304. T2 S.9 Sch.83 | 1927–1928 | Bremgarten Elektrizitätswerk Bremgarten-Zufikon, Kraftwerke an der Reuss, Umbau
+[OHNE] ID 168 P167 E2 Dossier VII.308.D.a.:311. T2 S.10 Sch.87 | 1916–1922 | Eglisau Kraftwerk, Sohlensicherung
+[OHNE] ID 169 P167 E2 Dossier VII.308.D.a.:311. T3 S.10 Sch.88 | 1916–1922 | Eglisau Kraftwerk, Sohlensicherung
+[OHNE] ID 171 P170 E2 Dossier VII.308.D.a.:312. T2 S.10 Sch.89 | 1916–1922 | Eglisau Kraftwerk, Sohlensicherung
+[OHNE] ID 177 P176 E2 Dossier VII.308.D.a.:325. T2 S.10 Sch.92 | 1920–1925 | Chancy-Pougny Elektrizitätswerk
+[OHNE] ID 180 P179 E2 Dossier VII.308.D.a.:339. T2 S.10 Sch.93 | 1925– | Chancy-Pougny Elektrizitätswerk
+[OHNE] ID 188 P187 E2 Dossier VII.308.D.a.:349. T2 S.10 Sch.100 | 1922– | Wäggital Wasserwerk
+[OHNE] ID 194 P193 E2 Dossier VII.308.D.a.:354. T2 S.11 Sch.103 | 1924–1925 | Brugg – Turgi Geisehebung
+[OHNE] ID 195 P193 E2 Dossier VII.308.D.a.:354. T3 S.11 Sch.103 | 1925– | Aarburg Aeschwuhr Genossenschaft, Umbau Wiggerwerk
+[OHNE] ID 196 P193 E2 Dossier VII.308.D.a.:354. T4 S.11 Sch.103 | 1924– | Zürich Kläranlage Werdhölzli
+[OHNE] ID 198 P197 E2 Dossier VII.308.D.a.:355. T2 S.11 Sch.104 | 1919–1922 | Chancy-Pougny Elektrizitätswerk
+[OHNE] ID 199 P197 E2 Dossier VII.308.D.a.:355. T3 S.11 Sch.105 | 1919–1922 | Chancy-Pougny Elektrizitätswerk
+[OHNE] ID 201 P200 E2 Dossier VII.308.D.a.:356. T2 S.11 Sch.105 | 1924–1925 | Zürich Tiebauamt der Stadt Zürich, Verbreiterung Brücke Trutschenbach
+[OHNE] ID 202 P200 E2 Dossier VII.308.D.a.:356. T3 S.11 Sch.105 | 1924–1925 | Zürich Spinnerei Sood (Adliswil) Sapt, Kanalreparatur
+[OHNE] ID 206 P205 E2 Dossier VII.308.D.a.:359. T2 S.11 Sch.108 | 1910–1912 | Viverone SA Eletrica Alta Italia
+[OHNE] ID 208 P207 E2 Dossier VII.308.D.a.:360. T2 S.11 Sch.109 | 1911–1912 | Viverone SA Eletrica Alta Italia, Pläne von Locher & Co, Savigliano und von Roll
+[OHNE] ID 210 P209 E2 Dossier VII.308.D.a.:361. T2 S.11 Sch.111 | 1910–1915 | Viverone SA Eletrica Alta Italia
+[OHNE] ID 213 P212 E2 Dossier VII.308.D.a.:363. T2 S.11 Sch.113 | 1913–1916 | Heidbach Stadt Zürich, Kraftwerk an der Albula
+[OHNE] ID 215 P214 E2 Dossier VII.308.D.a.:364. T2 S.11 Sch.114 | 1913–1916 | Heidbach Stadt Zürich, Kraftwerk an der Albula
+[OHNE] ID 217 P216 E2 Dossier VII.308.D.a.:365. T2 S.11 Sch.115 | 1902–1920 | Kolben Papierfabrik Perlen
+[OHNE] ID 219 P218 E2 Dossier VII.308.D.a.:366. T2 S.12 Sch.117 | 1913–1927 | Kolben Papierfabrik Perlen
+[OHNE] ID 222 P221 E2 Dossier VII.308.D.a.:368. T2 S.12 Sch.119 | 1914–1923 | Kolben Papierfabrik Perlen, Wasserkraftanlage
+[OHNE] ID 225 P224 E2 Dossier VII.308.D.a.:370. T2 S.12 Sch.121 | 1925– | Arlesheim Industriegesellschaft für Schappe, Wehr in Arlesheim
+[OHNE] ID 228 P227 E2 Dossier VII.308.D.a.:373. T2 S.12 Sch.122 | 1914– | Baltimore US Board of Ingeneers of Deep Water Ways, Pumping Station
+[OHNE] ID 232 P231 E2 Dossier VII.308.D.a.:381. T2 S.12 Sch.124 | 1915–1921 | Murgsee-Muttensee Kraftwerke und Mühlebach
+[OHNE] ID 234 P233 E2 Dossier VII.308.D.a.:382. T2 S.12 Sch.125 | 1918–1933 | Murgsee Spinnerei Murg AG
+[OHNE] ID 237 P236 E2 Dossier VII.308.D.a.:384. T2 S.12 Sch.127 | 1922–1924 | Wäggital Wasserkraftwerk
+[OHNE] ID 239 P238 E2 Dossier VII.308.D.a.:385. T2 S.13 Sch.128 | 1922–1924 | Wäggital Wasserkraftwerk
+[OHNE] ID 245 P244 E2 Dossier VII.308.D.a.:391. T2 S.13 Sch.132 | 1923–1929 | Wäggital Wasserkraftwerk
+[OHNE] ID 247 P246 E2 Dossier VII.308.D.a.:392. T2 S.13 Sch.133 | 1925– | Grimsel Kraftwerke Oberhasli AG
+[OHNE] ID 252 P251 E2 Dossier VII.308.D.a.:397. T2 S.13 Sch.136 | 1924–1931 | Baden Städtische Werke Kraftwerk Aue
+[OHNE] ID 255 P254 E2 Dossier VII.308.D.a.:399. T2 S.13 Sch.137 | 1926– | Ramsei Wasserversorgung der Stadt Bern, Soodbrunnen
+[OHNE] ID 256 P254 E2 Dossier VII.308.D.a.:399. T3 S.13 Sch.137 | 1922– | Baden-Wettingen Hochbrücke
+[OHNE] ID 257 P254 E2 Dossier VII.308.D.a.:399. T4 S.13 Sch.137 | 1926– | Strassburg Electricité de Strassbourg
+[OHNE] ID 258 P254 E2 Dossier VII.308.D.a.:399. T5 S.13 Sch.137 | 1927– | Schönenwerd- Brücke Niedergösgen
+[OHNE] ID 259 P254 E2 Dossier VII.308.D.a.:399. T6 S.13 Sch.137 | 1926– | Bütschwil Spinnerei und Weberei Dietfurt AG, Wasserkraftanlage
+[OHNE] ID 260 P254 E2 Dossier VII.308.D.a.:399. T7 S.13 Sch.137 | 1926– | Biel Vereinigte Drahtwerke AG Biel, Fabrik und Geleise-Anlage
+[OHNE] ID 261 P254 E2 Dossier VII.308.D.a.:399. T8 S.14 Sch.138 | 1927– | Kallnach Bernische Kraftwerke AG, Elektrizitätswerk, Wehr Niederried
+[OHNE] ID 262 P254 E2 Dossier VII.308.D.a.:399. T9 S.14 Sch.138 | 1931– | Mülhausen Dollfus-Mieg u. Cie., Dollerkorrektion
+[OHNE] ID 264 P263 E2 Dossier VII.308.D.a.:400. T2 S.14 Sch.139 | 1924– | Zürich Kantonalbank, Erweiterungsbau
+[OHNE] ID 268 P267 E2 Dossier VII.308.D.a.:403. T2 S.14 Sch.142 | 1927– | Aarau Jura Cementfabriken, Wehrbau, Pläne von Locher & Cie, R. Zschokke Döttingen, Oehler und
+[OHNE] ID 270 P269 E2 Dossier VII.308.D.a.:405. T2 S.14 Sch.143 | 1905– | Zürich Sängerfesthalle
+[OHNE] ID 272 P271 E2 Dossier VII.308.D.a.:406. T2 S.14 Sch.144 | 1927– | Rüschlikon E. Schwarzenbach, Ufermauer
+[OHNE] ID 273 P271 E2 Dossier VII.308.D.a.:406. T3 S.14 Sch.144 | 1921– | Oberterzen Zementfabrik Kraftwerk
+[OHNE] ID 274 P271 E2 Dossier VII.308.D.a.:406. T4 S.14 Sch.144 | 1898–1905 | Zürich SBB, Linksufrige Zürichseebahn
+[OHNE] ID 281 P280 E2 Dossier VII.308.D.a.:414. T2 S.15 Sch.148 | 1928– | Buchs-Schaan Strassenbrücke
+[OHNE] ID 282 P280 E2 Dossier VII.308.D.a.:414. T3 S.15 Sch.148 | 1928– | Schaan-Buchs Strassenbrücke
+[OHNE] ID 283 P280 E2 Dossier VII.308.D.a.:414. T4 S.15 Sch.148 | 1927– | Dietikon SBB-Unterführung der Überlandstrasse
+[OHNE] ID 284 P280 E2 Dossier VII.308.D.a.:414. T5 S.15 Sch.148 | 1928– | St. Moritz Villa Viola für Familie Broggi, Pläne K. Koller St. Moritz
+[OHNE] ID 285 P280 E2 Dossier VII.308.D.a.:414. T6 S.15 Sch.148 | 1928– | St. Moritz Haus Manin-Suot, B. Woog, Planunterlagen von M. Alioth Architekt St. Moritz
+[OHNE] ID 286 P280 E2 Dossier VII.308.D.a.:414. T7 S.15 Sch.148 | 1929– | Engi Vereinigte Webereien Sernftal und Azmoos
+[OHNE] ID 287 P280 E2 Dossier VII.308.D.a.:414. T8 S.15 Sch.148 | 1929–1930 | Gerlafingen L. v. Roll’sche Eisenwerke Fallhammerfundament
+[OHNE] ID 289 P288 E2 Dossier VII.308.D.a.:415. T2 S.15 Sch.150 | 1925– | Achensee Kraftwerk
+[OHNE] ID 292 P291 E2 Dossier VII.308.D.a.:417. T2 S.15 Sch.152 | 1927– | Ryburg-Schwörstadt Kraftwerk
+[OHNE] ID 295 P294 E2 Dossier VII.308.D.a.:419. T2 S.15 Sch.154 | 1927–1930 | Ryburg-Schwörstadt Kraftwerk
+[OHNE] ID 299 P298 E2 Dossier VII.308.D.a.:422. T2 S.15 Sch.156 | 1927– | Ryburg-Schwörstadt Kraftwerk
+[OHNE] ID 301 P300 E2 Dossier VII.308.D.a.:423. T2 S.15 Sch.157 | 1928– | Ryburg-Schwörstadt Kraftwerk
+[OHNE] ID 305 P304 E2 Dossier VII.308.D.a.:427. T2 S.15 Sch.159 | 1927–1930 | Ryburg-Schwörstadt Kraftwerk
+[OHNE] ID 306 P304 E2 Dossier VII.308.D.a.:427. T3 S.16 Sch.160 | 1927–1930 | Ryburg-Schwörstadt Kraftwerk
+[OHNE] ID 308 P307 E2 Dossier VII.308.D.a.:428. T2 S.16 Sch.161 | 1929– | Ryburg-Schwörstadt Kraftwerk
+[OHNE] ID 310 P309 E2 Dossier VII.308.D.a.:429. T2 S.16 Sch.162 | 1927–1928 | Mellingen SBB, Umbau Bahnbrücke
+[OHNE] ID 312 P311 E2 Dossier VII.308.D.a.:430. T2 S.16 Sch.163 | 1929– | Ryburg-Schwörstadt Kraftwerk
+[OHNE] ID 314 P313 E2 Dossier VII.308.D.a.:431. T2 S.16 Sch.164 | 1929–1930 | Flums Spörry & Cie, Druckstollen
+[OHNE] ID 316 P315 E2 Dossier VII.308.D.a.:432. T2 S.16 Sch.165 | 1927–1930 | Flums Spörry & Cie, Druckstollen
+[OHNE] ID 320 P319 E2 Dossier VII.308.D.a.:435. T2 S.16 Sch.168 | 1926– | Wettingen Limmatwerk
+[OHNE] ID 322 P321 E2 Dossier VII.308.D.a.:436. T2 S.16 Sch.169 | 1926–1927 | Wettingen Limmatwerk
+[OHNE] ID 325 P324 E2 Dossier VII.308.D.a.:438. T2 S.16 Sch.171 | 1925–1926 | Dietwil Reusswerk
+[OHNE] ID 327 P326 E2 Dossier VII.308.D.a.:439. T2 S.16 Sch.171 | 1925– | Glattfelden Elektrizitätswerk des Kantons Zürich, Kraftwerk
+[OHNE] ID 328 P326 E2 Dossier VII.308.D.a.:439. T3 S.16 Sch.172 | 1928– | Rosario Pumpstation und Kläranlage am Rio Parana
+[OHNE] ID 330 P329 E2 Dossier VII.308.D.a.:440. T2 S.16 Sch.173 | 1924–1926 | Zürich Prof. Dr. E. Rübel, Zürichbergstrasse 30, Zürich 7, Strassen im Nägeligut
+[OHNE] ID 332 P331 E2 Dossier VII.308.D.a.:441. T2 S.17 Sch.174 | 1929– | Dornach Metallwerk AG Dornach, Wehrumbau
+[OHNE] ID 333 P331 E2 Dossier VII.308.D.a.:441. T3 S.17 Sch.174 | 1924– | Samstagern und Süd-Ost-Bahn, Biberbrücke Stationserweiterungen
+[OHNE] ID 336 P335 E2 Dossier VII.308.D.a.:443. T2 S.17 Sch.175 | 1925– | Aarau Jura Cementfabriken, Wasserkraftanlage
+[OHNE] ID 337 P335 E2 Dossier VII.308.D.a.:443. T3 S.17 Sch.176 | 1925– | Aarau Jura Cementfabriken, Wasserkraftanlage
+[OHNE] ID 339 P338 E2 Dossier VII.308.D.a.:444. T2 S.17 Sch.177 | 1928–1931 | Flums Spörry & Cie, Druckstollen
+[OHNE] ID 345 P344 E2 Dossier VII.308.D.a.:450. T2 S.17 Sch.181 | 1926–1927 | Porto União Electrica Portuguesa, Porto Pumpstation am Duro
+[OHNE] ID 347 P346 E2 Dossier VII.308.D.a.:451. T2 S.17 Sch.181 | 1914– | Oberer Lech Kraftwerk
+[OHNE] ID 348 P346 E2 Dossier VII.308.D.a.:451. T3 S.17 Sch.181 | 1922– | Solothurn Rötibrücke
+[OHNE] ID 349 P346 E2 Dossier VII.308.D.a.:451. T4 S.17 Sch.181 | 1922– | Aarau Elektrizitätswerk Umbau
+[OHNE] ID 350 P346 E2 Dossier VII.308.D.a.:451. T5 S.17 Sch.181 | 1924– | Aarburg Weber & Cie, Scheunenanbau
+[OHNE] ID 351 P346 E2 Dossier VII.308.D.a.:451. T6 S.17 Sch.181 | 1922– | Au SBB, Personendurchgang
+[OHNE] ID 352 P346 E2 Dossier VII.308.D.a.:451. T7 S.17 Sch.181 | 1922– | Richterswil SBB, Ufermauer
+[OHNE] ID 353 P346 E2 Dossier VII.308.D.a.:451. T8 S.18 Sch.181 | 1922– | Horgen SBB, Ufermauer
+[OHNE] ID 354 P346 E2 Dossier VII.308.D.a.:451. T9 S.18 Sch.181 | 1922– | Wädenswil SBB, Engelhafen
+[OHNE] ID 355 P346 E2 Dossier VII.308.D.a.:451. T10 S.18 Sch.181 | 1918– | Le Rochevay Séchéron, Hydraulische Akkumulierungsanlage am Lac de Joux
+[OHNE] ID 360 P359 E2 Dossier VII.308.D.a.:455. T2 S.18 Sch.185 | 1926– | Solothurn SBB, Aarebrücke
+[OHNE] ID 362 P361 E2 Dossier VII.308.D.a.:456. T2 S.18 Sch.186 | 1930–1931 | Wettingen Limmatwerk
+[OHNE] ID 364 P363 E2 Dossier VII.308.D.a.:457. T2 S.18 Sch.187 | 1923– | Zürich Tiefbauamt der Stadt Zürich, Kornhausbrücke
+[OHNE] ID 367 P366 E2 Dossier VII.308.D.a.:459. T2 S.18 Sch.189 | 1927–1930 | Schreckenstein Nordböhmische Elektrizitätswerke AG Kraftwerk
+[OHNE] ID 369 P368 E2 Dossier VII.308.D.a.:460. T2 S.18 Sch.189 | 1933– | Obermeilen Gemeinde Meilen, Rohrenhaabe
+[OHNE] ID 370 P368 E2 Dossier VII.308.D.a.:460. T3 S.18 Sch.190 | 1930–1931 | Wädenswil SBB, Seemauern
+[OHNE] ID 372 P371 E2 Dossier VII.308.D.a.:461. T2 S.18 Sch.190 | 1918–1921 | Weesen Nadelwehr
+[OHNE] ID 373 P371 E2 Dossier VII.308.D.a.:461. T3 S.18 Sch.190 | 1925– | Holderbank Jura Cementfabrik Holderbank-Wildegg, Fundament für Seilbahnmasten
+[OHNE] ID 374 P371 E2 Dossier VII.308.D.a.:461. T4 S.18 Sch.190 | 1922– | Zürich Limmat-Uferschutz bei Wipkingerbrücke
+[OHNE] ID 375 P371 E2 Dossier VII.308.D.a.:461. T5 S.19 Sch.190 | 1922–1923 | Lyon Compagnie générale de l’Ozone, Tauchglocke
+[OHNE] ID 377 P376 E2 Dossier VII.308.D.a.:462. T2 S.19 Sch.190 | 1918– | Sitterdorf Mühlewehr
+[OHNE] ID 378 P376 E2 Dossier VII.308.D.a.:462. T3 S.19 Sch.190 | 1920– | Unterterzen Druckleitung Kraftwerk Seebensee
+[OHNE] ID 379 P376 E2 Dossier VII.308.D.a.:462. T4 S.19 Sch.190 | 1930– | Höngg O. Baumann älter, jetzt Seidenstoffweberei Höngg Limmat-Stauwehr
+[OHNE] ID 380 P376 E2 Dossier VII.308.D.a.:462. T5 S.19 Sch.191 | 1921–1925 | Basel Immobiliengesellschaft St. Albanthal
+[OHNE] ID 381 P376 E2 Dossier VII.308.D.a.:462. T6 S.19 Sch.191 | 1925– | Beznau Nordostschweizerische Kraftwerke AG, Turbinenumbau
+[OHNE] ID 382 P376 E2 Dossier VII.308.D.a.:462. T7 S.19 Sch.191 | 1925– | Winterthur Wasserversorgung Winterthur, Kesselbrunnenanlage
+[OHNE] ID 383 P376 E2 Dossier VII.308.D.a.:462. T8 S.19 Sch.191 | 1920– | Adliswil Spinnerei Dorf Adliswil, Kanalreparatur
+[OHNE] ID 384 P376 E2 Dossier VII.308.D.a.:462. T9 S.19 Sch.191 | 1919– | Rothenthurm Wasserversorgungsstelle Thalwil, Rüschlikon und Kilchberg, Pumpversuche
+[OHNE] ID 385 P376 E2 Dossier VII.308.D.a.:462. T10 S.19 Sch.191 | 1930– | Zürich Fundamente Leitungsmasten
+[OHNE] ID 386 P376 E2 Dossier VII.308.D.a.:462. T11 S.19 Sch.191 | 1930– | Zürich Etzelwerk AG, Sihlpegelstation
+[OHNE] ID 388 P387 E2 Dossier VII.308.D.a.:463. T2 S.19 Sch.191 | 1919– | Ragaz-Maienfeld Strassenbrücke
+[OHNE] ID 389 P387 E2 Dossier VII.308.D.a.:463. T3 S.19 Sch.191 | 1927– | Luterbach SBB, Emmenbrücke
+[OHNE] ID 390 P387 E2 Dossier VII.308.D.a.:463. T4 S.19 Sch.191 | 1920– | Oberrüti Reussbrücke
+[OHNE] ID 391 P387 E2 Dossier VII.308.D.a.:463. T5 S.19 Sch.191 | 1925– | Luzern Bahnhoferweiterung
+[OHNE] ID 392 P387 E2 Dossier VII.308.D.a.:463. T6 S.19 Sch.192 | 1920– | Zürich SBB, Wiedikertunnel
+[OHNE] ID 393 P387 E2 Dossier VII.308.D.a.:463. T7 S.19 Sch.192 | 1925–1927 | Ragaz-Maienfeld Bauamt des Kntons Graubünden, Strassenbrücke
+[OHNE] ID 395 P394 E2 Dossier VII.308.D.a.:464. T2 S.19 Sch.192 | 1928– | Lugano Dr. Vittorio Frizzoni, Flugzeughalle
+[OHNE] ID 396 P394 E2 Dossier VII.308.D.a.:464. T3 S.19 Sch.192 | 1931– | Zürich Kirchgemeinde St. Peter, Mauerunterfangung unter der Kirche anlässlich des Hotelneubau
+[OHNE] ID 399 P398 E2 Dossier VII.308.D.a.:466. T2 S.20 Sch.193 | 1923–1924 | Nidau Wehranlage für Gewässerkorrektion
+[OHNE] ID 400 P398 E2 Dossier VII.308.D.a.:466. T3 S.20 Sch.193 | 1929– | Rüschlikon Wiskemann-Wüscher, Liegenschaft Seegarten
+[OHNE] ID 401 P398 E2 Dossier VII.308.D.a.:466. T4 S.20 Sch.193 | 1929–1930 | Hergiswil Schweizerische Glasindustrie Siegwart & Cie AG Hergiswil, Glashütte Hergiswil, 
+[OHNE] ID 402 P398 E2 Dossier VII.308.D.a.:466. T5 S.20 Sch.193 | 1925– | Zürich Alfred Escher-Platz, Sondierungen
+[OHNE] ID 403 P398 E2 Dossier VII.308.D.a.:466. T6 S.20 Sch.193 | 1923– | Zürich Zürcher Ziegeleien, Geleiseanlagen Binz / Tiergarten
+[OHNE] ID 404 P398 E2 Dossier VII.308.D.a.:466. T7 S.20 Sch.193 | 1924– | Adliswil Sihlufermauern
+[OHNE] ID 405 P398 E2 Dossier VII.308.D.a.:466. T8 S.20 Sch.193 | 1929– | Uttingen Aaredücker
+[OHNE] ID 406 P398 E2 Dossier VII.308.D.a.:466. T9 S.20 Sch.193 | 1928– | Niederglatt Terpena AG Chemische Fabrik Niederglatt, Abwasserleitung
+[OHNE] ID 407 P398 E2 Dossier VII.308.D.a.:466. T10 S.20 Sch.193 | 1928–1929 | Ottenbach Reussbrücke
+[OHNE] ID 409 P408 E2 Dossier VII.308.D.a.:467. T2 S.20 Sch.194 | 1918–1925 | Dietikon Limmatwerk
+[OHNE] ID 411 P410 E2 Dossier VII.308.D.a.:468. T2 S.20 Sch.196 | 1926–1931 | Dietikon Limmatwerk
+[OHNE] ID 413 P412 E2 Dossier VII.308.D.a.:469. T2 S.20 Sch.197 | 1929–1931 | Engi Sernfkraftwerk
+[OHNE] ID 415 P414 E2 Dossier VII.308.D.a.:470. T2 S.20 Sch.198 | 1929–1931 | Engi Sernfkraftwerk
+[OHNE] ID 418 P417 E2 Dossier VII.308.D.a.:475. T2 S.20 Sch.200 | 1924– | Zürich Schwimmbad Allmend I, Brunau
+[OHNE] ID 419 P417 E2 Dossier VII.308.D.a.:475. T3 S.20 Sch.200 | 1912–1924 | Zürich Strassenbeläge
+[OHNE] ID 421 P420 E2 Dossier VII.308.D.a.:476. T2 S.20 Sch.202 | 1931–1932 | Wädenswil SBB & Gemeinde Wädenswil, Hafenmauer, Bootshaus und Gehsteg
+[OHNE] ID 423 P422 E2 Dossier VII.308.D.a.:477. T2 S.21 Sch.203 | 1923–1927 | o. O. Internationale Rhein-Regulierungskommission Österreich
+[OHNE] ID 427 P426 E2 Dossier VII.308.D.a.:480. T2 S.21 Sch.205 | 1925–1931 | Hemishofen Rheinregulierung
+[OHNE] ID 429 P428 E2 Dossier VII.308.D.a.:481. T2 S.21 Sch.206 | 1911–1927 | Schwarzer-Weisser Oberrheinische Kraftwerke
+[OHNE] ID 431 P430 E2 Dossier VII.308.D.a.:482. T2 S.21 Sch.208 | 1911–1927 | Schwarzer-Weisser Oberrheinische Kraftwerke
+[OHNE] ID 435 P434 E2 Dossier VII.308.D.a.:485. T2 S.21 Sch.210 | 1928–1930 | Monte Piottino Wasserkraftwerk
+[OHNE] ID 440 P439 E2 Dossier VII.308.D.a.:489. T2 S.21 Sch.213 | 1924–1933 | Schwarzer-Weisser Oberrheinische Kraftwerke
+[OHNE] ID 442 P441 E2 Dossier VII.308.D.a.:490. T2 S.21 Sch.214 | 1931–1933 | Schwarzer-Weisser Oberrheinische Kraftwerke See
+[OHNE] ID 444 P443 E2 Dossier VII.308.D.a.:491. T2 S.22 Sch.216 | 1930–1932 | Schwarzer-Weisser Oberrheinische Kraftwerke See
+[OHNE] ID 446 P445 E2 Dossier VII.308.D.a.:492. T2 S.22 Sch.217 | 1932–1933 | Schwarzer-Weisser Oberrheinische Kraftwerke
+[OHNE] ID 448 P447 E2 Dossier VII.308.D.a.:493. T2 S.22 Sch.218 | 1932–1933 | Schwarzer-Weisser Oberrheinische Kraftwerke See
+[OHNE] ID 449 P447 E2 Dossier VII.308.D.a.:493. T3 S.22 Sch.219 | 1932–1933 | Schwarzer-Weisser Oberrheinische Kraftwerke See
+[OHNE] ID 451 P450 E2 Dossier VII.308.D.a.:495. T2 S.22 Sch.220 | 1929–1933 | Kembs Rheinkraftwerk
+[OHNE] ID 453 P452 E2 Dossier VII.308.D.a.:496. T2 S.22 Sch.221 | 1929–1933 | Kembs Rheinkraftwerk
+[OHNE] ID 455 P454 E2 Dossier VII.308.D.a.:497. T2 S.22 Sch.222 | 1929–1932 | Kembs Rheinkraftwerk
+[OHNE] ID 456 P454 E2 Dossier VII.308.D.a.:497. T3 S.22 Sch.223 | 1927–1932 | Kembs Rheinkraftwerk
+[OHNE] ID 458 P457 E2 Dossier VII.308.D.a.:498. T2 S.22 Sch.224 | 1927–1932 | Kembs Rheinkraftwerk
+[OHNE] ID 460 P459 E2 Dossier VII.308.D.a.:499. T2 S.22 Sch.225 | 1928–1930 | Kembs Rheinkraftwerk
+[OHNE] ID 463 P462 E2 Dossier VII.308.D.a.:501. T2 S.22 Sch.227 | 1924– | Kembs Rheinkraftwerk
+[OHNE] ID 467 P466 E2 Dossier VII.308.D.a.:504. T2 S.22 Sch.231 | 1920–1922 | Kembs Rheinkraftwerk
+[OHNE] ID 472 P471 E2 Dossier VII.308.D.a.:508. T2 S.23 Sch.235 | 1927–1932 | Kembs Rheinkraftwerk
+[OHNE] ID 475 P474 E2 Dossier VII.308.D.a.:510. T2 S.23 Sch.238 | 1933– | Wettingen Limmatwerk
+[OHNE] ID 477 P476 E2 Dossier VII.308.D.a.:511. T2 S.23 Sch.239 | 1921–1922 | Kembs Rheinkraftwerk
+[OHNE] ID 479 P478 E2 Dossier VII.308.D.a.:512. T2 S.23 Sch.240 | 1896–1914 | Dietikon-Stilli Zwirnerei Stroppel, Wasserkraftanlage
+[OHNE] ID 480 P478 E2 Dossier VII.308.D.a.:512. T3 S.23 Sch.240 | 1914– | Gütighausem Thurbrücke
+[OHNE] ID 481 P478 E2 Dossier VII.308.D.a.:512. T4 S.23 Sch.240 | 1913– | Rüti Maschinenfabrik Rüti, Gleisanlagen
+[OHNE] ID 483 P482 E2 Dossier VII.308.D.a.:513. T2 S.23 Sch.241 | 1932– | Yverdon Pont de Gleyres
+[OHNE] ID 485 P484 E2 Dossier VII.308.D.a.:514. T2 S.23 Sch.242 | 1908–1909 | Kembs Rheinkraftwerk
+[OHNE] ID 488 P487 E2 Dossier VII.308.D.a.:516. T2 S.23 Sch.243 | 1929–1933 | Gandria Baudepartement Bellinzona, Strassenbau
+[OHNE] ID 490 P489 E2 Dossier VII.308.D.a.:517. T2 S.23 Sch.244 | 1916–1935 | Schuls Elektriztätswerk
+[OHNE] ID 492 P491 E2 Dossier VII.308.D.a.:518. T2 S.23 Sch.246 | 1913–1927 | Day, Indochina Staudamm
+[OHNE] ID 494 P493 E2 Dossier VII.308.D.a.:519. T2 S.23 Sch.247 | 1927–1933 | Day, Indochina Staudamm
+[OHNE] ID 497 P496 E2 Dossier VII.308.D.a.:521. T2 S.24 Sch.249 | 1929–1933 | Kembs Rheinkraftwerk
+[OHNE] ID 499 P498 E2 Dossier VII.308.D.a.:522. T2 S.24 Sch.250 | 1933–1934 | Genf Service Industriels de la Ville de Genève, Kraftwerk
+[OHNE] ID 501 P500 E2 Dossier VII.308.D.a.:523. T2 S.24 Sch.251 | 1933–1934 | Grenoble-Evian Autostrasse
+[OHNE] ID 502 P500 E2 Dossier VII.308.D.a.:523. T3 S.24 Sch.251 | 1933–1934 | Villeneuve Rhonedamm
+[OHNE] ID 503 P500 E2 Dossier VII.308.D.a.:523. T4 S.24 Sch.251 | 1914– | Bern Elektrizitätswerk der Stadt Bern Wasserwerk Matten
+[OHNE] ID 505 P504 E2 Dossier VII.308.D.a.:524. T2 S.24 Sch.252 | 1924–1936 | Kembs Rheinkraftwerk
+[OHNE] ID 507 P506 E2 Dossier VII.308.D.a.:525. T2 S.24 Sch.253 | 1930–1937 | Zürich Papierfabrik an der Sihl
+[OHNE] ID 511 P510 E2 Dossier VII.308.D.a.:528. T2 S.24 Sch.255 | 1933– | Lugano-Paradiso Schwimmclub Lugano, Strandbad
+[OHNE] ID 512 P510 E2 Dossier VII.308.D.a.:528. T3 S.24 Sch.255 | 1932– | Melide-Morcote Fürst Paar, Neubau
+[OHNE] ID 513 P510 E2 Dossier VII.308.D.a.:528. T4 S.24 Sch.255 | 1911– | Montbéliard Société des forces Motrices du Refrain, Rechen für Elektrizitätswerk
+[OHNE] ID 514 P510 E2 Dossier VII.308.D.a.:528. T5 S.24 Sch.255 | 1929–1930 | Lugano Kanalisation
+[OHNE] ID 515 P510 E2 Dossier VII.308.D.a.:528. T6 S.24 Sch.255 | 1930– | Mühlau an der Thur Gemeide Wil SG, Wasserkraftanlage
+[OHNE] ID 516 P510 E2 Dossier VII.308.D.a.:528. T7 S.24 Sch.255 | 1932– | Zollikon Seeufermauern
+[OHNE] ID 517 P510 E2 Dossier VII.308.D.a.:528. T8 S.24 Sch.255 | 1932–1933 | Küsnacht Seeufermauern
+[OHNE] ID 518 P510 E2 Dossier VII.308.D.a.:528. T9 S.24 Sch.255 | 1934– | Horgen Hafenwand
+[OHNE] ID 520 P519 E2 Dossier VII.308.D.a.:529. T2 S.24 Sch.256 | 1934– | Zürich Wasserversorgung der Stadt Zürich, Grundwasserwerk Hardhof
+[OHNE] ID 525 P524 E2 Dossier VII.308.D.a.:533. T2 S.25 Sch.261 | 1929–1933 | Dogern Rheinkraftwerk
+[OHNE] ID 527 P526 E2 Dossier VII.308.D.a.:534. T2 S.25 Sch.262 | 1910–1933 | Dogern Rheinkraftwerk
+[OHNE] ID 529 P528 E2 Dossier VII.308.D.a.:535. T2 S.25 Sch.263 | 1910–1932 | Dogern Rheinkraftwerk
+[OHNE] ID 531 P530 E2 Dossier VII.308.D.a.:536. T2 S.25 Sch.265 | 1930–1933 | Dogern Rheinkraftwerk
+[OHNE] ID 533 P532 E2 Dossier VII.308.D.a.:537. T2 S.25 Sch.266 | 1930–1933 | Dogern Rheinkraftwerk
+[OHNE] ID 535 P534 E2 Dossier VII.308.D.a.:538. T2 S.25 Sch.267 | 1931– | Dogern Rheinkraftwerk, Wehrbau
+[OHNE] ID 537 P536 E2 Dossier VII.308.D.a.:539. T2 S.25 Sch.268 | 1931–1932 | Dogern Rheinkraftwerk
+[OHNE] ID 539 P538 E2 Dossier VII.308.D.a.:540. T2 S.25 Sch.269 | 1931–1932 | Dogern Rheinkraftwerk, Wehrbau
+[OHNE] ID 541 P540 E2 Dossier VII.308.D.a.:541. T2 S.26 Sch.271 | 1928–1931 | Dogern Rheinkraftwerk, Wehrbau
+[OHNE] ID 543 P542 E2 Dossier VII.308.D.a.:542. T2 S.26 Sch.273 | 1930–1954 | Dogern Rheinkraftwerk, Wehrbau
+[OHNE] ID 548 P547 E2 Dossier VII.308.D.a.:546. T2 S.26 Sch.278 | 1931– | Dogern Rheinkraftwerk, Wehrbau
+[OHNE] ID 550 P549 E2 Dossier VII.308.D.a.:547. T2 S.26 Sch.279 | 1931–1933 | Dogern Rheinkraftwerk, Wehrbau
+[OHNE] ID 552 P551 E2 Dossier VII.308.D.a.:548. T2 S.26 Sch.280 | 1930–1933 | Dogern Rheinkraftwerk
+[OHNE] ID 554 P553 E2 Dossier VII.308.D.a.:549. T2 S.26 Sch.281 | 1930–1933 | Dogern Rheinkraftwerk, Wehrbau
+[OHNE] ID 556 P555 E2 Dossier VII.308.D.a.:550. T2 S.26 Sch.283 | 1933–1934 | Nidau Wehr
+[OHNE] ID 560 P559 E2 Dossier VII.308.D.a.:553. T2 S.26 Sch.285 | 1933–1935 | Rüti Jonabrücke Pilgersteg
+[OHNE] ID 562 P561 E2 Dossier VII.308.D.a.:554. T2 S.26 Sch.286 | 1930–1932 | Kembs Rheinkraftwerk
+[OHNE] ID 564 P563 E2 Dossier VII.308.D.a.:555. T2 S.27 Sch.287 | 1918–1932 | Kembs Rheinkraftwerk
+[OHNE] ID 566 P565 E2 Dossier VII.308.D.a.:556. T2 S.27 Sch.288 | 1918–1929 | Kembs Rheinkraftwerk
+[OHNE] ID 569 P568 E2 Dossier VII.308.D.a.:558. T2 S.27 Sch.291 | 1929–1934 | Kembs Rheinkraftwerk
+[OHNE] ID 572 P571 E2 Dossier VII.308.D.a.:560. T2 S.27 Sch.294 | 1935– | Kembs Rheinkraftwerk
+[OHNE] ID 575 P574 E2 Dossier VII.308.D.a.:562. T2 S.27 Sch.296 | 1930–1933 | Schwarzer-Weisser Oberrheinische Kraftwerke
+[OHNE] ID 577 P576 E2 Dossier VII.308.D.a.:563. T2 S.27 Sch.297 | 1931–1933 | Schwarzer-Weisser Oberrheinische Kraftwerke See
+[OHNE] ID 579 P578 E2 Dossier VII.308.D.a.:564. T2 S.27 Sch.299 | 1930–1934 | Schwarzer-Weisser Oberrheinische Kraftwerke See
+[OHNE] ID 581 P580 E2 Dossier VII.308.D.a.:565. T2 S.27 Sch.301 | 1929–1933 | Schwarzer-Weisser Oberrheinische Kraftwerke
+[OHNE] ID 583 P582 E2 Dossier VII.308.D.a.:566. T2 S.27 Sch.302 | 1929–1933 | Schwarzer-Weisser Oberrheinische Kraftwerke See
+[OHNE] ID 585 P584 E2 Dossier VII.308.D.a.:567. T2 S.27 Sch.304 | 1931–1933 | Schwarzer-Weisser Oberrheinische Kraftwerke
+[OHNE] ID 587 P586 E2 Dossier VII.308.D.a.:568. T2 S.28 Sch.305 | 1930–1932 | Schwarzer-Weisser Oberrheinische Kraftwerke
+[OHNE] ID 589 P588 E2 Dossier VII.308.D.a.:569. T2 S.28 Sch.306 | 1930–1932 | Schwarzer-Weisser Oberrheinische Kraftwerke See
+[OHNE] ID 591 P590 E2 Dossier VII.308.D.a.:570. T2 S.28 Sch.307 | 1930–1934 | Schwarzer-Weisser Oberrheinische Kraftwerke
+[OHNE] ID 594 P593 E2 Dossier VII.308.D.a.:573. T2 S.28 Sch.309 | 1933–1936 | Jons Staudamm
+[OHNE] ID 596 P595 E2 Dossier VII.308.D.a.:574. T2 S.28 Sch.310 | 1933–1936 | Jons Staudamm
+[OHNE] ID 598 P597 E2 Dossier VII.308.D.a.:575. T2 S.28 Sch.311 | 1932–1936 | Jons Staudamm
+[OHNE] ID 600 P599 E2 Dossier VII.308.D.a.:576. T2 S.28 Sch.312 | 1932–1936 | Jons Staudamm
+[OHNE] ID 607 P606 E2 Dossier VII.308.D.a.:584. T2 S.28 Sch.319 | 1935–1936 | Altendorf Etzelwerk AG Unterwasserstollen
+[OHNE] ID 610 P609 E2 Dossier VII.308.D.a.:586. T2 S.28 Sch.321 | 1936–1937 | Zürich Kanalbauten Drahtschmiedli
+[OHNE] ID 617 P616 E2 Dossier VII.308.D.a.:593. T2 S.29 Sch.324 | 1938– | Zürich Bellerivestrasse
+[OHNE] ID 621 P620 E2 Dossier VII.308.D.a.:596. T2 S.29 Sch.325 | 1938– | Zürich AG Hunziker AG, Kranbahn Tiefenbrunnen
+[OHNE] ID 622 P620 E2 Dossier VII.308.D.a.:596. T3 S.29 Sch.325 | 1933–1934 | Bremgarten Rob. Honegger & Cie., Spinnerei zur Au, Turbinenumbau
+[OHNE] ID 623 P620 E2 Dossier VII.308.D.a.:596. T4 S.29 Sch.325 | 1935– | Pilatusbahn Elektrifizierung
+[OHNE] ID 631 P630 E2 Dossier VII.308.D.a.:603. T2 S.29 Sch.330 | 1934–1935 | Beznau Nordostschweizerische Kraftwerke AG, Kraftwerk Beznau, Uferschutz
+[OHNE] ID 632 P630 E2 Dossier VII.308.D.a.:603. T3 S.29 Sch.330 | 1937–1938 | Küsnacht Steinburghaab
+[OHNE] ID 633 P630 E2 Dossier VII.308.D.a.:603. T4 S.29 Sch.331 | 1937– | Hütten Etzelwerk AG, Messstation
+[OHNE] ID 634 P630 E2 Dossier VII.308.D.a.:603. T5 S.29 Sch.331 | 1938–1939 | Basel Hafenbecken Kleinhünigen, Verladebrücke
+[OHNE] ID 635 P630 E2 Dossier VII.308.D.a.:603. T6 S.30 Sch.331 | 1935–1937 | Emmenmatt Magazine
+[OHNE] ID 636 P630 E2 Dossier VII.308.D.a.:603. T7 S.30 Sch.331 | 1941– | Schuls-Tarasp Kraftwerk
+[OHNE] ID 637 P630 E2 Dossier VII.308.D.a.:603. T8 S.30 Sch.331 | 1938– | Thalwil Dr. Dürsteler, Seebadeanlage
+[OHNE] ID 638 P630 E2 Dossier VII.308.D.a.:603. T9 S.30 Sch.331 | 1935– | St. Barthélemy SBB, Korrektion der Torrent
+[OHNE] ID 639 P630 E2 Dossier VII.308.D.a.:603. T10 S.30 Sch.331 | 1936– | Dietikon Strassenbau
+[OHNE] ID 640 P630 E2 Dossier VII.308.D.a.:603. T11 S.30 Sch.331 | 1936– | Schlieren Strassenbau
+[OHNE] ID 643 P642 E2 Dossier VII.308.D.a.:605. T2 S.30 Sch.333 | 1939– | Glattbrugg Glattbrücke Oberhausen
+[OHNE] ID 645 P644 E2 Dossier VII.308.D.a.:606. T2 S.30 Sch.335 | 1934–1939 | Glattbrugg, Glattvertiefung
+[OHNE] ID 647 P646 E2 Dossier VII.308.D.a.:607. T2 S.30 Sch.336 | 1934–1936 | Glattbrugg, Glattvertiefung Niederglatt
+[OHNE] ID 649 P648 E2 Dossier VII.308.D.a.:608. T2 S.30 Sch.337 | 1937– | Zürich Rentenanstalt, Rammarbeiten
+[OHNE] ID 650 P648 E2 Dossier VII.308.D.a.:608. T3 S.30 Sch.338 | 1937– | Zürich Rentenanstalt;Rammarbeiten
+[OHNE] ID 651 P648 E2 Dossier VII.308.D.a.:608. T4 S.30 Sch.339 | 1937– | Zürich Rentenanstalt, Rammarbeiten
+[OHNE] ID 654 P653 E2 Dossier VII.308.D.a.:611. T2 S.30 Sch.340 | 1940–1941 | Zürich Kasernenplatz, Kanalisation
+[OHNE] ID 655 P653 E2 Dossier VII.308.D.a.:611. T3 S.30 Sch.340 | 1939– | Bauma Schlösslibrücke
+[OHNE] ID 657 P656 E2 Dossier VII.308.D.a.:612. T2 S.30 Sch.341 | 1938– | Genf Service Industriel de Genève, Usine de Verbois
+[OHNE] ID 660 P659 E2 Dossier VII.308.D.a.:614. T2 S.30 Sch.343 | 1933–1936 | Jons Staudamm
+[OHNE] ID 662 P661 E2 Dossier VII.308.D.a.:615. T2 S.31 Sch.344 | 1933–1934 | Jons Staudamm
+[OHNE] ID 666 P665 E2 Dossier VII.308.D.a.:618. T2 S.31 Sch.346 | 1933–1936 | Hühnermatt Etzelwerk AG, Damm
+[OHNE] ID 668 P667 E2 Dossier VII.308.D.a.:619. T2 S.31 Sch.348 | 1935–1936 | Steinbach Etzelwerk AG, Viadukt
+[OHNE] ID 671 P670 E2 Dossier VII.308.D.a.:622. T2 S.31 Sch.351 | 1937–1939 | Reckingen Rheinkraftwerk
+[OHNE] ID 673 P672 E2 Dossier VII.308.D.a.:622a. T2 S.31 Sch.353 | 1938–1942 | Reckingen Rheinkraftwerk
+[OHNE] ID 676 P675 E2 Dossier VII.308.D.a.:624. T2 S.31 Sch.356 | 1937–1939 | Reckingen Rheinkraftwerk, Pläne Motor Columbus
+[OHNE] ID 677 P675 E2 Dossier VII.308.D.a.:624. T3 S.31 Sch.357 | 1937–1939 | Reckingen Rheinkraftwerk, Pläne Motor Columbus
+[OHNE] ID 681 P680 E2 Dossier VII.308.D.a.:627. T2 S.31 Sch.359 | 1937– | Schlieren Limmatbrücke
+[OHNE] ID 683 P682 E2 Dossier VII.308.D.a.:628. T2 S.31 Sch.360 | 1938– | Genf Usine de Verbois
+[OHNE] ID 687 P686 E2 Dossier VII.308.D.a.:631. T2 S.32 Sch.363 | 1932–1937 | Jons Staudamm
+[OHNE] ID 688 P686 E2 Dossier VII.308.D.a.:631. T3 S.32 Sch.364 | 1932–1937 | Jons Staudamm
+[OHNE] ID 690 P689 E2 Dossier VII.308.D.a.:633. T2 S.32 Sch.366 | 1943–1944 | Rupperswil Kraftwerk
+[OHNE] ID 691 P689 E2 Dossier VII.308.D.a.:633. T3 S.32 Sch.367 | 1943–1944 | Rupperswil Kraftwerk
+[OHNE] ID 694 P693 E2 Dossier VII.308.D.a.:636. T2 S.32 Sch.368 | 1927– | Gossau E. W. Sein & Hufferl, Seeabsenkung
+[OHNE] ID 695 P693 E2 Dossier VII.308.D.a.:636. T3 S.32 Sch.368 | 1914– | Rorbas Gebr. Weidmann, Lochmühle
+[OHNE] ID 696 P693 E2 Dossier VII.308.D.a.:636. T4 S.32 Sch.368 | 1940– | Windisch EMD, Bunker
+[OHNE] ID 697 P693 E2 Dossier VII.308.D.a.:636. T5 S.32 Sch.368 | 1936– | Sarnen Ing. Seiler, Korrektur Aawasser u. Schlieren
+[OHNE] ID 698 P693 E2 Dossier VII.308.D.a.:636. T6 S.32 Sch.368 | 1939– | Oberägeri Dr. Walder Architekt, Wasserversorgung
+[OHNE] ID 699 P693 E2 Dossier VII.308.D.a.:636. T7 S.32 Sch.368 | 1943– | Ryburg-Schwörstadt Kraftwerk
+[OHNE] ID 703 P702 E2 Dossier VII.308.D.a.:639. T2 S.32 Sch.371 | 1907–1947 | div. O. Strassenbeläge, Geleisebau, Pappoleionbedachungen

@@ -1,0 +1,60 @@
+### D150689: vorher 299 Einheiten, nachher 299 Einheiten
+GEÄ  VII.277.:9. [ID 297, Teilbestand, E1, Eltern -, S.198] Schachteln, Umschläge, Kalender | Von/bis (>= x und <=y)
+        bis: '30.09.1996' => '1902'
+GEÄ  VII.277.:9.2. [ID 299, Dossier, E2, Eltern VII.277.:9., S.198] Verpackungen, Umschläge, Kalender, 2. Teil | 
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => ''
+        von: '1885' => ''
+        bis: '30.09.1996' => ''
+        [Darin]
+           -Literaturverzeichnis (verwendete Hilfsmittel und Familiengeschichten)
+           -Abegg
+           -Adolf Garnaus, Die Familie Abegg in der Kirchgemeinde Kilchberg und in Küsnacht 1557 –1933, Zürich 1933 [Ha Abegg 1]
+           -Hans Rudolf Schmid, Die Familie Abegg von Zürich und ihre Unternehmungen, Zürich 1972 [Ha Abegg 3]
+           -SFB 2 (1947), S. 1 – 33
+           -Abegg-Rüegg, Rüegg-Blass
+           -Eduard Rübel, Wilhelm Heinrich Ruoff, Nachfahrentafel Rübel, Zürich 1977 [Ha Rübel 5], S. 490 f.
+           -Bodmer
+           -Fritz Stucki, Geschichte der Familie Bodmer von Zürich 1543 -1943, Zürich 1942 [Ha Bodmer 4]
+           -Bleuler
+           -Huggenberg-Kaufmann, Frieda Maria, Die Bleuler von Hirslanden und Riesbach, in: Zürcher Taschenbuch 1948, S. 24 – 29
+           -Escher
+           -Carl Keller-Escher, 560 Jahre aus der Geschichte der Familie Escher vom Glas 1320 – 1885. Festgabe zur Feier des 500. Jahestages ihrer Einbürgerung zu Zürich, 
+           -Jakob Escher-Bürkli, Genealogie der Familie Escher vom Glas 1320 – 1885, nachgeführt über die Jahre 1885 – 1935, Zürich 1935 [Ha Escher 2:1]
+           -Gertrud L. Escher, Eduard F. Escher-Diener, Genealogie der Familie Escher vom Glas 1885
+           -1985, Zürich 1985 [Ha Escher 2:2]
+           -Hess
+           -Wilhelm Heinrich Ruoff, Stammliste der Famile Hess von Zürich, ursprünglich Schmid genannt Hess aus Reutlingen, Zürich 1959 [Ha Hess 5]
+           -Hirzel
+           -Carl Keller-Escher, Die Familie Hirzel von Zürich. Genealogie und geschichtlicher Überblick, Leipzig 1899 [Ha Hirzel 1/1]
+           -Die Familie Hirzel von Zürich. Ergänzung der Stammtafeln, enthalten im Familienbuch, nachgeführt bis Frühjahr 1926, Leipzig 1926 [Ha Hirzel 1/2]
+           -von Muralt
+           -Leonhard von Muralt, Stammtafeln der Familie von Muralt in Zürich von ihrer Einwanderung im Jahre 1555 an bis auf die Gegenwart, Zürich 1926 [Ha Muralt 2]
+           -Leonhard von Muralt, Hans Morf, Stammtafeln der Familie von Muralt in Zürich von ihrer Einwanderung im Jahre 1555 bis zum Jahre 1976, Zürich 1976 [Ha Muralt 4]
+           -Hans Schulthess, Die von Orelli von Locarno und Zürich. Ihre Geschichte und Genealogie, Zürich 1941 [Ha Orelli 2]
+           -Pestalozzi
+           -Hans Pestalozzi-Keyser, Geschichte der Familie Pestalozzi, Zürich 1958 [Ha Pestalozzi 3]
+           -Schindler
+           -Jakob Winteler, Landammann Dietrich Schindler. Seine Vorfahren und Nachkommen; [= 1. Teil], Zürich 1932 [Ha Schindler 1/1]
+           -Jakob Winteler, Aus der Geschichte der Familie Schindler von Mollis [= 2. Teil], Zürich 1936 [Ha Schindler 1/2]
+           -Schulthess
+           -Hans Schulthess, Die Familie Schulthess von Zürich. FS zur Feier des 150jährigen Bestehens der Schulthess'schen Familienstiftung, Zürich 1908 [Ha Schulthess 2/
+           -Emil Usteri, Lebensbilder aus der Vergangenheit der Familie Schulthess von Zürich, FS 1958 zur Feier des 200jährigen Bestehens der Schulthess'schen Familiensti
+           -Werdmüller
+           -Leo Weisz, Die Werdmüller. Schicksale eines alten Zürcher Geschlechts, 3 Bände, Zürich 1949 [Ha Werdmüller 1:1-3]
+           -Historisch-biographisches Lexikon der Schweiz, 7 Bände und Supplementband, Neuenburg 1921 – 1934 [Ab 15]. zit. HBLS
+           -Schweizerisches Geschlechterbuch, 12 Jahrgänge [= Bände], Basel 1905 – 1936, Zürich 1943
+           -1965 [Ha Allg. 7:1-12]. zit. SGB
+           -Schweizerisches Familienbuch, hg. von Johann Paul Zwicky von Gauen, 4 Bände, Zürich 1945/47/49 und 1963 [Ha Allg. 22:1-4]. zit. SFB
+           -Deutsch-Schweizerisches Geschlechterbuch, hg. von Bernhard Koerner, bearbeitet in Gemeinschaft mit Fritz Amberger, 5 Bände, Görlitz 1923 – 1932 (Deutsches Gesc
+           -Mario von Moos, Familiengeschichtliche Bibliographie der Schweiz, 2 Bände (Bd. 1: A – R, Bd. 2: S – Z, Register), Fehraltorf 1993 (Arbeitshilfen für Familienfo
+           -Werner Schnyder, Die Zürcher Ratslisten 1225 bis 1798, hg. vom Staatsarchiv des Kantons Zürich, Zürich 1962 [Da 15]
+           -Zürcher Pfarrerbuch 1519 – 1952, hg. von Emanuel Dejung und Willy Wuhrmann, Zürich 1953 [Ca 20]
+           -Schweizerisches Künstler-Lexikon, 4 Bände, Frauenfeld 1905 – 1917, Reprint Nendeln (Liechtenstein) 1967 [Ab 23]. zit. SKL
+           -Konrad Escher, Hans Hoffmann, Paul Kläui, Die Kunstdenkmäler des Kantons Zürich, Band 5: Die Stadt Zürich, 2. Teil, Basel 1949 [Bc ZH 5]. zit. Kdm ZH 5
+           -Konrad Escher, Das Bürgerhaus in der Schweiz, Band 9: Das Bürgerhaus in der Stadt Zürich, Zürich 1921 [Cb 275:1]
+           -STADTARCHIV ZÜRICH / 30. September 1996 / Dr. Robert Dünki
+        Zeitraum-Quelle: 'Darin (geschätzt)' => ''
+        [Prüfhinweise]
+           -Nach der letzten Einheit steht im Findmittel ein Absatz ohne Signatur («Literaturverzeichnis (verwendete Hilfsmittel und Familienges» …) – hier im Darin überno
+           -Zeitraum aus den Jahreszahlen im Darin geschätzt.
+           +Kein Zeitraum gefunden.

@@ -1,0 +1,67 @@
+### D140969: vorher 93 Einheiten, nachher 96 Einheiten
+NEU  VII.80.:50a. [ID 55, Dossier, E2, Eltern VII.80.:50-58, S.6] Publikationen, Drucksachen und Zeitungsauschnitte Teil 2 (Nachlieferungen mit u. a. auch Dubletten bis 2010 erhalten.) | Von/bis (>= x und <=y)
+        D: LA 1939 Katalog. Offizieller Führer mit Ausstellerverzeichnis und Orientierungsplan
+        D: Duttweiler, Gottlieb (Hg.). Eines Volkes Sein und Schaffen. Die Schweizerische LA 1939 in 300 Bildern o. O. u. J.
+        D: Wagner, J. (Hg.). Festliche Landi. Die festlichen Veranstaltungen der Schweizerischen Landesausstellung 1939 in Wort und Bild, 1940
+        D: LA 1939. Chocolats Lindt & Sprüngli: Durch Schauen Lernen
+        D: Wagner, J. (Hg.). Das goldene Buch der LA 1939
+        D: Schips-Lienert, Lina. Wir Schweizerfrauen. Unser Leben und Wirken in Wort und Bild. Eine Festgabe für die Schweiz. Landesausstellung 1939 in Zürich, Zürich 1939
+        D: Schweizerische Frauenverbände (Hg.). LA 1939. Du Schweizerfrau. Pavillon der Schweizerfrau
+        D: LA 1939. Orientierungplan. Was der Besucher wissen muss.
+        D: … (20 Zeilen)
+        H: Offener Zeitraum (nur Beginn oder nur Ende).
+NEU  VII.80.:88. [ID 95, Dossier, E1, Eltern -, S.16] Pläne (Am 17. August 2006 vom Planarchiv des Tiefbauamtes erhalten.) | Genau (=)
+        D: Regen- und Schmutzwasserleitungen (Rechtes Ufer), technischer Situationsplan mit Eintragung der Aborte, Nr. 163 A (Massstab: 1:500), 27. Januar 1939; Genehmigun
+        D: Format: 89 x 246 cm
+        D: Elektrische Leitungen, Wasser- und Kanalisationsleitungen (Rechtes Ufer: Bellerivestrasse, Zürichhornstrasse, Seefeldstrasse, Klusstrasse), technischer Situatio
+        D: Format: 100 x 151 cm
+        D: Elektrische Leitungen, Wasser- und Kanalisationsleitungen (Rechtes Ufer: Zürichhornstrasse, Hornbachstrasse, Bellerivestrasse, Dufourstrasse), technischer Situa
+        D: Format: 90 x 148 cm
+        D: Schmutzwasserleitungen zwischen Hornbach und Bauerngehöft, technischer Plan (Transparentpause, Massstab: 1:500), undatiert
+        D: Format: 40 x 78 cm
+        D: … (12 Zeilen)
+NEU  VII.80.:89. [ID 96, Dossier, E1, Eltern -, S.17] 2 Filmrollen „Euseri Schwyz“ | Genau (=)
+        D: 2 Filmrollen „Landesausstellung 1939“, Absender: Stadtzürcherisches Kindererholungsheim, 7018 Flims-Waldhaus GR, Empfänger: Herr Dr. iur. R. Schneider, Hügelist
+        H: Zeitraum aus den Jahreszahlen im Darin geschätzt.
+GEÄ  VII.80.:50. [ID 54, Dossier, E2, Eltern VII.80.:50-58, S.5] Offizielle Publikationen und Drucksachen | Von/bis (>= x und <=y)
+        bis: '2010' => '1939'
+        [Darin]
+           -50a Publikationen, Drucksachen und Zeitungsauschnitte Teil 2 (Nachlieferungen mit u. a. auch Dubletten bis 2010 erhalten.)
+           -LA 1939 Katalog. Offizieller Führer mit Ausstellerverzeichnis und Orientierungsplan
+           -Duttweiler, Gottlieb (Hg.). Eines Volkes Sein und Schaffen. Die Schweizerische LA 1939 in 300 Bildern o. O. u. J.
+           -Wagner, J. (Hg.). Festliche Landi. Die festlichen Veranstaltungen der Schweizerischen Landesausstellung 1939 in Wort und Bild, 1940
+           -LA 1939. Chocolats Lindt & Sprüngli: Durch Schauen Lernen
+           -Wagner, J. (Hg.). Das goldene Buch der LA 1939
+           -Schips-Lienert, Lina. Wir Schweizerfrauen. Unser Leben und Wirken in Wort und Bild. Eine Festgabe für die Schweiz. Landesausstellung 1939 in Zürich, Zürich 193
+           -Schweizerische Frauenverbände (Hg.). LA 1939. Du Schweizerfrau. Pavillon der Schweizerfrau
+           -LA 1939. Orientierungplan. Was der Besucher wissen muss.
+           -Arnet, Edwin. Das eidgenössische Wettspiel. Offizielles Festspiel der LA 1939
+           -LA 1939. Eidg. Trachtenfest. Programm der Umzüge 19./20. August 1939
+           -Schweizer Illustrierte Zeitung, Nr. 20, 17. Mai 1939
+           -Schweizer Illustrierte Zeitung, Nr. 35, 30. August 1939
+           -LA 1939. Offizielle Ausstellungszeitung, Nr. 102, 14. August 1939
+           -Zürcher Illustrierte, Nr. 19, 12. Mai 1939
+           -Zürcher Illustrierte, Nr. 27, 7. Juli 1939
+           -Zürcher Illustrierte, Nr. 31, 4. August 1939
+           -Zürcher Illustrierte, Nr. 41, 13. Oktober1939
+           -Anzeiger Zürich 2, Sondernummer, 3. Mai 1939
+           -LA 1939. Tages-Anzeiger für Stadt und Kanton Zürich, 6. Mai 1939
+           -LA 1939. Zeitbilder, Wochenbeilage zum Tages-Anzeiger, Nr. 19, 13. Mai 1939
+GEÄ  VII.80.:87. [ID 94, Dossier, E1, Eltern -, S.16] Fotografien diverser Agenturen und Fotografen vom Schweizerischen Sozialarchiv Ende September 2013 erhalten. Bei wem die Bildrechte für diese Fotografien liegen | Von/bis (>= x und <=y)
+        [Darin]
+           -(Am 17. August 2006 vom Planarchiv des Tiefbauamtes erhalten.)
+           -Regen- und Schmutzwasserleitungen (Rechtes Ufer), technischer Situationsplan mit Eintragung der Aborte, Nr. 163 A (Massstab: 1:500), 27. Januar 1939; Genehmigu
+           -Format: 89 x 246 cm
+           -Elektrische Leitungen, Wasser- und Kanalisationsleitungen (Rechtes Ufer: Bellerivestrasse, Zürichhornstrasse, Seefeldstrasse, Klusstrasse), technischer Situati
+           -Format: 100 x 151 cm
+           -Elektrische Leitungen, Wasser- und Kanalisationsleitungen (Rechtes Ufer: Zürichhornstrasse, Hornbachstrasse, Bellerivestrasse, Dufourstrasse), technischer Situ
+           -Format: 90 x 148 cm
+           -Schmutzwasserleitungen zwischen Hornbach und Bauerngehöft, technischer Plan (Transparentpause, Massstab: 1:500), undatiert
+           -Format: 40 x 78 cm
+           -Regen- und Schmutzwasserleitungen (Linkes Ufer), technischer Situationsplan (Massstab: 1:500), 15. Juni 1939; Genehmigung Tiefbauamt: 7. Oktober 1939, TAZ-Nr. 
+           -Format: 99 x 317 cm
+           -Regenwasserleitungen (Linkes Ufer: Regenwasserdolen, Entlastungsleitungen), technischer Situationsplan (Massstab: 1:500), Ingenieurbüro Tr. Scheifele, Zürich-A
+           -Format: 75 x 280 cm
+           -89 2 Filmrollen „Euseri Schwyz“
+           -2 Filmrollen „Landesausstellung 1939“, Absender: Stadtzürcherisches Kindererholungsheim, 7018 Flims-Waldhaus GR, Empfänger: Herr Dr. iur. R. Schneider, Hügelis
+        Umfang: '88 Pläne' => ''

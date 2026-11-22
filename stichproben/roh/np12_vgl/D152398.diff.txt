@@ -1,0 +1,35 @@
+### D152398: vorher 9 Einheiten, nachher 7 Einheiten
+WEG  V.J.W.c.12.:1./T8 [ID 8, Dossier, E2, Eltern V.J.W.c.12.:1., S.1] Akten | Von/bis (>= x und <=y)
+WEG  V.J.W.c.12.:2. [ID 9, Dossier, E1, Eltern -, S.1] In den Akten finden sich auch: Abhörbogen (sonst V.J. c.13. – 14.) | 
+        D: Protokollauszüge der Pflege, des Finanzwesens, der Armenpflege Voranschläge (vgl. auch V.J.W. c.15.2.)
+GEÄ  V.J.W.c.12.:1. [ID 1, Serie, E1, Eltern -, S.1] Akten | Von/bis (>= x und <=y)
+        Titel: 'Die fortlaufenden Aktennummern korrespondieren mit den Nummern in den Randbemerkungen des Protokolls (V.J. a.11.).' => 'Akten'
+        Entstehungszeitraum, Anm.: '' => 'erste Nennung: 1893-1896'
+        Schachtel-Nr.: '' => '1'
+        Nr. im PDF: '1.' => 'V.J.W. c.12.:1.'
+        Zeitraum-Quelle: 'Untereinheiten' => 'Datumsspalte'
+GEÄ  V.J.W.c.12.:1./T2 [ID 2, Dossier, E2, Eltern V.J.W.c.12.:1., S.1] Akten | Von/bis (>= x und <=y)
+        von: '1893' => '1897'
+        bis: '1896' => '1900'
+        Schachtel-Nr.: '1' => '2'
+        Prüfhinweise: 'Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.' => ''
+GEÄ  V.J.W.c.12.:1./T3 [ID 3, Dossier, E2, Eltern V.J.W.c.12.:1., S.1] Akten | Von/bis (>= x und <=y)
+        von: '1897' => '1901'
+        bis: '1900' => '1904'
+        Schachtel-Nr.: '2' => '3'
+GEÄ  V.J.W.c.12.:1./T4 [ID 4, Dossier, E2, Eltern V.J.W.c.12.:1., S.1] Akten | Von/bis (>= x und <=y)
+        von: '1901' => '1905'
+        bis: '1904' => '1907'
+        Schachtel-Nr.: '3' => '4'
+GEÄ  V.J.W.c.12.:1./T5 [ID 5, Dossier, E2, Eltern V.J.W.c.12.:1., S.1] Akten | Von/bis (>= x und <=y)
+        von: '1905' => '1908'
+        bis: '1907' => '1911'
+        Schachtel-Nr.: '4' => '5'
+GEÄ  V.J.W.c.12.:1./T6 [ID 6, Dossier, E2, Eltern V.J.W.c.12.:1., S.1] Akten | Von/bis (>= x und <=y)
+        von: '1908' => '1912'
+        bis: '1911' => '1916'
+        Schachtel-Nr.: '5' => '6'
+GEÄ  V.J.W.c.12.:1./T7 [ID 7, Dossier, E2, Eltern V.J.W.c.12.:1., S.1] Akten | Von/bis (>= x und <=y)
+        von: '1912' => '1917'
+        bis: '1916' => '1919'
+        Schachtel-Nr.: '6' => '7'

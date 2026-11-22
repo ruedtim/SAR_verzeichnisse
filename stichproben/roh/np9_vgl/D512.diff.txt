@@ -1,0 +1,61 @@
+### D512: vorher 63 Einheiten, nachher 63 Einheiten
+GEÄ  V.B.c.70.:1.12. [ID 13, Dossier, E2, Eltern V.B.c.70.:1., S.14] Saison 1969/70 | Von/bis (>= x und <=y)
+        [Darin]
+           -Roderer, Walter Der Mustergatte, 26. Dez. 1969
+           +Roderer, Walter Der Mustergatte, 26. Dez. 1969 – 28. März 1970
+        Zeitraum-Quelle: 'Datumsspalte' => 'Titel'
+GEÄ  V.B.c.70.:1.16. [ID 17, Dossier, E2, Eltern V.B.c.70.:1., S.20] Saison 1973/74 | Von/bis (>= x und <=y)
+        [Darin]
+           -Roderer, Walter Lached Sie mit!, 27. Dez. 1973
+           +Roderer, Walter Lached Sie mit!, 27. Dez. 1973 – 10. Feb. 1974
+GEÄ  V.B.c.70.:1.19. [ID 20, Dossier, E2, Eltern V.B.c.70.:1., S.28] Saison 1976/77 | Von/bis (>= x und <=y)
+        [Darin]
+           -Roderer, Walter Der Junggeselle, 24. Nov. 1976
+           +Roderer, Walter Der Junggeselle, 24. Nov. 1976 – 2. Jan. 1977
+        Zeitraum-Quelle: 'Datumsspalte' => 'Titel'
+GEÄ  V.B.c.70.:1.21. [ID 22, Dossier, E2, Eltern V.B.c.70.:1., S.34] Saison 1978/79 | Von/bis (>= x und <=y)
+        [Darin]
+           -Roderer, Walter Der Lückenbüsser, 23. Nov. 1978
+           +Roderer, Walter Der Lückenbüsser, 23. Nov. 1978 – 28. Feb. 1979
+GEÄ  V.B.c.70.:1.23. [ID 24, Dossier, E2, Eltern V.B.c.70.:1., S.38] Saison 1980/81 | Von/bis (>= x und <=y)
+        [Darin]
+           -Roderer, Walter Der verkaufte Grossvater, 13. Nov. 1980
+           +Roderer, Walter Der verkaufte Grossvater, 13. Nov. 1980 – 28. Feb. 1981
+           -(Produktion: Edi Baur), 1. Nov. 1980
+           +(Produktion: Edi Baur), 1. Nov. 1980 – 27. Feb. 1981
+        Zeitraum-Quelle: 'Datumsspalte' => 'Titel'
+GEÄ  V.B.c.70.:1.26. [ID 27, Dossier, E2, Eltern V.B.c.70.:1., S.43] Saison 1983/84 | Von/bis (>= x und <=y)
+        [Darin]
+           -Gmür, Hans Tiger-Falle (Gaunerkomödie), 30. Okt. 1983
+           +Gmür, Hans Tiger-Falle (Gaunerkomödie), 30. Okt. 1983 – 29. Jan. 1984
+        Zeitraum-Quelle: 'Datumsspalte' => 'Titel'
+GEÄ  V.B.c.70.:1.28. [ID 29, Dossier, E2, Eltern V.B.c.70.:1., S.47] Saison 1985/86 | Von/bis (>= x und <=y)
+        [Darin]
+           -Roderer, Walter Buchhalter Nötzli, 2. Dez. 1985
+           +Roderer, Walter Buchhalter Nötzli, 2. Dez. 1985 – 2. März 1986
+        Zeitraum-Quelle: 'Datumsspalte' => 'Titel'
+GEÄ  V.B.c.70.:1.34. [ID 35, Dossier, E2, Eltern V.B.c.70.:1., S.55] Saison 1991/92 | Von/bis (>= x und <=y)
+        [Darin]
+           -Fischer, Kaspar Der Lebensbaum, 27. Nov. 1991
+           +Fischer, Kaspar Der Lebensbaum, 27. Nov. 1991 – 19. Jan. 1992
+        Zeitraum-Quelle: 'Datumsspalte' => 'Titel'
+GEÄ  V.B.c.70.:1.37. [ID 38, Dossier, E2, Eltern V.B.c.70.:1., S.57] Saison 1994/95 | Von/bis (>= x und <=y)
+        [Darin]
+           -Vaudeville Theater Die siebente Nacht, Dez. 1994
+           -Vaudeville Theater Matineen-Reihe, Okt. 1994
+           +Vaudeville Theater Die siebente Nacht, Dez. 1994 – Jan. 1995
+           +Vaudeville Theater Matineen-Reihe, Okt. 1994 – Juni 1995
+GEÄ  V.B.c.70.:1.38. [ID 39, Dossier, E2, Eltern V.B.c.70.:1., S.58] Saison 1995/96 | Von/bis (>= x und <=y)
+        [Darin]
+           -Vaudeville Theater Matineen-Reihe, Okt. 1995
+           +Vaudeville Theater Matineen-Reihe, Okt. 1995 – Juni 1996
+GEÄ  V.B.c.70.:1.40. [ID 41, Dossier, E2, Eltern V.B.c.70.:1., S.60] Saison 1997/98 | Von/bis (>= x und <=y)
+        [Darin]
+           -Vaudeville Theater Matineen-Reihe, Okt. 1997
+           +Vaudeville Theater Matineen-Reihe, Okt. 1997 – Juni 1998
+        Zeitraum-Quelle: 'Datumsspalte' => 'Titel'
+GEÄ  V.B.c.70.:1.41. [ID 42, Dossier, E2, Eltern V.B.c.70.:1., S.61] Saison 1998/99 | Von/bis (>= x und <=y)
+        [Darin]
+           -Kaa, Vera und Band Die Kunst, eine Frau zu sein, 26. Dez. 1998
+           +Kaa, Vera und Band Die Kunst, eine Frau zu sein, 26. Dez. 1998 – 2. Jan. 1999
+        Zeitraum-Quelle: 'Datumsspalte' => 'Titel'

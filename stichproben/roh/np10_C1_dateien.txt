@@ -1,0 +1,14 @@
+D1660	Vollsignatur	5 Einheiten	bis S. 1	Ebenen 1	Grund: zufall Vollsignatur a ≤10	Signale: –	sigliste: Einheiten 5; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 0
+D176772	dezimal	22 Einheiten	bis S. 13	Ebenen 3	Grund: verdacht Z	Signale: Z: 9 Einheiten ohne Zeilenanfang im PDF, z. B. VII.192.:1., VII.192.:2.1., VII.192.:2.1.	sigliste: Einheiten 22; ohne Zeilenanfang 9; Nummernzeilen ohne Einheit 10
+D1797	Vollsignatur	1 Einheiten	bis S. 1	Ebenen 1	Grund: zufall Vollsignatur a ≤10	Signale: –	sigliste: Einheiten 1; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 0
+D1803	Vollsignatur	6 Einheiten	bis S. 2	Ebenen 2	Grund: verdacht Z	Signale: Z: 2 Einheiten ohne Zeilenanfang im PDF, z. B. V.G.c.181.:4., V.G.c.181.:4.	sigliste: Einheiten 6; ohne Zeilenanfang 2; Nummernzeilen ohne Einheit 0
+D1822	Vollsignatur	10 Einheiten	bis S. 1	Ebenen 1	Grund: zufall Vollsignatur a ≤10	Signale: –	sigliste: Einheiten 10; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 0
+D188	fortlaufend	16 Einheiten	bis S. 1	Ebenen 1	Grund: zufall fortlaufend b 11–50	Signale: –	sigliste: Einheiten 16; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 0
+D2085	Vollsignatur	13 Einheiten	bis S. 1	Ebenen 1	Grund: zufall Vollsignatur b 11–50	Signale: –	sigliste: Einheiten 13; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 0
+D2502	Vollsignatur	19 Einheiten	bis S. 1	Ebenen 2	Grund: zufall Vollsignatur b 11–50	Signale: –	sigliste: Einheiten 19; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 1
+D2753	ohne Signaturen	1 Einheiten	bis S. 1	Ebenen 1	Grund: zufall ohne Signaturen a ≤10	Signale: –	sigliste: Einheiten 1; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 0
+D2834	Mappen/Schachteln	2 Einheiten	bis S. 1	Ebenen 1	Grund: zufall Mappen/Schachteln a ≤10	Signale: –	sigliste: Einheiten 2; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 43
+D3468	fortlaufend	852 Einheiten	bis S. 58	Ebenen 2	Grund: verdacht N	Signale: N: 14 Zeilen nicht übernommen	sigliste: Einheiten 852; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 0
+D3599	dezimal	25 Einheiten	bis S. 5	Ebenen 2	Grund: zufall dezimal b 11–50	Signale: –	sigliste: Einheiten 25; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 5
+D3688	dezimal	12 Einheiten	bis S. 2	Ebenen 2	Grund: zufall dezimal b 11–50	Signale: –	sigliste: Einheiten 12; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 2
+D3761	dezimal	58 Einheiten	bis S. 4	Ebenen 3	Grund: verdacht N	Signale: N: 15 Zeilen nicht übernommen	sigliste: Einheiten 58; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 3

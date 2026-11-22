@@ -1,0 +1,4 @@
+### D152383: vorher 8 Einheiten, nachher 9 Einheiten
+NEU  V.J.W.a.11. [ID 9, Bestand, E1, Eltern -, S.1] Waisenhauspflege. Protokoll | Von/bis (>= x und <=y)
+        D: Die Protokolle von 1962 bis 1988 sind lose verschachtelt.
+        H: Stück ohne Nummer im Findmittel («Die Protokolle von 1962 bis 1988 sind lose verschachtelt.», S. 1) – hier beim Bestand übernommen (keine Signatur erfunden); in scope beim Bestand ergänzen oder von Hand als Einheit anlegen.

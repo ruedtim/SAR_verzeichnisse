@@ -1,0 +1,19 @@
+### D8947: vorher 2 Einheiten, nachher 1 Einheiten
+WEG  V.L.223.:1. [ID 1, Dossier, E1, Eltern -, S.1] Kuvert (Seidenkuvert) | 
+        D: Sonderblock mit Stempel: 1820 Territet-Veytaux, Jour d’emission 25. 11. 98, «verbindendes» Brückenmotiv Schweiz-China, mit Schloss Chillon auf Stempel, chinesis
+WEG  V.L.223.:2. [ID 2, Dossier, E1, Eltern -, S.1] Kuvert (Seidenkuvert) je 2 Briefmarken (Schloss Chillon, Brücke 24) mit Schweizer bzw. chinesischer Beschriftung, gestempelt (Schweizer Ersttagsstempel: 1820 Te | Genau (=)
+        D: Auf weissem Blatt montiert, gerahmt, hinter Glas
+        D: Exemplar 1 mit Goldrahmen
+        D: Exemplar 2 mit blauem Holzrahmen
+        D: (Am 19. August 2009 im Auftrag von Dr. J.-P. Hoby, Direktor Kultur, Präsidialdepartement, dem Stadtarchiv übermittelt.)
+NEU  V.L.223. [ID 1, Bestand, E1, Eltern -, S.1] Briefmarken-Gemeinschaftsausgabe Schweiz-China. Sondermarken | Von/bis (>= x und <=y)
+        D: Stadtarchiv Zürich V.L.223.
+        D: Briefmarken-Gemeinschaftsausgabe Schweiz-China 1998–1999 (Sondermarken)
+        D: Schweizer Briefmarken-Motiv: Genfersee mit Schloss Chillon
+        D: Schweizer Wert: 70 Rp.
+        D: Chinesisches Briefmarken-Motiv: Yangzhou-See mit «Brücke 24»
+        D: Schweizer Wert: 20 Rp.
+        D: Ausgabedatum: 25. November 1998
+        D: Gemeinschaftsausgabe China-Schweiz
+        D: … (21 Zeilen)
+        H: Findmittel ohne Signaturen: ganzer Inhalt in einer Zeile für den Bestand – in scope beim Bestand ergänzen, keine neue Einheit anlegen.

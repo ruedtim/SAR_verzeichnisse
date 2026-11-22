@@ -1,0 +1,30 @@
+### D3089: vorher 46 Einheiten, nachher 48 Einheiten
+NEU  VII.197.:IV.2a [ID 28, Dossier, E3, Eltern VII.197.:IV.2., S.10] Zeitungsausschnitte und Programme der Veranstaltungen des DVZ, Schachtel 44 | Von/bis (>= x und <=y)
+        D: Zeitungsausschnitte und Programme der Veranstaltungen des DVZ, 1886-1893, Schachtel 44
+        D: Zeitungsausschnitte und Programme der Veranstaltungen des DVZ, 1896,1901-1907, Schachtel 44
+        H: Im Findmittel «2a» unter IV.2. – als Unterpunkt übernommen.
+NEU  VII.197.:IV.2b [ID 29, Dossier, E3, Eltern VII.197.:IV.2., S.10] Lose Zeitungsausschnitte | Von/bis (>= x und <=y)
+        D: Zeitungsausschnitte, Schachtel 45
+        D: Zeitungsausschnitte, 1902-1908, Schachtel 45
+        D: Zeitungsausschnitte, 1913-1918, Schachtel 45
+        D: Zeitungsausschnitte, 1926-1929, Schachtel 45
+        D: Zeitungsausschnitte, 1930-1937, Schachtel 45
+        D: Zeitungsausschnitte, 1943-1944, Schachtel 45
+        D: Zeitungsausschnitte, 1954-1957, Schachtel 45
+        D: Zeitungsausschnitte, ohne Datum, Schachtel 45
+        H: Im Findmittel «2b» unter IV.2. – als Unterpunkt übernommen.
+GEÄ  VII.197.:IV.2. [ID 27, Serie, E2, Eltern VII.197.:IV., S.10] ZEITUNGSAUSSCHNITTE | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        [Darin]
+           -2a Zeitungsausschnitte und Programme der Veranstaltungen des DVZ, 1869-1883, Schachtel 44; Zeitungsausschnitte und Programme der Veranstaltungen des DVZ, 1886-
+           -2b Lose Zeitungsausschnitte; Zeitungsausschnitte, 1869-1898, Schachtel 45
+           -Zeitungsausschnitte, 1902-1908, Schachtel 45
+           -Zeitungsausschnitte, 1913-1918, Schachtel 45
+           -Zeitungsausschnitte, 1926-1929, Schachtel 45
+           -Zeitungsausschnitte, 1930-1937, Schachtel 45
+           -Zeitungsausschnitte, 1943-1944, Schachtel 45
+           -Zeitungsausschnitte, 1954-1957, Schachtel 45
+           -Zeitungsausschnitte, ohne Datum, Schachtel 45
+           +
+        Schachtel-Nr.: '44-45' => ''
+        Zeitraum-Quelle: 'Datumsspalte' => 'Untereinheiten'

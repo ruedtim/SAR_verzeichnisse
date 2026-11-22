@@ -1,0 +1,62 @@
+### D3793 – dezimal – 227 Einheiten – Bestand VII.55.
+Zusammenfassung: DARIN 54, HINWEIS 3, LÜCKE 1, OHNE 2
+[DARIN] ID 2 VII.55.:1.1. Darin 2: 1. Sitzung: 10 November 1925
+[DARIN] ID 2 VII.55.:1.1. Darin 3: 2. Sitzung: 9. März 1926
+[DARIN] ID 2 VII.55.:1.1. Darin 4: 3. Sitzung: 5. November 1926
+[DARIN] ID 2 VII.55.:1.1. Darin 5: 4. Sitzung: 22. April 1927
+[DARIN] ID 3 VII.55.:1.2. Darin 2: 1. Sitzung: 8. Mai 1933
+[DARIN] ID 3 VII.55.:1.2. Darin 3: 2. Sitzung: 13. Mai 1933
+[DARIN] ID 3 VII.55.:1.2. Darin 4: 3. Sitzung: 15. Mai 1933
+[DARIN] ID 3 VII.55.:1.2. Darin 5: 4. Sitzung: 19. Mai 1933
+[DARIN] ID 3 VII.55.:1.2. Darin 6: 5. Sitzung: 20. Mai 1933
+[DARIN] ID 4 VII.55.:1.3. Darin 2: 1. Sitzung: 18. November 1931
+[DARIN] ID 4 VII.55.:1.3. Darin 3: 2. Sitzung: 20. November 1931
+[DARIN] ID 4 VII.55.:1.3. Darin 4: 3. Sitzung: 25. November 1931
+[DARIN] ID 4 VII.55.:1.3. Darin 5: 4. Sitzung: 9. Dezember 1931
+[DARIN] ID 4 VII.55.:1.3. Darin 6: 5. Sitzung: 9. April 1932
+[DARIN] ID 4 VII.55.:1.3. Darin 7: 6. Sitzung: 13. April 1932
+[DARIN] ID 4 VII.55.:1.3. Darin 8: 7. Sitzung: 18. April 1932
+[DARIN] ID 4 VII.55.:1.3. Darin 9: 8. Sitzung: 10. Oktober 1932
+[DARIN] ID 5 VII.55.:1.4. Darin 3: 1. Sitzung: 1. Juni 1932
+[DARIN] ID 5 VII.55.:1.4. Darin 4: 2. Sitzung: 3. Juni 1932
+[DARIN] ID 5 VII.55.:1.4. Darin 5: 3. Sitzung: 10. Juni 1932
+[DARIN] ID 5 VII.55.:1.4. Darin 6: 4. Sitzung: 17. Juni 1932
+[DARIN] ID 5 VII.55.:1.4. Darin 7: 5. Sitzung: 1. Juli 1932
+[DARIN] ID 5 VII.55.:1.4. Darin 8: 6. Sitzung: 12. Oktober 1932
+[DARIN] ID 6 VII.55.:1.5. Darin 2: 1. Sitzung: 11. Januar 1925
+[DARIN] ID 6 VII.55.:1.5. Darin 3: 2. Sitzung (a): 15. Februar 1925
+[DARIN] ID 6 VII.55.:1.5. Darin 4: 2. Sitzung (b): 5. April 1925
+[DARIN] ID 6 VII.55.:1.5. Darin 5: 3. Sitzung: 12. Juli 1925
+[DARIN] ID 6 VII.55.:1.5. Darin 6: 4. Sitzung: 30. August 1925
+[DARIN] ID 6 VII.55.:1.5. Darin 7: 5. Sitzung: 13. Dezember 1925
+[DARIN] ID 6 VII.55.:1.5. Darin 8: 6. Sitzung: 28. Februar 1926
+[DARIN] ID 6 VII.55.:1.5. Darin 9: 7. Sitzung: 2. Oktober 1926
+[DARIN] ID 6 VII.55.:1.5. Darin 10: 8. Sitzung: 4. Dezember 1927
+[DARIN] ID 7 VII.55.:1.6. Darin 2: 1. Sitzung: 27. Januar 1928
+[DARIN] ID 7 VII.55.:1.6. Darin 3: 2. Sitzung: 16. Februar 1928
+[DARIN] ID 7 VII.55.:1.6. Darin 4: 3. Sitzung: 23. Februar 1928
+[DARIN] ID 7 VII.55.:1.6. Darin 5: 4. Sitzung: 1. März 1928
+[DARIN] ID 7 VII.55.:1.6. Darin 6: 5. Sitzung: 8. März 1928
+[DARIN] ID 7 VII.55.:1.6. Darin 7: 6. Sitzung: 29. März 1928
+[DARIN] ID 7 VII.55.:1.6. Darin 8: 7. Sitzung: 26. April 1828
+[DARIN] ID 8 VII.55.:1.7. Darin 2: 1. Sitzung: 5. September 1930
+[DARIN] ID 8 VII.55.:1.7. Darin 3: 2. Sitzung: 19. September 1930
+[DARIN] ID 8 VII.55.:1.7. Darin 4: 3. Sitzung: 26. September 1930
+[DARIN] ID 8 VII.55.:1.7. Darin 5: 4. Sitzung: 10. Oktober 1930
+[DARIN] ID 8 VII.55.:1.7. Darin 6: 5. Sitzung: 17. Oktober 1930
+[DARIN] ID 8 VII.55.:1.7. Darin 7: 6. Sitzung: 24. Oktober 1930
+[DARIN] ID 8 VII.55.:1.7. Darin 8: 7. Sitzung: 7. Novemeber 1930
+[DARIN] ID 8 VII.55.:1.7. Darin 9: 8. Sitzung: 14. November 1930
+[DARIN] ID 8 VII.55.:1.7. Darin 10: 9. Sitzung: 9. Januar 1931
+[DARIN] ID 8 VII.55.:1.7. Darin 11: 10. Sitzung: 27. Februar 1931
+[DARIN] ID 9 VII.55.:1.8. Darin 3: 1. Sitzung: 17. Juni 1929
+[DARIN] ID 9 VII.55.:1.8. Darin 4: 2. Sitzung: 18. September 1929
+[DARIN] ID 29 VII.55.:3.1.9. Darin 1: 17. Juni 1929; Vgl. in diesem Dossier die "Eröffnungsrede" von E. Klöti zur Konferenz vom 17. Juni 1
+[DARIN] ID 29 VII.55.:3.1.9. Darin 2: 18. September 1929
+[DARIN] ID 49 VII.55.:3.3.7. Darin 3: 30. September 1931 (ohne Witikon) (2) Lehrer in den Eingemeindungsvororten per 30. September 1931 Ma
+[HINWEIS] ID 123 VII.55.:5.3.1. S.21 | Steht im Findmittel unter der Zwischenüberschrift «Winterthur (5.3.1. - 17.)».
+[HINWEIS] ID 140 VII.55.:5.3.21. S.23 | Nummerierung springt: nach 17 folgt 21. / Kein eigener Titel im Findmittel – Titel der übergeordneten Einheit übernommen. / Zeitraum aus den Jah
+[HINWEIS] ID 204 VII.55.:5.9.1. S.28 | Steht im Findmittel unter der Zwischenüberschrift «Verband der Gemeindepräsidenten des Kantons Zürich».
+[LÜCKE] 18–20 fehlen vor ID 140 VII.55.:5.3.21. (Eltern 122) S.23
+[OHNE] ID 226 P225 E2 Dossier VII.55.:8. T2 S.35 Sch.1 | – | Dubletten zu 3.2.7., 3.2.8., 5.1., 5.2.1.-14.
+[OHNE] ID 227 P225 E2 Dossier VII.55.:8. T3 S.35 Sch.2 | – | Dubletten zu 5.2.15. ff., 5.5.-5.9.

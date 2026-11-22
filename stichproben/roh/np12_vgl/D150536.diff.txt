@@ -1,0 +1,19 @@
+### D150536: vorher 33 Einheiten, nachher 33 Einheiten
+GEÄ  VII.309.:11. [ID 33, Dossier, E1, Eltern -, S.13] Bibliothek (6 Schachteln) | Von/bis (>= x und <=y)
+        von: '1782' => '1837'
+        bis: '07.2005' => '2003'
+        [Darin]
+           -Darstellungen und Mitgliederverzeichnisse in der Bibliothek des Stadtarchivs
+           -Zunft zu den Drei Königen. Mitgliederverzeichnisse, Ausg. 1923, 1926, 1962; und Statuten 1900, 1906, 1908, 1909, 1912, 1918, 1926 [Bibliothekssignatur Ae 101]
+           -Oertli-Cajacob, Cilla. 100 Jahre Zunft zu den Drei Königen, Zürich 1997 [Dc EN 31]
+           -Schurr-Ammeter, C. P. 50 Jahre Zunft zu den Drei Königen 1897 – 1947. Ein Rückblick, o. O. 1947 [Dc En 21]
+           -75 Jahre Zunft zu den Drei Königen 1897 – 1972, o. O. u. J. [Na 4274]
+           -Bemerkungen
+           -Im Archiv der Zunft zu den Drei Königen gibt es Dokumente ab der Zunftgründung von 1897. Nur vereinzelte Archivalien, nämlich eine Handwerkerkundschaft von 178
+           -Der Archivbestand wurde thematisch und chronologisch geordnet. Dabei konnten die Dokumente nicht immer exakt zugeordnet werden. Ein Beispiel: Akten und Drucksa
+           -Die Benutzungsbestimmungen werden im Hinterlegungsvertrag vom 1. Februar 1999 zwischen der Zunft zu den Drei Königen und dem Stadtarchiv Zürich unter §8 gerege
+           -„Die Benutzung der ungedruckten Bestände des Zunftarchivs bedarf, soweit sie jünger als 50 Jahre sind, der schriftlichen Bewilligung seitens der Zunft Zu den D
+           -Der Zunftmeister und die Vorsteher der Zunft haben während der Öffnungszeiten des Stadtarchivs unbegrenzten Zugriff auf das Depositum. Dasselbe gilt in der Reg
+           -Ausleihen durch das Stadtarchiv benötigen die schriftliche Bewilligung seitens der Zunft. Bei Ausleihen durch die Zunft selbst verpflichtet sich diese zur Rück
+           -Im Juli 2005 wurden dem Stadtarchiv aus dem Nachlass von Ehrenzunftmeister Emil Baumgartner (1923 – 2005) Akten und Drucksachen der Zunft zu den Drei Königen ü
+           -Der Archivbestand umfasst gegenwärtig 65 Archivschachteln und eine Archivmappe.

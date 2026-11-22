@@ -1,0 +1,38 @@
+### D3012: vorher 5 Einheiten, nachher 14 Einheiten
+WEG  VII.170.:a. [ID 1, Dossier, E1, Eltern -, S.1] Hörspielfolge: 10 Sendungen | Von/bis (>= x und <=y)
+WEG  VII.170.:b. [ID 2, Dossier, E1, Eltern -, S.1] Drehbuch: Ein Film nach dem gleichnamigen Hörspiel | Genau (=)
+WEG  VII.170.:c. [ID 3, Serie, E1, Eltern -, S.1] Presseorientierung | Von/bis (>= x und <=y)
+        D: 2) Taxichauffeur Bänz, Schachtel 02
+        D: Drehbuch [Film], 1957
+        D: 3) De Grotzepuur
+        D: Drehbuch [Ein Schweizer Dialektfilm], ohne Datum
+        D: 4) Goldener Ochsen
+        D: Drehbuch [Film], 1958
+        D: 5) Fritz Vollenweider
+        D: Drehbuch [Volksstück], ohne Datum
+        D: … (13 Zeilen)
+WEG  VII.170.:c./T2 [ID 4, Dossier, E2, Eltern VII.170.:c., S.2] a Rollenbuch [Hörspiel Radio] | 
+        D: b) Rollenbuch [Fernsehspiel], ohne Datum, Schachtel 06
+WEG  VII.170.:c./T3 [ID 5, Dossier, E2, Eltern VII.170.:c., S.2] Diverse Drehbücher von: Hörspiel, Film, Bühnenstück | Von/bis (>= x und <=y)
+NEU  VII.170.:1. [ID 1, Teilbestand, E1, Eltern -, S.1] Oberstadtgass | Von/bis (>= x und <=y)
+NEU  VII.170.:1.a. [ID 2, Dossier, E2, Eltern VII.170.:1., S.1] Hörspielfolge: 10 Sendungen | Von/bis (>= x und <=y)
+NEU  VII.170.:1.b. [ID 3, Dossier, E2, Eltern VII.170.:1., S.1] Drehbuch: Ein Film nach dem gleichnamigen Hörspiel | Genau (=)
+NEU  VII.170.:1.c. [ID 4, Dossier, E2, Eltern VII.170.:1., S.1] Presseorientierung | Genau (=)
+NEU  VII.170.:2. [ID 5, Dossier, E1, Eltern -, S.1] Taxichauffeur Bänz | Genau (=)
+        D: Drehbuch [Film], 1957
+NEU  VII.170.:3. [ID 6, Dossier, E1, Eltern -, S.1] De Grotzepuur | 
+        D: Drehbuch [Ein Schweizer Dialektfilm], ohne Datum
+NEU  VII.170.:4. [ID 7, Dossier, E1, Eltern -, S.1] Goldener Ochsen | Genau (=)
+        D: Drehbuch [Film], 1958
+NEU  VII.170.:5. [ID 8, Dossier, E1, Eltern -, S.1] Fritz Vollenweider | 
+        D: Drehbuch [Volksstück], ohne Datum
+NEU  VII.170.:6. [ID 9, Dossier, E1, Eltern -, S.1] Familie Heiri Aeppli | 
+        D: Manuskript [Hörspiel], ohne Datum
+NEU  VII.170.:7. [ID 10, Dossier, E1, Eltern -, S.1] Landarzt Dr. Hilfiker | 
+        D: Manuskript [Hörspiel], ohne Datum
+NEU  VII.170.:8. [ID 11, Teilbestand, E1, Eltern -, S.2] Polizist Wäckerli | Von/bis (>= x und <=y)
+NEU  VII.170.:8.a. [ID 12, Dossier, E2, Eltern VII.170.:8., S.2] Rollenbuch [Hörspiel Radio] | 
+        H: Im Findmittel «a» ohne Klammer – als «a)» gelesen, bitte prüfen.
+NEU  VII.170.:8.b. [ID 13, Dossier, E2, Eltern VII.170.:8., S.2] Rollenbuch [Fernsehspiel] | 
+NEU  VII.170.:8.c. [ID 14, Dossier, E2, Eltern VII.170.:8., S.2] Diverse Drehbücher von | Von/bis (>= x und <=y)
+        D: Hörspiel, Film, Bühnenstück

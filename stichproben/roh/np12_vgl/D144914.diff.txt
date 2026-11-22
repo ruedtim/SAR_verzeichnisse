@@ -1,0 +1,4 @@
+### D144914: vorher 7 Einheiten, nachher 7 Einheiten
+GEÄ  VII.69.:7 [ID 7, Dossier, E1, Eltern -, S.3] Reden und Persönliches | Von/bis (>= x und <=y)
+        [Darin]
+           -chr Stand: 05.07.1992

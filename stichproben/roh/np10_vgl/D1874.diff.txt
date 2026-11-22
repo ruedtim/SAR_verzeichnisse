@@ -1,0 +1,18 @@
+### D1874: vorher 111 Einheiten, nachher 111 Einheiten
+GEÄ  V.G.c.42.:Reg. [ID 2, Serie, E2, Eltern V.G.c.42.:1., S.1] Register | 
+        Stufe: 'Teilbestand' => 'Serie'
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.G.c.42.' => 'V.G.c.42.:1.'
+        [Prüfhinweise]
+           +Signatur :Reg. steht im Findmittel im Abschnitt 1. – dort eingehängt, bitte prüfen.
+        Eltern: '-' => 'V.G.c.42.:1.'
+GEÄ  V.G.c.42.:Reg.1 [ID 3, Dossier, E3, Eltern V.G.c.42.:Reg., S.1] Zeichnungsverzeichnis 1-3000 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:Reg.2 [ID 4, Dossier, E3, Eltern V.G.c.42.:Reg., S.1] Zeichnungsverzeichnis 3001-6000 | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:Reg.3 [ID 5, Dossier, E3, Eltern V.G.c.42.:Reg., S.1] Mappenregister | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:Reg.4 [ID 6, Dossier, E3, Eltern V.G.c.42.:Reg., S.1] Sachregister | 
+        Ebene: '2' => '3'
+GEÄ  V.G.c.42.:Reg.5 [ID 7, Dossier, E3, Eltern V.G.c.42.:Reg., S.1] Anlageregister | 
+        Ebene: '2' => '3'

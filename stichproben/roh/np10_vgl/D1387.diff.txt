@@ -1,0 +1,37 @@
+### D1387: vorher 33 Einheiten, nachher 33 Einheiten
+GEÄ  V.F.c.18.:3/T2 [ID 5, Dossier, E2, Eltern V.F.c.18.:3., S.2] Mappe | Genau (=)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.F.c.18.:15. [ID 17, Dossier, E1, Eltern -, S.2] Legitimations- und Kontrollkarten | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.F.c.18.:16. [ID 18, Dossier, E1, Eltern -, S.2] Rapporte über nicht angemeldete Kostkinder | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.F.c.18.:17. [ID 19, Dossier, E1, Eltern -, S.2] Liste verstorbener illegitimer Kinder | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.F.c.18.:18. [ID 20, Dossier, E1, Eltern -, S.2] Kontrolle über Kostkinderbesuche durch Aufsichtsmitglieder | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.F.c.18.:19. [ID 21, Dossier, E1, Eltern -, S.2] Mutationen im Kostkinderbestand | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.F.c.18.:20. [ID 22, Dossier, E1, Eltern -, S.2] Monatsrapporte über Mütter-, Kinder – und Säuglingsheime | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.F.c.18.:21. [ID 23, Dossier, E1, Eltern -, S.2] Tabeastift. Abmeldungen | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.F.c.18.:22. [ID 24, Dossier, E1, Eltern -, S.2] Ergebnis der Nachschau der im Jahre 1908/09 unterstützten Schüler durch das Kinderfürsorgeamt Zürich | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.F.c.18.:23. [ID 25, Dossier, E1, Eltern -, S.2] Auswärtige Kostorte (Offerten, Kopien) | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.F.c.18.:24. [ID 26, Dossier, E1, Eltern -, S.2] Rapporte des Zentralkontrollbureaus über Kostkinder | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.F.c.18.:25. [ID 27, Dossier, E1, Eltern -, S.2] Rapporte des Zivilstandsamtes über verstorbene illegitime Kostkinder | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.F.c.18.:26. [ID 28, Dossier, E1, Eltern -, S.2] Kostorte. Bewilligte und nicht bewilligte | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.F.c.18.:27. [ID 29, Dossier, E1, Eltern -, S.2] Schwarze Liste auswärtiger Pflegeeltern | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.F.c.18.:28. [ID 30, Dossier, E1, Eltern -, S.2] Krankentransportrapporte | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.F.c.18.:29. [ID 31, Dossier, E1, Eltern -, S.2] Rapporte der Desinfektionsanstalt | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.F.c.18.:30. [ID 32, Dossier, E1, Eltern -, S.2] Betriebsstatistiken des Sanitätskorps | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.F.c.18.:31. [ID 33, Dossier, E1, Eltern -, S.2] Sanitätspolizei: Arbeitsberichte der Desinfektionsanstalt | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'

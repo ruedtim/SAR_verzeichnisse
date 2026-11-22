@@ -1,0 +1,3 @@
+### D2962: vorher 77 Einheiten, nachher 77 Einheiten
+GEÄ  VII.150.:6. [ID 51, Serie, E1, Eltern -, S.13] Veranstaltungen und Sängerreisen (3 Schachteln) | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '1' => '1-2'

@@ -1,0 +1,72 @@
+### D2894: vorher 59 Einheiten, nachher 58 Einheiten
+WEG  VII.122.:7.4./T2 [ID 24, Dossier, E3, Eltern VII.122.:7.4., S.17] Dankeschön und auf Wiedersehen Eric Hein | Genau (=)
+        D: Der fröhliche Wanderer Friedrich Wilhelm Möller
+        D: Festgesang Christoph Willibald Gluck
+        D: Frau Nachtigall Willy Sent
+        D: Lebenslust Paul Muller
+        D: Let us break Bread together Manfred Hilger
+        D: Le vieux Châlet Joseph Bovet
+        D: Mädchenfrühling Johannes Zentner
+        D: Maienlob Johannes Zentner
+        D: … (56 Zeilen)
+GEÄ  VII.122.:7.4. [ID 23, Dossier, E2, Eltern VII.122.:7., S.16] Noten und Liedertexte aus der Ablieferung | Genau (=)
+        Stufe: 'Serie' => 'Dossier'
+        [Darin]
+           +Dankeschön und auf Wiedersehen Eric Hein, Schachtel 42
+           +Der fröhliche Wanderer Friedrich Wilhelm Möller
+           +Festgesang Christoph Willibald Gluck
+           +Frau Nachtigall Willy Sent
+           +Lebenslust Paul Muller
+           +Let us break Bread together Manfred Hilger
+           +Le vieux Châlet Joseph Bovet
+           +Mädchenfrühling Johannes Zentner
+           +Maienlob Johannes Zentner
+           +Maiengruss Walter Iten
+           +Näher mein Gott zu Dir Lowell Mason
+           +Nidwaldner Tanzliedli H.J. Leuthold
+           +Quel mazzolin di fiori. Hans Jelmoli
+           +So nimm denn meine Hänge Friedrich Silcher
+           +Weisse Akazien Gerd Fleig
+           +Wiegenlied einer Negermutter Kurt Pahlen
+           +Wo die Liebe lebt Otto Groll
+           +Zum festlichen Tag Helmut Borgenhardt
+           +Amazing Grace A. Turnheer, Schachtel 43
+           +Capri-Fischer Gerhard Winkler
+           +Csârdâs Emil Hutter
+           +Cuando sali de cuba Luis Aguilé
+           +Deutsche Messe Franz Schubert
+           +Ein bisschen Frieden Ralph Siegel
+           +Eviva Espana Leo Caerts
+           +Hand in Hand Giorgio Moroder
+           +Ich bete an die Macht der Liebe D. Bortniansky
+           +Kalinka Russisches Volkslied
+           +Good night, Ladies Willi Gohl
+           +I Campan da Bellinzona G.B. Mantegazzi
+           +I am his child
+           +La Cucaracha Mexikanisches Volkslied
+           +La Youtse Joseph Bovet
+           +Lingua materna R. Cantieni
+           +Morning has broken
+           +Oh happy day Negro Spititual
+           +Old Kentucky home Amerikanisches Volkslied
+           +Papillon Ralph Siegel
+           +Quattro cavai che trottano Hans Jelmoli
+           +Rock my Soul Mac Huff
+           +Sister Act
+           +Sweet September B.M. Heinz
+           +Sing low, sweet Chariot
+           +The first Nowell
+           +Tom Dooley Amerikanisches Volkslied
+           +Try to remember Harvey Schmidt
+           +Vaya con Dios L. Russel
+           +Weisse Rosen aus Athen Manos Hadjidakis
+           +When I'am sixty four John Lennon, Paul Mc Cartney
+           +When the Saints go marching in Amerikanisches Volkslied
+           +Wiedehopf im Mai Bill Martin
+           +Yesterday John Lennon, Paul Mc Cartney
+           +Habt Dank, ihr Freunde Otto Gohl
+           +My Haert will go on (Titanic) James Horner
+           +Nun jubiliert der Morgen Hermann Erdlen
+           +Zürcher Festmusik Albert Häberling
+           +Diverse Lieder zum Programm Welt der Musik
+        Schachtel-Nr.: '41' => '41-43'

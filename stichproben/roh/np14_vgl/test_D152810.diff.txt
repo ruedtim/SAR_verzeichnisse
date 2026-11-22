@@ -1,0 +1,33 @@
+### D152810: vorher 616 Einheiten, nachher 616 Einheiten
+GEÄ  VI.HO.C. [ID 57, Teilbestand, E1, Eltern -, S.5] Gemeindearchiv Hottingen: Protokolle, Kontrollen und Register | Von/bis (>= x und <=y)
+        bis: '1896' => '1925'
+GEÄ  VI.HO.C.32. [ID 238, Serie, E2, Eltern VI.HO.C., S.10] Assekuranzsteuerregister | Von/bis (>= x und <=y)
+        Prüfhinweise: 'Untereinheiten reichen über den Zeitraum hinaus (1812–1925).' => ''
+GEÄ  VI.HO.C.32.a [ID 241, Serie, E2, Eltern VI.HO.C., S.10] Brandassekuranzbücher Hottingen 1812-1839 in Xerokopie | Von/bis (>= x und <=y)
+        Ebene: '3' => '2'
+        Übergeordnete Signatur: 'VI.HO.C.32.' => 'VI.HO.C.'
+        Eltern: 'VI.HO.C.32.' => 'VI.HO.C.'
+GEÄ  VI.HO.C.32.a:1 [ID 242, Dossier, E3, Eltern VI.HO.C.32.a, S.10] Band 1 Nrn. 1-209 | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+GEÄ  VI.HO.C.32.a:2 [ID 243, Dossier, E3, Eltern VI.HO.C.32.a, S.10] Band 2 (I) Nrn. 1-100 | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+GEÄ  VI.HO.C.32.a:3 [ID 244, Dossier, E3, Eltern VI.HO.C.32.a, S.10] Band 3 (II) Nrn. 101-216 | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+GEÄ  VI.HO.C.32.a:4 [ID 245, Dossier, E3, Eltern VI.HO.C.32.a, S.10] Band 4 (III) Nrn. 217-400 | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+GEÄ  VI.HO.C.32.a:5 [ID 246, Dossier, E3, Eltern VI.HO.C.32.a, S.10] Band 5 (IV) Nrn. 401-569 | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+GEÄ  VI.HO.C.32.a:6 [ID 247, Dossier, E3, Eltern VI.HO.C.32.a, S.10] Band 6 (V) Nrn. 570-769 | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+GEÄ  VI.HO.C.32.a:7 [ID 248, Dossier, E3, Eltern VI.HO.C.32.a, S.10] Band 7 (VI) Nrn. 770-1005 | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+GEÄ  VI.HO.C.32.a:8 [ID 249, Dossier, E3, Eltern VI.HO.C.32.a, S.10] Band 8 (VII) Nrn. 1006-1400 | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+GEÄ  VI.HO.C.32.a:9 [ID 250, Dossier, E3, Eltern VI.HO.C.32.a, S.10] Band 9 (VIII) Nrn. 1401-1570 | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+GEÄ  VI.HO.C.75. [ID 366, Serie, E2, Eltern VI.HO.C., S.15] Protokoll der Sekundarschulpflege | Von/bis (>= x und <=y)
+        Prüfhinweise: 'Untereinheiten reichen über den Zeitraum hinaus (1832–1892).' => ''
+GEÄ  VI.HO.C.75.a [ID 370, Dossier, E2, Eltern VI.HO.C., S.15] Visitationen der Schulpflege (enthält vereinzelte Einträge bis 1925) | Von/bis (>= x und <=y)
+        Ebene: '3' => '2'
+        Übergeordnete Signatur: 'VI.HO.C.75.' => 'VI.HO.C.'
+        Eltern: 'VI.HO.C.75.' => 'VI.HO.C.'

@@ -7,11 +7,11 @@ D3612;VII.37.:6.;1;Darin;enthält;B. G. Mantegazzi, Hans Waldmann;Eintrag der Ma
 D3612;;;Schluss;enthält;Zu diesem Bestand vgl. auch;Schlussblock (C)
 D3808;VII.65.:4.;1;bis;=;1907;Beilagen von 1945/46 nicht im Zeitraum (C)
 D3808;VII.65.:4.;1;Darin;nicht;Beilagen:;
-D3808;;;Schluss;enthält;Beilagen:;
+D3808;VII.65.;1;Darin;beginnt;Beilagen:;NP13: seit Runde 10 (K156, Regel 4) in der Bestandszeile statt im Blatt Info
 D176795;VII.388.:2.2.2.;1;von;=;1810;Lebensdaten «(-1838)» sind keine Laufzeit (D)
 D176795;VII.388.:2.2.2.;1;bis;=;;
 D1180;V.E.c.53.:5.4.;1;von;=;1937;Kontrollfall: Ereignisjahr «(1937)» bleibt Zeitraum (D)
-D2853;;;Einheiten;=;14;Aktenplan-Nummern 4–11 ohne Punkt sind keine Signaturen (B)
+D2853;;;Einheiten;=;8;Aktenplan-Nummern 4–11 ohne Punkt sind keine Signaturen (B); 8 statt 14 seit Nachtrag 2 der Runde 8 (NP11: kein erfundenes «I.», 5. am Bestand, keine Teile aus der Schachtelübersicht)
 D2853;VII.11.:3.;1;Darin;enthält;4 Rechtsverhältnisse zur Stadt Zürich 13;
 D2853;VII.11.:3.;1;Darin;enthält;11 Denkschrift 33, 34, 35;letzte Tabellenzeile im Darin, keine Zwischenüberschrift (F)
 D2623;V.L.170.:C.;;Anzahl;=;0;«C. O. Gleim, Dr. K. Moser» ist ein Name (A)
@@ -30,6 +30,6 @@ D3793;VII.55.:8.;3;Darin;nicht;Anmerkungen zu diesem Bestand;Bestandsnotiz nicht
 D3505;VII.313.:7.3.;;Anzahl;=;1;Schachtelübersicht im Schlussblock erfindet keine Teile (C)
 D134644;VII.374.:16.;1;bis;=;1992;Bearbeitungsvermerk 2006 ist kein Zeitraum (C)
 D140969;;;Schluss;enthält;Zur Überlieferungsgeschichte des Archivs;
-D149825;VII.10.:272.;1;Darin;enthält;Messingpokal, versilbert, mit Deckel;Kontrollfall: Beschreibung der letzten Einheit bleibt im Darin (C)
+D149825;VII.10.;1;Darin;enthält;Messingpokal, versilbert, mit Deckel;Kontrollfall: Stück ohne Nummer nach der letzten Einheit steht seit Runde 9 (Regel 31) in der Bestandszeile VII.10. (vorher Darin von 272.)
 D3089;VII.197.:X.;1;Darin;enthält;Detailverzeichnisse zu den Rollenbüchern;Kontrollfall (C)
 D149835;V.C.b.368.:7.;2;Darin;enthält;Nc 4-6 mit Beilage in grüner goldgeprägter Mappe;Kontrollfall (C)

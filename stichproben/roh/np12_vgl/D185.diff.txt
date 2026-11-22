@@ -1,0 +1,55 @@
+### D185: vorher 27 Einheiten, nachher 28 Einheiten
+NEU  V.A.c.120.:0. [ID 1, Teilbestand, E1, Eltern -, S.1] Grundlagen | Genau (=)
+        H: Nummerierung beginnt bei 0.
+Untereinheiten reichen über den Zeitraum hinaus (1986–1990).
+GEÄ  V.A.c.120.:0.0. [ID 2, Dossier, E2, Eltern V.A.c.120.:0., S.1] Adresslisten | Genau (=)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.A.c.120.' => 'V.A.c.120.:0.'
+        Prüfhinweise: 'Keine übergeordnete Signatur gefunden (erwartet 0.).' => 'Nummerierung beginnt bei 0.'
+        Eltern: '-' => 'V.A.c.120.:0.'
+GEÄ  V.A.c.120.:0.1. [ID 3, Dossier, E2, Eltern V.A.c.120.:0., S.1] Einsetzung der Kommission, Formulierung des Auftrages an die Untersuchungskommission durch das Büro des Gemeinderates auf Antrag der Interfraktionellen Konferen | Genau (=)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.A.c.120.' => 'V.A.c.120.:0.'
+        [Prüfhinweise]
+           -Keine übergeordnete Signatur gefunden (erwartet 0.).
+        Eltern: '-' => 'V.A.c.120.:0.'
+GEÄ  V.A.c.120.:0.2. [ID 4, Dossier, E2, Eltern V.A.c.120.:0., S.1] Zusammensetzung der Kommission | 
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.A.c.120.' => 'V.A.c.120.:0.'
+        Prüfhinweise: 'Keine übergeordnete Signatur gefunden (erwartet 0.).' => ''
+        Eltern: '-' => 'V.A.c.120.:0.'
+GEÄ  V.A.c.120.:0.3. [ID 5, Dossier, E2, Eltern V.A.c.120.:0., S.1] Grundlagen | Von/bis (>= x und <=y)
+        Titel: '[ohne Titel]' => 'Grundlagen'
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.A.c.120.' => 'V.A.c.120.:0.'
+        [Prüfhinweise]
+           -Keine übergeordnete Signatur gefunden (erwartet 0.).
+           -Kein Titel erkannt.
+           +Kein eigener Titel im Findmittel – Titel der übergeordneten Einheit übernommen.
+        Eltern: '-' => 'V.A.c.120.:0.'
+GEÄ  V.A.c.120.:0.5. [ID 6, Dossier, E2, Eltern V.A.c.120.:0., S.1] Grundlagen | Von/bis (>= x und <=y)
+        Titel: '[ohne Titel]' => 'Grundlagen'
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.A.c.120.' => 'V.A.c.120.:0.'
+        [Prüfhinweise]
+           -Keine übergeordnete Signatur gefunden (erwartet 0.).
+           -Kein Titel erkannt.
+           +Nummerierung springt: nach 3 folgt 5.
+           +Kein eigener Titel im Findmittel – Titel der übergeordneten Einheit übernommen.
+        Eltern: '-' => 'V.A.c.120.:0.'
+GEÄ  V.A.c.120.:0.7. [ID 7, Dossier, E2, Eltern V.A.c.120.:0., S.1] Ferienplanung | Genau (=)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.A.c.120.' => 'V.A.c.120.:0.'
+        Prüfhinweise: 'Keine übergeordnete Signatur gefunden (erwartet 0.).' => 'Nummerierung springt: nach 5 folgt 7.'
+        Eltern: '-' => 'V.A.c.120.:0.'
+GEÄ  V.A.c.120.:0.8. [ID 8, Dossier, E2, Eltern V.A.c.120.:0., S.1] Gemeinderatsbeschluss zur Einsetzung einer parlamentarischen Untersuchungskommission (Stadtpolizei) | Genau (=)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.A.c.120.' => 'V.A.c.120.:0.'
+        Prüfhinweise: 'Keine übergeordnete Signatur gefunden (erwartet 0.).' => ''
+        Eltern: '-' => 'V.A.c.120.:0.'
+GEÄ  V.A.c.120.:0.9. [ID 9, Dossier, E2, Eltern V.A.c.120.:0., S.1] Bewilligung der Verwaltungskommission des Obergerichtes zu Uebernahme des Sekretariates der gemeinderätlichen Kommission Politische Polizei durch Martin Farner, | Genau (=)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'V.A.c.120.' => 'V.A.c.120.:0.'
+        [Prüfhinweise]
+           -Keine übergeordnete Signatur gefunden (erwartet 0.).
+        Eltern: '-' => 'V.A.c.120.:0.'

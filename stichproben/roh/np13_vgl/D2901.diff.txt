@@ -1,0 +1,6 @@
+### D2901: vorher 10 Einheiten, nachher 10 Einheiten
+GEÄ  VII.124.:11 [ID 10, Dossier, E1, Eltern -, S.2] Akten aus dem Archiv | Von/bis (>= x und <=y)
+        [Darin]
+           -Die Genossenschaft wurde 1890 vom Grütliverein als Genossenschaft Buchdruckerei des Schweiz. Grütliverein gegründet.
+           -Der Grütliverein löste sich 1925 auf.
+           -Nach der Betriebsstilllegung und der Liquidation der Grütli Druckerei sind die Aktiven und Passiven an die Grütli Stiftung übergegangen.

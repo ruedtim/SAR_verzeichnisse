@@ -1,0 +1,10 @@
+### D176795: vorher 63 Einheiten, nachher 63 Einheiten
+GEÄ  VII.388.:1.3. [ID 7, Dossier, E2, Eltern VII.388.:1., S.5] Trauscheine, Familienscheine | Von/bis (>= x und <=y)
+        Titel: 'Trauscheine, Familienscheine: Auszug aus dem Kirchenbuch zur Trauung von Friederike von Podewils mit Ernst Friedrich Karl von Beust (1765) Trauschein von Simon Friedrich Carl von Tubeuf und Maria Anna' => 'Trauscheine, Familienscheine'
+        [Darin]
+           +Auszug aus dem Kirchenbuch zur Trauung von Friederike von Podewils mit Ernst Friedrich Karl von Beust (1765) Trauschein von Simon Friedrich Carl von Tubeuf und Maria Anna von Hundheim (1788)
+        Prüfhinweise: 'Sehr langer Titel – evtl. Darin-Text im Titel.' => ''
+GEÄ  VII.388.:1.4. [ID 8, Dossier, E2, Eltern VII.388.:1., S.5] Totenscheine und Todesanzeigen | Von/bis (>= x und <=y)
+        Titel: 'Totenscheine und Todesanzeigen: Nekrolog von Auguste Eleonore Sophie von Beust (1769-1771)' => 'Totenscheine und Todesanzeigen'
+        [Darin]
+           +Nekrolog von Auguste Eleonore Sophie von Beust (1769-1771)

@@ -1,0 +1,1041 @@
+### D149628 – dezimal – 5235 Einheiten – Bestand VII.12.B.
+Zusammenfassung: DARIN 202, DOPPELT 234, HINWEIS 5, LÜCKE 3, OHNE 595
+[DARIN] ID 122 VII.12.B.:3.2.2.9. Darin 7: 47. Bericht des Vorstandes der Tonhalle-Gesellschaft über das Geschäftsjahr 1939/40
+[DARIN] ID 337 VII.12.B.:4.3.15. Darin 6: 44. Bericht des Vorstandes der Tonhalle-Gesellschaft 1936/37
+[DOPPELT] ID 401 VII.12.B.:5.2.1.3. Teil 5 S.101 – Teil 1 ID 397 S.99 | Korrespondenz und Akten betreffend Subventionen der Stadt Zü
+[DOPPELT] ID 402 VII.12.B.:5.2.1.3. Teil 6 S.101 – Teil 1 ID 397 S.99 | Protokolle des Finanzvorstandes der Stadt Zürich
+[DOPPELT] ID 403 VII.12.B.:5.2.1.3. Teil 7 S.101 – Teil 1 ID 397 S.99 | Korrespondenz mit dem Stadtrat von Zürich
+[DOPPELT] ID 404 VII.12.B.:5.2.1.3. Teil 8 S.101 – Teil 1 ID 397 S.99 | Korrespondenz betreffend das Hilfskomitee für Notleidende Au
+[DOPPELT] ID 405 VII.12.B.:5.2.1.3. Teil 9 S.101 – Teil 1 ID 397 S.99 | Korrespondenz betreffend den öffentlichen Verkehr: SBB und S
+[DOPPELT] ID 406 VII.12.B.:5.2.1.3. Teil 10 S.101 – Teil 1 ID 397 S.99 | Korrespondenz mit dem Schulwesen der Stadt Zürich
+[DOPPELT] ID 407 VII.12.B.:5.2.1.3. Teil 11 S.101 – Teil 1 ID 397 S.99 | Korrespondenz mit dem Consulat de France à Zurich
+[DOPPELT] ID 408 VII.12.B.:5.2.1.3. Teil 12 S.102 – Teil 1 ID 397 S.99 | Korrespondenz mit Polizeivorstand und Stadtpolizei
+[DOPPELT] ID 409 VII.12.B.:5.2.1.3. Teil 13 S.102 – Teil 1 ID 397 S.99 | Akten betreffend Neuorganisation des Stadttheaterbetriebes
+[DOPPELT] ID 410 VII.12.B.:5.2.1.3. Teil 14 S.102 – Teil 1 ID 397 S.99 | Korrespondenz und Akten betreffend Subventionen der Stadt Zü
+[DOPPELT] ID 411 VII.12.B.:5.2.1.3. Teil 15 S.102 – Teil 1 ID 397 S.99 | Korrespondenz und Akten des Verwaltungsrates mit Behörden un
+[DOPPELT] ID 412 VII.12.B.:5.2.1.3. Teil 16 S.103 – Teil 1 ID 397 S.99 | Korrespondenz und Akten betreffend Subventionen der Stadt Zü
+[DOPPELT] ID 413 VII.12.B.:5.2.1.3. Teil 17 S.103 – Teil 1 ID 397 S.99 | Korrespondenz und Akten des Verwaltungsrates mit Behörden
+[DOPPELT] ID 414 VII.12.B.:5.2.1.3. Teil 18 S.104 – Teil 1 ID 397 S.99 | Korrespondenz und Akten zum Thema "Aufruf zu stärkerem Theat
+[DOPPELT] ID 415 VII.12.B.:5.2.1.3. Teil 19 S.104 – Teil 1 ID 397 S.99 | Korrespondenz und Akten betreffend Subventionen
+[DOPPELT] ID 416 VII.12.B.:5.2.1.3. Teil 20 S.104 – Teil 1 ID 397 S.99 | Korrespondenz und Akten betreffend Subventionen
+[DOPPELT] ID 417 VII.12.B.:5.2.1.3. Teil 21 S.105 – Teil 1 ID 397 S.99 | Korrespondenz und Akten betreffend Subventionen
+[DOPPELT] ID 418 VII.12.B.:5.2.1.3. Teil 22 S.106 – Teil 1 ID 397 S.99 | Korrespondenz und Akten betreffend Subventionen
+[DOPPELT] ID 419 VII.12.B.:5.2.1.3. Teil 23 S.106 – Teil 1 ID 397 S.99 | Korrespondenz und Akten betreffend Subventionen
+[DOPPELT] ID 420 VII.12.B.:5.2.1.3. Teil 24 S.106 – Teil 1 ID 397 S.99 | Korrespondenz mit Kanton und Stadtverwaltung betreffend vers
+[DOPPELT] ID 421 VII.12.B.:5.2.1.3. Teil 25 S.106 – Teil 1 ID 397 S.99 | Korrespondenz und Akten betreffend Subventionerhöhungen
+[DOPPELT] ID 422 VII.12.B.:5.2.1.3. Teil 26 S.107 – Teil 1 ID 397 S.99 | Verfügung der Feuerpolizei und Korrespondenz betreffend Rauc
+[DOPPELT] ID 423 VII.12.B.:5.2.1.3. Teil 27 S.107 – Teil 1 ID 397 S.99 | Akten betreffend Subventionseingaben
+[DOPPELT] ID 424 VII.12.B.:5.2.1.3. Teil 28 S.107 – Teil 1 ID 397 S.99 | Akten betreffend Aktionskomitee „Pro Stadttheater“
+[DOPPELT] ID 425 VII.12.B.:5.2.1.3. Teil 29 S.107 – Teil 1 ID 397 S.99 | Korrespondenz und Akten betreffend Besoldungen und Subventio
+[DOPPELT] ID 426 VII.12.B.:5.2.1.3. Teil 30 S.108 – Teil 1 ID 397 S.99 | Korrespondenz und Akten betreffend Subventionen
+[DOPPELT] ID 427 VII.12.B.:5.2.1.3. Teil 31 S.108 – Teil 1 ID 397 S.99 | Korrespondenz und Akten betreffend Subventionen
+[DOPPELT] ID 428 VII.12.B.:5.2.1.3. Teil 32 S.108 – Teil 1 ID 397 S.99 | Korrespondenz mit Behörden und Amtsstellen, Akten betreffend
+[DOPPELT] ID 429 VII.12.B.:5.2.1.3. Teil 33 S.109 – Teil 1 ID 397 S.99 | Korrespondenz und Akten betreffend Subventionen
+[DOPPELT] ID 430 VII.12.B.:5.2.1.3. Teil 34 S.109 – Teil 1 ID 397 S.99 | Korrespondenz und Akten betreffend Subventionen
+[DOPPELT] ID 431 VII.12.B.:5.2.1.3. Teil 35 S.109 – Teil 1 ID 397 S.99 | Kantonale Volksabstimmung über die Unterstützung des Opernha
+[DOPPELT] ID 498 VII.12.B.:5.4.3.2. Teil 15 S.122 – Teil 1 ID 484 S.120 | Korrespondenz und Akten betreffend Abonnemente
+[DOPPELT] ID 559 VII.12.B.:5.4.3.3. Teil 61 S.124 – Teil 1 ID 499 S.122 | Lose Kassarapporte, Schauspiel und Oper
+[DOPPELT] ID 560 VII.12.B.:5.4.3.3. Teil 62 S.124 – Teil 1 ID 499 S.122 | Kassazettel:
+[DOPPELT] ID 561 VII.12.B.:5.4.3.3. Teil 63 S.124 – Teil 1 ID 499 S.122 | Billettverkauf:
+[DOPPELT] ID 562 VII.12.B.:5.4.3.3. Teil 64 S.124 – Teil 1 ID 499 S.122 | Billettverkauf:
+[DOPPELT] ID 563 VII.12.B.:5.4.3.3. Teil 65 S.124 – Teil 1 ID 499 S.122 | Billettverkauf:
+[DOPPELT] ID 564 VII.12.B.:5.4.3.3. Teil 66 S.124 – Teil 1 ID 499 S.122 | Billettverkauf:
+[DOPPELT] ID 565 VII.12.B.:5.4.3.3. Teil 67 S.124 – Teil 1 ID 499 S.122 | Kassarapporte
+[DARIN] ID 659 VII.12.B.:6.2.5.7. Darin 5: 1. Stock-Grundriss mit Doucheneinbau, M. 1: 66, 24. Juni 1936
+[DARIN] ID 674 VII.12.B.:6.5.2.1. Darin 4: 140. Rechenschaftsbericht des Verwaltungsrates über das Geschäftsjahr 1973/74
+[DOPPELT] ID 696 VII.12.B.:6.5.2.8. Teil 16 S.149 – Teil 1 ID 681 S.147 | G – Gisler & Gisler, Werbeagentur, Abstimmungskampagne Termi
+[DOPPELT] ID 697 VII.12.B.:6.5.2.8. Teil 17 S.149 – Teil 1 ID 681 S.147 | H – Hauseigentümer / Heimatschutz Korrespondenz, Aktennotize
+[DOPPELT] ID 698 VII.12.B.:6.5.2.8. Teil 18 S.149 – Teil 1 ID 681 S.147 | H – Hochbauamt
+[DOPPELT] ID 699 VII.12.B.:6.5.2.8. Teil 19 S.149 – Teil 1 ID 681 S.147 | H – Martin Hürlimann
+[DOPPELT] ID 700 VII.12.B.:6.5.2.8. Teil 20 S.149 – Teil 1 ID 681 S.147 | J – Hans Jecklin
+[DOPPELT] ID 701 VII.12.B.:6.5.2.8. Teil 21 S.149 – Teil 1 ID 681 S.147 | K – Komitee Pro Opernhaus / Patronat "Stapi Landolt" / Komit
+[DOPPELT] ID 702 VII.12.B.:6.5.2.8. Teil 22 S.149 – Teil 1 ID 681 S.147 | O – Opera mobile
+[DOPPELT] ID 703 VII.12.B.:6.5.2.8. Teil 23 S.149 – Teil 1 ID 681 S.147 | P – Pächter
+[DOPPELT] ID 704 VII.12.B.:6.5.2.8. Teil 24 S.150 – Teil 1 ID 681 S.147 | P – Architekturbüro Claude Paillard / Peter Leemann
+[DOPPELT] ID 705 VII.12.B.:6.5.2.8. Teil 25 S.150 – Teil 1 ID 681 S.147 | P – Parkierungsmöglichkeiten
+[DOPPELT] ID 706 VII.12.B.:6.5.2.8. Teil 26 S.150 – Teil 1 ID 681 S.147 | P – Personal-Orientierungen
+[DOPPELT] ID 707 VII.12.B.:6.5.2.8. Teil 27 S.150 – Teil 1 ID 681 S.147 | P – Projektierungskredit
+[DOPPELT] ID 708 VII.12.B.:6.5.2.8. Teil 28 S.150 – Teil 1 ID 681 S.147 | P – Komitee Pro Esplanade / Rudolf Bihrer
+[DOPPELT] ID 709 VII.12.B.:6.5.2.8. Teil 29 S.150 – Teil 1 ID 681 S.147 | P – Arbeitsgruppe Pro Stadttheater
+[DOPPELT] ID 710 VII.12.B.:6.5.2.8. Teil 30 S.150 – Teil 1 ID 681 S.147 | P – Prominentenliste / Postkarten Komitee Pro Opernhaus
+[DOPPELT] ID 711 VII.12.B.:6.5.2.8. Teil 31 S.150 – Teil 1 ID 681 S.147 | R – Raumakustik / Franz Reichenbach
+[DOPPELT] ID 712 VII.12.B.:6.5.2.8. Teil 32 S.150 – Teil 1 ID 681 S.147 | R – Roggen & Amrein / Werbeagentur / Diverses
+[DOPPELT] ID 713 VII.12.B.:6.5.2.8. Teil 33 S.150 – Teil 1 ID 681 S.147 | S – Schallplatten-Produktion betreffend Umbau-Kampagne
+[DOPPELT] ID 714 VII.12.B.:6.5.2.8. Teil 34 S.151 – Teil 1 ID 681 S.147 | T – Termine / Theaterfest
+[DOPPELT] ID 715 VII.12.B.:6.5.2.8. Teil 35 S.151 – Teil 1 ID 681 S.147 | T – Tonstudio
+[DOPPELT] ID 716 VII.12.B.:6.5.2.8. Teil 36 S.151 – Teil 1 ID 681 S.147 | T – Tramschleife
+[DOPPELT] ID 717 VII.12.B.:6.5.2.8. Teil 37 S.151 – Teil 1 ID 681 S.147 | V – alter Bühnenvorhang / Musen
+[DOPPELT] ID 718 VII.12.B.:6.5.2.8. Teil 38 S.151 – Teil 1 ID 681 S.147 | W – Dietrich Wagenbauer
+[DOPPELT] ID 719 VII.12.B.:6.5.2.8. Teil 39 S.151 – Teil 1 ID 681 S.147 | Z – Gemeinderat Hans Ulrich Zbinden / Adolf Zotzmann
+[DOPPELT] ID 932 VII.12.B.:7.2.2.1. Teil 7 S.185 – Teil 1 ID 926 S.183 | Akten betreffend Gesamtarbeitsverträge / Kollektivverträge u
+[DOPPELT] ID 933 VII.12.B.:7.2.2.1. Teil 8 S.185 – Teil 1 ID 926 S.183 | Akten betreffend Gesamtarbeitsverträge / Kollektivverträge u
+[DOPPELT] ID 934 VII.12.B.:7.2.2.1. Teil 9 S.185 – Teil 1 ID 926 S.183 | Akten betreffend Gesamtarbeitsverträge / Kollektivverträge u
+[DOPPELT] ID 935 VII.12.B.:7.2.2.1. Teil 10 S.186 – Teil 1 ID 926 S.183 | Akten betreffend Gesamtarbeitsverträge / Kollektivverträge u
+[DOPPELT] ID 936 VII.12.B.:7.2.2.1. Teil 11 S.186 – Teil 1 ID 926 S.183 | Akten betreffend Gesamtarbeitsverträge / Kollektivverträge u
+[DOPPELT] ID 937 VII.12.B.:7.2.2.1. Teil 12 S.186 – Teil 1 ID 926 S.183 | Akten betreffend Gesamtarbeitsverträge / Kollektivverträge u
+[DOPPELT] ID 938 VII.12.B.:7.2.2.1. Teil 13 S.186 – Teil 1 ID 926 S.183 | Akten betreffend Gesamtarbeitsverträge / Kollektivverträge u
+[DOPPELT] ID 939 VII.12.B.:7.2.2.1. Teil 14 S.187 – Teil 1 ID 926 S.183 | Akten betreffend Gesamtarbeitsverträge / Kollektivverträge u
+[DOPPELT] ID 948 VII.12.B.:7.2.2.2. Teil 9 S.189 – Teil 1 ID 940 S.187 | Gesamtarbeitsverträge
+[DOPPELT] ID 949 VII.12.B.:7.2.2.2. Teil 10 S.189 – Teil 1 ID 940 S.187 | Gesamtarbeitsverträge
+[DOPPELT] ID 950 VII.12.B.:7.2.2.2. Teil 11 S.189 – Teil 1 ID 940 S.187 | Gesamtarbeitsverträge
+[DOPPELT] ID 951 VII.12.B.:7.2.2.2. Teil 12 S.189 – Teil 1 ID 940 S.187 | Gesamtarbeitsverträge
+[DOPPELT] ID 952 VII.12.B.:7.2.2.2. Teil 13 S.190 – Teil 1 ID 940 S.187 | Gesamtarbeitsverträge
+[DOPPELT] ID 953 VII.12.B.:7.2.2.2. Teil 14 S.190 – Teil 1 ID 940 S.187 | Gesamtarbeitsverträge
+[HINWEIS] ID 1971 VII.12.B.:14.3.229. S.306 | Nummerierung springt: nach 227 folgt 229. / Kein Zeitraum gefunden.
+[DOPPELT] ID 2250 VII.12.B.:15.1.5.2. Teil 12 S.323 – Teil 1 ID 2239 S.321 | Probenspielpläne, Probenbücher 1985/86, Bände 1 – 2 mit Beil
+[DOPPELT] ID 2251 VII.12.B.:15.1.5.2. Teil 13 S.323 – Teil 1 ID 2239 S.321 | Probenspielpläne, Probenbücher 1986/87, Bände 1 – 6 mit Beil
+[DOPPELT] ID 2252 VII.12.B.:15.1.5.2. Teil 14 S.323 – Teil 1 ID 2239 S.321 | Probenspielpläne, Probenbücher 1987/88, Bände 1 – 6 mit Beil
+[DOPPELT] ID 2253 VII.12.B.:15.1.5.2. Teil 15 S.323 – Teil 1 ID 2239 S.321 | Probenspielpläne, Probenbücher 1988/89, Bände 1 – 5 mit Beil
+[DOPPELT] ID 2254 VII.12.B.:15.1.5.2. Teil 16 S.323 – Teil 1 ID 2239 S.321 | Probenspielpläne, Probenbücher 1988/89, Bände 1 – 5 mit Beil
+[DOPPELT] ID 2255 VII.12.B.:15.1.5.2. Teil 17 S.323 – Teil 1 ID 2239 S.321 | Probenspielpläne, Probenbücher 1988/89, Bände 1 – 5 mit Beil
+[HINWEIS] ID 2573 VII.12.B.:20.1.3.20. S.371 | Nummerierung springt: nach 18 folgt 20.
+[DARIN] ID 2816 VII.12.B.:21.1.3.41. Darin 1: 1. Juli 1962, Bände 1 – 2
+[DARIN] ID 2819 VII.12.B.:21.1.3.44. Darin 1: 29. Juni 1965, Vorspann (Einleitung) 1964/65, Bände 1 – 3
+[DARIN] ID 2820 VII.12.B.:21.1.3.45. Darin 1: 18. Juni 1966, Bände 1 – 2
+[DARIN] ID 2823 VII.12.B.:21.1.3.48. Darin 1: 1. Juli 1969, Bände 1 – 3
+[DARIN] ID 2825 VII.12.B.:21.1.3.50. Darin 1: 3. Juli 1970, Bände 1 – 3
+[DARIN] ID 2828 VII.12.B.:21.1.3.53. Darin 1: 24. Juni 1971, Bände 1 – 2
+[DARIN] ID 2829 VII.12.B.:21.1.3.54. Darin 1: 30. Juni 1972, 1. Jan. 1972 – 24. Juni 1972, Vorspann (Einleitung) 1971/72, Bände 1 – 4
+[DARIN] ID 2832 VII.12.B.:21.1.3.57. Darin 1: 30. Juni 1974, 15. Sept. 1973 – 5. Mai 1974, Vorspann (Einleitung) 1973/74, Bände 1 – 6
+[DARIN] ID 2834 VII.12.B.:21.1.3.59. Darin 1: 1. Juli 1975, Bände 1 – 2
+[DARIN] ID 2835 VII.12.B.:21.1.3.60. Darin 1: 28. Mai 1978, Bände 1 – 2
+[DARIN] ID 2838 VII.12.B.:21.1.3.63. Darin 1: 26. Juni 1981, Bände 2
+[DARIN] ID 2999 VII.12.B.:22.1.2.30. Darin 9: 2. Zürcher Ballett-Tage
+[DARIN] ID 3006 VII.12.B.:22.3.1. Darin 22: 101. Spielzeit des Stadttheaters Zürich
+[DOPPELT] ID 4138 VII.12.B.:23.2.1. Teil 5 S.492 – Teil 1 ID 4134 S.490 | D Porträts und einzelne Darstellerfotografien
+[DOPPELT] ID 4139 VII.12.B.:23.2.1. Teil 6 S.492 – Teil 1 ID 4134 S.490 | E Porträts und einzelne Darstellerfotografien
+[DOPPELT] ID 4140 VII.12.B.:23.2.1. Teil 7 S.492 – Teil 1 ID 4134 S.490 | Fa – Fi Porträts und einzelne Darstellerfotografien
+[DOPPELT] ID 4141 VII.12.B.:23.2.1. Teil 8 S.493 – Teil 1 ID 4134 S.490 | G Porträts und einzelne Darstellerfotografien
+[DOPPELT] ID 4142 VII.12.B.:23.2.1. Teil 9 S.493 – Teil 1 ID 4134 S.490 | H Porträts und einzelne Darstellerfotografien
+[DOPPELT] ID 4143 VII.12.B.:23.2.1. Teil 10 S.494 – Teil 1 ID 4134 S.490 | I Porträts und einzelne Darstellerfotografien
+[DOPPELT] ID 4144 VII.12.B.:23.2.1. Teil 11 S.494 – Teil 1 ID 4134 S.490 | J Porträts und einzelne Darstellerfotografien
+[DOPPELT] ID 4145 VII.12.B.:23.2.1. Teil 12 S.494 – Teil 1 ID 4134 S.490 | K Porträts und einzelne Darstellerfotografien
+[DOPPELT] ID 4146 VII.12.B.:23.2.1. Teil 13 S.495 – Teil 1 ID 4134 S.490 | L Porträts und einzelne Darstellerfotografien
+[DOPPELT] ID 4147 VII.12.B.:23.2.1. Teil 14 S.495 – Teil 1 ID 4134 S.490 | M Porträts und einzelne Darstellerfotografien
+[DOPPELT] ID 4148 VII.12.B.:23.2.1. Teil 15 S.496 – Teil 1 ID 4134 S.490 | N Porträts und einzelne Darstellerfotografien
+[DOPPELT] ID 4149 VII.12.B.:23.2.1. Teil 16 S.496 – Teil 1 ID 4134 S.490 | O Porträts und einzelne Darstellerfotografien
+[DOPPELT] ID 4150 VII.12.B.:23.2.1. Teil 17 S.497 – Teil 1 ID 4134 S.490 | P Porträts und einzelne Darstellerfotografien
+[DOPPELT] ID 4151 VII.12.B.:23.2.1. Teil 18 S.497 – Teil 1 ID 4134 S.490 | Q Porträts und einzelne Darstellerfotografien
+[DOPPELT] ID 4152 VII.12.B.:23.2.1. Teil 19 S.497 – Teil 1 ID 4134 S.490 | R Porträts und einzelne Darstellerfotografien
+[DOPPELT] ID 4153 VII.12.B.:23.2.1. Teil 20 S.498 – Teil 1 ID 4134 S.490 | S Porträts und einzelne Darstellerfotografien
+[DOPPELT] ID 4154 VII.12.B.:23.2.1. Teil 21 S.498 – Teil 1 ID 4134 S.490 | Sch Porträts und einzelne Darstellerfotografien
+[DOPPELT] ID 4155 VII.12.B.:23.2.1. Teil 22 S.499 – Teil 1 ID 4134 S.490 | St Porträts und einzelne Darstellerfotografien
+[DOPPELT] ID 4156 VII.12.B.:23.2.1. Teil 23 S.499 – Teil 1 ID 4134 S.490 | T Porträts und einzelne Darstellerfotografien
+[DOPPELT] ID 4157 VII.12.B.:23.2.1. Teil 24 S.499 – Teil 1 ID 4134 S.490 | U Porträts und einzelne Darstellerfotografien
+[DOPPELT] ID 4158 VII.12.B.:23.2.1. Teil 25 S.499 – Teil 1 ID 4134 S.490 | V Porträts und einzelne Darstellerfotografien
+[DOPPELT] ID 4159 VII.12.B.:23.2.1. Teil 26 S.500 – Teil 1 ID 4134 S.490 | W Porträts und einzelne Darstellerfotografien
+[DOPPELT] ID 4160 VII.12.B.:23.2.1. Teil 27 S.500 – Teil 1 ID 4134 S.490 | Y Porträts und einzelne Darstellerfotografien Doris Young
+[DOPPELT] ID 4161 VII.12.B.:23.2.1. Teil 28 S.500 – Teil 1 ID 4134 S.490 | Z Porträts und einzelne Darstellerfotografien
+[DOPPELT] ID 4162 VII.12.B.:23.2.1. Teil 29 S.500 – Teil 1 ID 4134 S.490 | Porträts und einzelne Darstellerfotografien in Kleinformat, 
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 5: 1. Guido Thielscher (Thalia-Theater), Zur freundlichen Erinnerung G. Thielscher, 12. Dez. 1902
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 6: 2. Georg Engels, Berlin, 30. Jan. 1906
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 7: 3. Adalbert Matkowsky als Siegfried in „Nibelungen“, Foto: Becker & Maass
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 8: 4. Enrico Caruso, Berlin 1907, Foto: Mertens
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 9: 5. Enrico Caruso als Don José in „Carmen“
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 10: 6. Kurt Sommer, Wiesbaden-Berlin 1906
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 11: 7. A. Scoti, Berlin 1907
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 12: 8. Hermann Bachmann
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 13: 9. Baptist Hoffmann als Telramund, Foto: E. Biber, Berlin / Hamburg
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 14: 10. Marcella Sembrich als „Lakmé“, Berlin Juni 1909, Foto: E. Biber, Berlin / Hamburg
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 15: 11. Putnam Griswold, Berlin 1907
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 16: 12. Joseph Nesper
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 17: 13. Josephine Reinl als Vitella in Titus, Berlin
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 18: 14. Franz Navál, Foto: Margarete Szurgast
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 19: 15. Frau von Scheele-Müller, Foto: C. Pundsack, Bremen
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 20: 16. Camilla Eibenschütz als Titania im “Sommernachtstraum”, Foto: Becker & Maass
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 21: 17. Julius Liban als Sichel in "Doktor & Apotheker"
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 22: 18. Francis Maklennan und Florence Easton in "Madame Butterfly", yours very truly, Florence Easton
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 23: 19. Hedwig Kauffmann-Franzillo als Ophelia; Zur persönlichen Erinnerung Hedwig Franzillo-Kauffmann, 
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 24: 20. Annemarie Steinsieck in „Wie die Alten sungen“, Foto: Albert Meyer
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 25: 21. Waldemar Stägemann in „Die Rabensteinerin“; Zur Erinnerung Waldemar Stägemann, Foto: Erwin Raupp
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 26: 22. Eduard von Winterstein, Berlin, Oktober 1909
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 27: 23. Geraldine Farrar als Margarethe
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 28: 24. Hella Eschborn
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 29: 25. Felicitas Gerigioli als Lola Cornero in „Der Weg zur Hölle“, Foto: Zander & Lapisch
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 30: 26. Frauenfoto, Name unlesbar
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 31: 27. Chrysis von Sirenus
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 32: 28. Hamlet mit Vollmer, Pohl, Lindner, Werrack, Mathowsky, Geisendörfer (Foto: Zander und Lapisch)
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 33: 29. Teresina Sommerstorff-Gessner, Berlin 1909, Foto: Margarete Szurgast
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 34: 30. Otto Sommerstorff als Glockengiesser in „Die versunkene Glocke“, Berlin 1907
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 35: 31. Hermann Geisendörfer als Clavigo, Foto: Albert Meyer, Autogramm: Julius Geisendörfer
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 36: 32. Emilie Herzog: Zur persönlichen Erinnerung, Emilie Herzog, Berlin 1909
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 37: 33. Camilla Eibenschütz in «Romeo & Julia», Spruch auf Karte: «Gefühl, an Inhalt reicher als an Wort
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 38: 34. Frau Waldegg, Foto: Zander & Labisch
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 39: 35. Anna Pawlowa
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 40: 36. Karl Nebe als Leporello im «Don Juan», Berlin im März 1907 bei Tag und Nacht
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 41: 37. Max Grube als König Lear
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 42: 38. Wilhelm Grüning in «Tristan und Isolde», 1906
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 43: 39. Melanie Lucia
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 44: 40. Rudolf Christians al Don Carlos, 1905
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 45: 41. Franz Naval als Romeo
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 46: 42. Rudolf Berger, 1907 (Foto: Karl Kleitsch)
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 47: 43. Ein Kaisertag in Nürnberg mit Arnstädt, Willig, Berlin 1906
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 48: 44. Melanie Lucia, Elfriede Pfaffenberg
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 49: 45. Baptist Hoffmann als Fliegender Holländer
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 50: 46. Hanna Arnstädt, Berlin 1907
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 51: 47. Melanie Lucia
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 52: 48. Wilhelm Grüning als Lohengrin, 1902
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 53: 49. Maximilian Werrack als Pylades in «Iphigenie»
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 54: 50. Rudolf Christians als Egmont, Foto: Heinrich Jäger, Düsseldorf
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 55: 51. Oscar Kessler als Illo in «Wallensteins Tod», Foto: Zander und Labisch
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 56: 52. Robert Philipp als Don José in «Carmen», Zur freundlichen Erinnerung, Robert Philipp
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 57: 53. Hella Eschborn, Carl Struve, Hanna Arnstädt
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 58: 54. Frances Rose als Salome, Foto: Becker & Maass
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 59: 55. Hermann Böttcher als Edelmann in «Florio und Flavio»
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 60: 56. Amanda Lindner als Königin Elisabeth
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 61: 57. Emmy Destinn als Madeleine in «André Chénier», 1907
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 62: 58. Rudolf Berger, 1907
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 63: 59. Hanna Arnstädt, 1907
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 64: 60. Thila Plaichinger als Brunhilde, Berlin
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 65: 61. Alice von Arnauld in «Hamlet», Foto: Becker & Maass
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 66: 62. Sophie Wachner als Ophelia in «Hamlet», Berlin 1908, Foto: E. Biber, Berlin-Hamburg
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 67: 63. Melanie Lucia
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 68: 64. Harry Walden, Foto: E. Biber, Berlin-Hamburg
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 69: 65. Friederike Kierschner als Solotänzerin
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 70: 66. Ida Hiedler als Elisabeth, Berlin 1908
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 71: 67. Vilma von Mayburg im «Bunten Rock»
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 72: 68. Marie Götze als Orpheus, 1909
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 73: 69. Luise Willig als Monna Vanna
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 74: 70. Francis Maclennan als Don José
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 75: 71. Marie Dietrich als Prinzessin in «Das eherne Pferd von Auber», Berlin im März 1902
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 76: 72. Lina Artot de Padilla
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 77: 73. Melanie Lucia und Elfriede Pfaffenberg
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 78: 74. Franz Navàl, Foto: Zander & Labisch
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 79: 75. Amanda Lindner als Ophelia, Berlin 1907
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 80: 76. Frieda Hempel in «Der schwarze Domino»
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 81: 77. Rudolf Christians als König Heinrich V.
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 82: 78. Hermann Böttcher und Hella Eschborn in „Klein Dorrit“, 7. Dez. 1907, Foto: E. Biber, Berlin-Hamb
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 83: 79. Annemarie Steinsieck als Beatrice in «Braut von Messina», Foto: Albert Meyer
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 84: 80. Alexander Moissi als Franz Moor, Berlin im April 1909, Foto: Becker & Maass
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 85: 81. Lola Aptôt de Padilla als Ophelia
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 86: 82. Karl Nebe, Berlin, 29. Jan. 1907
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 87: 83. Hedwig Francillo-Kauffmann als Ophelia, «Zur freundlichen Erinnerung, Hedwig Francillo-Kauffmann
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 88: 84. Ernst Kraus als Siegfried
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 89: 85. Julius Lieban als Mime
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 90: 86. Ida von Schelle-Müller in «Margarete»
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 91: 87. Franz Naval in «La Bohême»
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 92: 88. Melanie Lucia: «Feststeh’n immer, stillsteh’n nimmer!»
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 93: 89. Joseph Nesper als Wilhelm Tell, 7. Oktober 1905
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 94: 90. Wilhelm Grüning als Siegfried, 1906
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 95: 91. Geraldine Farrar
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 96: 92. Baptist Hoffmann 1907, Foto: Becker & Maass
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 97: 93. Geraldine Farrar
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 98: 94. Therese Rothauser, Berlin März 1907
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 99: 95. Francis Maclennan als Siegmund
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 100: 96. Vilma von Mayburg als Prinzessin in «Johannisnacht»
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 101: 97. Marie Dietrich
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 102: 98. Friederike Kierschner als Königliche Solotänzerin
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 103: 99. Elfriede Pfaffenberg und Melanie Lucia
+[DARIN] ID 4173 VII.12.B.:23.3.6. Darin 104: 100. Alice von Arnauld als Lady Faulconbridge in «König Johann»
+[DARIN] ID 4174 VII.12.B.:23.3.7. Darin 6: 101. Teresina Gessner und Otto Sommerstorff in „Monna Vanna“, Berlin 1907
+[DARIN] ID 4174 VII.12.B.:23.3.7. Darin 7: 102. Sophie Wachner als Gretchen, Berlin 1907
+[DARIN] ID 4174 VII.12.B.:23.3.7. Darin 8: 103. Sophie Wachner als Georg in «Götz von Berlichingen», Berlin 1907, Foto: E. Biber, Berlin-Hambur
+[DARIN] ID 4174 VII.12.B.:23.3.7. Darin 9: 104. Marie Götze
+[DARIN] ID 4174 VII.12.B.:23.3.7. Darin 10: 105. Hansi Arnstädt 1906
+[DARIN] ID 4174 VII.12.B.:23.3.7. Darin 11: 106. Hanna Arnstädt 1907
+[DARIN] ID 4174 VII.12.B.:23.3.7. Darin 12: 107. Rudolf Berger als Telramund 1907
+[DARIN] ID 4174 VII.12.B.:23.3.7. Darin 13: 108. Adalbert Matkowsky in «Leben ein Traum»
+[DARIN] ID 4174 VII.12.B.:23.3.7. Darin 14: 109. Adalbert Matkowsky als Orest
+[DARIN] ID 4174 VII.12.B.:23.3.7. Darin 15: 110. Adalbert Matkowsky als Mark Anton in «Julius Cäsar»
+[DARIN] ID 4174 VII.12.B.:23.3.7. Darin 16: 111. Adalbert Matkowsky als Jaromir in «Der Ahnfrau»
+[DARIN] ID 4174 VII.12.B.:23.3.7. Darin 17: 112. Waldemar Stägemann als Prinz von Homburg, Foto: E. Biber, Berlin-Hamburg
+[DARIN] ID 4174 VII.12.B.:23.3.7. Darin 18: 113. Waldemar Stägemann als König Heinrich V., Foto 1: E. Biber, Berlin-Hamburg
+[DARIN] ID 4174 VII.12.B.:23.3.7. Darin 19: 114. Waldemar Stägemann als König Heinrich V., Foto 2: E. Biber, Berlin-Hamburg
+[DARIN] ID 4174 VII.12.B.:23.3.7. Darin 20: 115. Robert Philipp, Zur freundlichen Erinnerung, Robert Phlipp, 7. Okt. 1906
+[DARIN] ID 4174 VII.12.B.:23.3.7. Darin 21: 116. Geraldine Farrar in «Traviata»
+[DARIN] ID 4174 VII.12.B.:23.3.7. Darin 22: 117. Geraldine Farrar in «Der Schwarze Domino»
+[DARIN] ID 4174 VII.12.B.:23.3.7. Darin 23: 118. Otto Sommerstorff in «Der Meister Palmyra», Berlin 1907
+[DARIN] ID 4174 VII.12.B.:23.3.7. Darin 24: 119. Otto Sommerstorff als Hamlet, Berlin 1907
+[DARIN] ID 4174 VII.12.B.:23.3.7. Darin 25: 120. Maximilian Werrack als Pyladeg in «Iphigenie» 1907, Foto: Becker & Maass
+[DARIN] ID 4174 VII.12.B.:23.3.7. Darin 26: 121. Maximilian Werrack als Bellmaus in «Die Journalisten» 1907, Foto: Becker & Maass
+[DARIN] ID 4174 VII.12.B.:23.3.7. Darin 27: 122. Ernst Kraus als Siegfried
+[DARIN] ID 4174 VII.12.B.:23.3.7. Darin 28: 123. Frieda Hempel als Susanne in «Figaros Hochzeit»
+[DARIN] ID 4174 VII.12.B.:23.3.7. Darin 29: 124. Alexander Moissi als Romeo in «Romeo & Julia», Foto: F. O Lundt
+[DARIN] ID 4174 VII.12.B.:23.3.7. Darin 30: 125. Adalbert Matkowsky als Hamlet
+[DARIN] ID 4174 VII.12.B.:23.3.7. Darin 31: 126. Adalbert Matkowsky (lose beiliegend)
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 12: 1. Porträt auf dem Deckel, hinter Glas [unbezeichnet vielleicht Albert Eng]
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 13: 2. Albert, 1873 [wohl Albert Eng]
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 14: 3. Lieschen (kein Bild vorhanden)
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 15: 4. Das Philippine Welser Haus (in Augsburg; Philippine Welser [1527 – 1580])
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 16: 5. Das Fuggerhaus (in Augsburg), 1874
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 17: 6. Fränzchen, 9 Jahre alt, 1875 (kein Bild vorhanden)
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 18: 7. Schriftsetzer Noth, Aschaffenburg [Seinem Freunde A. Aeng zur freundlichen Erinnerung an Aschafff
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 19: 8. Liebh. Schulze, Heldenv. Ditten, Komiker Eng, 1872 [«Das liederliche Kleeblatt: Schulze, Gustav, 
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 20: 9. Sp. [Schauspieler] Breis, 1881
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 21: 10. Liebhaber Eigner, Mainz, 1875 [«Seinem lieben Collegen u. Freund Alb. Eng zur freundschaftlichen
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 22: 11. Liebhaber Damerow Feldkirch [«Meinem Collegen Eng nebst Familie zur frdl. Erinnerung nebst Prosi
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 23: 12. Liebhaber Brüning, Bern, 1870
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 24: 13. Windecker, Wilhelm, Mainz, 1876 [«Meinem lieben Freunde Eng zur recht häufigen freundschaftliche
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 25: 14. J. Liebhaber Becker, Heidelberg, 1862 [Bäcker]
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 26: 15. Lambrecht, Tenorbuffo, Zürich [«Meinem alten Freund Eng zur fr. Erinnerung von J. Lamprecht, Zür
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 27: 16. Sekretair Lackner u. Frau, Augsburg, 1874
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 28: 17. Ingenieur Kaupert, 1874 [«Ingenieur Friedr. Kaupert, Meinem lieben Freunde Albert Eng zur freund
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 29: 18. Schausp. Wilhelm Bittler, Offenburg, 1867
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 30: 19. Lippe, Bassbuffo, 1874 [Augsburg]
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 31: 20. Kapellmstr. Leideritz, St. Gallen [«Meinem lieben Eng zur fr. Erinnerung, Leideritz, Kapellmeist
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 32: 21. Müller-Gutes [?], …, Luzern, 1871
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 33: 22. Charaktersp. Schreyer, Offenburg, 1866 [wohl Adalbert Schreyer 1821 – 1880, Sänger; «z. fr. E. m
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 34: 23. Bassbuffo Hausmann, Bern, 1870 [«Unsere Freundschaft sei Deinem Namen gleich eng, Bern, 3. 8. 71
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 35: 24. Charactersp. [wohl: Charakterschauspieler] Beyer, Offenburg, 1866 [Beier im May 1866]
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 36: 25. Frl. Wendt Soubr. und Pach, Liebhaber, Offenburg, 1866
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 37: 26. Lehrer Zuberbühler, Herisau [auf der Rückseite auch: Sonderegger, früher Lehrer, Brauereibesitze
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 38: 27. Banquier Erzberger, Sohn [Rückseite: Erzberger, Kaufmann, Sohn des † Banquiers Erzberger in Augs
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 39: 28. Charactersp. Schmehl, Offenburg, 1866
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 40: 29. Oskar Schmidt, Zürich, 1877
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 41: 30. [Eduard] Rederer Kfm., München, Augsburg, 1874
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 42: 31. Jug. Kom[iker] Erl, [München, in] Chur, 1875
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 43: 32. Nelke, Schausp., Appenzell
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 44: 33. von Sonnenbrodt, Fähndrich, Cassel, 1870
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 45: 34. J ug. Kom. Ellwanger, Offenburg, 1866
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 46: 35. Komiker Rosenberg, St. Gallen, 1871
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 47: 36. Schausp. Jaeppelt, Bern, 1870 [«Zur freundlichen Erinnerung an: Richard Jaeppelt, Bern, 1870/71»
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 48: 37. Charactersp. Siegesmund [sic], Feldkirch, 1876 [«Meinem liebenswürdigen Regisseur u. Collegen zu
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 49: 38. Lüben, Baritonist, St. Gallen, 1871
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 50: 39. Kohlschmidt, Friseur, Bozen, 1874 [Kohlschmidt, Friseur in Bozen, Unter den Lauben]
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 51: 40. [Anna 1 ½ Jahr alt; es ist folgendes Porträt eingesteckt:] Schsp. Amann in Ragaz, 1877
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 52: 41. Candern [?], 1869 [keine Beschriftung auf der Rückseite]
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 53: 42. Sommer, Schreiblehrer, Zürich, 1878 [Anton Sommer]
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 54: 43. Gerber August Goos, Heidelberg, 1862 [«August Gooh {sic} aus Heidelberg»]
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 55: 44. [laut Beschriftung ein 6-jähriges Kind] unbeschriftetes, in Regensburg angefertigtes Porträt
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 56: 45. Coloratursängerin Fr. Sichen, Halle 1875 [Unserem gemütlichen Collegen Eng zur freundlichen Erin
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 57: 46. Heldentenor Sichen, Halle, 1875 [«Meinem lieben guten Albert zur freundlichen Erinnerung, Halle,
+[DARIN] ID 4176 VII.12.B.:23.3.9. Darin 58: 47. [Ferdinand] Pochmann [als] König Lear, Zürich, 1878 [Seinen lieben Collegen Eng bittet um ein re
+[DOPPELT] ID 4213 VII.12.B.:23.5.2. Teil 11 S.520 – Teil 1 ID 4203 S.518 | Besetzungslisten K Die Kaiserin
+[DOPPELT] ID 4214 VII.12.B.:23.5.2. Teil 12 S.520 – Teil 1 ID 4203 S.518 | Besetzungslisten L
+[DOPPELT] ID 4215 VII.12.B.:23.5.2. Teil 13 S.520 – Teil 1 ID 4203 S.518 | Besetzungslisten M
+[DOPPELT] ID 4216 VII.12.B.:23.5.2. Teil 14 S.520 – Teil 1 ID 4203 S.518 | Besetzungslisten N
+[DOPPELT] ID 4217 VII.12.B.:23.5.2. Teil 15 S.520 – Teil 1 ID 4203 S.518 | Besetzungslisten O
+[DOPPELT] ID 4218 VII.12.B.:23.5.2. Teil 16 S.520 – Teil 1 ID 4203 S.518 | Besetzungslisten P
+[DOPPELT] ID 4219 VII.12.B.:23.5.2. Teil 17 S.520 – Teil 1 ID 4203 S.518 | Besetzungslisten R
+[DOPPELT] ID 4220 VII.12.B.:23.5.2. Teil 18 S.520 – Teil 1 ID 4203 S.518 | Besetzungslisten S
+[DOPPELT] ID 4221 VII.12.B.:23.5.2. Teil 19 S.521 – Teil 1 ID 4203 S.518 | Besetzungslisten T
+[DOPPELT] ID 4222 VII.12.B.:23.5.2. Teil 20 S.521 – Teil 1 ID 4203 S.518 | Besetzungslisten V
+[DOPPELT] ID 4223 VII.12.B.:23.5.2. Teil 21 S.521 – Teil 1 ID 4203 S.518 | Besetzungslisten W
+[DOPPELT] ID 4224 VII.12.B.:23.5.2. Teil 22 S.521 – Teil 1 ID 4203 S.518 | Besetzungslisten Z
+[DARIN] ID 4354 VII.12.B.:25.1.31. Darin 1: 1914. München
+[DARIN] ID 4460 VII.12.B.:25.1.137. Darin 1: 2. Mappe. Szenische Architekturen und Architekturphantasien (nicht vorhanden)
+[DARIN] ID 4460 VII.12.B.:25.1.137. Darin 2: 3. Mappe. Desseins / A.D. Bertoli
+[DARIN] ID 4460 VII.12.B.:25.1.137. Darin 3: 4. Mappe. Pompe funèbre de S.A.R. Charles III. duc de Lorraine
+[DARIN] ID 4460 VII.12.B.:25.1.137. Darin 4: 5. Mappe. Altvlaemisches und altniederlaendisches Theater
+[DARIN] ID 4460 VII.12.B.:25.1.137. Darin 5: 6. Mappe. Courses de testes et de bague faites par le roy
+[DARIN] ID 4460 VII.12.B.:25.1.137. Darin 6: 7. Mappe. Theater und Garten
+[DARIN] ID 4460 VII.12.B.:25.1.137. Darin 7: 8. Mappe. Groteskomödie und Stegreifstück
+[DARIN] ID 4460 VII.12.B.:25.1.137. Darin 8: 9. Mappe. Theater des Mittelalters
+[DARIN] ID 4460 VII.12.B.:25.1.137. Darin 9: 10. Mappe. Magna allegoria mortes imagines
+[DARIN] ID 4460 VII.12.B.:25.1.137. Darin 10: 11. Mappe. Feste des Sonnenkoenigs
+[DARIN] ID 4460 VII.12.B.:25.1.137. Darin 11: 12. Mappe. Wiens letzte grosse Theaterzeit
+[DOPPELT] ID 4997 VII.12.B.:27.1.4. Teil 39 S.565 – Teil 1 ID 4959 S.563 | Cavalleria rusticana, I Pagliacci
+[DOPPELT] ID 4998 VII.12.B.:27.1.4. Teil 40 S.565 – Teil 1 ID 4959 S.563 | Der Zigeunerbaron. Operette von Johann Strauss
+[DOPPELT] ID 4999 VII.12.B.:27.1.4. Teil 41 S.565 – Teil 1 ID 4959 S.563 | Melusine. Oper von Aribert Reimann
+[DOPPELT] ID 5000 VII.12.B.:27.1.4. Teil 42 S.565 – Teil 1 ID 4959 S.563 | Il Tabarro (Der Mantel)
+[DOPPELT] ID 5001 VII.12.B.:27.1.4. Teil 43 S.565 – Teil 1 ID 4959 S.563 | Der Sturm. Ein Zauber-Lustspiel von Frank Martin
+[DOPPELT] ID 5002 VII.12.B.:27.1.4. Teil 44 S.565 – Teil 1 ID 4959 S.563 | Schwanensee. Ballett von Peter I. Tschaikowsky
+[DOPPELT] ID 5003 VII.12.B.:27.1.4. Teil 45 S.565 – Teil 1 ID 4959 S.563 | Otello
+[DOPPELT] ID 5004 VII.12.B.:27.1.4. Teil 46 S.565 – Teil 1 ID 4959 S.563 | La fille mal gardée. Ballett
+[DOPPELT] ID 5005 VII.12.B.:27.1.4. Teil 47 S.565 – Teil 1 ID 4959 S.563 | Max und Moritz. Tanzspiel mit Gesang
+[DOPPELT] ID 5006 VII.12.B.:27.1.4. Teil 48 S.565 – Teil 1 ID 4959 S.563 | Die Banditen (Les Brigands)
+[DOPPELT] ID 5007 VII.12.B.:27.1.4. Teil 49 S.565 – Teil 1 ID 4959 S.563 | Pique Dame. Oper von Peter I. Tschaikowsky
+[DOPPELT] ID 5008 VII.12.B.:27.1.4. Teil 50 S.565 – Teil 1 ID 4959 S.563 | Ballett. Satire, Konzert für Orchester, Der Feuervogel
+[DOPPELT] ID 5009 VII.12.B.:27.1.4. Teil 51 S.565 – Teil 1 ID 4959 S.563 | Internationale Junifestwochen (Spielplan)
+[DOPPELT] ID 5010 VII.12.B.:27.1.4. Teil 52 S.565 – Teil 1 ID 4959 S.563 | Internationale Junifestwochen (Spielplan)
+[DOPPELT] ID 5011 VII.12.B.:27.1.4. Teil 53 S.565 – Teil 1 ID 4959 S.563 | Monteverdi. L'Orfeo
+[DOPPELT] ID 5012 VII.12.B.:27.1.4. Teil 54 S.565 – Teil 1 ID 4959 S.563 | La fedeltà premiata (Die belohnte Treue)
+[DOPPELT] ID 5013 VII.12.B.:27.1.4. Teil 55 S.565 – Teil 1 ID 4959 S.563 | Ein wahrer Held
+[DOPPELT] ID 5014 VII.12.B.:27.1.4. Teil 56 S.565 – Teil 1 ID 4959 S.563 | Ballett. Les Biches
+[DOPPELT] ID 5015 VII.12.B.:27.1.4. Teil 57 S.565 – Teil 1 ID 4959 S.563 | M. L. Neuinszenierung in italienischer Sprache
+[DOPPELT] ID 5016 VII.12.B.:27.1.4. Teil 58 S.565 – Teil 1 ID 4959 S.563 | Junifestwochen 76 (Spielplan)
+[DOPPELT] ID 5017 VII.12.B.:27.1.4. Teil 59 S.565 – Teil 1 ID 4959 S.563 | Aida, 11. – 26. Januar '83. Opernhaus im Hallenstadion Züric
+[DOPPELT] ID 5018 VII.12.B.:27.1.4. Teil 60 S.565 – Teil 1 ID 4959 S.563 | Aufhänge-Schild: "Nach den Vorstellungen Strassenbahnwagen n
+[DOPPELT] ID 5019 VII.12.B.:27.1.4. Teil 61 S.565 – Teil 1 ID 4959 S.563 | Aufstieg und Fall der Stadt Mahagonny. Kurt Weill, Bertolt B
+[DOPPELT] ID 5020 VII.12.B.:27.1.4. Teil 62 S.565 – Teil 1 ID 4959 S.563 | diverse Spielpläne
+[DOPPELT] ID 5043 VII.12.B.:27.1.5. Teil 23 S.567 – Teil 1 ID 5021 S.565 | Ballettabend 3: Uraufführung "Toccata", Erstaufführung "Sept
+[DOPPELT] ID 5044 VII.12.B.:27.1.5. Teil 24 S.567 – Teil 1 ID 5021 S.565 | Die kleine Niederdorf-Oper, Regie Franz Matter. Corso-Theate
+[DOPPELT] ID 5045 VII.12.B.:27.1.5. Teil 25 S.567 – Teil 1 ID 5021 S.565 | André Tahon's Traumwelt. Zürihorn, Zirkuszelt ab 10. Juni 19
+[DOPPELT] ID 5046 VII.12.B.:27.1.5. Teil 26 S.567 – Teil 1 ID 5021 S.565 | Summermärli, André Tahon's Kindertheater. Zirkuszelt Zürichh
+[DOPPELT] ID 5047 VII.12.B.:27.1.5. Teil 27 S.567 – Teil 1 ID 5021 S.565 | Die kleine Niederdorf-Oper, Regie Franz Matter. Corso-Theate
+[DOPPELT] ID 5048 VII.12.B.:27.1.5. Teil 28 S.567 – Teil 1 ID 5021 S.565 | Opernhaus Zürich. Direktion Christoph Groszer. Premieren Spi
+[DOPPELT] ID 5049 VII.12.B.:27.1.5. Teil 29 S.567 – Teil 1 ID 5021 S.565 | Mike Westbrook Band presents Westbrook-Rossini. Jazz und Roc
+[DOPPELT] ID 5050 VII.12.B.:27.1.5. Teil 30 S.567 – Teil 1 ID 5021 S.565 | André Tahon's Traumwelt. Corso Theater Zürich und Edi Baur P
+[DOPPELT] ID 5051 VII.12.B.:27.1.5. Teil 31 S.567 – Teil 1 ID 5021 S.565 | Duke Ellington's. Sophisticated Ladies. A Broadway Musical a
+[DOPPELT] ID 5052 VII.12.B.:27.1.5. Teil 32 S.567 – Teil 1 ID 5021 S.565 | Die kleine Niederdorf-Oper, Regie Franz Matter. Corso-Theate
+[DOPPELT] ID 5053 VII.12.B.:27.1.5. Teil 33 S.567 – Teil 1 ID 5021 S.565 | Opernhaus Zürich. Direktion Christoph Groszer. Premieren Spi
+[DOPPELT] ID 5054 VII.12.B.:27.1.5. Teil 34 S.567 – Teil 1 ID 5021 S.565 | Bettina Falcone. Musikalische Traummalerei. 27. Nov. 1989 bi
+[DOPPELT] ID 5055 VII.12.B.:27.1.5. Teil 35 S.567 – Teil 1 ID 5021 S.565 | Dialekt-Kindermusical nach Carlo Collodi von Jörg Schneider,
+[DOPPELT] ID 5056 VII.12.B.:27.1.5. Teil 36 S.567 – Teil 1 ID 5021 S.565 | Opernhaus Zürich. Direktion Christoph Groszer. Premieren Spi
+[DOPPELT] ID 5057 VII.12.B.:27.1.5. Teil 37 S.567 – Teil 1 ID 5021 S.565 | Aktuell im Opernhaus Zürich. Intendanz Alexander Pereira. Pr
+[DOPPELT] ID 5058 VII.12.B.:27.1.5. Teil 38 S.567 – Teil 1 ID 5021 S.565 | Opernhaus Zürich. The Herbie Hancock Quartet
+[DOPPELT] ID 5059 VII.12.B.:27.1.5. Teil 39 S.567 – Teil 1 ID 5021 S.565 | Stadttheater Zürich. Wilhelm Furtwängler dirigiert zwei Fest
+[DOPPELT] ID 5060 VII.12.B.:27.1.5. Teil 40 S.567 – Teil 1 ID 5021 S.565 | Die kleine Niederdorf-Oper, Regie Jörg Schneider, eine Baur-
+[DOPPELT] ID 5061 VII.12.B.:27.1.5. Teil 41 S.567 – Teil 1 ID 5021 S.565 | West Side Story, Empire State Building, Kopie des Plakates
+[DOPPELT] ID 5062 VII.12.B.:27.1.5. Teil 42 S.567 – Teil 1 ID 5021 S.565 | Cabaret. Vera Furrer, Alfred Bruggmann: Alles Bluff!
+[DOPPELT] ID 5063 VII.12.B.:27.1.5. Teil 43 S.568 – Teil 1 ID 5021 S.565 | Vera Furrer und Alfred Bruggmann vom Cabaret Rüeblisaft: Spa
+[DOPPELT] ID 5064 VII.12.B.:27.1.5. Teil 44 S.568 – Teil 1 ID 5021 S.565 | Cabaret. Vera Furrer, Alfred Bruggmann vom Cabaret Rüeblisaf
+[DOPPELT] ID 5065 VII.12.B.:27.1.5. Teil 45 S.568 – Teil 1 ID 5021 S.565 | Das Cabaret Rüebliland offeriert Ihnen "Früsche Rüeblisaft"
+[DOPPELT] ID 5066 VII.12.B.:27.1.5. Teil 46 S.568 – Teil 1 ID 5021 S.565 | Cabaret Rüeblisaft. Situationen, Theater am Hechtplatz
+[DOPPELT] ID 5067 VII.12.B.:27.1.5. Teil 47 S.568 – Teil 1 ID 5021 S.565 | Opernhaus Zürich. Harry Belafonte
+[DOPPELT] ID 5068 VII.12.B.:27.1.5. Teil 48 S.568 – Teil 1 ID 5021 S.565 | Opernhaus Zürich. Another night at the opera
+[DOPPELT] ID 5069 VII.12.B.:27.1.5. Teil 49 S.568 – Teil 1 ID 5021 S.565 | Opernhaus Studiobühne. Der Kaiser von Atlantis, Hin und zurü
+[DOPPELT] ID 5070 VII.12.B.:27.1.5. Teil 50 S.568 – Teil 1 ID 5021 S.565 | Zürcher Märchenbühne im Theater am Hechtplatz. Neues vom Räu
+[DOPPELT] ID 5071 VII.12.B.:27.1.5. Teil 51 S.568 – Teil 1 ID 5021 S.565 | Theater am Hechtplatz. Die Zürcher Märchenbühne, Leitung von
+[DOPPELT] ID 5072 VII.12.B.:27.1.5. Teil 52 S.568 – Teil 1 ID 5021 S.565 | Gesucht wird Räuber Hotzenplotz
+[DOPPELT] ID 5073 VII.12.B.:27.1.5. Teil 53 S.568 – Teil 1 ID 5021 S.565 | Rumpelstilzchen
+[DOPPELT] ID 5074 VII.12.B.:27.1.5. Teil 54 S.568 – Teil 1 ID 5021 S.565 | Das Zirkus Abenteuer oder Der gestohlene Kater. Theater am H
+[DOPPELT] ID 5075 VII.12.B.:27.1.5. Teil 55 S.568 – Teil 1 ID 5021 S.565 | Dornröschen, Zürcher Märchenbühne, Leitung Ines Torelli. The
+[DOPPELT] ID 5076 VII.12.B.:27.1.5. Teil 56 S.568 – Teil 1 ID 5021 S.565 | Der gestiefelte Kater. Zürcher Märchenbühne im Theater am He
+[DOPPELT] ID 5077 VII.12.B.:27.1.5. Teil 57 S.568 – Teil 1 ID 5021 S.565 | Der Räuber Hotzenplotz. Theater am Hechtplatz, Zürcher Märch
+[DOPPELT] ID 5078 VII.12.B.:27.1.5. Teil 58 S.568 – Teil 1 ID 5021 S.565 | Altmodische Komödie von Alexej Arbusow. Theater am Hechtplat
+[DOPPELT] ID 5079 VII.12.B.:27.1.5. Teil 59 S.568 – Teil 1 ID 5021 S.565 | Dornröschen. 20. Jahre Zürcher-Märchenbühne, Leitung Edi Bau
+[DOPPELT] ID 5080 VII.12.B.:27.1.5. Teil 60 S.568 – Teil 1 ID 5021 S.565 | Pfyfe Max, Zeitgemässes Kinder- und Jugendtheater. Theater a
+[DOPPELT] ID 5081 VII.12.B.:27.1.5. Teil 61 S.568 – Teil 1 ID 5021 S.565 | Mademoiselle Pépsi, Lustspiel von Pierrette Bruno. Bernhard-
+[DOPPELT] ID 5082 VII.12.B.:27.1.5. Teil 62 S.568 – Teil 1 ID 5021 S.565 | Quartett für Schwindler, Produktion von Edi Baur. Theater am
+[DOPPELT] ID 5083 VII.12.B.:27.1.5. Teil 63 S.568 – Teil 1 ID 5021 S.565 | Das Schwarze Theater und Ines Torelli: Peter und der Wolf, G
+[DOPPELT] ID 5084 VII.12.B.:27.1.5. Teil 64 S.568 – Teil 1 ID 5021 S.565 | Frau Holle, Zürcher Märchenbühne, Kinder Zeichenwettbewerb. 
+[DOPPELT] ID 5085 VII.12.B.:27.1.5. Teil 65 S.568 – Teil 1 ID 5021 S.565 | Rumpelstilzchen, Zürcher Märchenbühne, Leitung Ines Torelli,
+[DOPPELT] ID 5086 VII.12.B.:27.1.5. Teil 66 S.569 – Teil 1 ID 5021 S.565 | Das tapfere Schneiderlein, Zürcher Märchenbühne, Kinder-Zeic
+[DOPPELT] ID 5087 VII.12.B.:27.1.5. Teil 67 S.569 – Teil 1 ID 5021 S.565 | Golden Girl, Musical von Hans Gmür und Karl Suter. Theater a
+[DOPPELT] ID 5088 VII.12.B.:27.1.5. Teil 68 S.569 – Teil 1 ID 5021 S.565 | Seltsames Paar, Ruedi Walter und Peter W. Staub. Bernhard-Th
+[DOPPELT] ID 5089 VII.12.B.:27.1.5. Teil 69 S.569 – Teil 1 ID 5021 S.565 | Walter Roderer: Der Mustergatte
+[DOPPELT] ID 5090 VII.12.B.:27.1.5. Teil 70 S.569 – Teil 1 ID 5021 S.565 | Pfui Martina, Musical-Burleske von Hans Gmür, Produktion Edi
+[DOPPELT] ID 5091 VII.12.B.:27.1.5. Teil 71 S.569 – Teil 1 ID 5021 S.565 | Die kleine Hexe. Es Märli vom Otfried Preussler zum erschte 
+[DOPPELT] ID 5092 VII.12.B.:27.1.5. Teil 72 S.569 – Teil 1 ID 5021 S.565 | Bibi-Balu, ein Gaunermusical von Hans Gmür und Karl Suter, e
+[DOPPELT] ID 5093 VII.12.B.:27.1.5. Teil 73 S.569 – Teil 1 ID 5021 S.565 | Concentus musicus Wien. Das alte Werk, Telefunken
+[HINWEIS] ID 5096 VII.12.B.:28.1.1.3. S.562 | Übergeordnete Signatur 28.1.1. fehlt im Findmittel; eingehängt unter 28.
+[HINWEIS] ID 5107 VII.12.B.:29.1.10. S.570 | Nummerierung springt: nach 8 folgt 10.
+[HINWEIS] ID 5124 VII.12.B.:29.2.9. S.570 | Nummerierung beginnt bei 9.
+[DOPPELT] ID 5147 VII.12.B.:30.2.1. Teil 18 S.573 – Teil 1 ID 5130 S.571 | Das schlaue Füchslein ab 17. Dezember 1988 (Plakat)
+[DOPPELT] ID 5148 VII.12.B.:30.2.1. Teil 19 S.573 – Teil 1 ID 5130 S.571 | Romeo und Julia ab 18. Dezember 1988 (Plakat)
+[DOPPELT] ID 5149 VII.12.B.:30.2.1. Teil 20 S.573 – Teil 1 ID 5130 S.571 | Romeo und Julia ab 4. März 1989 (Plakat)
+[DOPPELT] ID 5150 VII.12.B.:30.2.1. Teil 21 S.573 – Teil 1 ID 5130 S.571 | Opernhaus, Studio-Bühne. Die heimliche Ehe, eine Produktion 
+[DOPPELT] ID 5151 VII.12.B.:30.2.1. Teil 22 S.573 – Teil 1 ID 5130 S.571 | Opernhaus Zürich. Nabucco, Hallenstadion Zürich
+[DOPPELT] ID 5152 VII.12.B.:30.2.1. Teil 23 S.573 – Teil 1 ID 5130 S.571 | Warum an den Festtagen nicht einmal ins Opernhaus? Spielplan
+[DOPPELT] ID 5153 VII.12.B.:30.2.1. Teil 24 S.573 – Teil 1 ID 5130 S.571 | Die Schöpfung, Oratorium von Joseph Haydn, Choreographie von
+[DOPPELT] ID 5154 VII.12.B.:30.2.1. Teil 25 S.573 – Teil 1 ID 5130 S.571 | La Clemenza di Tito, Nikolaus Harnoncourt dirigiert Mozart's
+[DOPPELT] ID 5155 VII.12.B.:30.2.1. Teil 26 S.573 – Teil 1 ID 5130 S.571 | Saison-Spielplan des Opernhauses mit Aufführungs-Fotos, Sept
+[DOPPELT] ID 5156 VII.12.B.:30.2.1. Teil 27 S.573 – Teil 1 ID 5130 S.571 | Spielplan vom März 1992 (Plakat mit Aufführungsfoto "Le Gran
+[DOPPELT] ID 5206 VII.12.B.:30.2.2. Teil 50 S.575 – Teil 1 ID 5157 S.573 | Werther
+[DOPPELT] ID 5207 VII.12.B.:30.2.2. Teil 51 S.575 – Teil 1 ID 5157 S.573 | Jakob Lenz im Stadthof 11
+[DOPPELT] ID 5208 VII.12.B.:30.2.2. Teil 52 S.575 – Teil 1 ID 5157 S.573 | Don Pasquale
+[DOPPELT] ID 5209 VII.12.B.:30.2.2. Teil 53 S.575 – Teil 1 ID 5157 S.573 | Jean Pierre Ponnelle am Opernhaus
+[DOPPELT] ID 5210 VII.12.B.:30.2.2. Teil 54 S.575 – Teil 1 ID 5157 S.573 | Wozzeck
+[DOPPELT] ID 5211 VII.12.B.:30.2.2. Teil 55 S.575 – Teil 1 ID 5157 S.573 | Diverse Bilder des Fotografen Christian Altorfer (Fotos von 
+[DOPPELT] ID 5212 VII.12.B.:30.2.2. Teil 56 S.575 – Teil 1 ID 5157 S.573 | Luisa Miller
+[DOPPELT] ID 5213 VII.12.B.:30.2.2. Teil 57 S.575 – Teil 1 ID 5157 S.573 | Fledermaus
+[DOPPELT] ID 5214 VII.12.B.:30.2.2. Teil 58 S.575 – Teil 1 ID 5157 S.573 | Les Contes d'Hoffmann, Gastspiel Alfredo Kraus
+[DOPPELT] ID 5215 VII.12.B.:30.2.2. Teil 59 S.575 – Teil 1 ID 5157 S.573 | Opernhaus Zürich. Hans Heiling
+[DOPPELT] ID 5216 VII.12.B.:30.2.2. Teil 60 S.575 – Teil 1 ID 5157 S.573 | Opernhaus Zürich. Wir gratulieren unserem Maestro Nello Sant
+[DOPPELT] ID 5217 VII.12.B.:30.2.2. Teil 61 S.575 – Teil 1 ID 5157 S.573 | Idomeneo
+[DOPPELT] ID 5218 VII.12.B.:30.2.2. Teil 62 S.575 – Teil 1 ID 5157 S.573 | Die Zauberorgel
+[DOPPELT] ID 5219 VII.12.B.:30.2.2. Teil 63 S.575 – Teil 1 ID 5157 S.573 | S brav Tüüfeli
+[DOPPELT] ID 5220 VII.12.B.:30.2.2. Teil 64 S.575 – Teil 1 ID 5157 S.573 | Opernhaus im Kongresshaus, Ballett 2
+[DOPPELT] ID 5221 VII.12.B.:30.2.2. Teil 65 S.575 – Teil 1 ID 5157 S.573 | Rückkehr ins fremde Land
+[DOPPELT] ID 5222 VII.12.B.:30.2.2. Teil 66 S.575 – Teil 1 ID 5157 S.573 | Apollon Musagète
+[DOPPELT] ID 5223 VII.12.B.:30.2.2. Teil 67 S.575 – Teil 1 ID 5157 S.573 | Sonatine. Ravel, Balanchine
+[DOPPELT] ID 5224 VII.12.B.:30.2.2. Teil 68 S.575 – Teil 1 ID 5157 S.573 | Symphony in D
+[DOPPELT] ID 5225 VII.12.B.:30.2.2. Teil 69 S.575 – Teil 1 ID 5157 S.573 | Episodes
+[DOPPELT] ID 5226 VII.12.B.:30.2.2. Teil 70 S.575 – Teil 1 ID 5157 S.573 | De l'amour
+[DOPPELT] ID 5227 VII.12.B.:30.2.2. Teil 71 S.575 – Teil 1 ID 5157 S.573 | Ballett II: Variations Concertantes
+[DOPPELT] ID 5228 VII.12.B.:30.2.2. Teil 72 S.575 – Teil 1 ID 5157 S.573 | Soledad
+[DOPPELT] ID 5229 VII.12.B.:30.2.2. Teil 73 S.575 – Teil 1 ID 5157 S.573 | Ballett 3
+[DOPPELT] ID 5230 VII.12.B.:30.2.2. Teil 74 S.575 – Teil 1 ID 5157 S.573 | Johanna auf dem Scheiterhaufen
+[DOPPELT] ID 5231 VII.12.B.:30.2.2. Teil 75 S.575 – Teil 1 ID 5157 S.573 | Tristan und Isolde
+[DOPPELT] ID 5232 VII.12.B.:30.2.2. Teil 76 S.575 – Teil 1 ID 5157 S.573 | Reinhardt-Kiss
+[DOPPELT] ID 5233 VII.12.B.:30.2.2. Teil 77 S.575 – Teil 1 ID 5157 S.573 | L'Elisir d'amore
+[DOPPELT] ID 5234 VII.12.B.:30.2.2. Teil 78 S.575 – Teil 1 ID 5157 S.573 | Für Opernhaus und Bernhard-Theater am 8. Juni Ja
+[LÜCKE] 228–228 fehlen vor ID 1971 VII.12.B.:14.3.229. (Eltern 1743) S.306
+[LÜCKE] 19–19 fehlen vor ID 2573 VII.12.B.:20.1.3.20. (Eltern 2554) S.371
+[LÜCKE] 9–9 fehlen vor ID 5107 VII.12.B.:29.1.10. (Eltern 5098) S.570
+[OHNE] ID 398 P397 E5 Dossier VII.12.B.:5.2.1.3. T2 S.99 Sch.- | 1893–1909 | Korrespondenz und Akten betreffend Subventionen der Stadt Zürich
+[OHNE] ID 399 P397 E5 Dossier VII.12.B.:5.2.1.3. T3 S.100 Sch.- | 1913–1916 | Korrespondenz und Akten betreffend Subventionen der Stadt Zürich
+[OHNE] ID 400 P397 E5 Dossier VII.12.B.:5.2.1.3. T4 S.100 Sch.- | 1915–1932 | Akten zu Verträgen mit dem Stadtrat Zürich
+[OHNE] ID 401 P397 E5 Dossier VII.12.B.:5.2.1.3. T5 S.101 Sch.- | 1917–1926 | Korrespondenz und Akten betreffend Subventionen der Stadt Zürich
+[OHNE] ID 402 P397 E5 Dossier VII.12.B.:5.2.1.3. T6 S.101 Sch.- | 1918–1933 | Protokolle des Finanzvorstandes der Stadt Zürich
+[OHNE] ID 403 P397 E5 Dossier VII.12.B.:5.2.1.3. T7 S.101 Sch.- | 1918–1938 | Korrespondenz mit dem Stadtrat von Zürich
+[OHNE] ID 404 P397 E5 Dossier VII.12.B.:5.2.1.3. T8 S.101 Sch.- | 1919–1920 | Korrespondenz betreffend das Hilfskomitee für Notleidende Auslandkinder
+[OHNE] ID 405 P397 E5 Dossier VII.12.B.:5.2.1.3. T9 S.101 Sch.- | 1919–1930 | Korrespondenz betreffend den öffentlichen Verkehr: SBB und Städtische Strassenbahn, "Thea
+[OHNE] ID 406 P397 E5 Dossier VII.12.B.:5.2.1.3. T10 S.101 Sch.- | 1919–1931 | Korrespondenz mit dem Schulwesen der Stadt Zürich
+[OHNE] ID 407 P397 E5 Dossier VII.12.B.:5.2.1.3. T11 S.101 Sch.- | 1921–1928 | Korrespondenz mit dem Consulat de France à Zurich
+[OHNE] ID 408 P397 E5 Dossier VII.12.B.:5.2.1.3. T12 S.102 Sch.- | 1921–1931 | Korrespondenz mit Polizeivorstand und Stadtpolizei
+[OHNE] ID 409 P397 E5 Dossier VII.12.B.:5.2.1.3. T13 S.102 Sch.- | 1921– | Akten betreffend Neuorganisation des Stadttheaterbetriebes
+[OHNE] ID 410 P397 E5 Dossier VII.12.B.:5.2.1.3. T14 S.102 Sch.- | 1927–04.07.1928 | Korrespondenz und Akten betreffend Subventionen der Stadt Zürich
+[OHNE] ID 411 P397 E5 Dossier VII.12.B.:5.2.1.3. T15 S.102 Sch.- | 1927–1935 | Korrespondenz und Akten des Verwaltungsrates mit Behörden und Mitgliedern des Verwaltung
+[OHNE] ID 412 P397 E5 Dossier VII.12.B.:5.2.1.3. T16 S.103 Sch.- | 1928– | Korrespondenz und Akten betreffend Subventionen der Stadt Zürich
+[OHNE] ID 413 P397 E5 Dossier VII.12.B.:5.2.1.3. T17 S.103 Sch.- | 1932–1936 | Korrespondenz und Akten des Verwaltungsrates mit Behörden
+[OHNE] ID 414 P397 E5 Dossier VII.12.B.:5.2.1.3. T18 S.104 Sch.- | 1935–1938 | Korrespondenz und Akten zum Thema "Aufruf zu stärkerem Theaterbesuch"
+[OHNE] ID 415 P397 E5 Dossier VII.12.B.:5.2.1.3. T19 S.104 Sch.- | 1935–1938 | Korrespondenz und Akten betreffend Subventionen
+[OHNE] ID 416 P397 E5 Dossier VII.12.B.:5.2.1.3. T20 S.104 Sch.- | 1937–1940 | Korrespondenz und Akten betreffend Subventionen
+[OHNE] ID 417 P397 E5 Dossier VII.12.B.:5.2.1.3. T21 S.105 Sch.- | 02.07.1928–1949 | Korrespondenz und Akten betreffend Subventionen
+[OHNE] ID 418 P397 E5 Dossier VII.12.B.:5.2.1.3. T22 S.106 Sch.- | 1940–1942 | Korrespondenz und Akten betreffend Subventionen
+[OHNE] ID 419 P397 E5 Dossier VII.12.B.:5.2.1.3. T23 S.106 Sch.- | 1941–1960 | Korrespondenz und Akten betreffend Subventionen
+[OHNE] ID 420 P397 E5 Dossier VII.12.B.:5.2.1.3. T24 S.106 Sch.- | 1942–1944 | Korrespondenz mit Kanton und Stadtverwaltung betreffend verschiedene Themen mit Beilagen
+[OHNE] ID 421 P397 E5 Dossier VII.12.B.:5.2.1.3. T25 S.106 Sch.- | 12.11.1947–1960 | Korrespondenz und Akten betreffend Subventionerhöhungen
+[OHNE] ID 422 P397 E5 Dossier VII.12.B.:5.2.1.3. T26 S.107 Sch.- | 1960– | Verfügung der Feuerpolizei und Korrespondenz betreffend Rauchverbot im Stadttheater
+[OHNE] ID 423 P397 E5 Dossier VII.12.B.:5.2.1.3. T27 S.107 Sch.- | 1960–1962 | Akten betreffend Subventionseingaben
+[OHNE] ID 424 P397 E5 Dossier VII.12.B.:5.2.1.3. T28 S.107 Sch.- | 1962– | Akten betreffend Aktionskomitee „Pro Stadttheater“
+[OHNE] ID 425 P397 E5 Dossier VII.12.B.:5.2.1.3. T29 S.107 Sch.- | 1962–1968 | Korrespondenz und Akten betreffend Besoldungen und Subventionen
+[OHNE] ID 426 P397 E5 Dossier VII.12.B.:5.2.1.3. T30 S.108 Sch.- | 1963–1969 | Korrespondenz und Akten betreffend Subventionen
+[OHNE] ID 427 P397 E5 Dossier VII.12.B.:5.2.1.3. T31 S.108 Sch.- | 1964–1967 | Korrespondenz und Akten betreffend Subventionen
+[OHNE] ID 428 P397 E5 Dossier VII.12.B.:5.2.1.3. T32 S.108 Sch.- | 1975–1986 | Korrespondenz mit Behörden und Amtsstellen, Akten betreffend Subventionen, alphabetisch 
+[OHNE] ID 429 P397 E5 Dossier VII.12.B.:5.2.1.3. T33 S.109 Sch.- | 1982–1984 | Korrespondenz und Akten betreffend Subventionen
+[OHNE] ID 430 P397 E5 Dossier VII.12.B.:5.2.1.3. T34 S.109 Sch.- | 1987–1988 | Korrespondenz und Akten betreffend Subventionen
+[OHNE] ID 431 P397 E5 Dossier VII.12.B.:5.2.1.3. T35 S.109 Sch.- | 25.09.1994– | Kantonale Volksabstimmung über die Unterstützung des Opernhauses durch den Kanton (Ope
+[OHNE] ID 435 P434 E5 Dossier VII.12.B.:5.2.1.6. T2 S.110 Sch.- | 01.02.1892– | Reglement für die Abgabe von elektrischen Strom, Erläuterungen betreffend die Abgabe zu
+[OHNE] ID 436 P434 E5 Dossier VII.12.B.:5.2.1.6. T3 S.110 Sch.- | 12.04.1904–05.03.1923 | Verträge zwischen Elektrizitätswert der Stadt Zürich und Theater AG vom 12. A
+[OHNE] ID 437 P434 E5 Dossier VII.12.B.:5.2.1.6. T4 S.110 Sch.- | 1904–1915 | Korrespondenz, Berichte und Vertragsentwürfe
+[OHNE] ID 438 P434 E5 Dossier VII.12.B.:5.2.1.6. T5 S.110 Sch.- | 1907–1912 | Aufstellungen über Stromverbrauch
+[OHNE] ID 439 P434 E5 Dossier VII.12.B.:5.2.1.6. T6 S.110 Sch.- | 1917–1933 | Korrespondenz mit dem Elektrizitätswerk der Stadt Zürich
+[OHNE] ID 440 P434 E5 Dossier VII.12.B.:5.2.1.6. T7 S.110 Sch.- | 1925– | Akten betreffend Stromlieferung an das Stadttheater
+[OHNE] ID 441 P434 E5 Dossier VII.12.B.:5.2.1.6. T8 S.110 Sch.- | 1936–1946 | Akten betreffend Notbeleuchtung im Stadttheater mit Beilagen
+[OHNE] ID 445 P444 E5 Dossier VII.12.B.:5.2.2.1. T2 S.111 Sch.- | 1969–1972 | Korrespondenz mit Gemeinden betreffend Subventionen
+[OHNE] ID 446 P444 E5 Dossier VII.12.B.:5.2.2.1. T3 S.111 Sch.- | 1974–1979 | Korrespondenz mit Gemeinden betreffend Subventionen
+[OHNE] ID 485 P484 E5 Dossier VII.12.B.:5.4.3.2. T2 S.120 Sch.- | 1891–1914 | Akten über Abonnementsbedingungen
+[OHNE] ID 486 P484 E5 Dossier VII.12.B.:5.4.3.2. T3 S.120 Sch.- | 1913–1918 | Akten betreffend Billettverkauf von "Kuoni"
+[OHNE] ID 487 P484 E5 Dossier VII.12.B.:5.4.3.2. T4 S.120 Sch.- | 1917–1946 | Korrespondenz betreffend Abonnemente
+[OHNE] ID 488 P484 E5 Dossier VII.12.B.:5.4.3.2. T5 S.120 Sch.- | 1926–1931 | Akten betreffend Abonnement Theater AG / Schauspielhaus
+[OHNE] ID 489 P484 E5 Dossier VII.12.B.:5.4.3.2. T6 S.120 Sch.- | 1930–1934 | Akten betreffend Erhöhung der Einnahmen mittels Abonnemente
+[OHNE] ID 490 P484 E5 Dossier VII.12.B.:5.4.3.2. T7 S.121 Sch.- | 1935–1936 | Karten für Abonnemente, verschiedene Mitteilungen
+[OHNE] ID 491 P484 E5 Dossier VII.12.B.:5.4.3.2. T8 S.121 Sch.- | 1937– | Akten betreffend Kündigung von Abonnementen
+[OHNE] ID 492 P484 E5 Dossier VII.12.B.:5.4.3.2. T9 S.121 Sch.- | 1949–1964 | Korrespondenz und Akten betreffend Vergünstigungen für Schulen, Firmen, Vereine etc.
+[OHNE] ID 493 P484 E5 Dossier VII.12.B.:5.4.3.2. T10 S.121 Sch.- | 1953–1968 | Korrespondenz und Aktennotizen betreffend Freikarten
+[OHNE] ID 494 P484 E5 Dossier VII.12.B.:5.4.3.2. T11 S.121 Sch.- | 1959–1968 | Akten betreffend die Preiserhöhungen und Reorganisation der Billettkasse
+[OHNE] ID 495 P484 E5 Dossier VII.12.B.:5.4.3.2. T12 S.121 Sch.- | 1961– | Umfrage wegen des Abonnements
+[OHNE] ID 496 P484 E5 Dossier VII.12.B.:5.4.3.2. T13 S.121 Sch.- | 1969–1981 | Korrespondenz und Akten betreffend Abonnemente
+[OHNE] ID 497 P484 E5 Dossier VII.12.B.:5.4.3.2. T14 S.121 Sch.- | 1981–1985 | Korrespondenz und Akten betreffend Abonnemente
+[OHNE] ID 498 P484 E5 Dossier VII.12.B.:5.4.3.2. T15 S.122 Sch.- | 1984–1987 | Korrespondenz und Akten betreffend Abonnemente
+[OHNE] ID 500 P499 E5 Dossier VII.12.B.:5.4.3.3. T2 S.122 Sch.- | 1891–1892 | Kassarapporte, Stadttheater, gebunden
+[OHNE] ID 501 P499 E5 Dossier VII.12.B.:5.4.3.3. T3 S.122 Sch.- | 1892–1893 | Kassarapporte, Stadttheater, gebunden
+[OHNE] ID 502 P499 E5 Dossier VII.12.B.:5.4.3.3. T4 S.122 Sch.- | 1893–1894 | Kassarapporte, Stadttheater, gebunden
+[OHNE] ID 503 P499 E5 Dossier VII.12.B.:5.4.3.3. T5 S.122 Sch.- | 1894–1895 | Kassarapporte, Stadttheater, gebunden
+[OHNE] ID 504 P499 E5 Dossier VII.12.B.:5.4.3.3. T6 S.122 Sch.- | 1895–1896 | Kassarapporte, Stadttheater, gebunden
+[OHNE] ID 505 P499 E5 Dossier VII.12.B.:5.4.3.3. T7 S.122 Sch.- | 1896–1897 | Kassarapporte, Stadttheater, gebunden
+[OHNE] ID 506 P499 E5 Dossier VII.12.B.:5.4.3.3. T8 S.122 Sch.- | 1897–1898 | Kassarapporte, Stadttheater, gebunden
+[OHNE] ID 507 P499 E5 Dossier VII.12.B.:5.4.3.3. T9 S.122 Sch.- | 1898–1899 | Kassarapporte, Stadttheater, gebunden
+[OHNE] ID 508 P499 E5 Dossier VII.12.B.:5.4.3.3. T10 S.122 Sch.- | 1899–1900 | Kassarapporte, Stadttheater, gebunden
+[OHNE] ID 509 P499 E5 Dossier VII.12.B.:5.4.3.3. T11 S.122 Sch.- | 1900–1901 | Kassarapporte, Stadttheater, gebunden
+[OHNE] ID 510 P499 E5 Dossier VII.12.B.:5.4.3.3. T12 S.122 Sch.- | 1901–1902 | Kassarapporte, Stadttheater und Pfauentheater, gebunden
+[OHNE] ID 511 P499 E5 Dossier VII.12.B.:5.4.3.3. T13 S.122 Sch.- | 1902–1903 | Kassarapporte, Stadttheater und Pfauentheater, gebunden
+[OHNE] ID 512 P499 E5 Dossier VII.12.B.:5.4.3.3. T14 S.122 Sch.- | 1903–1904 | Kassarapporte, Stadttheater und Pfauentheater, gebunden
+[OHNE] ID 513 P499 E5 Dossier VII.12.B.:5.4.3.3. T15 S.122 Sch.- | 1904–1905 | Kassarapporte, Stadttheater und Pfauentheater, gebunden
+[OHNE] ID 514 P499 E5 Dossier VII.12.B.:5.4.3.3. T16 S.122 Sch.- | 1905–1906 | Kassarapporte, Stadttheater und Pfauentheater, gebunden
+[OHNE] ID 515 P499 E5 Dossier VII.12.B.:5.4.3.3. T17 S.122 Sch.- | 1906–1907 | Kassarapporte, Stadttheater und Pfauentheater, gebunden
+[OHNE] ID 516 P499 E5 Dossier VII.12.B.:5.4.3.3. T18 S.122 Sch.- | 1907–1908 | Kassarapporte, Stadttheater und Pfauentheater, gebunden
+[OHNE] ID 517 P499 E5 Dossier VII.12.B.:5.4.3.3. T19 S.122 Sch.- | 1908–1909 | Kassarapporte, Stadttheater und Pfauentheater, gebunden
+[OHNE] ID 518 P499 E5 Dossier VII.12.B.:5.4.3.3. T20 S.122 Sch.- | 1909–1910 | Kassarapporte, Stadttheater und Pfauentheater, gebunden
+[OHNE] ID 519 P499 E5 Dossier VII.12.B.:5.4.3.3. T21 S.122 Sch.- | 1910–1911 | Kassarapporte, Stadttheater und Pfauentheater, gebunden
+[OHNE] ID 520 P499 E5 Dossier VII.12.B.:5.4.3.3. T22 S.122 Sch.- | 1911–1912 | Kassarapporte, Stadttheater und Pfauentheater, gebunden
+[OHNE] ID 521 P499 E5 Dossier VII.12.B.:5.4.3.3. T23 S.122 Sch.- | 1912–1913 | Kassarapporte, Stadttheater und Pfauentheater, gebunden
+[OHNE] ID 522 P499 E5 Dossier VII.12.B.:5.4.3.3. T24 S.122 Sch.- | 1913–1914 | Kassarapporte, Stadttheater und Pfauentheater, gebunden
+[OHNE] ID 523 P499 E5 Dossier VII.12.B.:5.4.3.3. T25 S.122 Sch.- | 1914–1915 | Kassarapporte, Stadttheater und Pfauentheater, gebunden
+[OHNE] ID 524 P499 E5 Dossier VII.12.B.:5.4.3.3. T26 S.123 Sch.- | 1915–1916 | Kassarapporte, Stadttheater und Pfauentheater, gebunden
+[OHNE] ID 525 P499 E5 Dossier VII.12.B.:5.4.3.3. T27 S.123 Sch.- | 1916–1917 | Kassarapporte, Stadttheater und Pfauentheater, gebunden
+[OHNE] ID 526 P499 E5 Dossier VII.12.B.:5.4.3.3. T28 S.123 Sch.- | 1917–1918 | Kassarapporte, Stadttheater und Pfauentheater, gebunden
+[OHNE] ID 527 P499 E5 Dossier VII.12.B.:5.4.3.3. T29 S.123 Sch.- | 1918–1919 | Kassarapporte, Stadttheater und Pfauentheater, gebunden
+[OHNE] ID 528 P499 E5 Dossier VII.12.B.:5.4.3.3. T30 S.123 Sch.- | 1919–1920 | Kassarapporte, Stadttheater und Pfauentheater, gebunden
+[OHNE] ID 529 P499 E5 Dossier VII.12.B.:5.4.3.3. T31 S.123 Sch.- | 1920–1921 | Kassarapporte, Stadttheater und Pfauentheater, gebunden
+[OHNE] ID 530 P499 E5 Dossier VII.12.B.:5.4.3.3. T32 S.123 Sch.- | 1921–1922 | Kassarapporte, Oper, Operette und Schauspiel, gebunden
+[OHNE] ID 531 P499 E5 Dossier VII.12.B.:5.4.3.3. T33 S.123 Sch.- | 1922–1923 | Kassarapporte, Oper, Operette und Schauspiel, gebunden
+[OHNE] ID 532 P499 E5 Dossier VII.12.B.:5.4.3.3. T34 S.123 Sch.- | 1923–1924 | Kassarapporte, Oper, Operette und Schauspiel, gebunden
+[OHNE] ID 533 P499 E5 Dossier VII.12.B.:5.4.3.3. T35 S.123 Sch.- | 1924–1925 | Kassarapporte, Oper, Operette und Schauspiel, gebunden
+[OHNE] ID 534 P499 E5 Dossier VII.12.B.:5.4.3.3. T36 S.123 Sch.- | 1926–1927 | Kassarapporte, Oper, Operette und Schauspiel, gebunden
+[OHNE] ID 535 P499 E5 Dossier VII.12.B.:5.4.3.3. T37 S.123 Sch.- | 1927–1928 | Kassarapporte, Oper, Operette und Schauspiel, gebunden
+[OHNE] ID 536 P499 E5 Dossier VII.12.B.:5.4.3.3. T38 S.123 Sch.- | 1928–1929 | Kassarapporte, Oper, Operette und Schauspiel, gebunden
+[OHNE] ID 537 P499 E5 Dossier VII.12.B.:5.4.3.3. T39 S.123 Sch.- | 1929–1930 | Kassarapporte, Oper, Operette und Schauspiel, gebunden
+[OHNE] ID 538 P499 E5 Dossier VII.12.B.:5.4.3.3. T40 S.123 Sch.- | 1930–1931 | Kassarapporte, Oper, Operette und Schauspiel, gebunden
+[OHNE] ID 539 P499 E5 Dossier VII.12.B.:5.4.3.3. T41 S.123 Sch.- | 1931–1932 | Kassarapporte, Oper, Operette und Schauspiel, gebunden
+[OHNE] ID 540 P499 E5 Dossier VII.12.B.:5.4.3.3. T42 S.123 Sch.- | 1932–1933 | Kassarapporte, Oper, Operette und Schauspiel, gebunden
+[OHNE] ID 541 P499 E5 Dossier VII.12.B.:5.4.3.3. T43 S.123 Sch.- | 1933–1934 | Kassarapporte, Oper, Operette und Schauspiel, gebunden
+[OHNE] ID 542 P499 E5 Dossier VII.12.B.:5.4.3.3. T44 S.123 Sch.- | 1934–1935 | Kassarapporte, Oper, Operette und Schauspiel, gebunden
+[OHNE] ID 543 P499 E5 Dossier VII.12.B.:5.4.3.3. T45 S.123 Sch.- | 1934–1938 | Monatstabellen, Einnahmen, gebunden
+[OHNE] ID 544 P499 E5 Dossier VII.12.B.:5.4.3.3. T46 S.123 Sch.- | 1935–1936 | Kassarapporte, Oper, Operette und Schauspiel, gebunden
+[OHNE] ID 545 P499 E5 Dossier VII.12.B.:5.4.3.3. T47 S.123 Sch.- | 1936–1937 | Kassarapporte, Oper, Operette und Schauspiel, gebunden
+[OHNE] ID 546 P499 E5 Dossier VII.12.B.:5.4.3.3. T48 S.123 Sch.- | 01.07.1936–31.12.1939 | Porto-Buch:
+[OHNE] ID 547 P499 E5 Dossier VII.12.B.:5.4.3.3. T49 S.123 Sch.- | 1937–1938 | Kassarapporte, Oper, Operette und Schauspiel, gebunden
+[OHNE] ID 548 P499 E5 Dossier VII.12.B.:5.4.3.3. T50 S.123 Sch.- | 1939–1940 | Kassarapporte, Stadttheater, Schraubbindung
+[OHNE] ID 549 P499 E5 Dossier VII.12.B.:5.4.3.3. T51 S.123 Sch.- | 1941– | Kassa- und Vorstellungsrapporte inkl. Landesvorstellungen, Schraubbindung (Defekt)
+[OHNE] ID 550 P499 E5 Dossier VII.12.B.:5.4.3.3. T52 S.123 Sch.- | 1980–1982 | Vorstellungsrapporte
+[OHNE] ID 551 P499 E5 Dossier VII.12.B.:5.4.3.3. T53 S.123 Sch.- | 1981–1984 | Vorstellungsrapporte, Billettverkauf zur Volksvorstellung
+[OHNE] ID 552 P499 E5 Dossier VII.12.B.:5.4.3.3. T54 S.123 Sch.- | 1983–1984 | Vorstellungsrapporte
+[OHNE] ID 553 P499 E5 Dossier VII.12.B.:5.4.3.3. T55 S.123 Sch.- | 1916–1917 | Lose Kassarapporte
+[OHNE] ID 554 P499 E5 Dossier VII.12.B.:5.4.3.3. T56 S.123 Sch.- | 1920–1928 | Lose Kassarapporte
+[OHNE] ID 555 P499 E5 Dossier VII.12.B.:5.4.3.3. T57 S.123 Sch.- | 1930–1933 | Lose Kassarapporte, Schauspiel und Oper
+[OHNE] ID 556 P499 E5 Dossier VII.12.B.:5.4.3.3. T58 S.123 Sch.- | 1933–1934 | Lose Kassarapporte, Schauspiel und Oper
+[OHNE] ID 557 P499 E5 Dossier VII.12.B.:5.4.3.3. T59 S.123 Sch.- | 1934–1935 | Lose Kassarapporte, Schauspiel und Oper
+[OHNE] ID 558 P499 E5 Dossier VII.12.B.:5.4.3.3. T60 S.123 Sch.- | 1935–1936 | Lose Kassarapporte, Schauspiel und Oper
+[OHNE] ID 559 P499 E5 Dossier VII.12.B.:5.4.3.3. T61 S.124 Sch.- | 1938–1939 | Lose Kassarapporte, Schauspiel und Oper
+[OHNE] ID 560 P499 E5 Dossier VII.12.B.:5.4.3.3. T62 S.124 Sch.- | 01.09.1940–31.12.1940 | Kassazettel:
+[OHNE] ID 561 P499 E5 Dossier VII.12.B.:5.4.3.3. T63 S.124 Sch.- | 30.08.1941–31.12.1942 | Billettverkauf:
+[OHNE] ID 562 P499 E5 Dossier VII.12.B.:5.4.3.3. T64 S.124 Sch.- | 01.01.1943–31.12.1946 | Billettverkauf:
+[OHNE] ID 563 P499 E5 Dossier VII.12.B.:5.4.3.3. T65 S.124 Sch.- | 01.01.1947–31.12.1950 | Billettverkauf:
+[OHNE] ID 564 P499 E5 Dossier VII.12.B.:5.4.3.3. T66 S.124 Sch.- | 01.01.1951–29.06.1952 | Billettverkauf:
+[OHNE] ID 565 P499 E5 Dossier VII.12.B.:5.4.3.3. T67 S.124 Sch.- | 1969–1982 | Kassarapporte
+[OHNE] ID 682 P681 E5 Dossier VII.12.B.:6.5.2.8. T2 S.147 Sch.- | 1982– | A – Allgemeines
+[OHNE] ID 683 P681 E5 Dossier VII.12.B.:6.5.2.8. T3 S.147 Sch.- | 1973–1984 | A – Abstimmungskampagne
+[OHNE] ID 684 P681 E5 Dossier VII.12.B.:6.5.2.8. T4 S.147 Sch.- | 1973–1984 | A – Amt für technische Gebäudeausrüstung der Stadt Zürich (ATG)
+[OHNE] ID 685 P681 E5 Dossier VII.12.B.:6.5.2.8. T5 S.147 Sch.- | 1973–1984 | A – Archäologische Funde
+[OHNE] ID 686 P681 E5 Dossier VII.12.B.:6.5.2.8. T6 S.147 Sch.- | 18.08.1983– | A – Aufrichtefest anlässlich Fertigstellung des Rohbaus vom 18. Aug. 1983
+[OHNE] ID 687 P681 E5 Dossier VII.12.B.:6.5.2.8. T7 S.148 Sch.- | 1977– | B – Bernhard-Theater
+[OHNE] ID 688 P681 E5 Dossier VII.12.B.:6.5.2.8. T8 S.148 Sch.- | 1973–1984 | B – Vergabe Bühnentechnik
+[OHNE] ID 689 P681 E5 Dossier VII.12.B.:6.5.2.8. T9 S.148 Sch.- | 1973–1984 | C – D City Vereinigung / Radio und Fernsehen DRS
+[OHNE] ID 690 P681 E5 Dossier VII.12.B.:6.5.2.8. T10 S.148 Sch.- | 26.11.1973–1979 | D – Claus Helmut Drese
+[OHNE] ID 691 P681 E5 Dossier VII.12.B.:6.5.2.8. T11 S.148 Sch.- | 1979–1980 | E – F Führungen / Feuerwehrinspektorat
+[OHNE] ID 692 P681 E5 Dossier VII.12.B.:6.5.2.8. T12 S.148 Sch.- | 1978– | F – Finanzamt / Stadtrat Edwin Frech
+[OHNE] ID 693 P681 E5 Dossier VII.12.B.:6.5.2.8. T13 S.148 Sch.- | 1973–1984 | F – Freisinnig-Demokratische Partei (FDP)
+[OHNE] ID 694 P681 E5 Dossier VII.12.B.:6.5.2.8. T14 S.148 Sch.- | 1973–1984 | G – Gebäudeversicherung des Kantons Zürich Korrespondenz
+[OHNE] ID 695 P681 E5 Dossier VII.12.B.:6.5.2.8. T15 S.148 Sch.- | 1980– | G – Gemeindebeiträge / Gemeinderätliche Kommission
+[OHNE] ID 696 P681 E5 Dossier VII.12.B.:6.5.2.8. T16 S.149 Sch.- | 1973–1984 | G – Gisler & Gisler, Werbeagentur, Abstimmungskampagne Terminplan Abstimmungskampagne, I
+[OHNE] ID 697 P681 E5 Dossier VII.12.B.:6.5.2.8. T17 S.149 Sch.- | 1973–1984 | H – Hauseigentümer / Heimatschutz Korrespondenz, Aktennotizen
+[OHNE] ID 698 P681 E5 Dossier VII.12.B.:6.5.2.8. T18 S.149 Sch.- | 1977–1985 | H – Hochbauamt
+[OHNE] ID 699 P681 E5 Dossier VII.12.B.:6.5.2.8. T19 S.149 Sch.- | 1971–06.1972 | H – Martin Hürlimann
+[OHNE] ID 700 P681 E5 Dossier VII.12.B.:6.5.2.8. T20 S.149 Sch.- | 1973–1984 | J – Hans Jecklin
+[OHNE] ID 701 P681 E5 Dossier VII.12.B.:6.5.2.8. T21 S.149 Sch.- | 1962–08.01.1981 | K – Komitee Pro Opernhaus / Patronat "Stapi Landolt" / Komitee zum Schutze von Ope
+[OHNE] ID 702 P681 E5 Dossier VII.12.B.:6.5.2.8. T22 S.149 Sch.- | 31.05.1980– | O – Opera mobile
+[OHNE] ID 703 P681 E5 Dossier VII.12.B.:6.5.2.8. T23 S.149 Sch.- | 1973–1984 | P – Pächter
+[OHNE] ID 704 P681 E5 Dossier VII.12.B.:6.5.2.8. T24 S.150 Sch.- | 1973–1984 | P – Architekturbüro Claude Paillard / Peter Leemann
+[OHNE] ID 705 P681 E5 Dossier VII.12.B.:6.5.2.8. T25 S.150 Sch.- | 1973–1984 | P – Parkierungsmöglichkeiten
+[OHNE] ID 706 P681 E5 Dossier VII.12.B.:6.5.2.8. T26 S.150 Sch.- | 1973–1984 | P – Personal-Orientierungen
+[OHNE] ID 707 P681 E5 Dossier VII.12.B.:6.5.2.8. T27 S.150 Sch.- | 1976– | P – Projektierungskredit
+[OHNE] ID 708 P681 E5 Dossier VII.12.B.:6.5.2.8. T28 S.150 Sch.- | 1973–1984 | P – Komitee Pro Esplanade / Rudolf Bihrer
+[OHNE] ID 709 P681 E5 Dossier VII.12.B.:6.5.2.8. T29 S.150 Sch.- | 14.02.1977–30.04.1977 | P – Arbeitsgruppe Pro Stadttheater
+[OHNE] ID 710 P681 E5 Dossier VII.12.B.:6.5.2.8. T30 S.150 Sch.- | 1973–1984 | P – Prominentenliste / Postkarten Komitee Pro Opernhaus
+[OHNE] ID 711 P681 E5 Dossier VII.12.B.:6.5.2.8. T31 S.150 Sch.- | 09.1972– | R – Raumakustik / Franz Reichenbach
+[OHNE] ID 712 P681 E5 Dossier VII.12.B.:6.5.2.8. T32 S.150 Sch.- | 1973–1984 | R – Roggen & Amrein / Werbeagentur / Diverses
+[OHNE] ID 713 P681 E5 Dossier VII.12.B.:6.5.2.8. T33 S.150 Sch.- | 1973–1984 | S – Schallplatten-Produktion betreffend Umbau-Kampagne
+[OHNE] ID 714 P681 E5 Dossier VII.12.B.:6.5.2.8. T34 S.151 Sch.- | 1973–1984 | T – Termine / Theaterfest
+[OHNE] ID 715 P681 E5 Dossier VII.12.B.:6.5.2.8. T35 S.151 Sch.- | 1973–1984 | T – Tonstudio
+[OHNE] ID 716 P681 E5 Dossier VII.12.B.:6.5.2.8. T36 S.151 Sch.- | 1973–1984 | T – Tramschleife
+[OHNE] ID 717 P681 E5 Dossier VII.12.B.:6.5.2.8. T37 S.151 Sch.- | 1973–1984 | V – alter Bühnenvorhang / Musen
+[OHNE] ID 718 P681 E5 Dossier VII.12.B.:6.5.2.8. T38 S.151 Sch.- | 1974–1979 | W – Dietrich Wagenbauer
+[OHNE] ID 719 P681 E5 Dossier VII.12.B.:6.5.2.8. T39 S.151 Sch.- | 1973–1984 | Z – Gemeinderat Hans Ulrich Zbinden / Adolf Zotzmann
+[OHNE] ID 743 P742 E5 Dossier VII.12.B.:6.5.8.1. T2 S.159 Sch.- | 1978– | Allgemeine Korrespondenz und Akten betreffend neue Spielstätte und Opera mobile
+[OHNE] ID 744 P742 E5 Dossier VII.12.B.:6.5.8.1. T3 S.160 Sch.- | 1980–1983 | Allgemeine Korrespondenz und Akten betreffend neue Spielstätte und Opera mobile
+[OHNE] ID 751 P750 E5 Dossier VII.12.B.:6.5.8.7. T2 S.162 Sch.- | 1979–1984 | Akten betreffend Werkstätten-Gebäude, Seerosenstrasse 4 in Zürich
+[OHNE] ID 752 P750 E5 Dossier VII.12.B.:6.5.8.7. T3 S.162 Sch.- | 1980–1984 | Korrespondenz und Akten betreffend verschiedene Mieträume, alphabetisch geordnet
+[OHNE] ID 753 P750 E5 Dossier VII.12.B.:6.5.8.7. T4 S.162 Sch.- | 1982–1984 | Akten betreffend die Benutzung die Räumlichkeiten des ‚ch tanztheaters‘, Liegenschaft an 
+[OHNE] ID 927 P926 E5 Dossier VII.12.B.:7.2.2.1. T2 S.183 Sch.- | 1907–1919 | Verhandlungen des Schweizerischen Holzarbeiterverbandes betreffend Löhne des technischen 
+[OHNE] ID 928 P926 E5 Dossier VII.12.B.:7.2.2.1. T3 S.184 Sch.- | 1919–1921 | Akten betreffend Gesamtarbeitsverträge / Kollektivverträge und 1919-1921 Arbeiterkommissi
+[OHNE] ID 929 P926 E5 Dossier VII.12.B.:7.2.2.1. T4 S.184 Sch.- | 1929–1937 | Akten betreffend Gesamtarbeitsverträge / Kollektivverträge und 1929-1937 Arbeiterkommissi
+[OHNE] ID 930 P926 E5 Dossier VII.12.B.:7.2.2.1. T5 S.184 Sch.- | 1934–1939 | Akten betreffend Gesamtarbeitsverträge / Kollektivverträge und 1934-1939 Arbeiterkommissi
+[OHNE] ID 931 P926 E5 Dossier VII.12.B.:7.2.2.1. T6 S.184 Sch.- | 1935–1946 | Akten betreffend Gesamtarbeitsverträge / Kollektivverträge und 1935-1946 Arbeiterkommissi
+[OHNE] ID 932 P926 E5 Dossier VII.12.B.:7.2.2.1. T7 S.185 Sch.- | 1938–1954 | Akten betreffend Gesamtarbeitsverträge / Kollektivverträge und 1938-1954 Arbeiterkommissi
+[OHNE] ID 933 P926 E5 Dossier VII.12.B.:7.2.2.1. T8 S.185 Sch.- | 1941–1956 | Akten betreffend Gesamtarbeitsverträge / Kollektivverträge und 1941-1956 Arbeiterkommissi
+[OHNE] ID 934 P926 E5 Dossier VII.12.B.:7.2.2.1. T9 S.185 Sch.- | 1945– | Akten betreffend Gesamtarbeitsverträge / Kollektivverträge und 1945 Arbeiterkommission
+[OHNE] ID 935 P926 E5 Dossier VII.12.B.:7.2.2.1. T10 S.186 Sch.- | 1948–1959 | Akten betreffend Gesamtarbeitsverträge / Kollektivverträge und 1948-1959 Arbeiterkommiss
+[OHNE] ID 936 P926 E5 Dossier VII.12.B.:7.2.2.1. T11 S.186 Sch.- | 1958–1968 | Akten betreffend Gesamtarbeitsverträge / Kollektivverträge und 1958-1968 Arbeiterkommiss
+[OHNE] ID 937 P926 E5 Dossier VII.12.B.:7.2.2.1. T12 S.186 Sch.- | 1959–1963 | Akten betreffend Gesamtarbeitsverträge / Kollektivverträge und 1959-1963 Arbeiterkommiss
+[OHNE] ID 938 P926 E5 Dossier VII.12.B.:7.2.2.1. T13 S.186 Sch.- | 1969–1972 | Akten betreffend Gesamtarbeitsverträge / Kollektivverträge und 1969-1972 Arbeiterkommiss
+[OHNE] ID 939 P926 E5 Dossier VII.12.B.:7.2.2.1. T14 S.187 Sch.- | 1981–1987 | Akten betreffend Gesamtarbeitsverträge / Kollektivverträge und 1981-1987 Arbeiterkommiss
+[OHNE] ID 941 P940 E5 Dossier VII.12.B.:7.2.2.2. T2 S.187 Sch.- | 1891–1927 | Gesamtarbeitsverträge
+[OHNE] ID 942 P940 E5 Dossier VII.12.B.:7.2.2.2. T3 S.187 Sch.- | 1899–1943 | Gesamtarbeitsverträge
+[OHNE] ID 943 P940 E5 Dossier VII.12.B.:7.2.2.2. T4 S.187 Sch.- | 1923–1947 | Gesamtarbeitsverträge
+[OHNE] ID 944 P940 E5 Dossier VII.12.B.:7.2.2.2. T5 S.188 Sch.- | 1929–1960 | Gesamtarbeitsverträge
+[OHNE] ID 945 P940 E5 Dossier VII.12.B.:7.2.2.2. T6 S.188 Sch.- | 1938–1959 | Gesamtarbeitsverträge
+[OHNE] ID 946 P940 E5 Dossier VII.12.B.:7.2.2.2. T7 S.188 Sch.- | 1947–1967 | Gesamtarbeitsverträge
+[OHNE] ID 947 P940 E5 Dossier VII.12.B.:7.2.2.2. T8 S.188 Sch.- | 1955–1968 | Gesamtarbeitsverträge
+[OHNE] ID 948 P940 E5 Dossier VII.12.B.:7.2.2.2. T9 S.189 Sch.- | 1961– | Gesamtarbeitsverträge
+[OHNE] ID 949 P940 E5 Dossier VII.12.B.:7.2.2.2. T10 S.189 Sch.- | 1969–1970 | Gesamtarbeitsverträge
+[OHNE] ID 950 P940 E5 Dossier VII.12.B.:7.2.2.2. T11 S.189 Sch.- | 1969–1973 | Gesamtarbeitsverträge
+[OHNE] ID 951 P940 E5 Dossier VII.12.B.:7.2.2.2. T12 S.189 Sch.- | 1970–1977 | Gesamtarbeitsverträge
+[OHNE] ID 952 P940 E5 Dossier VII.12.B.:7.2.2.2. T13 S.190 Sch.- | 1983–1985 | Gesamtarbeitsverträge
+[OHNE] ID 953 P940 E5 Dossier VII.12.B.:7.2.2.2. T14 S.190 Sch.- | 1984–1985 | Gesamtarbeitsverträge
+[OHNE] ID 1087 P1086 E5 Dossier VII.12.B.:7.3.4.4. T2 S.199 Sch.- | 1964–1976 | Personal-Dossiers des Verwaltungs-Personals B – E (Vorstände)
+[OHNE] ID 1088 P1086 E5 Dossier VII.12.B.:7.3.4.4. T3 S.199 Sch.- | 1964–1976 | Personal-Dossiers des Verwaltungs-Personals G – P (Vorstände)
+[OHNE] ID 1089 P1086 E5 Dossier VII.12.B.:7.3.4.4. T4 S.199 Sch.- | 1964–1976 | Personal-Dossiers des Verwaltungs-Personals R – Z (Vorstände)
+[OHNE] ID 1239 P1238 E5 Dossier VII.12.B.:9.4.1.1. T2 S.227 Sch.- | 1899–1900 | Korrespondenz mit Verlagen und Agenturen A – K / L – Z
+[OHNE] ID 1240 P1238 E5 Dossier VII.12.B.:9.4.1.1. T3 S.227 Sch.- | 1963–1964 | Korrespondenz mit Verlagen und Agenturen A – Z
+[OHNE] ID 1241 P1238 E5 Dossier VII.12.B.:9.4.1.1. T4 S.227 Sch.- | 1964–1974 | Korrespondenz mit Verlagen und Agenturen A – Z
+[OHNE] ID 1242 P1238 E5 Dossier VII.12.B.:9.4.1.1. T5 S.227 Sch.- | 1965–1971 | Korrespondenz mit Verlagen und Agenturen A – Z
+[OHNE] ID 1243 P1238 E5 Dossier VII.12.B.:9.4.1.1. T6 S.227 Sch.- | 1971–1975 | Korrespondenz mit Verlagen und Agenturen A – Z
+[OHNE] ID 1244 P1238 E5 Dossier VII.12.B.:9.4.1.1. T7 S.227 Sch.- | 1987–1991 | Korrespondenz mit Verlagen und Agenturen A – Z
+[OHNE] ID 1246 P1245 E5 Dossier VII.12.B.:9.4.1.2. T2 S.227 Sch.- | 1918–1933 | Allgemeine Korrespondenz, Inserate und Zeitungsberichte
+[OHNE] ID 1247 P1245 E5 Dossier VII.12.B.:9.4.1.2. T3 S.227 Sch.- | 1958–1959 | Allgemeine Korrespondenz mit auswärtigen Theater-Verlegern und Agenturen
+[OHNE] ID 1248 P1245 E5 Dossier VII.12.B.:9.4.1.2. T4 S.227 Sch.- | 1959–1963 | Allgemeine Korrespondenz mit Verlagen und Agenturen betreffend
+[OHNE] ID 1249 P1245 E5 Dossier VII.12.B.:9.4.1.2. T5 S.227 Sch.- | 1959–1961 | Allgemeine Korrespondenz mit Beilagen wie Prospekte und einzelne Aufführungsverträge
+[OHNE] ID 1250 P1245 E5 Dossier VII.12.B.:9.4.1.2. T6 S.227 Sch.- | 1962–1963 | Allgemeine Korrespondenz mit Verlagen und Agenturen
+[OHNE] ID 1251 P1245 E5 Dossier VII.12.B.:9.4.1.2. T7 S.227 Sch.- | 1964–1967 | Allgemeine Korrespondenz mit Verlagen und Agenturen
+[OHNE] ID 1252 P1245 E5 Dossier VII.12.B.:9.4.1.2. T8 S.228 Sch.- | 1966–1968 | Allgemeine Korrespondenz mit Verlagen und Agenturen mit Beilagen
+[OHNE] ID 1254 P1253 E5 Dossier VII.12.B.:9.4.1.3. T2 S.228 Sch.- | 1930–10.1931 | Korrespondenz betreffend die Aufführungsrechte
+[OHNE] ID 1255 P1253 E5 Dossier VII.12.B.:9.4.1.3. T3 S.228 Sch.- | 11.1931–1932 | Korrespondenz betreffend die Aufführungsrechte
+[OHNE] ID 1256 P1253 E5 Dossier VII.12.B.:9.4.1.3. T4 S.228 Sch.- | 1955– | Korrespondenz mit der Schweizerischen Gesellschaft der Urheber und Verleger (SUISA)
+[OHNE] ID 1257 P1253 E5 Dossier VII.12.B.:9.4.1.3. T5 S.228 Sch.- | 1976–1995 | Korrespondenz betreffend die Aufführungsrechte mit Beilagen
+[OHNE] ID 1409 P1408 E5 Dossier VII.12.B.:10.1.8.1. T1 S.253 Sch.- | 1943–1952 | Korrespondenz und Akten der Schweizerischen Theaterschule A – Z, Teil 1
+[OHNE] ID 1410 P1408 E5 Dossier VII.12.B.:10.1.8.1. T2 S.253 Sch.- | 1943–1952 | Korrespondenz und Akten der Schweizerischen Theaterschule A – Z, Teil 2
+[OHNE] ID 1411 P1408 E5 Dossier VII.12.B.:10.1.8.1. T3 S.253 Sch.- | 1943–1952 | Korrespondenz und Akten der Schweizerischen Theaterschule A – Z, Teil 3
+[OHNE] ID 1412 P1408 E5 Dossier VII.12.B.:10.1.8.1. T4 S.254 Sch.- | 1947–1952 | Korrespondenz der Schweizerischen Theaterschule A – Z
+[OHNE] ID 1413 P1408 E5 Dossier VII.12.B.:10.1.8.1. T5 S.254 Sch.- | 1952–1957 | Korrespondenz der Schweizerischen Theaterschule A – Z
+[OHNE] ID 1414 P1408 E5 Dossier VII.12.B.:10.1.8.1. T6 S.254 Sch.- | 1952–1961 | Korrespondenz der Schweizerischen Theaterschule A – Z
+[OHNE] ID 1415 P1408 E5 Dossier VII.12.B.:10.1.8.1. T7 S.254 Sch.- | 1961–1964 | Korrespondenz mit der Gesellschaft für das Schweizerische Volkstheater A – Z
+[OHNE] ID 1417 P1416 E5 Dossier VII.12.B.:10.1.8.2. T2 S.255 Sch.- | 1945–1949 | Akten der Schweizerischen Theaterschule
+[OHNE] ID 1418 P1416 E5 Dossier VII.12.B.:10.1.8.2. T3 S.255 Sch.- | 1950–1956 | Korrespondenz der Schweizerischen Theaterschule
+[OHNE] ID 1419 P1416 E5 Dossier VII.12.B.:10.1.8.2. T4 S.255 Sch.- | 1953–1966 | Korrespondenz und Akten der Schweizerischen Theaterschule
+[OHNE] ID 2240 P2239 E5 Dossier VII.12.B.:15.1.5.2. T2 S.321 Sch.- | 1975–1976 | Probenspielpläne, Probenbücher 1975/76, Bände 1 – 3 mit Beilagen
+[OHNE] ID 2241 P2239 E5 Dossier VII.12.B.:15.1.5.2. T3 S.321 Sch.- | 1976–1977 | Probenspielpläne, Probenbücher 1976/77, Bände 1 – 5 mit Beilagen
+[OHNE] ID 2242 P2239 E5 Dossier VII.12.B.:15.1.5.2. T4 S.321 Sch.- | 1977–1978 | Probenspielpläne, Probenbücher 1977/78, Bände 1 – 7 mit Beilagen
+[OHNE] ID 2243 P2239 E5 Dossier VII.12.B.:15.1.5.2. T5 S.321 Sch.- | 1978–1979 | Probenspielpläne, Probenbücher 1978/79, Bände 1 – 6 mit Beilagen
+[OHNE] ID 2244 P2239 E5 Dossier VII.12.B.:15.1.5.2. T6 S.322 Sch.- | 1979–1980 | Probenspielpläne, Probenbücher 1979/80, Bände 1 – 5 mit Beilagen
+[OHNE] ID 2245 P2239 E5 Dossier VII.12.B.:15.1.5.2. T7 S.322 Sch.- | 1980–1981 | Probenspielpläne, Probenbücher 1980/81, Bände 1 – 6 mit Beilagen
+[OHNE] ID 2246 P2239 E5 Dossier VII.12.B.:15.1.5.2. T8 S.322 Sch.- | 1981–1982 | Probenspielpläne, Probenbücher 1981/82, Bände 1 – 5 mit Beilagen
+[OHNE] ID 2247 P2239 E5 Dossier VII.12.B.:15.1.5.2. T9 S.322 Sch.- | 1982–1983 | Probenspielpläne, Probenbücher 1982/83, Bände 1 – 7 mit Beilagen
+[OHNE] ID 2248 P2239 E5 Dossier VII.12.B.:15.1.5.2. T10 S.322 Sch.- | 1983–1984 | Probenspielpläne, Probenbücher 1983/84, Bände 1 – 4 mit Beilagen
+[OHNE] ID 2249 P2239 E5 Dossier VII.12.B.:15.1.5.2. T11 S.322 Sch.- | 1984–1985 | Probenspielpläne, Probenbücher 1984/85, Bände 1 – 6 mit Beilagen
+[OHNE] ID 2250 P2239 E5 Dossier VII.12.B.:15.1.5.2. T12 S.323 Sch.- | 1985–1986 | Probenspielpläne, Probenbücher 1985/86, Bände 1 – 2 mit Beilagen
+[OHNE] ID 2251 P2239 E5 Dossier VII.12.B.:15.1.5.2. T13 S.323 Sch.- | 1986–1987 | Probenspielpläne, Probenbücher 1986/87, Bände 1 – 6 mit Beilagen
+[OHNE] ID 2252 P2239 E5 Dossier VII.12.B.:15.1.5.2. T14 S.323 Sch.- | 1987–1988 | Probenspielpläne, Probenbücher 1987/88, Bände 1 – 6 mit Beilagen
+[OHNE] ID 2253 P2239 E5 Dossier VII.12.B.:15.1.5.2. T15 S.323 Sch.- | 1988–1989 | Probenspielpläne, Probenbücher 1988/89, Bände 1 – 5 mit Beilagen
+[OHNE] ID 2254 P2239 E5 Dossier VII.12.B.:15.1.5.2. T16 S.323 Sch.- | 1989–1990 | Probenspielpläne, Probenbücher 1988/89, Bände 1 – 5 mit Beilagen
+[OHNE] ID 2255 P2239 E5 Dossier VII.12.B.:15.1.5.2. T17 S.323 Sch.- | 1990–1991 | Probenspielpläne, Probenbücher 1988/89, Bände 1 – 5 mit Beilagen
+[OHNE] ID 2456 P2455 E5 Dossier VII.12.B.:18.10.2.2. T2 S.352 Sch.- | 1934– | Organisation und Finanzierung der Jubiläums-Feier
+[OHNE] ID 2457 P2455 E5 Dossier VII.12.B.:18.10.2.2. T3 S.353 Sch.- | 1934– | Propaganda für das Jubiläum
+[OHNE] ID 2458 P2455 E5 Dossier VII.12.B.:18.10.2.2. T4 S.353 Sch.- | 01.06.1934– | Feier und Bankett "100 Jahre Stadttheater" am 1. Juni 1934
+[OHNE] ID 2459 P2455 E5 Dossier VII.12.B.:18.10.2.2. T5 S.353 Sch.- | 1934–1935 | Exposé und Zeitungsberichte über das Jubiläum
+[OHNE] ID 2584 P2583 E5 Dossier VII.12.B.:20.2.1.3. T2 S.373 Sch.- | 1920–1923 | Verzeichnis: Gastspiele fremder Gesellschaften, Pfauentheater (Heft)
+[OHNE] ID 2585 P2583 E5 Dossier VII.12.B.:20.2.1.3. T3 S.373 Sch.- | 1932–1935 | Korrespondenz betreffend Gastspiele im Stadttheater
+[OHNE] ID 2586 P2583 E5 Dossier VII.12.B.:20.2.1.3. T4 S.373 Sch.- | 1938–1939 | Korrespondenz betreffend Gast- und Festspiele
+[OHNE] ID 4135 P4134 E4 Dossier VII.12.B.:23.2.1. T2 S.490 Sch.- | – | A Porträts und einzelne Darstellerfotografien
+[OHNE] ID 4136 P4134 E4 Dossier VII.12.B.:23.2.1. T3 S.490 Sch.- | – | B Porträts und einzelne Darstellerfotografien
+[OHNE] ID 4137 P4134 E4 Dossier VII.12.B.:23.2.1. T4 S.491 Sch.- | – | C Porträts und einzelne Darstellerfotografien
+[OHNE] ID 4138 P4134 E4 Dossier VII.12.B.:23.2.1. T5 S.492 Sch.- | – | D Porträts und einzelne Darstellerfotografien
+[OHNE] ID 4139 P4134 E4 Dossier VII.12.B.:23.2.1. T6 S.492 Sch.- | – | E Porträts und einzelne Darstellerfotografien
+[OHNE] ID 4140 P4134 E4 Dossier VII.12.B.:23.2.1. T7 S.492 Sch.- | – | Fa – Fi Porträts und einzelne Darstellerfotografien
+[OHNE] ID 4141 P4134 E4 Dossier VII.12.B.:23.2.1. T8 S.493 Sch.- | – | G Porträts und einzelne Darstellerfotografien
+[OHNE] ID 4142 P4134 E4 Dossier VII.12.B.:23.2.1. T9 S.493 Sch.- | – | H Porträts und einzelne Darstellerfotografien
+[OHNE] ID 4143 P4134 E4 Dossier VII.12.B.:23.2.1. T10 S.494 Sch.- | – | I Porträts und einzelne Darstellerfotografien
+[OHNE] ID 4144 P4134 E4 Dossier VII.12.B.:23.2.1. T11 S.494 Sch.- | – | J Porträts und einzelne Darstellerfotografien
+[OHNE] ID 4145 P4134 E4 Dossier VII.12.B.:23.2.1. T12 S.494 Sch.- | – | K Porträts und einzelne Darstellerfotografien
+[OHNE] ID 4146 P4134 E4 Dossier VII.12.B.:23.2.1. T13 S.495 Sch.- | – | L Porträts und einzelne Darstellerfotografien
+[OHNE] ID 4147 P4134 E4 Dossier VII.12.B.:23.2.1. T14 S.495 Sch.- | – | M Porträts und einzelne Darstellerfotografien
+[OHNE] ID 4148 P4134 E4 Dossier VII.12.B.:23.2.1. T15 S.496 Sch.- | – | N Porträts und einzelne Darstellerfotografien
+[OHNE] ID 4149 P4134 E4 Dossier VII.12.B.:23.2.1. T16 S.496 Sch.- | – | O Porträts und einzelne Darstellerfotografien
+[OHNE] ID 4150 P4134 E4 Dossier VII.12.B.:23.2.1. T17 S.497 Sch.- | – | P Porträts und einzelne Darstellerfotografien
+[OHNE] ID 4151 P4134 E4 Dossier VII.12.B.:23.2.1. T18 S.497 Sch.- | – | Q Porträts und einzelne Darstellerfotografien
+[OHNE] ID 4152 P4134 E4 Dossier VII.12.B.:23.2.1. T19 S.497 Sch.- | – | R Porträts und einzelne Darstellerfotografien
+[OHNE] ID 4153 P4134 E4 Dossier VII.12.B.:23.2.1. T20 S.498 Sch.- | – | S Porträts und einzelne Darstellerfotografien
+[OHNE] ID 4154 P4134 E4 Dossier VII.12.B.:23.2.1. T21 S.498 Sch.- | – | Sch Porträts und einzelne Darstellerfotografien
+[OHNE] ID 4155 P4134 E4 Dossier VII.12.B.:23.2.1. T22 S.499 Sch.- | – | St Porträts und einzelne Darstellerfotografien
+[OHNE] ID 4156 P4134 E4 Dossier VII.12.B.:23.2.1. T23 S.499 Sch.- | – | T Porträts und einzelne Darstellerfotografien
+[OHNE] ID 4157 P4134 E4 Dossier VII.12.B.:23.2.1. T24 S.499 Sch.- | – | U Porträts und einzelne Darstellerfotografien
+[OHNE] ID 4158 P4134 E4 Dossier VII.12.B.:23.2.1. T25 S.499 Sch.- | – | V Porträts und einzelne Darstellerfotografien
+[OHNE] ID 4159 P4134 E4 Dossier VII.12.B.:23.2.1. T26 S.500 Sch.- | – | W Porträts und einzelne Darstellerfotografien
+[OHNE] ID 4160 P4134 E4 Dossier VII.12.B.:23.2.1. T27 S.500 Sch.- | – | Y Porträts und einzelne Darstellerfotografien Doris Young
+[OHNE] ID 4161 P4134 E4 Dossier VII.12.B.:23.2.1. T28 S.500 Sch.- | 1947–1956 | Z Porträts und einzelne Darstellerfotografien
+[OHNE] ID 4162 P4134 E4 Dossier VII.12.B.:23.2.1. T29 S.500 Sch.- | – | Porträts und einzelne Darstellerfotografien in Kleinformat, alphabetisch geordnet, Teil 29
+[OHNE] ID 4179 P4178 E4 Dossier VII.12.B.:23.4.1. T2 S.516 Sch.- | – | Theater- und Opernaufführungen B – C
+[OHNE] ID 4180 P4178 E4 Dossier VII.12.B.:23.4.1. T3 S.516 Sch.- | – | Theater- und Opernaufführungen D – F
+[OHNE] ID 4181 P4178 E4 Dossier VII.12.B.:23.4.1. T4 S.516 Sch.- | – | Theater- und Opernaufführungen G – L
+[OHNE] ID 4182 P4178 E4 Dossier VII.12.B.:23.4.1. T5 S.516 Sch.- | – | Theater- und Opernaufführungen M – N
+[OHNE] ID 4183 P4178 E4 Dossier VII.12.B.:23.4.1. T6 S.517 Sch.- | – | Theater- und Opernaufführungen R – T
+[OHNE] ID 4184 P4178 E4 Dossier VII.12.B.:23.4.1. T7 S.517 Sch.- | – | Theater- und Opernaufführungen V – Z
+[OHNE] ID 4186 P4185 E4 Dossier VII.12.B.:23.4.2. T2 S.517 Sch.- | – | Porträts und einzelne Darstellerfotografien A – D
+[OHNE] ID 4187 P4185 E4 Dossier VII.12.B.:23.4.2. T3 S.517 Sch.- | – | Porträts und einzelne Darstellerfotografien E – J
+[OHNE] ID 4188 P4185 E4 Dossier VII.12.B.:23.4.2. T4 S.517 Sch.- | – | Porträts und einzelne Darstellerfotografien K – M
+[OHNE] ID 4189 P4185 E4 Dossier VII.12.B.:23.4.2. T5 S.517 Sch.- | – | Porträts und einzelne Darstellerfotografien P – R
+[OHNE] ID 4190 P4185 E4 Dossier VII.12.B.:23.4.2. T6 S.517 Sch.- | – | Porträts und einzelne Darstellerfotografien S
+[OHNE] ID 4191 P4185 E4 Dossier VII.12.B.:23.4.2. T7 S.517 Sch.- | – | Porträts und einzelne Darstellerfotografien V – Z
+[OHNE] ID 4199 P4198 E4 Dossier VII.12.B.:23.5.1. T2 S.518 Sch.- | – | Darsteller und Porträtaufnahmen A – D
+[OHNE] ID 4200 P4198 E4 Dossier VII.12.B.:23.5.1. T3 S.518 Sch.- | – | Darsteller und Porträtaufnahmen E – H
+[OHNE] ID 4201 P4198 E4 Dossier VII.12.B.:23.5.1. T4 S.518 Sch.- | – | Darsteller und Porträtaufnahmen K – M
+[OHNE] ID 4202 P4198 E4 Dossier VII.12.B.:23.5.1. T5 S.518 Sch.- | – | Darsteller und Porträtaufnahmen P – S
+[OHNE] ID 4204 P4203 E4 Dossier VII.12.B.:23.5.2. T2 S.519 Sch.- | 1979–11.12.1981 | Besetzungslisten A
+[OHNE] ID 4205 P4203 E4 Dossier VII.12.B.:23.5.2. T3 S.519 Sch.- | 1946–1987 | Besetzungslisten B
+[OHNE] ID 4206 P4203 E4 Dossier VII.12.B.:23.5.2. T4 S.519 Sch.- | 1945–1985 | Besetzungslisten C
+[OHNE] ID 4207 P4203 E4 Dossier VII.12.B.:23.5.2. T5 S.519 Sch.- | 1965–1988 | Besetzungslisten D
+[OHNE] ID 4208 P4203 E4 Dossier VII.12.B.:23.5.2. T6 S.519 Sch.- | 1961–1992 | Besetzungslisten E
+[OHNE] ID 4209 P4203 E4 Dossier VII.12.B.:23.5.2. T7 S.519 Sch.- | 1941–1990 | Besetzungslisten F
+[OHNE] ID 4210 P4203 E4 Dossier VII.12.B.:23.5.2. T8 S.519 Sch.- | 1949– | Besetzungslisten G
+[OHNE] ID 4211 P4203 E4 Dossier VII.12.B.:23.5.2. T9 S.519 Sch.- | 1980–1981 | Besetzungslisten H
+[OHNE] ID 4212 P4203 E4 Dossier VII.12.B.:23.5.2. T10 S.519 Sch.- | 1963–1988 | Besetzungslisten I – J
+[OHNE] ID 4213 P4203 E4 Dossier VII.12.B.:23.5.2. T11 S.520 Sch.- | – | Besetzungslisten K Die Kaiserin
+[OHNE] ID 4214 P4203 E4 Dossier VII.12.B.:23.5.2. T12 S.520 Sch.- | 1943–1990 | Besetzungslisten L
+[OHNE] ID 4215 P4203 E4 Dossier VII.12.B.:23.5.2. T13 S.520 Sch.- | 1960–1990 | Besetzungslisten M
+[OHNE] ID 4216 P4203 E4 Dossier VII.12.B.:23.5.2. T14 S.520 Sch.- | 1969–1979 | Besetzungslisten N
+[OHNE] ID 4217 P4203 E4 Dossier VII.12.B.:23.5.2. T15 S.520 Sch.- | 1960–1978 | Besetzungslisten O
+[OHNE] ID 4218 P4203 E4 Dossier VII.12.B.:23.5.2. T16 S.520 Sch.- | 1942–1975 | Besetzungslisten P
+[OHNE] ID 4219 P4203 E4 Dossier VII.12.B.:23.5.2. T17 S.520 Sch.- | 1946–1992 | Besetzungslisten R
+[OHNE] ID 4220 P4203 E4 Dossier VII.12.B.:23.5.2. T18 S.520 Sch.- | 1960–1992 | Besetzungslisten S
+[OHNE] ID 4221 P4203 E4 Dossier VII.12.B.:23.5.2. T19 S.521 Sch.- | 1942–1993 | Besetzungslisten T
+[OHNE] ID 4222 P4203 E4 Dossier VII.12.B.:23.5.2. T20 S.521 Sch.- | 1943–1944 | Besetzungslisten V
+[OHNE] ID 4223 P4203 E4 Dossier VII.12.B.:23.5.2. T21 S.521 Sch.- | 1959–1979 | Besetzungslisten W
+[OHNE] ID 4224 P4203 E4 Dossier VII.12.B.:23.5.2. T22 S.521 Sch.- | 1965–1993 | Besetzungslisten Z
+[OHNE] ID 4907 P4906 E5 Dossier VII.12.B.:27.1.1.1. T2 S.560 Sch.- | 30.09.1891–26.05.1895 | , Aufführungen im Stadttheater
+[OHNE] ID 4908 P4906 E5 Dossier VII.12.B.:27.1.1.1. T3 S.560 Sch.- | 22.09.1895–20.05.1898 | , Aufführungen im Stadttheater
+[OHNE] ID 4909 P4906 E5 Dossier VII.12.B.:27.1.1.1. T4 S.560 Sch.- | 17.09.1898–29.05.1901 | , Aufführungen im Stadttheater
+[OHNE] ID 4910 P4906 E5 Dossier VII.12.B.:27.1.1.1. T5 S.560 Sch.- | 16.09.1901–04.06.1907 | 16. Sept. 1901 – 4. Juni 1907, Aufführungen im Stadttheater und ab 22. Sep
+[OHNE] ID 4911 P4906 E5 Dossier VII.12.B.:27.1.1.1. T6 S.561 Sch.- | 16.09.1907–01.09.1912 | , Aufführungen im Stadttheater und im Theater am Pfauen (Pfauenbühne)
+[OHNE] ID 4912 P4906 E5 Dossier VII.12.B.:27.1.1.1. T7 S.561 Sch.- | 01.09.1912–26.10.1915 | , Aufführungen im Stadttheater und im Theater am Pfauen (Pfauenbühne)
+[OHNE] ID 4913 P4906 E5 Dossier VII.12.B.:27.1.1.1. T8 S.561 Sch.- | 20.10.1915–29.07.1917 | , Aufführungen im Stadttheater und im Theater am Pfauen (Pfauenbühne)
+[OHNE] ID 4914 P4906 E5 Dossier VII.12.B.:27.1.1.1. T9 S.561 Sch.- | 01.09.1917–30.06.1919 | , Aufführungen im Stadttheater und im Theater am Pfauen (Pfauenbühne)
+[OHNE] ID 4915 P4906 E5 Dossier VII.12.B.:27.1.1.1. T10 S.561 Sch.- | 15.07.1919–30.06.1921 | , Aufführungen im Stadttheater und im Theater am Pfauen (Pfauenbühne)
+[OHNE] ID 4916 P4906 E5 Dossier VII.12.B.:27.1.1.1. T11 S.561 Sch.- | 13.08.1921–30.05.1928 | , Aufführungen im Stadttheater und im Theater am Pfauen (Pfauenbühne)
+[OHNE] ID 4917 P4906 E5 Dossier VII.12.B.:27.1.1.1. T12 S.561 Sch.- | 01.09.1928–10.06.1930 | , Aufführungen im Stadttheater und einzelne im Theater am Pfauen (Schausp
+[OHNE] ID 4918 P4906 E5 Dossier VII.12.B.:27.1.1.1. T13 S.561 Sch.- | 05.09.1931–11.06.1932 | , Aufführungen im Stadttheater
+[OHNE] ID 4919 P4906 E5 Dossier VII.12.B.:27.1.1.1. T14 S.561 Sch.- | 07.09.1933–19.06.1934 | , Aufführungen im Schauspielhaus
+[OHNE] ID 4920 P4906 E5 Dossier VII.12.B.:27.1.1.1. T15 S.561 Sch.- | 15.09.1936–1937 | 15. Sept. 1936 (Il Barbiere di Siviglia, Gastspiel), 6, Okt. 1937 (Theresli, Ki
+[OHNE] ID 4921 P4906 E5 Dossier VII.12.B.:27.1.1.1. T16 S.561 Sch.- | 07.12.1938–18.03.1939 | 7. Dez. 1938 (Kindervorstellung "Dornröschen") (Gastspiel der Heidi-Bühne
+[OHNE] ID 4923 P4922 E5 Dossier VII.12.B.:27.1.1.2. T2 S.561 Sch.- | 22.09.1895–13.03.1899 | Kopien: (Stadttheater)
+[OHNE] ID 4924 P4922 E5 Dossier VII.12.B.:27.1.1.2. T3 S.561 Sch.- | 15.03.1899–29.05.1901 | Kopien: (Stadttheater)
+[OHNE] ID 4925 P4922 E5 Dossier VII.12.B.:27.1.1.2. T4 S.561 Sch.- | 17.09.1901–17.05.1905 | Kopien: (Stadttheater)
+[OHNE] ID 4926 P4922 E5 Dossier VII.12.B.:27.1.1.2. T5 S.561 Sch.- | 01.11.1901–30.04.1910 | Kopien: (Pfauenbühne)
+[OHNE] ID 4927 P4922 E5 Dossier VII.12.B.:27.1.1.2. T6 S.561 Sch.- | 18.09.1905–04.06.1907 | Kopien: (Stadttheater)
+[OHNE] ID 4928 P4922 E5 Dossier VII.12.B.:27.1.1.2. T7 S.561 Sch.- | 16.09.1907–28.04.1910 | Kopien: (Stadttheater)
+[OHNE] ID 4929 P4922 E5 Dossier VII.12.B.:27.1.1.2. T8 S.562 Sch.- | 16.09.1910–20.06.1913 | Kopien: (Stadttheater)
+[OHNE] ID 4930 P4922 E5 Dossier VII.12.B.:27.1.1.2. T9 S.562 Sch.- | 02.09.1910–29.06.1913 | Kopien: (Pfauenbühne)
+[OHNE] ID 4931 P4922 E5 Dossier VII.12.B.:27.1.1.2. T10 S.562 Sch.- | 31.08.1913–01.07.1915 | Kopien: (Stadttheater)
+[OHNE] ID 4932 P4922 E5 Dossier VII.12.B.:27.1.1.2. T11 S.562 Sch.- | 01.09.1913–04.07.1917 | Kopien: (Pfauenbühne)
+[OHNE] ID 4933 P4922 E5 Dossier VII.12.B.:27.1.1.2. T12 S.562 Sch.- | 01.09.1915–29.07.1917 | Kopien: (Stadttheater)
+[OHNE] ID 4934 P4922 E5 Dossier VII.12.B.:27.1.1.2. T13 S.562 Sch.- | 01.09.1917–06.1920 | Kopien: (Stadttheater)
+[OHNE] ID 4935 P4922 E5 Dossier VII.12.B.:27.1.1.2. T14 S.562 Sch.- | 01.09.1917–29.06.1920 | Kopien: (Pfauenbühne)
+[OHNE] ID 4936 P4922 E5 Dossier VII.12.B.:27.1.1.2. T15 S.562 Sch.- | 03.08.1920–28.06.1923 | Kopien: (Stadttheater)
+[OHNE] ID 4937 P4922 E5 Dossier VII.12.B.:27.1.1.2. T16 S.562 Sch.- | 04.05.1920–14.11.1933 | Kopien: (Pfauenbühne)
+[OHNE] ID 4938 P4922 E5 Dossier VII.12.B.:27.1.1.2. T17 S.562 Sch.- | 31.08.1924–31.05.1928 | Kopien: (Stadttheater)
+[OHNE] ID 4939 P4922 E5 Dossier VII.12.B.:27.1.1.2. T18 S.562 Sch.- | 01.09.1929–19.06.1938 | Kopien: (Stadttheater)
+[OHNE] ID 4941 P4940 E5 Dossier VII.12.B.:27.1.1.3. T2 S.562 Sch.- | 01.05.1904–15.07.1904 | Aufführungsplakate (Pfauenbühne)
+[OHNE] ID 4942 P4940 E5 Dossier VII.12.B.:27.1.1.3. T3 S.562 Sch.- | 12.04.1905–30.06.1905 | Aufführungsplakate (Pfauenbühne)
+[OHNE] ID 4943 P4940 E5 Dossier VII.12.B.:27.1.1.3. T4 S.562 Sch.- | 01.09.1905–30.06.1906 | Aufführungsplakate (Pfauenbühne)
+[OHNE] ID 4944 P4940 E5 Dossier VII.12.B.:27.1.1.3. T5 S.562 Sch.- | 05.05.1907–06.05.1907 | Aufführungsplakate (Pfauenbühne)
+[OHNE] ID 4945 P4940 E5 Dossier VII.12.B.:27.1.1.3. T6 S.562 Sch.- | 01.05.1908–30.06.1908 | Aufführungsplakate (Pfauenbühne)
+[OHNE] ID 4946 P4940 E5 Dossier VII.12.B.:27.1.1.3. T7 S.562 Sch.- | 01.05.1909–30.06.1909 | Aufführungsplakate (Pfauenbühne)
+[OHNE] ID 4947 P4940 E5 Dossier VII.12.B.:27.1.1.3. T8 S.562 Sch.- | 01.05.1911–30.07.1911 | Aufführungsplakate (Pfauenbühne)
+[OHNE] ID 4948 P4940 E5 Dossier VII.12.B.:27.1.1.3. T9 S.562 Sch.- | 06.09.1930–07.06.1931 | Aufführungsplakate 6. Sept. 1930 – 7. Juni 1931 (Stadttheater) Der Band wi
+[OHNE] ID 4951 P4950 E4 Dossier VII.12.B.:27.1.3. T2 S.563 Sch.- | 1963–1966 | Spielpläne
+[OHNE] ID 4952 P4950 E4 Dossier VII.12.B.:27.1.3. T3 S.563 Sch.- | 1973–1975 | Spielpläne
+[OHNE] ID 4953 P4950 E4 Dossier VII.12.B.:27.1.3. T4 S.563 Sch.- | 1975–1979 | Spielpläne
+[OHNE] ID 4954 P4950 E4 Dossier VII.12.B.:27.1.3. T5 S.563 Sch.- | 1979–1982 | Spielpläne
+[OHNE] ID 4955 P4950 E4 Dossier VII.12.B.:27.1.3. T6 S.563 Sch.- | 1982–1983 | Verschiedene Aufführungen u. a. Gastspiele
+[OHNE] ID 4956 P4950 E4 Dossier VII.12.B.:27.1.3. T7 S.563 Sch.- | 1984–1988 | Spielpläne
+[OHNE] ID 4957 P4950 E4 Dossier VII.12.B.:27.1.3. T8 S.563 Sch.- | 1988–1989 | Spielpläne und einzelne Aufführungen
+[OHNE] ID 4958 P4950 E4 Dossier VII.12.B.:27.1.3. T9 S.563 Sch.- | 1989–1991 | Spielpläne
+[OHNE] ID 4960 P4959 E4 Dossier VII.12.B.:27.1.4. T2 S.563 Sch.- | 25.10.1902– | kartonierte Menü-Karte vom 25. Okt. 1902 mit Foto von Sebastian Kisling und Widmung
+[OHNE] ID 4961 P4959 E4 Dossier VII.12.B.:27.1.4. T3 S.563 Sch.- | 09.1911– | kartonierte Mitteilung des Verwaltungsrates betreffend das Betreten des Zuschauerraums vo
+[OHNE] ID 4962 P4959 E4 Dossier VII.12.B.:27.1.4. T4 S.563 Sch.- | 1913–1923 | kartonierte kleine Plakate mit Ankündigung der Aufführungen "Parsifal" von 1913, 1914 un
+[OHNE] ID 4963 P4959 E4 Dossier VII.12.B.:27.1.4. T5 S.563 Sch.- | – | kartonierte kleine Plakate mit Ankündigung der Aufführungen "Parsifal" ohne Datum
+[OHNE] ID 4964 P4959 E4 Dossier VII.12.B.:27.1.4. T6 S.563 Sch.- | 06.1916– | Zürcher Stadttheater. Erinnerungsblätter. Zum Gedenken an die ersten 25 Jahre im neuen Ha
+[OHNE] ID 4965 P4959 E4 Dossier VII.12.B.:27.1.4. T7 S.563 Sch.- | 22.09.1918– | Zürcher Stadttheater. Sonntag, den 22. September 1918 abends 8 Uhr: Zum ersten Mal: Wo
+[OHNE] ID 4966 P4959 E4 Dossier VII.12.B.:27.1.4. T8 S.563 Sch.- | – | Stadttheater Zürich. Gastspiel des k. k. priv. Theaters an der Wien, Direktion Wilhelm Karczag. 
+[OHNE] ID 4967 P4959 E4 Dossier VII.12.B.:27.1.4. T9 S.563 Sch.- | – | kleine kartonierte Plakate zu Juni-Festspielen mit Fotos von Künstlern
+[OHNE] ID 4968 P4959 E4 Dossier VII.12.B.:27.1.4. T10 S.563 Sch.- | 1906–1916 | kleine kartonierte Plakate mit Mitteilungen
+[OHNE] ID 4969 P4959 E4 Dossier VII.12.B.:27.1.4. T11 S.564 Sch.- | 07.02.1926– | Stadttheater Zürich. Knockout! Operette in drei Akten von Jakob Rudolf, Musik von Mic
+[OHNE] ID 4970 P4959 E4 Dossier VII.12.B.:27.1.4. T12 S.564 Sch.- | 1971– | Operette von Carl Millöcker "Der Bettelstudent", 16. Januar
+[OHNE] ID 4971 P4959 E4 Dossier VII.12.B.:27.1.4. T13 S.564 Sch.- | 1971– | Die schalkhafte Witwe. Komische Oper von Ermanno Wolf-Ferrari
+[OHNE] ID 4972 P4959 E4 Dossier VII.12.B.:27.1.4. T14 S.564 Sch.- | 1971– | Der Besuch der alten Dame. Oper von Gottfried von Einem
+[OHNE] ID 4973 P4959 E4 Dossier VII.12.B.:27.1.4. T15 S.564 Sch.- | 1971– | Die sizilianische Vesper. Oper von Giuseppe Verdi
+[OHNE] ID 4974 P4959 E4 Dossier VII.12.B.:27.1.4. T16 S.564 Sch.- | 1971– | Der Rosenkavalier. Komödie für Musik von Richard Strauss
+[OHNE] ID 4975 P4959 E4 Dossier VII.12.B.:27.1.4. T17 S.564 Sch.- | 1971– | Ballettabend Michel Descombey
+[OHNE] ID 4976 P4959 E4 Dossier VII.12.B.:27.1.4. T18 S.564 Sch.- | 1971– | Jim Knopf und Lukas, der Lokomotivführer
+[OHNE] ID 4977 P4959 E4 Dossier VII.12.B.:27.1.4. T19 S.564 Sch.- | 1972– | Hans im Glück oder Die Reise nach Pitschiwaya
+[OHNE] ID 4978 P4959 E4 Dossier VII.12.B.:27.1.4. T20 S.564 Sch.- | 1972– | Hoffmanns Erzählungen. Phantastische Oper von J. Offenbach
+[OHNE] ID 4979 P4959 E4 Dossier VII.12.B.:27.1.4. T21 S.564 Sch.- | 1972– | Rudolf Nureyev. Ballett Raymonda
+[OHNE] ID 4980 P4959 E4 Dossier VII.12.B.:27.1.4. T22 S.564 Sch.- | 1972– | Internationale Juni-Festwochen (Spielplan)
+[OHNE] ID 4981 P4959 E4 Dossier VII.12.B.:27.1.4. T23 S.564 Sch.- | 1972– | Medea. Oper von Luigi Cherubini
+[OHNE] ID 4982 P4959 E4 Dossier VII.12.B.:27.1.4. T24 S.564 Sch.- | 1972– | Un ballo in maschera
+[OHNE] ID 4983 P4959 E4 Dossier VII.12.B.:27.1.4. T25 S.564 Sch.- | 1972– | Der Corregidor. Oper von Hugo Wolf
+[OHNE] ID 4984 P4959 E4 Dossier VII.12.B.:27.1.4. T26 S.564 Sch.- | 1972– | Ballettabend "La Sylphide"
+[OHNE] ID 4985 P4959 E4 Dossier VII.12.B.:27.1.4. T27 S.564 Sch.- | 1972– | Das Feuerwerk. Musical von Paul Burkhard
+[OHNE] ID 4986 P4959 E4 Dossier VII.12.B.:27.1.4. T28 S.564 Sch.- | 1972– | Ballets contemporains
+[OHNE] ID 4987 P4959 E4 Dossier VII.12.B.:27.1.4. T29 S.564 Sch.- | 1972– | Elisabeth Tudor
+[OHNE] ID 4988 P4959 E4 Dossier VII.12.B.:27.1.4. T30 S.564 Sch.- | 1973– | Die Meistersinger von Nürnberg, Capriccio
+[OHNE] ID 4989 P4959 E4 Dossier VII.12.B.:27.1.4. T31 S.564 Sch.- | 1973– | Ernani. Oper von Giuseppe Verdi
+[OHNE] ID 4990 P4959 E4 Dossier VII.12.B.:27.1.4. T32 S.564 Sch.- | 1973– | Hans im Glück oder Die Reise nach Pitschiwaya
+[OHNE] ID 4991 P4959 E4 Dossier VII.12.B.:27.1.4. T33 S.564 Sch.- | 1973– | Katja Kabanowa. Oper von Leoš Janáček
+[OHNE] ID 4992 P4959 E4 Dossier VII.12.B.:27.1.4. T34 S.564 Sch.- | 1973– | Ballett, Frédéric Chopin, Francis Poulenc, Luciano Berio
+[OHNE] ID 4993 P4959 E4 Dossier VII.12.B.:27.1.4. T35 S.564 Sch.- | 1973– | Pariser Leben
+[OHNE] ID 4994 P4959 E4 Dossier VII.12.B.:27.1.4. T36 S.564 Sch.- | 05.05.1973– | Ballettabend am 5. Mai 1973
+[OHNE] ID 4995 P4959 E4 Dossier VII.12.B.:27.1.4. T37 S.564 Sch.- | 1973– | Internationale Junifestwochen (Spielplan)
+[OHNE] ID 4996 P4959 E4 Dossier VII.12.B.:27.1.4. T38 S.564 Sch.- | 1973– | Ein Stern geht auf aus Jaakob
+[OHNE] ID 4997 P4959 E4 Dossier VII.12.B.:27.1.4. T39 S.565 Sch.- | 1973– | Cavalleria rusticana, I Pagliacci
+[OHNE] ID 4998 P4959 E4 Dossier VII.12.B.:27.1.4. T40 S.565 Sch.- | 1973– | Der Zigeunerbaron. Operette von Johann Strauss
+[OHNE] ID 4999 P4959 E4 Dossier VII.12.B.:27.1.4. T41 S.565 Sch.- | 1974– | Melusine. Oper von Aribert Reimann
+[OHNE] ID 5000 P4959 E4 Dossier VII.12.B.:27.1.4. T42 S.565 Sch.- | 1974– | Il Tabarro (Der Mantel)
+[OHNE] ID 5001 P4959 E4 Dossier VII.12.B.:27.1.4. T43 S.565 Sch.- | 1974– | Der Sturm. Ein Zauber-Lustspiel von Frank Martin
+[OHNE] ID 5002 P4959 E4 Dossier VII.12.B.:27.1.4. T44 S.565 Sch.- | 1974– | Schwanensee. Ballett von Peter I. Tschaikowsky
+[OHNE] ID 5003 P4959 E4 Dossier VII.12.B.:27.1.4. T45 S.565 Sch.- | 1974– | Otello
+[OHNE] ID 5004 P4959 E4 Dossier VII.12.B.:27.1.4. T46 S.565 Sch.- | 1974– | La fille mal gardée. Ballett
+[OHNE] ID 5005 P4959 E4 Dossier VII.12.B.:27.1.4. T47 S.565 Sch.- | 1974– | Max und Moritz. Tanzspiel mit Gesang
+[OHNE] ID 5006 P4959 E4 Dossier VII.12.B.:27.1.4. T48 S.565 Sch.- | 1974– | Die Banditen (Les Brigands)
+[OHNE] ID 5007 P4959 E4 Dossier VII.12.B.:27.1.4. T49 S.565 Sch.- | 1974– | Pique Dame. Oper von Peter I. Tschaikowsky
+[OHNE] ID 5008 P4959 E4 Dossier VII.12.B.:27.1.4. T50 S.565 Sch.- | 1974– | Ballett. Satire, Konzert für Orchester, Der Feuervogel
+[OHNE] ID 5009 P4959 E4 Dossier VII.12.B.:27.1.4. T51 S.565 Sch.- | 1974– | Internationale Junifestwochen (Spielplan)
+[OHNE] ID 5010 P4959 E4 Dossier VII.12.B.:27.1.4. T52 S.565 Sch.- | 1975– | Internationale Junifestwochen (Spielplan)
+[OHNE] ID 5011 P4959 E4 Dossier VII.12.B.:27.1.4. T53 S.565 Sch.- | 1975– | Monteverdi. L'Orfeo
+[OHNE] ID 5012 P4959 E4 Dossier VII.12.B.:27.1.4. T54 S.565 Sch.- | 1975– | La fedeltà premiata (Die belohnte Treue)
+[OHNE] ID 5013 P4959 E4 Dossier VII.12.B.:27.1.4. T55 S.565 Sch.- | 1975– | Ein wahrer Held
+[OHNE] ID 5014 P4959 E4 Dossier VII.12.B.:27.1.4. T56 S.565 Sch.- | 1975– | Ballett. Les Biches
+[OHNE] ID 5015 P4959 E4 Dossier VII.12.B.:27.1.4. T57 S.565 Sch.- | 1975– | M. L. Neuinszenierung in italienischer Sprache
+[OHNE] ID 5016 P4959 E4 Dossier VII.12.B.:27.1.4. T58 S.565 Sch.- | 1976– | Junifestwochen 76 (Spielplan)
+[OHNE] ID 5017 P4959 E4 Dossier VII.12.B.:27.1.4. T59 S.565 Sch.- | 1983– | Aida, 11. – 26. Januar '83. Opernhaus im Hallenstadion Zürich
+[OHNE] ID 5018 P4959 E4 Dossier VII.12.B.:27.1.4. T60 S.565 Sch.- | – | Aufhänge-Schild: "Nach den Vorstellungen Strassenbahnwagen nach allen Richtungen"
+[OHNE] ID 5019 P4959 E4 Dossier VII.12.B.:27.1.4. T61 S.565 Sch.- | – | Aufstieg und Fall der Stadt Mahagonny. Kurt Weill, Bertolt Brecht
+[OHNE] ID 5020 P4959 E4 Dossier VII.12.B.:27.1.4. T62 S.565 Sch.- | – | diverse Spielpläne
+[OHNE] ID 5022 P5021 E4 Dossier VII.12.B.:27.1.5. T2 S.565 Sch.- | 30.10.1955– | Schauspielhaus Zürich. Kammer-Sprechchor Zürich, Leitung: Ellen Widmann und Pro Musica
+[OHNE] ID 5023 P5021 E4 Dossier VII.12.B.:27.1.5. T3 S.565 Sch.- | 14.05.1958– | Tonhalle Kleiner Saal. Konzert für Sprechchor, Sopran und Instrumente. Kammer-Sprechch
+[OHNE] ID 5024 P5021 E4 Dossier VII.12.B.:27.1.5. T4 S.565 Sch.- | 28.12.1962– | Cabaret Rüeblisaft. Was wämmer no meh? Theater im Kornhaus Baden
+[OHNE] ID 5025 P5021 E4 Dossier VII.12.B.:27.1.5. T5 S.566 Sch.- | 26.12.1966– | Seltsames Paar, Lustspiel von Neil Simon und Werner Wollenberger. Bernhard Theater
+[OHNE] ID 5026 P5021 E4 Dossier VII.12.B.:27.1.5. T6 S.566 Sch.- | 08.11.1972– | Froschkönig, Zürcher Märchenbühne. COOP Fricktal, Hotel Bahnhof, Rheinfelden
+[OHNE] ID 5027 P5021 E4 Dossier VII.12.B.:27.1.5. T7 S.566 Sch.- | 1975– | Choreostudio. Ballettwerkstatt Opernhaus Zürich, Studio Bellerive, Kreuzstrasse 2. Klein Pla
+[OHNE] ID 5028 P5021 E4 Dossier VII.12.B.:27.1.5. T8 S.566 Sch.- | 05.10.1977– | Theater am Hechtplatz. Schweizer Erstaufführung: Nächstes Jahr gleiche Zeit. Komödie v
+[OHNE] ID 5029 P5021 E4 Dossier VII.12.B.:27.1.5. T9 S.566 Sch.- | 1979– | Potz Millione. Dialektkomödie von Inigo Gallo. Bernhard-Theater Zürich
+[OHNE] ID 5030 P5021 E4 Dossier VII.12.B.:27.1.5. T10 S.566 Sch.- | 12.05.1980– | Werner Hollweg: Lieder- und Balladenabend. Rezitationen von Uhland, Heine und C. F. M
+[OHNE] ID 5031 P5021 E4 Dossier VII.12.B.:27.1.5. T11 S.566 Sch.- | 26.12.1981– | Acapulco Madame. Schweizerische Erstaufführung mit Ines Torelli und Jörg Schneider. T
+[OHNE] ID 5032 P5021 E4 Dossier VII.12.B.:27.1.5. T12 S.566 Sch.- | 27.08.1981– | Corso-Theater Zürich: Der schwarze Hecht. Lustspiel von Jürg Amstein
+[OHNE] ID 5033 P5021 E4 Dossier VII.12.B.:27.1.5. T13 S.566 Sch.- | 1982– | 1. Opera-Mobile-Spielzeit. Unsere Premieren 1982/83
+[OHNE] ID 5034 P5021 E4 Dossier VII.12.B.:27.1.5. T14 S.566 Sch.- | 01.12.1982– | Piaf. Schauspiel mit Chansons von Pam Gems, Maria Bill als Edith Piaf, eine Produktio
+[OHNE] ID 5035 P5021 E4 Dossier VII.12.B.:27.1.5. T15 S.566 Sch.- | 1982– | Loosli Marionetten: Die Kinderbrücke. Weihnachts-Gastspiel im Grossen Kunsthaussaal beim Pf
+[OHNE] ID 5036 P5021 E4 Dossier VII.12.B.:27.1.5. T16 S.566 Sch.- | 25.04.1983– | Andalusisches Zigeuner-Flamenco-Tanztheater "iay! Jondo", Mario Maya und sein Ensembl
+[OHNE] ID 5037 P5021 E4 Dossier VII.12.B.:27.1.5. T17 S.566 Sch.- | 28.09.1983– | Schweizer Erstaufführung: Drei Männer im Schnee, Dialekt-Komödie von Charles Lewinsky
+[OHNE] ID 5038 P5021 E4 Dossier VII.12.B.:27.1.5. T18 S.566 Sch.- | 22.02.1984– | Der schwarze Hecht, Theater für den Kanton Zürich, Veranstalter Edi Baur. Theater in 
+[OHNE] ID 5039 P5021 E4 Dossier VII.12.B.:27.1.5. T19 S.566 Sch.- | 29.12.1984– | Theater am Hechtplatz. Toi, toi, toi! mit Ines Torelli, Heiner Hitz. Jubiläum 25 Jahr
+[OHNE] ID 5040 P5021 E4 Dossier VII.12.B.:27.1.5. T20 S.566 Sch.- | 1985– | Spielplan 1985/86
+[OHNE] ID 5041 P5021 E4 Dossier VII.12.B.:27.1.5. T21 S.566 Sch.- | 01.11.1986– | Theater am Hechtplatz: Die Kleine Hexe von Otto Preussler. 25 Jahre Zürcher Märchenbü
+[OHNE] ID 5042 P5021 E4 Dossier VII.12.B.:27.1.5. T22 S.566 Sch.- | 1986– | Studiobühne Opernhaus Zürich: Die Liebesprobe. Komische Oper von Gioacchino Rossini. Ab 20.
+[OHNE] ID 5043 P5021 E4 Dossier VII.12.B.:27.1.5. T23 S.567 Sch.- | 1986– | Ballettabend 3: Uraufführung "Toccata", Erstaufführung "Septett", Uraufführung "Die tausend
+[OHNE] ID 5044 P5021 E4 Dossier VII.12.B.:27.1.5. T24 S.567 Sch.- | 22.05.1986– | Die kleine Niederdorf-Oper, Regie Franz Matter. Corso-Theater Zürich
+[OHNE] ID 5045 P5021 E4 Dossier VII.12.B.:27.1.5. T25 S.567 Sch.- | 1987– | André Tahon's Traumwelt. Zürihorn, Zirkuszelt ab 10. Juni 1987 im Rahmen der Junifestwochen
+[OHNE] ID 5046 P5021 E4 Dossier VII.12.B.:27.1.5. T26 S.567 Sch.- | 21.06.1987– | Summermärli, André Tahon's Kindertheater. Zirkuszelt Zürichhorn
+[OHNE] ID 5047 P5021 E4 Dossier VII.12.B.:27.1.5. T27 S.567 Sch.- | 02.06.1988– | Die kleine Niederdorf-Oper, Regie Franz Matter. Corso-Theater Zürich
+[OHNE] ID 5048 P5021 E4 Dossier VII.12.B.:27.1.5. T28 S.567 Sch.- | 1988– | Opernhaus Zürich. Direktion Christoph Groszer. Premieren Spielzeit 88/89
+[OHNE] ID 5049 P5021 E4 Dossier VII.12.B.:27.1.5. T29 S.567 Sch.- | 06.05.1988– | Mike Westbrook Band presents Westbrook-Rossini. Jazz und Rock Variations on themes fr
+[OHNE] ID 5050 P5021 E4 Dossier VII.12.B.:27.1.5. T30 S.567 Sch.- | 07.07.1988– | André Tahon's Traumwelt. Corso Theater Zürich und Edi Baur Produktion. Schweizerische
+[OHNE] ID 5051 P5021 E4 Dossier VII.12.B.:27.1.5. T31 S.567 Sch.- | 17.01.1989–19.01.1989 | Duke Ellington's. Sophisticated Ladies. A Broadway Musical at the Kongressh
+[OHNE] ID 5052 P5021 E4 Dossier VII.12.B.:27.1.5. T32 S.567 Sch.- | 25.05.1989– | Die kleine Niederdorf-Oper, Regie Franz Matter. Corso-Theater Zürich
+[OHNE] ID 5053 P5021 E4 Dossier VII.12.B.:27.1.5. T33 S.567 Sch.- | 1989– | Opernhaus Zürich. Direktion Christoph Groszer. Premieren Spielzeit 1989/90
+[OHNE] ID 5054 P5021 E4 Dossier VII.12.B.:27.1.5. T34 S.567 Sch.- | 1989–18.01.1990 | Bettina Falcone. Musikalische Traummalerei. 27. Nov. 1989 bis 1989 18. Jan. 1990.
+[OHNE] ID 5055 P5021 E4 Dossier VII.12.B.:27.1.5. T35 S.567 Sch.- | 26.11.1989– | Dialekt-Kindermusical nach Carlo Collodi von Jörg Schneider, Uraufführung, Produktion
+[OHNE] ID 5056 P5021 E4 Dossier VII.12.B.:27.1.5. T36 S.567 Sch.- | 1990– | Opernhaus Zürich. Direktion Christoph Groszer. Premieren Spielzeit 90/91
+[OHNE] ID 5057 P5021 E4 Dossier VII.12.B.:27.1.5. T37 S.567 Sch.- | 1991– | Aktuell im Opernhaus Zürich. Intendanz Alexander Pereira. Premieren 1991/92
+[OHNE] ID 5058 P5021 E4 Dossier VII.12.B.:27.1.5. T38 S.567 Sch.- | 29.04.1996– | Opernhaus Zürich. The Herbie Hancock Quartet
+[OHNE] ID 5059 P5021 E4 Dossier VII.12.B.:27.1.5. T39 S.567 Sch.- | – | Stadttheater Zürich. Wilhelm Furtwängler dirigiert zwei Festvorstellungen. Tristan und Isolde v
+[OHNE] ID 5060 P5021 E4 Dossier VII.12.B.:27.1.5. T40 S.567 Sch.- | – | Die kleine Niederdorf-Oper, Regie Jörg Schneider, eine Baur-Corrodi-Produktion. Corso-Theater-Z
+[OHNE] ID 5061 P5021 E4 Dossier VII.12.B.:27.1.5. T41 S.567 Sch.- | – | West Side Story, Empire State Building, Kopie des Plakates
+[OHNE] ID 5062 P5021 E4 Dossier VII.12.B.:27.1.5. T42 S.567 Sch.- | – | Cabaret. Vera Furrer, Alfred Bruggmann: Alles Bluff!
+[OHNE] ID 5063 P5021 E4 Dossier VII.12.B.:27.1.5. T43 S.568 Sch.- | – | Vera Furrer und Alfred Bruggmann vom Cabaret Rüeblisaft: Spass-O-Doble, Musik von Hermann Thiem
+[OHNE] ID 5064 P5021 E4 Dossier VII.12.B.:27.1.5. T44 S.568 Sch.- | – | Cabaret. Vera Furrer, Alfred Bruggmann vom Cabaret Rüeblisaft: Mach kei Witz!
+[OHNE] ID 5065 P5021 E4 Dossier VII.12.B.:27.1.5. T45 S.568 Sch.- | – | Das Cabaret Rüebliland offeriert Ihnen "Früsche Rüeblisaft"
+[OHNE] ID 5066 P5021 E4 Dossier VII.12.B.:27.1.5. T46 S.568 Sch.- | – | Cabaret Rüeblisaft. Situationen, Theater am Hechtplatz
+[OHNE] ID 5067 P5021 E4 Dossier VII.12.B.:27.1.5. T47 S.568 Sch.- | – | Opernhaus Zürich. Harry Belafonte
+[OHNE] ID 5068 P5021 E4 Dossier VII.12.B.:27.1.5. T48 S.568 Sch.- | – | Opernhaus Zürich. Another night at the opera
+[OHNE] ID 5069 P5021 E4 Dossier VII.12.B.:27.1.5. T49 S.568 Sch.- | – | Opernhaus Studiobühne. Der Kaiser von Atlantis, Hin und zurück, Le pauvre matelot, musikalische
+[OHNE] ID 5070 P5021 E4 Dossier VII.12.B.:27.1.5. T50 S.568 Sch.- | – | Zürcher Märchenbühne im Theater am Hechtplatz. Neues vom Räuber Hotzenplotz mit Ines Torelli
+[OHNE] ID 5071 P5021 E4 Dossier VII.12.B.:27.1.5. T51 S.568 Sch.- | – | Theater am Hechtplatz. Die Zürcher Märchenbühne, Leitung von Edi Baur. Neues vom Räuber Hotzenp
+[OHNE] ID 5072 P5021 E4 Dossier VII.12.B.:27.1.5. T52 S.568 Sch.- | – | Gesucht wird Räuber Hotzenplotz
+[OHNE] ID 5073 P5021 E4 Dossier VII.12.B.:27.1.5. T53 S.568 Sch.- | – | Rumpelstilzchen
+[OHNE] ID 5074 P5021 E4 Dossier VII.12.B.:27.1.5. T54 S.568 Sch.- | – | Das Zirkus Abenteuer oder Der gestohlene Kater. Theater am Hechtplatz, Zürcher Märchenbühne
+[OHNE] ID 5075 P5021 E4 Dossier VII.12.B.:27.1.5. T55 S.568 Sch.- | – | Dornröschen, Zürcher Märchenbühne, Leitung Ines Torelli. Theater am Hechtplatz
+[OHNE] ID 5076 P5021 E4 Dossier VII.12.B.:27.1.5. T56 S.568 Sch.- | – | Der gestiefelte Kater. Zürcher Märchenbühne im Theater am Hechtplatz
+[OHNE] ID 5077 P5021 E4 Dossier VII.12.B.:27.1.5. T57 S.568 Sch.- | – | Der Räuber Hotzenplotz. Theater am Hechtplatz, Zürcher Märchenbühne, Leitung Edi Baur
+[OHNE] ID 5078 P5021 E4 Dossier VII.12.B.:27.1.5. T58 S.568 Sch.- | – | Altmodische Komödie von Alexej Arbusow. Theater am Hechtplatz, Anne-Marie Blanc und Sigfrit Ste
+[OHNE] ID 5079 P5021 E4 Dossier VII.12.B.:27.1.5. T59 S.568 Sch.- | – | Dornröschen. 20. Jahre Zürcher-Märchenbühne, Leitung Edi Baur, Theater am Hechtplatz
+[OHNE] ID 5080 P5021 E4 Dossier VII.12.B.:27.1.5. T60 S.568 Sch.- | – | Pfyfe Max, Zeitgemässes Kinder- und Jugendtheater. Theater am Hechtplatz
+[OHNE] ID 5081 P5021 E4 Dossier VII.12.B.:27.1.5. T61 S.568 Sch.- | – | Mademoiselle Pépsi, Lustspiel von Pierrette Bruno. Bernhard-Theater
+[OHNE] ID 5082 P5021 E4 Dossier VII.12.B.:27.1.5. T62 S.568 Sch.- | – | Quartett für Schwindler, Produktion von Edi Baur. Theater am Hechtplatz
+[OHNE] ID 5083 P5021 E4 Dossier VII.12.B.:27.1.5. T63 S.568 Sch.- | – | Das Schwarze Theater und Ines Torelli: Peter und der Wolf, Gaby in Gefahr. Theater am Hechtplat
+[OHNE] ID 5084 P5021 E4 Dossier VII.12.B.:27.1.5. T64 S.568 Sch.- | – | Frau Holle, Zürcher Märchenbühne, Kinder Zeichenwettbewerb. Theater am Hechtplatz
+[OHNE] ID 5085 P5021 E4 Dossier VII.12.B.:27.1.5. T65 S.568 Sch.- | – | Rumpelstilzchen, Zürcher Märchenbühne, Leitung Ines Torelli, Kinder-Zeichenwettbewerb. Theater 
+[OHNE] ID 5086 P5021 E4 Dossier VII.12.B.:27.1.5. T66 S.569 Sch.- | – | Das tapfere Schneiderlein, Zürcher Märchenbühne, Kinder-Zeichenwettbewerb. Theater am Hechtplat
+[OHNE] ID 5087 P5021 E4 Dossier VII.12.B.:27.1.5. T67 S.569 Sch.- | – | Golden Girl, Musical von Hans Gmür und Karl Suter. Theater am Hechtplatz
+[OHNE] ID 5088 P5021 E4 Dossier VII.12.B.:27.1.5. T68 S.569 Sch.- | – | Seltsames Paar, Ruedi Walter und Peter W. Staub. Bernhard-Theater Zürich
+[OHNE] ID 5089 P5021 E4 Dossier VII.12.B.:27.1.5. T69 S.569 Sch.- | – | Walter Roderer: Der Mustergatte
+[OHNE] ID 5090 P5021 E4 Dossier VII.12.B.:27.1.5. T70 S.569 Sch.- | – | Pfui Martina, Musical-Burleske von Hans Gmür, Produktion Edi Baur. Theater am Hechtplatz
+[OHNE] ID 5091 P5021 E4 Dossier VII.12.B.:27.1.5. T71 S.569 Sch.- | – | Die kleine Hexe. Es Märli vom Otfried Preussler zum erschte Mal uf Züridütsch
+[OHNE] ID 5092 P5021 E4 Dossier VII.12.B.:27.1.5. T72 S.569 Sch.- | – | Bibi-Balu, ein Gaunermusical von Hans Gmür und Karl Suter, eine Produktion von Edi Baur
+[OHNE] ID 5093 P5021 E4 Dossier VII.12.B.:27.1.5. T73 S.569 Sch.- | – | Concentus musicus Wien. Das alte Werk, Telefunken
+[OHNE] ID 5124 P5123 E3 Dossier VII.12.B.:29.2.9. S.570 Sch.- | 1985– | Who Shall Abide
+[OHNE] ID 5131 P5130 E4 Dossier VII.12.B.:30.2.1. T2 S.571 Sch.- | 1891– | Stadtheater Zürich. Direktion
+[OHNE] ID 5132 P5130 E4 Dossier VII.12.B.:30.2.1. T3 S.572 Sch.- | 12.09.1970– | Georg Friedrich Händel: Agrippina
+[OHNE] ID 5133 P5130 E4 Dossier VII.12.B.:30.2.1. T4 S.572 Sch.- | 23.03.1975– | Joseph Haydn: La Fedeltà Premiata
+[OHNE] ID 5134 P5130 E4 Dossier VII.12.B.:30.2.1. T5 S.572 Sch.- | 08.01.1976–12.11.1977 | Claudio Monteverdi: L'incoronazione Poppea, 8. Jan. 1976 / Il Ritorno d'Ulli
+[OHNE] ID 5135 P5130 E4 Dossier VII.12.B.:30.2.1. T6 S.572 Sch.- | 22.04.1978–23.06.1979 | Gioacchino Rossini: La Cenerentola, 22. April 1978 / Claudio Monteverdi: Ach
+[OHNE] ID 5136 P5130 E4 Dossier VII.12.B.:30.2.1. T7 S.572 Sch.- | 01.03.1980–28.02.1981 | Wolfgang Amadeus Mozart: Idomeneo, 1. März 1980 / Lucio Silla
+[OHNE] ID 5137 P5130 E4 Dossier VII.12.B.:30.2.1. T8 S.572 Sch.- | 05.09.1981–24.04.1982 | Gioacchino Rossini: Le Comte Ory, 5. Sept. 1981 / Georges Bizet: Carmen
+[OHNE] ID 5138 P5130 E4 Dossier VII.12.B.:30.2.1. T9 S.572 Sch.- | 04.05.1983–23.02.1985 | Wolfgang Amadeus Mozart: Mitridate, re di Ponto, 4. Mai 1983 / Die Entführun
+[OHNE] ID 5139 P5130 E4 Dossier VII.12.B.:30.2.1. T10 S.572 Sch.- | 15.02.1986– | Wolfgang Amadeus Mozart: Così fan tutte, 15. Febr. 1986 / Die Zauberfläte, 15. Nov. 1
+[OHNE] ID 5140 P5130 E4 Dossier VII.12.B.:30.2.1. T11 S.572 Sch.- | 25.01.1988– | Wolfgang Amadeus Mozart: Don Giovanni (Plakat), 14. Nov. 1987 1987-1988
+[OHNE] ID 5141 P5130 E4 Dossier VII.12.B.:30.2.1. T12 S.572 Sch.- | 1988– | Opernhaus Zürich. Man of la Mancha. Der Brodway im Zürcher Opernhaus ab 1. bis 21. Juni 198
+[OHNE] ID 5142 P5130 E4 Dossier VII.12.B.:30.2.1. T13 S.572 Sch.- | 1988– | Ballettabend. Klavierkonzert / Sonate / Suite / Feuervogel ab 11. Sept. 1988 (Plakat mit Au
+[OHNE] ID 5143 P5130 E4 Dossier VII.12.B.:30.2.1. T14 S.572 Sch.- | 01.10.1988– | Opernhaus Zürich. Ballett: Variation-1, Skythische Suite, Der wunderbare Mandarin, Ch
+[OHNE] ID 5144 P5130 E4 Dossier VII.12.B.:30.2.1. T15 S.572 Sch.- | 1988– | Madama Butterfly ab 8. Okt. 1988 (Plakat)
+[OHNE] ID 5145 P5130 E4 Dossier VII.12.B.:30.2.1. T16 S.572 Sch.- | 1988– | Die verkaufte Braut ab 21. Oktober 1988 (Plakat)
+[OHNE] ID 5146 P5130 E4 Dossier VII.12.B.:30.2.1. T17 S.572 Sch.- | 1988– | La Fille du Régiment ab 19. November 1988 (Plakat), 2 Expl.
+[OHNE] ID 5147 P5130 E4 Dossier VII.12.B.:30.2.1. T18 S.573 Sch.- | 1988– | Das schlaue Füchslein ab 17. Dezember 1988 (Plakat)
+[OHNE] ID 5148 P5130 E4 Dossier VII.12.B.:30.2.1. T19 S.573 Sch.- | 1988– | Romeo und Julia ab 18. Dezember 1988 (Plakat)
+[OHNE] ID 5149 P5130 E4 Dossier VII.12.B.:30.2.1. T20 S.573 Sch.- | 1989– | Romeo und Julia ab 4. März 1989 (Plakat)
+[OHNE] ID 5150 P5130 E4 Dossier VII.12.B.:30.2.1. T21 S.573 Sch.- | 01.04.1989–30.04.1989 | Opernhaus, Studio-Bühne. Die heimliche Ehe, eine Produktion des Internation
+[OHNE] ID 5151 P5130 E4 Dossier VII.12.B.:30.2.1. T22 S.573 Sch.- | 09.06.1989–18.06.1989 | Opernhaus Zürich. Nabucco, Hallenstadion Zürich
+[OHNE] ID 5152 P5130 E4 Dossier VII.12.B.:30.2.1. T23 S.573 Sch.- | 1989– | Warum an den Festtagen nicht einmal ins Opernhaus? Spielplan ab 23. Dezember 1989 (Plakat)
+[OHNE] ID 5153 P5130 E4 Dossier VII.12.B.:30.2.1. T24 S.573 Sch.- | 1990– | Die Schöpfung, Oratorium von Joseph Haydn, Choreographie von Uwe Scholz
+[OHNE] ID 5154 P5130 E4 Dossier VII.12.B.:30.2.1. T25 S.573 Sch.- | 03.11.1990– | La Clemenza di Tito, Nikolaus Harnoncourt dirigiert Mozart's letzte Oper
+[OHNE] ID 5155 P5130 E4 Dossier VII.12.B.:30.2.1. T26 S.573 Sch.- | 1990–06.1991 | Saison-Spielplan des Opernhauses mit Aufführungs-Fotos, Sept. 1990 (Plakat)
+[OHNE] ID 5156 P5130 E4 Dossier VII.12.B.:30.2.1. T27 S.573 Sch.- | 03.1992– | Spielplan vom März 1992 (Plakat mit Aufführungsfoto "Le Grand Macabre")
+[OHNE] ID 5158 P5157 E4 Dossier VII.12.B.:30.2.2. T2 S.573 Sch.- | – | "di chli Häx", Opernhaus Zürich
+[OHNE] ID 5159 P5157 E4 Dossier VII.12.B.:30.2.2. T3 S.573 Sch.- | – | Fra Diavolo, komische Räuberoper von Daniel François Esprit Auber
+[OHNE] ID 5160 P5157 E4 Dossier VII.12.B.:30.2.2. T4 S.573 Sch.- | – | La Fille du Régiment ab 22. Februar (o. J.)
+[OHNE] ID 5161 P5157 E4 Dossier VII.12.B.:30.2.2. T5 S.573 Sch.- | – | Viva la Mamma
+[OHNE] ID 5162 P5157 E4 Dossier VII.12.B.:30.2.2. T6 S.573 Sch.- | – | Der Zigeunerbaron. Erfolgreich im Spielplan!
+[OHNE] ID 5163 P5157 E4 Dossier VII.12.B.:30.2.2. T7 S.573 Sch.- | – | Elektra. Deborah Polaski
+[OHNE] ID 5164 P5157 E4 Dossier VII.12.B.:30.2.2. T8 S.573 Sch.- | – | Lulu
+[OHNE] ID 5165 P5157 E4 Dossier VII.12.B.:30.2.2. T9 S.573 Sch.- | – | Fedora
+[OHNE] ID 5166 P5157 E4 Dossier VII.12.B.:30.2.2. T10 S.573 Sch.- | – | Die lustigen Weiber von Windsor
+[OHNE] ID 5167 P5157 E4 Dossier VII.12.B.:30.2.2. T11 S.573 Sch.- | – | Attila
+[OHNE] ID 5168 P5157 E4 Dossier VII.12.B.:30.2.2. T12 S.573 Sch.- | – | Adagio Hammerklavier
+[OHNE] ID 5169 P5157 E4 Dossier VII.12.B.:30.2.2. T13 S.574 Sch.- | – | Le tombeau de Couperin
+[OHNE] ID 5170 P5157 E4 Dossier VII.12.B.:30.2.2. T14 S.574 Sch.- | – | Romeo und Julia
+[OHNE] ID 5171 P5157 E4 Dossier VII.12.B.:30.2.2. T15 S.574 Sch.- | – | Maria Stuarda
+[OHNE] ID 5172 P5157 E4 Dossier VII.12.B.:30.2.2. T16 S.574 Sch.- | – | Die lustige Witwe. Jörg Schneider als Njegus
+[OHNE] ID 5173 P5157 E4 Dossier VII.12.B.:30.2.2. T17 S.574 Sch.- | – | Die Bettleroper
+[OHNE] ID 5174 P5157 E4 Dossier VII.12.B.:30.2.2. T18 S.574 Sch.- | – | Opernhaus Zürich. Rot und Schwarz, Uraufführung. Ein Ballett von Uwe Scholz
+[OHNE] ID 5175 P5157 E4 Dossier VII.12.B.:30.2.2. T19 S.574 Sch.- | – | Opernhaus Zürich. Die Schöpfung
+[OHNE] ID 5176 P5157 E4 Dossier VII.12.B.:30.2.2. T20 S.574 Sch.- | – | Formen – Farben – Expressionen. Ein sprühendes Kaleidoskop tänzerischer Stile. Ballettabend
+[OHNE] ID 5177 P5157 E4 Dossier VII.12.B.:30.2.2. T21 S.574 Sch.- | – | Ein Sommernachtstraum, Ballettabend von Uwe Scholz
+[OHNE] ID 5178 P5157 E4 Dossier VII.12.B.:30.2.2. T22 S.574 Sch.- | – | Opernhaus Zürich. Coppélia, Ballett
+[OHNE] ID 5179 P5157 E4 Dossier VII.12.B.:30.2.2. T23 S.574 Sch.- | – | Wagner. Ballettabend von Uwe Scholz
+[OHNE] ID 5180 P5157 E4 Dossier VII.12.B.:30.2.2. T24 S.574 Sch.- | – | Das Jahrbuch ist da!
+[OHNE] ID 5181 P5157 E4 Dossier VII.12.B.:30.2.2. T25 S.574 Sch.- | – | Opernhaus Zürich. Mefistofele
+[OHNE] ID 5182 P5157 E4 Dossier VII.12.B.:30.2.2. T26 S.574 Sch.- | – | Cinderella
+[OHNE] ID 5183 P5157 E4 Dossier VII.12.B.:30.2.2. T27 S.574 Sch.- | – | Opernhaus Zürich. Semiramide
+[OHNE] ID 5184 P5157 E4 Dossier VII.12.B.:30.2.2. T28 S.574 Sch.- | – | Madame Butterfly
+[OHNE] ID 5185 P5157 E4 Dossier VII.12.B.:30.2.2. T29 S.574 Sch.- | – | Man of la Mancha. Profis aus den USA, ein Musical von ganz eigener Gestalt. Opernhaus Zürich
+[OHNE] ID 5186 P5157 E4 Dossier VII.12.B.:30.2.2. T30 S.574 Sch.- | – | Opernhaus. Le Grand Macabre
+[OHNE] ID 5187 P5157 E4 Dossier VII.12.B.:30.2.2. T31 S.574 Sch.- | – | Richard Strauss, Elektra. Konzertant, Tonhalle
+[OHNE] ID 5188 P5157 E4 Dossier VII.12.B.:30.2.2. T32 S.574 Sch.- | – | La Bohème. Opernhaus Zürich
+[OHNE] ID 5189 P5157 E4 Dossier VII.12.B.:30.2.2. T33 S.574 Sch.- | – | Mitridate, re di Ponto
+[OHNE] ID 5190 P5157 E4 Dossier VII.12.B.:30.2.2. T34 S.574 Sch.- | – | Opernhaus. Ballett I
+[OHNE] ID 5191 P5157 E4 Dossier VII.12.B.:30.2.2. T35 S.574 Sch.- | – | Oktett
+[OHNE] ID 5192 P5157 E4 Dossier VII.12.B.:30.2.2. T36 S.574 Sch.- | – | Verklärte Nacht. Ensemble
+[OHNE] ID 5193 P5157 E4 Dossier VII.12.B.:30.2.2. T37 S.574 Sch.- | – | Irish Fantasy. Saint-Saëns i d'Amboise
+[OHNE] ID 5194 P5157 E4 Dossier VII.12.B.:30.2.2. T38 S.574 Sch.- | – | Keep smiling
+[OHNE] ID 5195 P5157 E4 Dossier VII.12.B.:30.2.2. T39 S.574 Sch.- | – | Contredance
+[OHNE] ID 5196 P5157 E4 Dossier VII.12.B.:30.2.2. T40 S.574 Sch.- | – | Banditenstreiche
+[OHNE] ID 5197 P5157 E4 Dossier VII.12.B.:30.2.2. T41 S.574 Sch.- | – | Salome
+[OHNE] ID 5198 P5157 E4 Dossier VII.12.B.:30.2.2. T42 S.574 Sch.- | – | Traviata
+[OHNE] ID 5199 P5157 E4 Dossier VII.12.B.:30.2.2. T43 S.574 Sch.- | – | Cabaret
+[OHNE] ID 5200 P5157 E4 Dossier VII.12.B.:30.2.2. T44 S.574 Sch.- | – | Saul
+[OHNE] ID 5201 P5157 E4 Dossier VII.12.B.:30.2.2. T45 S.574 Sch.- | – | Don Quixote
+[OHNE] ID 5202 P5157 E4 Dossier VII.12.B.:30.2.2. T46 S.574 Sch.- | – | Antoine und die Trompete c/o Aula Rämibühl
+[OHNE] ID 5203 P5157 E4 Dossier VII.12.B.:30.2.2. T47 S.574 Sch.- | – | Antigone
+[OHNE] ID 5204 P5157 E4 Dossier VII.12.B.:30.2.2. T48 S.574 Sch.- | – | Lulu
+[OHNE] ID 5205 P5157 E4 Dossier VII.12.B.:30.2.2. T49 S.574 Sch.- | – | Lohengrin
+[OHNE] ID 5206 P5157 E4 Dossier VII.12.B.:30.2.2. T50 S.575 Sch.- | – | Werther
+[OHNE] ID 5207 P5157 E4 Dossier VII.12.B.:30.2.2. T51 S.575 Sch.- | – | Jakob Lenz im Stadthof 11
+[OHNE] ID 5208 P5157 E4 Dossier VII.12.B.:30.2.2. T52 S.575 Sch.- | – | Don Pasquale
+[OHNE] ID 5209 P5157 E4 Dossier VII.12.B.:30.2.2. T53 S.575 Sch.- | – | Jean Pierre Ponnelle am Opernhaus
+[OHNE] ID 5210 P5157 E4 Dossier VII.12.B.:30.2.2. T54 S.575 Sch.- | – | Wozzeck
+[OHNE] ID 5211 P5157 E4 Dossier VII.12.B.:30.2.2. T55 S.575 Sch.- | – | Diverse Bilder des Fotografen Christian Altorfer (Fotos von Angestellten und Ensemble, Aufnahme
+[OHNE] ID 5212 P5157 E4 Dossier VII.12.B.:30.2.2. T56 S.575 Sch.- | – | Luisa Miller
+[OHNE] ID 5213 P5157 E4 Dossier VII.12.B.:30.2.2. T57 S.575 Sch.- | – | Fledermaus
+[OHNE] ID 5214 P5157 E4 Dossier VII.12.B.:30.2.2. T58 S.575 Sch.- | – | Les Contes d'Hoffmann, Gastspiel Alfredo Kraus
+[OHNE] ID 5215 P5157 E4 Dossier VII.12.B.:30.2.2. T59 S.575 Sch.- | – | Opernhaus Zürich. Hans Heiling
+[OHNE] ID 5216 P5157 E4 Dossier VII.12.B.:30.2.2. T60 S.575 Sch.- | – | Opernhaus Zürich. Wir gratulieren unserem Maestro Nello Santi herzlich zu seinem 50. Geburtstag
+[OHNE] ID 5217 P5157 E4 Dossier VII.12.B.:30.2.2. T61 S.575 Sch.- | – | Idomeneo
+[OHNE] ID 5218 P5157 E4 Dossier VII.12.B.:30.2.2. T62 S.575 Sch.- | – | Die Zauberorgel
+[OHNE] ID 5219 P5157 E4 Dossier VII.12.B.:30.2.2. T63 S.575 Sch.- | – | S brav Tüüfeli
+[OHNE] ID 5220 P5157 E4 Dossier VII.12.B.:30.2.2. T64 S.575 Sch.- | – | Opernhaus im Kongresshaus, Ballett 2
+[OHNE] ID 5221 P5157 E4 Dossier VII.12.B.:30.2.2. T65 S.575 Sch.- | – | Rückkehr ins fremde Land
+[OHNE] ID 5222 P5157 E4 Dossier VII.12.B.:30.2.2. T66 S.575 Sch.- | – | Apollon Musagète
+[OHNE] ID 5223 P5157 E4 Dossier VII.12.B.:30.2.2. T67 S.575 Sch.- | – | Sonatine. Ravel, Balanchine
+[OHNE] ID 5224 P5157 E4 Dossier VII.12.B.:30.2.2. T68 S.575 Sch.- | – | Symphony in D
+[OHNE] ID 5225 P5157 E4 Dossier VII.12.B.:30.2.2. T69 S.575 Sch.- | – | Episodes
+[OHNE] ID 5226 P5157 E4 Dossier VII.12.B.:30.2.2. T70 S.575 Sch.- | – | De l'amour
+[OHNE] ID 5227 P5157 E4 Dossier VII.12.B.:30.2.2. T71 S.575 Sch.- | – | Ballett II: Variations Concertantes
+[OHNE] ID 5228 P5157 E4 Dossier VII.12.B.:30.2.2. T72 S.575 Sch.- | – | Soledad
+[OHNE] ID 5229 P5157 E4 Dossier VII.12.B.:30.2.2. T73 S.575 Sch.- | – | Ballett 3
+[OHNE] ID 5230 P5157 E4 Dossier VII.12.B.:30.2.2. T74 S.575 Sch.- | – | Johanna auf dem Scheiterhaufen
+[OHNE] ID 5231 P5157 E4 Dossier VII.12.B.:30.2.2. T75 S.575 Sch.- | – | Tristan und Isolde
+[OHNE] ID 5232 P5157 E4 Dossier VII.12.B.:30.2.2. T76 S.575 Sch.- | – | Reinhardt-Kiss
+[OHNE] ID 5233 P5157 E4 Dossier VII.12.B.:30.2.2. T77 S.575 Sch.- | – | L'Elisir d'amore
+[OHNE] ID 5234 P5157 E4 Dossier VII.12.B.:30.2.2. T78 S.575 Sch.- | – | Für Opernhaus und Bernhard-Theater am 8. Juni Ja

@@ -1,0 +1,9 @@
+D3472	1719 Einheiten	Gegenprüfung
+D3470	1950 Einheiten	Gegenprüfung
+D152817	704 Einheiten	Gegenprüfung
+D150589	1853 Einheiten	Gegenprüfung
+D3067	80 Einheiten	Gegenprüfung
+D177470	29 Einheiten	Gegenprüfung
+D10744	156 Einheiten	Gegenprüfung
+D152810	Testdaten	Gegenprüfung (nur testdaten_excel, K187/K188)
+D177470	auch Testdatei	die Testfassung ist zellgleich zu prüfen

@@ -1,0 +1,7 @@
+### D3271: vorher 120 Einheiten, nachher 120 Einheiten
+GEÄ  VII.24.:4.2.16. [ID 43, Dossier, E3, Eltern VII.24.:4.2., S.10] "Memorial" (1 Band) | Von/bis (>= x und <=y)
+        [Darin]
+           -[Enthält u. a. Kapitalzinsen und Rückzahlungen von Käuferdebitoren] Buchhaltungsjournal (2 Bände)
+           +[Enthält u. a. Kapitalzinsen und Rückzahlungen von Käuferdebitoren]
+GEÄ  VII.24.:4.2.17. [ID 44, Dossier, E3, Eltern VII.24.:4.2., S.10] Bd. 1: | Von/bis (>= x und <=y)
+        Prüfhinweise: '' => 'Steht im Findmittel unter der Zwischenüberschrift «Buchhaltungsjournal (2 Bände)».'

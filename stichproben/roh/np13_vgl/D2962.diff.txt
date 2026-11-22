@@ -1,0 +1,59 @@
+### D2962: vorher 77 Einheiten, nachher 76 Einheiten
+WEG  VII.150.:6./T2 [ID 52, Dossier, E2, Eltern VII.150.:6., S.14] Sängerfahrt nach Spanien | Genau (=)
+        D: Programme
+        D: Reiseführer, div. Visitenkarte
+        D: Reisebericht
+        D: Zeitungsausschnitte
+        D: Sängerfahrt nach Lausanne 1931
+        D: Korrespondenz
+        D: Sängerfahrt nach Altdorf 1932
+        D: Korrespondenz 1931-1932
+        D: … (17 Zeilen)
+GEÄ  VII.150.:6. [ID 51, Dossier, E1, Eltern -, S.13] Veranstaltungen und Sängerreisen (3 Schachteln) | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+        [Darin]
+           +Sängerfahrt nach Spanien 1925, Schachtel 3
+           +Programme
+           +Reiseführer, div. Visitenkarte
+           +Reisebericht
+           +Zeitungsausschnitte
+           +Sängerfahrt nach Lausanne 1931
+           +Korrespondenz
+           +Sängerfahrt nach Altdorf 1932
+           +Korrespondenz 1931-1932
+           +Sängerreise nach Dänemark 1950
+           +ein Brief, Mitteilungen, dänische Ansprache
+           +div. Reiseführer, Zeitungsausschnitte
+           +Konzert in Wiesbaden 1953
+           +Programm und Presseberichte
+           +28 Eidgenössisches Sängerfest 1960 in Genf
+           +Diplom: „Der Zentralvorstand des Eidgenössischen Sängervereins erteilt der Sektion Männerchor Zürich, Kategorie IV, für Wettlied, Stunden- und Pflichtchor einen Lorbeerk
+           +Fête Suisse Westminster, London 1963
+           +Programm, ein Foto
+        Schachtel-Nr.: '1-2' => '1-3'
+GEÄ  VII.150.:7. [ID 52, Teilbestand, E1, Eltern -, S.15] Jahresberichte | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '3'
+GEÄ  VII.150.:7.1. [ID 53, Serie, E2, Eltern VII.150.:7., S.15] Jahresberichte des Männerschors Zürich | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '3'
+GEÄ  VII.150.:7.1.1. [ID 54, Dossier, E3, Eltern VII.150.:7.1., S.15] Gebundene Jahresberichte | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '3'
+GEÄ  VII.150.:7.1.2. [ID 55, Dossier, E3, Eltern VII.150.:7.1., S.15] Broschierte Jahrgänge und einzelne Jahresberichte | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '3'
+GEÄ  VII.150.:7.2. [ID 56, Dossier, E2, Eltern VII.150.:7., S.15] Berichte des Eidgenössischen Sängervereins | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '3'
+GEÄ  VII.150.:8. [ID 57, Teilbestand, E1, Eltern -, S.15] Chroniken | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '3'
+GEÄ  VII.150.:8.1. [ID 58, Dossier, E2, Eltern VII.150.:8., S.15] Konzertchronik | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '3'
+GEÄ  VII.150.:8.2. [ID 59, Dossier, E2, Eltern VII.150.:8., S.15] Veranstaltungschronik | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '3'
+GEÄ  VII.150.:9. [ID 60, Dossier, E1, Eltern -, S.15] Presseberichte | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '3'
+GEÄ  VII.150.:10. [ID 61, Dossier, E1, Eltern -, S.15] Fotografien | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '3'
+GEÄ  VII.150.:12.5. [ID 76, Dossier, E2, Eltern VII.150.:12., S.20] Klischees und Musealien | Von/bis (>= x und <=y)
+        [Darin]
+           -30 Normschachteln 3,00 lfm
+           -20 x 18 cm hohe Schachteln 3,60 lfm
+           -1 Grf. Schachtel 0,30 lfm
+           -Total 6,90 lfm

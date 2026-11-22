@@ -1,0 +1,4 @@
+### D151756: vorher 5 Einheiten, nachher 6 Einheiten
+NEU  V.J.P.a.21. [ID 6, Bestand, E1, Eltern -, S.1] Bürgerasyl- und Pfrundhauskommission. Protokoll | Von/bis (>= x und <=y)
+        D: Die Protokolle von 1950 bis 1960 und von 1963 bis 1981 sind lose verschachtelt.
+        H: Stück ohne Nummer im Findmittel («Die Protokolle von 1950 bis 1960 und von 1963 bis 1981 sind lose versc», S. 1) – hier beim Bestand übernommen (keine Signatur erfunden); in scope beim Bestand ergänzen oder von Hand als Einheit anlegen.

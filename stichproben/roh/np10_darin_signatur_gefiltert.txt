@@ -1,0 +1,94 @@
+93 in 24
+D10585 S.16 x71 | 7. Darstellungen | vor: 6.13.2. nach: 7.1. | Titel von VII.510.:3.32. (ID 110) | gepr
+D10675 S.9 x71 | 12 Die Firma Sortag ist eine Bauschuttentsorgungsfirma in Bigenthal (C | vor: 714.5 nach: 715 | Darin von V.F.c.28.:713.22 (ID 265) | gepr
+D10675 S.9 x71 | 13 VVS steht für "Verordnung über den Verkehr mit Sonderabfällen". | vor: 714.5 nach: 715 | Darin von V.F.c.28.:713.25 (ID 268) | gepr
+D10675 S.9 x71 | 14 KER steht wohl stellvertretend für den Geschäftsführer "Kurt E. Roe | vor: 714.5 nach: 715 | Darin von V.F.c.28.:713.43 (ID 288) | gepr
+D10675 S.12 x120 | 730a Allgemeine Akten 138 | vor: 730 nach: 731 | Darin von V.F.c.28.:020 (ID 12) | gepr
+D10675 S.20 x71 | 23 POCH steht für "Verein Progressive Organisation der Schweiz, Sektio | vor: 763.12 nach: 766 | Darin von V.F.c.28.:761.1 (ID 571) | gepr
+D10675 S.20 x71 | 24 KIGA steht für "Kantonales Amt für Industrie, Gewerbe und Industrie | vor: 763.12 nach: 766 | Darin von V.F.c.28.:761.1 (ID 571) | gepr
+D10675 S.21 x71 | 25 VIB steht für "Vorstand der Industriellen Betriebe". | vor: 801.6 nach: 802 | Darin von V.F.c.28.:780.2 (ID 602) | gepr
+D10675 S.21 x71 | 26 Die Registraturnummer "790 Kommissionen" wird aus archivierungstech | vor: 801.6 nach: 802 | Darin von V.F.c.28.:790 (ID 604) | gepr
+D10675 S.21 x71 | 27 RZU steht für "Regionalplanung Zürich und Umgebung". | vor: 801.6 nach: 802 | Darin von V.F.c.28.:794 (ID 608) | gepr
+D10744 S.5 x71 | 430.1.733.1a Allgemeine Sanitätstarife 17 | vor: 430.1.733.0. nach: 430.1.733.2. | Darin von V.F.c.29.:430.1.733.0. (ID 105) | gepr
+D10744 S.6 x71 | 430.1.733.1b Krankentransporttarife, Revision Krankentransporttarif 17 | vor: 430.1.733.0. nach: 430.1.733.2. | Darin von V.F.c.29.:430.1.733.0. (ID 105) | gepr
+D10744 S.6 x71 | 430.1.733.1c Sondertarife der Sanität (Isolettentransporte etc.) 17 | vor: 430.1.733.0. nach: 430.1.733.2. | Darin von V.F.c.29.:430.1.733.0. (ID 105) | gepr
+D140969 S.1 x71 | 3 : 1 – 3 Protokoll des Arbeitsausschusses des 3 Bände 1936 – 1940 | vor: 2. nach: 4. | nirgends | gepr
+D140969 S.2 x71 | 8 : 1 – 3 Die Schweiz im Spiegel der 3 Bände 1940 – 1941 | vor: 7. nach: 9. | nirgends | gepr
+D140969 S.2 x71 | 11 : 1 – 2 Ausstellungszeitung der Schweizerischen 2 Bände 1939 | vor: 10. nach: 12. | nirgends | gepr
+D152817 S.26 x71 | VI.SB.D.5.:2 g) Kriegswirtschaftliche 1914-1926 | vor: 1-2 nach: VI.SB.D.6. | Titel von VI.SB.D.5.:2 (ID 594) | gepr
+D152817 S.26 x71 | VI.SB.D.5.:3 h) Landwirtschaft und Forst 1842-1933 | vor: 1-2 nach: VI.SB.D.6. | Titel von VI.SB.D.5.:3 (ID 596) | gepr
+D152817 S.29 x71 | VI.SB.D.6.:7 Elektrische Strassenbahn 1894-1933 | vor: 6-7 nach: 8-12 | Titel von VI.SB.D.6.:7 (ID 614) | gepr
+D152817 S.30 x71 | VI.SB.D.6.:11 Gasversorgung 1904-1932 | vor: 8-11 nach: VI.SB.D.7. | Darin von VI.SB.B.8. (ID 18) | gepr
+D152817 S.30 x71 | VI.SB.D.6.:12 Elektrizitätsversorgung 1895-1933 | vor: 8-11 nach: VI.SB.D.7. | Darin von VI.SB.B.8. (ID 18) | gepr
+D152817 S.30 x71 | VI.SB.D.6.:13 f) Vermessungs- und 1901-1921 | vor: 8-11 nach: VI.SB.D.7. | Titel von VI.SB.D.6.:13 (ID 608) | gepr
+D152817 S.31 x71 | VI.SB.D.7.:3 d) Finanzielles 1841-1932 | vor: 2-3 nach: 5-6 | Titel von VI.SB.D.7.:3 (ID 631) | gepr
+D152817 S.31 x71 | VI.SB.D.7.:4 e) Verschiedene Akten 1845-1933 | vor: 2-3 nach: 5-6 | Titel von VI.SB.D.7.:4 (ID 633) | gepr
+D152817 S.32 x71 | VI.SB.D.7.:4 f) Sekundarschulpflege 1834-1933 | vor: 2-3 nach: 5-6 | Titel von VI.SB.D.7.:4 (ID 634) | gepr
+D152817 S.32 x71 | VI.SB.D.7.:5 g) Weitere Schulen und 1880-1931 | vor: 2-3 nach: 5-6 | Titel von VI.SB.D.7.:5 (ID 636) | gepr
+D152817 S.33 x71 | VI.SB.D.7.:8 1899/1900 - 1905/1906 | vor: 7-15 nach: 16-17 | nirgends | gepr
+D152817 S.33 x71 | VI.SB.D.7.:9 1906/07 - 1909/10 | vor: 7-15 nach: 16-17 | nirgends | gepr
+D152817 S.33 x71 | VI.SB.D.7.:10 1910/11 - 1913/14 | vor: 7-15 nach: 16-17 | nirgends | gepr
+D152817 S.33 x71 | VI.SB.D.7.:11 1013/14 - 1916/17 | vor: 7-15 nach: 16-17 | nirgends | gepr
+D152817 S.33 x71 | VI.SB.D.7.:12 1917/18 - 1920/21 | vor: 7-15 nach: 16-17 | nirgends | gepr
+D152817 S.33 x71 | VI.SB.D.7.:13 1920/21 - 1923/24 | vor: 7-15 nach: 16-17 | nirgends | gepr
+D152817 S.33 x71 | VI.SB.D.7.:14 1924/25 - 1927/28 | vor: 7-15 nach: 16-17 | nirgends | gepr
+D152817 S.33 x71 | VI.SB.D.7.:15 1927/28 - 1932/33 | vor: 7-15 nach: 16-17 | nirgends | gepr
+D152817 S.33 x71 | VI.SB.D.7.:17 1925/26 - 1933/34 | vor: 16-17 nach: 18-19 | nirgends | gepr
+D152817 S.33 x71 | VI.SB.D.7.:19 Arbeitsschule (Sekundarschule) | vor: 18-19 nach: VI.SB.D.8. | Titel von VI.SB.D.7.:19 (ID 670) | gepr
+D176551 S.6 x99 | 8. Statuten der Versicherungskasse für das städtische Personal und die | vor: 7. nach:  | Darin von V.B.b.46.:6. (ID 8) | gepr
+D176551 S.6 x99 | 9. Statuten der Versicherungskasse für das städtische Personal und die | vor: 7. nach:  | Darin von V.B.b.46.:6. (ID 8) | gepr
+D176551 S.6 x99 | 10. Statuten der Versicherungskasse für das städtische Personal und di | vor: 7. nach:  | Darin von V.B.b.46.:6. (ID 8) | gepr
+D176551 S.6 x99 | 11. Statuten der Versicherungskasse für die Arbeitnehmer der Stadt Zür | vor: 7. nach:  | Darin von V.B.b.46.:6. (ID 8) | gepr
+D2643 S.2 x71 | 3. Departemente der Stadtverwaltung 1986 – 2002 66 Schachteln | vor: 2.2. nach: 3.1. | nirgends | NIE
+D2828 S.8 x71 | 32. Verkommniss zwischen dem Regierungsrate, dem Stadtrat und der 1834 | vor: 30. nach:  | Darin von VII.1.:30. (ID 90) | NIE
+D2848 S.2 x71 | 851 vom 25. April 1931 wird als erster städtischer Vertreter Stadtbaum | vor: 8. nach:  | Darin von VII.108.:8. (ID 22) | NIE
+D2853 S.3 x71 | 3a Vertrag mit Richard Kissling, Abschluss 11 | vor: 3. nach: 4. | Darin von VII.11.:3. (ID 3) | NIE
+D2853 S.3 x71 | 3b Vertrag mit Richard Kissling, Vollziehung 12 | vor: 3. nach: 4. | Darin von VII.11.:3. (ID 3) | NIE
+D2937 S.25 x143 | 70. Geburtstag 1957 | vor: I.9.0. nach: J. | Darin von VII.140.:G.1.0. (ID 30) | gepr
+D2937 S.27 x143 | 2. Teil L – Z | vor: L.1.0. nach: L.2.0. | Darin von VII.140.:L.1.0. (ID 56) | gepr
+D2951 S.6 x71 | 1.23a. Besuch beim Barden Bernold, den er nun sehr rühmt. „Das er 9. O | vor: 1.23. nach: 1.24. | Darin von VII.146.:1.23. (ID 23) | gepr
+D2960 S.1 x71 | 3a. Tabellarisches Hauptbuch 1833-1892 1 Bd. | vor: 3. nach: 4. | nirgends | NIE
+D2960 S.1 x71 | 5a. Kassa-Buch der Unterstützungskasse 1859-1893 1 Bd. | vor: 5. nach: 6. | nirgends | NIE
+D3067 S.6 x114 | 40 | vor: III.A.8. nach: III.B. | Darin von VII.191.:II.A. (ID 3) | gepr
+D3170 S.41 x71 | 7.2.1.e. 1969/70 | vor: 7.2.1.d. nach: 7.2.1.f. | nirgends | gepr
+D3190 S.1 x71 | 2. Kritiken 1922-1966 1 Schachtel | vor: 1. nach: 9. | nirgends | NIE
+D3190 S.1 x71 | 3. Programme 1923-1948 1 Schachtel | vor: 1. nach: 9. | nirgends | NIE
+D3190 S.1 x71 | 6. Diverse Drucksachen 1 Schachtel | vor: 1. nach: 9. | nirgends | NIE
+D3190 S.1 x71 | 7. Textbücher 1 Schachtel | vor: 1. nach: 9. | nirgends | NIE
+D3470 S.6 x74 | 12.53a Vaujours Gipsfabrik 11 | vor: 11.53. nach: 12.54. | Darin von VII.308.E.a.:11.53. (ID 133) | NIE
+D3470 S.25 x74 | 1937.524a Küsnacht Architekt Labhart, 44 | vor: 1937.523 nach: 1937.525 | Darin von VII.308.E.a.:1937.523 (ID 624) | NIE
+D3470 S.25 x74 | 1937.524b St. Gallen Fest- und Ausstellungshalle 44 | vor: 1937.523 nach: 1937.525 | Darin von VII.308.E.a.:1937.523 (ID 624) | NIE
+D3470 S.28 x74 | 1938.583a Zürich Schweizerische Landesausstellung, 47 | vor: 1938.582 nach: 1939.584 | Titel von VII.308.E.a.:1937.546 (ID 647) | NIE
+D3470 S.28 x74 | 1938.583b Attisholz Cellulosefabrik, Lagerhalle 48 | vor: 1938.582 nach: 1939.584 | Darin von VII.308.E.a.:1938.582 (ID 680) | NIE
+D3470 S.56 x74 | 1953.1419 121 | vor: 1953.1418 nach: 1953.1420 | nirgends | NIE
+D3470 S.59 x74 | 1954.1514 126 | vor: 1954.1513 nach: 1954.1515 | nirgends | NIE
+D3470 S.71 x74 | 1961.1813 158 | vor: 1961.1812 nach: 1961.1814 | nirgends | NIE
+D3472 S.46 x71 | 1973.9a Küsnacht, Herr W. F. Herzog, Zellikon, EFH Tägerhalde, Zimmera | vor: 1973.9 nach: 1973.10 | Darin von VII.308.F.a.:1973.9 (ID 1232) | gepr
+D3482 S.8 x71 | 1947.1 Baden AG Brown, Boveri & Cie 568 | vor: 1946.42 nach: 1947.2 | Titel von VII.308.C.a.:1946.25 (ID 36) | gepr
+D3482 S.24 x71 | 1951.8 Widnau Société de la Viscose Suisse, Emmenbrücke 668 | vor: 1951.6 nach: 1951.9 | Titel von VII.308.C.a.:1950.33 (ID 324) | gepr
+D3482 S.42 x71 | 1954.37 Zürich Hochbauamt der Stadt Zürich 764 | vor: 1954.36 nach: 1954.38 | Titel von VII.308.C.a.:1947.9 (ID 117) | gepr
+D3482 S.42 x71 | 1954.37 Zürich Frau Dr. von Muralt 764 | vor: 1954.36 nach: 1954.38 | Titel von VII.308.C.a.:1954.1 (ID 538) | gepr
+D3482 S.42 x71 | 1954.37 Zürich Brauerei Hürlimann AG 764 | vor: 1954.36 nach: 1954.38 | Titel von VII.308.C.a.:1952.1 (ID 392) | gepr
+D3482 S.76 x71 | 1963.19 Baden AG Brown, Boveri & Cie 1015 | vor: 1963.18 nach: 1963.20 | Titel von VII.308.C.a.:1946.25 (ID 36) | gepr
+D3482 S.76 x71 | 1963.19 Dottikon Schweiz. Sprengstoff – Fabrik AG 1015 | vor: 1963.18 nach: 1963.20 | Titel von VII.308.C.a.:1959.20 (ID 968) | gepr
+D3482 S.93 x71 | 1970.8 Dottikon Schweiz. Sprengstoff – Fabrik AG 1149 | vor: 1970.7 nach: 1970.9 | Titel von VII.308.C.a.:1959.20 (ID 968) | gepr
+D3482 S.93 x71 | 1970.8 Grellingen A. Ziegler AG Papierfabrik 1150 | vor: 1970.7 nach: 1970.9 | Titel von VII.308.C.a.:1947.9 (ID 112) | gepr
+D3672 S.39 x74 | 1.2.1. – ohne Auswertung | vor: 1.2. nach: 1.3. | nirgends | gepr
+D3672 S.39 x74 | 1.3.1. – ohne Auswertung | vor: 1.3. nach: 2. | nirgends | gepr
+D3672 S.45 x74 | 2.2.1. – ohne Beschreibung | vor: 2.2. nach: 2.3. | nirgends | gepr
+D3672 S.49 x74 | 7.2.1. – ohne Beschreibung | vor: 7.2. nach: 7.3. | nirgends | gepr
+D3672 S.49 x74 | 7.2.6. | vor: 7.2. nach: 7.3. | nirgends | gepr
+D3672 S.50 x74 | 10.1. – | vor: 10. nach: 11. | nirgends | gepr
+D3672 S.50 x74 | 10.48. | vor: 10. nach: 11. | nirgends | gepr
+D3672 S.50 x74 | 11.1. – ohne Beschreibung | vor: 11. nach: 12. | nirgends | gepr
+D3672 S.50 x74 | 11.20. | vor: 11. nach: 12. | nirgends | gepr
+D3828 S.14 x71 | 5. | vor: 3.19. nach: 5. | Darin von VII.76.:1. (ID 1) | gepr
+D3828 S.15 x71 | 7. Doppeltes Sprengwerk, Pont en bois, en amont de Salavaux 1925 | vor: 5. nach: 6. | Darin von VII.76.:5. (ID 27) | gepr
+D434 S.2 x71 | 2.6.1. 1937 – 1943 1930 – 1943 | vor: 2.6. nach: 2.6.2. | nirgends | NIE
+D847 S.2 x69 | 38 1. Legat von alt Nationalrat Fierz, Fluntern (Fr. 5000) | vor: 37. nach: 39. | Darin von V.C.c.61.:37. (ID 43) | NIE
+D847 S.2 x69 | 50 2. Legat von alt Nationalrat Fierz, Fluntern (Fr. 200) | vor: 49. nach: 51. | Darin von V.C.c.61.:49. (ID 54) | NIE
+D847 S.7 x69 | 219 1. Jugendfestfonds Albisrieden | vor: 218. nach: 220. | Darin von V.C.c.61.:218. (ID 224) | NIE
+D9978 S.4 x71 | 28.1.7.:2–3 Cataster-Copie. Zürich. Sect. B. | vor: 28.1.7. nach: 28.1.8. | Titel von VII.12.B.:28.1.7. (ID 8) | gepr
+D9978 S.7 x71 | 28.3.3.:2 [derselbe Plan wie 8.3.3.:1] | vor: 28.3.3. nach: 28.3.4. | Titel von VII.12.B.:28.3.3. (ID 24) | gepr
+D9978 S.7 x71 | 28.3.3.:3 [Plan ohne Titel] | vor: 28.3.3. nach: 28.3.4. | Titel von VII.12.B.:28.3.3. (ID 25) | gepr
+D9978 S.17 x71 | 28.5.2.-6. auf Karton aufgezogene Pläne (100 x 65 cm) | vor: 28.5.2. nach: 28.5.3. | Blatt Vollständigkeit | gepr

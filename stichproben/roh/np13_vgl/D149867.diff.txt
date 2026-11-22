@@ -1,0 +1,26 @@
+### D149867: vorher 38 Einheiten, nachher 39 Einheiten
+NEU  VII.60. [ID 39, Bestand, E1, Eltern -, S.1] Kriegswirtschaftsamt der Stadt Zürich. Akten | Von/bis (>= x und <=y)
+        D: Drucksache Kriegsursachen im Urteile des Auslandes, Berlin 1917.
+        D: Drucksache Die Denkschrift des Fürsten Lichnowsky. Der vollständige Wortlaut […]: Zur Vorgeschichte des Krieges, Bern 1918.
+        D: Drucksache Meier, H.: Stimmen im Sturm aus der deutschen Schweiz. Die deutschfeindliche Bewegung in der französischen Schweiz, Zürich 1915.
+        H: Stück ohne Nummer im Findmittel («Drucksache Kriegsursachen im Urteile des Auslandes, Berlin 1917.», S. 1) – hier beim Bestand übernommen (keine Signatur erfunden); in scope beim Bestand ergänzen oder von Hand als Einheit anlegen.
+GEÄ  VII.60.:I. [ID 1, Teilbestand, E1, Eltern -, S.1] Grundlagen und Organisation der Rationierung | 
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => ''
+        von: '1915' => ''
+        bis: '1918' => ''
+        Zeitraum-Quelle: 'Untereinheiten (geschätzt)' => ''
+        Prüfhinweise: 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.' => 'Kein Zeitraum gefunden (auch nicht in den Untereinheiten).'
+GEÄ  VII.60.:1-14 [ID 2, Dossier, E2, Eltern VII.60.:I., S.1] Eidg. und kant. Beschlüsse, Verfügungen und Verordnungen. | 
+        [Prüfhinweise]
+           -Kein Zeitraum gefunden.
+GEÄ  VII.60.:15-25 [ID 3, Dossier, E2, Eltern VII.60.:I., S.1] Kontrollbücher der Markenverwaltung. | 
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => ''
+        von: '1915' => ''
+        bis: '1918' => ''
+        [Darin]
+           -Drucksache Kriegsursachen im Urteile des Auslandes, Berlin 1917.
+           -Drucksache Die Denkschrift des Fürsten Lichnowsky. Der vollständige Wortlaut […]: Zur Vorgeschichte des Krieges, Bern 1918.
+           -Drucksache Meier, H.: Stimmen im Sturm aus der deutschen Schweiz. Die deutschfeindliche Bewegung in der französischen Schweiz, Zürich 1915.
+        Zeitraum-Quelle: 'Darin (geschätzt)' => ''
+        [Prüfhinweise]
+           -Zeitraum aus den Jahreszahlen im Darin geschätzt.

@@ -1,0 +1,69 @@
+### D177470: vorher 45 Einheiten, nachher 29 Einheiten
+WEG  VII.249.:27.a. [ID 28, Dossier, E2, Eltern VII.249.:27., S.2] Familie Guldener von Albisrieden | 
+WEG  VII.249.:27.b. [ID 29, Dossier, E2, Eltern VII.249.:27., S.2] Grabrede gehalten bei der Beerdigung des Robert Guldener | Genau (=)
+WEG  VII.249.:27.c. [ID 30, Dossier, E2, Eltern VII.249.:27., S.2] Grabrede gehalten bei der Beerdigung von Frau Barbara Guldener | Genau (=)
+WEG  VII.249.:27.d. [ID 31, Dossier, E2, Eltern VII.249.:27., S.2] Lebenslauf von Frieda Guldener-Bruppacher | Von/bis (>= x und <=y)
+WEG  VII.249.:27.e. [ID 32, Dossier, E2, Eltern VII.249.:27., S.2] Lebenslauf von Robert Guldener-Bruppacher | Von/bis (>= x und <=y)
+WEG  VII.249.:27.f. [ID 33, Dossier, E2, Eltern VII.249.:27., S.2] Familie Bruppacher von Küsnacht | 
+WEG  VII.249.:27.g. [ID 34, Dossier, E2, Eltern VII.249.:27., S.2] Familie Reinhard von Rüegsau Kt. Bern und Wald Kt. Zürich | 
+WEG  VII.249.:27.h. [ID 35, Dossier, E2, Eltern VII.249.:27., S.2] Ergänzung zu den Archivalien Punkt 1 - 26. | 
+WEG  VII.249.:28.a. [ID 37, Dossier, E2, Eltern VII.249.:28., S.2] Hans R. Reinhard; Zeichnen am Seminar Küsnacht (bei Albert Hess) an der Universität im Militärdienst | Von/bis (>= x und <=y)
+        D: Vorlagen für Metallarbeiten Aetzen, Emaillieren, Holzarbeiten, Sticken, 1949 - 1969
+        D: Schattenrisse
+WEG  VII.249.:28.b. [ID 38, Dossier, E2, Eltern VII.249.:28., S.2] Mein Zeichenunterricht an der Sekundarschule 1943 - 184 Linolschnitte, Rolldrucke | Von/bis (>= x und <=y)
+WEG  VII.249.:28.c. [ID 39, Dossier, E2, Eltern VII.249.:28., S.2] Botanisches Halbpraktikum | Genau (=)
+        D: Hans Reinhard stud. phil. II
+        D: Sommersemester 1943 an der Universität Zürich
+WEG  VII.249.:28.d. [ID 40, Dossier, E2, Eltern VII.249.:28., S.3] Hans R. Reinhard Arbeitsblätter | Von/bis (>= x und <=y)
+        D: Biologie, Physik, Geographie, Astronomie, Bibl. Geschichte
+WEG  VII.249.:28.e. [ID 41, Dossier, E2, Eltern VII.249.:28., S.3] Hans R. Reinhard | 
+        D: Handarbeitsunterricht: Lehrlings- und Schülerkurse
+        D: 1.) Metallkurse für Knaben, 2.) Metallkurse für Mädchen, 3.) Metall Fortbildung ZVHS: Rechaud, Aetzen, Emaillieren
+WEG  VII.249.:28.f. [ID 42, Dossier, E2, Eltern VII.249.:28., S.3] Aus dem Leben und Wirken eines stadtzürcherischen Lehrerehepaares um die Mitte des 20. Jahrhunderts | 
+        D: Ruth und Hans Rudolf Reinhard-Guldener
+WEG  VII.249.:28.g. [ID 43, Dossier, E2, Eltern VII.249.:28., S.3] Klassenlagerhefte von Montafaun 1961, Zuoz 1963, Lötschental 1964, Arceno 1965, Lavin 1967, Sonvico 1968, Magliaso | Von/bis (>= x und <=y)
+WEG  VII.249.:28.h. [ID 44, Dossier, E2, Eltern VII.249.:28., S.3] Ruth Guldener; Zeichnen am Seminar der Töchterschule Zürich(bei Hans Witzig) | Von/bis (>= x und <=y)
+        D: Ruth Reinhard; Bauernmalerei
+GEÄ  VII.249.:15. [ID 15, Dossier, E1, Eltern -, S.1] Auskaufsvertrag zwischen F. und den Geschwistern | Genau (=)
+        Titel: 'Auskaufsvertrag zwischen F. und den Geschwistern Anna Regula und J. R. Bruppacher' => 'Auskaufsvertrag zwischen F. und den Geschwistern'
+        [Darin]
+           -
+           +Anna Regula und J. R. Bruppacher
+GEÄ  VII.249.:24. [ID 24, Dossier, E1, Eltern -, S.2] Kaufbrief für Robert Guldener, betr. Wohnhaus | Genau (=)
+        Titel: 'Kaufbrief für Robert Guldener, betr. Wohnhaus Zürichstr. 95, Schwamendingen' => 'Kaufbrief für Robert Guldener, betr. Wohnhaus'
+        [Darin]
+           -
+           +Zürichstr. 95, Schwamendingen
+GEÄ  VII.249.:27. [ID 27, Dossier, E1, Eltern -, S.2] Dokumentationen | Von/bis (>= x und <=y)
+        Stufe: 'Teilbestand' => 'Dossier'
+        [Darin]
+           -
+           +a) Familie Guldener von Albisrieden
+           +b) Grabrede gehalten bei der Beerdigung des Robert Guldener, 14.10.1912
+           +c) Grabrede gehalten bei der Beerdigung von Frau; Barbara Guldener, 13.7.1926
+           +d) Lebenslauf von Frieda Guldener-Bruppacher, 11.6.1889-27.2.1965
+           +e) Lebenslauf von Robert Guldener-Bruppacher, 31.10.1886-3.12.1971
+           +f) Familie Bruppacher von Küsnacht
+           +g) Familie Reinhard von Rüegsau Kt. Bern und Wald Kt. Zürich
+           +h) Ergänzung zu den Archivalien Punkt 1 - 26.
+        Zeitraum-Quelle: 'Untereinheiten' => 'Datumsspalte'
+        Prüfhinweise: '' => 'Die Buchstaben a)–h) stehen in der Titelspalte ohne eigene Schachtel – als Darin übernommen (Konvention NP13).'
+GEÄ  VII.249.:28. [ID 28, Dossier, E1, Eltern -, S.2] Ausbildung und Berufstätigkeit von Frau Ruth Reinhard-Guldener | Von/bis (>= x und <=y)
+        Stufe: 'Teilbestand' => 'Dossier'
+        [Darin]
+           -
+           +a) Hans R. Reinhard; Zeichnen am Seminar Küsnacht (bei Albert Hess) an der Universität im Militärdienst, 1935 - 1939
+           +Vorlagen für Metallarbeiten Aetzen, Emaillieren, Holzarbeiten, Sticken, 1949 - 1969
+           +Schattenrisse
+           +b) Mein Zeichenunterricht an der Sekundarschule 1943 - 184 Linolschnitte, Rolldrucke
+           +c) Botanisches Halbpraktikum 1943; Hans Reinhard stud. phil. II; Sommersemester 1943 an der Universität Zürich
+           +d) Hans R. Reinhard Arbeitsblätter, 1943 - 1984; Biologie, Physik, Geographie, Astronomie, Bibl. Geschichte
+           +e) Hans R. Reinhard; Handarbeitsunterricht: Lehrlings- und Schülerkurse; 1.) Metallkurse für Knaben, 2.) Metallkurse für Mädchen, 3.) Metall Fortbildung ZVHS: Rechaud, A
+           +f) Aus dem Leben und Wirken eines stadtzürcherischen Lehrerehepaares um die Mitte des 20. Jahrhunderts; Ruth und Hans Rudolf Reinhard-Guldener
+           +g) Klassenlagerhefte von Montafaun 1961, Zuoz 1963, Lötschental 1964, Arceno 1965, Lavin 1967, Sonvico 1968, Magliaso 1974
+           +h) Ruth Guldener; Zeichnen am Seminar der Töchterschule Zürich(bei Hans Witzig), 1933 - 1937; Ruth Reinhard; Bauernmalerei
+        Zeitraum-Quelle: 'Untereinheiten' => 'Darin (geschätzt)'
+        [Prüfhinweise]
+           -
+           +Die Buchstaben a)–h) stehen in der Titelspalte ohne eigene Schachtel – als Darin übernommen (Konvention NP13).
+           +Zeitraum aus den Jahreszahlen im Darin geschätzt.

@@ -1,0 +1,53 @@
+uebersicht_scope_import.xlsx FEHLER 'Worksheet scope-Import does not exist.'
+D10675;363;V.F.c.28.:730a;Allgemeine Akten;P 362 V.F.c.28.:730;Finanzielles 21;S.12
+D150589;116;VII.142.:2.2.1.8.a.;Affoltern bei Zürich, Vortrag vom 11. Januar 1958;P 115 VII.142.:2.2.1.8.;Holländischer Arbeitergesangsverein;S.81
+D150589;390;VII.142.:2.2.9.12.a.;102- Rütli-Schiessen;P 389 VII.142.:2.2.9.12.;Abgeordnetenversammlung der Schweizerischen Gemein;S.90
+D152817;259;VI.SB.C.33.a;Brandassekuranzbücher Seebach;P 255 VI.SB.C.33.;Brandassekuranz-Steuerregister;S.11
+D177470;28;VII.249.:27.a.;Familie Guldener von Albisrieden;P 27 VII.249.:27.;Dokumentationen;S.2
+D177470;29;VII.249.:27.b.;Grabrede gehalten bei der Beerdigung des Robert Gu;P 27 VII.249.:27.;Dokumentationen;S.2
+D177470;30;VII.249.:27.c.;Grabrede gehalten bei der Beerdigung von Frau Barb;P 27 VII.249.:27.;Dokumentationen;S.2
+D177470;31;VII.249.:27.d.;Lebenslauf von Frieda Guldener-Bruppacher;P 27 VII.249.:27.;Dokumentationen;S.2
+D177470;32;VII.249.:27.e.;Lebenslauf von Robert Guldener-Bruppacher;P 27 VII.249.:27.;Dokumentationen;S.2
+D177470;33;VII.249.:27.f.;Familie Bruppacher von Küsnacht;P 27 VII.249.:27.;Dokumentationen;S.2
+D177470;34;VII.249.:27.g.;Familie Reinhard von Rüegsau Kt. Bern und Wald Kt.;P 27 VII.249.:27.;Dokumentationen;S.2
+D177470;35;VII.249.:27.h.;Ergänzung zu den Archivalien Punkt 1 - 26.;P 27 VII.249.:27.;Dokumentationen;S.2
+D177470;37;VII.249.:28.a.;Hans R. Reinhard; Zeichnen am Seminar Küsnacht (be;P 36 VII.249.:28.;Ausbildung und Berufstätigkeit von Frau Ruth Reinh;S.2
+D177470;38;VII.249.:28.b.;Mein Zeichenunterricht an der Sekundarschule 1943 ;P 36 VII.249.:28.;Ausbildung und Berufstätigkeit von Frau Ruth Reinh;S.2
+D177470;39;VII.249.:28.c.;Botanisches Halbpraktikum;P 36 VII.249.:28.;Ausbildung und Berufstätigkeit von Frau Ruth Reinh;S.2
+D177470;40;VII.249.:28.d.;Hans R. Reinhard Arbeitsblätter;P 36 VII.249.:28.;Ausbildung und Berufstätigkeit von Frau Ruth Reinh;S.3
+D177470;41;VII.249.:28.e.;Hans R. Reinhard;P 36 VII.249.:28.;Ausbildung und Berufstätigkeit von Frau Ruth Reinh;S.3
+D177470;42;VII.249.:28.f.;Aus dem Leben und Wirken eines stadtzürcherischen ;P 36 VII.249.:28.;Ausbildung und Berufstätigkeit von Frau Ruth Reinh;S.3
+D177470;43;VII.249.:28.g.;Klassenlagerhefte von Montafaun 1961, Zuoz 1963, L;P 36 VII.249.:28.;Ausbildung und Berufstätigkeit von Frau Ruth Reinh;S.3
+D177470;44;VII.249.:28.h.;Ruth Guldener; Zeichnen am Seminar der Töchterschu;P 36 VII.249.:28.;Ausbildung und Berufstätigkeit von Frau Ruth Reinh;S.3
+D3012;2;VII.170.:1.a.;Hörspielfolge: 10 Sendungen;P 1 VII.170.:1.;Oberstadtgass;S.1
+D3012;3;VII.170.:1.b.;Drehbuch: Ein Film nach dem gleichnamigen Hörspiel;P 1 VII.170.:1.;Oberstadtgass;S.1
+D3012;4;VII.170.:1.c.;Presseorientierung;P 1 VII.170.:1.;Oberstadtgass;S.1
+D3012;12;VII.170.:8.a.;Rollenbuch [Hörspiel Radio];P 11 VII.170.:8.;Polizist Wäckerli;S.2
+D3012;13;VII.170.:8.b.;Rollenbuch [Fernsehspiel];P 11 VII.170.:8.;Polizist Wäckerli;S.2
+D3012;14;VII.170.:8.c.;Diverse Drehbücher von;P 11 VII.170.:8.;Polizist Wäckerli;S.2
+D3067;32;VII.191.:IV.A.5.a.;Antwort des h. Stadtrathes von Zürich vom 28.7.189;P 31 VII.191.:IV.A.5.;Schreiben des Dr. Paul Schweizer, Staatsarchivar, ;S.9
+D3067;33;VII.191.:IV.A.5.b.;Antwort des h. Bezirksrathes vom 13./18. August 18;P 31 VII.191.:IV.A.5.;Schreiben des Dr. Paul Schweizer, Staatsarchivar, ;S.9
+D3089;5;VII.197.:I.3.a.;Vorstandsprotokolle;P 4 VII.197.:I.3.;PROTOKOLLE;S.3
+D3089;6;VII.197.:I.3.b.;Generalversammlungsprotokolle, Schachtel 7;P 4 VII.197.:I.3.;PROTOKOLLE;S.3
+D3089;7;VII.197.:I.3.c.;Sitzungsprotokolle;P 4 VII.197.:I.3.;PROTOKOLLE;S.4
+D3089;28;VII.197.:IV.2a;Zeitungsausschnitte und Programme der Veranstaltun;P 27 VII.197.:IV.2.;ZEITUNGSAUSSCHNITTE;S.10
+D3089;29;VII.197.:IV.2b;Lose Zeitungsausschnitte;P 27 VII.197.:IV.2.;ZEITUNGSAUSSCHNITTE;S.10
+D3161;3;VII.208.:2.a.;Korrespondenz Obmann;P 2 VII.208.:2.;VPOD, Ortsgruppe Schauspielhaus Zürich;S.2
+D3161;4;VII.208.:2.b.;Emil Stöhr Sept.1945-Juni;P 2 VII.208.:2.;VPOD, Ortsgruppe Schauspielhaus Zürich;S.2
+D3161;5;VII.208.:2.c.;Unterlagen "Fall Hilpert";P 2 VII.208.:2.;VPOD, Ortsgruppe Schauspielhaus Zürich;S.2
+D3161;6;VII.208.:2.d.;Erwin Parker;P 2 VII.208.:2.;VPOD, Ortsgruppe Schauspielhaus Zürich;S.2
+D3161;7;VII.208.:2.e.;Versammlungsprotokolle, Präsenzlisten, Schachtel 4;P 2 VII.208.:2.;VPOD, Ortsgruppe Schauspielhaus Zürich;S.2
+D3161;9;VII.208.:3.a.;Vereinigung zur Wiedergründung;P 8 VII.208.:3.;Gewerkschaft Deutscher Bühnenangehöriger;S.2
+D3161;10;VII.208.:3.b.;Theaterhilfe;P 8 VII.208.:3.;Gewerkschaft Deutscher Bühnenangehöriger;S.3
+D3161;11;VII.208.:3.c.;Rechnungsführung Presse, Briefpapier;P 8 VII.208.:3.;Gewerkschaft Deutscher Bühnenangehöriger;S.3
+D3470;122;VII.308.E.a.:11.43.a.;Fribourg Herrn E. Dobolz;P 121 VII.308.E.a.:11.43.;Lausanne Cinteres (Akten zurückgesandt);S.6
+D3470;124;VII.308.E.a.:11.44.a.;St. Quentin A. Perrière und Cie, Paris, Hangar;P 123 VII.308.E.a.:11.44.;Paris Perrière und Cie, Hangar;S.6
+D3470;174;VII.308.E.a.:13.92.a.;Schongau Architekt Betschen, Baden, Kirche;P 173 VII.308.E.a.:13.92.;Diverse Arbeiten;S.8
+D3470;175;VII.308.E.a.:13.92.b.;Mellingen Architekt Betschen, Fabrikbau;P 173 VII.308.E.a.:13.92.;Diverse Arbeiten;S.8
+D845;197;V.C.c.52.:124.a);Allgemeine Akten;P 195 V.C.c.52.:124.;Winter-Olympiade 1976.;S.8
+D845;198;V.C.c.52.:124.b);Akten betr. Hoch-Ybrig;P 195 V.C.c.52.:124.;Winter-Olympiade 1976.;S.8
+D845;199;V.C.c.52.:124.c);1. und 2. Bewerbung;P 195 V.C.c.52.:124.;Winter-Olympiade 1976.;S.8
+D845;200;V.C.c.52.:124.d);Kostenschätzungen;P 195 V.C.c.52.:124.;Winter-Olympiade 1976.;S.8
+D845;201;V.C.c.52.:124.e);Protokolle der gemeinderätlichen Kommission;P 195 V.C.c.52.:124.;Winter-Olympiade 1976.;S.8
+D845;202;V.C.c.52.:124.f);Pressestimmen;P 195 V.C.c.52.:124.;Winter-Olympiade 1976.;S.8
+D845;203;V.C.c.52.:124.g);Drucksachen;P 195 V.C.c.52.:124.;Winter-Olympiade 1976.;S.8

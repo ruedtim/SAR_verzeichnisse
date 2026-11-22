@@ -1,0 +1,10 @@
+### D2931: vorher 19 Einheiten, nachher 20 Einheiten
+NEU  VII.138. [ID 20, Bestand, E1, Eltern -, S.15] Dramatische Gesellschaft Neumünster. Gesellschaftsarchiv | Von/bis (>= x und <=y)
+        D: VII. 138. Fotografien
+        H: Stück ohne Nummer im Findmittel («VII. 138. Fotografien», S. 15) – hier beim Bestand übernommen (keine Signatur erfunden); in scope beim Bestand ergänzen oder von Hand als Einheit anlegen.
+GEÄ  VII.138.1982 [ID 19, Dossier, E1, Eltern -, S.15] Korrespondenz mit dem Stadtarchiv und Verschiedenes. | 
+        [Darin]
+           -VII. 138. Fotografien
+           +
+        [Prüfhinweise]
+           -Nach der letzten Einheit steht im Findmittel ein Absatz ohne Signatur («VII. 138. Fotografien» …) – hier im Darin übernommen, bitte prüfen.

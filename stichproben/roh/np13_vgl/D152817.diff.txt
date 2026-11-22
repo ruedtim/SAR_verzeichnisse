@@ -1,0 +1,12 @@
+### D152817: vorher 704 Einheiten, nachher 704 Einheiten
+GEÄ  VI.SB.C.18. [ID 106, Dossier, E2, Eltern VI.SB.C., S.7] Wertschriftenjournal | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+        Prüfhinweise: 'Untereinheiten reichen über den Zeitraum hinaus (1883–1933).' => ''
+GEÄ  VI.SB.C.18.a [ID 107, Serie, E2, Eltern VI.SB.C., S.7] Depositen- und Schirmbuch | Von/bis (>= x und <=y)
+        Ebene: '3' => '2'
+        Übergeordnete Signatur: 'VI.SB.C.18.' => 'VI.SB.C.'
+        Eltern: 'VI.SB.C.18.' => 'VI.SB.C.'
+GEÄ  VI.SB.C.18.a:1 [ID 108, Dossier, E3, Eltern VI.SB.C.18.a, S.7] Band 1 | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+GEÄ  VI.SB.C.18.a:2 [ID 109, Dossier, E3, Eltern VI.SB.C.18.a, S.7] Band 2 | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'

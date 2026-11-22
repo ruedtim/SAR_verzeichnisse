@@ -1,0 +1,13 @@
+### D3316: vorher 73 Einheiten, nachher 73 Einheiten
+GEÄ  VII.255.:4. [ID 73, Dossier, E1, Eltern -, S.9] Einladungen und Menukarten | Von/bis (>= x und <=y)
+        von: '1877' => '22.10.1903'
+        bis: '19.05.1994' => '25.10.1990'
+        [Darin]
+           -Geschichte der Schildner zum Schneggen:
+           -Georg von Wyss, Gerold Meyer von Knonau, Hans von Grebel, Geschichte der Gesellschaft der Böcke / Geschichte der Gesellschaft der Schildner zum Schneggen, 13 Teile, Züri
+           -Zu diesem Bestand:
+           -Das Stadtarchiv Zürich hat diesen Bestand am 16. Januar 1994 und am 19. Mai 1994 von der Gesellschaft der Schildner zum Schneggen in Zürich (Dr. Heinrich Bodmer, Stubens
+           -Der Bestand ist zurzeit gelagert in 6 Normschachteln und 1 flachen grossformatigen Schachtel. Aufteilung der Publikationen nach Schachteln:
+           -Schachtel 4 Nummern 3.1. bis 3.8. (ohne 3.5., Grossformat)
+           -1 Schachtel Grossformat: Nummer 3.5.
+           -10. Februar 1994 / Dr. Robert Dünki / 340B

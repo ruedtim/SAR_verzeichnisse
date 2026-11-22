@@ -1,0 +1,9 @@
+### D3472: vorher 1722 Einheiten, nachher 1722 Einheiten
+WEG  VII.308.F.a.:1992.25 [ID 839, Dossier, E1, Eltern -, S.33] Thalwil, Dir. E. Hofmann, Wannerstrasse 16, Vordach am Hauseingang | Genau (=)
+WEG  VII.308.F.a.:1967.18/T2 [ID 981, Dossier, E2, Eltern VII.308.F.a.:1967.18, S.41] Wallisellen, Zwicky Co., Estrichverkleidung Färberei | Genau (=)
+NEU  VII.308.F.a.:1962.25 [ID 839, Dossier, E1, Eltern -, S.33] Thalwil, Dir. E. Hofmann, Wannerstrasse 16, Vordach am Hauseingang | Genau (=)
+        H: Im Findmittel «1992.25» zwischen 1962.24 und 1962.26 – als «1962.25» gelesen (Tippfehler im Jahr?), bitte prüfen.
+NEU  VII.308.F.a.:1969.18 [ID 1087, Dossier, E1, Eltern -, S.41] Wallisellen, Zwicky Co., Estrichverkleidung Färberei | Genau (=)
+        H: Im Findmittel «1967.18» zwischen 1969.17 und 1969.19 – als «1969.18» gelesen (Tippfehler im Jahr?), bitte prüfen.
+GEÄ  VII.308.F.a.:1967.18 [ID 980, Dossier, E1, Eltern -, S.38] Zürich, Brauerei Hürlimann, Restaurant Scheidegg, Kehlhofstrasse 2 | Genau (=)
+        Stufe: 'Serie' => 'Dossier'

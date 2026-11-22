@@ -1,0 +1,21 @@
+datei;einheiten;umfang_geprueft;kritisch;mittel;gering;urteil;signale;bemerkung
+D3067;80;"Kompaktmappe ganz; PDF S. 1–31 ganz gegen alle 80 Einheiten samt Darin (Excel) gelesen; Vollständigkeit und Info";1;4;3;kritisch;[NACH] 50, [VOR] 14, [SIG?] 78, [NICHT] 26: alle nachgesehen. Rauschen: Mengenangaben («1 Stammbuch» …), Mappen-Zuordnung von «1 Büchlein …» zu IV.A.1. und «1 Buch Protocollum» zu IV.E.1. (Excel richtig), Tabellenköpfe, Schlussvermerke;"Kritisch: IV.A.5.a./5.b. als Kinder statt Geschwister von 5. Sonst Gliederung I.–VIII. richtig; Teile je Schachtel bei V.B. (302–304) und VIII.A. (Schachtel 1/2) nach Konvention; Darin von IV.A. (Carte, Versicherungspolice, «Sämtliche Akten … wie folgt:») vertretbar. Bekannt aus NP12 (nicht neu gezählt): VI.D. Schachtel 400 statt 401, VIII.B. Schachtel 2, Zeiträume VIII./VIII.A./V.B. T4."
+D789;60;"ganze Mappe; PDF S. 1–4";0;2;1;ohne kritischen Fehler;[NICHT] 1 = Tabellenkopf;"Schachtel I–VI richtig; Titel 13. und 36. abgeschnitten (bekannt seit A5)."
+D3545;43;"ganze Mappe; PDF S. 1 und 3";0;0;1;ohne kritischen Fehler;"[SIG?] 1 = Eintrag «4.» mit gleicher Nummer wie die Überschrift 4. (Grenzfall, gering); [NICHT] 5 = Titelblatt, Schlussvermerk";Gliederung bis 3. Ebene richtig.
+D842;29;"ganze Mappe; Excel 26.–29.";0;0;1;ohne kritischen Fehler;"[VOR] 1 = «Von Ulrich Meister.» steht richtig bei 27.; [NICHT] 1 = Tabellenkopf";
+D152396;19;"ganze Mappe; PDF S. 2";0;0;0;ohne kritischen Fehler;[NICHT] 1 = Tabellenkopf;18./19. ohne Datum wie im PDF.
+D2137;19;"ganze Mappe; Excel 1., 5., 10., 11.";0;0;0;ohne kritischen Fehler;[NICHT] 1 = Tabellenkopf;"«V.G. c.45.:10./11.» als V.H.c.45.:10./11. mit Hinweis (K9 behoben); Schachteln 1–3 richtig."
+D2566;15;"ganze Mappe; PDF S. 3; Excel";0;0;0;ohne kritischen Fehler;[NICHT] 4 = Titelblatt, Vorbemerkung «Das Fest fand am 24./24. Juni 1956 statt.» (Konvention), Schlussvermerk;
+D1698;12;ganze Mappe;0;0;0;ohne kritischen Fehler;[NICHT] 2 = Tabellenkopf, Schlussvermerk;
+D1704;12;ganze Mappe;0;0;0;ohne kritischen Fehler;[NICHT] 4 = Titelblatt, Tabellenkopf, Schlussvermerk;
+D4110;9;"ganze Mappe; alle 9 Einheiten im Excel; PDF S. 2–3";0;1;1;ohne kritischen Fehler;"[SIG?] 7 / [NACH] 10 = Mappen-Artefakt (1./2. der Übersicht zugeordnet; Excel aus dem Detail); [NICHT] 2 = Schlussvermerke";Übersicht und Übergabenotiz als Vorspann (Konvention).
+D1690;9;ganze Mappe;0;0;0;ohne kritischen Fehler;[NICHT] 2 = Tabellenkopf, Schlussvermerk;
+D1662;7;ganze Mappe;0;0;0;ohne kritischen Fehler;[NICHT] 2 = Tabellenkopf, Schlussvermerk;
+D3579;6;"ganze Mappe; Excel alle; Blatt Info";0;1;0;ohne kritischen Fehler;"[NICHT] 35 = Titelblatt, «Personenrecherche» (Vorbemerkung, Konvention), Übergabe- und Herkunftsnotiz im Info (Bestandsgeschichte); [VOR]/[NACH] = gleicher Text bei mehreren Fotos";6. mit Darin im Titel (bekannt aus C3).
+D151759;6;"ganze Mappe; PDF; Online-Verzeichnis";1;0;0;kritisch;[NICHT] 3 = Tabellenkopf und 2 Zeilen im Info;Kritisch: «Die Protokolle von 1964 bis 1981 sind lose verschachtelt.» nur im Info statt in einer Bestandszeile (online: Bestand 1895–1981).
+D1533;5;"ganze Mappe; PDF";0;0;1;ohne kritischen Fehler;[NICHT] 4 = Titelblatt, Schlussvermerk;
+D1360;4;ganze Mappe;0;0;0;ohne kritischen Fehler;[NICHT] 1 = Tabellenkopf;
+D819;3;"ganze Mappe; Excel; Online-Verzeichnis";0;0;0;ohne kritischen Fehler;[NICHT] 1 = Tabellenkopf;"«V.C. c.25.:1/:2.» Tippfehler im PDF, als Signatur mit Hinweis übernommen (Konvention; online gehören alle drei zu V.C.c.26.; anders als D2137 nicht korrigiert)."
+D2560;2;"ganze Mappe; Excel";0;0;0;ohne kritischen Fehler;[NICHT] 1 = Schlussvermerk;
+D2685;2;"ganze Mappe; PDF; Excel";0;0;0;ohne kritischen Fehler;[NICHT] 1 = Schlussvermerk;
+D1795;1;ganze Mappe;0;0;0;ohne kritischen Fehler;[NICHT] 3 = Titelblatt, Tabellenkopf;Aufzählung «l./2./3.» im Darin (Konvention).

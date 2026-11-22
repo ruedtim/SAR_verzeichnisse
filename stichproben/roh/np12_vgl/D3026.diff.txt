@@ -1,0 +1,491 @@
+### D3026: vorher 1 Einheiten, nachher 70 Einheiten
+WEG  VII.177. [ID 1, Bestand, E1, Eltern -, S.1] Paul Nussberger (1911 – 1977) Lokalhistoriker Nachlass | Von/bis (>= x und <=y)
+        D: Titel Schachtel(n)
+        D: Aargau 7-10 Abstimmungsvorlagen 52 Alpenquai 55 Alpenquai, Neubau 21
+        D: Altstadt, Geschichte der Zürcher (Rihner) 33
+        D: Altstadt, Führer durch die Zürcher 57 Altstadtsanierung 64 Alt-Zürich 66, 67 Apotheken 32 Architektur, Zürcher im 19. Jahrhundert 33 Architektur, 50-er Jahre 33
+        D: Artikel, lokalgeschichtlich 34 (Verzeichnis: 46, 6-7) Artikel, schweizerische Ortschaften 34, 35 Artikel, "Stadt Zürich" 37-42 Bäckergewerbe 63 Bärengasse 48 Ba
+        D: Ballon auf Lindenhof 5, 6 Ballonsport 5, 6 Bankverein, Paradeplatz 22
+        D: Bauen und Wohnen 31 Bauschänzli 62
+        D: Betriebe 47
+        D: … (102 Zeilen)
+NEU  VII.177.:1 [ID 1, Dossier, E1, Eltern -, S.3] Schachtel 1 | 
+        D: Henneberg, Palais
+        D: Peterhans, Toni, Pflanzen von Schriftsteller, Zürcher
+        D: Sumatra, Villa
+        D: Tobler, Villa (Winkelwiese4)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:2 [ID 2, Dossier, E1, Eltern -, S.2] Schachtel 2 | 
+        D: Cosmos, Velofabrik
+        D: Firmen, Zürcher
+        D: Gysler, Heinrich
+        D: Kinos, erste
+        D: Lorenzi, Giovanni
+        D: Meyer-Ernst, C. + Sohn
+        D: Schlieren, Färberei
+        D: Schreck, Max
+        D: … (11 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:3 [ID 3, Dossier, E1, Eltern -, S.1] Schachtel 3 | 
+        D: Bürgermeister
+        D: Rordorf, Familie
+        D: Stadtpräsidenten
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:4 [ID 4, Dossier, E1, Eltern -, S.2] Schachtel 4 | 
+        D: Dienstleistungsbetriebe, Stadt Zürich
+        D: Stadtpläne
+        D: Wirtschaftsmetropole Zürich
+        D: Zürich
+        D: Zürichseeschiffahrt
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:5 [ID 5, Dossier, E1, Eltern -, S.1] Schachtel 5 | 
+        D: Ballon auf Lindenhof
+        D: Ballonsport
+        D: Flughafen Kloten
+        D: Flugmaschinen
+        D: Lindenhof, Ballon auf dem
+        D: Luftfahrt
+        D: Rennweg-Kurier
+        D: Zeppelin
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:6 [ID 6, Dossier, E1, Eltern -, S.1] Schachtel 6 | 
+        D: Ballon auf Lindenhof
+        D: Ballonsport
+        D: Flughafen Kloten
+        D: Flugmaschinen
+        D: Lindenhof, Ballon auf dem
+        D: Luftfahrt
+        D: Zeppelin
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:7 [ID 7, Dossier, E1, Eltern -, S.1] Schachtel 7 | 
+        D: Aargau
+        D: Bezirke
+        D: Manuskripte
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:8 [ID 8, Dossier, E1, Eltern -, S.1] Schachtel 8 | 
+        D: Aargau
+        D: Bezirke
+        D: Solothurn
+        D: Zürcher Chronik
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:9 [ID 9, Dossier, E1, Eltern -, S.1] Schachtel 9 | 
+        D: Aargau
+        D: Bezirke
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:10 [ID 10, Dossier, E1, Eltern -, S.1] Schachtel 10 | 
+        D: Aargau
+        D: Bezirke
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:11 [ID 11, Dossier, E1, Eltern -, S.4] Schachtel 11 | 
+        D: Manuskripte
+        D: "Zürcher Altstadt"
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:12 [ID 12, Dossier, E1, Eltern -, S.2] Schachtel 12 | Genau (=)
+        D: EXPO 1964
+        D: Jubiläumsnummern
+        D: NZZ
+        D: Sonderbeilagen
+        D: Tagblatt
+        D: Tages-Anzeiger
+        D: Zeitungen, Sonderbeilagen, Jubiläumsnummern
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  VII.177.:13 [ID 13, Dossier, E1, Eltern -, S.2] Schachtel 13 | 
+        D: Firmen
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:14 [ID 14, Dossier, E1, Eltern -, S.2] Schachtel 14 | 
+        D: Firmen
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:15 [ID 15, Dossier, E1, Eltern -, S.6] Schachtel 15 | 
+        D: "Zürcher Altstadt"
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:16 [ID 16, Dossier, E1, Eltern -, S.1] Schachtel 16 | 
+        D: Brüggli, gedecktes
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:17 [ID 17, Dossier, E1, Eltern -, S.1] Schachtel 17 | 
+        D: Brüggli, gedecktes
+        D: Stadtkreise
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:18 [ID 18, Dossier, E1, Eltern -, S.1] Schachtel 18 | 
+        D: Brüggli, gedecktes
+        D: Stadtkreise
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:19 [ID 19, Dossier, E1, Eltern -, S.2] Schachtel 19 | 
+        D: Frauenbadeanstalt
+        D: Gartenbau-Ausstellung
+        D: Herbstmesse
+        D: Limmatquai
+        D: Weihnachtsmesse an der Linth
+        D: Zürich
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:20 [ID 20, Dossier, E1, Eltern -, S.6] Schachtel 20 | 
+        D: Zeitungsartikel, hauptsächlich von P. Nussberger
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:21 [ID 21, Dossier, E1, Eltern -, S.1] Schachtel 21 | 
+        D: Alpenquai, Neubau
+        D: Biograph. Archiv, Schweizerisches
+        D: ETH, Jubiläum
+        D: Jubiläum, ETH
+        D: Kantonsschule, Zürcher Oberland
+        D: Kantonsschule, Zürich
+        D: Kunstgewerbemuseum
+        D: Lehrerseminar, Wettingen
+        D: … (16 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:22 [ID 22, Dossier, E1, Eltern -, S.1] Schachtel 22 | 
+        D: Bankverein, Paradeplatz
+        D: Paradeplatz, Bankverein
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:23 [ID 23, Dossier, E1, Eltern -, S.3] Schachtel 23 | 
+        D: Knabenschiessen
+        D: Sechseläuten
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:24 [ID 24, Dossier, E1, Eltern -, S.1] Schachtel 24 | 
+        D: Brunnen, Zürcher
+        D: Klassizismus
+        D: Kulturspiegel, Zürcher
+        D: Kunstgeschichte, Zürcher
+        D: Plätze
+        D: Plastik auf öffentlichem Grund
+        D: Portale, Zürcher
+        D: Spaziergänge zu Sehenswürdigkeiten
+        D: … (10 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:25 [ID 25, Dossier, E1, Eltern -, S.4] Schachtel 25 | 
+        D: Schanzengraben, Schiffbarmachung
+        D: Stadtkreise
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:26 [ID 26, Dossier, E1, Eltern -, S.1] Schachtel 26 | 
+        D: Bahnhoferweiterung
+        D: Bahnhofgebiet, Umbauten im Forchbahn
+        D: Gotthard-Bahn
+        D: Seeabfluss, Regulierung
+        D: Untergrundbahn
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:27 [ID 27, Dossier, E1, Eltern -, S.2] Schachtel 27 | 
+        D: Gross-Zürich
+        D: Stadtkreise
+        D: Zürich
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:28 [ID 28, Dossier, E1, Eltern -, S.5] Schachtel 28 | 
+        D: Stadtkreise
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:29 [ID 29, Dossier, E1, Eltern -, S.6] Schachtel 29 | 
+        D: Zeitungsartikel, hauptsächlich von P. Nussberger
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:30 [ID 30, Dossier, E1, Eltern -, S.3] Schachtel 30 | 
+        D: Kunsthaus
+        D: Limmatquai
+        D: Schweizerische Schlosser Zeitung
+        D: Zürcher Woche
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:31 [ID 31, Dossier, E1, Eltern -, S.1] Schachtel 31 | 
+        D: Bauen und Wohnen
+        D: Stadtmühle Zürich
+        D: Trotten
+        D: Weinpresse
+        D: Wohnen
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:32 [ID 32, Dossier, E1, Eltern -, S.1] Schachtel 32 | 
+        D: Apotheken
+        D: Friedhöfe
+        D: Glas aus 4 Jahrtausenden
+        D: Hirsebreifahrt
+        D: Krematorium
+        D: Schützenfest, Eidgenössisches
+        D: Todesfall, Dienstleistungen im
+        D: Trauerfeiern
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:33 [ID 33, Dossier, E1, Eltern -, S.1] Schachtel 33 | 
+        D: Altstadt, Geschichte der Zürcher (Rihner)
+        D: Architektur, Zürcher im 19. Jahrhundert
+        D: Architektur, 50-er Jahre
+        D: Denkmalpflege
+        D: Episoden, historische
+        D: Heimatschutz
+        D: Näf, Viktor, Korrespondenz mit
+        D: Nussberger, Paul, Clichés
+        D: … (13 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:34 [ID 34, Dossier, E1, Eltern -, S.1] Schachtel 34 | 
+        D: Artikel, lokalgeschichtlich (Verzeichnis: 46, 6-7) Artikel, schweizerische Ortschaften
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:35 [ID 35, Dossier, E1, Eltern -, S.1] Schachtel 35 | 
+        D: Artikel, schweizerische Ortschaften
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:36 [ID 36, Dossier, E1, Eltern -, S.2] Schachtel 36 | 
+        D: Firmen A-L, Jubiläen
+        D: Kurzbiographien
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:37 [ID 37, Dossier, E1, Eltern -, S.1] Schachtel 37 | 
+        D: Artikel, "Stadt Zürich"
+        D: Firmen M-Z, Jubiläen
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:38 [ID 38, Dossier, E1, Eltern -, S.1] Schachtel 38 | 
+        D: Artikel, "Stadt Zürich"
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:39 [ID 39, Dossier, E1, Eltern -, S.1] Schachtel 39 | 
+        D: Artikel, "Stadt Zürich"
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:40 [ID 40, Dossier, E1, Eltern -, S.1] Schachtel 40 | 
+        D: Artikel, "Stadt Zürich"
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:41 [ID 41, Dossier, E1, Eltern -, S.1] Schachtel 41 | 
+        D: Artikel, "Stadt Zürich"
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:42 [ID 42, Dossier, E1, Eltern -, S.1] Schachtel 42 | 
+        D: Artikel, "Stadt Zürich"
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:43 [ID 43, Dossier, E1, Eltern -, S.2] Schachtel 43 | Von/bis (>= x und <=y)
+        D: Bund, 600-Jahre Zürich
+        D: Flüchtlingshilfe 1943-1946
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  VII.177.:44 [ID 44, Dossier, E1, Eltern -, S.2] Schachtel 44 | Von/bis (>= x und <=y)
+        D: Flüchtlingshilfe 1943-1946
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  VII.177.:45 [ID 45, Dossier, E1, Eltern -, S.4] Schachtel 45 | 
+        D: Manuskripte
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:46 [ID 46, Dossier, E1, Eltern -, S.1] Schachtel 46 | 
+        D: Bahnhofstrasse, 100 Jahre
+        D: Hegetschweiler, Emil
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:47 [ID 47, Dossier, E1, Eltern -, S.1] Schachtel 47 | 
+        D: Betriebe
+        D: Firmen
+        D: Landesmuseum, 75 Jahre
+        D: Nuxo-Werk A.-G.
+        D: Operations Research
+        D: Weissenburg Mineralthermen A.-G.
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:48 [ID 48, Dossier, E1, Eltern -, S.1] Schachtel 48 | 
+        D: Bärengasse
+        D: Chorgasse
+        D: Florhofgasse
+        D: Neumarkt
+        D: Oetenbachgasse
+        D: Preyergasse
+        D: Rathaus
+        D: Stadtvereinigung, 50 Jahre
+        D: … (9 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:49 [ID 49, Dossier, E1, Eltern -, S.2] Schachtel 49 | 
+        D: Denkmäler
+        D: Gedenktafeln
+        D: Legenden
+        D: Liegenschaften, Umgebung Wasserkirche
+        D: Mühlen, aus Zürichs Vergangenheit
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:50 [ID 50, Dossier, E1, Eltern -, S.4] Schachtel 50 | 
+        D: Manuskripte
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:51 [ID 51, Dossier, E1, Eltern -, S.1] Schachtel 51 | 
+        D: Bodmerhaus
+        D: Friburgensia
+        D: Judentempel, Haus Zum
+        D: Kantorei
+        D: Kreditanstalt
+        D: Limmat
+        D: Lindentor, Haus Am
+        D: Pestilenz schwarzen Horn, Haus Zum
+        D: … (10 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:52 [ID 52, Dossier, E1, Eltern -, S.1] Schachtel 52 | 
+        D: Abstimmungsvorlagen
+        D: Illnau
+        D: Theaterfrage
+        D: Waisenhaus
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:53 [ID 53, Dossier, E1, Eltern -, S.1] Schachtel 53 | 
+        D: Bourbaki-Armee
+        D: Etoile, Bar-Restaurant
+        D: Gaststätten
+        D: Häuser im alten Zürich, Verzeichnis
+        D: Hotels
+        D: Odeon, Grand Café
+        D: Tages-Anzeiger
+        D: Zürcher Kalender
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:54 [ID 54, Dossier, E1, Eltern -, S.4] Schachtel 54 | 
+        D: Nussberger, Paul, Bilder z. T. aus Archiv
+        D: Photographien, diverse
+        D: Sport
+        D: Zürcher Kalender
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:55 [ID 55, Dossier, E1, Eltern -, S.1] Schachtel 55 | 
+        D: Alpenquai
+        D: Escherhäuser
+        D: Hirschengraben
+        D: Jugendbücher
+        D: Keller, Gottfried, Anekdoten
+        D: Kinderbücher
+        D: Kurzartikel
+        D: Nietzsche, Friedrich
+        D: … (13 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:56 [ID 56, Dossier, E1, Eltern -, S.2] Schachtel 56 | Von/bis (>= x und <=y)
+        D: Die Tat
+        D: Landesausstellungen
+        D: Moser, Adolf, Photograph
+        D: Tages-Anzeiger
+        D: Tages-Anzeiger, Jubiläumsnummer 1893/1968
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  VII.177.:57 [ID 57, Dossier, E1, Eltern -, S.1] Schachtel 57 | 
+        D: Altstadt, Führer durch die Zürcher
+        D: Steinhaus
+        D: Zürcher Altstadt, Führer
+        D: Zürcher Woche
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:58 [ID 58, Dossier, E1, Eltern -, S.2] Schachtel 58 | 
+        D: Engequartier
+        D: Fraumünsterquartier
+        D: Industriequartier
+        D: Kratzquartier
+        D: St. Anna-Quartier
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:59 [ID 59, Dossier, E1, Eltern -, S.4] Schachtel 59 | 
+        D: Quartierchronik, Zürcher
+        D: Schipfebüchlein
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:60 [ID 60, Dossier, E1, Eltern -, S.1] Schachtel 60 | 
+        D: blauen Störchli, Haus Im Kleiner Türk, Haus
+        D: Säckel, Haus Zum Schwandegg Haus Zum,
+        D: Sichel, Haus Zur
+        D: Theater, Neubau
+        D: Zünfte
+        D: Zunfthäuser
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:61 [ID 61, Dossier, E1, Eltern -, S.2] Schachtel 61 | 
+        D: Damhirsch, Haus Zum
+        D: Enge-Leimbach
+        D: Glockenhof
+        D: grossen Stein, Haus Zum
+        D: Häuser
+        D: Kleines Kindli, Haus
+        D: Papierfabrik an der Sihl
+        D: Polybahn
+        D: … (10 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:62 [ID 62, Dossier, E1, Eltern -, S.1] Schachtel 62 | 
+        D: Bauschänzli
+        D: Fluntern
+        D: Freudenberg
+        D: Gewerbe-Krankenkasse
+        D: Kreuzplatz
+        D: Lindenhof
+        D: Zürichberg (Klösterli)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:63 [ID 63, Dossier, E1, Eltern -, S.1] Schachtel 63 | 
+        D: Bäckergewerbe
+        D: Escher Wyss A.-G.
+        D: gelben Ziegel Haus Zum
+        D: Hauschroniken
+        D: Helferei, Haus
+        D: Kante, Haus Zur
+        D: Konditorgewerbe
+        D: Limmat
+        D: … (12 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:64 [ID 64, Dossier, E1, Eltern -, S.1] Schachtel 64 | 
+        D: Altstadtsanierung
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:65 [ID 65, Dossier, E1, Eltern -, S.2] Schachtel 65 | 
+        D: Geduld Haus Zur
+        D: Göldi-Haus
+        D: Grimmenturm
+        D: grünen Glas, Haus Zum Hegi, Franz, Kleinmeister
+        D: Hoffnung, Haus Zur
+        D: Kerze, Haus Zur
+        D: Kirchen
+        D: Kirchtürme
+        D: … (11 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:66 [ID 66, Dossier, E1, Eltern -, S.1] Schachtel 66 | 
+        D: Alt-Zürich
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:67 [ID 67, Dossier, E1, Eltern -, S.1] Schachtel 67 | 
+        D: Alt-Zürich
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:68 [ID 68, Dossier, E1, Eltern -, S.2] Schachtel 68 | 
+        D: Firmen
+        D: Zeller, Geschichte der Familie
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:69 [ID 69, Dossier, E1, Eltern -, S.4] Schachtel 69 | 
+        D: Sagen
+        D: Theatermanuskripte
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  VII.177.:70 [ID 70, Dossier, E1, Eltern -, S.3] Schachtel 70 | 
+        D: Jubiläumsnummern
+        D: Sonderbeilagen
+        D: Zeitungen, Sonderbeilagen, Jubiläumsnummern
+        D: Zeitungsartikel, hauptsächlich von P. Nussberger
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen, Darin aus dem alphabetischen Register «Titel ¦ Schachtel(n)») – bitte prüfen.
+Kein Zeitraum gefunden.

@@ -1,0 +1,5 @@
+### D3204: vorher 51 Einheiten, nachher 51 Einheiten
+GEÄ  VII.22.:51. [ID 51, Dossier, E1, Eltern -, S.4] Beiträge zur Gebirgskunde der Schweiz aus den hinterlassenen Manuskripten J. C. Eschers von der Linth mitgetheilt von seinem Sohne. II. Reise aus dem Linththal  | Von/bis (>= x und <=y)
+        [Darin]
+           -Das übrige Material dieses Nachlasses bestand aus Flugblättern, Einblattdrucken u. ä. Es wurde eingeordnet in den Bestand "Mandate", V.L. 14.
+           +

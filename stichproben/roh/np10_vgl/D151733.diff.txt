@@ -1,0 +1,7 @@
+### D151733: vorher 5 Einheiten, nachher 5 Einheiten
+GEÄ  V.J.c.500.:2. [ID 2, Dossier, E1, Eltern -, S.1] Beschreibung der Pflegeorte | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.J.c.500.:3. [ID 3, Dossier, E1, Eltern -, S.1] Verschiedene Akten | 
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.J.c.500.:4. [ID 4, Dossier, E1, Eltern -, S.1] Adoptionen durch die Amtsvormundschaft (AVS) Adoptionsmeldungen bei der AVS (alphabetisch geordnet) | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'

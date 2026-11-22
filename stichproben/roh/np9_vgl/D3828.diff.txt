@@ -1,0 +1,17 @@
+### D3828: vorher 31 Einheiten, nachher 31 Einheiten
+GEÄ  VII.76.:3.17. [ID 23, Dossier, E2, Eltern VII.76.:3., S.12] Sportliches | Von/bis (>= x und <=y)
+        [Darin]
+           -33. Diverse Begrüssungen von Sportlern, 1939
+           +33. Diverse Begrüssungen von Sportlern, 1939 – 1946
+GEÄ  VII.76.:6. [ID 28, Dossier, E1, Eltern -, S.16] Brücken im Sihltal | Von/bis (>= x und <=y)
+        Entstehungszeitraum, Anm.: '1956; Darin: 1932–1955' => ''
+        [Darin]
+           -Mappe No.42. Entwürfe zu einer Monographie, Vorarbeiten, 1953
+           +Mappe No.42. Entwürfe zu einer Monographie, Vorarbeiten, 1953 – 1956
+GEÄ  VII.76.:7. [ID 29, Dossier, E1, Eltern -, S.17] Zeitungen, Plakate | Von/bis (>= x und <=y)
+        Entstehungszeitraum, Anm.: '1940 / 1949; Darin: 1912–1940' => ''
+        [Darin]
+           -1. 4 Alben mit Bildern zum Thema Militär aus der Presse, 1912
+           -2. Zeitungsartikelsammlung zum Thema Militär und Landesverteidigung, 1927
+           +1. 4 Alben mit Bildern zum Thema Militär aus der Presse, 1912 – 1940
+           +2. Zeitungsartikelsammlung zum Thema Militär und Landesverteidigung, 1927 – 1949

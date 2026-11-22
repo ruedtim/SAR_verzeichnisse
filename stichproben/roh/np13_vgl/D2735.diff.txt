@@ -1,0 +1,193 @@
+### D2735: vorher 23 Einheiten, nachher 3 Einheiten
+WEG  V.L.72.:1/T2 [ID 2, Dossier, E2, Eltern V.L.72.:1, S.3] Verkehrspolizeiliche Anordnungen anlässlich des Kaiserbesuches (1 Blatt) | Von/bis (>= x und <=y)
+        D: Instruktion für den Ordnungsdienst am 3. September [1912], gez. Der Platz-Kommandant, Major U. Wille (4 Seiten)
+        D: “Quartiere”. Die Unterbringung Seiner Majestät des Kaisers und des Allerhöchsten Gefolges in Zürich ist nun in folgender Weise geordnet worden... (2 Seiten, Vervielfältig
+WEG  V.L.72.:2/T2 [ID 4, Dossier, E2, Eltern V.L.72.:2, S.1] Mappe 1: Tagblatt der Stadt Zürich | Von/bis (>= x und <=y)
+        D: Nr. 307, Zürich, 3. September 1912
+        D: Zürcherische Freitagszeitung
+        D: 239. Jahrgang, Nr. 35
+        D: Zürich, 30. August 1912
+        D: Zürcherische Freitagszeitung
+        D: 239. Jahrgang, Nr. 36
+        D: Zürich, 6. September 1912
+        D: Zürcherische Freitagszeitung
+        D: … (15 Zeilen)
+WEG  V.L.72.:2/T3 [ID 5, Dossier, E2, Eltern V.L.72.:2, S.2] Zürcher Wochen-Chronik. Kaiser-Nummer. | Genau (=)
+        D: XIV. Band, Nr. 3607 (2 Ex.)
+        D: Zürich, 7. September 1912
+        D: 2 Exemplare
+        D: Zürcher Wochen-Chronik. Sondernummer.
+        D: Nr. 36
+        D: Zürich, 7. September 1912
+        D: 2 Exemplare
+WEG  V.L.72.:2/T4 [ID 6, Dossier, E2, Eltern V.L.72.:2, S.2] Mappe 3: Das illustrierte Programm. | Von/bis (>= x und <=y)
+        D: Spezial-Nummer zum Kaiser-Empfang in der Schweiz.
+        D: 11. Jg., Nr. 35
+        D: Zürich, 1. - 8. September 1912
+WEG  V.L.72.:2/T5 [ID 7, Dossier, E2, Eltern V.L.72.:2, S.4] Abschreiten der auf dem Bahnhofplatz in Zürich aufgestellten Ehrenkompagnie durch den Kaiser in Begleitung des Bundespräsidenten am 3. September [1912], Ausschnitte aus e | Genau (=)
+        D: Postkarte an Hptm. F. Moser, Kdt. der Kaiser-Kompagnie, Biel, mit aufgeklebtem Zeitungsausschnitt, Bild: “Der Kaiser im Gespräch mit dem Führer der Ehenkompagnie”, Postst
+        D: Verschiedene kopierte Zeitungsausschnitte, u. a. zum 50. Jahrestag des Kaiser-Besuchs (Tages-Anzeiger 1. September 1962, NZZ 1962, NZZ 1998, Die Tat 6. September 1967, Ri
+WEG  V.L.72.:3/T2 [ID 9, Dossier, E2, Eltern V.L.72.:3, S.3] Mappen 1–8: Kopien aus dem Familienarchiv Moser (mit Dubletten) | Genau (=)
+        D: Herr Rudolf Moser, Plattenstrasse 50, 8032 Zürich, hat dem Stadtarchiv am 27. August 2001 Materialien zum Kopieren zur Verfügung gestellt. Sein Onkel, Hauptmann Friedrich
+        D: Die Originale aus dem Besitz von Heinz Moser, Sohn von Hauptmann Friedrich Moser-Guhl, befinden sich im Familienarchiv Moser, das im Burgerarchiv Thun deponiert ist.
+WEG  V.L.72.:3/T3 [ID 10, Dossier, E2, Eltern V.L.72.:3, S.4] Kopierte Fotos | 
+        D: Kasernenhof Zürich (Üben der Ehenkompanie)
+        D: Kaiserbesuch in Zürich (Hauptbahnhof)
+        D: Kaisermanöver
+        D: Kaiserbesuch in Bern
+WEG  V.L.72.:4 [ID 11, Serie, E1, Eltern -, S.1] Bildmaterial: 39 Postkarten | Genau (=)
+WEG  V.L.72.:4/T2 [ID 12, Dossier, E2, Eltern V.L.72.:4, S.2] Illustrirte Zeitung. | Genau (=)
+        D: Zum Besuch des Deutschen Kaisers in der Schweiz.
+        D: Nr. 3611, 139. Band
+        D: Leipzig, 12. September 1912
+WEG  V.L.72.:4/T3 [ID 13, Dossier, E2, Eltern V.L.72.:4, S.4] Kopierte Postkarten | Genau (=)
+        D: 6 auf einem Blatt reproduzierte Postkarten in Farbe
+WEG  V.L.72.:5 [ID 14, Serie, E1, Eltern -, S.2] Die Kaisertage in der Schweiz. | Genau (=)
+        D: Separatabdruck aus der Schweizer Illustrierten Zeitung.
+        D: Zofingen, 1912
+        D: 3 Exemplare
+        D: Die Schweiz. Illustrierte Halbmonatszeitschrift.
+        D: Jahrgang XVI, Nr. 18
+        D: Zürich, 15. September 1912
+WEG  V.L.72.:5/T2 [ID 15, Dossier, E2, Eltern V.L.72.:5, S.4] Dubletten von Mappe 1 | 
+WEG  V.L.72.:6 [ID 16, Serie, E1, Eltern -, S.2] Dr. Alfred Schaer. Kaiser Wilhelm II. in der Schweiz. | Genau (=)
+        D: Mit 33 Illustrationen und einem Einführungsgedicht von J.C. Heer Zürich, 1912
+        D: 2 Exemplare
+        D: Rudolf Schlatter. Wie könnte Kaiser Wilhelm den Weltfrieden erzwingen? Ein Apell an Deutschlands Kaiser. Ein Apell an die Völker Europas. [Obertitel: Zu den Zürcher Kaise
+WEG  V.L.72.:6/T2 [ID 17, Dossier, E2, Eltern V.L.72.:6, S.4] Dubletten von Mappe 2 | 
+WEG  V.L.72.:7 [ID 18, Serie, E1, Eltern -, S.2] Ständchen, gegeben von den Sängervereinen Männerchor Zürich und Harmonie Zürich. Programm und Liedertexte | Von/bis (>= x und <=y)
+        D: Zürich, 3. September 1912
+        D: 2 Exemplare
+        D: Besuch seiner Majestät des Deutschen Kaisers Wilhelm II. in der Schweiz.
+        D: Programm 3. - 7. September 1912
+WEG  V.L.72.:7/T2 [ID 19, Dossier, E2, Eltern V.L.72.:7, S.4] Dubletten von Mappe 3 | 
+WEG  V.L.72.:8 [ID 20, Serie, E1, Eltern -, S.3] Presse-Ausweiskarte E. Stauber, Zürichseezeitung | Genau (=)
+        D: Emilie Locher-Werling. Was s'Lisi vo Schöfflisdorf vom Kaiserb'suech b'richtet.
+        D: Zürich 1912
+        D: Am häuslichen Herd.
+        D: Jahrgang XVI, Heft 1
+        D: Zürich, Oktober 1912
+        D: Schweizerische Armeekorpsmanöver 1912
+        D: III. Armeekorps: Karte 1: 100'000
+        D: Zürich 1912
+        D: … (10 Zeilen)
+WEG  V.L.72.:8/T2 [ID 21, Dossier, E2, Eltern V.L.72.:8, S.4] Dubletten von Mappe 4 | 
+WEG  V.L.72.:9 [ID 22, Dossier, E1, Eltern -, S.3] Bernhard Rahn, Impressionen vom Kaiserbesuch Wilhelms II. in der Schweiz, 3.–6. September 1912, in | Von/bis (>= x und <=y)
+        D: Zürcher Taschenbuch auf das Jahr 1958, S. 140 – 158 (Photokopie)
+        D: Zeitungsausschnitte
+        D: Januar 1950 - September 1967
+WEG  V.L.72.:10 [ID 23, Dossier, E1, Eltern -, S.3] Heiri Gysler, Erinnerungen an den Kaiserbesuch (1962), in: H. G., Wandlungen in Zürich, 1994 (Db 1314:2), S. 101 – 140 | Genau (=)
+GEÄ  V.L.72.:1 [ID 1, Dossier, E1, Eltern -, S.1] Schachtel 1 | Genau (=)
+        Titel: 'Mappe 1: Protokollauszüge' => 'Schachtel 1'
+        Stufe: 'Serie' => 'Dossier'
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => 'Genau (=)'
+        von: '09.1912' => '1912'
+        bis: '10.1912' => ''
+        [Darin]
+           -August
+           +Mappe 1: Protokollauszüge; August
+           +Mappe 2: Korrespondenzen; Juli
+           +August 1912
+           +Mappe 3: Korrespondenzen; Sept.
+           +Oktober 1912
+           +Mappe 4: Bildmaterial: 39 Postkarten; 1912
+        Zeitraum-Quelle: 'Untereinheiten (geschätzt)' => 'Datumsspalte'
+        [Prüfhinweise]
+           -Zeitraum aus geschätzten Zeiträumen der Untereinheiten.
+GEÄ  V.L.72.:2 [ID 2, Dossier, E1, Eltern -, S.1] Schachtel 2 | Von/bis (>= x und <=y)
+        Titel: 'Korrespondenzen' => 'Schachtel 2'
+        Stufe: 'Serie' => 'Dossier'
+        Entstehungszeitraum: 'Genau (=)' => 'Von/bis (>= x und <=y)'
+        bis: '' => '1994'
+        [Darin]
+           -Juli
+           -August 1912
+           +Mappe 1: Tagblatt der Stadt Zürich; Nr. 307, Zürich, 3. September 1912
+           +Zürcherische Freitagszeitung
+           +239. Jahrgang, Nr. 35
+           +Zürich, 30. August 1912
+           +Zürcherische Freitagszeitung
+           +239. Jahrgang, Nr. 36
+           +Zürich, 6. September 1912
+           +Zürcherische Freitagszeitung
+           +Separatabdruck, Nr. 36
+           +Zürich, 6. September 1912
+           +2 Exemplare
+           +Zürcherische Freitagszeitung
+           +239. Jahrgang, Nr. 37
+           +Zürich, 11. September 1912
+           +2 Exemplare
+           +Mappe 2: Zürcher Wochen-Chronik. Kaiser-Nummer.; XIV. Band, Nr. 3607 (2 Ex.); Zürich, 7. September 1912; 2 Exemplare
+           +Zürcher Wochen-Chronik. Sondernummer.
+           +Nr. 36
+           +Zürich, 7. September 1912
+           +2 Exemplare
+           +Schachtel 2: Mappe 3: Das illustrierte Programm.; Spezial-Nummer zum Kaiser-Empfang in der Schweiz.; 11. Jg., Nr. 35; Zürich, 1. - 8. September 1912
+           +Mappe 4: Illustrirte Zeitung.; Zum Besuch des Deutschen Kaisers in der Schweiz.; Nr. 3611, 139. Band; Leipzig, 12. September 1912
+           +Mappe 5: Die Kaisertage in der Schweiz.; Separatabdruck aus der Schweizer Illustrierten Zeitung.; Zofingen, 1912; 3 Exemplare
+           +Die Schweiz. Illustrierte Halbmonatszeitschrift.
+           +Jahrgang XVI, Nr. 18
+           +Zürich, 15. September 1912
+           +Mappe 6: Dr. Alfred Schaer. Kaiser Wilhelm II. in der Schweiz.; Mit 33 Illustrationen und einem Einführungsgedicht von J.C. Heer Zürich, 1912; 2 Exemplare
+           +Rudolf Schlatter. Wie könnte Kaiser Wilhelm den Weltfrieden erzwingen? Ein Apell an Deutschlands Kaiser. Ein Apell an die Völker Europas. [Obertitel: Zu den Zürcher Kais
+           +Mappe 7: Ständchen, gegeben von den Sängervereinen Männerchor Zürich und Harmonie Zürich. Programm und Liedertexte; Zürich, 3. September 1912; 2 Exemplare; Besuch seiner
+           +Mappe 8: Presse-Ausweiskarte E. Stauber, Zürichseezeitung; Emilie Locher-Werling. Was s'Lisi vo Schöfflisdorf vom Kaiserb'suech b'richtet.; Zürich 1912
+           +Am häuslichen Herd.
+           +Jahrgang XVI, Heft 1
+           +Zürich, Oktober 1912
+           +Schweizerische Armeekorpsmanöver 1912
+           +III. Armeekorps: Karte 1: 100'000
+           +Zürich 1912
+           +Der Kaiser wie er ist.
+           +Feuilleton der Zürcher Wochenchronik
+           +Mappe 9: Bernhard Rahn, Impressionen vom Kaiserbesuch Wilhelms II. in der Schweiz, 3.–6. September 1912, in: Zürcher Taschenbuch auf das Jahr 1958, S. 140 – 158 (Photoko
+           +Zeitungsausschnitte
+           +Januar 1950 - September 1967
+           +Mappe 10: Heiri Gysler, Erinnerungen an den Kaiserbesuch (1962), in: H. G., Wandlungen in Zürich, 1994 (Db 1314:2), S. 101 – 140
+        Schachtel-Nr.: '' => '2'
+        Nr. im PDF: 'Mappe 2' => 'Schachtel 2'
+        Zeitraum-Quelle: 'Untereinheiten (geschätzt)' => 'Darin (geschätzt)'
+        [Prüfhinweise]
+           -Signatur aus der Nummer der Mappe gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+           -Zeitraum aus geschätzten Zeiträumen der Untereinheiten.
+           +Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+           +Zeitraum aus den Jahreszahlen im Darin geschätzt.
+GEÄ  V.L.72.:3 [ID 3, Dossier, E1, Eltern -, S.3] Mappen 1–8: Kopien aus dem Familienarchiv Moser (mit Dubletten) | Von/bis (>= x und <=y)
+        Titel: 'Korrespondenzen' => 'Mappen 1–8: Kopien aus dem Familienarchiv Moser (mit Dubletten)'
+        Stufe: 'Serie' => 'Dossier'
+        von: '10.1912' => '1912'
+        bis: '27.08.2001' => '19.02.2009'
+        [Darin]
+           -Sept.
+           -Oktober 1912
+           +Herr Rudolf Moser, Plattenstrasse 50, 8032 Zürich, hat dem Stadtarchiv am 27. August 2001 Materialien zum Kopieren zur Verfügung gestellt. Sein Onkel, Hauptmann Friedric
+           +Die Originale aus dem Besitz von Heinz Moser, Sohn von Hauptmann Friedrich Moser-Guhl, befinden sich im Familienarchiv Moser, das im Burgerarchiv Thun deponiert ist.
+           +Mappe 1:
+           +Verkehrspolizeiliche Anordnungen anlässlich des Kaiserbesuches 3. – 5. September 1912 (1 Blatt)
+           +Instruktion für den Ordnungsdienst am 3. September [1912], gez. Der Platz-Kommandant, Major U. Wille (4 Seiten)
+           +“Quartiere”. Die Unterbringung Seiner Majestät des Kaisers und des Allerhöchsten Gefolges in Zürich ist nun in folgender Weise geordnet worden... (2 Seiten, Vervielfälti
+           +Mappe 2:
+           +Abschreiten der auf dem Bahnhofplatz in Zürich aufgestellten Ehrenkompagnie durch den Kaiser in Begleitung des Bundespräsidenten am 3. September [1912], Ausschnitte aus 
+           +Postkarte an Hptm. F. Moser, Kdt. der Kaiser-Kompagnie, Biel, mit aufgeklebtem Zeitungsausschnitt, Bild: “Der Kaiser im Gespräch mit dem Führer der Ehenkompagnie”, Posts
+           +Verschiedene kopierte Zeitungsausschnitte, u. a. zum 50. Jahrestag des Kaiser-Besuchs (Tages-Anzeiger 1. September 1962, NZZ 1962, NZZ 1998, Die Tat 6. September 1967, R
+           +Mappe 3:
+           +Kopierte Fotos:
+           +Kasernenhof Zürich (Üben der Ehenkompanie)
+           +Kaiserbesuch in Zürich (Hauptbahnhof)
+           +Kaisermanöver
+           +Kaiserbesuch in Bern
+           +Mappe 4:
+           +Kopierte Postkarten; 6 auf einem Blatt reproduzierte Postkarten in Farbe
+           +Mappe 5: Dubletten von Mappe 1
+           +Mappe 6: Dubletten von Mappe 2
+           +Mappe 7: Dubletten von Mappe 3
+           +Mappe 8: Dubletten von Mappe 4
+        Schachtel-Nr.: '' => '3'
+        Nr. im PDF: 'Mappe 3' => 'Schachtel 3'
+        PDF-Seite: '1' => '3'
+        Zeitraum-Quelle: 'Untereinheiten (geschätzt)' => 'Darin (geschätzt)'
+        [Prüfhinweise]
+           -Signatur aus der Nummer der Mappe gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+           -Zeitraum aus geschätzten Zeiträumen der Untereinheiten.
+           +Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+           +Zeitraum aus den Jahreszahlen im Darin geschätzt.

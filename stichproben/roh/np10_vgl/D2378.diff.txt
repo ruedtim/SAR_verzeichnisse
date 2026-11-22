@@ -1,0 +1,13 @@
+### D2378: vorher 8 Einheiten, nachher 8 Einheiten
+GEÄ  V.J.c.8.:2. [ID 2, Dossier, E1, Eltern -, S.1] Akten der Stadtalmosenpflege betr. das Amt St. Jakob | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.J.c.8.:3. [ID 3, Dossier, E1, Eltern -, S.1] Akten der Kommission für Entwerfung einer Armenordnung | Genau (=)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.J.c.8.:4. [ID 4, Dossier, E1, Eltern -, S.1] Kanzleikassenrechnungen | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.J.c.8.:5. [ID 5, Dossier, E1, Eltern -, S.1] Leistungen an Bettzeug, Kleidern und Schuhen an Almosengenössige | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.J.c.8.:7. [ID 7, Dossier, E1, Eltern -, S.1] Halbjährliche Berichte über almosengenössige Kinder | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.J.c.8.:8. [ID 8, Dossier, E1, Eltern -, S.1] Bordereaux der Kirchenalmosen | Genau (=)
+        Schachtel-Nr.: '' => '2'

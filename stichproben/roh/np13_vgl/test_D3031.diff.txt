@@ -1,0 +1,13 @@
+### D3031: vorher 291 Einheiten, nachher 291 Einheiten
+GEÄ  VII.179.:I.1. [ID 2, Dossier, E2, Eltern VII.179.:I., S.3] Stadtschreiber Konrad Widmer verkauft sein vorderes Haus mit Hofstatt zum Guldin | Genau (=)
+        Stufe: 'Serie' => 'Dossier'
+GEÄ  VII.179.:I.1.a. [ID 3, Dossier, E2, Eltern VII.179.:I., S.3] Faksimile der Urkunde Nr. 1 | Genau (=)
+        Ebene: '3' => '2'
+        Übergeordnete Signatur: 'VII.179.:I.1.' => 'VII.179.:I.'
+        Eltern: 'VII.179.:I.1.' => 'VII.179.:I.'
+GEÄ  VII.179.:IV.l.2. [ID 102, Dossier, E3, Eltern VII.179.:IV.l., S.20] Gesellschafts- oder Zunftpräsident | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+GEÄ  VII.179.:IV.l.2.a. [ID 103, Dossier, E3, Eltern VII.179.:IV.l., S.20] Zunftmeisterversammlungen | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.179.:IV.l.2.' => 'VII.179.:IV.l.'
+        Eltern: 'VII.179.:IV.l.2.' => 'VII.179.:IV.l.'

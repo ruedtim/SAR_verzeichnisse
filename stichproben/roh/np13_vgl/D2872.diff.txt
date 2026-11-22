@@ -1,0 +1,7 @@
+### D2872: vorher 103 Einheiten, nachher 103 Einheiten
+GEÄ  VII.118.:9.31. [ID 88, Dossier, E2, Eltern VII.118.:9., S.5] Projekt für das Wohngebäude am Fröschengraben, Zürich | Genau (=)
+        [Darin]
+           -Schachteln 7 bis 12 (Aufteilung formatbedingt, vgl. die Aufstellung am Schluss.)
+           +
+GEÄ  VII.118.:10. [ID 89, Teilbestand, E1, Eltern -, S.5] Bilder und Skulpturen | Von/bis (>= x und <=y)
+        Prüfhinweise: '' => 'Steht im Findmittel unter der Zwischenüberschrift «Schachteln 7 bis 12 (Aufteilung formatbedingt, vgl. die Aufstellung am Schluss.)».'

@@ -1,0 +1,13 @@
+### D814: vorher 65 Einheiten, nachher 65 Einheiten
+GEÄ  V.C.c.208.:63 [ID 63, Dossier, E1, Eltern -, S.3] Notwohnungen: Erledigte Anmeldungen | Genau (=)
+        [Darin]
+           -
+           +Diverse Unterlagen Herberge Rieterstrasse und Ottenweg, alt
+GEÄ  V.C.c.208.:64 [ID 64, Dossier, E1, Eltern -, S.3] Notwohnungen: Kadersitzungen-/besprechungen | Von/bis (>= x und <=y)
+        Titel: 'Diverse Unterlagen Herberge Rieterstrasse und Ottenweg, alt' => 'Notwohnungen: Kadersitzungen-/besprechungen'
+        [Darin]
+           -Notwohnungen: Kadersitzungen-/besprechungen, 1976-1986
+           +
+        Zeitraum-Quelle: 'Darin (geschätzt)' => 'Titel'
+        [Prüfhinweise]
+           -Zeitraum aus den Jahreszahlen im Darin geschätzt.

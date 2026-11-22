@@ -1,0 +1,45 @@
+datei;einheiten;umfang_geprueft;kritisch;mittel;gering;urteil;signale;bemerkung
+D2733;3;alle 3 Einheiten, alle Zeilen S. 1–2;1;0;0;kritisch;[NICHT] 2: Kopfzeile «Stadtarchiv Zürich V.L. 71.» und Schlussvermerk – richtig. Kein Warnzeichen für die Verweise (stehen als Darin von 3).;Verweise auf andere Bestände im Darin der letzten Schachtel (Muster «Anhang im Darin der letzten Einheit»), Zeitraum 3 daraus.
+D176186;4;alle 4 Einheiten;0;1;0;ohne kritischen Fehler;[NICHT] 3: Tabellenkopf und 2 Schlussvermerke – richtig.;Datum und Schachtel im Titel, Schachtel leer.
+D1578;5;alle 5 Einheiten;0;1;0;ohne kritischen Fehler;[NICHT] 2: Tabellenkopf, Schlussvermerk – richtig.;Datum mitten im Titel bei 3–5.
+D1572;5;alle 5 Einheiten;0;0;0;ohne kritischen Fehler;[NICHT] 2: Tabellenkopf, Schlussvermerk – richtig.;
+D1541;5;alle 5 Einheiten;0;0;0;ohne kritischen Fehler;[NICHT] 2: Tabellenkopf, Schlussvermerk – richtig.;
+D1700;5;alle 5 Einheiten;0;0;0;ohne kritischen Fehler;[NICHT] 2: Tabellenkopf, Schlussvermerk – richtig.;
+D1582;7;alle 7 Einheiten;0;0;0;ohne kritischen Fehler;[NICHT] 2: Tabellenkopf, Schlussvermerk – richtig.;Zweizeilige Titel richtig zusammengefügt.
+D151769;8;alle 8 Einheiten;0;0;0;ohne kritischen Fehler;[NICHT] 2: Tabellenkopf, Schlussvermerk – richtig.;
+D2268;9;alle 9 Einheiten, PDF S. 1;0;2;0;ohne kritischen Fehler;[NICHT] 2: Tabellenkopf, Schlussvermerk – richtig.;"Stückzahl im Titel; Titel 4. und 6. abgeschnitten (Rest im Darin)."
+D1608;10;alle 10 Einheiten;0;1;0;ohne kritischen Fehler;[NICHT] 2: Tabellenkopf, Schlussvermerk – richtig.;Jahr mitten im getrennten Wort des Titels.
+D256;10;alle 10 Einheiten;0;1;0;ohne kritischen Fehler;[NICHT] 1: Tabellenkopf «Sigantur Inhalt» – richtig.;Signatur V.A.C.21.:2 nicht berichtigt (Hinweis vorhanden).
+D152379;12;alle 12 Einheiten;0;0;0;ohne kritischen Fehler;[NICHT] 2: Tabellenkopf, Schlussvermerk – richtig.;
+D1688;23;alle 23 Einheiten;0;0;0;ohne kritischen Fehler;[NICHT] 2: Tabellenkopf, Schlussvermerk – richtig.;Klammerfehler im Titel (6., 17.) wie im PDF.
+D2095;29;alle 29 Einheiten;0;0;0;ohne kritischen Fehler;[NICHT] 2: Tabellenkopf, Schlussvermerk – richtig.;
+D174224;29;alle 29 Einheiten;0;0;0;ohne kritischen Fehler;[NICHT] 4: Tabellenkopf S. 1 und S. 2, 2 Schlussvermerke – richtig.;
+D1692;30;alle 30 Einheiten;0;0;0;ohne kritischen Fehler;[NICHT] 2: Tabellenkopf, Schlussvermerk – richtig.;
+D174277;34;alle 34 Einheiten (EINHEIT-Zeilen), alle nicht verdichteten Zeilen S. 1–45, Abschnittsenden aller Einheiten in der Excel, S. 45 am PDF;0;2;0;ohne kritischen Fehler;"[VOR] 55: alles Rauschen der Textsuche (gleiche Personen/Daten in mehreren Ablieferungen; Fortsetzungszeilen wie «1996», «Oktober 2009 (9)» stehen in der Excel im richtigen Darin-Eintrag; Abschnittsenden z. B. «Grosse Fahrt …» bei 18., «Diverse Korrespondenz …» bei 24./25. richtig). [NICHT] 1: Schlussvermerk – richtig.";Titel 2. abgeschnitten, Titel 6. mit «Fotos».
+D1593;35;alle 35 Einheiten;0;1;0;ohne kritischen Fehler;[NICHT] 2: Tabellenkopf, Schlussvermerk – richtig.;Bandzusatz «1913 (I)» im Titel.
+D1362;37;alle 37 Einheiten, alle Zeilen S. 1–3;0;0;0;ohne kritischen Fehler;[NICHT] 1: Tabellenkopf – richtig. [VOR] 1: «Zürich» S. 3 steht im Titel von 28. – Rauschen.;Autorenzeilen «Von …» teils im Darin statt im Titel (2., 7., 8., 36.), Kosmetik.
+D152387;41;alle 41 Einheiten;0;0;0;ohne kritischen Fehler;[NICHT] 2: Tabellenkopf, Schlussvermerk – richtig.;
+D2104;68;alle 68 EINHEIT-Zeilen, S. 1–3 Zeile für Zeile (ganze Datei);0;1;0;ohne kritischen Fehler;[NICHT] 2: Tabellenkopf, Schlussvermerk – richtig.;Bandzusatz «1990 I» im Titel 57–68.
+D1389;72;alle 72 EINHEIT-Zeilen, S. 1–4 Zeile für Zeile (ganze Datei), 29. am PDF;0;1;0;ohne kritischen Fehler;[NICHT] 1: Tabellenkopf – richtig.;"Listen 1.–18. der Textspalte als Darin (Konvention); Gruppenzeilen in 29. am falschen Eintrag."
+D2040;74;alle 74 EINHEIT-Zeilen, S. 1–3 Zeile für Zeile (ganze Datei);0;1;0;ohne kritischen Fehler;[NICHT] 2: Tabellenkopf, Schlussvermerk – richtig.;Bandzusatz «1969 I» im Titel 45–74.
+D3437;14;alle 14 Einheiten, alle Zeilen S. 1–2;0;1;0;ohne kritischen Fehler;[NICHT] 10: Kopf und Titel (2) sowie 8 Schlussvermerke (Vereinsgeschichte, Umfang, Übergabe, Bearbeiter) – richtig.;5.3. mit Elterntitel «Drucksachen».
+D2566;15;alle 15 Einheiten, alle Zeilen S. 1–3;0;0;0;ohne kritischen Fehler;[NICHT] 4: Kopf «Detailverzeichnis» (2), Einleitungssatz «Das Fest fand am 24./24. Juni 1956 statt.» (Vorspann), Schlussvermerk – richtig.;
+D3606;15;alle 15 Einheiten, PDF S. 1–2;0;1;0;ohne kritischen Fehler;[NICHT] 11: Einleitung vor dem Detailverzeichnis (9 Zeilen) und 2 Schlussvermerke – richtig (Vorspann).;Schachtel 1/2 nicht an die Geschwister weitergegeben.
+D3503;48;alle 48 Einheiten, alle Zeilen S. 1–3;1;0;0;kritisch;[NICHT] 4: Kopf, «Vereinsarchiv», 2 Schlussvermerke – richtig. Kein Warnzeichen für die Vereinsgeschichte im Darin von 4.5.;Vereinsgeschichte nach der letzten Einheit im Darin von 4.5.
+D1220;55;alle 55 Einheiten (inkl. Teile 2.2.8. T2–T8, 3.2. T2), alle Zeilen S. 1, 6–9, Tabelle S. 1–6 am PDF;0;2;0;ohne kritischen Fehler;[SIG?] 8: wiederholte 2.2.8./3.2. – sind Teile (IDs 24–30, 38), Rauschen. [NACH] 3: «Schachtel 451/460» als Textsuche bei ID 3, «Stadtarchiv Zürich» ist Schlussvermerk – Rauschen. [NICHT] 6: Titelblatt, Fusszeile, Schlussvermerk – richtig.;"Jahr/Schachtel-Spalte im Titel, Schachtel falsch; Zeitraum 1901 aus Gesuchnummern."
+D3986;56;alle 56 Einheiten, alle nicht verdichteten Zeilen S. 1–9, VOR-Fälle in der Excel;0;0;0;ohne kritischen Fehler;[VOR] 4: «Protokollbuch 1900», «undatiert», «… übergebenen Akten und», «Strassenbahn, 1899» stehen in der Excel bei der richtigen Einheit (2.2., 7.6., 8.1., 9.2.) – Rauschen der Textsuche. [NICHT] 1: Schlussvermerk – richtig.;
+D3512;80;alle 80 EINHEIT-Zeilen, alle nicht verdichteten Zeilen S. 2–11 (11 Seiten), ?-Zeilen in der Excel;0;1;1;ohne kritischen Fehler;"[VOR] 2 und [NACH] 1: Rauschen («Exzerpt», «Heft 7 …» stehen bei 2.1.6./11.2.; «STADTARCHIV ZÜRICH» ist Schlussvermerk). [NICHT] 1: Schlussvermerk. «?»-Zeilen (S. 6) stehen im Darin von 7.1./7.3./8. Übersicht S. 1–2 ist Vorspann – richtig.";Lebensdaten als Zeitraum bei 1.1.3.–1.1.5.
+D2725;2;alle 2 Einheiten;0;0;0;ohne kritischen Fehler;[NICHT] 1: Schlussvermerk – richtig.;2. bis 1956 durch Jahrheft 1956 – im Inhalt so.
+D2669;2;alle 2 Einheiten;0;0;0;ohne kritischen Fehler;[NICHT] 1: Schlussvermerk – richtig.;
+D2527;3;alle 3 Einheiten;0;0;0;ohne kritischen Fehler;[NICHT] 1: Schlussvermerk – richtig.;
+D3343;4;alle 4 Einheiten (inkl. Teil 2. T2), alle Zeilen S. 1–5, 8, 11–12, Darin 2./2. T2 per Skript verglichen;1;0;0;kritisch;[SIG?] 1: zweite Nennung «2. … (alphabetisch nach Autor)» – als Teil 2 angelegt, ist aber nur die alphabetische Fassung derselben Liste (kritisch, siehe Fund). [VOR] 1: «Shaw» (S. 4) steht als eigene Darin-Zeile bei 1. – Rauschen. [NICHT] 4: 3 Tabellenköpfe, Schlussvermerk – richtig.;Teil 2 von 2. ist eine Doppelung (117/117 Einträge gleich). Kosmetik: Seitenzahl-Spalte am Titel («Gorki: Nachtasyl 1, 1945»).
+D2765;4;alle 4 Einheiten;0;0;0;ohne kritischen Fehler;[NICHT] 1: Schlussvermerk – richtig.;
+D1837;4;alle 4 Einheiten;0;0;0;ohne kritischen Fehler;[NICHT] 1: Schlussvermerk – richtig.;
+D2550;5;alle 5 Einheiten;0;0;0;ohne kritischen Fehler;[NICHT] 1: Schlussvermerk – richtig.;
+D458;5;alle 5 Einheiten;0;0;0;ohne kritischen Fehler;[NICHT] 5: Titelblatt (3) und 2 Schlussvermerke – richtig.;«(2 Schachteln)» bei 3. im Darin statt Umfang (bekannt, gering).
+D141060;6;alle 6 Einheiten, S. 1–2;0;0;0;ohne kritischen Fehler;[NICHT] 1: Schlussvermerk – richtig.;Kosmetik: 2. Darin 2 «Todesanzeige … 1876 Nachruf …» über den Seitenwechsel verbunden.
+D2721;7;alle 7 Einheiten;0;1;0;ohne kritischen Fehler;[NICHT] 11: Titelblatt (3), Schlusstext zum Einigungsamt mit Verweisen und 2 Schlussvermerke (8) – richtig im Blatt Info.;1. Enddatum «30. Dezmeber 1905» im Darin.
+D840;10;alle 10 Einheiten;0;0;0;ohne kritischen Fehler;[NICHT] 4: Überschrift «Wirtschaftspläne für die Waldbezirke (1880, 1907 – 1916, …)» vor 1. (gilt für alle 10 Einheiten), Titelzeile, Schlussvermerk – vertretbar.;
+D2704;1;Bestandszeile, ganze S. 1;0;1;0;ohne kritischen Fehler;[NICHT] 1: Schlussvermerk – richtig. «?»-Zeilen: Einleitung mit Verweisen vor dem Detailverzeichnis (Vorspann).;Zeitraum 1914–1918 aus Amtszeit.
+D1191;1;Bestandszeile, ganze S. 1;0;0;0;ohne kritischen Fehler;[NICHT] 1: Schlussvermerk – richtig.;Kosmetik: Kopfzeile «Stadtarchiv Zürich V.E. c.59.» und Titel als Darin 1–2.
+D403;3;alle 3 Einheiten, PDF S. 1;1;1;0;kritisch;keine Warnzeichen – der Fehler liegt in der Ebene.;"a)/b) unter «1 Allgemeines» stehen als E1 am Bestand; Signatur V.B.c.12.:1 statt V.B.c.27.:1."

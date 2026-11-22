@@ -1,0 +1,113 @@
+### D3063: vorher 72 Einheiten, nachher 74 Einheiten
+NEU  VII.190.:6. [ID 49, Teilbestand, E1, Eltern -, S.4] Rationierung im Weltkrieg | Von/bis (>= x und <=y)
+        H: Nur in der Übersicht verzeichnet (S. 4), das Detailverzeichnis beginnt mit den Unternummern – als übergeordnete Einheit von dort übernommen, bitte prüfen.
+Untereinheiten reichen über den Zeitraum hinaus (1917–1948).
+NEU  VII.190.:40. [ID 67, Teilbestand, E1, Eltern -, S.4] Werbung | Von/bis (>= x und <=y)
+        H: Nur in der Übersicht verzeichnet (S. 4), das Detailverzeichnis beginnt mit den Unternummern – als übergeordnete Einheit von dort übernommen, bitte prüfen.
+Nummerierung springt: nach 30 folgt 40. Möglicher Tippfehler in der Signatur.
+Untereinheiten reichen über den Zeitraum hinaus (1911–1987).
+GEÄ  VII.190.:6.1. [ID 50, Dossier, E2, Eltern VII.190.:6., S.11] Rationierung im 1. Weltkrieg | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.190.' => 'VII.190.:6.'
+        Prüfhinweise: 'Keine übergeordnete Signatur gefunden (erwartet 6.).' => ''
+        Eltern: '-' => 'VII.190.:6.'
+GEÄ  VII.190.:6.2. [ID 51, Serie, E2, Eltern VII.190.:6., S.12] Rationierung im 2. Weltkrieg | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.190.' => 'VII.190.:6.'
+        [Prüfhinweise]
+           -Keine übergeordnete Signatur gefunden (erwartet 6.).
+        Eltern: '-' => 'VII.190.:6.'
+GEÄ  VII.190.:6.2./T2 [ID 52, Dossier, E3, Eltern VII.190.:6.2., S.12] Quoten-Tabellen für kollektive Haushaltungen des Eidg.Kriegs-Ernährungs-Amtes Bern | Von/bis (>= x und <=y)
+        Ebene: '2' => '3'
+GEÄ  VII.190.:7. [ID 53, Dossier, E1, Eltern -, S.12] Pflanzwerk "Dachelsermoos" Mettmenstetten | Von/bis (>= x und <=y)
+        [Prüfhinweise]
+           -Nummerierung springt: nach 5 folgt 7.
+GEÄ  VII.190.:40.1. [ID 68, Dossier, E2, Eltern VII.190.:40., S.14] Verpackungsmaterial | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.190.' => 'VII.190.:40.'
+        [Prüfhinweise]
+           -Keine übergeordnete Signatur gefunden (erwartet 40.).
+        Eltern: '-' => 'VII.190.:40.'
+GEÄ  VII.190.:40.2. [ID 69, Dossier, E2, Eltern VII.190.:40., S.15] Uebrige Werbung | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.190.' => 'VII.190.:40.'
+        [Prüfhinweise]
+           -Keine übergeordnete Signatur gefunden (erwartet 40.).
+        Eltern: '-' => 'VII.190.:40.'
+GEÄ  VII.190.:40.3. [ID 70, Dossier, E2, Eltern VII.190.:40., S.15] Verpackung: Schachteln, Tüten, Büchsen | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.190.' => 'VII.190.:40.'
+        [Prüfhinweise]
+           -Keine übergeordnete Signatur gefunden (erwartet 40.).
+        Eltern: '-' => 'VII.190.:40.'
+GEÄ  VII.190.:40.4. [ID 71, Dossier, E2, Eltern VII.190.:40., S.16] Formen / Figuren | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.190.' => 'VII.190.:40.'
+        Prüfhinweise: 'Keine übergeordnete Signatur gefunden (erwartet 40.).' => ''
+        Eltern: '-' => 'VII.190.:40.'
+GEÄ  VII.190.:40.5. [ID 72, Dossier, E2, Eltern VII.190.:40., S.17] aus dem Tea-Room | Von/bis (>= x und <=y)
+        Ebene: '1' => '2'
+        Übergeordnete Signatur: 'VII.190.' => 'VII.190.:40.'
+        Prüfhinweise: 'Keine übergeordnete Signatur gefunden (erwartet 40.).' => ''
+        Eltern: '-' => 'VII.190.:40.'
+GEÄ  VII.190.:50. [ID 73, Dossier, E1, Eltern -, S.17] Ausstellung im Stadtarchiv 27.08.-17.11.87 | Von/bis (>= x und <=y)
+        [Prüfhinweise]
+           -Nummerierung springt: nach 30 folgt 50. Möglicher Tippfehler in der Signatur.
+           +Nummerierung springt: nach 40 folgt 50. Möglicher Tippfehler in der Signatur.
+GEÄ  VII.190.:51. [ID 74, Dossier, E1, Eltern -, S.18] Photos der Confiserie Chardon im September 1987: (Photos von Giorgio Hoch) | Genau (=)
+        [Darin]
+           -Aussenansicht der Confiserie 2 x Ladenlokal 2 x Backstube 6 x Marcel Chardon 1 x Anhang:
+           -1.#Gebäck-Model (aus Holz)
+           -Bezeichnung Masse Jahrhundert
+           -(unbekannt) rund Ø 12,5 cm 16. Jh.
+           -Basler Wappen rund Ø 12,5 cm 16. Jh.
+           -Schweizer Krieger ll,5 x 21 cm 16. Jh. (?)
+           -Anbetung Jesu rund Ø 20,5 cm durch die heiligen drei Könige, 1700
+           -Wildschwein mit Frischlingen rund Ø 18,5 cm 2.Hälfte 17.Jh. Frauen am Spinnen rund Ø 17,5 cm 2.Hälfte 17.Jh.
+           -Sankt Niklaus mit Lastesel rund Ø 14,5 cm 2.Hälfte 17.Jh.
+           -allegorische Darstellung des 12,5 x 16 cm Christkindes auf Esel, 1820
+           -Zwingli 15,5 x 9 cm (anlässlich der Reformationsfeier 1819 gefertigt)
+           -[Brennmarke HIV des Besitzers
+           -Johann Jakob Vogel (1758-1831)
+           -Vorgänger von Sprüngli]
+           -Armbrustschütze mit Tierbil- rund Ø 36 cm 19. Jh. dern in halbkreisförmigen
+           -Medaillons, Besitzerstempel
+           -GK und EG53. (gebraucht bis Ende 2.Weltkrieg)
+           -Wollishofer Steg 26,5 x 17 cm 19. Jh. (Biedermeier)
+           -Sankt Niklaus rund Ø 14,5 cm 19. Jh.
+           -Jäger / Hirsch 12 x 22 cm 19. Jh.
+           -Züri-Läckerli-Model 16 x 25 cm 19. Jh. Bauersmann in Wehntalertracht 7,5 x 20,5 cm 19. Jh. Besitzerstempel EC6. Auf der Rückseite graviert
+           -Katze 10,5 x 15,5 cm 19. Jh.
+           -Anis-Gueteli 7,5 x 7,5 cm, ca. 1930
+           -# befinden sich noch bei Marcel Chardon
+           -2.# Medaillen
+           -London Baking Trade Exhibition, 1929
+           -Fach- und Kochkunst Ausstellung Zug, 1935
+           -Schweizerische Landesausstellung Zürich, 1939
+           -HOSPES Bern, 1954
+           -Schweizerische Landesausstellung Lausanne, 1964
+           -Konditorei-Ausstellung Zürich, 1973
+           -Konditorei-Ausstellung Zürich, 1985
+           -3.# Orden
+           -Arbeitsorden des belgischen Königs
+           -[für Edouard Chardon]
+           -4. Gegenstände im Schweizerischen Landesmuseum
+           -a) Glacé-Transportkübel der Firma Chardon, um 1920
+           -Geschenk von Marcel Chardon an das Schweiz.
+           -Landesmuseum Zürich
+           -b) Mörser mit Pistill, Ende 19. Jh.
+           -Geschenk von Marcel Chardon an das Schweiz.
+           -Landesmuseum Zürich
+           -Diese Gegenstände wurden nach der Ausstellung dem Schweizerischen Landesmuseum retourgegeben.
+           -5.# Bücher, die ausgestellt worden sind:, Schachtel 24
+           -Letang Fils, Fabrique spéciale de Moules et
+           -Mécaniques fondée en 1832 Konditorei-Rezeptbuch von Karl Kalbe, 1910
+           -Le Patissier Royal Parisien par M.A. Carème 1815 Paris Schweizer Illustriertes Handbuch der Konditorei
+           -7.Auflage Schweiz.Konditorenverband, 1932
+           -Traité de Patisserie Moderne, 1911
+           -Confiserie Moderne par Emile Duval, 1920
+           +Aussenansicht der Confiserie 2 x
+           +Ladenlokal 2 x
+           +Backstube 6 x
+           +Marcel Chardon 1 x
+        Schachtel-Nr.: '24' => ''

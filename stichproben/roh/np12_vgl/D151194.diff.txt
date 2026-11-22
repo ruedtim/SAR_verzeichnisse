@@ -1,0 +1,17 @@
+### D151194: vorher 1 Einheiten, nachher 6 Einheiten
+WEG  V.C.c.71. [ID 1, Bestand, E1, Eltern -, S.1] Finanzamt Kassenkommission der Versicherungskasse | Von/bis (>= x und <=y)
+        D: V.C. c. 71. a) Protokoll des Statutenentwurfes für eine Pensionskasse der städtischen, 1909-1910; Beamten, Angestellten und Arbeiter
+        D: b) Kommission des Grossen Stadtrates zur Vorberatung für Errichtung einer Versicherungskasse, 1912-1913
+        D: c) Protokoll der Kassenkommission (Doppel)
+        D: d) Akten der Kassenkommission, 1897-1944
+        D: e) Akten des Stadtschreibers zu den Revisionen der Statuten, 1923, 1929,; 1944
+        D: f) Drucksachen
+NEU  V.C.c.71.:a. [ID 1, Dossier, E1, Eltern -, S.1] Protokoll des Statutenentwurfes für eine Pensionskasse der städtischen | Von/bis (>= x und <=y)
+        D: Beamten, Angestellten und Arbeiter
+NEU  V.C.c.71.:b. [ID 2, Dossier, E1, Eltern -, S.1] Kommission des Grossen Stadtrates zur Vorberatung für Errichtung einer Versicherungskasse | Von/bis (>= x und <=y)
+NEU  V.C.c.71.:c. [ID 3, Dossier, E1, Eltern -, S.1] Protokoll der Kassenkommission (Doppel) | 
+        H: Kein Zeitraum gefunden.
+NEU  V.C.c.71.:d. [ID 4, Dossier, E1, Eltern -, S.1] Akten der Kassenkommission | Von/bis (>= x und <=y)
+NEU  V.C.c.71.:e. [ID 5, Dossier, E1, Eltern -, S.1] Akten des Stadtschreibers zu den Revisionen der Statuten, 1923, 1929 | Von/bis (>= x und <=y)
+NEU  V.C.c.71.:f. [ID 6, Dossier, E1, Eltern -, S.1] Drucksachen | 
+        H: Kein Zeitraum gefunden.

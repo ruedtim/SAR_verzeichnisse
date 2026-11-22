@@ -1,0 +1,19 @@
+### D3060: vorher 9 Einheiten, nachher 9 Einheiten
+GEÄ  VII.189.:6 [ID 6, Dossier, E1, Eltern -, S.7] Photos / Bilder | Von/bis (>= x und <=y)
+        [Darin]
+           -Porträtbild von Anna Asper 1964
+           -Signiert “Stefanoff 64” gerahmt
+           -60 x 73,5 cm (mit Rahmen: 86 x 98 cm) (verpackt in grf. Schachtel)
+GEÄ  VII.189.:10 [ID 9, Dossier, E1, Eltern -, S.2] grf. Schachtel mit Porträtbild der Anna Asper | Genau (=)
+        Entstehungszeitraum: '' => 'Genau (=)'
+        von: '' => '1964'
+        [Darin]
+           -
+           +Porträtbild von Anna Asper 1964
+           +Signiert “Stefanoff 64” gerahmt
+           +60 x 73,5 cm (mit Rahmen: 86 x 98 cm) (verpackt in grf. Schachtel)
+        Zeitraum-Quelle: '' => 'Darin (geschätzt)'
+        [Prüfhinweise]
+           -Kein Zeitraum gefunden.
+           +Inhalt aus dem Detailverzeichnis S. 8 (ohne Überschrift, nach Schachtel 6) – über den Titel zugeordnet, bitte prüfen.
+           +Zeitraum aus den Jahreszahlen im Darin geschätzt.

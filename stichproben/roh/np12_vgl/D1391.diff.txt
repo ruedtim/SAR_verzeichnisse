@@ -1,0 +1,36 @@
+### D1391: vorher 2 Einheiten, nachher 14 Einheiten
+WEG  V.F.c.199.:1 [ID 1, Dossier, E1, Eltern -, S.1] Schachtel 1 | Von/bis (>= x und <=y)
+        D: 1. Quell- und Sodbrunnen-Untersuchungen, 1893-1920
+        D: 2. Untersuchungen über Abwasser-Kanalwasser, Limmatwasser und Fosses-Moura, 1898-1919
+        D: 3. Wasseruntersuchungen, 1898-1919; Uetliberg - Kolbenhof
+        D: 4. Akten betr. Neubau Ausstellungsstrasse, 1911-1921
+        D: 5. Zürichseewasser, 1915-1932; Untersuchungen
+        D: 6. Milchversorgung und Milchkontrolle, 1916-1930
+        D: 7. Quellen-Untersuchungen, 1923
+        D: 8. Untersuchungen in Albisrieden. Quellwasserleitungen der Stadt in Albisrieden, 1924-1925
+WEG  V.F.c.199.:2 [ID 2, Dossier, E1, Eltern -, S.1] Schachtel 2 | Von/bis (>= x und <=y)
+        D: 9. Bändlibach in Altstetten (Stadtgrenze), 1926
+        D: 10. Wasserwerk Wettingen. Wasseruntersuchungen, 1931-1932
+        D: 11. Einsprache und Beschwerde gegen eine lebensmittelpolizeiliche Expertise. A. Delaporte i.F., 1932-1935; C. August Egli & Co., Zürich.
+        D: 12. Verband Schweiz. Likör- und Spirituosenhändler, paritätische Degustationskommission, 1934-1942
+        D: 13. Grundwasserwerk Wettingen. Untersuchungen, 1936
+        D: 14. Wasserversorgung, 1936-1938; Rütihof - Höngg
+NEU  V.F.c.199.:1. [ID 1, Dossier, E1, Eltern -, S.1] Quell- und Sodbrunnen-Untersuchungen | Von/bis (>= x und <=y)
+NEU  V.F.c.199.:2. [ID 2, Dossier, E1, Eltern -, S.1] Untersuchungen über Abwasser-Kanalwasser, Limmatwasser und Fosses-Moura | Von/bis (>= x und <=y)
+NEU  V.F.c.199.:3. [ID 3, Dossier, E1, Eltern -, S.1] Wasseruntersuchungen | Von/bis (>= x und <=y)
+        D: Uetliberg
+        D: Kolbenhof
+NEU  V.F.c.199.:4. [ID 4, Dossier, E1, Eltern -, S.1] Akten betr. Neubau Ausstellungsstrasse | Von/bis (>= x und <=y)
+NEU  V.F.c.199.:5. [ID 5, Dossier, E1, Eltern -, S.1] Zürichseewasser Untersuchungen | Von/bis (>= x und <=y)
+NEU  V.F.c.199.:6. [ID 6, Dossier, E1, Eltern -, S.1] Milchversorgung und Milchkontrolle | Von/bis (>= x und <=y)
+NEU  V.F.c.199.:7. [ID 7, Dossier, E1, Eltern -, S.1] Quellen-Untersuchungen | Genau (=)
+NEU  V.F.c.199.:8. [ID 8, Dossier, E1, Eltern -, S.1] Untersuchungen in Albisrieden. Quellwasserleitungen der Stadt in Albisrieden | Von/bis (>= x und <=y)
+NEU  V.F.c.199.:9. [ID 9, Dossier, E1, Eltern -, S.1] Bändlibach in Altstetten (Stadtgrenze) | Genau (=)
+NEU  V.F.c.199.:10. [ID 10, Dossier, E1, Eltern -, S.1] Wasserwerk Wettingen. Wasseruntersuchungen | Von/bis (>= x und <=y)
+NEU  V.F.c.199.:11. [ID 11, Dossier, E1, Eltern -, S.1] Einsprache und Beschwerde gegen eine lebensmittelpolizeiliche Expertise. A. Delaporte i.F. | Von/bis (>= x und <=y)
+        D: C. August Egli & Co., Zürich.
+NEU  V.F.c.199.:12. [ID 12, Dossier, E1, Eltern -, S.2] Verband Schweiz. Likör- und Spirituosenhändler, paritätische Degustationskommission | Von/bis (>= x und <=y)
+NEU  V.F.c.199.:13. [ID 13, Dossier, E1, Eltern -, S.2] Grundwasserwerk Wettingen. Untersuchungen | Genau (=)
+NEU  V.F.c.199.:14. [ID 14, Dossier, E1, Eltern -, S.2] Wasserversorgung | Von/bis (>= x und <=y)
+        D: Rütihof
+        D: Höngg

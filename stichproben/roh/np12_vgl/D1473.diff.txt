@@ -1,0 +1,10 @@
+### D1473: vorher 153 Einheiten, nachher 153 Einheiten
+WEG  V.G.a.13.:113/T2 [ID 113, Dossier, E2, Eltern V.G.a.13.:113, S.4] Protokoll der Bausektion I des Stadtrates | Genau (=)
+NEU  V.G.a.13.:112 [ID 112, Dossier, E1, Eltern -, S.4] Protokoll der Bausektion I des Stadtrates | Genau (=)
+        H: Im Findmittel «V.G. a.13.:113» zwischen 111 und 113, die Nummer 113 steht doppelt und 112 fehlt – als 112 gelesen, bitte prüfen.
+GEÄ  V.G.a.13.:113 [ID 113, Dossier, E1, Eltern -, S.4] Protokoll der Bausektion I des Stadtrates | Genau (=)
+        Stufe: 'Serie' => 'Dossier'
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => 'Genau (=)'
+        von: '1952' => '1953'
+        bis: '1953' => ''
+        Prüfhinweise: 'Nummerierung springt: nach 111 folgt 113.' => ''

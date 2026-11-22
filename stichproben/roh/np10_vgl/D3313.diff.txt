@@ -1,0 +1,21 @@
+### D3313: vorher 4 Einheiten, nachher 4 Einheiten
+GEÄ  VII.254.:1. [ID 1, Dossier, E1, Eltern -, S.1] Jahrgängerverein 1786 (1834 – 1863) | Von/bis (>= x und <=y)
+        Entstehungszeitraum: 'Genau (=)' => 'Von/bis (>= x und <=y)'
+        von: '1786' => '1834'
+        bis: '' => '1863'
+        Zeitraum-Quelle: 'Titel (Ereignisdatum)' => 'Titel'
+GEÄ  VII.254.:2. [ID 2, Dossier, E1, Eltern -, S.1] Jahrgängerverein 1804 (1854) | Genau (=)
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => 'Genau (=)'
+        von: '1804' => '1854'
+        bis: '1854' => ''
+        Zeitraum-Quelle: 'Titel (Ereignisdatum)' => 'Titel'
+GEÄ  VII.254.:3. [ID 3, Dossier, E1, Eltern -, S.1] Jahrgängerverein 1810 (1885 – 1887) | Von/bis (>= x und <=y)
+        Entstehungszeitraum: 'Genau (=)' => 'Von/bis (>= x und <=y)'
+        von: '1810' => '1885'
+        bis: '' => '1887'
+        Zeitraum-Quelle: 'Titel (Ereignisdatum)' => 'Titel'
+GEÄ  VII.254.:4. [ID 4, Dossier, E1, Eltern -, S.2] Jahrgängerverein 1818 (1858 – 1895) | Von/bis (>= x und <=y)
+        Entstehungszeitraum: 'Genau (=)' => 'Von/bis (>= x und <=y)'
+        von: '1818' => '1858'
+        bis: '' => '1895'
+        Zeitraum-Quelle: 'Titel (Ereignisdatum)' => 'Titel'

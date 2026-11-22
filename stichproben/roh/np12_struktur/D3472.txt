@@ -1,0 +1,178 @@
+### D3472 – römisch/Buchstaben – 1722 Einheiten – Bestand VII.308.F.a.
+Zusammenfassung: HINWEIS 2, LÜCKE 95, OHNE 24, RÜCK 55
+[HINWEIS] ID 839 VII.308.F.a.:1962.25 S.33 | Im Findmittel «1992.25» zwischen 1962.24 und 1962.26 – als «1962.25» gelesen (Tippfehler im Jahr?), bitte prüfen.
+[HINWEIS] ID 1087 VII.308.F.a.:1969.18 S.41 | Im Findmittel «1967.18» zwischen 1969.17 und 1969.19 – als «1969.18» gelesen (Tippfehler im Jahr?), bitte prüfen.
+[LÜCKE] 4–4 fehlen vor ID 4 VII.308.F.a.:1933.5 (Eltern None) S.1
+[LÜCKE] 6–7 fehlen vor ID 5 VII.308.F.a.:1933.8 (Eltern None) S.1
+[LÜCKE] 15–16 fehlen vor ID 12 VII.308.F.a.:1933.17 (Eltern None) S.2
+[LÜCKE] 19–20 fehlen vor ID 14 VII.308.F.a.:1933.21 (Eltern None) S.2
+[LÜCKE] 23–25 fehlen vor ID 16 VII.308.F.a.:1933.26 (Eltern None) S.2
+[LÜCKE] 27–28 fehlen vor ID 17 VII.308.F.a.:1933.29 (Eltern None) S.2
+[LÜCKE] 30–31 fehlen vor ID 18 VII.308.F.a.:1933.32 (Eltern None) S.2
+[LÜCKE] 33–36 fehlen vor ID 19 VII.308.F.a.:1933.37 (Eltern None) S.2
+[LÜCKE] 40–42 fehlen vor ID 22 VII.308.F.a.:1933.43 (Eltern None) S.2
+[RÜCK] ID 23 VII.308.F.a.:1934.6 nach Nummer 43 (Eltern None) S.2
+[LÜCKE] 7–13 fehlen vor ID 24 VII.308.F.a.:1934.14 (Eltern None) S.2
+[LÜCKE] 15–17 fehlen vor ID 25 VII.308.F.a.:1934.18 (Eltern None) S.2
+[LÜCKE] 19–19 fehlen vor ID 26 VII.308.F.a.:1934.20 (Eltern None) S.2
+[LÜCKE] 21–21 fehlen vor ID 27 VII.308.F.a.:1934.22 (Eltern None) S.2
+[LÜCKE] 25–25 fehlen vor ID 30 VII.308.F.a.:1934.26 (Eltern None) S.2
+[LÜCKE] 27–27 fehlen vor ID 31 VII.308.F.a.:1934.28 (Eltern None) S.2
+[LÜCKE] 29–29 fehlen vor ID 32 VII.308.F.a.:1934.30 (Eltern None) S.2
+[LÜCKE] 33–33 fehlen vor ID 35 VII.308.F.a.:1934.34 (Eltern None) S.3
+[LÜCKE] 35–35 fehlen vor ID 36 VII.308.F.a.:1934.36 (Eltern None) S.3
+[LÜCKE] 37–38 fehlen vor ID 37 VII.308.F.a.:1934.39 (Eltern None) S.3
+[RÜCK] ID 39 VII.308.F.a.:1935.1 nach Nummer 40 (Eltern None) S.3
+[LÜCKE] 2–2 fehlen vor ID 40 VII.308.F.a.:1935.3 (Eltern None) S.3
+[LÜCKE] 6–9 fehlen vor ID 43 VII.308.F.a.:1935.10 (Eltern None) S.3
+[LÜCKE] 12–13 fehlen vor ID 45 VII.308.F.a.:1935.14 (Eltern None) S.3
+[LÜCKE] 21–21 fehlen vor ID 52 VII.308.F.a.:1935.22 (Eltern None) S.3
+[LÜCKE] 25–27 fehlen vor ID 55 VII.308.F.a.:1935.28 (Eltern None) S.3
+[LÜCKE] 29–29 fehlen vor ID 56 VII.308.F.a.:1935.30 (Eltern None) S.3
+[LÜCKE] 31–31 fehlen vor ID 57 VII.308.F.a.:1935.32 (Eltern None) S.4
+[LÜCKE] 34–37 fehlen vor ID 59 VII.308.F.a.:1935.38 (Eltern None) S.4
+[LÜCKE] 39–39 fehlen vor ID 60 VII.308.F.a.:1935.40 (Eltern None) S.4
+[LÜCKE] 41–42 fehlen vor ID 61 VII.308.F.a.:1935.43 (Eltern None) S.4
+[RÜCK] ID 62 VII.308.F.a.:1936.1 nach Nummer 43 (Eltern None) S.4
+[LÜCKE] 4–8 fehlen vor ID 65 VII.308.F.a.:1936.9 (Eltern None) S.4
+[LÜCKE] 12–21 fehlen vor ID 68 VII.308.F.a.:1936.22 (Eltern None) S.4
+[LÜCKE] 29–29 fehlen vor ID 75 VII.308.F.a.:1936.30 (Eltern None) S.4
+[LÜCKE] 42–43 fehlen vor ID 87 VII.308.F.a.:1936.44 (Eltern None) S.5
+[LÜCKE] 45–45 fehlen vor ID 88 VII.308.F.a.:1936.46 (Eltern None) S.5
+[LÜCKE] 48–48 fehlen vor ID 90 VII.308.F.a.:1936.49 (Eltern None) S.5
+[LÜCKE] 51–51 fehlen vor ID 92 VII.308.F.a.:1936.52 (Eltern None) S.5
+[LÜCKE] 59–60 fehlen vor ID 99 VII.308.F.a.:1936.61 (Eltern None) S.5
+[RÜCK] ID 101 VII.308.F.a.:1937.2 nach Nummer 62 (Eltern None) S.6
+[LÜCKE] 3–4 fehlen vor ID 102 VII.308.F.a.:1937.5 (Eltern None) S.6
+[LÜCKE] 7–9 fehlen vor ID 104 VII.308.F.a.:1937.10 (Eltern None) S.6
+[LÜCKE] 12–12 fehlen vor ID 106 VII.308.F.a.:1937.13 (Eltern None) S.6
+[LÜCKE] 14–14 fehlen vor ID 107 VII.308.F.a.:1937.15 (Eltern None) S.6
+[LÜCKE] 17–17 fehlen vor ID 109 VII.308.F.a.:1937.18 (Eltern None) S.6
+[LÜCKE] 19–20 fehlen vor ID 110 VII.308.F.a.:1937.21 (Eltern None) S.6
+[LÜCKE] 22–25 fehlen vor ID 111 VII.308.F.a.:1937.26 (Eltern None) S.6
+[LÜCKE] 27–30 fehlen vor ID 112 VII.308.F.a.:1937.31 (Eltern None) S.6
+[LÜCKE] 32–32 fehlen vor ID 113 VII.308.F.a.:1937.33 (Eltern None) S.6
+[LÜCKE] 34–36 fehlen vor ID 114 VII.308.F.a.:1937.37 (Eltern None) S.6
+[LÜCKE] 39–39 fehlen vor ID 116 VII.308.F.a.:1937.40 (Eltern None) S.6
+[RÜCK] ID 117 VII.308.F.a.:1938.2 nach Nummer 40 (Eltern None) S.6
+[LÜCKE] 3–3 fehlen vor ID 118 VII.308.F.a.:1938.4 (Eltern None) S.6
+[LÜCKE] 5–11 fehlen vor ID 119 VII.308.F.a.:1938.12 (Eltern None) S.6
+[LÜCKE] 13–16 fehlen vor ID 120 VII.308.F.a.:1938.17 (Eltern None) S.6
+[LÜCKE] 18–19 fehlen vor ID 121 VII.308.F.a.:1938.20 (Eltern None) S.6
+[LÜCKE] 21–23 fehlen vor ID 122 VII.308.F.a.:1938.24 (Eltern None) S.6
+[LÜCKE] 25–27 fehlen vor ID 123 VII.308.F.a.:1938.28 (Eltern None) S.6
+[LÜCKE] 30–32 fehlen vor ID 125 VII.308.F.a.:1938.33 (Eltern None) S.6
+[LÜCKE] 34–35 fehlen vor ID 126 VII.308.F.a.:1938.36 (Eltern None) S.6
+[LÜCKE] 37–37 fehlen vor ID 127 VII.308.F.a.:1938.38 (Eltern None) S.6
+[LÜCKE] 39–39 fehlen vor ID 128 VII.308.F.a.:1938.40 (Eltern None) S.6
+[LÜCKE] 41–44 fehlen vor ID 129 VII.308.F.a.:1938.45 (Eltern None) S.7
+[RÜCK] ID 131 VII.308.F.a.:1939.2 nach Nummer 46 (Eltern None) S.7
+[LÜCKE] 4–5 fehlen vor ID 133 VII.308.F.a.:1939.6 (Eltern None) S.7
+[LÜCKE] 8–9 fehlen vor ID 135 VII.308.F.a.:1939.10 (Eltern None) S.7
+[LÜCKE] 15–17 fehlen vor ID 140 VII.308.F.a.:1939.18 (Eltern None) S.7
+[LÜCKE] 19–25 fehlen vor ID 141 VII.308.F.a.:1939.26 (Eltern None) S.7
+[LÜCKE] 27–27 fehlen vor ID 142 VII.308.F.a.:1939.28 (Eltern None) S.7
+[LÜCKE] 29–32 fehlen vor ID 143 VII.308.F.a.:1939.33 (Eltern None) S.7
+[LÜCKE] 35–36 fehlen vor ID 145 VII.308.F.a.:1939.37a (Eltern None) S.7
+[LÜCKE] 39–41 fehlen vor ID 148 VII.308.F.a.:1939.42 (Eltern None) S.7
+[RÜCK] ID 150 VII.308.F.a.:1940.1 nach Nummer 43 (Eltern None) S.7
+[RÜCK] ID 156 VII.308.F.a.:1941.1 nach Nummer 6 (Eltern None) S.8
+[RÜCK] ID 169 VII.308.F.a.:1942.1 nach Nummer 13 (Eltern None) S.9
+[RÜCK] ID 188 VII.308.F.a.:1943.3 nach Nummer 19 (Eltern None) S.10
+[LÜCKE] 5–10 fehlen vor ID 190 VII.308.F.a.:1943.11 (Eltern None) S.10
+[LÜCKE] 12–12 fehlen vor ID 191 VII.308.F.a.:1943.13 (Eltern None) S.10
+[LÜCKE] 14–14 fehlen vor ID 192 VII.308.F.a.:1943.15 (Eltern None) S.10
+[LÜCKE] 16–19 fehlen vor ID 193 VII.308.F.a.:1943.20 (Eltern None) S.10
+[LÜCKE] 22–28 fehlen vor ID 195 VII.308.F.a.:1943.29 (Eltern None) S.10
+[LÜCKE] 30–30 fehlen vor ID 196 VII.308.F.a.:1943.31 (Eltern None) S.10
+[LÜCKE] 33–36 fehlen vor ID 198 VII.308.F.a.:1943.37 (Eltern None) S.10
+[LÜCKE] 38–48 fehlen vor ID 199 VII.308.F.a.:1943.49 (Eltern None) S.10
+[LÜCKE] 51–51 fehlen vor ID 201 VII.308.F.a.:1943.52 (Eltern None) S.10
+[RÜCK] ID 202 VII.308.F.a.:1944.5 nach Nummer 52 (Eltern None) S.11
+[LÜCKE] 7–22 fehlen vor ID 204 VII.308.F.a.:1944.23 (Eltern None) S.11
+[LÜCKE] 24–28 fehlen vor ID 205 VII.308.F.a.:1944.29 (Eltern None) S.11
+[LÜCKE] 30–32 fehlen vor ID 206 VII.308.F.a.:1944.33 (Eltern None) S.11
+[LÜCKE] 34–40 fehlen vor ID 207 VII.308.F.a.:1944.41 (Eltern None) S.11
+[RÜCK] ID 209 VII.308.F.a.:1945.3 nach Nummer 42 (Eltern None) S.11
+[LÜCKE] 4–10 fehlen vor ID 210 VII.308.F.a.:1945.11 (Eltern None) S.11
+[LÜCKE] 13–15 fehlen vor ID 212 VII.308.F.a.:1945.16 (Eltern None) S.11
+[LÜCKE] 19–21 fehlen vor ID 215 VII.308.F.a.:1945.22 (Eltern None) S.11
+[LÜCKE] 23–25 fehlen vor ID 216 VII.308.F.a.:1945.26 (Eltern None) S.11
+[LÜCKE] 27–29 fehlen vor ID 217 VII.308.F.a.:1945.30 (Eltern None) S.11
+[LÜCKE] 31–32 fehlen vor ID 218 VII.308.F.a.:1945.33 (Eltern None) S.11
+[LÜCKE] 35–37 fehlen vor ID 220 VII.308.F.a.:1945.38 (Eltern None) S.12
+[LÜCKE] 40–48 fehlen vor ID 222 VII.308.F.a.:1945.49 (Eltern None) S.12
+[LÜCKE] 50–50 fehlen vor ID 223 VII.308.F.a.:1945.51 (Eltern None) S.12
+[LÜCKE] 53–59 fehlen vor ID 225 VII.308.F.a.:1945.60 (Eltern None) S.12
+[RÜCK] ID 233 VII.308.F.a.:1946.1 nach Nummer 67 (Eltern None) S.12
+[RÜCK] ID 289 VII.308.F.a.:1947.1 nach Nummer 56 (Eltern None) S.15
+[RÜCK] ID 324 VII.308.F.a.:1948.1 nach Nummer 35 (Eltern None) S.16
+[RÜCK] ID 365 VII.308.F.a.:1949.1 nach Nummer 41 (Eltern None) S.18
+[RÜCK] ID 397 VII.308.F.a.:1950.1 nach Nummer 32 (Eltern None) S.19
+[RÜCK] ID 434 VII.308.F.a.:1951.1 nach Nummer 37 (Eltern None) S.21
+[RÜCK] ID 478 VII.308.F.a.:1952.1 nach Nummer 44 (Eltern None) S.22
+[LÜCKE] 2–2 fehlen vor ID 479 VII.308.F.a.:1952.3 (Eltern None) S.22
+[LÜCKE] 9–9 fehlen vor ID 486 VII.308.F.a.:1952.10 (Eltern None) S.22
+[LÜCKE] 11–110 fehlen vor ID 487 VII.308.F.a.:1952.111 (Eltern None) S.22
+[RÜCK] ID 488 VII.308.F.a.:1952.12 nach Nummer 111 (Eltern None) S.22
+[LÜCKE] 15–15 fehlen vor ID 492 VII.308.F.a.:1952.16 (Eltern None) S.22
+[RÜCK] ID 541 VII.308.F.a.:1953.1 nach Nummer 64 (Eltern None) S.24
+[RÜCK] ID 596 VII.308.F.a.:1954.1 nach Nummer 55 (Eltern None) S.25
+[RÜCK] ID 634 VII.308.F.a.:1955.1 nach Nummer 38 (Eltern None) S.27
+[RÜCK] ID 676 VII.308.F.a.:1956.1 nach Nummer 42 (Eltern None) S.28
+[RÜCK] ID 704 VII.308.F.a.:1957.1 nach Nummer 28 (Eltern None) S.29
+[RÜCK] ID 736 VII.308.F.a.:1958.1 nach Nummer 32 (Eltern None) S.30
+[RÜCK] ID 749 VII.308.F.a.:1959.1 nach Nummer 13 (Eltern None) S.30
+[RÜCK] ID 772 VII.308.F.a.:1960.1 nach Nummer 23 (Eltern None) S.31
+[RÜCK] ID 790 VII.308.F.a.:1961.1 nach Nummer 18 (Eltern None) S.32
+[RÜCK] ID 815 VII.308.F.a.:1962.1 nach Nummer 25 (Eltern None) S.33
+[RÜCK] ID 841 VII.308.F.a.:1963.1 nach Nummer 26 (Eltern None) S.33
+[RÜCK] ID 873 VII.308.F.a.:1964.1 nach Nummer 32 (Eltern None) S.35
+[LÜCKE] 3–3 fehlen vor ID 875 VII.308.F.a.:1964.4 (Eltern None) S.35
+[RÜCK] ID 897 VII.308.F.a.:1965.1 nach Nummer 25 (Eltern None) S.35
+[RÜCK] ID 925 VII.308.F.a.:1966.1 nach Nummer 28 (Eltern None) S.36
+[RÜCK] ID 963 VII.308.F.a.:1967.1 nach Nummer 35 (Eltern None) S.38
+[RÜCK] ID 1013 VII.308.F.a.:1968.1 nach Nummer 50 (Eltern None) S.39
+[RÜCK] ID 1070 VII.308.F.a.:1969.1 nach Nummer 57 (Eltern None) S.41
+[RÜCK] ID 1105 VII.308.F.a.:1970.1 nach Nummer 35 (Eltern None) S.42
+[RÜCK] ID 1155 VII.308.F.a.:1971.1 nach Nummer 49 (Eltern None) S.44
+[RÜCK] ID 1185 VII.308.F.a.:1972.1 nach Nummer 28 (Eltern None) S.45
+[RÜCK] ID 1224 VII.308.F.a.:1973.1 nach Nummer 38 (Eltern None) S.46
+[RÜCK] ID 1262 VII.308.F.a.:1974.1 nach Nummer 36 (Eltern None) S.48
+[RÜCK] ID 1295 VII.308.F.a.:1975.1 nach Nummer 30 (Eltern None) S.49
+[RÜCK] ID 1342 VII.308.F.a.:1976.1 nach Nummer 44 (Eltern None) S.51
+[RÜCK] ID 1377 VII.308.F.a.:1977.1 nach Nummer 31 (Eltern None) S.52
+[RÜCK] ID 1423 VII.308.F.a.:1978.1 nach Nummer 46 (Eltern None) S.55
+[RÜCK] ID 1441 VII.308.F.a.:1979.1 nach Nummer 18 (Eltern None) S.56
+[RÜCK] ID 1478 VII.308.F.a.:1980.1 nach Nummer 37 (Eltern None) S.58
+[RÜCK] ID 1517 VII.308.F.a.:1981.1 nach Nummer 37 (Eltern None) S.59
+[RÜCK] ID 1541 VII.308.F.a.:1982.1 nach Nummer 21 (Eltern None) S.61
+[RÜCK] ID 1576 VII.308.F.a.:1983.1 nach Nummer 35 (Eltern None) S.62
+[RÜCK] ID 1604 VII.308.F.a.:1984.1 nach Nummer 28 (Eltern None) S.64
+[RÜCK] ID 1639 VII.308.F.a.:1985.1 nach Nummer 35 (Eltern None) S.66
+[RÜCK] ID 1671 VII.308.F.a.:1986.1 nach Nummer 32 (Eltern None) S.67
+[RÜCK] ID 1698 VII.308.F.a.:1987.1 nach Nummer 27 (Eltern None) S.69
+[OHNE] ID 198 P- E1 Dossier VII.308.F.a.:1943.37 S.10 Sch.27 | 1943– | 2. Schweiz. Modewoche
+[OHNE] ID 209 P- E1 Dossier VII.308.F.a.:1945.3 S.11 Sch.29 | 1945– | 2 Baracken für U.S.A.
+[OHNE] ID 485 P484 E2 Dossier VII.308.F.a.:1952.8 T2 S.22 Sch.73 | 1952– | Horgen, Schweiter AG, Warenaufzug
+[OHNE] ID 491 P490 E2 Dossier VII.308.F.a.:1952.14 T2 S.22 Sch.73 | 1952– | Mauvoisin, AEBM, Kiesaufbereitung
+[OHNE] ID 1154 P1153 E2 Dossier VII.308.F.a.:1970.49 T2 S.44 Sch.141 | 1970– | Diverse Offerten
+[OHNE] ID 1183 P1182 E2 Dossier VII.308.F.a.:1971.28 T2 S.45 Sch.146 | 1971– | Diverse Offerten
+[OHNE] ID 1184 P1182 E2 Dossier VII.308.F.a.:1971.28 T3 S.45 Sch.147 | 1971– | Diverse Offerten
+[OHNE] ID 1223 P1222 E2 Dossier VII.308.F.a.:1972.38 T2 S.46 Sch.152 | 1972– | Diverse Offerten
+[OHNE] ID 1261 P1260 E2 Dossier VII.308.F.a.:1973.36 T2 S.48 Sch.158 | 1973– | Diverse Offerten
+[OHNE] ID 1292 P1291 E2 Dossier VII.308.F.a.:1974.30 T2 S.49 Sch.163 | 1974– | Diverse Offerten
+[OHNE] ID 1293 P1291 E2 Dossier VII.308.F.a.:1974.30 T3 S.49 Sch.164 | 1974– | Diverse Offerten
+[OHNE] ID 1294 P1291 E2 Dossier VII.308.F.a.:1974.30 T4 S.49 Sch.165 | 1974– | Diverse Offerten
+[OHNE] ID 1339 P1338 E2 Dossier VII.308.F.a.:1975.44 T2 S.51 Sch.171 | 1975– | Diverse Offerten
+[OHNE] ID 1340 P1338 E2 Dossier VII.308.F.a.:1975.44 T3 S.51 Sch.172 | 1975– | Diverse Offerten
+[OHNE] ID 1341 P1338 E2 Dossier VII.308.F.a.:1975.44 T4 S.51 Sch.173 | 1975– | Diverse Offerten
+[OHNE] ID 1373 P1372 E2 Dossier VII.308.F.a.:1976.31 T2 S.52 Sch.180 | 1976– | Diverse Offerten
+[OHNE] ID 1374 P1372 E2 Dossier VII.308.F.a.:1976.31 T3 S.52 Sch.181 | 1976– | Diverse Offerten
+[OHNE] ID 1375 P1372 E2 Dossier VII.308.F.a.:1976.31 T4 S.52 Sch.182 | 1976– | Diverse Offerten
+[OHNE] ID 1376 P1372 E2 Dossier VII.308.F.a.:1976.31 T5 S.52 Sch.183 | 1976– | Diverse Offerten
+[OHNE] ID 1513 P1512 E2 Dossier VII.308.F.a.:1980.35 T2 S.59 Sch.213 | 1980– | Diverse Offerten
+[OHNE] ID 1515 P1514 E2 Dossier VII.308.F.a.:1980.36 T2 S.59 Sch.214 | 1980– | Diverse Offerten
+[OHNE] ID 1536 P1535 E2 Dossier VII.308.F.a.:1981.19 T2 S.61 Sch.218 | 1981– | Diverse Offerten (A – G)
+[OHNE] ID 1538 P1537 E2 Dossier VII.308.F.a.:1981.20 T2 S.61 Sch.219 | 1981– | Diverse Offerten (H – N)
+[OHNE] ID 1540 P1539 E2 Dossier VII.308.F.a.:1981.21 T2 S.61 Sch.220 | 1981– | Diverse Offerten (O – Z)

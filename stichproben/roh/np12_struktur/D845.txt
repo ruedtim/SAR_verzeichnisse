@@ -1,0 +1,16 @@
+### D845 – Vollsignatur – 203 Einheiten – Bestand V.C.c.52.
+Zusammenfassung: DOPPELT 5, HINWEIS 2, LÜCKE 1, OHNE 6
+[DOPPELT] ID 2 V.C.c.52.:1. Teil 2 S.5 – Teil 1 ID 1 S.1 | Stadttheater
+[HINWEIS] ID 4 V.C.c.52.:1.2 S.5 | Signatur im Findmittel «V.C: c.52.:1.2» – als «V.C.c.52.:1.2» gelesen (Tippfehler?), bitte prüfen.
+[HINWEIS] ID 15 V.C.c.52.:1.101 S.6 | Nummerierung springt: nach 12 folgt 101. Möglicher Tippfehler in der Signatur.
+[DOPPELT] ID 95 V.C.c.52.:44. Teil 2 S.7 – Teil 1 ID 94 S.2 | Tonhallegesellschaft
+[DOPPELT] ID 148 V.C.c.52.:92. Teil 2 S.8 – Teil 1 ID 147 S.4 | Steueramt
+[DOPPELT] ID 156 V.C.c.52.:95. Teil 2 S.8 – Teil 1 ID 155 S.4 | Steueramt
+[DOPPELT] ID 196 V.C.c.52.:124. Teil 2 S.8 – Teil 1 ID 195 S.5 | Winter-Olympiade 1976 Bewerbung Zürich’s
+[LÜCKE] 13–100 fehlen vor ID 15 V.C.c.52.:1.101 (Eltern 1) S.6
+[OHNE] ID 2 P1 E2 Dossier V.C.c.52.:1. T2 S.5 Sch.- | 1856– | Stadttheater
+[OHNE] ID 95 P94 E2 Dossier V.C.c.52.:44. T2 S.7 Sch.- | 1911–1950 | Tonhallegesellschaft
+[OHNE] ID 148 P147 E2 Dossier V.C.c.52.:92. T2 S.8 Sch.- | 1908–1972 | Steueramt
+[OHNE] ID 156 P155 E2 Dossier V.C.c.52.:95. T2 S.8 Sch.- | 1908–1972 | Steueramt
+[OHNE] ID 196 P195 E2 Dossier V.C.c.52.:124. T2 S.8 Sch.- | 1968–1969 | Winter-Olympiade 1976 Bewerbung Zürich’s
+[OHNE] ID 199 P195 E2 Dossier V.C.c.52.:124.c) S.8 Sch.- | 1969– | 1. und 2. Bewerbung

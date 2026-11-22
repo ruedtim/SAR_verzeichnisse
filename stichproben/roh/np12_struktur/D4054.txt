@@ -1,0 +1,164 @@
+### D4054 – dezimal – 463 Einheiten – Bestand VII.151.
+Zusammenfassung: DARIN 75, DOPPELT 22, HINWEIS 3, LÜCKE 1, OHNE 60, RÜCK 1
+[DARIN] ID 3 VII.151.:2.1. Darin 1: 1. Mai 1868 – 30. April 1905
+[DARIN] ID 12 VII.151.:3.2.1. Darin 1: 11. März 1868 – 28. Sept. 1895 (1 Band)
+[DARIN] ID 13 VII.151.:3.2.2. Darin 1: 29. Nov. 1918 – 30. Juni 1938 (1 Band)
+[DARIN] ID 125 VII.151.:6.6.1. Darin 1: 1. Mai 1906 – 30. April 1945
+[DARIN] ID 125 VII.151.:6.6.1. Darin 5: 1. Mai 1946 – 31. Dez. 1946
+[DARIN] ID 125 VII.151.:6.6.1. Darin 6: 31. Dez. 1980
+[DARIN] ID 180 VII.151.:9.5.1. Darin 1: 19. Febr. 1910 – 30. April 1920, gebunden
+[DARIN] ID 181 VII.151.:9.5.2. Darin 1: 7. Okt. 1882 – 1. Aug. 1883, gebunden
+[DARIN] ID 268 VII.151.:10.1.4. Darin 2: 1. Aug. 1981 – 30. Juni 1982
+[DARIN] ID 268 VII.151.:10.1.4. Darin 3: 1. Juli 1982 – 31. März 1983
+[DARIN] ID 268 VII.151.:10.1.4. Darin 4: 1. April 1983 – 31. Dez. 1983
+[DARIN] ID 268 VII.151.:10.1.4. Darin 5: 1. Jan. 1984 – 31. Mai 1984
+[DARIN] ID 268 VII.151.:10.1.4. Darin 6: 1. Juni 1984 – 31. Dez. 1984
+[DARIN] ID 268 VII.151.:10.1.4. Darin 7: 1. Jan. 1985 – 31. Mai 1985
+[DARIN] ID 268 VII.151.:10.1.4. Darin 8: 1. Juni 1985 – 31. Dez. 1985
+[DARIN] ID 268 VII.151.:10.1.4. Darin 9: 1. Jan. 1986 – 31. Mai 1986
+[DARIN] ID 268 VII.151.:10.1.4. Darin 10: 1. Juni 1986 – 31. Dez. 1986
+[DARIN] ID 268 VII.151.:10.1.4. Darin 11: 1. Jan. 1987 – 31. Mai 1987
+[DARIN] ID 268 VII.151.:10.1.4. Darin 12: 1. Juli 1987 – 31. Dez. 1987
+[DARIN] ID 268 VII.151.:10.1.4. Darin 13: 1. Jan. 1988 – 30. April 1988
+[DARIN] ID 268 VII.151.:10.1.4. Darin 14: 1. Mai 1988 – 30. Nov. 1988
+[DARIN] ID 268 VII.151.:10.1.4. Darin 15: 1. Dez. 1988 – 31. Dez. 1989
+[HINWEIS] ID 285 VII.151.:10.3.2.11. S.79 | Nummerierung springt: nach 9 folgt 11. / Zeitraum aus den Jahreszahlen im Darin geschätzt.
+[DOPPELT] ID 293 VII.151.:10.3.4. Teil 4 S.82 – Teil 1 ID 290 S.80 | Saison 1981/82
+[DOPPELT] ID 294 VII.151.:10.3.4. Teil 5 S.83 – Teil 1 ID 290 S.80 | Saison 1981/82, Teil 5
+[DOPPELT] ID 295 VII.151.:10.3.4. Teil 6 S.83 – Teil 1 ID 290 S.80 | Saison 1982/83
+[DOPPELT] ID 296 VII.151.:10.3.4. Teil 7 S.84 – Teil 1 ID 290 S.80 | Saison 1982/83, Teil 7
+[DOPPELT] ID 297 VII.151.:10.3.4. Teil 8 S.84 – Teil 1 ID 290 S.80 | Saison 1982/83, Teil 8
+[DOPPELT] ID 298 VII.151.:10.3.4. Teil 9 S.85 – Teil 1 ID 290 S.80 | Saison 1983/84
+[DOPPELT] ID 299 VII.151.:10.3.4. Teil 10 S.86 – Teil 1 ID 290 S.80 | Saison 1983/84, Teil 10
+[DOPPELT] ID 300 VII.151.:10.3.4. Teil 11 S.87 – Teil 1 ID 290 S.80 | Saison 1984/85
+[DOPPELT] ID 301 VII.151.:10.3.4. Teil 12 S.89 – Teil 1 ID 290 S.80 | Saison 1985/86
+[DOPPELT] ID 302 VII.151.:10.3.4. Teil 13 S.90 – Teil 1 ID 290 S.80 | Saison 1986/87
+[DOPPELT] ID 303 VII.151.:10.3.4. Teil 14 S.92 – Teil 1 ID 290 S.80 | Saison 1987/88
+[DOPPELT] ID 304 VII.151.:10.3.4. Teil 15 S.93 – Teil 1 ID 290 S.80 | Kammermusikmatineen: Claude und Dominique Starck, Trio Belle
+[HINWEIS] ID 314 VII.151.:10.8.2.10. S.79 | Übergeordnete Signatur 10.8.2. fehlt im Findmittel; eingehängt unter 10.8. / Zeitraum aus den Jahreszahlen im Darin geschätzt.
+[HINWEIS] ID 315 VII.151.:10.8.4. S.82 | Nummerierung beginnt bei 4. / Kein Zeitraum gefunden.
+[DOPPELT] ID 319 VII.151.:11.2. Teil 2 S.97 – Teil 1 ID 318 S.95 | Korrespondenz und Akten der Orchesterdirektion, chronologisc
+[DARIN] ID 352 VII.151.:12.1.8.1. Darin 4: 14. Internationaler Wasserversorgungskongress 1982
+[DARIN] ID 355 VII.151.:12.1.9. Darin 12: 70. Geburtstag von Rolf Liebermann. Extrakonzert
+[DOPPELT] ID 367 VII.151.:12.3.4. Teil 3 S.113 – Teil 1 ID 365 S.111 | Hong Kong Arts Festival Society Limited 1980 siehe auch
+[DOPPELT] ID 368 VII.151.:12.3.4. Teil 4 S.114 – Teil 1 ID 365 S.111 | Hong Kong Arts Festival Society Limited
+[DOPPELT] ID 369 VII.151.:12.3.4. Teil 5 S.116 – Teil 1 ID 365 S.111 | Tournee nach Spanien und nach Deutschland
+[DOPPELT] ID 370 VII.151.:12.3.4. Teil 6 S.116 – Teil 1 ID 365 S.111 | Spanien und Portugal Tournee
+[DOPPELT] ID 386 VII.151.:13.3.1. Teil 5 S.122 – Teil 1 ID 382 S.120 | Programmhefte gebunden, Teil 5
+[DARIN] ID 405 VII.151.:14.3.3. Darin 5: 4. Okt. 1884 – 3. Okt. 1885
+[DARIN] ID 405 VII.151.:14.3.3. Darin 6: 30. Sept. 1886 – 25. Sept. 1887
+[DARIN] ID 405 VII.151.:14.3.3. Darin 7: 1. Okt. 1887 – 30. Sept. 1888
+[DARIN] ID 405 VII.151.:14.3.3. Darin 8: 2. Okt. 1888 – 30. Sept. 1889
+[DARIN] ID 405 VII.151.:14.3.3. Darin 9: 1. Okt. 1890 – 30. April 1892
+[DARIN] ID 405 VII.151.:14.3.3. Darin 10: 3. Mai 1892 – 29. April 1893
+[DARIN] ID 405 VII.151.:14.3.3. Darin 11: 2. Mai 1893 – 21. April 1894
+[DARIN] ID 405 VII.151.:14.3.3. Darin 12: 3. Mai 1894 – 30. April 1895
+[DARIN] ID 405 VII.151.:14.3.3. Darin 13: 9. Mai 1895 – 28. April 1896
+[DARIN] ID 405 VII.151.:14.3.3. Darin 14: 23. Mai 1897 – 26. April 1898
+[DARIN] ID 405 VII.151.:14.3.3. Darin 15: 23. Mai 1898 – 29. April 1899
+[DARIN] ID 405 VII.151.:14.3.3. Darin 16: 23. Mai 1899 – 29. April 1900
+[DARIN] ID 405 VII.151.:14.3.3. Darin 17: 22. Mai 1900 – 27. April 1901
+[DARIN] ID 405 VII.151.:14.3.3. Darin 18: 26. Mai 1901 – 26. April 1902
+[DARIN] ID 405 VII.151.:14.3.3. Darin 19: 22. Mai 1902 – 4. April 1903
+[DARIN] ID 405 VII.151.:14.3.3. Darin 20: 23. Mai 1903 – 9. April 1904
+[DARIN] ID 405 VII.151.:14.3.3. Darin 21: 24. Mai 1904 – 4. März 1905
+[DARIN] ID 405 VII.151.:14.3.3. Darin 22: 1. Mai 1905 – 7. April 1906
+[DARIN] ID 405 VII.151.:14.3.3. Darin 24: 22. Mai 1906 – 7. Mai 1907
+[DARIN] ID 405 VII.151.:14.3.3. Darin 25: 2. Mai 1907 – 12. April 1908
+[DARIN] ID 405 VII.151.:14.3.3. Darin 26: 25. Mai 1908 – 2. Mai 1909
+[DARIN] ID 405 VII.151.:14.3.3. Darin 27: 3. Mai 1909 – 3. Mai 1910
+[DARIN] ID 405 VII.151.:14.3.3. Darin 28: 1. Mai 1910 – 2. Mai 1911
+[DARIN] ID 405 VII.151.:14.3.3. Darin 29: 24. Mai 1911 – 30. April 1912
+[DARIN] ID 405 VII.151.:14.3.3. Darin 30: 28. Juni 1913 – 28. April 1914
+[DARIN] ID 405 VII.151.:14.3.3. Darin 31: 1. Juli 1914 – 17. April 1915
+[DOPPELT] ID 409 VII.151.:15.1. Teil 3 S.129 – Teil 1 ID 407 S.127 | Porträts der Mitglieder der Tonhalle-Gesellschaft, Komponist
+[DARIN] ID 419 VII.151.:15.5.1. Darin 1: 1. Dr. Friedrich Hegar
+[DARIN] ID 419 VII.151.:15.5.1. Darin 3: 2. Johannes Brahms
+[DARIN] ID 419 VII.151.:15.5.1. Darin 5: 3. Joseph Joachim
+[DARIN] ID 419 VII.151.:15.5.1. Darin 7: 4. Emma Hiller
+[DARIN] ID 419 VII.151.:15.5.1. Darin 9: 5. Pauline de Haan-Manifarges
+[DARIN] ID 419 VII.151.:15.5.1. Darin 11: 6. Anton van Rooy
+[DARIN] ID 419 VII.151.:15.5.1. Darin 13: 7. Ernst Sandreuter
+[DARIN] ID 419 VII.151.:15.5.1. Darin 15: 8. Johanna Adler-Nathan
+[DARIN] ID 419 VII.151.:15.5.1. Darin 17: 9. Robert Hausmann
+[DARIN] ID 419 VII.151.:15.5.1. Darin 19: 10. Joachim-Quartet
+[DARIN] ID 419 VII.151.:15.5.1. Darin 21: 11. Henri Falke
+[DOPPELT] ID 420 VII.151.:15.5.1. Teil 2 S.135 – Teil 1 ID 419 S.133 | 12. Erika Wedekind
+[DOPPELT] ID 421 VII.151.:15.5.1. Teil 3 S.136 – Teil 1 ID 419 S.133 | 24. Ben Davics
+[DARIN] ID 422 VII.151.:15.5.2. Darin 1: 1. Böhmisches Streichquartett
+[DARIN] ID 422 VII.151.:15.5.2. Darin 3: 2. Dr. Raoul Walter
+[DARIN] ID 422 VII.151.:15.5.2. Darin 5: 3. Marcella Pregi
+[DARIN] ID 422 VII.151.:15.5.2. Darin 7: 4. Sophie Jatté
+[DARIN] ID 422 VII.151.:15.5.2. Darin 9: 5. Eugen d’Albert
+[DARIN] ID 422 VII.151.:15.5.2. Darin 11: 6. Emile Laurent, Violine, London, VI. Abonnement-Konzert, 10. Januar 1899 (Foto: Elliott and Fry, L
+[DARIN] ID 422 VII.151.:15.5.2. Darin 12: 7. Ludwig Strakosch
+[DARIN] ID 422 VII.151.:15.5.2. Darin 14: 8. Nina Faliero
+[DARIN] ID 422 VII.151.:15.5.2. Darin 16: 9. Ernst Lochbrunner
+[DARIN] ID 422 VII.151.:15.5.2. Darin 18: 10. Clotilde Kleeberg
+[DARIN] ID 422 VII.151.:15.5.2. Darin 20: 11. Ernesto Consolo
+[DARIN] ID 422 VII.151.:15.5.2. Darin 22: 12. Rose Ettinger
+[DARIN] ID 422 VII.151.:15.5.2. Darin 24: 13. Willy Rehberg
+[DARIN] ID 422 VII.151.:15.5.2. Darin 26: 14. Helene Bratanitsch
+[DOPPELT] ID 424 VII.151.:15.5.2. Teil 3 S.140 – Teil 1 ID 422 S.137 | 29. Jacques Thibaud
+[LÜCKE] 10–10 fehlen vor ID 285 VII.151.:10.3.2.11. (Eltern 275) S.79
+[RÜCK] ID 315 VII.151.:10.8.4. nach Nummer 10 (Eltern 313) S.82
+[OHNE] ID 34 P33 E3 Dossier VII.151.:4.2. T2 S.12 Sch.- | 1946–1987 | Korrespondenz und Akten des Vorstandes der Tonhallegesellschaft, Teil 2
+[OHNE] ID 48 P47 E4 Dossier VII.151.:5.2.3. T2 S.16 Sch.- | 1993–1999 | Korrespondenz und Akten betreffend die Anteilscheine, Teil 2
+[OHNE] ID 60 P59 E4 Dossier VII.151.:5.5.3. T2 S.21 Sch.- | 1990–1998 | (I)
+[OHNE] ID 62 P61 E4 Dossier VII.151.:5.5.4. T2 S.22 Sch.- | 1994–2002 | Gönnerkonzerte und Sonderveranstaltungen des Gönner-Vereins, Teil 2
+[OHNE] ID 122 P121 E4 Dossier VII.151.:6.5.6. T2 S.39 Sch.- | 1918– | Akten des künstlerischen Personals, Dossiers alphabetisch geordnet, Teil 2
+[OHNE] ID 168 P167 E4 Dossier VII.151.:9.2.2. T2 S.49 Sch.- | 1976–1986 | Korrespondenz und Akten der Tonhallegesellschaft und Theater AG, Teil 2
+[OHNE] ID 177 P176 E4 Dossier VII.151.:9.4.2. T2 S.52 Sch.- | 1960–1995 | Korrespondenz und Akten der Radiogenossenschaft und der Tonhallegesellschaft, Teil 2
+[OHNE] ID 183 P182 E4 Dossier VII.151.:9.5.3. T2 S.54 Sch.- | 1948–1964 | Korrespondenz und Akten des Schweizerischen Tonkünstlervereins, Teil 2
+[OHNE] ID 184 P182 E4 Dossier VII.151.:9.5.3. T3 S.54 Sch.- | 17.05.1952–1968 | Korrespondenz und Akten des Schweizerischen Tonkünstlervereins, Teil 3
+[OHNE] ID 185 P182 E4 Dossier VII.151.:9.5.3. T4 S.54 Sch.- | 1971–1981 | Korrespondenz und Akten des Schweizerischen Tonkünstlervereins, Teil 4
+[OHNE] ID 237 P236 E3 Dossier VII.151.:9.19. T2 S.63 Sch.- | 11.1878–10.03.1880 | Mappe 2
+[OHNE] ID 238 P236 E3 Dossier VII.151.:9.19. T3 S.64 Sch.- | 27.09.1880–30.11.1892 | Mappe 3
+[OHNE] ID 264 P263 E4 Dossier VII.151.:10.1.1. T2 S.71 Sch.- | 1976–2000 | Korrespondenz mit Orchestermitgliedern, Zirkularschreiben
+[OHNE] ID 266 P265 E4 Dossier VII.151.:10.1.2. T2 S.72 Sch.- | 1974–2002 | Korrespondenz der Betriebsdirektion, alphabetisch und chronologisch geordnet, Teil 2
+[OHNE] ID 291 P290 E4 Dossier VII.151.:10.3.4. T2 S.81 Sch.- | – | Aufenthaltsbewilligungen und Verträge mit Dirigenten, Solisten, Musikgruppen, Teil 2
+[OHNE] ID 292 P290 E4 Dossier VII.151.:10.3.4. T3 S.81 Sch.- | – | Aufenthaltsbewilligungen und Verträge mit Dirigenten, Solisten, Musikgruppen, Teil 3
+[OHNE] ID 293 P290 E4 Dossier VII.151.:10.3.4. T4 S.82 Sch.- | 1981–1982 | Saison 1981/82
+[OHNE] ID 294 P290 E4 Dossier VII.151.:10.3.4. T5 S.83 Sch.- | – | Saison 1981/82, Teil 5
+[OHNE] ID 295 P290 E4 Dossier VII.151.:10.3.4. T6 S.83 Sch.- | 1982–1983 | Saison 1982/83
+[OHNE] ID 296 P290 E4 Dossier VII.151.:10.3.4. T7 S.84 Sch.- | – | Saison 1982/83, Teil 7
+[OHNE] ID 297 P290 E4 Dossier VII.151.:10.3.4. T8 S.84 Sch.- | – | Saison 1982/83, Teil 8
+[OHNE] ID 298 P290 E4 Dossier VII.151.:10.3.4. T9 S.85 Sch.- | 1983–1984 | Saison 1983/84
+[OHNE] ID 299 P290 E4 Dossier VII.151.:10.3.4. T10 S.86 Sch.- | – | Saison 1983/84, Teil 10
+[OHNE] ID 300 P290 E4 Dossier VII.151.:10.3.4. T11 S.87 Sch.- | 1984–1985 | Saison 1984/85
+[OHNE] ID 301 P290 E4 Dossier VII.151.:10.3.4. T12 S.89 Sch.- | 1985–1986 | Saison 1985/86
+[OHNE] ID 302 P290 E4 Dossier VII.151.:10.3.4. T13 S.90 Sch.- | 1986–1987 | Saison 1986/87
+[OHNE] ID 303 P290 E4 Dossier VII.151.:10.3.4. T14 S.92 Sch.- | 1987–1988 | Saison 1987/88
+[OHNE] ID 304 P290 E4 Dossier VII.151.:10.3.4. T15 S.93 Sch.- | – | Kammermusikmatineen: Claude und Dominique Starck, Trio Belle Epoque, Alexandre Stein / Zsuzsanna Si
+[OHNE] ID 319 P318 E3 Dossier VII.151.:11.2. T2 S.97 Sch.- | 1986–2004 | Korrespondenz und Akten der Orchesterdirektion, chronologisch geordnet, Teil 2
+[OHNE] ID 326 P325 E4 Dossier VII.151.:11.4.1. T2 S.98 Sch.- | – | Diverses Material betreffend Komponisten, Dirigenten, Teil 2
+[OHNE] ID 356 P355 E4 Dossier VII.151.:12.1.9. T2 S.107 Sch.- | 1981–1992 | Diverse Konzerte, Akten chronologisch geordnet, Teil 2
+[OHNE] ID 360 P359 E4 Dossier VII.151.:12.2.2. T2 S.108 Sch.- | 1979– | Junifestwochen
+[OHNE] ID 366 P365 E4 Dossier VII.151.:12.3.4. T2 S.112 Sch.- | 1978–1979 | Südamerika-Tournee (Argentinien und Brasilien)
+[OHNE] ID 367 P365 E4 Dossier VII.151.:12.3.4. T3 S.113 Sch.- | 1980–1982 | Hong Kong Arts Festival Society Limited 1980 siehe auch
+[OHNE] ID 368 P365 E4 Dossier VII.151.:12.3.4. T4 S.114 Sch.- | 1982– | Hong Kong Arts Festival Society Limited
+[OHNE] ID 369 P365 E4 Dossier VII.151.:12.3.4. T5 S.116 Sch.- | 1996–1998 | Tournee nach Spanien und nach Deutschland
+[OHNE] ID 370 P365 E4 Dossier VII.151.:12.3.4. T6 S.116 Sch.- | 1999–2007 | Spanien und Portugal Tournee
+[OHNE] ID 372 P371 E3 Dossier VII.151.:12.4. T2 S.117 Sch.- | 25.04.1979–1984 | Erich Leinsdorf – Symposium, Grundlagen der Interpretation
+[OHNE] ID 373 P371 E3 Dossier VII.151.:12.4. T3 S.118 Sch.- | 1985–1996 | New York Philharmonic 1985
+[OHNE] ID 383 P382 E4 Dossier VII.151.:13.3.1. T2 S.120 Sch.- | 1916–1919 | Programmhefte gebunden
+[OHNE] ID 384 P382 E4 Dossier VII.151.:13.3.1. T3 S.121 Sch.- | 1951–1952 | Programmhefte gebunden
+[OHNE] ID 385 P382 E4 Dossier VII.151.:13.3.1. T4 S.121 Sch.- | 1972–1973 | Programmhefte gebunden
+[OHNE] ID 386 P382 E4 Dossier VII.151.:13.3.1. T5 S.122 Sch.- | 1987–2000 | Programmhefte gebunden, Teil 5
+[OHNE] ID 388 P387 E4 Dossier VII.151.:13.3.2. T2 S.122 Sch.- | 1978–1979 | Lose Programmhefte
+[OHNE] ID 389 P387 E4 Dossier VII.151.:13.3.2. T3 S.122 Sch.- | 1990–1991 | Lose Programmhefte
+[OHNE] ID 408 P407 E3 Dossier VII.151.:15.1. T2 S.128 Sch.- | 1902–1908 | Porträts der Mitglieder der Tonhalle-Gesellschaft, Komponisten, Dirigenten und Solisten, Teil
+[OHNE] ID 409 P407 E3 Dossier VII.151.:15.1. T3 S.129 Sch.- | 1897–09.11.1999 | Porträts der Mitglieder der Tonhalle-Gesellschaft, Komponisten, Dirigenten und Solisten
+[OHNE] ID 411 P410 E3 Dossier VII.151.:15.2. T1 S.130 Sch.- | 1890–1959 | Gruppenfotos, diverse Orchester, Teil 1
+[OHNE] ID 412 P410 E3 Dossier VII.151.:15.2. T2 S.130 Sch.- | 1987–02.2000 | Gruppenfotos, diverse Orchester, Teil 2
+[OHNE] ID 414 P413 E3 Dossier VII.151.:15.3. T1 S.131 Sch.- | 1978–29.05.1996 | Diverse Konzerte und Veranstaltungen, Fotografien, Teil 1
+[OHNE] ID 415 P413 E3 Dossier VII.151.:15.3. T2 S.132 Sch.- | 1996–03.09.1999 | Diverse Konzerte und Veranstaltungen, Fotografien, Teil 2
+[OHNE] ID 416 P413 E3 Dossier VII.151.:15.3. T3 S.132 Sch.- | 1968–2003 | Diverse Konzerte und Veranstaltungen, Fotografien, Teil 3
+[OHNE] ID 420 P419 E4 Dossier VII.151.:15.5.1. T2 S.135 Sch.- | 1875–21.09.1899 | 12. Erika Wedekind
+[OHNE] ID 421 P419 E4 Dossier VII.151.:15.5.1. T3 S.136 Sch.- | 16.01.1897–1898 | 24. Ben Davics
+[OHNE] ID 423 P422 E4 Dossier VII.151.:15.5.2. T2 S.138 Sch.- | 12.12.1899–1901 | 15. Laura Helbling
+[OHNE] ID 424 P422 E4 Dossier VII.151.:15.5.2. T3 S.140 Sch.- | 19.11.1901–02.1903 | 29. Jacques Thibaud
+[OHNE] ID 435 P434 E3 Dossier VII.151.:17.2. T2 S.145 Sch.- | 1938–1950 | Paul Boesch: Gemischter Chor Zürich, Festschrift zur Feier seines 75jährigen Bestehens 1863 –
+[OHNE] ID 436 P434 E3 Dossier VII.151.:17.2. T3 S.145 Sch.- | 1954–1983 | Männerchor Aussersihl Zürich 1828 – 1953, Festschrift zum hundertfünfundzwanzigjährigen Beste
+[OHNE] ID 456 P455 E3 Dossier VII.151.:21.2. T1 S.150 Sch.- | 05.1910–1995 | Bilder und Fotografien gerahmt, Teil 1
+[OHNE] ID 457 P455 E3 Dossier VII.151.:21.2. T2 S.150 Sch.- | 05.12.1902–13.09.1953 | Bilder und Fotografien gerahmt, Teil 2

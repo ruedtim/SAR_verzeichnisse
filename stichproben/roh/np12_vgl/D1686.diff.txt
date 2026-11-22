@@ -1,0 +1,22 @@
+### D1686: vorher 1 Einheiten, nachher 11 Einheiten
+WEG  V.G.b.58.h. [ID 1, Bestand, E1, Eltern -, S.1] Handbücher der Brunnenwärter, Wassermessungen der Quellenleitungen (11 Bände) | Von/bis (>= x und <=y)
+        D: V.G. b.58.h:1 Handbücher (Ablesedaten) der Brunnenwärter, Wassermessungen der Quellenleitungen, 1877
+        D: V.G. b.58.h:2 Handbücher (Ablesedaten der Brunnenwärter, Wassermessungen der Quellenleitungen, 1878
+        D: V.G. b.58.h:3 Handbücher (Ablesedaten der Brunnenwärter, Wassermessungen der Quellenleitungen, 1879-1880
+        D: V.G. b.58.h:4 Handbücher (Ablesedaten) der Brunnenwärter, Wassermessungen der Quellenleitungen, 1881
+        D: V.G. b.58.h:5 Handbücher (Ablesedaten) der Brunnenwärter, Wassermessungen der Quellenleitungen, 1882-1883
+        D: V.G. b.58.h:6 Handbücher (Ablesedaten) der Brunnenwärter, Wassermessungen der Quellenleitungen, 1884-1885
+        D: V.G. b.58.h:7 Handbücher (Ablesedaten) der Brunnenwärter, Wassermessungen der Quellenleitungen, 1886
+        D: V.G. b.58.h:8 Handbücher (Ablesedaten) der Brunnenwärter, Wassermessungen der Quellenleitungen, 1887
+        D: … (11 Zeilen)
+NEU  V.G.b.58.h.:1 [ID 1, Dossier, E1, Eltern -, S.1] Handbücher (Ablesedaten) der Brunnenwärter, Wassermessungen der Quellenleitungen | Genau (=)
+NEU  V.G.b.58.h.:2 [ID 2, Dossier, E1, Eltern -, S.1] Handbücher (Ablesedaten der Brunnenwärter, Wassermessungen der Quellenleitungen | Genau (=)
+NEU  V.G.b.58.h.:3 [ID 3, Dossier, E1, Eltern -, S.1] Handbücher (Ablesedaten der Brunnenwärter, Wassermessungen der Quellenleitungen | Von/bis (>= x und <=y)
+NEU  V.G.b.58.h.:4 [ID 4, Dossier, E1, Eltern -, S.1] Handbücher (Ablesedaten) der Brunnenwärter, Wassermessungen der Quellenleitungen | Genau (=)
+NEU  V.G.b.58.h.:5 [ID 5, Dossier, E1, Eltern -, S.1] Handbücher (Ablesedaten) der Brunnenwärter, Wassermessungen der Quellenleitungen | Von/bis (>= x und <=y)
+NEU  V.G.b.58.h.:6 [ID 6, Dossier, E1, Eltern -, S.1] Handbücher (Ablesedaten) der Brunnenwärter, Wassermessungen der Quellenleitungen | Von/bis (>= x und <=y)
+NEU  V.G.b.58.h.:7 [ID 7, Dossier, E1, Eltern -, S.1] Handbücher (Ablesedaten) der Brunnenwärter, Wassermessungen der Quellenleitungen | Genau (=)
+NEU  V.G.b.58.h.:8 [ID 8, Dossier, E1, Eltern -, S.1] Handbücher (Ablesedaten) der Brunnenwärter, Wassermessungen der Quellenleitungen | Genau (=)
+NEU  V.G.b.58.h.:9 [ID 9, Dossier, E1, Eltern -, S.1] Handbücher (Ablesedaten) der Brunnenwärter, Wassermessungen der Quellenleitungen | Genau (=)
+NEU  V.G.b.58.h.:10 [ID 10, Dossier, E1, Eltern -, S.1] Handbücher (Ablesedaten) der Brunnenwärter, Wassermessungen der Quellenleitungen | Genau (=)
+NEU  V.G.b.58.h.:11 [ID 11, Dossier, E1, Eltern -, S.1] Handbücher (Ablesedaten) der Brunnenwärter, Wassermessungen der Quellenleitungen | Genau (=)

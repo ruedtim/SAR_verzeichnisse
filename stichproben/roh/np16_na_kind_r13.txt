@@ -1,0 +1,30 @@
+uebersicht_scope_import.xlsx FEHLER 'Worksheet scope-Import does not exist.'
+D10675;363;V.F.c.28.:730a;Allgemeine Akten;P 362 V.F.c.28.:730;Finanzielles 21;S.12
+D3012;2;VII.170.:1.a.;Hörspielfolge: 10 Sendungen;P 1 VII.170.:1.;Oberstadtgass;S.1
+D3012;3;VII.170.:1.b.;Drehbuch: Ein Film nach dem gleichnamigen Hörspiel;P 1 VII.170.:1.;Oberstadtgass;S.1
+D3012;4;VII.170.:1.c.;Presseorientierung;P 1 VII.170.:1.;Oberstadtgass;S.1
+D3012;12;VII.170.:8.a.;Rollenbuch [Hörspiel Radio];P 11 VII.170.:8.;Polizist Wäckerli;S.2
+D3012;13;VII.170.:8.b.;Rollenbuch [Fernsehspiel];P 11 VII.170.:8.;Polizist Wäckerli;S.2
+D3012;14;VII.170.:8.c.;Diverse Drehbücher von;P 11 VII.170.:8.;Polizist Wäckerli;S.2
+D3089;5;VII.197.:I.3.a.;Vorstandsprotokolle;P 4 VII.197.:I.3.;PROTOKOLLE;S.3
+D3089;6;VII.197.:I.3.b.;Generalversammlungsprotokolle, Schachtel 7;P 4 VII.197.:I.3.;PROTOKOLLE;S.3
+D3089;7;VII.197.:I.3.c.;Sitzungsprotokolle;P 4 VII.197.:I.3.;PROTOKOLLE;S.4
+D3089;28;VII.197.:IV.2a;Zeitungsausschnitte und Programme der Veranstaltun;P 27 VII.197.:IV.2.;ZEITUNGSAUSSCHNITTE;S.10
+D3089;29;VII.197.:IV.2b;Lose Zeitungsausschnitte;P 27 VII.197.:IV.2.;ZEITUNGSAUSSCHNITTE;S.10
+D3161;3;VII.208.:2.a.;Korrespondenz Obmann;P 2 VII.208.:2.;VPOD, Ortsgruppe Schauspielhaus Zürich;S.2
+D3161;4;VII.208.:2.b.;Emil Stöhr Sept.1945-Juni;P 2 VII.208.:2.;VPOD, Ortsgruppe Schauspielhaus Zürich;S.2
+D3161;5;VII.208.:2.c.;Unterlagen "Fall Hilpert";P 2 VII.208.:2.;VPOD, Ortsgruppe Schauspielhaus Zürich;S.2
+D3161;6;VII.208.:2.d.;Erwin Parker;P 2 VII.208.:2.;VPOD, Ortsgruppe Schauspielhaus Zürich;S.2
+D3161;7;VII.208.:2.e.;Versammlungsprotokolle, Präsenzlisten, Schachtel 4;P 2 VII.208.:2.;VPOD, Ortsgruppe Schauspielhaus Zürich;S.2
+D3161;9;VII.208.:3.a.;Vereinigung zur Wiedergründung;P 8 VII.208.:3.;Gewerkschaft Deutscher Bühnenangehöriger;S.2
+D3161;10;VII.208.:3.b.;Theaterhilfe;P 8 VII.208.:3.;Gewerkschaft Deutscher Bühnenangehöriger;S.3
+D3161;11;VII.208.:3.c.;Rechnungsführung Presse, Briefpapier;P 8 VII.208.:3.;Gewerkschaft Deutscher Bühnenangehöriger;S.3
+D3470;174;VII.308.E.a.:13.92.a.;Schongau Architekt Betschen, Baden, Kirche;P 173 VII.308.E.a.:13.92.;Diverse Arbeiten;S.8
+D3470;175;VII.308.E.a.:13.92.b.;Mellingen Architekt Betschen, Fabrikbau;P 173 VII.308.E.a.:13.92.;Diverse Arbeiten;S.8
+D845;192;V.C.c.52.:124.a);Allgemeine Akten;P 191 V.C.c.52.:124.;Winter-Olympiade 1976.;S.8
+D845;193;V.C.c.52.:124.b);Akten betr. Hoch-Ybrig;P 191 V.C.c.52.:124.;Winter-Olympiade 1976.;S.8
+D845;194;V.C.c.52.:124.c);1. und 2. Bewerbung;P 191 V.C.c.52.:124.;Winter-Olympiade 1976.;S.8
+D845;195;V.C.c.52.:124.d);Kostenschätzungen;P 191 V.C.c.52.:124.;Winter-Olympiade 1976.;S.8
+D845;196;V.C.c.52.:124.e);Protokolle der gemeinderätlichen Kommission;P 191 V.C.c.52.:124.;Winter-Olympiade 1976.;S.8
+D845;197;V.C.c.52.:124.f);Pressestimmen;P 191 V.C.c.52.:124.;Winter-Olympiade 1976.;S.8
+D845;198;V.C.c.52.:124.g);Drucksachen;P 191 V.C.c.52.:124.;Winter-Olympiade 1976.;S.8

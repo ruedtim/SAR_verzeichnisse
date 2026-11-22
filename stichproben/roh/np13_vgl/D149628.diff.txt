@@ -1,0 +1,80 @@
+### D149628: vorher 5235 Einheiten, nachher 5235 Einheiten
+WEG  VII.12.B.:20.1.2.19. [ID 2553, Dossier, E4, Eltern VII.12.B.:20.1.2., S.371] Gastspiel des Opernhauses Zürich in Athen | Genau (=)
+        D: Korrespondenz und Aktennotizen
+        D: Verhandlungen über die Teilnahme ans Festival in Athen
+        D: Teilnehmerlisten, Verlauf des Gastspiels
+        D: Programm und Katalog
+WEG  VII.12.B.:28.1.1.3. [ID 5096, Dossier, E2, Eltern VII.12.B.:28., S.562] Gebundene Aufführungsplakate (Theaterzettel) mit Besetzungslisten | Von/bis (>= x und <=y)
+WEG  VII.12.B.:29.2.9. [ID 5124, Dossier, E3, Eltern VII.12.B.:29.2., S.570] Who Shall Abide | Genau (=)
+NEU  VII.12.B.:20.1.3.19. [ID 2572, Dossier, E4, Eltern VII.12.B.:20.1.3., S.371] Gastspiel des Opernhauses Zürich in Athen | Genau (=)
+        D: Korrespondenz und Aktennotizen
+        D: Verhandlungen über die Teilnahme ans Festival in Athen
+        D: Teilnehmerlisten, Verlauf des Gastspiels
+        D: Programm und Katalog
+        H: Im Findmittel «20.1.2.19.» zwischen 20.1.3.18. und 20.1.3.20. – als 20.1.3.19. gelesen (Tippfehler?), bitte prüfen.
+NEU  VII.12.B.:27.1.1.3./T10 [ID 4949, Dossier, E5, Eltern VII.12.B.:27.1.1.3., S.562] Aufführungsplakate 6. Sept. 1930 – 7. Juni 1931 (Stadttheater) Der Band wird in Schachtel Sign. VII.12.B. 27.1.1.1. | Von/bis (>= x und <=y)
+        D: Lose Aufführungsplakate 1. Sept. 1928 – 10. Juni 1930 aufbewahrt.
+NEU  VII.12.B.:29.1.9. [ID 5107, Dossier, E3, Eltern VII.12.B.:29.1., S.570] Who Shall Abide | Genau (=)
+        H: Im Findmittel «29.2.9.» zwischen 29.1.8. und 29.1.10. – als 29.1.9. gelesen (Tippfehler?), bitte prüfen.
+GEÄ  VII.12.B.:5.4.3.3./T54 [ID 552, Dossier, E5, Eltern VII.12.B.:5.4.3.3., S.123] Vorstellungsrapporte | Von/bis (>= x und <=y)
+        [Darin]
+           -Lose Kassarapporte / Vorstellungsrapporte
+           +
+GEÄ  VII.12.B.:5.4.3.3./T55 [ID 553, Dossier, E5, Eltern VII.12.B.:5.4.3.3., S.123] Lose Kassarapporte | Von/bis (>= x und <=y)
+        Prüfhinweise: '' => 'Steht im Findmittel unter der Zwischenüberschrift «Lose Kassarapporte / Vorstellungsrapporte».'
+GEÄ  VII.12.B.:20.1.3.20. [ID 2573, Dossier, E4, Eltern VII.12.B.:20.1.3., S.371] Teilnahme des Opernhauses an den Internationalen Maifestspielen Wiesbaden | Genau (=)
+        Prüfhinweise: 'Nummerierung springt: nach 18 folgt 20.' => ''
+GEÄ  VII.12.B.:27.1.1.3. [ID 4940, Serie, E4, Eltern VII.12.B.:27.1.1., S.562] Gebundene Aufführungsplakate (Theaterzettel) mit Besetzungslisten | Von/bis (>= x und <=y)
+        Titel: 'Aufführungsplakate (Pfauenbühne)' => 'Gebundene Aufführungsplakate (Theaterzettel) mit Besetzungslisten'
+        von: '01.05.1903' => '1903'
+        bis: '30.07.1911' => '1911'
+        Entstehungszeitraum, Anm.: 'erste Nennung: 1. Mai 1903 – 31. Juli 1903' => ''
+        Nr. im PDF: '27.1.1.3.' => '28.1.1.3.'
+        Zeitraum-Quelle: 'Titel' => 'Datumsspalte'
+        [Prüfhinweise]
+           -Untereinheiten reichen über den Zeitraum hinaus (01.05.1904–07.06.1931).
+           +Im Findmittel «28.1.1.3.» zwischen 27.1.1.2. und 27.1.1.3. – als 27.1.1.3. gelesen (Tippfehler?), bitte prüfen.
+           +Untereinheiten reichen über den Zeitraum hinaus (01.05.1903–07.06.1931).
+GEÄ  VII.12.B.:27.1.1.3./T2 [ID 4941, Dossier, E5, Eltern VII.12.B.:27.1.1.3., S.562] Aufführungsplakate (Pfauenbühne) | Von/bis (>= x und <=y)
+        von: '01.05.1904' => '01.05.1903'
+        bis: '15.07.1904' => '31.07.1903'
+GEÄ  VII.12.B.:27.1.1.3./T3 [ID 4942, Dossier, E5, Eltern VII.12.B.:27.1.1.3., S.562] Aufführungsplakate (Pfauenbühne) | Von/bis (>= x und <=y)
+        von: '12.04.1905' => '01.05.1904'
+        bis: '30.06.1905' => '15.07.1904'
+GEÄ  VII.12.B.:27.1.1.3./T4 [ID 4943, Dossier, E5, Eltern VII.12.B.:27.1.1.3., S.562] Aufführungsplakate (Pfauenbühne) | Von/bis (>= x und <=y)
+        von: '01.09.1905' => '12.04.1905'
+        bis: '30.06.1906' => '30.06.1905'
+GEÄ  VII.12.B.:27.1.1.3./T5 [ID 4944, Dossier, E5, Eltern VII.12.B.:27.1.1.3., S.562] Aufführungsplakate (Pfauenbühne) | Von/bis (>= x und <=y)
+        von: '05.05.1907' => '01.09.1905'
+        bis: '06.05.1907' => '30.06.1906'
+GEÄ  VII.12.B.:27.1.1.3./T6 [ID 4945, Dossier, E5, Eltern VII.12.B.:27.1.1.3., S.562] Aufführungsplakate (Pfauenbühne) | Von/bis (>= x und <=y)
+        von: '01.05.1908' => '05.05.1907'
+        bis: '30.06.1908' => '06.05.1907'
+GEÄ  VII.12.B.:27.1.1.3./T7 [ID 4946, Dossier, E5, Eltern VII.12.B.:27.1.1.3., S.562] Aufführungsplakate (Pfauenbühne) | Von/bis (>= x und <=y)
+        von: '01.05.1909' => '01.05.1908'
+        bis: '30.06.1909' => '30.06.1908'
+GEÄ  VII.12.B.:27.1.1.3./T8 [ID 4947, Dossier, E5, Eltern VII.12.B.:27.1.1.3., S.562] Aufführungsplakate (Pfauenbühne) | Von/bis (>= x und <=y)
+        von: '01.05.1911' => '01.05.1909'
+        bis: '30.07.1911' => '30.06.1909'
+GEÄ  VII.12.B.:27.1.1.3./T9 [ID 4948, Dossier, E5, Eltern VII.12.B.:27.1.1.3., S.562] Aufführungsplakate (Pfauenbühne) | Von/bis (>= x und <=y)
+        Titel: 'Aufführungsplakate 6. Sept. 1930 – 7. Juni 1931 (Stadttheater) Der Band wird in Schachtel Sign. VII.12.B. 27.1.1.1.' => 'Aufführungsplakate (Pfauenbühne)'
+        von: '06.09.1930' => '01.05.1911'
+        bis: '07.06.1931' => '30.07.1911'
+        [Darin]
+           -Lose Aufführungsplakate 1. Sept. 1928 – 10. Juni 1930 aufbewahrt.
+           +
+GEÄ  VII.12.B.:28. [ID 5096, Dossier, E1, Eltern -, S.569] Pläne | 
+        Stufe: 'Teilbestand' => 'Dossier'
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => ''
+        von: '1903' => ''
+        bis: '1911' => ''
+        Zeitraum-Quelle: 'Untereinheiten' => ''
+        Prüfhinweise: '' => 'Kein Zeitraum gefunden.'
+GEÄ  VII.12.B.:29.1.10. [ID 5108, Dossier, E3, Eltern VII.12.B.:29.1., S.570] Mitridate, Rè di Ponto. Schwetzinger Festspiele | Genau (=)
+        Prüfhinweise: 'Nummerierung springt: nach 8 folgt 10.' => ''
+GEÄ  VII.12.B.:29.2. [ID 5124, Dossier, E2, Eltern VII.12.B.:29., S.570] Magnetbänder | 
+        Stufe: 'Serie' => 'Dossier'
+        Entstehungszeitraum: 'Genau (=)' => ''
+        von: '1985' => ''
+        Zeitraum-Quelle: 'Untereinheiten' => ''
+        Prüfhinweise: '' => 'Kein Zeitraum gefunden.'

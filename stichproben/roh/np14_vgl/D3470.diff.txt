@@ -1,0 +1,35 @@
+### D3470: vorher 1950 Einheiten, nachher 1950 Einheiten
+WEG  VII.308.E.a.:42.430. [ID 530, Dossier, E1, Eltern -, S.22] Zürich Locher & Cie AG, Wiederaufbau Zimmerei | 
+WEG  VII.308.E.a.:42.436. [ID 536, Dossier, E1, Eltern -, S.22] Zürich Henauer & Witschi, Schanzeneck | 
+NEU  VII.308.E.a.:40.430. [ID 530, Dossier, E1, Eltern -, S.22] Zürich Locher & Cie AG, Wiederaufbau Zimmerei | 
+        H: Keine übergeordnete Signatur gefunden (erwartet 40.).
+Kein Zeitraum gefunden.
+NEU  VII.308.E.a.:41.436. [ID 536, Dossier, E1, Eltern -, S.22] Zürich Henauer & Witschi, Schanzeneck | 
+        H: Keine übergeordnete Signatur gefunden (erwartet 41.).
+Kein Zeitraum gefunden.
+GEÄ  VII.308.E.a.:11.43. [ID 121, Dossier, E1, Eltern -, S.6] Lausanne Cinteres (Akten zurückgesandt) | 
+        Stufe: 'Serie' => 'Dossier'
+        [Prüfhinweise]
+           -Kein Zeitraum gefunden (auch nicht in den Untereinheiten).
+           +Kein Zeitraum gefunden.
+GEÄ  VII.308.E.a.:11.43.a. [ID 122, Dossier, E1, Eltern -, S.6] Fribourg Herrn E. Dobolz | 
+        Ebene: '2' => '1'
+        Übergeordnete Signatur: 'VII.308.E.a.:11.43.' => 'VII.308.E.a.'
+        [Prüfhinweise]
+           -
+           +Keine übergeordnete Signatur gefunden (erwartet 11.).
+           +Kein Zeitraum gefunden.
+        Eltern: 'VII.308.E.a.:11.43.' => '-'
+GEÄ  VII.308.E.a.:11.44. [ID 123, Dossier, E1, Eltern -, S.6] Paris Perrière und Cie, Hangar | 
+        Stufe: 'Serie' => 'Dossier'
+        [Prüfhinweise]
+           -Kein Zeitraum gefunden (auch nicht in den Untereinheiten).
+           +Kein Zeitraum gefunden.
+GEÄ  VII.308.E.a.:11.44.a. [ID 124, Dossier, E1, Eltern -, S.6] St. Quentin A. Perrière und Cie, Paris, Hangar | 
+        Ebene: '2' => '1'
+        Übergeordnete Signatur: 'VII.308.E.a.:11.44.' => 'VII.308.E.a.'
+        [Prüfhinweise]
+           -
+           +Keine übergeordnete Signatur gefunden (erwartet 11.).
+           +Kein Zeitraum gefunden.
+        Eltern: 'VII.308.E.a.:11.44.' => '-'

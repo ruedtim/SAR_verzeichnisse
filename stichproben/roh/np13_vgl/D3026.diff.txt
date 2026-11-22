@@ -1,0 +1,6 @@
+### D3026: vorher 70 Einheiten, nachher 71 Einheiten
+NEU  VII.177. [ID 71, Bestand, E1, Eltern -, S.6] Paul Nussberger (1911-1977), Lokalhistoriker. Nachlass, 1911-1977 | Von/bis (>= x und <=y)
+        D: Der Bestand enthält aus dem Nachlass von Paul Nussberger des weitern ein Geschäftsbuch (Debitoren- und Zinsbuch, Bilanzen, Inventar). Dieses ist von unbekannter Provenien
+        D: Pergamenteinband (stark verschmutzt) mit Lederbändeln
+        D: 34,5 x 20,5 x 7 cm
+        H: Stück ohne Nummer im Findmittel («Der Bestand enthält aus dem Nachlass von Paul Nussberger des weitern e», S. 6) – hier beim Bestand übernommen (keine Signatur erfunden); in scope beim Bestand ergänzen oder von Hand als Einheit anlegen.

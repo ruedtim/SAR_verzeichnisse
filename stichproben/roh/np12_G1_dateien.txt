@@ -1,0 +1,32 @@
+D3702	106 Einheiten	Gegenprüfung
+D2947	71 Einheiten	Gegenprüfung
+D3677	98 Einheiten	Gegenprüfung
+D2733	3 Einheiten	Gegenprüfung
+D144909	3 Einheiten	Gegenprüfung
+D150536	33 Einheiten	Gegenprüfung
+D175454	78 Einheiten	Gegenprüfung
+D3277	10 Einheiten	Gegenprüfung
+D150689	299 Einheiten	VOLLPRÜFUNG (gehört zu den 208 nur teilweise geprüften)
+D3324	12 Einheiten	VOLLPRÜFUNG (gehört zu den 208 nur teilweise geprüften)
+D3390	6 Einheiten	Gegenprüfung
+D149622	3 Einheiten	VOLLPRÜFUNG (gehört zu den 208 nur teilweise geprüften)
+D2710	12 Einheiten	VOLLPRÜFUNG (gehört zu den 208 nur teilweise geprüften)
+D3530	8 Einheiten	VOLLPRÜFUNG (gehört zu den 208 nur teilweise geprüften)
+D2589	19 Einheiten	VOLLPRÜFUNG (gehört zu den 208 nur teilweise geprüften)
+D2620	139 Einheiten	VOLLPRÜFUNG (gehört zu den 208 nur teilweise geprüften)
+D149835	19 Einheiten	VOLLPRÜFUNG (gehört zu den 208 nur teilweise geprüften)
+D3503	48 Einheiten	Gegenprüfung
+D2848	22 Einheiten	Gegenprüfung
+D1759	152 Einheiten	Gegenprüfung
+D1439	4 Einheiten	VOLLPRÜFUNG (gehört zu den 208 nur teilweise geprüften)
+D3204	51 Einheiten	VOLLPRÜFUNG (gehört zu den 208 nur teilweise geprüften)
+D3727	46 Einheiten	VOLLPRÜFUNG (gehört zu den 208 nur teilweise geprüften)
+D3321	12 Einheiten	Gegenprüfung
+D3776	20 Einheiten	VOLLPRÜFUNG (gehört zu den 208 nur teilweise geprüften)
+D144914	7 Einheiten	Gegenprüfung
+D150242	11 Einheiten	VOLLPRÜFUNG (gehört zu den 208 nur teilweise geprüften)
+D2510	107 Einheiten	Gegenprüfung
+D537	27 Einheiten	VOLLPRÜFUNG (gehört zu den 208 nur teilweise geprüften)
+D539	24 Einheiten	Gegenprüfung
+D67	32 Einheiten	VOLLPRÜFUNG (gehört zu den 208 nur teilweise geprüften)
+D3542	30 Einheiten	Gegenprüfung

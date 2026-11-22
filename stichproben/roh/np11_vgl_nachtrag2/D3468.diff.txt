@@ -1,0 +1,14 @@
+### D3468: vorher 852 Einheiten, nachher 852 Einheiten
+WEG  VII.308.D.a.:1947.7/T2 [ID 55, Dossier, E2, Eltern VII.308.D.a.:1947.7, S.51] Wangen Kantonales Tiefbaumt | Genau (=)
+        D: Zufahrtsstrasse Wangen – Hegnau
+        D: Haldenbrücke
+        D: Pläne: H.-U. Peter, Ingenieur Zürich
+NEU  VII.308.D.a.:1974.7/T2 [ID 745, Dossier, E2, Eltern VII.308.D.a.:1974.7, S.51] Wangen Kantonales Tiefbaumt | Genau (=)
+        D: Zufahrtsstrasse Wangen – Hegnau
+        D: Haldenbrücke
+        D: Pläne: H.-U. Peter, Ingenieur Zürich
+        H: Im Findmittel «1947.7» zwischen 1974.7 und 1974.8 – als «1974.7» gelesen (Tippfehler im Jahr?), bitte prüfen.
+GEÄ  VII.308.D.a.:1947.7 [ID 54, Dossier, E1, Eltern -, S.4] Kloten Direktion der öffentlichen Bauten des Kantons Zürich Flughafen Kloten Flughafenstrasse | Genau (=)
+        Stufe: 'Serie' => 'Dossier'
+GEÄ  VII.308.D.a.:1974.7 [ID 744, Serie, E1, Eltern -, S.51] Brüttisellen Kantonales Tiefbaumt N 1 BW 7 und 8 Bautagebücher Untersuchungsberichte Eidgenössische Materialprüfungs-Anstalt | Genau (=)
+        Stufe: 'Dossier' => 'Serie'

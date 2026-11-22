@@ -1,0 +1,11 @@
+### D2857 – dezimal – 419 Einheiten – Bestand VII.111.
+Zusammenfassung: HINWEIS 2, LÜCKE 1, OHNE 6
+[HINWEIS] ID 186 VII.111.:1.2.25.4. S.8 | Nummerierung springt: nach 2 folgt 4.
+[HINWEIS] ID 357 VII.111.:1.224.3. S.8 | Im Findmittel «1.224.3..» mit doppeltem Punkt – als «1.224.3.» gelesen. / Übergeordnete Signatur 1.224. fehlt im Findmittel; eingehängt unter 
+[LÜCKE] 3–3 fehlen vor ID 186 VII.111.:1.2.25.4. (Eltern 183) S.8
+[OHNE] ID 8 P7 E4 Dossier VII.111.:1.2.2. T2 S.2 Sch.- | – | Ausstellungsbogen mit vollständig entfernten Illustrationen (84x69)
+[OHNE] ID 10 P9 E4 Dossier VII.111.:1.2.3. T2 S.2 Sch.- | 1922– | Brunnenentwurf und Plan, M 1:20 (71x51)
+[OHNE] ID 12 P11 E4 Dossier VII.111.:1.2.4. T2 S.2 Sch.- | – | Ansicht (97x63)
+[OHNE] ID 103 P102 E4 Dossier VII.111.:1.2.15. T2 S.5 Sch.- | 1932– | La Façade, M 1:20 (85x69)
+[OHNE] ID 111 P110 E4 Dossier VII.111.:1.2.17. T2 S.6 Sch.- | – | Ansicht, je auf Papier und auf Pergamentpapier (79x71)
+[OHNE] ID 215 P214 E4 Dossier VII.111.:1.2.27. T2 S.10 Sch.- | 1947– | 3 Zeichnungen (84x53 / 108x43 / 89x61)

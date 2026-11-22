@@ -1,0 +1,7 @@
+### D1856: vorher 5 Einheiten, nachher 5 Einheiten
+GEÄ  V.G.c.36.:2. [ID 2, Dossier, E1, Eltern -, S.1] Schanzengraben – Eigentumsverhältnisse | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.G.c.36.:3. [ID 3, Dossier, E1, Eltern -, S.1] Die Befestigungen der Stadt Zürich | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.G.c.36.:5. [ID 5, Dossier, E1, Eltern -, S.1] Zürichs verkehrspolitische Stellung. | Genau (=)
+        Schachtel-Nr.: '' => '2 und 3'

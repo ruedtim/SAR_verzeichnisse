@@ -1,0 +1,22 @@
+### D152810: vorher 616 Einheiten, nachher 616 Einheiten
+GEÄ  VI.HO.B.13. [ID 34, Dossier, E2, Eltern VI.HO.B., S.4] Schulhausbaurechnungen | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+GEÄ  VI.HO.B.13.a [ID 35, Dossier, E2, Eltern VI.HO.B., S.4] Begleitheft zur Schulhausbaurechnung | Von/bis (>= x und <=y)
+        Ebene: '3' => '2'
+        Übergeordnete Signatur: 'VI.HO.B.13.' => 'VI.HO.B.'
+        Eltern: 'VI.HO.B.13.' => 'VI.HO.B.'
+GEÄ  VI.HO.C. [ID 57, Teilbestand, E1, Eltern -, S.5] Gemeindearchiv Hottingen: Protokolle, Kontrollen und Register | Von/bis (>= x und <=y)
+        bis: '1893' => '1896'
+GEÄ  VI.HO.C.73. [ID 354, Dossier, E2, Eltern VI.HO.C., S.14] Planverzeichnis der Baupolizei | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+        Prüfhinweise: 'Untereinheiten reichen über den Zeitraum hinaus (1881–1896).' => ''
+GEÄ  VI.HO.C.73.a [ID 355, Serie, E2, Eltern VI.HO.C., S.14] Verzeichnis der Handänderungen | Von/bis (>= x und <=y)
+        Ebene: '3' => '2'
+        Übergeordnete Signatur: 'VI.HO.C.73.' => 'VI.HO.C.'
+        Eltern: 'VI.HO.C.73.' => 'VI.HO.C.'
+GEÄ  VI.HO.C.73.a:1 [ID 356, Dossier, E3, Eltern VI.HO.C.73.a, S.15] Band 1 | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+GEÄ  VI.HO.C.73.a:2 [ID 357, Dossier, E3, Eltern VI.HO.C.73.a, S.15] Band 2 | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+GEÄ  VI.HO.C.73.a:3 [ID 358, Dossier, E3, Eltern VI.HO.C.73.a, S.15] Band 3 | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'

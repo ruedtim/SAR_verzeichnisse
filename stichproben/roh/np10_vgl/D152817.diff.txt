@@ -1,0 +1,63 @@
+### D152817: vorher 704 Einheiten, nachher 704 Einheiten
+GEÄ  VI.SB.D.5. [ID 586, Serie, E2, Eltern VI.SB.D., S.25] Akten des Gesundheits- und Wirtschaftswesens | Von/bis (>= x und <=y)
+        Prüfhinweise: 'Untereinheiten reichen über den Zeitraum hinaus (1842–1933).' => 'Untereinheiten reichen über den Zeitraum hinaus (1842–1934).'
+GEÄ  VI.SB.D.5.:1-2 [ID 597, Dossier, E3, Eltern VI.SB.D.5., S.26] f) Arbeitslosenfürsorge | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+        Prüfhinweise: 'Untereinheiten reichen über den Zeitraum hinaus (1852–1934).' => ''
+GEÄ  VI.SB.D.5.:1 [ID 587, Serie, E3, Eltern VI.SB.D.5., S.25] Schachtel 1: a-f | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VI.SB.D.5.:1-2' => 'VI.SB.D.5.'
+        Eltern: 'VI.SB.D.5.:1-2' => 'VI.SB.D.5.'
+GEÄ  VI.SB.D.5.:1/T2 [ID 588, Dossier, E4, Eltern VI.SB.D.5.:1, S.25] a) Allgemeine Akten der Gesundheitskommission | Von/bis (>= x und <=y)
+        Ebene: '5' => '4'
+GEÄ  VI.SB.D.5.:1/T3 [ID 589, Dossier, E4, Eltern VI.SB.D.5.:1, S.25] b) Bestattungs- und Friedhofwesen | Von/bis (>= x und <=y)
+        Ebene: '5' => '4'
+GEÄ  VI.SB.D.5.:1/T4 [ID 590, Dossier, E4, Eltern VI.SB.D.5.:1, S.25] c) Fabrik- und Gewerbewesen | Von/bis (>= x und <=y)
+        Ebene: '5' => '4'
+GEÄ  VI.SB.D.5.:1/T5 [ID 591, Dossier, E4, Eltern VI.SB.D.5.:1, S.26] d) Kranken- und Sozialfürsorge | Von/bis (>= x und <=y)
+        Ebene: '5' => '4'
+GEÄ  VI.SB.D.5.:1/T6 [ID 592, Dossier, E4, Eltern VI.SB.D.5.:1, S.26] e) Lebensmittelkontrolle | Von/bis (>= x und <=y)
+        Ebene: '5' => '4'
+GEÄ  VI.SB.D.5.:2 [ID 593, Serie, E3, Eltern VI.SB.D.5., S.25] Schachtel 2: f-g | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VI.SB.D.5.:1-2' => 'VI.SB.D.5.'
+        Eltern: 'VI.SB.D.5.:1-2' => 'VI.SB.D.5.'
+GEÄ  VI.SB.D.5.:2/T2 [ID 594, Dossier, E4, Eltern VI.SB.D.5.:2, S.26] g) Kriegswirtschaftliche | Von/bis (>= x und <=y)
+        Ebene: '5' => '4'
+GEÄ  VI.SB.D.6.:13 [ID 607, Serie, E3, Eltern VI.SB.D.6., S.27] Schachtel 13: f (Vermessungs- und Bereinigungskommission [Grundbuchvermessung]) | Von/bis (>= x und <=y)
+        Prüfhinweise: 'Nummerierung springt: nach 3 folgt 13. Möglicher Tippfehler in der Signatur.' => 'Nummerierung springt: nach 4 folgt 13. Möglicher Tippfehler in der Signatur.'
+GEÄ  VI.SB.D.6.:4 [ID 605, Serie, E3, Eltern VI.SB.D.6., S.27] Schachtel 4: b-c (Hochbau) | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VI.SB.D.6.:4-5' => 'VI.SB.D.6.'
+        Eltern: 'VI.SB.D.6.:4-5' => 'VI.SB.D.6.'
+GEÄ  VI.SB.D.6.:4/T2 [ID 606, Dossier, E4, Eltern VI.SB.D.6.:4, S.28] b) Hochbau Turmhaus (Plan) | Von/bis (>= x und <=y)
+        Ebene: '5' => '4'
+GEÄ  VI.SB.D.7. [ID 626, Serie, E2, Eltern VI.SB.D., S.30] Akten der Schulpflege | Von/bis (>= x und <=y)
+        Prüfhinweise: 'Untereinheiten reichen über den Zeitraum hinaus (1800–1934).' => 'Untereinheiten reichen über den Zeitraum hinaus (1743–1934).'
+GEÄ  VI.SB.D.7.:1-2 [ID 637, Dossier, E3, Eltern VI.SB.D.7., S.31] b) Lehrer | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+        Prüfhinweise: 'Untereinheiten reichen über den Zeitraum hinaus (1743–1933).' => ''
+GEÄ  VI.SB.D.7.:1 [ID 627, Serie, E3, Eltern VI.SB.D.7., S.30] Schachtel 1: a-b | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VI.SB.D.7.:1-2' => 'VI.SB.D.7.'
+        Eltern: 'VI.SB.D.7.:1-2' => 'VI.SB.D.7.'
+GEÄ  VI.SB.D.7.:1/T2 [ID 628, Dossier, E4, Eltern VI.SB.D.7.:1, S.30] a) Allgemeines 1743-1933: Allgemeine Akten | Von/bis (>= x und <=y)
+        Ebene: '5' => '4'
+GEÄ  VI.SB.D.7.:2 [ID 629, Dossier, E3, Eltern VI.SB.D.7., S.30] Schachtel 2: b-c | 
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VI.SB.D.7.:1-2' => 'VI.SB.D.7.'
+        Eltern: 'VI.SB.D.7.:1-2' => 'VI.SB.D.7.'
+GEÄ  VI.SB.D.7.:2-3 [ID 638, Dossier, E3, Eltern VI.SB.D.7., S.31] c) Unterricht | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+GEÄ  VI.SB.D.7.:3 [ID 630, Serie, E3, Eltern VI.SB.D.7., S.30] Schachtel 3: c-d | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VI.SB.D.7.:2-3' => 'VI.SB.D.7.'
+        Eltern: 'VI.SB.D.7.:2-3' => 'VI.SB.D.7.'
+GEÄ  VI.SB.D.7.:3/T2 [ID 631, Dossier, E4, Eltern VI.SB.D.7.:3, S.31] d) Finanzielles | Von/bis (>= x und <=y)
+        Ebene: '5' => '4'
+GEÄ  VI.SB.D.7.:5 [ID 635, Serie, E3, Eltern VI.SB.D.7., S.30] Schachtel 5: g-h | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VI.SB.D.7.:5-6' => 'VI.SB.D.7.'
+        Eltern: 'VI.SB.D.7.:5-6' => 'VI.SB.D.7.'
+GEÄ  VI.SB.D.7.:5/T2 [ID 636, Dossier, E4, Eltern VI.SB.D.7.:5, S.32] g) Weitere Schulen und Schulangelegenheiten | Von/bis (>= x und <=y)
+        Ebene: '5' => '4'

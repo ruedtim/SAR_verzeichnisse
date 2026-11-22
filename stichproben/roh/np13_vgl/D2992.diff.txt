@@ -1,0 +1,3 @@
+### D2992: vorher 13 Einheiten, nachher 13 Einheiten
+GEÄ  VII.163.:1.3. [ID 4, Dossier, E2, Eltern VII.163.:1., S.4] Werbefilme | Von/bis (>= x und <=y)
+        Prüfhinweise: 'Im Findmittel «3.», nach der Folge aber «1.3.» – Signatur angepasst, bitte prüfen.' => 'Im Findmittel «3.» zwischen 1.2. und 1.4. – als 1.3. gelesen (Tippfehler?), bitte prüfen.'

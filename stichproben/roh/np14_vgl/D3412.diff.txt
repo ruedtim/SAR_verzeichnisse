@@ -1,0 +1,55 @@
+### D3412: vorher 146 Einheiten, nachher 147 Einheiten
+WEG  VII.287.:148. [ID 68, Dossier, E1, Eltern -, S.3] Stäfa | 
+NEU  VII.287.:146/148. [ID 68, Dossier, E1, Eltern -, S.3] Erben Walter Egli, Neu-/ Umbau diverser Gebäude, Rainstrasse, Stäfa | Genau (=)
+NEU  VII.287. [ID 147, Bestand, E1, Eltern -, S.4] Hans Michel, Architekt. Bauabrechnungen | Von/bis (>= x und <=y)
+        D: Nr. K.V. Atlanta Bau- und Grundstücke AG, Wohn- und Geschäftshaus, Schaffhauserstrasse 30, 1945
+        D: Nr. K.V. Baugenossenschaft Albis, Ueberbauung Gstalder, Sood-Adliswil - (3 Dossiers)
+        D: Nr. K.V. Baugenossenschaft Albis, Ueberbauung, Im Zipfel, Adliswil (2 Dossiers), 1947
+        D: Nr. K.V. Baugenossenschaft Frohheim, Mehrfamilienhäuser, Bruderhofweg, 1947
+        D: Nr. K.V. Baugenossenschaft Süd-Ost, 4-/5-Zimmer-Häuser, Wohnblock
+        D: Nr. K.V. Bellevue-Park AG, Neubauten, Goettibachareal, Thun, 1945
+        D: Nr. K.V. L. H. Haas, Neubau PTT-Gebäude, Adliswil, 1952
+        D: Nr. K.V. Lanid AG, Um-/ Neubau, Herisau, 1946
+        D: … (19 Zeilen)
+        H: Stück ohne Nummer im Findmittel («Nr. K.V. Atlanta Bau- und Grundstücke AG, Wohn- und Geschäftshaus,», S. 4) – hier beim Bestand übernommen (keine Signatur erfunden); in scope beim Bestand ergänzen oder von Hand als Einheit anlegen.
+GEÄ  VII.287.:144. [ID 67, Dossier, E1, Eltern -, S.2] Erben Carl Abegg, Lifteinbau u. a., Zollikerstrasse 32 | Genau (=)
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => 'Genau (=)'
+        bis: '1963' => ''
+        [Darin]
+           -Nr. 146/ Erben Walter Egli, Neu-/ Umbau diverser Gebäude, Rainstrasse,, 1963
+           +
+GEÄ  VII.287.:312. [ID 146, Dossier, E1, Eltern -, S.4] Hochbauabteilung PTT, Erweiterung Telefongebäude, Glattbrugg | Genau (=)
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => 'Genau (=)'
+        von: '1945' => '1983'
+        bis: '1983' => ''
+        Entstehungszeitraum, Anm.: '1983; Darin: 1945–1978' => ''
+        [Darin]
+           -Nr. K.V. Atlanta Bau- und Grundstücke AG, Wohn- und Geschäftshaus, Schaffhauserstrasse 30, 1945
+           -Nr. K.V. Baugenossenschaft Albis, Ueberbauung Gstalder, Sood-Adliswil - (3 Dossiers)
+           -Nr. K.V. Baugenossenschaft Albis, Ueberbauung, Im Zipfel, Adliswil (2 Dossiers), 1947
+           -Nr. K.V. Baugenossenschaft Frohheim, Mehrfamilienhäuser, Bruderhofweg Nr. K.V. Baugenossenschaft Süd-Ost, 4-/5-Zimmer-Häuser, Wohnblock -, 1947
+           -Nr. K.V. Bellevue-Park AG, Neubauten, Goettibachareal, Thun, 1945
+           -Nr. K.V. L. H. Haas, Neubau PTT-Gebäude, Adliswil, 1952
+           -Nr. K.V. Lanid AG, Um-/ Neubau, Herisau, 1946
+           -Nr. K.V. 3-/4-/5-Zimmer-Häuser
+           -Nr.
+           -A. E. Scotoni, Sanierung Villa, Ringstrasse 26, 1978
+           -Nr.
+           -A. E. Scotoni, Umbauten Villa, Ringstrasse 26, 1977
+           -Nr.
+           -Elektrizitätswerk Kloten, Transformatorenstation, In Rechten Wiesen, Kloten, 1956
+           -Nr.
+           -Eugen Scotoni-Gassmann, Fassadenrenovation, Anna Heer-Strasse, 1976
+           -Nr.
+           -G. Bleuler, Umbau, Susenbergstrasse 98, 1972
+           -Nr.
+           -H. Schuster, Fassadenrenovation, Enzenbühlstrasse 93, 1976
+           -Nr.
+           -Jakob Hunsberger, Renovation, Buhnrain 3, 1956
+           -Nr.
+           -S. Schwoerer, Fasadenrenovation, Trottenstrasse 29, 1956
+           -Nr.
+           -Schopa AG, Renovation/ Umbau, Splügenstrasse 12, 1970
+           -Nr.
+           -Suit Holding AG, Zimmereinbau, Forchstrasse 177, Zollikerberg, 1957
+           +

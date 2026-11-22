@@ -1,0 +1,14 @@
+D10649	fortlaufend	12 Einheiten	bis S. 2	Ebenen 1	Grund: verdacht N	Signale: N: 11 Zeilen nicht übernommen	sigliste: Einheiten 12; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 2
+D1173	Vollsignatur	24 Einheiten	bis S. 2	Ebenen 1	Grund: zufall Vollsignatur b 11–50	Signale: –	sigliste: Einheiten 24; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 0
+D1574	Vollsignatur	14 Einheiten	bis S. 1	Ebenen 1	Grund: zufall Vollsignatur b 11–50	Signale: –	sigliste: Einheiten 14; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 0
+D177460	Buchstabe+Nr.	167 Einheiten	bis S. 20	Ebenen 2	Grund: zufall Buchstabe+Nr. c 51–200	Signale: –	sigliste: Einheiten 167; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 26
+D2649	ohne Signaturen	1 Einheiten	bis S. 1	Ebenen 1	Grund: zufall ohne Signaturen a ≤10	Signale: –	sigliste: Einheiten 1; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 0
+D2695	fortlaufend	2 Einheiten	bis S. 2	Ebenen 1	Grund: zufall fortlaufend a ≤10	Signale: –	sigliste: Einheiten 2; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 1
+D2828	dezimal	90 Einheiten	bis S. 8	Ebenen 2	Grund: verdacht N	Signale: N: 16 Zeilen nicht übernommen	sigliste: Einheiten 90; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 1
+D2958	dezimal	41 Einheiten	bis S. 3	Ebenen 2	Grund: zufall dezimal b 11–50	Signale: –	sigliste: Einheiten 41; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 4
+D3579	fortlaufend	6 Einheiten	bis S. 2	Ebenen 1	Grund: verdacht N	Signale: N: 18 Zeilen nicht übernommen	sigliste: Einheiten 6; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 3
+D3593	dezimal	11 Einheiten	bis S. 4	Ebenen 2	Grund: verdacht N	Signale: N: 30 Zeilen nicht übernommen	sigliste: Einheiten 11; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 5
+D3604	Mappen/Schachteln	2 Einheiten	bis S. 3	Ebenen 1	Grund: verdacht Z	Signale: Z: 2 Einheiten ohne Zeilenanfang im PDF, z. B. VII.366.:1, VII.366.:2	sigliste: Einheiten 2; ohne Zeilenanfang 2; Nummernzeilen ohne Einheit 0
+D3725	Mappen/Schachteln	7 Einheiten	bis S. 2	Ebenen 1	Grund: verdacht Z	Signale: Z: 1 Einheiten ohne Zeilenanfang im PDF, z. B. VII.410.:7	sigliste: Einheiten 7; ohne Zeilenanfang 1; Nummernzeilen ohne Einheit 4
+D3742	fortlaufend	22 Einheiten	bis S. 4	Ebenen 1	Grund: verdacht N	Signale: N: 65 Zeilen nicht übernommen	sigliste: Einheiten 22; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 6
+D3750	fortlaufend	17 Einheiten	bis S. 2	Ebenen 1	Grund: verdacht N	Signale: N: 14 Zeilen nicht übernommen	sigliste: Einheiten 17; ohne Zeilenanfang 0; Nummernzeilen ohne Einheit 0

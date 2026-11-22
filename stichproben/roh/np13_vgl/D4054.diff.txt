@@ -1,0 +1,546 @@
+### D4054: vorher 463 Einheiten, nachher 463 Einheiten
+WEG  VII.151.:10.8.2.10. [ID 314, Dossier, E3, Eltern VII.151.:10.8., S.79] Michel Plasson | Von/bis (>= x und <=y)
+        D: Korrespondenz und Akten, chronologisch geordnet
+        D: 1985 – 1986
+        D: Entwürfe der Vereinbarung zwischen der Tonhalle-Gesellschaft und Michel Plasson
+        D: biographisches Material
+WEG  VII.151.:10.8.4. [ID 315, Dossier, E3, Eltern VII.151.:10.8., S.82] F | 
+        D: Birgit Finnilä, Rudolf Firkusny, Justus Frantz
+        D: G
+        D: Gemischter Chor Zürich, Sona Ghazarian, Willi Gohl, Kathrin Graf, Peter Gülke, Horacio Gutierrez, Natalia Gutman
+        D: H
+        D: Bernard Haitink, Josef Haselbach, Ulf Hoelscher, Philippe Huttenlocher
+        D: I – J
+        D: Philip Jones Brass Ensemble, Armin Jordan, Juilliard String Quartett, Julia Juon
+        D: K
+        D: … (9 Zeilen)
+NEU  VII.151.:10.3.2.10. [ID 285, Dossier, E4, Eltern VII.151.:10.3.2., S.79] Michel Plasson | Von/bis (>= x und <=y)
+        D: Korrespondenz und Akten, chronologisch geordnet
+        D: 1985 – 1986
+        D: Entwürfe der Vereinbarung zwischen der Tonhalle-Gesellschaft und Michel Plasson
+        D: biographisches Material
+        H: Im Findmittel «10.8.2.10.» zwischen 10.3.2.9. und 10.3.2.11. – als 10.3.2.10. gelesen (Tippfehler?), bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  VII.151.:10.3.4./T16 [ID 306, Dossier, E4, Eltern VII.151.:10.3.4., S.93] Kammermusikmatineen: Claude und Dominique Starck, Trio Belle Epoque, Alexandre Stein / Zsuzsanna Sirokay, Günter Rumpel / Roland Perrenoud / Eiko Furusawa Marianne Borlin | 
+        D: L
+        D: Frieder Lang, Cho-Liang Lin, Helmut Lohner
+        D: M
+        D: Susan Maclean, Männerchor Zürich, Eduardo Mata, Melos-Quartett, Helga Mertens, Nati Mistral, Orchestre Symphonique Montréal
+        D: N
+        D: Daniel Nazareth, Bläserquintett Nicolet-Holliger-Brunner-Vlatkovic / Sextett Thunemann-Elmar Schmid / Trio Holliger-Thomas Demenga-Jaccottet, Siegmund Nimsgern, Jessye No
+        D: O – Q
+        D: Piotr Paleczny, Yolande Parent, Luciano Pavarotti, Güher und Süher Pekinel, Philharmonia Orchestra London / Giuseppe Sinopoli, Philharmonische Solisten Berlin, Michel Pla
+        D: … (16 Zeilen)
+        H: Sehr langer Titel – evtl. Darin-Text im Titel.
+Kein Zeitraum gefunden.
+GEÄ  VII.151.:10.3.2.11. [ID 286, Dossier, E4, Eltern VII.151.:10.3.2., S.79] Hans Rosbaud | Von/bis (>= x und <=y)
+        [Prüfhinweise]
+           -Nummerierung springt: nach 9 folgt 11.
+GEÄ  VII.151.:10.3.4./T5 [ID 295, Dossier, E4, Eltern VII.151.:10.3.4., S.82] Saison 1981/82, Teil 5 | 
+        [Darin]
+           -L
+           -Heribert Lauer, Lehrergesangverein, (Michael Kobelt, Edda Moser, Brigit Finnilä, Erich Leinsdorf, Ferdinand Leitner, Leningrader Philharmoniker, Elisabeth Leonskaja, Lon
+           -M
+           -Charles Mackerras, Oleg Maisenberg, Edda Moser, Moskauer Streichquartett
+           -N
+           -Niederländisches Kammerorchester, Esther Nyffenegger
+           -O
+           -Igor Oistrach, Orlando-Quartett
+           -P – Q
+           -Pittsburgh Symphony Orchestra / André Previn / Kyung Wha Chung, Georges Pludermacher, Will Quadflieg
+           -R
+           -Steve Reich, Zuzana Ruzickova, Peter-Lukas Graf
+           -S
+           -Gerd Sannemüller, Robert Sélitrenny, Singkreis der Engadiner Kantorei / Kammerchor Seminar Küsnacht, Georg Solti, Karl Scheuber, Heinrich Schiff / Elisabeth Leonskaja, G
+           -T
+           -Michel Tabachnik, Talich-Quartett, Emil Tchakarov, James Tocco, Victor Tretjakov, Räto Tschupp
+           -U – Z
+           -Mario Venzago / Daniel Fueter (Schülerkonzerte), Washington Symphony Orchestra / Mstislav Rostropovitch, Alan Weiss, Edith Wiens, Jacques Wildberger, Lothar Zagroseg, Zv
+           +F
+           +Birgit Finnilä, Rudolf Firkusny, Justus Frantz
+           +G
+           +Gemischter Chor Zürich, Sona Ghazarian, Willi Gohl, Kathrin Graf, Peter Gülke, Horacio Gutierrez, Natalia Gutman
+           +H
+           +Bernard Haitink, Josef Haselbach, Ulf Hoelscher, Philippe Huttenlocher
+           +I – J
+           +Philip Jones Brass Ensemble, Armin Jordan, Juilliard String Quartett, Julia Juon
+           +K
+           +Kammerchor Seminar Küsnacht, Kammermusikmatineen und -Soireen, Zürcher Streichquartett, Adolf Brunner-Matinee, Mendelssohn-Trio, Andrea Helesfay / Matthias Sourlier / Ca
+        Nr. im PDF: '10.3.4.' => '10.8.4.'
+        PDF-Seite: '83' => '82'
+        [Prüfhinweise]
+           -Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.
+           +Im Findmittel «10.8.4.» mitten unter den Einträgen 10.3.4. – als 10.3.4. gelesen (Tippfehler?), bitte prüfen.
+GEÄ  VII.151.:10.3.4./T6 [ID 296, Dossier, E4, Eltern VII.151.:10.3.4., S.83] Saison 1981/82, Teil 6 | 
+        Titel: 'Saison 1982/83' => 'Saison 1981/82, Teil 6'
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => ''
+        von: '1982' => ''
+        bis: '1983' => ''
+        Entstehungszeitraum, Anm.: '1982/83' => ''
+        [Darin]
+           -A
+           -Allegri-Quartett, Raffaele Altwegg, Marc Andreae, Arditti String Quartet, Peter Aronsky, Ars Cantata, Moshe Atzmon
+           -B
+           -Baroque Strings, Werner Bärtschi, Serge Baudo, Trio Baumann/Besch/Gawriloff (Trio Ligeeti), Gary Bertini, Boris Bloch, John Paul Bogart, Rolf Boysen, Brandis-Quartett, K
+           -C
+           -Sergiu Celibidache, Chilingirian String Quartet, Gabriel Chmura, Nicolas Chumachenco
+           -D
+           -Thomas Demenga, Heinz Jürgen Demitz, Christoph von Dohnanyi, Alexandre Dubach, Cedric Dumont (Simon Estes)
+           +L
+           +Heribert Lauer, Lehrergesangverein, (Michael Kobelt, Edda Moser, Brigit Finnilä, Erich Leinsdorf, Ferdinand Leitner, Leningrader Philharmoniker, Elisabeth Leonskaja, Lon
+           +M
+           +Charles Mackerras, Oleg Maisenberg, Edda Moser, Moskauer Streichquartett
+           +N
+           +Niederländisches Kammerorchester, Esther Nyffenegger
+           +O
+           +Igor Oistrach, Orlando-Quartett
+           +P – Q
+           +Pittsburgh Symphony Orchestra / André Previn / Kyung Wha Chung, Georges Pludermacher, Will Quadflieg
+           +R
+           +Steve Reich, Zuzana Ruzickova, Peter-Lukas Graf
+           +S
+           +Gerd Sannemüller, Robert Sélitrenny, Singkreis der Engadiner Kantorei / Kammerchor Seminar Küsnacht, Georg Solti, Karl Scheuber, Heinrich Schiff / Elisabeth Leonskaja, G
+           +T
+           +Michel Tabachnik, Talich-Quartett, Emil Tchakarov, James Tocco, Victor Tretjakov, Räto Tschupp
+           +U – Z
+           +Mario Venzago / Daniel Fueter (Schülerkonzerte), Washington Symphony Orchestra / Mstislav Rostropovitch, Alan Weiss, Edith Wiens, Jacques Wildberger, Lothar Zagroseg, Zv
+        Zeitraum-Quelle: 'Titel' => ''
+        Prüfhinweise: '' => 'Kein Zeitraum gefunden.'
+GEÄ  VII.151.:10.3.4./T7 [ID 297, Dossier, E4, Eltern VII.151.:10.3.4., S.83] Saison 1982/83 | Von/bis (>= x und <=y)
+        Titel: 'Saison 1982/83, Teil 7' => 'Saison 1982/83'
+        Entstehungszeitraum: '' => 'Von/bis (>= x und <=y)'
+        von: '' => '1982'
+        bis: '' => '1983'
+        Entstehungszeitraum, Anm.: '' => '1982/83'
+        [Darin]
+           -E
+           -Christiane Edinger, Peter Eidenbenz / Zürcher Bach-Chor, Karl Engel, Christoph Eschenbach, Duo Christoph Eschenbach und Justus Frantz
+           -F
+           -Mikhail Faerman, Anton Fietz, The Fires of London, Malcolm Frager, Homero Francesch / Klaus Geitel, Jean-Marie Frémeaux
+           -G
+           -James Galway, Bruno Leonardo Gelber, David Geringas, Willi Gohl, Kathrin Graf, Paul Gulda / Rainer Batik / Fritz Ozmec, Natalia Gutman / Oleg Kagaan, Laszlo Gyimesi
+           -H
+           -Béatrice Haldas, Jonathan Haskell, Roland Hermann, Tamara Hert, Franziska Hirzel, Heidrun Holtmann, Philippe Huttenlocher
+           -I – J
+           -Gundula Janowitz, Veronica Jochum, Hannes Jokel, Armin Jordan
+           +A
+           +Allegri-Quartett, Raffaele Altwegg, Marc Andreae, Arditti String Quartet, Peter Aronsky, Ars Cantata, Moshe Atzmon
+           +B
+           +Baroque Strings, Werner Bärtschi, Serge Baudo, Trio Baumann/Besch/Gawriloff (Trio Ligeeti), Gary Bertini, Boris Bloch, John Paul Bogart, Rolf Boysen, Brandis-Quartett, K
+           +C
+           +Sergiu Celibidache, Chilingirian String Quartet, Gabriel Chmura, Nicolas Chumachenco
+           +D
+           +Thomas Demenga, Heinz Jürgen Demitz, Christoph von Dohnanyi, Alexandre Dubach, Cedric Dumont (Simon Estes)
+        PDF-Seite: '84' => '83'
+        Zeitraum-Quelle: '' => 'Titel'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+GEÄ  VII.151.:10.3.4./T8 [ID 298, Dossier, E4, Eltern VII.151.:10.3.4., S.84] Saison 1982/83, Teil 8 | 
+        [Darin]
+           -K
+           -Kammerchor Zürich, Kammermusik-Matineen und Soireen: Jan Tomes / Miroslav Novotny / Hanni Schmid-Wyss, Günter Rumpel / Akira Shirao / Marianne Kurtz / Carolyn Hopkins / 
+           -L
+           -Jean-Philippe Lafont, Elisabeth Leonskaja, Kari Lövaas
+           -M
+           -Peter Maag, Madrigalchor des Konservatoriums, Silvia Marcovici, Karl Markus, Antony Morf, Anne-Sophie Mutter
+           -N
+           -Neues Zürcher Quartett, Birgit Nilsson, Jessye Norman
+           -O
+           -Garrick Ohlsson, Derrik Olsen
+           -P – Q
+           -Irène Pellmont, Luca Pfaff, Pro Arte Quintett
+           -R
+           -Tibère Raffalli, Kenneth Riegel, Günter Rumpel
+           -S
+           -Nello Santi, Wolfgang Sawallisch, Robert Sélitrenny, Elisabeth Söderström, Karl Scheuber, Maxim Schostakowitsch, Peter Schweiger
+           -T
+           -Yoav Talmi, Klaus Tennstedt, Trio à Cordes Français (Gérard Jarry, Serge Collot, Michel Tournus)
+           -U
+           -Uto Ughi
+           -V – W
+           -Mario Venzago, Hiroshi Wakasugi, Wasserkongress (IWSA), Ralf Weikert, Wiener Philharmoniker, Edieth Wiens
+           -X – Z
+           -Oxana Yablonskaja, Lothar Zagrosek, Mira Zakai, Frank Peter Zimmermann, David Zinman, Zürcher Bach-Chor
+           +E
+           +Christiane Edinger, Peter Eidenbenz / Zürcher Bach-Chor, Karl Engel, Christoph Eschenbach, Duo Christoph Eschenbach und Justus Frantz
+           +F
+           +Mikhail Faerman, Anton Fietz, The Fires of London, Malcolm Frager, Homero Francesch / Klaus Geitel, Jean-Marie Frémeaux
+           +G
+           +James Galway, Bruno Leonardo Gelber, David Geringas, Willi Gohl, Kathrin Graf, Paul Gulda / Rainer Batik / Fritz Ozmec, Natalia Gutman / Oleg Kagaan, Laszlo Gyimesi
+           +H
+           +Béatrice Haldas, Jonathan Haskell, Roland Hermann, Tamara Hert, Franziska Hirzel, Heidrun Holtmann, Philippe Huttenlocher
+           +I – J
+           +Gundula Janowitz, Veronica Jochum, Hannes Jokel, Armin Jordan
+GEÄ  VII.151.:10.3.4./T9 [ID 299, Dossier, E4, Eltern VII.151.:10.3.4., S.84] Saison 1982/83, Teil 9 | 
+        Titel: 'Saison 1983/84' => 'Saison 1982/83, Teil 9'
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => ''
+        von: '1983' => ''
+        bis: '1984' => ''
+        Entstehungszeitraum, Anm.: '1983/84' => ''
+        [Darin]
+           -A
+           -Marc Andreae, Martha Argerich / Nelson Freire
+           -B
+           -Agnes Baltsa, Matthias Bamert, BBC Symphony Orchestra (London), Jiri Belohlavek, Gary Bertini, Karl-Heinz Benzinger, Bernhard Billeter, Boris Bloch, Julian Bream, John B
+           -C
+           -Camerata Bern (Thomas Füri, Heinz Holliger), Aldo Ceccato, Myung Whun Chung, William Cochran, Olivier Cuendet
+           -D
+           -Bella Davidovich, Dennis Russell Davies, Heinz-Jürgen Demitz, Jozsef Dene, Martin Derungs, Dieter Dyk / Karl-Heinz Benzinger / Horst Hofmann
+           -E
+           -Youri Egorov, Peter Eidenbenz, Emerson String Quartett, Christoph Eschenbach
+           -F
+           -Rocco Filippini, Andor Foldes, Malcolm Frager, Justus Frantz
+           -G
+           -Catherine Gayer, Willi Gohl, Kathrin Graf, Walter Grimmer, Heinz Karl Gruber, Guarneri Streichtrio (Ljubljana-Streichtrio), Endre Guran / Claude Starck
+           -H
+           -Hagen-Quartett
+           -I – J
+           -Internationales Jazz Festival, Philip Jones Brass Ensemble
+           -Kammermusikmatinee: Christoph Eschenbach, Michael Kühn, Michael Reid, Jakob Hefti, Manfred Sax, Jan Tomes, Honorat Cotteli, Miroslav Novotny, Lubomir Rabara, Ludvik Boze
+           -abgelehnte Bewerbungen
+           +Kammerchor Zürich, Kammermusik-Matineen und Soireen: Jan Tomes / Miroslav Novotny / Hanni Schmid-Wyss, Günter Rumpel / Akira Shirao / Marianne Kurtz / Carolyn Hopkins / 
+           +L
+           +Jean-Philippe Lafont, Elisabeth Leonskaja, Kari Lövaas
+           +M
+           +Peter Maag, Madrigalchor des Konservatoriums, Silvia Marcovici, Karl Markus, Antony Morf, Anne-Sophie Mutter
+           +N
+           +Neues Zürcher Quartett, Birgit Nilsson, Jessye Norman
+           +O
+           +Garrick Ohlsson, Derrik Olsen
+           +P – Q
+           +Irène Pellmont, Luca Pfaff, Pro Arte Quintett
+           +R
+           +Tibère Raffalli, Kenneth Riegel, Günter Rumpel
+           +S
+           +Nello Santi, Wolfgang Sawallisch, Robert Sélitrenny, Elisabeth Söderström, Karl Scheuber, Maxim Schostakowitsch, Peter Schweiger
+           +T
+           +Yoav Talmi, Klaus Tennstedt, Trio à Cordes Français (Gérard Jarry, Serge Collot, Michel Tournus)
+           +U
+           +Uto Ughi
+           +V – W
+           +Mario Venzago, Hiroshi Wakasugi, Wasserkongress (IWSA), Ralf Weikert, Wiener Philharmoniker, Edieth Wiens
+           +X – Z
+           +Oxana Yablonskaja, Lothar Zagrosek, Mira Zakai, Frank Peter Zimmermann, David Zinman, Zürcher Bach-Chor
+        PDF-Seite: '85' => '84'
+        Zeitraum-Quelle: 'Titel' => ''
+        Prüfhinweise: '' => 'Kein Zeitraum gefunden.'
+GEÄ  VII.151.:10.3.4./T10 [ID 300, Dossier, E4, Eltern VII.151.:10.3.4., S.85] Saison 1983/84 | Von/bis (>= x und <=y)
+        Titel: 'Saison 1983/84, Teil 10' => 'Saison 1983/84'
+        Entstehungszeitraum: '' => 'Von/bis (>= x und <=y)'
+        von: '' => '1983'
+        bis: '' => '1984'
+        Entstehungszeitraum, Anm.: '' => '1983/84'
+        [Darin]
+           -L
+           -Mozart-Abend: Anne Leek / Christoph Eschenbach / Christoph Bantzer, Lehrergesangverein, Ferdinand Leitner, Elisabeth Leonskaja, Simone Levy, Sylvia Lindenstrand, James L
+           -M
+           -Yo Yo Ma, Karl Martin, Shlomo Mintz, Edda Moser, Musikvereinsquartett, Anne-Sophie Mutter / Alexis Weissenberg
+           -O
+           -Alexander Oliver, Adelina Oprean
+           -P – Q
+           -Ernesto Palacio, Ivo Pogorelich
+           -R
+           -Carole Dawn Reinhart, Kenneth Riegel, Ivan Roth / Schweizer Saxophonquartett
+           -S
+           -John Shirley-Quirk, Hans-Peter Scheidegger, Karl Scheuber, Christoph Schiller, Isaac Stern
+           -T
+           -Yoav Talmi, Tel Aviv String Quartet, James Tocco, Tokyo String Quartet, Victor Tretjakov, Trio di Milano, Trio Barry Tuckwell / Brenton Langbein / Maureen Jones
+           -U
+           -University of Michigan Symphony Band
+           -V – W
+           -Mario Venzago, Peter Waters, Ralf Weikert, Ortrum Wenkel, Alfred Werner, Wiener Streichsextett, Edith Wiens
+           -X – Z
+           -Oxana Yablonskaja, Mira Zakai, Peter Zazofsky, Zürcher Bach-Chor, Zürcher Sängerknaben
+           +A
+           +Marc Andreae, Martha Argerich / Nelson Freire
+           +B
+           +Agnes Baltsa, Matthias Bamert, BBC Symphony Orchestra (London), Jiri Belohlavek, Gary Bertini, Karl-Heinz Benzinger, Bernhard Billeter, Boris Bloch, Julian Bream, John B
+           +C
+           +Camerata Bern (Thomas Füri, Heinz Holliger), Aldo Ceccato, Myung Whun Chung, William Cochran, Olivier Cuendet
+           +D
+           +Bella Davidovich, Dennis Russell Davies, Heinz-Jürgen Demitz, Jozsef Dene, Martin Derungs, Dieter Dyk / Karl-Heinz Benzinger / Horst Hofmann
+           +E
+           +Youri Egorov, Peter Eidenbenz, Emerson String Quartett, Christoph Eschenbach
+           +F
+           +Rocco Filippini, Andor Foldes, Malcolm Frager, Justus Frantz
+           +G
+           +Catherine Gayer, Willi Gohl, Kathrin Graf, Walter Grimmer, Heinz Karl Gruber, Guarneri Streichtrio (Ljubljana-Streichtrio), Endre Guran / Claude Starck
+           +H
+           +Hagen-Quartett
+           +I – J
+           +Internationales Jazz Festival, Philip Jones Brass Ensemble
+           +K
+           +Kammermusikmatinee: Christoph Eschenbach, Michael Kühn, Michael Reid, Jakob Hefti, Manfred Sax, Jan Tomes, Honorat Cotteli, Miroslav Novotny, Lubomir Rabara, Ludvik Boze
+           +abgelehnte Bewerbungen
+        PDF-Seite: '86' => '85'
+        Zeitraum-Quelle: '' => 'Titel'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => ''
+GEÄ  VII.151.:10.3.4./T11 [ID 301, Dossier, E4, Eltern VII.151.:10.3.4., S.86] Saison 1983/84, Teil 11 | 
+        Titel: 'Saison 1984/85' => 'Saison 1983/84, Teil 11'
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => ''
+        von: '1984' => ''
+        bis: '1985' => ''
+        Entstehungszeitraum, Anm.: '1984/85' => ''
+        [Darin]
+           -A
+           -Salvatore Accardo, Kazuyoshi Akiyama, Amati-Quartett, Pierre Amoyal, Marc Andreae
+           -B
+           -Brigitte Balleys, Werner Bärtschi, Christoph Bantzer, Gabriele Benčkovă-Čăp, Alban Berg-Quartett, Alan Bergius, Boris Bloch, Herbert Blomstedt, Kurt Brass, Cynthia Bucha
+           -C
+           -Sylvia Caduff, John Cheek, Chicago Symphony Orchestra
+           -D
+           -Heinz-Jürgen Demitz, Luc Devos, Christoph von Dohnanyi, Jörg Dürmüller
+           -E
+           -Christiane Edinger, Peter Eidenbenz, Empire Brass Quintet, Christoph Eschenbach
+           -F
+           -Festival Strings Lucerne, Anton Fietz / Heribert Lauer, Homero Francesch, Justus Frantz
+           -G
+           -Dorothea Galli, Nicolai Gedda, Bruno Leonardo Gelber, Gemischter Chor, Gewandhausorchester Leipzig, Fabio Giongo, Elisabeth Glauser, Willi Gohl, Horacio Gutierrez, Natal
+           -H
+           -Ernst Häfliger, Béatrice Haldas, Cristobal Halffter, Haydn-Quartett, Rosmarie Hofmann, Ulf Hoelscher, Elgar Howarth
+           -I – J
+           -Jazz-Festival, Hannes Jokel, Armin Jordan, Julia Juon
+           -K
+           -Kammermusiker Zürich / Nina Corti, Kammermusimatineen und Soireen: Christina Grossniklaus, Michael Reid, Eike Steinmann, Erwin Nowak, Christine Meier, Heinz Hofer, Stefi
+           -abgelehnte Bewerbungen
+           -La sale-Quartett, Anne Leek, Janine Lehmann, Ferdinand Leitner, Yoel Levy, Pilar Lorengar
+           +Mozart-Abend: Anne Leek / Christoph Eschenbach / Christoph Bantzer, Lehrergesangverein, Ferdinand Leitner, Elisabeth Leonskaja, Simone Levy, Sylvia Lindenstrand, James L
+           +M
+           +Yo Yo Ma, Karl Martin, Shlomo Mintz, Edda Moser, Musikvereinsquartett, Anne-Sophie Mutter / Alexis Weissenberg
+           +O
+           +Alexander Oliver, Adelina Oprean
+           -Kun Woo Paik, Piotr Paleczny, Krzysztof Penderecki, Philharmonischer Chor Prag, Prager-Streichquartett, Georges Prêtre
+           -M
+           -Sylvia Marcovici, Marco Arturo Marelli, György Melis, Katalin Mészöly, Alfred Muff, Anne-Sophie Mutter
+           -N
+           -New York Philharmonic Orchestra, Inga Nielsen
+           -O
+           -Walter Ochsenbein, Schülerchor für Hary Janos, Kale Lani Okazaki
+           +Ernesto Palacio, Ivo Pogorelich
+           -Helmuth Reichel, Wolfgang Reichmann, David Rendall, Ruth Rohner, Mstislav Rostropowitsch, Günter Rumpel / Hans Rudolf Stalder
+           +Carole Dawn Reinhart, Kenneth Riegel, Ivan Roth / Schweizer Saxophonquartett
+           -St. Louis Symphony Orchestra, Leonard Slatkin / Joshua Bell, Nello Santi, Anja Silja, Suk-Trio, Hans-Peter Scheidegger, Karl Scheuber, Erika Schmidt-Valentin, Verena Sch
+           +John Shirley-Quirk, Hans-Peter Scheidegger, Karl Scheuber, Christoph Schiller, Isaac Stern
+           -Jeffrey Tate, Emil Tchakarov, Räto Tschupp, Fou Ts ‘ong
+           -V
+           -Lucia Valentini-Terrani, Dinorah Varsi, Piero Visconti
+           -W
+           -Hiroshi Wakasugi, Erich Widl, Kurt Widmer, Joseph Willimann, Dorothea Wirtz, Elaine Woods
+           +Yoav Talmi, Tel Aviv String Quartet, James Tocco, Tokyo String Quartet, Victor Tretjakov, Trio di Milano, Trio Barry Tuckwell / Brenton Langbein / Maureen Jones
+           +U
+           +University of Michigan Symphony Band
+           +V – W
+           +Mario Venzago, Peter Waters, Ralf Weikert, Ortrum Wenkel, Alfred Werner, Wiener Streichsextett, Edith Wiens
+           -Frank Peter Zimmermann, Katerina Zlatnikova, Pinchas Zukerman, Zürcher Bach-Kantorei, Zürcher Sängerknaben, Teresa Zylis-Gara
+           +Oxana Yablonskaja, Mira Zakai, Peter Zazofsky, Zürcher Bach-Chor, Zürcher Sängerknaben
+        PDF-Seite: '87' => '86'
+        Zeitraum-Quelle: 'Titel' => ''
+        Prüfhinweise: '' => 'Kein Zeitraum gefunden.'
+GEÄ  VII.151.:10.3.4./T12 [ID 302, Dossier, E4, Eltern VII.151.:10.3.4., S.87] Saison 1984/85 | Von/bis (>= x und <=y)
+        Titel: 'Saison 1985/86' => 'Saison 1984/85'
+        von: '1985' => '1984'
+        bis: '1986' => '1985'
+        Entstehungszeitraum, Anm.: '1985/86' => '1984/85'
+        [Darin]
+           -Gerd Albrecht, Maurice Andre, Sheila Armstrong, Peter Aronsky, Ars Cantata, Matthias Aeschbacher
+           +Salvatore Accardo, Kazuyoshi Akiyama, Amati-Quartett, Pierre Amoyal, Marc Andreae
+           -Agnes Baltsa, Serge Baudo, Beaux Arts Trio, Berner Streichquartett, Gary Bertini, Gunnel Bohman, Bettina Boller, Wolfgang Boettcher, Brandis-Quartett, Julian Bream
+           +Brigitte Balleys, Werner Bärtschi, Christoph Bantzer, Gabriele Benčkovă-Čăp, Alban Berg-Quartett, Alan Bergius, Boris Bloch, Herbert Blomstedt, Kurt Brass, Cynthia Bucha
+           -Riccardo Chailly, Gabriel Chmura, Cleveland String Quartet
+           +Sylvia Caduff, John Cheek, Chicago Symphony Orchestra
+           -Andrew Davis, Helga Dernesch
+           +Heinz-Jürgen Demitz, Luc Devos, Christoph von Dohnanyi, Jörg Dürmüller
+           -Youri Egorov, Peter Eidenbenz, Emerson String Quartet / Antonio Meneses, Christoph Eschenbach, Klavierduo Eschenbach / Frantz, Europa Cantat
+           +Christiane Edinger, Peter Eidenbenz, Empire Brass Quintet, Christoph Eschenbach
+           -Dietrich Fischer-Dieskau, Peter Fischli, Klaus Peter Flor, Bruce Ford, Justus Frantz
+           +Festival Strings Lucerne, Anton Fietz / Heribert Lauer, Homero Francesch, Justus Frantz
+           -Robert Gambill, Andrej Gawrilow, Willi Gohl, Kathrin Graf, Walter Grimmer / Eva Zurbrügg, Roland Guéneux, Peter Gülke
+           +Dorothea Galli, Nicolai Gedda, Bruno Leonardo Gelber, Gemischter Chor, Gewandhausorchester Leipzig, Fabio Giongo, Elisabeth Glauser, Willi Gohl, Horacio Gutierrez, Natal
+           -Hagen-Quartett, Bernard Haitink, Jakob Hefti, Roland Hermann, Paul Hess, Ursula Holliger, Yuzuko Horigome
+           +Ernst Häfliger, Béatrice Haldas, Cristobal Halffter, Haydn-Quartett, Rosmarie Hofmann, Ulf Hoelscher, Elgar Howarth
+           -Regina Jacobi, Johannes Jokel
+           +Jazz-Festival, Hannes Jokel, Armin Jordan, Julia Juon
+           -Kammermusikmatineen und -soireen: Noriko Shirato / Fumio Shirato / Walther Giger, Susanna Sirokay / Hans Rudolf Stalder / Endre Guran, Zürcher Klarinetten Trio / Christo
+           +Kammermusiker Zürich / Nina Corti, Kammermusimatineen und Soireen: Christina Grossniklaus, Michael Reid, Eike Steinmann, Erwin Nowak, Christine Meier, Heinz Hofer, Stefi
+           +abgelehnte Bewerbungen
+           -Frieder Lang, Alicia de Larrocha, Cecile Licad, Lindsay Quartet, Livschitz-Trio / Christoph Eschenbach, James Loughran, Witold Lutoslawski
+           +La sale-Quartett, Anne Leek, Janine Lehmann, Ferdinand Leitner, Yoel Levy, Pilar Lorengar
+           +P – Q
+           +Kun Woo Paik, Piotr Paleczny, Krzysztof Penderecki, Philharmonischer Chor Prag, Prager-Streichquartett, Georges Prêtre
+           -Teiko Maehashi, Jane Marsh, Karl Martin, Antonio Meneses, Yehudi Menuhin, Marie-Jeanne Dufour (Sonderkonzert für Mitglieder und Gönner der Tonhalle-Gesellschaft)
+           +Sylvia Marcovici, Marco Arturo Marelli, György Melis, Katalin Mészöly, Alfred Muff, Anne-Sophie Mutter
+           -Barbara Neurohr, Ensemble Aurèle Nicolet / Heinz Holliger, Grzegorz Nowak
+           +New York Philharmonic Orchestra, Inga Nielsen
+           -Opernchor des Berner Stadttheater, Camillo Osorovitz, Cécile Ousset
+           -P – Q
+           -Piotr Paleczny, Louise Pellerin, Michel Plasson, Ivo Pogorelich, Berthold Possemeyer, Patrick Power
+           +Walter Ochsenbein, Schülerchor für Hary Janos, Kale Lani Okazaki
+           -Bertrand Roulet
+           +Helmuth Reichel, Wolfgang Reichmann, David Rendall, Ruth Rohner, Mstislav Rostropowitsch, Günter Rumpel / Hans Rudolf Stalder
+           -Nello Santi, Nadine Secunde, Peter Serkin, Vladimir Spivakov, Karl Scheuber, Peter Scheuch, András Schiff, Marga Schiml, Peter Schreier, Städtisches Gymnasium Bern-Neufe
+           +St. Louis Symphony Orchestra, Leonard Slatkin / Joshua Bell, Nello Santi, Anja Silja, Suk-Trio, Hans-Peter Scheidegger, Karl Scheuber, Erika Schmidt-Valentin, Verena Sch
+           -Yoav Talmi, Muhai Tang, Tel Aviv String Quartet, Trio di Milano, Räto Tschupp
+           -U – W
+           -Julia Varady, Natasa Velkovic, Annette Weisbrod, Kurt Widmer, Wiener Streichsextett / Sabine Meyer, Elaine Woods, Janka Wyttenbach, Jürg Wyttenbach
+           +Jeffrey Tate, Emil Tchakarov, Räto Tschupp, Fou Ts ‘ong
+           +V
+           +Lucia Valentini-Terrani, Dinorah Varsi, Piero Visconti
+           +W
+           +Hiroshi Wakasugi, Erich Widl, Kurt Widmer, Joseph Willimann, Dorothea Wirtz, Elaine Woods
+           -Mira Zakai, Krystian Zimerman, David Zinman, Pinchas Zukerman / St. Paul Chamber Orchestra, The Zurich Violoncellists, Zürcher Bach-Chor, Zürcher Sängerknaben
+           +Frank Peter Zimmermann, Katerina Zlatnikova, Pinchas Zukerman, Zürcher Bach-Kantorei, Zürcher Sängerknaben, Teresa Zylis-Gara
+        PDF-Seite: '89' => '87'
+GEÄ  VII.151.:10.3.4./T13 [ID 303, Dossier, E4, Eltern VII.151.:10.3.4., S.89] Saison 1985/86 | Von/bis (>= x und <=y)
+        Titel: 'Saison 1986/87' => 'Saison 1985/86'
+        von: '1986' => '1985'
+        bis: '1987' => '1986'
+        Entstehungszeitraum, Anm.: '1986/87' => '1985/86'
+        [Darin]
+           -Yuri Ahronovitch, Kazuyoshi Akiyama, Rudolf am Bach, American String Quartet, Pierre Amoyal, Martha Argerich
+           +Gerd Albrecht, Maurice Andre, Sheila Armstrong, Peter Aronsky, Ars Cantata, Matthias Aeschbacher
+           -Aldo Baldin, Matthias Bamert, Tzimon Barto, Jiři Bělohlàvek, Lazar Berman, Leonard Bernstein / Israel Philharmonic, Michel Béroff, Gary Bertini, René Bill, Rudolf Buchbi
+           +Agnes Baltsa, Serge Baudo, Beaux Arts Trio, Berner Streichquartett, Gary Bertini, Gunnel Bohman, Bettina Boller, Wolfgang Boettcher, Brandis-Quartett, Julian Bream
+           -Maria Luisa Cantos, Sergiu Comissiona, Kindertanztheater Claudia Corti, Olivier Cuendet
+           +Riccardo Chailly, Gabriel Chmura, Cleveland String Quartet
+           -Fritz Denoth, Luc Devos, Christoph von Dohnanyi
+           +Andrew Davis, Helga Dernesch
+           -Peter Eidenbenz, Emerson String Quartet, Christoph Eschenbach
+           +Youri Egorov, Peter Eidenbenz, Emerson String Quartet / Antonio Meneses, Christoph Eschenbach, Klavierduo Eschenbach / Frantz, Europa Cantat
+           -Adam Fischer, Malcolm Frager, Trio Frank / Gyoergy Pauk / Ralph Kirshbaum, Samuel Friedmann, Justus Frantz, Eiko Furusawa
+           +Dietrich Fischer-Dieskau, Peter Fischli, Klaus Peter Flor, Bruce Ford, Justus Frantz
+           -Axelle Gall, Willi Gohl, Kathrin Graf, Peter Gülke, Horacio Gutierrez
+           +Robert Gambill, Andrej Gawrilow, Willi Gohl, Kathrin Graf, Walter Grimmer / Eva Zurbrügg, Roland Guéneux, Peter Gülke
+           -Rosmarie Hofmann, Alex Hug / Sängerverein Harmonie
+           +Hagen-Quartett, Bernard Haitink, Jakob Hefti, Roland Hermann, Paul Hess, Ursula Holliger, Yuzuko Horigome
+           -Florenz Jenny
+           +Regina Jacobi, Johannes Jokel
+           -Kammermusikmatineen: Bewerbungen und Absagen, Jakob Hefti / Heinz Hofer / Anne de Dadelsen, Ursula Dorath / Urs Schoch / Hans Martin Ulbrich / Endre Guran / Wolfgang Bog
+           +Kammermusikmatineen und -soireen: Noriko Shirato / Fumio Shirato / Walther Giger, Susanna Sirokay / Hans Rudolf Stalder / Endre Guran, Zürcher Klarinetten Trio / Christo
+           -Marc Laforêt, Alexandre Lagoya, Frieder Lang, Michael Lange, Jan Latham-Koenig, Erich Leinsdorf, Ferdinand Leitner, Elisabeth Leonskaja, London Philharmonic / Klaus Tenn
+           +Frieder Lang, Alicia de Larrocha, Cecile Licad, Lindsay Quartet, Livschitz-Trio / Christoph Eschenbach, James Loughran, Witold Lutoslawski
+           -Yo-Yo Ma, Lorin Maazel, Edith Mathis, Nathan Milstein, Shlomo Mintz, Moskauer Virtuosen / Vladimir Spivakov, Franz Möst, Alfred Muff, Victoria Mullova, Anne-Sophie Mutte
+           +Teiko Maehashi, Jane Marsh, Karl Martin, Antonio Meneses, Yehudi Menuhin, Marie-Jeanne Dufour (Sonderkonzert für Mitglieder und Gönner der Tonhalle-Gesellschaft)
+           -Grzegorz Nowak
+           +Barbara Neurohr, Ensemble Aurèle Nicolet / Heinz Holliger, Grzegorz Nowak
+           -Kale Lani Okazaki, Orpheus Chamber Orchestra / Gidon Kremer
+           +Opernchor des Berner Stadttheater, Camillo Osorovitz, Cécile Ousset
+           -Kurt Pahlen, Christopher Parkening, Edith Peinemann, Roland Perrenoud, Maria Joao Pires, Michel Plasson, Lucia Popp, Qatuor Sine Nomine
+           +Piotr Paleczny, Louise Pellerin, Michel Plasson, Ivo Pogorelich, Berthold Possemeyer, Patrick Power
+           -Michael Reid, Gennadji Rojdestvenski / Staatliches Symphonieorchester Moskau, Michel Rouilly, Günter Rumpel
+           +Bertrand Roulet
+           -Sächsische Streichersolisten, Esa-Pekka Salonen, Manfred Sax, Cheryl Shepard, Georg Solti / Murray Perahia, Christoph Schiller, Erich Schmid, Stalder-Quintett / Neues Zü
+           +Nello Santi, Nadine Secunde, Peter Serkin, Vladimir Spivakov, Karl Scheuber, Peter Scheuch, András Schiff, Marga Schiml, Peter Schreier, Städtisches Gymnasium Bern-Neufe
+           -Michel Tabachnik, Takacs-Quartett / Dezsö Ranki, Yoav Talmi
+           +Yoav Talmi, Muhai Tang, Tel Aviv String Quartet, Trio di Milano, Räto Tschupp
+           -Uto Ughi, Hiroshi Wakasugi, Kurt Widmer, Wiener Bläserensemble, Wiener Philharmoniker / Claudio Abbado, Markus Würsch
+           -Y – Z
+           -Krystian Zimerman, David Zinman, Omar Zoboli, Zürcher Bach-Chor
+           +Julia Varady, Natasa Velkovic, Annette Weisbrod, Kurt Widmer, Wiener Streichsextett / Sabine Meyer, Elaine Woods, Janka Wyttenbach, Jürg Wyttenbach
+           +X – Z
+           +Mira Zakai, Krystian Zimerman, David Zinman, Pinchas Zukerman / St. Paul Chamber Orchestra, The Zurich Violoncellists, Zürcher Bach-Chor, Zürcher Sängerknaben
+        PDF-Seite: '90' => '89'
+GEÄ  VII.151.:10.3.4./T14 [ID 304, Dossier, E4, Eltern VII.151.:10.3.4., S.90] Saison 1986/87 | Von/bis (>= x und <=y)
+        Titel: 'Saison 1987/88' => 'Saison 1986/87'
+        von: '1987' => '1986'
+        bis: '1988' => '1987'
+        Entstehungszeitraum, Anm.: '1987/88' => '1986/87'
+        [Darin]
+           -Kazuyoshi Akiyama, Christian Altenburger, Maurice André, Marc Andreae, Martha Argerich, Peter Aronsky, Atlanta Symphony Orchestra, Atlanta Symphony Chorus, Emanuel Ax / 
+           +Yuri Ahronovitch, Kazuyoshi Akiyama, Rudolf am Bach, American String Quartet, Pierre Amoyal, Martha Argerich
+           -Brigitte Balleys, Chihiro Bamba, Matthias Bamert, Basler Madrigalisten, Beaux Arts Trio, Jiri Belohlavek, Boris Bloch, Herbert Blomstedt, Anthony de Bonaventura, Mario d
+           +Aldo Baldin, Matthias Bamert, Tzimon Barto, Jiři Bělohlàvek, Lazar Berman, Leonard Bernstein / Israel Philharmonic, Michel Béroff, Gary Bertini, René Bill, Rudolf Buchbi
+           -Carmina-Quartett, Ricardo Castro, Concertgebouworkest
+           +Maria Luisa Cantos, Sergiu Comissiona, Kindertanztheater Claudia Corti, Olivier Cuendet
+           -Andrew Davis, Foula Dimitriadis, Roberto Duarte, Charles Dutoit
+           +Fritz Denoth, Luc Devos, Christoph von Dohnanyi
+           -Lorenz Ehrsam, Empire Brass Quintet, English Chamber Orchestra / Pinchas Zukerman, Christof Escher
+           +Peter Eidenbenz, Emerson String Quartet, Christoph Eschenbach
+           -Fine Arts Quartet, Claus Peter Flor, Harald Friedrich / Mary Brady
+           +Adam Fischer, Malcolm Frager, Trio Frank / Gyoergy Pauk / Ralph Kirshbaum, Samuel Friedmann, Justus Frantz, Eiko Furusawa
+           -Axelle Gall, Oscar Garcia, Andrej Gawrilow, Bruno Leonardo Gelber, Dorothea Gilgen, Willi Gohl, Kathrin Graf, Willi Gremlich, Jean Guillou
+           +Axelle Gall, Willi Gohl, Kathrin Graf, Peter Gülke, Horacio Gutierrez
+           -Hagen-Quartett, Wolfgang Holzmair
+           +Rosmarie Hofmann, Alex Hug / Sängerverein Harmonie
+           -Thomas C. Johnson, Johannes Jokel
+           +Florenz Jenny
+           +Kammermusikmatineen: Bewerbungen und Absagen, Jakob Hefti / Heinz Hofer / Anne de Dadelsen, Ursula Dorath / Urs Schoch / Hans Martin Ulbrich / Endre Guran / Wolfgang Bog
+           +L
+           +Marc Laforêt, Alexandre Lagoya, Frieder Lang, Michael Lange, Jan Latham-Koenig, Erich Leinsdorf, Ferdinand Leitner, Elisabeth Leonskaja, London Philharmonic / Klaus Tenn
+           +M
+           +Yo-Yo Ma, Lorin Maazel, Edith Mathis, Nathan Milstein, Shlomo Mintz, Moskauer Virtuosen / Vladimir Spivakov, Franz Möst, Alfred Muff, Victoria Mullova, Anne-Sophie Mutte
+           +N
+           +Grzegorz Nowak
+           +O
+           +Kale Lani Okazaki, Orpheus Chamber Orchestra / Gidon Kremer
+           +P – Q
+           +Kurt Pahlen, Christopher Parkening, Edith Peinemann, Roland Perrenoud, Maria Joao Pires, Michel Plasson, Lucia Popp, Qatuor Sine Nomine
+           +R
+           +Michael Reid, Gennadji Rojdestvenski / Staatliches Symphonieorchester Moskau, Michel Rouilly, Günter Rumpel
+           +S
+           +Sächsische Streichersolisten, Esa-Pekka Salonen, Manfred Sax, Cheryl Shepard, Georg Solti / Murray Perahia, Christoph Schiller, Erich Schmid, Stalder-Quintett / Neues Zü
+           +T
+           +Michel Tabachnik, Takacs-Quartett / Dezsö Ranki, Yoav Talmi
+           +U – W
+           +Uto Ughi, Hiroshi Wakasugi, Kurt Widmer, Wiener Bläserensemble, Wiener Philharmoniker / Claudio Abbado, Markus Würsch
+           +Y – Z
+           +Krystian Zimerman, David Zinman, Omar Zoboli, Zürcher Bach-Chor
+        PDF-Seite: '92' => '90'
+GEÄ  VII.151.:10.3.4./T15 [ID 305, Dossier, E4, Eltern VII.151.:10.3.4., S.92] Saison 1987/88 | Von/bis (>= x und <=y)
+        Titel: 'Kammermusikmatineen: Claude und Dominique Starck, Trio Belle Epoque, Alexandre Stein / Zsuzsanna Sirokay, Günter Rumpel / Roland Perrenoud / Eiko Furusawa Marianne Borlin' => 'Saison 1987/88'
+        Entstehungszeitraum: '' => 'Von/bis (>= x und <=y)'
+        von: '' => '1987'
+        bis: '' => '1988'
+        Entstehungszeitraum, Anm.: '' => '1987/88'
+        [Darin]
+           -L
+           -Frieder Lang, Cho-Liang Lin, Helmut Lohner
+           -M
+           -Susan Maclean, Männerchor Zürich, Eduardo Mata, Melos-Quartett, Helga Mertens, Nati Mistral, Orchestre Symphonique Montréal
+           -N
+           -Daniel Nazareth, Bläserquintett Nicolet-Holliger-Brunner-Vlatkovic / Sextett Thunemann-Elmar Schmid / Trio Holliger-Thomas Demenga-Jaccottet, Siegmund Nimsgern, Jessye N
+           -O – Q
+           -Piotr Paleczny, Yolande Parent, Luciano Pavarotti, Güher und Süher Pekinel, Philharmonia Orchestra London / Giuseppe Sinopoli, Philharmonische Solisten Berlin, Michel Pl
+           -R
+           -Andrzej Ratusinski, Alexandre Rossier, Mikhail Rudy, Bernd Rumpf
+           -S
+           -Laila Salins, Nello Santi, José Serebrier, Regina Sgier, Dimitri Sgouros, Gil Shaham, Dmitry Sitkovetsky, Antti Suhonen, Hans-Peter Scheidegger, Karl Scheuber, Andras Sc
+           -T
+           -Muhai Tang, Ruth Tavor, Orchestra del Teatro alla Scala / Carlo Maria Giulini
+           -U – Z
+           -Kurt Widmer, Laverne Williams, Elaine Woods, Yuval-Trio, Beatrice Zeindler, Frank Peter Zimmermann, Zürcher Bach-Chor
+           +A
+           +Kazuyoshi Akiyama, Christian Altenburger, Maurice André, Marc Andreae, Martha Argerich, Peter Aronsky, Atlanta Symphony Orchestra, Atlanta Symphony Chorus, Emanuel Ax / 
+           +B
+           +Brigitte Balleys, Chihiro Bamba, Matthias Bamert, Basler Madrigalisten, Beaux Arts Trio, Jiri Belohlavek, Boris Bloch, Herbert Blomstedt, Anthony de Bonaventura, Mario d
+           +C
+           +Carmina-Quartett, Ricardo Castro, Concertgebouworkest
+           +D
+           +Andrew Davis, Foula Dimitriadis, Roberto Duarte, Charles Dutoit
+           +E
+           +Lorenz Ehrsam, Empire Brass Quintet, English Chamber Orchestra / Pinchas Zukerman, Christof Escher
+           +F
+           +Fine Arts Quartet, Claus Peter Flor, Harald Friedrich / Mary Brady
+           +G
+           +Axelle Gall, Oscar Garcia, Andrej Gawrilow, Bruno Leonardo Gelber, Dorothea Gilgen, Willi Gohl, Kathrin Graf, Willi Gremlich, Jean Guillou
+           +H
+           +Hagen-Quartett, Wolfgang Holzmair
+           +I – J
+           +Thomas C. Johnson, Johannes Jokel
+           +K
+        PDF-Seite: '93' => '92'
+        Zeitraum-Quelle: '' => 'Titel'
+        [Prüfhinweise]
+           -Sehr langer Titel – evtl. Darin-Text im Titel.
+           -Kein Zeitraum gefunden.
+           +
+GEÄ  VII.151.:10.8. [ID 315, Dossier, E2, Eltern VII.151.:10., S.95] Pressekonferenzen, Rezensionen | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+GEÄ  VII.151.:21.5.3. [ID 463, Dossier, E3, Eltern VII.151.:21.5., S.151] Pläne, Skizzen und Listen aus der Mappen 8 und 9, siehe das Verzeichnis: VII.151.19. Pläne und Skizzen | 
+        [Darin]
+           -659 Normschachteln 65.90 lfm
+           -66 Normschachteln (Verbrauchsmaterial) 6.60 lfm
+           -21 Grf. Schachteln 3.78 lfm
+           -54 Überformat 10.80 lfm
+           -7 Doppel-Überformat 2.10 lfm
+           -59 Planmappen (Plakate) 5.90 lfm
+           -10 Planmappen (Pläne) 1.00 lfm
+           +

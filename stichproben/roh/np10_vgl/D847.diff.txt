@@ -1,0 +1,31 @@
+### D847: vorher 274 Einheiten, nachher 282 Einheiten
+NEU  V.C.c.61.:2a. [ID 3, Dossier, E1, Eltern -, S.1] Almosen- und Legatenfonds | 
+        H: Kein Zeitraum gefunden.
+NEU  V.C.c.61.:2b. [ID 4, Dossier, E1, Eltern -, S.1] Säcklifonds | 
+        H: Kein Zeitraum gefunden.
+NEU  V.C.c.61.:2c. [ID 5, Serie, E1, Eltern -, S.1] Stadtalmosen- und Legatenfonds | 
+        H: Kein Zeitraum gefunden (auch nicht in den Untereinheiten).
+NEU  V.C.c.61.:2c./T2 [ID 6, Dossier, E2, Eltern V.C.c.61.:2c., S.1] Armengut | 
+        H: Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.
+NEU  V.C.c.61.:2d. [ID 7, Dossier, E1, Eltern -, S.1] Armen-Unterstützungsfonds | 
+        H: Kein Zeitraum gefunden.
+NEU  V.C.c.61.:160a. [ID 164, Dossier, E1, Eltern -, S.6] Städtische Unfallkasse | 
+        H: Kein Zeitraum gefunden.
+NEU  V.C.c.61.:160b. [ID 165, Dossier, E1, Eltern -, S.6] Zusatzversicherung für die Lehrer | 
+        H: Kein Zeitraum gefunden.
+NEU  V.C.c.61.:160c. [ID 166, Dossier, E1, Eltern -, S.6] Spar- und Hilfskasse für das nichtständige Personal der Stadtverwaltung | 
+        H: Kein Zeitraum gefunden.
+GEÄ  V.C.c.61.:2. [ID 2, Dossier, E1, Eltern -, S.1] Armengut | 
+        [Darin]
+           -2a Almosen- und Legatenfonds
+           -2b Säcklifonds
+           -2c Stadtalmosen- und Legatenfonds
+           -2d Armen-Unterstützungsfonds
+           -2c Armengut
+           +
+GEÄ  V.C.c.61.:160. [ID 163, Dossier, E1, Eltern -, S.6] Versicherungskasse | 
+        [Darin]
+           -160a Städtische Unfallkasse
+           -160b Zusatzversicherung für die Lehrer
+           -160c Spar- und Hilfskasse für das nichtständige Personal der Stadtverwaltung
+           +

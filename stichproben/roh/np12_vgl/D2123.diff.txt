@@ -1,0 +1,374 @@
+### D2123: vorher 1 Einheiten, nachher 36 Einheiten
+WEG  V.H.c.107. [ID 1, Bestand, E1, Eltern -, S.1] Schulärztliche Dienste Akten | Von/bis (>= x und <=y)
+        D: Akte / Dossier Schachtel-Nummer
+        D: "Die Sonderschulung und -erziehung in der Volksschule der Stadt Zürich", Beilage zum 1 Geschäftsbericht der Zentralschulpflege, Juni 1957
+        D: "Sonderklassen - Allgemeines", Auszüge aus Protokollen, Verordnungen usw., ca. von 1 1920 bis 1960
+        D: "Sonderkurse", Dezember 1948 1
+        D: "Heilpädagogische Sonderklassen-Hilfe für sinnesgeschädigte und sprachgebrechliche 1 Schüler", Sprachheillehrerinnen, ca. von 1946 bis 1966
+        D: "Sonderklassen zur Einschulung fremdsprachiger Volksschüler", Auszug aus Protokoll, 1 1967/68
+        D: "Beobachtungsklasses/So.D", Auszug aus Protokoll, Anmeldeformulare, Nov.1965 1
+        D: "Die Sonderschulmöglichkeiten und ihr Ausbau", Auszug aus Protokoll, Zeitungsartikel, 1 Berichte usw., ca. von 1947 bis 1966
+        D: … (375 Zeilen)
+NEU  V.H.c.107.:1 [ID 1, Dossier, E1, Eltern -, S.1] Schachtel 1 | Von/bis (>= x und <=y)
+        D: "Die Sonderschulung und -erziehung in der Volksschule der Stadt Zürich", Beilage zum Geschäftsbericht der Zentralschulpflege, Juni 1957
+        D: "Sonderklassen - Allgemeines", Auszüge aus Protokollen, Verordnungen usw., ca. von 1920 bis 1960
+        D: "Sonderkurse", Dezember 1948
+        D: "Heilpädagogische Sonderklassen-Hilfe für sinnesgeschädigte und sprachgebrechliche Schüler", Sprachheillehrerinnen, ca. von 1946 bis 1966
+        D: "Sonderklassen zur Einschulung fremdsprachiger Volksschüler", Auszug aus Protokoll, 1967/68
+        D: "Beobachtungsklasses/So.D", Auszug aus Protokoll, Anmeldeformulare, Nov.1965
+        D: "Die Sonderschulmöglichkeiten und ihr Ausbau", Auszug aus Protokoll, Zeitungsartikel, Berichte usw., ca. von 1947 bis 1966
+        D: "Sprechfähigkeit der Kinder", Statistische Untersuchungen, Auszug aus Protokoll, ca. von 1931 bis 196
+        D: … (14 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:2 [ID 2, Dossier, E1, Eltern -, S.1] Schachtel 2 | Von/bis (>= x und <=y)
+        D: "Versuchsklassen a/d. Oberstufe d. Prim'sch. fakultat. 9. Schuljahr, Auszüge aus Protokollen, Aufnahmeverfahren, Lehrplan, ca. von 1942 bis 1965
+        D: "Wahlfachversuch an 3. Sekundarklassen", Auszug aus Protokoll, 11967/70
+        D: "7-Uhr- Schulbeginn", Briefe, Protokollauszüge, Zeitungsartikel, usw., ca. von 1943 bis 1963
+        D: "Fünftage-Woche in der Schule", Protokollauszüge, Expertisen, usw., ca. 1960bis 1970
+        D: "Hausaufgaben", Berichte, Zeitungsartikel, usw., ca.1946 bis 1956
+        D: "Die Reorganisation der Oberstufe der Zürcherischen Volksschule", Beilage zum Geschäftsbericht der Zentralschulpflege, 1953/54
+        D: "Die Winterthurer Werkklassen", 1956
+        D: "Aufbau der Zürcher Volksschule", Plan
+        D: … (10 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:3 [ID 3, Dossier, E1, Eltern -, S.2] Schachtel 3 | Von/bis (>= x und <=y)
+        D: "Reorganisation der Volksschule"; Neues Schulgesetz, in Kraft 1961/62, Protokollauszüge, Verfassungsgesetzte, Zeitungsartikel, usw., ca. von 1947 bis 1966
+        D: "Schaffung von Lehrstellen", Protokollauszüge, Schlussbericht, usw., ca.1942 bis 1966
+        D: "Lehrerschaft - Wahl"; Neue Besoldungsverordnung 1964, Protokollauszüge, Berichte, Zeitungsberichte, usw., ca. von 1950 bis 1964
+        D: "Arbeitsunfähigkeit von Lehrkräften, Ärztliche Atteste/Arztgeheimnis", Vertrauensärztliche Aufnahmeuntersuchung, ca. von 1944 bis 1953
+        D: "Zentralschulpflege", Protokollauszüge, Zeitungsartikel, 1959
+        D: "Zentralschulpflege", Vortrag von A. Traber, 1951
+        D: "Schulzahnklinik", Berichte, versch. Büchlein, Zeitungsartikel, usw., ca. von 1929 bis 1955
+        D: "Div. Korrespondenz - Körpergrösse u. Gew.", Berichte, Zeitschrift, Zeitungsartikel, usw., ca. von1921 bis 1941
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:4 [ID 4, Dossier, E1, Eltern -, S.2] Schachtel 4 | Von/bis (>= x und <=y)
+        D: "Infektionskrankheiten", Typhus, Scharlach, Bulletin des Eidg. Gesundheitsamt, ca. von 1963 bis 1973
+        D: "Kopfkontrolle", Neues Merkblatt u. alte Akten, Aug.1956
+        D: "Filmerziehung in der Schule", Protokollauszüge, 1963
+        D: "Sexuelle Aufklärung", divers. Schriften, ca. von 1901 bis 1958
+        D: "Jahresbericht", Zürcher Kantonaler Blindenfürsorge-Verein., 1. April 1963 bis 31.März 1964
+        D: "Jahresbericht des Blinden-Leuchtturms Zürich", Anerkannte Spezialstelle für berufliche Eingliederung Blinder, 1962
+        D: "Schulheim für Blinde und Sehschwache Zollikofen", 126. Bericht für das Jahr 1963, 1963
+        D: "Invalidenversicherung-Sonderschulung", diverse Schriften, 1963 bis 1965
+        D: … (11 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:5 [ID 5, Dossier, E1, Eltern -, S.2] Schachtel 5 | Von/bis (>= x und <=y)
+        D: "Korrespondenz etc. betr. sehschwache Schüler", div. Schriften, Zeitungsartikel, Interpellation Wolfermann aug.'58, ca. von 1941 bis 1961
+        D: "Geschossfläche der Schularztämter in m2"
+        D: "Neubau- Parkring", Umzug und Erweiterung Parkring, Jan. 1963
+        D: "Adressliste Schulärztlichen Dienst betreffend", Neuausgabe, März 1972
+        D: "Schaffung der neuen Schularztstelle für Privatschulen", 1967
+        D: "Anschaffungen", Filialamt Waidberg, ca. von 1933 bis 1982
+        D: "Schaffung einer neuen Stelle", Schulpsychiater Parkring, 1966
+        D: "Anschaffungen", Filialamt Uto- Sihlhölzli, ca. von 1932 bis 1958
+        D: … (17 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:6 [ID 6, Dossier, E1, Eltern -, S.3] Schachtel 6 | Von/bis (>= x und <=y)
+        D: "Übertretung v. Verkehrsvorschriften durch Schüler", Verkehrsunterricht, 1962
+        D: "Gutachten über Schuleintritt, Beginn des. Schuljahres, Schulaustritt U. Dauer d. Schulpflicht", Manuskript und Material, Mai 1935
+        D: "Sicherung der Schulwege", Protokollauszüge
+        D: "Freiw. Blockflötenunterricht u. Gitarrenunterricht", Jugendmusikschule, ca. von 1948 bis 1972
+        D: "Vereinstätigkeit d. Schule", Mitwirkung v. Schülern bei Sammelaktionen, ca. von 1937 bis 1972
+        D: "Altstoffsammlung durch. Kinder/Gutacht.41", "Körblivertragen", 1941 bis 11947
+        D: "Kindermisshandlungen, sex. Missbrauch etc.", Massnahmen für rechtzeitigen Schulschluss, ca. von 1938 bis 1958
+        D: "Vorschriften über die Besetzung v. Stellen u. die Beförderung in der. Stadtverwaltung", Stadtrat von Zürich, 24. Feb. 1972
+        D: … (13 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:7 [ID 7, Dossier, E1, Eltern -, S.3] Schachtel 7 | Von/bis (>= x und <=y)
+        D: "Div. Schriften"
+        D: "Protokollauszüge über Besoldungserhöhungen", ca. von 1952 bis 1966
+        D: "Div. Schriften zur Besoldung", Besoldungsskalen, usw., 1962
+        D: "Besoldungs- Verordnungen", Div. Schriften, 1946 bis 1962
+        D: "Erneuerungswahlen des städt. Personals", Protokollauszüge, Vorschriften, usw., ca. von 1942 bis1981
+        D: "Besoldungs-Revision", 1963
+        D: "Besoldungsverordnung- Eingaben etc.", Protokollauszüge, Verordnungen, usw., ca. von 1906 bis 1970
+        D: "Ämter-Anforderungen-Vergleich", Schularzt-Gehilfin, Nov. 1960
+        D: … (10 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:8 [ID 8, Dossier, E1, Eltern -, S.4] Schachtel 8 | Von/bis (>= x und <=y)
+        D: "Der Schulärztliche Dienst in der Stadt Zürich", ca. von 1927 bis 1934
+        D: "Organisation/Reorganisation", Versch. Handschriften, 1929/30
+        D: "Alte Protokolle", Schulärztekollegium, ca. von 1937 bis 1943
+        D: "Schulärztl. Dienste-Allgemeines", Div. Schriften, ca. von 1909 bis 1955
+        D: "Arbeitsverteilung der Schulärzte", versch. Pläne, ca. von 1930 bis 1967
+        D: "Beschwerden von Privatärzten", div. Schriften, 1948/50
+        D: "Schulgesundheitskarten", Arztgeheimnis, 1945
+        D: "Tag der offenen Tür", div. Schriften, 1965
+        D: … (13 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:9 [ID 9, Dossier, E1, Eltern -, S.4] Schachtel 9 | Von/bis (>= x und <=y)
+        D: "V./ betr. d. Disp. vom Unterrichte", 1934
+        D: "V./ über das Anstellungsverhältnis u. die Besoldung der Hortleiterinnen", 1949
+        D: "V./ über die Besoldung der Abwärte"
+        D: "V./ über den schulzahnärztl. Dienst", 1934
+        D: "V./betr. das Volksschulwesen", 1900
+        D: "Gesetzliche Bestimmungen über die Schulgesundheitspflege", ca. von 1928 bis 1943
+        D: "Verordnung betr. die Schulgesundheitspflege", 1921
+        D: "Sammlung der Gesetze u. Verordnungen über das. Volksschulwesen und die hauswirtschaftliche Fortbildungsschule", Kanton Zürich, 1939
+        D: … (11 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:10 [ID 10, Dossier, E1, Eltern -, S.4] Schachtel 10 | Von/bis (>= x und <=y)
+        D: "Legasthenie", Div. Schriften, ca. von 1950 bis 1960
+        D: "Das Problem der Linkshänder", Psychologische Schriftenreihe, 1952
+        D: "Pro Infirmis", Legasthenie, 1953/54
+        D: "Ambidextrie", Travaux de la Faculté Internationale de Pédologie, 1912
+        D: "Heilpädagogische Hilfsschule", Diplomarbeit u.a., 1959 bis 1953
+        D: "Heilpädagogische Hilfsschule", Div. Schriften, ca. von 1951 bis 1972
+        D: "Spezialklasse- Allgemeines", Div. Schriften, ca. von 1930 bis 1964
+        D: "Zürcher Webstube für Mädchen", Mitteilungsblätter, div. Schriften, Ca von 1961 bis 1964
+        D: … (11 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:11 [ID 11, Dossier, E1, Eltern -, S.5] Schachtel 11 | Von/bis (>= x und <=y)
+        D: "Heimschulen", Div. Schriften, 1964/65
+        D: "Abstriche auf hämolytische Streptokokken", Div. Schriften, ca. von 1959 bis 1965
+        D: "Kinderheim Urnäsch", Umwandlung in ein Übergangsheim für geistig behinderte Kinder, 1964
+        D: "Kinderheim städt.", Allgemeines, ca. von 1931 bis 1969
+        D: "Diverse Heime", Div. Schriften, 1964
+        D: "Rivapiana", Div. Schriften, ca. von 1934 bis 1965
+        D: "Belegung der städt. Kinderheime", Einweisungsgründe-Zusammenstellung, 1960 bis 1966
+        D: "Schulheim Cosoja", Schreiben an den Schulvorstand, Jan. 1947
+        D: … (23 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:12 [ID 12, Dossier, E1, Eltern -, S.5] Schachtel 12 | Von/bis (>= x und <=y)
+        D: "Schularzt u. Anormalenhilfe", Vortrag, 1946
+        D: "Glutaminsäure", Div. Schriften, 1950 bis 1953
+        D: "Fragen der Schulreife", Referate, 1963 bis 1966
+        D: "Erhebung 1957 über: Anzahl der Schüler u. der Repetenten in der Volksschule nach Schuleintrittsalter", Div. Schriften, 1957
+        D: "Volksschule- Unterrichtsdispens", Protokollauszüge, 1955/56
+        D: "Verordnung über die Stundenpläne", Verordnungen u. Protokollauszüge, ca. von 1940 bis 1964
+        D: "Stundenplankonferenz", Div. Schreiben, 1960
+        D: "Dispensation- Promotion", Entlassungen aus der Schulpflicht, ca. von 1934 bis 1956
+        D: … (13 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:13 [ID 13, Dossier, E1, Eltern -, S.6] Schachtel 13 | Von/bis (>= x und <=y)
+        D: "Diverse Schriften", ca. von 1933 bis 1947
+        D: "Tbc. und Privatschulen", Div. Schriften, ca. von 1932 bis 1941
+        D: "Jahresbericht 1964", Schwerhörigen- Verein Zürich, 1964
+        D: "Hörgeschädigte Kinder", 1/64, Bärbel, 1964
+        D: "Hörgeschädigte Kinder", 2/64, Frank, 1964
+        D: "Reihenaudiologische Untersuchungen durch Reintonaudiometrie bei Zürcher Schulkindern", Inauguraldissertation, 1961
+        D: "Die Zunge", Ihre Funktion und Bedeutung in Sprachheilpädagogischer Hinsicht, 1955
+        D: "Sonderkindergärten", Sprachheil- Unterricht, 1965 bis 1970
+        D: … (19 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:14 [ID 14, Dossier, E1, Eltern -, S.6] Schachtel 14 | Von/bis (>= x und <=y)
+        D: "Erweiterung d. ärztl.- psycholog. Beratungsstelle", Div. Schriften, 1959/60
+        D: "Beobachtungsstation für Kinder mit Anpassungsschwierigkeiten", Div. Schriften, 1953 bis 1955
+        D: "Beobachtungsklassen", Div. Schriften, ca. von 1926 bis 1954
+        D: "Neuregelung d. Arbeitsweise d. ärztl.-psycholog.Beratungsstelle", Mai 1957
+        D: "Interpellation Hch. Frey- 1951", Aerztl.-psycholog. Beratungsstelle, 1951
+        D: "Psycholog.-pädagog. Beratung an der Volksschule u. Kindergarten", Div. Schriften, ca. von 1932 bis 1946
+        D: "Schaffung der ärztl.- psycholog. Beratungsstelle ", Personal, ca. von 1942 bis 1944
+        D: "Erfahrungen mit Intelligenzprüfungen", Sonderabdruck aus der Zeitschrift für Kinderpsychiatrie", 1946
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:15 [ID 15, Dossier, E1, Eltern -, S.7] Schachtel 15 | Von/bis (>= x und <=y)
+        D: "Gedanken zur Entwicklung unseres Schulturnens", 100 Jahre Schweizerischer Turnlehrerverein, 1958
+        D: "Schule und Haltungsfehler", von Dr. Eugen Matthias, 1925
+        D: "Die Kurse für Schüler mit Haltungsanomalien", Sonderturnen in Basel, 1924-1937
+        D: "Amtliches Schulblatt", Basel-Stadt, 1937
+        D: "Merkblatt Nr. 2", Sonderabdruck aus Sport und Kreislauf, 1946
+        D: "Turnen- Allgemeines", Div. Schriften, ca. von 1927 bis 1964
+        D: "Haltungsturnen", Div. Schriften, ca. von 1933 bis 1953
+        D: "Mädchenturnen (Menstruation)", Div. Schreiben, ca. von 1934 bis 1963
+        D: … (18 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:16 [ID 16, Dossier, E1, Eltern -, S.7] Schachtel 16 | Von/bis (>= x und <=y)
+        D: "Schulmilch - Pausenapfel", Div. Schriften zu Ernährungs-+ Vitaminfragen, ca. von 1953 bis 1965
+        D: "Schulmilch", "Trink Milch du bleibst gesund!", 1953
+        D: "Schulmilch - Vitamin D.", Div. Schriften, ca. von 1945 bis 1962
+        D: "Ernährung der Hortkinder durch die städt. Volksküche", Div. Schriften, 1934 bis 1948
+        D: "Kriegsernährung", Div. Schriften, ca. von 1937 bis 1945
+        D: "Streifung durch das Zürcher Schulwesen", Div. Schriften, 1933 bis 1938
+        D: "Ferienfragen", Div. Korrespondenz, 1959 bis 1964
+        D: "Ferienfragen", Kommission für Ferienfragen: Verfügung SV Protokoll, ca. von 1963 bis 1967
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:17 [ID 17, Dossier, E1, Eltern -, S.7] Schachtel 17 | Von/bis (>= x und <=y)
+        D: "Schulärztetagung 1985 Luzern"
+        D: "Gesundheitserziehung am Beispiel der Suchtprophylaxe", Vierte Fortbildungsveranstaltung für Schulärzte, 12. Sept. 1985
+        D: "Schulärztetagung in Bern 1987"
+        D: "Budgetaufstellung der 6.Schulärztefortbildung", 1987
+        D: "Auswertung der Fortbildungstagung 1987"
+        D: "Verletzliche Familien", Div. Schriften, 1987
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:18 [ID 18, Dossier, E1, Eltern -, S.7] Schachtel 18 | Genau (=)
+        D: "Schulärztetagung 1983 Zürich"
+        D: "Schweizerische Gesellschaft für Sozial- und Präventivmedizin", Referate, 1983
+        D: "Fortbildungstagung für Schulärzte 22. Sept. 1983", Div. Schreiben
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:19 [ID 19, Dossier, E1, Eltern -, S.8] Schachtel 19 | Von/bis (>= x und <=y)
+        D: "Kinder- Audiologie", 2. Internat. Kurs Groningen, 13- 16.6.1961
+        D: "Sozialmedizinische Arbeiten aus der DDR", Div. Schriften, 1954 bis 1961
+        D: "Mental health section", Royal national foundation, 1959
+        D: "Der Schulturngarten", Sonderdruck aus "Gesundheitserziehung von A-Z", 1962
+        D: "Biologie der menschlichen Lebensführung", Unterrichtsrhytmus
+        D: "Bildung und Erziehung", Monatsschrift für Pädagogik, 1962
+        D: "Der Landarzt", Zeitschrift für alle allgemein praktizierenden Ärzte, 1962
+        D: "Die berufsbildende Schule, 1962
+        D: … (15 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:20 [ID 20, Dossier, E1, Eltern -, S.8] "Schweizerische Gesellschaft für Sozial- und Präventivmedizin", Fachgruppe "Schulärzte", 27. Sept.1984 Lausanne | Genau (=)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+NEU  V.H.c.107.:21 [ID 21, Dossier, E1, Eltern -, S.8] Schachtel 21 | Von/bis (>= x und <=y)
+        D: "Augenuntersuchungen", Div. Schriften, ca. von 1917 bis 1933
+        D: "Anfrage an Ohrenärzte betr. Audiometeruntersuchungen", Div. Schriften, ca. von 1946 bis 1964
+        D: "Thorax- Aufnahmen", Div. Schriften, ca. von 1967 bis 1972
+        D: "Korrespond. - Honorar", Div. Schriften, 1944/45
+        D: "Augenuntersuchungen durch die Universitäts- Augenklinik", Div. Schriften, 1963 bis 1965
+        D: "Beiträge an Schülerbrillen -Einführung", Div. Schriften, 1946 bis 1975
+        D: "Freiluftschule: Uetliberg/Zürichberg/Rivapiana, Div. Schriften, 1930 bis1942
+        D: "Freiluftschule- Zürichberg/ Rivapiana, Div. Schriften, 1943 bis 1950
+        D: … (11 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:22 [ID 22, Dossier, E1, Eltern -, S.8] Schachtel 22 | Von/bis (>= x und <=y)
+        D: "Freiluftsch. Zürichberg - Calorienberechnungen", Div. Schriften
+        D: "Freiluftsch. - Korrespondenz/Beiträge", Div. Schriften, 1941 bis 1953
+        D: "Ehem. Freiluftsch. Uetliberg ", Div. Schriften, 1932 bis 1941
+        D: "Rivapiana (Freil' schule)", Div. Schriften, 1940 bis 1965
+        D: "Freiluftsch. Ringlikon", Div. Schriften, 1927 bis 1959
+        D: "Überwindung Gesundheitliche Jugendnot durch die Freiluftschule", Heftreihe für Freilufterziehung, 1948
+        D: "Freilufterziehung in Deutschland", Zeitschrift des Internat. Komitees für. Freilufterziehung, 1942
+        D: "Gesundes Schulleben", Anregung für eine planmässige wirksame Gesundheitspflege u.- Erziehung in der Schule, 1957
+        D: … (18 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:23 [ID 23, Dossier, E1, Eltern -, S.9] Schachtel 23 | Von/bis (>= x und <=y)
+        D: "Verschiedene Artikel u. Arbeiten Tbc. u. Schule", Alte Tbc- Korrespondenz u. frühere Tbc- Fälle, ca. 1932 bis 1947
+        D: "Studie über die Tätigkeit des Schularztes im Dienste der Tbc- Bekämpfung", Soz. Frauenschule, 1930
+        D: "Das Problem der Tuberkulose- Prophylaxe in den Skandinavischen Ländern und in der Schweiz", 1950
+        D: "Über Zwillingstuberkulose", Untersuchungen an 46 Paaren, 1938
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:24 [ID 24, Dossier, E1, Eltern -, S.9] Schachtel 24 | Von/bis (>= x und <=y)
+        D: "Gesellsch. Schw. Schulärzte", Mitgliederverzeichnisse, 1962/64
+        D: "Haupt- u. Nebenamtliche Schulärzte verschiedener Kantone", Listen nach Kantonen, 1963
+        D: "Schweiz. Schulärzte- Gesellschaft", Protokolle, 1952 bis 1957
+        D: "Schweiz Schulärzte", Jahresbericht, 1939/ 1948
+        D: "Schulärzte- Kommission", Organisation etc., 1946 bis 1961
+        D: "Belastungsfrage d. Schüler- Thesen", Versch. Beiträge zur Belastungsfrage d. Schüler, 1948/50
+        D: "Schweiz. Schulärzte- Kommission", Protokolle, 190 bis 1957
+        D: "Erster kantonaler Schulärztetag", Sonderdruck aus "Gesundheit u. Wohlfahrt", 1947
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:25 [ID 25, Dossier, E1, Eltern -, S.9] Schachtel 25 | 
+        D: "Schulhäuser", Raumprogramme (historisch), Luftschutz in den Schulen (historisch)
+        D: "Historisch", Kongresse und Studienreisen
+        D: "Historisch", Ältere Arbeiten an Zürcher Schulkindern
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  V.H.c.107.:26 [ID 26, Dossier, E1, Eltern -, S.9] Schachtel 26 | Von/bis (>= x und <=y)
+        D: "Separata"
+        D: "Wesen und Therapie der Lutschgewohnheit", Buchdruckerei Berichthaus, Zürich 1938 -, Versch. Zeitschriften zur Schule und Elternhaus
+        D: "Raucher- Merkblatt", An die Schweiz. Schüler u. Lehrer; Gesellsch. Schweiz. Schulärzte, 1953
+        D: "Vom Rauchen und anderen Süchten, Dr. A. von Orelli", Gesundheit u. Wohlfahrt, 1955
+        D: "Probleme in der Berufsbildung", Dr. M. Stutz
+        D: "Jugendrotkreuz- Unfallverhütung im Skikurs", Dr. Bodmer, 1960
+        D: , Versch. Zeitschriften
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:27 [ID 27, Dossier, E1, Eltern -, S.10] "Polio", Allgemeines | Von/bis (>= x und <=y)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+NEU  V.H.c.107.:28 [ID 28, Dossier, E1, Eltern -, S.10] "Polio" | Von/bis (>= x und <=y)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+NEU  V.H.c.107.:29 [ID 29, Dossier, E1, Eltern -, S.10] Schachtel 29 | Von/bis (>= x und <=y)
+        D: "Tuberkulose", Verordnungen u. Gesetzte, Beiträge
+        D: "Jahresberichte"
+        D: "Abrechnungen", betr. Tuberkulose- Beitrag, 1950- 1953
+        D: "Tuberkulose", Gesetzte u. Verordnungen, ca. von 1925 bis 1951
+        D: "BCG", Div. Schriften, ca. von 1952 bis 1965
+        D: "Thesen zur BCG- Vaccination", 1949
+        D: "Einführung der BCG- Impfung in Schulen", Div. Schriften, 1952- 1957
+        D: "Erweiterung- Reorganisation- Eingemeindung 1933", Div. Schriften, 1933
+        D: … (12 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:30 [ID 30, Dossier, E1, Eltern -, S.10] Schachtel 30 | Von/bis (>= x und <=y)
+        D: "Protokolle", Versch. Beiträge u. Protokolle, 1948 - 1951
+        D: "Meerkolonien"
+        D: "Meerkolonie; Rimini, Cervia, Igea Marina", Statistiken u. andere Schriften, 1956 - 1962
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:31 [ID 31, Dossier, E1, Eltern -, S.10] Schachtel 31 | Von/bis (>= x und <=y)
+        D: "Villaggio die Ragazzi de Varrezze", Div. Schriften, 1948 - 1953
+        D: "Kolonie Rimini", Div. Schriften, 1951 - 1958
+        D: "Meerkolonie - Heim "Les Mouettes", Div. Schriften, 1953 - 1956
+        D: "Meerkolonie - Allgemein", Div. Schriften, 1934 - 1962
+        D: "Erholungs.Stat. a./Meer-Varezze", Freiluftschulkongress, 1953
+        D: "Infektionskrankheiten Schuljahr 1934/35", Statistiken
+        D: "Bretagne, Fance"
+        D: "Infektionskrankheiten"
+        D: … (11 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:32 [ID 32, Dossier, E1, Eltern -, S.10] Schachtel 32 | Von/bis (>= x und <=y)
+        D: "Grippe - Epidemie", Div. Schriften, 1957
+        D: "Infektionskrankheiten - Grippe", Div. Schriften, 1920 - 1933
+        D: "Infektionskrankheiten- Scharlach", Div. Schriften, 1948
+        D: "Diphtherie", Div. Schriften, 1930 - 1957
+        D: "Anfrage betr. Schuleinstellung bei Scharlach der Schweiz. Gesandtschaft in Santiago/Chile", 1962
+        D: "Grippe, Masern, Scharlach", Div. Schriften, 1939
+        D: "Infektionskrankheiten - Allgemeines", Div. Schriften, 1930 - 1940
+        D: "Hepatitis epidemica", Div. Schriften, 1942 - 1948
+        D: … (15 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:33 [ID 33, Dossier, E1, Eltern -, S.11] Schachtel 33 | Von/bis (>= x und <=y)
+        D: "Separata"
+        D: "Begutachtung div. Schulhäuser u. Räume", Div. Schriften, 1930 - 1959
+        D: "Schulmobiliar", Div. Schriften, 1932 - 1956
+        D: "Tragbahren in Schulhäusern", Div. Schriften, 1960
+        D: "Schulhausbauten", Fensterkonstruktion, 1934
+        D: "Handwaschgelegenheiten u. Closetpapier in Schulhäusern", 1951
+        D: "Separata"
+        D: "Zwischenmalzeit i/ Schule", 1953
+        D: … (24 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:34 [ID 34, Dossier, E1, Eltern -, S.12] Schachtel 34 | Von/bis (>= x und <=y)
+        D: "Ärztl. Betreuung nachschulpfl. Jugendlicher", Div. Schriften, 1939/46
+        D: "Gewerbeschule, Berufskrankheiten, Hygiene-Unterricht", Div. Schriften, 1936 - 1947
+        D: "Gewerbeschule - schulärztl. Untersuchungen", Div. Schriften, 1929 - 1961
+        D: "Separata"
+        D: "Ergebnisse der schulärztlichen Tätigkeit in der Stadt Zürich", Statistik der Stadt Zürich, 1894 bis 1912
+        D: "Die Nebenbeschäftigung der Volksschüler in der Stadt Zürich", Referate, 1922
+        D: "Volksgesundheit", Zeitschrift für soziale Hygiene, 1929
+        D: "Die Organisation des schulärztlichen Dienstes u. die Ergebnisse der Reihenuntersuchungen der Schulkinder in der Stadt Zürich", 1938
+        D: … (17 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:35 [ID 35, Dossier, E1, Eltern -, S.12] Schachtel 35 | Von/bis (>= x und <=y)
+        D: "Pflege der Körperhaltung beim Schulkind", Schulamt d. Stadt Zürich, 1957
+        D: "Klinefelter- Syndrom", Sonderabdruck, 1958
+        D: "Bericht über den 5.Internat. Kongress für Schulbaufragen und Freilufterziehung", Sonderabdruck, 1954
+        D: "Alphabetisches Verzeichnis aller Kinder mit diagnostisch wichtigen Befunden", 1938
+        D: "Publikationen des Berner- Schularztes", 1922-1929
+        D: "Separata"
+        D: "Algerier- Kinder", Untersuchung, 1963
+        D: "Zum Ausflippen...", Das Drogenproblem- eine Herausforderung für unsere Schule, 1979
+        D: … (13 Zeilen)
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+NEU  V.H.c.107.:36 [ID 36, Dossier, E1, Eltern -, S.13] Schachtel 36 | Von/bis (>= x und <=y)
+        D: "Infektionskrankheiten- Schulausschluss", Verordnungen, 1960/66
+        D: „Schule und Haltungsfehler“ 1925
+        H: Signatur aus der Nummer der Schachtel gebildet (Findmittel ohne Signaturen) – bitte prüfen.
+Zeitraum aus den Jahreszahlen im Darin geschätzt.

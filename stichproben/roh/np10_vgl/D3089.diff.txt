@@ -1,0 +1,461 @@
+### D3089: vorher 46 Einheiten, nachher 46 Einheiten
+WEG  VII.197.:X./T2 [ID 46, Dossier, E2, Eltern VII.197.:X., S.13] BIBLIOTHEK, Teil 2 | Von/bis (>= x und <=y)
+        D: "Im dritten Stock" von Wilhelm Mejo o.D. Leipzig "Ungebundenes in gebundener Form" von Sigmar Mehring Leipzig "Madame Dutitre" von Ludwig Makowski Leipzig "Der 
+        D: Gestalt" Herausg. Prof.Dr. Robert Petsch o.D. Leipzig "Clavigo" von Goethe Leipzig "Das Gefängnis" von Roderich Benedix Leipzig "Doktor Wespe" von Roderich Bene
+        D: Verzeichnis zu Schachtel 70
+        D: "Der Männerchor Zürich 1826-1926" von Robert Thomann 1926 Zürich "Geschichte des Sängervereins Harmonie
+        D: Zürich 1841-1921" von Prof. Dr.phil.
+        D: H. Schollenberger 1921 Zürich "Leben und Taten des Lesezirkels Hottingen
+        D: 1882-1907" von H. Bleuler-Waser 1907 Zürich "Hundert Jahre Sängerverein Harmonie
+        D: Zürich 1841-1941" o.D. Zürich "125 Jahre "Alte Sektion" Zürich 1820-1945" 1945 Zürich "20 Jahre Heimatschutztheater Glarus
+        D: … (23 Zeilen)
+NEU  VII.197.:VIII.2./T2 [ID 39, Dossier, E3, Eltern VII.197.:VIII.2., S.12] TEXTBÜCHER (gedruckt) (siehe Detailverzeichnis), Teil 2 | Von/bis (>= x und <=y)
+        D: Gestalt" Herausg. Prof.Dr. Robert Petsch o.D. Leipzig "Clavigo" von Goethe Leipzig "Das Gefängnis" von Roderich Benedix Leipzig "Doktor Wespe" von Roderich Bene
+        H: Darin zu lang für eine Excel-Zelle – auf 2 Teile verteilt (vermutlich eine Tabelle).
+Zeitraum aus den Jahreszahlen im Darin geschätzt.
+GEÄ  VII.197.:I.3.c. [ID 7, Dossier, E3, Eltern VII.197.:I.3., S.4] Sitzungsprotokolle | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '8' => '8-15'
+GEÄ  VII.197.:IV.1. [ID 26, Dossier, E2, Eltern VII.197.:IV., S.9] PROGRAMMZETTEL | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '42' => '42-43'
+GEÄ  VII.197.:VIII. [ID 36, Teilbestand, E1, Eltern -, S.12] ROLLENBÜCHER UND TEXTBÜCHER (siehe nachfolgendes Detailverzeichnis) | Von/bis (>= x und <=y)
+        Entstehungszeitraum: '' => 'Von/bis (>= x und <=y)'
+        von: '' => '1837'
+        bis: '' => '1959'
+        Zeitraum-Quelle: '' => 'Untereinheiten (geschätzt)'
+        Prüfhinweise: 'Kein Zeitraum gefunden (auch nicht in den Untereinheiten).' => 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.'
+GEÄ  VII.197.:VIII.1. [ID 37, Dossier, E2, Eltern VII.197.:VIII., S.12] ROLLENBÜCHER, teils mit Anmerkungen der Schauspieler oder Regisseure, teils handgeschrieben., Schachtel 55 | Von/bis (>= x und <=y)
+        Entstehungszeitraum: '' => 'Von/bis (>= x und <=y)'
+        von: '' => '1873'
+        bis: '' => '1954'
+        [Darin]
+           +"Winkelgässli 7", 1954, Schachtel 55
+           +"E moderni Familie" von Ulrich Farner, Schachtel 55
+           +"De Sidebeck" von Emilie Locher-Werling, Schachtel 55
+           +"D'r Ehregast" von Ulrich Farner, Schachtel 55
+           +"Jugend" von Max Halbe, Schachtel 55
+           +"Die Limmatschäfer" nach Alfred Hartmann, Schachtel 55
+           +"Am Wildseeli" von Leonhard Steiner, Schachtel 55
+           +"Am Sängerfest" von Leonhard Steiner, Schachtel 55
+           +"Edelwyss" von Leonhard Steiner, Schachtel 55
+           +"E praktisches Landchind" von Leonhard Steiner, 1889, Schachtel 55
+           +"Nachberslüt", 1921, Schachtel 55
+           +"Die Frangipani" von Arnold Ott, Schachtel 55
+           +Festspiel zum 20.jährigen Jubiläum des DVZ, 1886, Schachtel 55
+           +Prolog zur Vicari Festvorstellung von Georg
+           +Steiger, 1887, Schachtel 55
+           +Festgruss an die Schweizerische gemeinnützige
+           +Gesellschaft, 1873, Schachtel 55
+           +August Corrodi als Dramatiker, Schachtel 56
+           +"De Herr Docter" von August Corrodi, Schachtel 56
+           +"Wie d' Warret würkt" von August Corrodi, Schachtel 56
+           +Prolog zur Festvorstellung "Wie d'Warret würkt", 1888, Schachtel 56
+           +"De Maler" von August Corrodi, Schachtel 56
+           +"De Ritchnecht" von August Corrodi, Schachtel 56
+           +"Die Alte-n und die Junge" von August Corrodi, Schachtel 56
+           +Doubletten zu den Schachteln 55-56, Schachtel 57
+           +"De Tierbändiger", Schachtel 58
+           +"De Arzt" von E. Zahn (Rollenbuch von E.Hegetschweiler), Schachtel 58
+           +"Schwyzerli" von Friedrich Wyss, Schachtel 58
+           +"s' Tubehus" von Friedrich Wyss, Schachtel 58
+           +"Weihnachtsfee, Puppe und Hampelmann" von Carl Friedrich Wiegand, Schachtel 58
+           +"s' Husrächt" von Herm. Wehrli, 1944, Schachtel 58
+           +"De Dittitolg; es Winterspiel für Chinde" von Traugott Vogel, Schachtel 58
+           +"Ein Segenstag" Pestalozzi-Spiel in einem Aufzug von Traugott Vogel, Schachtel 58
+           +"Johrmärt" von Josef Villiger, 1947, Schachtel 58
+           +"s'Ufgebot", Schachtel 58
+           +"Kabine Nr.10", Schachtel 58
+           +"Der Besuch", Schachtel 58
+           +"Kümmerli" von Max Werner Lenz, Schachtel 58
+           +"Weiberlist", 1944, Schachtel 58
+           +"Du sollst nicht reden", Schachtel 58
+           +"Das Mündel" von Emil Sautter, Schachtel 58
+           +"E schweri Stund" von Martha Ringier, Schachtel 58
+           +"St. Galler Spiel von der Kindheit Jesu"
+           +13. Jahrh. bearbeitet von Hans Reinhart, Schachtel 58
+           +"De Messiassänger z'Züri" von Emilie Locher-Werling, Schachtel 58
+           +"Einst und jetzt" von Branislaw Nusic, Schachtel 58
+           +"Claire und der Zwilling" von Jacques Mairens, 1947, Schachtel 58
+           +"Luftschlösser", Schachtel 58
+           +"Die Botschaft", Schachtel 58
+           +"Die neidische Chlefe", 1944, Schachtel 58
+           +"Alt und Jung im S.A.C.", Schachtel 58
+           +"Die Fessellosen", Schachtel 58
+           +"So entstehen die Lügen", Schachtel 58
+           +"Zwei Frauen", Schachtel 58
+           +"Bündnerblut" von Herm. Tanner, Schachtel 58
+           +"Treten! Treten!" Ein Hörspiel aus der Velozeit 1941, Schachtel 58
+           +"Fräulein Yvette", Schachtel 58
+           +"Der gute Chauffeur", Schachtel 58
+           +"Der Hund im Hirn" von Max W. Lenz, Schachtel 58
+           +"Ich", Schachtel 58
+           +"De Wittlig Benz", Schachtel 58
+           +"Falsch und Recht", Schachtel 58
+           +"Spionage", Schachtel 58
+           +"Wie 's Hans Heiggels Chinde ihre böse
+           +Stüfmuetter ab chönnd", Schachtel 58
+           +"Ein Frühlingsfest" von Leonhard Steiner, Schachtel 58
+           +"Am Sängerfest" von Leonhard Steiner, Schachtel 58
+           +"S' Notstandsbähnli" von Jakob Stebler, Schachtel 58
+           +"Anna Matter" von Emil Sautter, Schachtel 58
+           +"Familienpflichten" von Julia Niggli, Schachtel 58
+           +"Weinlaune" von Walter Marti, Schachtel 58
+           +"Psyche A.G. Lebensberatung", Schachtel 58
+           +Doubletten zu Schachtel 58, Schachtel 59
+           +"Ein Stündchen in der Schule" bearbeitet von Emilie Locher-Werling, Schachtel 60
+           +"Es Sächsilüüte" von Emilie Locher-Werling, Schachtel 60
+           +"Der Schellenkönig" von M. Lienert, 1908, Schachtel 60
+           +"Interview" von Max Werner Lenz, Schachtel 60
+           +"Stiefel contra Stiefel. Eines Schusters
+           +Kampf und Sieg" von Josef Kopta, Schachtel 60
+           +"Ende gut, alles gut" von Alfred Huggenberger, 1918, Schachtel 60
+           +"Das Neinwort. Scene aus dem Grenzwachdienst" von Alfred Huggenberger, Schachtel 60
+           +"Rösly!" Schweizerische Singspiel-Operette von Fritz Hirzel, Schachtel 60
+           +"Es war ein Schatten" von Max Hansen, 1948, Schachtel 60
+           +"Marie und Robert" von Paul Haller, Schachtel 60
+           +"Der Vatter" von Nold Halder, Schachtel 60
+           +"Die neui Firma" von S.F. Gyr, Schachtel 60
+           +"Frymann" von Werner Johannes Guggenheim, Schachtel 60
+           +"S' Testament" von Hans Guggenbühl (vom Autor signiertes Exemplar), Schachtel 60
+           +"D' Reklametafel" von Hans Guggenbühl, Schachtel 60
+           +"De Wunder-Dokter" von Hans Guggenbühl, Schachtel 60
+           +"Ehrlich oder Morel?" von T.J. Felix, Schachtel 60
+           +"Polyphone Zürcher Revue oder Der Zürcher
+           +Grossstadtpolyp" von Paul Altheer, Robert
+           +Faesi, S.D. Steinberg, Theo Schall, Schachtel 60
+           +"Donatello" von Emanuel von Bodman, Schachtel 60
+           +"Anno vierzäh. E Chronik us de Gränzbsetzig" von Robert Epprecht, 1929, Schachtel 60
+           +"Wo ist de Zapfe?" von Ernst Eschmann, Schachtel 60
+           +"Dichternöte oder Wahrhaftige Tragikomödia und grausliches Martyrium der Schweizerischen
+           +Schriftsteller. Ein Kasperlispiel" von Robert Faesi, Schachtel 60
+           +"De Herr Major" von Ulrich Farner, Schachtel 60
+           +"Expertise" von F.J. Felix, Schachtel 60
+           +"Popularität" von T.J. Felix, Schachtel 60
+           +"Der Soldat" von Franco Fortini, Schachtel 60
+           +"Heiri Gagg uf Freiersfüssen" von K. Freuler und H. Jenny-Fehr, Schachtel 60
+           +"Du liebst ein Auto..." von Albert Ganzert, Schachtel 60
+           +"S'Gschpängst" von A. Glettyse, Schachtel 60
+           +"En unfehlbars Schönheitsmittel" von B. Grützner-Zaugg, 1916, Schachtel 60
+           +"Nu immer s' Militär" von B. Grützner-Zaugg, 1916, Schachtel 60
+           +"En asteckendi Gsundheit" von Jakob Stebler, Schachtel 60
+           +"Es regnet Gold!" von Jakob Stebler, Schachtel 60
+           +"Der Mercedes" von Jakob Stebler, Schachtel 60
+           +"De Gemperli cha nüt derfür" von Jakob Stebler, Schachtel 60
+           +"Zwingli Prolog" (Entwürfe) von Georg Steiger, Schachtel 60
+           +"Prolog zu der Zwingli-Fest Vorstellung des D.V.Z." von Georg Steiger, 1885, Schachtel 60
+           +"Festspiel zum 50jährigen Jubiläum des Männerchor Zürich, 1876, Schachtel 60
+           +"Niemandsland" von Thierry Maulnier, o.D., Schachtel 60
+           +"Einbrecher", Schachtel 60
+           +"Der Koffer" von Otto Berger, Schachtel 60
+           +"Schwester bliib bi dine Leischte", Schachtel 60
+           +"Die Dame mit dem Hund" von Anna Roner, Schachtel 60
+           +Doubletten zu Schachtel 60, Schachtel 61
+        Zeitraum-Quelle: '' => 'Darin (geschätzt)'
+        [Prüfhinweise]
+           -
+           +Steht im Findmittel unter der Überschrift der Detailverzeichnisse am Schluss: «Dramatischer Verein Zürich Detailverzeichnisse zu den Rollenbüchern, Textbüchern
+           +Einträge aus den Detailverzeichnissen am Schluss über die Schachtelnummer zugeordnet, bitte prüfen.
+           +Zeitraum aus den Jahreszahlen im Darin geschätzt.
+GEÄ  VII.197.:VIII.2. [ID 38, Serie, E2, Eltern VII.197.:VIII., S.12] TEXTBÜCHER (gedruckt) (siehe Detailverzeichnis) | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Serie'
+        Entstehungszeitraum: '' => 'Von/bis (>= x und <=y)'
+        von: '' => '1837'
+        bis: '' => '1959'
+        [Darin]
+           +"Nimrod" von Gottfried Kinkel 1857 Hannover "Die Eidgenossen" von Adolf Wisbrandt 1896 Stuttgart
+           +"Der Falke" von Emil Ermatinger 1906 Winterthur "Anna Matter" von Emil Sautter 1924 Aarau
+           +"Der wahre Jakob" von Richard Schneiter 1924 Winterthur "Bruder Räuber" von Werner Morf 1938 Zürich
+           +"Die heilig Hütte" von Werner Morf 1941 Zürich
+           +"De Hannes" von Werner Morf 1937 Zürich
+           +"Der schön Herr Nägeli" von Otto von Greyerz 1910 Bern
+           +"Leonce und Lena/Lenz" von Georg
+           +Büchner o.D. Leipzig "Winternacht" von Karl Friedrich
+           +Wiegand 1920 Leipzig, Zürich "De Ueli uf der Glungge" nach Jeremias
+           +Gotthelf von Hans Marthaler, o.D.
+           +"D'Schildwach Nr.1" von C. Morf 1932 Zürich
+           +"In der Christnacht" von Ida Frohnmeyer 1942 Basel
+           +"E gfreuti Mieterschaft" von Fredy Scheim o.D. Zürich
+           +"De Heiri Benz wott Gmeindrot werde" von Dr. Hans Meyerlein o.D. Elgg "S'Seemüller's Gritli oder s'Stöffel's verunglückti Hüratsgschicht" von Bernhard
+           +Meinicke 1905 Zürich
+           +"Um e Viertelmillion" von Bernhard Meinicke o.D. Zürich
+           +"Die spanische Fliege" von Franz Arnold und Ernst Bach 1924 Leipzig "Dein Reich komme!" von Adolf Maurer o.D. Zürich
+           +"En unfehlbars Schönheitsmittel" von B. Grützner-Zaugg 1917 Zürich "Kindertheater" von B. Grützner-Zaugg 1913 Zürich "Barmhärzigi Samariterinne" von B. Grützne
+           +"E feins Aesse" von B. Grützner-Zaugg 1912 Zürich "D'Frau will uf Bade-n-abe" von B. Grützner-Zaugg 1925 Zürich
+           +"E verdächtigi G'schicht", "En schwere
+           +Tag" von Emilie Locher-Werling o.D. Aarau
+           +"Die Festseuche-Kommission auf der Jungfrau" von Richard Schneiter 1927 Winterthur "De Humorischt" von Paul Appenzeller o.D. Zürich
+           +"Die Schlacht bei St.Jakob an der Birs" von Dr.August Bernoulli 1892 Basel
+           +"Die Yfersüchtige" von Richard Schneiter 1942 Elgg
+           +"Das Büchlein vom Eidgenössischen Wettspiel" 1939 Zürich
+           +"Der tugendhafte Glücksritter", "Die frohe
+           +Stadt des Leichtsinns", "Das letzte Menuett" von Jacinto Benavente 1919 München "Doktor Klaus" von Adolph L'Arronge 1926 Berlin "Drunder und drüber" von Jakob 
+           +"De dopplet Heiri" von Jakob Stebler Elgg "Warnung vor dem Hunde" von Jakob Stebler Elgg
+           +"E Schelmebandi" von Jakob Stebler Elgg
+           +"En Chnopf im Nastuech" von Jakob Stebler Elgg "Beibruch im Steibruch" von Jakob Stebler Elgg "Diejenige Dame..." von Jakob Stebler Elgg "Zwänzg Minute Million
+           +"Kei Gäld im Sack" von Jakob Stebler Elgg
+           +"Zimmer z'vermiete" von Jakob Stebler Elgg "De Sündebock" von Jakob Stebler Elgg "En asteckendi Gsundheit" von Jakob Stebler 1935 Elgg "Muratori" von Jakob Ste
+           +"Nachher" von Jakob Stebler Elgg "Haustheater. Eine Auswahl der besten einaktigen Lustspiele, Dorfspiele und Soloszenen für gesellige Kreise und öffentliche Bü
+           +"Dr Schatte" von Ernst Balzli 1927 Aarau "De Zuesatz-Ofe" von Conrad Adolf Angst-Burkhardt 1944 Aarau "De Herr Millionär" von H. Baden 1929 Aarau "Um's Rösi" v
+           +Fehr o.D. Aarau "Notker der Stammler" von Hans Hagenbuch 1923 Singen "Alpenrosen und Edelweiss" von Gottlieb Egli 1896 Grüningen "Michael Kramer" von Gerhart H
+           +"Der Marienmaler" von Konrad Falke 1917 Zürich
+           +"Heil Tell" von Walter Marti 1943 Zürich "Pelleas und Melisande" von Maurice Maeterlinck 1920 Jena "Aglavaine und Selysette" von M. Maeterlinck 1920 Jena "Stil
+           +"I der Sprächstund" von Ernst Eschmann 1905 Zürich "De Herr Heiri" bearbeitet von Ernst Eschmann 1930 Aarau "Im Wirtshus zum Waldrand" von Edi Nielsen und Erns
+           +Gassmann o.D. Elgg
+           +"So vill uf einisch! oder Unvorhergesehenes" von Hermann Wehrli (Mit Widmung des Autors) 1941 Aarau "Der Korse" von Carl Friedrich Wiegand 1909 Frauenfeld "Mar
+           +"Fürio!" von Bernhard Blume 1930 Aarau "Die Zensur" von Frank Wedekind o.D. München "Der Graben" von Theodor Wirz 1925 Luzern "Hans Waldmann" von L.M. Weber 18
+           +Eduard Jacob 1919 München "Der Biberpelz" von Gerhart Hauptmann 1931 Berlin "Die Nacht des Hirten" von Henri von Heiseler 1936 München "Sie Kriegen sich" o.D. 
+           +"St.Maurizius oder der Gehorsam" von Henri
+           +Gheon 1944 Luzern "Das Spiel vom Paracelsus" von Max Geilinger 1938 Zürich, Leipzig "St.Galler Spiel von der Kindheit Jesu" von Hans Reinhart o.D. Zürich "Das 
+           +Bethge o.D. Leipzig "Die Fräulein von Saint-Cyr" von Fritz
+           +Enderlin 1921 Leipzig, Zürich "Der Flüchtling oder entfesselte Dämonen" von Adolf Diethelm 1928 Zürich "Das Urner Spiel vom Wilhelm Tell" von Melchior Dürst (M
+           +Falke 1909 Zürich "Es Sächsilüüte" von Emilie Locher-Werling 1908 Aarau "Ueber unsere Kraft" von Björnstjerne
+           +Bjornson 1900 München "Der heilige Crispin" von Paul Ernst 1913 Berlin "Der Hulla" von Paul Ernst 1912 Berlin "Das Spiel vom grossen Sterben" von Erwin
+           +Brüllmann o.D. Aarau "Frohe Weihnacht!" von David Kundert 1942 Bern
+           +"De Lippestift" von Fridel Lang 1936 Weinfelden "S'Telegramm" von Fridel Lang o.D. Elgg "Arnold von Winkelried" von Theodor
+           +Meyer-Merian 1861 Winterthur "Oeppis Blonds" von K.Freuler und H. Jenny-Fehr o.D. Aarau "De Patient" von K.Freuler und H. Jenny-Fehr 1929 Aarau "Theater" von P
+           +Schweizerische übertragen von H. Bader 1926 Aarau "Heinrich Pestalozzi" von Alfred Wirz o.D. Aarau "Die rote Kapelle" von Max Geilinger (Mit Widmung des Autors
+           +"Wie 's ä cha gah!" von E. Locher-Werling 1921 Aarau "Si ischt scho verseh" von E. Locher-Werling 1907 Aarau "Via Mala" von John Knittel 1937 Zürich "Marie und
+           +Spielberater für 1956/57" o.D. Wetzikon "Z' wyt usenand" von Jakob Stebler o.D. Elgg "De Landvogt vo Gryfesee" nach Gottfried
+           +Keller, dramatisiert von E. Locher-Werling 1914 Aarau "E gfehlts Tuech" von Fridel Lang 1928 Weinfelden "Die Nase" von Jakob Bührer 1914 Bern "Das Volk der Hir
+           +"Hallo! Welle 515!" von Paul Altheer 1925 Zürich "Nachher" von Jakob Stebler Elgg "Der Generalsekretär" von Robert Hall 1957 Frankfurt "Der dritte Haftbefehl" 
+           +Gspäss, Deklamatione, Schnadahüpferl und chlinere Duoscene für fröhlichi Anläss" von Henry Gysler jun. Zürich "S'Vereins-Chränzli" von K. Freuler und H. Jenny-
+           +"E gfreuti Abrächnig" von Kaspar Freuler und H. Jenny-Fehr 1929 Aarau "Am Wahltag oder D'Frau Vize-Amme" von Hans Fleiner 1906 Aarau "Jung und alt" von J.V. Wi
+           +"D'r Schützekönig" von Kaspar Freuler und H. Jenny Fehr o.D. Aarau "Die Marquise von Arcis" von Carl Sternheim 1920 München "Hans Waldmann" von Adolf Vögtli 19
+           +"Manöverlebe" von E. Locher-Werling 1910 Aarau "Wer tuet d'Pfanne-n-ume?" nach einem Gedicht von Fritz Reuter, bearbeitet von E.Locher-Werling 1907 Aarau "Die 
+           +"Diktatur" von Max Gertsch 1935 Zürich "Chloote-New York" von Edi Nielsen o.D. Elgg "S'Ehremitglied" von Edi Nielsen und Ernst Gassmann o.D. Elgg "Aelpler-Chil
+           +"Im dritten Stock" von Wilhelm Mejo o.D. Leipzig "Ungebundenes in gebundener Form" von Sigmar Mehring Leipzig "Madame Dutitre" von Ludwig Makowski Leipzig "Der
+        Schachtel-Nr.: '62' => '62-67'
+        Zeitraum-Quelle: '' => 'Untereinheiten (geschätzt)'
+        [Prüfhinweise]
+           -
+           +Einträge aus den Detailverzeichnissen am Schluss über die Schachtelnummer zugeordnet, bitte prüfen.
+           +Darin zu lang für eine Excel-Zelle – auf 2 Teile verteilt (vermutlich eine Tabelle).
+           +Zeitraum aus geschätzten Zeiträumen der Untereinheiten.
+GEÄ  VII.197.:X. [ID 46, Dossier, E1, Eltern -, S.13] BIBLIOTHEK | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+        von: '1837' => '1866'
+        Entstehungszeitraum, Anm.: '(1866-1956) / 1888-1894 / 1899-1900; Darin: 1837–1956' => '(1866-1956) / 1888-1894 / 1899-1900; Darin: 1866–1956'
+        [Darin]
+           -Doubletten (Verschiedenes), Schachtel 73; Dramatischer Verein Zürich
+           -Detailverzeichnisse zu den Rollenbüchern, Textbüchern und den Büchern der Bibliothek
+           -Die Bücher sind NICHT in alphabetischer Reihenordnung. Falls Sie einen bestimmten Autor suchen, benutzen Sie bitte die Basis-Suchfunktionen.
+           -"Winkelgässli 7", 1954, Schachtel 55
+           -"E moderni Familie" von Ulrich Farner, Schachtel 55
+           -"De Sidebeck" von Emilie Locher-Werling, Schachtel 55
+           -"D'r Ehregast" von Ulrich Farner, Schachtel 55
+           -"Jugend" von Max Halbe, Schachtel 55
+           -"Die Limmatschäfer" nach Alfred Hartmann, Schachtel 55
+           -"Am Wildseeli" von Leonhard Steiner, Schachtel 55
+           -"Am Sängerfest" von Leonhard Steiner, Schachtel 55
+           -"Edelwyss" von Leonhard Steiner, Schachtel 55
+           -"E praktisches Landchind" von Leonhard Steiner, 1889, Schachtel 55
+           -"Nachberslüt", 1921, Schachtel 55
+           -"Die Frangipani" von Arnold Ott, Schachtel 55
+           -Festspiel zum 20.jährigen Jubiläum des DVZ, 1886, Schachtel 55
+           -Prolog zur Vicari Festvorstellung von Georg
+           -Steiger, 1887, Schachtel 55
+           -Festgruss an die Schweizerische gemeinnützige
+           -Gesellschaft, 1873, Schachtel 55
+           -August Corrodi als Dramatiker, Schachtel 56
+           -"De Herr Docter" von August Corrodi, Schachtel 56
+           -"Wie d' Warret würkt" von August Corrodi, Schachtel 56
+           -Prolog zur Festvorstellung "Wie d'Warret würkt", 1888, Schachtel 56
+           -"De Maler" von August Corrodi, Schachtel 56
+           -"De Ritchnecht" von August Corrodi, Schachtel 56
+           -"Die Alte-n und die Junge" von August Corrodi, Schachtel 56
+           -Doubletten zu den Schachteln 55-56, Schachtel 57
+           -"De Tierbändiger", Schachtel 58
+           -"De Arzt" von E. Zahn (Rollenbuch von E.Hegetschweiler), Schachtel 58
+           -"Schwyzerli" von Friedrich Wyss, Schachtel 58
+           -"s' Tubehus" von Friedrich Wyss, Schachtel 58
+           -"Weihnachtsfee, Puppe und Hampelmann" von Carl Friedrich Wiegand, Schachtel 58
+           -"s' Husrächt" von Herm. Wehrli, 1944, Schachtel 58
+           -"De Dittitolg; es Winterspiel für Chinde" von Traugott Vogel, Schachtel 58
+           -"Ein Segenstag" Pestalozzi-Spiel in einem Aufzug von Traugott Vogel, Schachtel 58
+           -"Johrmärt" von Josef Villiger, 1947, Schachtel 58
+           -"s'Ufgebot", Schachtel 58
+           -"Kabine Nr.10", Schachtel 58
+           -"Der Besuch", Schachtel 58
+           -"Kümmerli" von Max Werner Lenz, Schachtel 58
+           -"Weiberlist", 1944, Schachtel 58
+           -"Du sollst nicht reden", Schachtel 58
+           -"Das Mündel" von Emil Sautter, Schachtel 58
+           -"E schweri Stund" von Martha Ringier, Schachtel 58
+           -"St. Galler Spiel von der Kindheit Jesu"
+           -13. Jahrh. bearbeitet von Hans Reinhart, Schachtel 58
+           -"De Messiassänger z'Züri" von Emilie Locher-Werling, Schachtel 58
+           -"Einst und jetzt" von Branislaw Nusic, Schachtel 58
+           -"Claire und der Zwilling" von Jacques Mairens, 1947, Schachtel 58
+           -"Luftschlösser", Schachtel 58
+           -"Die Botschaft", Schachtel 58
+           -"Die neidische Chlefe", 1944, Schachtel 58
+           -"Alt und Jung im S.A.C.", Schachtel 58
+           -"Die Fessellosen", Schachtel 58
+           -"So entstehen die Lügen", Schachtel 58
+           -"Zwei Frauen", Schachtel 58
+           -"Bündnerblut" von Herm. Tanner, Schachtel 58
+           -"Treten! Treten!" Ein Hörspiel aus der Velozeit 1941, Schachtel 58
+           -"Fräulein Yvette", Schachtel 58
+           -"Der gute Chauffeur", Schachtel 58
+           -"Der Hund im Hirn" von Max W. Lenz, Schachtel 58
+           -"Ich", Schachtel 58
+           -"De Wittlig Benz", Schachtel 58
+           -"Falsch und Recht", Schachtel 58
+           -"Spionage", Schachtel 58
+           -"Wie 's Hans Heiggels Chinde ihre böse
+           -Stüfmuetter ab chönnd", Schachtel 58
+           -"Ein Frühlingsfest" von Leonhard Steiner, Schachtel 58
+           -"Am Sängerfest" von Leonhard Steiner, Schachtel 58
+           -"S' Notstandsbähnli" von Jakob Stebler, Schachtel 58
+           -"Anna Matter" von Emil Sautter, Schachtel 58
+           -"Familienpflichten" von Julia Niggli, Schachtel 58
+           -"Weinlaune" von Walter Marti, Schachtel 58
+           -"Psyche A.G. Lebensberatung", Schachtel 58
+           -Doubletten zu Schachtel 58, Schachtel 59
+           -"Ein Stündchen in der Schule" bearbeitet von Emilie Locher-Werling, Schachtel 60
+           -"Es Sächsilüüte" von Emilie Locher-Werling, Schachtel 60
+           -"Der Schellenkönig" von M. Lienert, 1908, Schachtel 60
+           -"Interview" von Max Werner Lenz, Schachtel 60
+           -"Stiefel contra Stiefel. Eines Schusters
+           -Kampf und Sieg" von Josef Kopta, Schachtel 60
+           -"Ende gut, alles gut" von Alfred Huggenberger, 1918, Schachtel 60
+           -"Das Neinwort. Scene aus dem Grenzwachdienst" von Alfred Huggenberger, Schachtel 60
+           -"Rösly!" Schweizerische Singspiel-Operette von Fritz Hirzel, Schachtel 60
+           -"Es war ein Schatten" von Max Hansen, 1948, Schachtel 60
+           -"Marie und Robert" von Paul Haller, Schachtel 60
+           -"Der Vatter" von Nold Halder, Schachtel 60
+           -"Die neui Firma" von S.F. Gyr, Schachtel 60
+           -"Frymann" von Werner Johannes Guggenheim, Schachtel 60
+           -"S' Testament" von Hans Guggenbühl (vom Autor signiertes Exemplar), Schachtel 60
+           -"D' Reklametafel" von Hans Guggenbühl, Schachtel 60
+           -"De Wunder-Dokter" von Hans Guggenbühl, Schachtel 60
+           -"Ehrlich oder Morel?" von T.J. Felix, Schachtel 60
+           -"Polyphone Zürcher Revue oder Der Zürcher
+           -Grossstadtpolyp" von Paul Altheer, Robert
+           -Faesi, S.D. Steinberg, Theo Schall, Schachtel 60
+           -"Donatello" von Emanuel von Bodman, Schachtel 60
+           -"Anno vierzäh. E Chronik us de Gränzbsetzig" von Robert Epprecht, 1929, Schachtel 60
+           -"Wo ist de Zapfe?" von Ernst Eschmann, Schachtel 60
+           -"Dichternöte oder Wahrhaftige Tragikomödia und grausliches Martyrium der Schweizerischen
+           -Schriftsteller. Ein Kasperlispiel" von Robert Faesi, Schachtel 60
+           -"De Herr Major" von Ulrich Farner, Schachtel 60
+           -"Expertise" von F.J. Felix, Schachtel 60
+           -"Popularität" von T.J. Felix, Schachtel 60
+           -"Der Soldat" von Franco Fortini, Schachtel 60
+           -"Heiri Gagg uf Freiersfüssen" von K. Freuler und H. Jenny-Fehr, Schachtel 60
+           -"Du liebst ein Auto..." von Albert Ganzert, Schachtel 60
+           -"S'Gschpängst" von A. Glettyse, Schachtel 60
+           -"En unfehlbars Schönheitsmittel" von B. Grützner-Zaugg, 1916, Schachtel 60
+           -"Nu immer s' Militär" von B. Grützner-Zaugg, 1916, Schachtel 60
+           -"En asteckendi Gsundheit" von Jakob Stebler, Schachtel 60
+           -"Es regnet Gold!" von Jakob Stebler, Schachtel 60
+           -"Der Mercedes" von Jakob Stebler, Schachtel 60
+           -"De Gemperli cha nüt derfür" von Jakob Stebler, Schachtel 60
+           -"Zwingli Prolog" (Entwürfe) von Georg Steiger, Schachtel 60
+           -"Prolog zu der Zwingli-Fest Vorstellung des D.V.Z." von Georg Steiger, 1885, Schachtel 60
+           -"Festspiel zum 50jährigen Jubiläum des Männerchor Zürich, 1876, Schachtel 60
+           -"Niemandsland" von Thierry Maulnier, o.D., Schachtel 60
+           -"Einbrecher", Schachtel 60
+           -"Der Koffer" von Otto Berger, Schachtel 60
+           -"Schwester bliib bi dine Leischte", Schachtel 60
+           -"Die Dame mit dem Hund" von Anna Roner, Schachtel 60
+           -Doubletten zu Schachtel 60, Schachtel 61
+           -"Nimrod" von Gottfried Kinkel 1857 Hannover "Die Eidgenossen" von Adolf Wisbrandt 1896 Stuttgart
+           -"Der Falke" von Emil Ermatinger 1906 Winterthur "Anna Matter" von Emil Sautter 1924 Aarau
+           -"Der wahre Jakob" von Richard Schneiter 1924 Winterthur "Bruder Räuber" von Werner Morf 1938 Zürich
+           -"Die heilig Hütte" von Werner Morf 1941 Zürich
+           -"De Hannes" von Werner Morf 1937 Zürich
+           -"Der schön Herr Nägeli" von Otto von Greyerz 1910 Bern
+           -"Leonce und Lena/Lenz" von Georg
+           -Büchner o.D. Leipzig "Winternacht" von Karl Friedrich
+           -Wiegand 1920 Leipzig, Zürich "De Ueli uf der Glungge" nach Jeremias
+           -Gotthelf von Hans Marthaler, o.D.
+           -"D'Schildwach Nr.1" von C. Morf 1932 Zürich
+           -"In der Christnacht" von Ida Frohnmeyer 1942 Basel
+           -"E gfreuti Mieterschaft" von Fredy Scheim o.D. Zürich
+           -"De Heiri Benz wott Gmeindrot werde" von Dr. Hans Meyerlein o.D. Elgg "S'Seemüller's Gritli oder s'Stöffel's verunglückti Hüratsgschicht" von Bernhard
+           -Meinicke 1905 Zürich
+           -"Um e Viertelmillion" von Bernhard Meinicke o.D. Zürich
+           -"Die spanische Fliege" von Franz Arnold und Ernst Bach 1924 Leipzig
+           -"Dein Reich komme!" von Adolf Maurer o.D. Zürich
+           -"En unfehlbars Schönheitsmittel" von B. Grützner-Zaugg 1917 Zürich "Kindertheater" von B. Grützner-Zaugg 1913 Zürich "Barmhärzigi Samariterinne" von B. Grützne
+           -"E feins Aesse" von B. Grützner-Zaugg 1912 Zürich "D'Frau will uf Bade-n-abe" von B. Grützner-Zaugg 1925 Zürich
+           -"E verdächtigi G'schicht", "En schwere
+           -Tag" von Emilie Locher-Werling o.D. Aarau
+           -"Die Festseuche-Kommission auf der Jungfrau" von Richard Schneiter 1927 Winterthur "De Humorischt" von Paul Appenzeller o.D. Zürich
+           -"Die Schlacht bei St.Jakob an der Birs" von Dr.August Bernoulli 1892 Basel
+           -"Die Yfersüchtige" von Richard Schneiter 1942 Elgg
+           -"Das Büchlein vom Eidgenössischen Wettspiel" 1939 Zürich
+           -"Der tugendhafte Glücksritter", "Die frohe
+           -Stadt des Leichtsinns", "Das letzte Menuett" von Jacinto Benavente 1919 München "Doktor Klaus" von Adolph L'Arronge 1926 Berlin "Drunder und drüber" von Jakob 
+           -"De dopplet Heiri" von Jakob Stebler Elgg "Warnung vor dem Hunde" von Jakob Stebler Elgg
+           -"E Schelmebandi" von Jakob Stebler Elgg
+           -"En Chnopf im Nastuech" von Jakob Stebler Elgg "Beibruch im Steibruch" von Jakob Stebler Elgg "Diejenige Dame..." von Jakob Stebler Elgg
+           -"Zwänzg Minute Millionär" von Jakob Stebler Elgg
+           -"Kei Gäld im Sack" von Jakob Stebler Elgg
+           -"Zimmer z'vermiete" von Jakob Stebler Elgg
+           -"De Sündebock" von Jakob Stebler Elgg
+           -"En asteckendi Gsundheit" von Jakob Stebler 1935 Elgg "Muratori" von Jakob Stebler o.D. Elgg "Opernball 13" von Cäsar von Arx 1932 Zürich "Zwee faux pas" von M
+           -"De Gemperli cha nüt derfür" von Jakob Stebler Elgg (Exemplar von Leo Seidl-Beck mit Adresse)
+           -"Nachher" von Jakob Stebler Elgg "Haustheater. Eine Auswahl der besten einaktigen Lustspiele, Dorfspiele und Soloszenen für gesellige Kreise und öffentliche Bü
+           -"Dr Schatte" von Ernst Balzli 1927 Aarau "De Zuesatz-Ofe" von Conrad Adolf Angst-Burkhardt 1944 Aarau "De Herr Millionär" von H. Baden 1929 Aarau "Um's Rösi" v
+           -Fehr o.D. Aarau "Notker der Stammler" von Hans Hagenbuch 1923 Singen "Alpenrosen und Edelweiss" von Gottlieb Egli 1896 Grüningen "Michael Kramer" von Gerhart H
+           -"Der Marienmaler" von Konrad Falke 1917 Zürich
+           -"Heil Tell" von Walter Marti 1943 Zürich "Pelleas und Melisande" von Maurice Maeterlinck 1920 Jena "Aglavaine und Selysette" von M. Maeterlinck 1920 Jena "Stil
+           -"I der Sprächstund" von Ernst Eschmann 1905 Zürich "De Herr Heiri" bearbeitet von Ernst Eschmann 1930 Aarau "Im Wirtshus zum Waldrand" von Edi Nielsen und Erns
+           -Gassmann o.D. Elgg
+           -"So vill uf einisch! oder Unvorhergesehenes" von Hermann Wehrli (Mit Widmung des Autors) 1941 Aarau "Der Korse" von Carl Friedrich Wiegand 1909 Frauenfeld "Mar
+           -"Fürio!" von Bernhard Blume 1930 Aarau "Die Zensur" von Frank Wedekind o.D. München "Der Graben" von Theodor Wirz 1925 Luzern "Hans Waldmann" von L.M. Weber 18
+           -Eduard Jacob 1919 München "Der Biberpelz" von Gerhart Hauptmann 1931 Berlin "Die Nacht des Hirten" von Henri von Heiseler 1936 München "Sie Kriegen sich" o.D. 
+           -"St.Maurizius oder der Gehorsam" von Henri
+           -Gheon 1944 Luzern "Das Spiel vom Paracelsus" von Max Geilinger 1938 Zürich, Leipzig "St.Galler Spiel von der Kindheit Jesu" von Hans Reinhart o.D. Zürich "Das 
+           -Bethge o.D. Leipzig "Die Fräulein von Saint-Cyr" von Fritz
+           -Enderlin 1921 Leipzig, Zürich "Der Flüchtling oder entfesselte Dämonen" von Adolf Diethelm 1928 Zürich "Das Urner Spiel vom Wilhelm Tell" von Melchior Dürst (M
+           -Falke 1909 Zürich "Es Sächsilüüte" von Emilie Locher-Werling 1908 Aarau "Ueber unsere Kraft" von Björnstjerne
+           -Bjornson 1900 München "Der heilige Crispin" von Paul Ernst 1913 Berlin "Der Hulla" von Paul Ernst 1912 Berlin "Das Spiel vom grossen Sterben" von Erwin
+           -Brüllmann o.D. Aarau "Frohe Weihnacht!" von David Kundert 1942 Bern
+           -"De Lippestift" von Fridel Lang 1936 Weinfelden "S'Telegramm" von Fridel Lang o.D. Elgg "Arnold von Winkelried" von Theodor
+           -Meyer-Merian 1861 Winterthur "Oeppis Blonds" von K.Freuler und H. Jenny-Fehr o.D. Aarau "De Patient" von K.Freuler und H. Jenny-Fehr 1929 Aarau "Theater" von P
+           -Schweizerische übertragen von H. Bader 1926 Aarau "Heinrich Pestalozzi" von Alfred Wirz o.D. Aarau "Die rote Kapelle" von Max Geilinger (Mit Widmung des Autors
+           -"Wie 's ä cha gah!" von E. Locher-Werling 1921 Aarau "Si ischt scho verseh" von E. Locher-Werling 1907 Aarau "Via Mala" von John Knittel 1937 Zürich "Marie und
+           -"E Prob mit Hindernisse" von E. Locher-Werling 1907 Aarau "Im Wartzimmer" von E. Locher-Werling o.D. Aarau "Schweizer Theaterstücke. Ein zuverlässiger
+           -Spielberater für 1956/57" o.D. Wetzikon "Z' wyt usenand" von Jakob Stebler o.D. Elgg
+           -"De Landvogt vo Gryfesee" nach Gottfried
+           -Keller, dramatisiert von E. Locher-Werling 1914 Aarau
+           -"E gfehlts Tuech" von Fridel Lang 1928 Weinfelden "Die Nase" von Jakob Bührer 1914 Bern "Das Volk der Hirten" von Jakob Bührer (Mit Widmung des Autors) 1918 Be
+           -"Hallo! Welle 515!" von Paul Altheer 1925 Zürich "Nachher" von Jakob Stebler Elgg "Der Generalsekretär" von Robert Hall 1957 Frankfurt "Der dritte Haftbefehl" 
+           -"De Gschyder git nohe" von Alfred Huggenberger 1931 Aarau "De Schwizer Deklamator" von Ulrich Farner o.D. Zürich "De Grilletöder. E Sammlig vo urglungene
+           -Gspäss, Deklamatione, Schnadahüpferl und chlinere Duoscene für fröhlichi Anläss" von Henry Gysler jun. Zürich "S'Vereins-Chränzli" von K. Freuler und H. Jenny-
+           -"E gfreuti Abrächnig" von Kaspar Freuler und H. Jenny-Fehr 1929 Aarau "Am Wahltag oder D'Frau Vize-Amme" von Hans Fleiner 1906 Aarau "Jung und alt" von J.V. Wi
+           -"E feins Aesse" von B. Grützner-Zaugg 1912 Zürich "En ereignisvolle Zügeltag oder Standesgemäss" von B. Grützner-Zaugg 1913 Zürich "Kuriert" von B. Grützner-Za
+           -"D'r Schützekönig" von Kaspar Freuler und H. Jenny Fehr o.D. Aarau "Die Marquise von Arcis" von Carl Sternheim 1920 München "Hans Waldmann" von Adolf Vögtli 19
+           -"Manöverlebe" von E. Locher-Werling 1910 Aarau "Wer tuet d'Pfanne-n-ume?" nach einem Gedicht von Fritz Reuter, bearbeitet von E.Locher-Werling 1907 Aarau "Die 
+           -"Diktatur" von Max Gertsch 1935 Zürich "Chloote-New York" von Edi Nielsen o.D. Elgg "S'Ehremitglied" von Edi Nielsen und Ernst Gassmann o.D. Elgg "Aelpler-Chil
+           -"E gförlichi Chranket" von F. Oschwald-Ringier (Mit Widmung des Autors) 1900 Aarau "Es schwärs Warte" von Lisa Wenger o.D. Bern "Dur d'Lesmappe" von Leonhard S
+           -"De Wittlig" von Andreas Zimmermann Aarau "Der selige Florian" von Carl Marx Leipzig "Fraue-Theater" von Ulrich Farner 1912 Zürich "Schweizer Theaterstücke" 19
+           +Doubletten (Verschiedenes), Schachtel 73
+           +BÜCHER DER BIBLIOTHEK DES D.V.Z.
+           +Verzeichnis zu Schachtel 70
+           +"Der Männerchor Zürich 1826-1926" von Robert Thomann 1926 Zürich "Geschichte des Sängervereins Harmonie
+           +Zürich 1841-1921" von Prof. Dr.phil.
+           +H. Schollenberger 1921 Zürich "Leben und Taten des Lesezirkels Hottingen
+           +1882-1907" von H. Bleuler-Waser 1907 Zürich "Hundert Jahre Sängerverein Harmonie
+           +Zürich 1841-1941" o.D. Zürich "125 Jahre "Alte Sektion" Zürich 1820-1945" 1945 Zürich "20 Jahre Heimatschutztheater Glarus
+           +1923-1943" von Melchior Dürst (mit Widmung des Autors) o.D. Glarus "75 Jahre Quodlibet 1918-1933" von W. Steinmann 1934 Basel "Sektion Uto des Schweizer Alpen-
+           +1834-1934" von Hermann Schollenberg (mit Widmung des Autors) 1934 Zürich "Festschrift zur Jahrhundertfeier des Turnvereins "Alte Sektion" Zürich" 1920 Zürich "
+           +Dichter Gottfried Keller und Conrad Ferdinand
+           +Meyer gewidmet; Sechseläuten 19. April 1926 1926 Zürich "Dramatische Szenen für den Unterricht" von Heinrich Oberländer 1911 München "Neue dramatische Solo-Sze
+           +Verzeichnis zu Schachtel 71
+           +"Das fröhliche Buch" von Ferdinand Avenarius 1913 München "Jakob Bosshart. Studien zu seiner Erzählungskunst" von Dr.phil. Jakob Job 1923 Stuttgart "Hausbuch d
+           +Avenarius o.D. München "Balladenbuch" von Ferdinand Avenarius München "En Sunntigmorge-Bummel" von Berta Gerdes-Stirnemann
+           +"Cuore" von Edmondo De Amicis 1914 Bamberg "Moderne Antiken" von Josef Victor Widmann 1912 Frauenfeld "Das Volkstheater in der Schweiz" von F.A. Stocker 1893 A
+           +"Der Geistesarbeiter" Jahrgang 23, Nr.6 1944 Zürich "Das vaterländische Theater" von Oskar Eberle 1928 Basel, Freiburg "Schule und Theater" von Oskar Eberle 19
+           +"Erasmus von Rotterdam" 1865 Winterthur "Die Jungen Ritter vor Sempach" von Henry von Heiseler 1930 Berlin "Heinrich Cramer' s ausgewählte
+           +Gedichte" herausgegeben von der Familie 1876 Zürich "Das Büchlein vom Eidgenössischen
+           +Wettspiel" 1939 Zürich
+           +Verzeichnis zu Schachtel 72 (Grossformat)
+           +"Die Stadt Zürich. Illustrierte Chronik" 1896 Zürich "Zur Geschichte der Kostüme" Bd.I-IV o.D. München
+        Schachtel-Nr.: '55-61, 68-73' => '68-73'
+        [Prüfhinweise]
+           -Darin zu lang für eine Excel-Zelle – auf 2 Teile verteilt (vermutlich eine Tabelle).
+           -Zeitraum weicht vom Inhaltsverzeichnis ab (1866-1956).
+           +

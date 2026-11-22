@@ -1,0 +1,10 @@
+### D1479: vorher 34 Einheiten, nachher 34 Einheiten
+WEG  V.G.a.15.:15/T2 [ID 15, Dossier, E2, Eltern V.G.a.15.:15, S.1] Protokoll der Bausektion II des Stadtrates | Genau (=)
+NEU  V.G.a.15.:14 [ID 14, Dossier, E1, Eltern -, S.1] Protokoll der Bausektion II des Stadtrates | Genau (=)
+        H: Im Findmittel «V.G. a.15.:15» zwischen 13 und 15, die Nummer 15 steht doppelt und 14 fehlt – als 14 gelesen, bitte prüfen.
+GEÄ  V.G.a.15.:15 [ID 15, Dossier, E1, Eltern -, S.1] Protokoll der Bausektion II des Stadtrates | Genau (=)
+        Stufe: 'Serie' => 'Dossier'
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => 'Genau (=)'
+        von: '1910' => '1911'
+        bis: '1911' => ''
+        Prüfhinweise: 'Nummerierung springt: nach 13 folgt 15.' => ''

@@ -1,0 +1,218 @@
+### D1746: vorher 31 Einheiten, nachher 50 Einheiten
+WEG  V.G.c.107.:II.1. [ID 3, Dossier, E2, Eltern V.G.c.107.:II., S.2] Nachtrag zum Gutachten | Von/bis (>= x und <=y)
+        D: Projekt, 1954
+        D: Pläne
+        D: Projekt, 1954, Schachtel 8
+        D: Orientierung über die Erweiterung der Zürcher Bahnanlagen, 1954
+        D: C) Bahnhoferweiterung, 1946, Schachtel 9; Generelles Projekt
+        D: Bahnhoferweiterung, Schachtel 10
+        D: Generelles Projekt
+        D: Pläne, 1946
+        D: … (26 Zeilen)
+WEG  V.G.c.107.:V.i.1. [ID 16, Dossier, E3, Eltern V.G.c.107.:V.i., S.4] Bericht | 
+WEG  V.G.c.107.:V.i.2. [ID 17, Dossier, E3, Eltern V.G.c.107.:V.i., S.4] Pläne | 
+WEG  V.G.c.107.:V.i.3. [ID 18, Dossier, E3, Eltern V.G.c.107.:V.i., S.4] Skizzen | 
+WEG  V.G.c.107.:V.i.4. [ID 19, Dossier, E3, Eltern V.G.c.107.:V.i., S.4] Anhang | 
+WEG  V.G.c.107.:VII.3. [ID 23, Dossier, E2, Eltern V.G.c.107.:VII., S.6] Ergänzungsbericht | Genau (=)
+WEG  V.G.c.107.:VII.4. [ID 24, Dossier, E2, Eltern V.G.c.107.:VII., S.6] Ergänzungsbericht | Von/bis (>= x und <=y)
+        D: Einige Hoch-, Überwasser- und Unterwasserstrassen Vorschlag für die rasche Erstellung einer Schnellverkehrsstrasse in Zürich, Schachtel 82, 1957
+        D: Versuchsanstalt für Wasserbau und Erdbau an der ETH Bericht über die Modellversuche für die Express-Strasse Zürich-Süd
+        D: Band 1 Berichte und Planbeilagen, 1966
+        D: Band 2 Fotobeilagen, 1966
+        D: Bebauungsplan
+        D: Konzept Y und J, 1973
+NEU  V.G.c.107.:II.A. [ID 3, Dossier, E2, Eltern V.G.c.107.:II., S.2] Akten, Protokolle | Von/bis (>= x und <=y)
+        D: Zürcher Bahnhof- und Eisenbahnverkehrsfragen Referate der Konferenz der Generaldirektion und Kreisdirektion III SBB mit dem Regierungsrat des Kantons Zürich und
+        D: Akten, Protokolle, Pläne, 1947, Schachtel 3
+        D: Akten, Protokolle, Pläne, 1948-1950, Schachtel 4
+        D: Akten, Protokolle, Pläne, 1950-1966, Schachtel 5
+NEU  V.G.c.107.:II.B. [ID 4, Dossier, E2, Eltern V.G.c.107.:II., S.2] Gutachten über die Erweiterung der Bahnanlagen im Raume Zürich | Von/bis (>= x und <=y)
+        D: Anlagen
+        D: Pläne
+        D: 1. Nachtrag zum Gutachten, 1951, Schachtel 7
+        D: Projekt, 1954
+        D: Pläne
+        D: Projekt, 1954, Schachtel 8
+        D: Orientierung über die Erweiterung der Zürcher Bahnanlagen, 1954
+NEU  V.G.c.107.:II.C. [ID 5, Dossier, E2, Eltern V.G.c.107.:II., S.2] Bahnhoferweiterung Generelles Projekt | Von/bis (>= x und <=y)
+        D: Bahnhoferweiterung, Schachtel 10
+        D: Generelles Projekt
+        D: Pläne, 1946
+        D: Sondierbohrungen für die 1. Bauetappe, 1948
+        D: Bahnhoferweiterung, 1945-1949, Schachtel 11
+        D: Bahnhof-Neubau Projekt, 1967-1975, Schachtel 12
+        D: Parkdeck Hauptbahnhof, 1974-1980
+        D: Wettbewerb Bahnhof-Überdeckung, 1970-1976, Schachtel 13
+NEU  V.G.c.107.:II.D. [ID 6, Dossier, E2, Eltern V.G.c.107.:II., S.2] Direkte Einführung der rechtsufrigen Zürichseelinie Zürich Stadelhofen-Zürich HB Vorprojekt | Genau (=)
+NEU  V.G.c.107.:II.E. [ID 7, Dossier, E2, Eltern V.G.c.107.:II., S.3] Historische Übersicht über die Projekte für den Bahnhof und seine Zufahrtslinien | Von/bis (>= x und <=y)
+NEU  V.G.c.107.:II.F. [ID 8, Dossier, E2, Eltern V.G.c.107.:II., S.3] Sihltal- und Uetlibergbahn | Von/bis (>= x und <=y)
+        D: Korrespondenz
+NEU  V.G.c.107.:II.G. [ID 9, Dossier, E2, Eltern V.G.c.107.:II., S.3] Station Tiefenbrunnen | Von/bis (>= x und <=y)
+        D: Korrespondenz
+NEU  V.G.c.107.:II.H. [ID 10, Dossier, E2, Eltern V.G.c.107.:II., S.3] Rechtsufrige Zürichseebahn | Von/bis (>= x und <=y)
+NEU  V.G.c.107.:II.I. [ID 11, Dossier, E2, Eltern V.G.c.107.:II., S.3] Station Affoltern | Von/bis (>= x und <=y)
+NEU  V.G.c.107.:II.K. [ID 12, Dossier, E2, Eltern V.G.c.107.:II., S.3] SBB-Linie Zürich-Oerlikon | Von/bis (>= x und <=y)
+        D: Bahnhof Oerlikon, 1940-1952
+        D: Erstellung eines III. Bahnperrons und Verlängerung Entlastung bis zur Affolternstrasse Umfahrungslinie Zürich-Altstetten-Seebach-Oerlikon, 1934-1949
+NEU  V.G.c.107.:II.L. [ID 13, Dossier, E2, Eltern V.G.c.107.:II., S.3] SBB-Aufnahmegebäude | Von/bis (>= x und <=y)
+NEU  V.G.c.107.:II.M. [ID 14, Dossier, E2, Eltern V.G.c.107.:II., S.3] Pläne Zürich-Altstetten-Dietikon Zürich-Altstetten-Oerlikon | Von/bis (>= x und <=y)
+NEU  V.G.c.107.:II.N. [ID 15, Dossier, E2, Eltern V.G.c.107.:II., S.3] Fahrplankonzeption für die ab Zürich HB ausgehenden | Genau (=)
+        D: Linien und Platzangebot im Zustand Z I
+        D: Pläne und Berichte
+NEU  V.G.c.107.:II.O. [ID 16, Dossier, E2, Eltern V.G.c.107.:II., S.3] Projekt Zürichberglinie | Genau (=)
+        D: Baukosten, Pläne, Berichte
+NEU  V.G.c.107.:VI.1. [ID 30, Dossier, E2, Eltern V.G.c.107.:VI., S.4] Zollbrücke, Walcheplatz | Von/bis (>= x und <=y)
+        D: Sihlporte, 1954
+        D: Bellevueplatz, 1955
+NEU  V.G.c.107.:VI.2. [ID 31, Dossier, E2, Eltern V.G.c.107.:VI., S.4] Seestrasse, Schulhausstrasse | Von/bis (>= x und <=y)
+        D: Albis-Widmerstrasse, 1955-1958
+        D: Morgental, Albisstrasse, 1957
+NEU  V.G.c.107.:VI.3. [ID 32, Dossier, E2, Eltern V.G.c.107.:VI., S.4] Birmensdorferstrasse Kellerweg Birmensdorferstrasse Gutstrasse | Von/bis (>= x und <=y)
+        D: Goldbrunnenplatz, 1954
+        D: Bahnhof Wiedikon, 1951-1953
+NEU  V.G.c.107.:VI.4. [ID 33, Dossier, E2, Eltern V.G.c.107.:VI., S.4] Badenerstrasse, Sihlfeldstrasse | Von/bis (>= x und <=y)
+        D: Gessnerbrücke, 1963
+        D: Fussgängerzählungen auf verschiedenen Sihlbrücken, 1958
+        D: Fussgängerzählung Limmatplatz, 1957
+        D: Autofrequenzen Sihlbrücke-Stauffacher, 1953
+        D: Verkehrszählung Hardplatz, 1953
+NEU  V.G.c.107.:VI.5. [ID 34, Dossier, E2, Eltern V.G.c.107.:VI., S.5] Escher Wyss Platz Tagesbelastung Fussgängerzählung Limmatplatz | Von/bis (>= x und <=y)
+        D: Unfälle Röntgenstrasse-Josefstrasse-Fabrikstrasse, 1952-1954
+NEU  V.G.c.107.:VI.6. [ID 35, Dossier, E2, Eltern V.G.c.107.:VI., S.5] Fussgängerzählung Winterthurerstrasse Verkehrszählung Wasserwerk-Kornhaus | Von/bis (>= x und <=y)
+        D: Rötelstrasse, 1956
+        D: Belastungsplan Bucheggplatz, 1954
+        D: Bucheggplatz: Herkunft und Ziel der Trolleybus Passagiere, 1951
+NEU  V.G.c.107.:VI.7. [ID 36, Dossier, E2, Eltern V.G.c.107.:VI., S.5] Kreuzplatz | Von/bis (>= x und <=y)
+NEU  V.G.c.107.:VI.8. [ID 37, Dossier, E2, Eltern V.G.c.107.:VI., S.5] Bellerive-Hornbachstrasse | Von/bis (>= x und <=y)
+        D: Fussgängerzählung Bernerstrasse-Juchstrasse, 1957-1959
+NEU  V.G.c.107.:VI.9. [ID 38, Dossier, E2, Eltern V.G.c.107.:VI., S.5] Berner-Altstetterstrasse Industriestrasse-Altstetterstrasse | Von/bis (>= x und <=y)
+        D: Altstetter-Viadukt, 1957
+NEU  V.G.c.107.:VI.10. [ID 39, Dossier, E2, Eltern V.G.c.107.:VI., S.5] Wipkinger-Platz | Von/bis (>= x und <=y)
+        D: Winterthurer-Berninastrasse, 1958
+NEU  V.G.c.107.:VI.11. [ID 40, Dossier, E2, Eltern V.G.c.107.:VI., S.5] Überlandstrasse-Saatlenstrasse Fussgängerunterführung, Studie Winterthurerstrasse-Berninastrasse Verkehrsbeziehungen im Raume Altstetterstrasse-Hönggerbrücke | Genau (=)
+NEU  V.G.c.107.:VII.1. [ID 42, Dossier, E2, Eltern V.G.c.107.:VII., S.5] Nationalstrassen | Von/bis (>= x und <=y)
+        D: N3 Zürich-Sargans Pläne und Akten
+        D: Brunau-Süd
+        D: Ausbau Albisstrasse und Zwängiweg
+        D: N3 Zürich-Sargans, 1971, Schachtel 71
+        D: Verlegung der neuen Winterthurerstrasse
+        D: Ausbau Überlandstrasse
+        D: Fiktives Projekt Brauerei Brunau, 1966
+        D: Kommentar zum Standardnetzplan (Stufe 2) für Nationalstrassen, Projektierungszonen
+        D: … (18 Zeilen)
+GEÄ  V.G.c.107.:II. [ID 2, Teilbestand, E1, Eltern -, S.2] Zürcher Eisenbahnverkehrsfragen, Bahnhoferweiterung | Von/bis (>= x und <=y)
+        von: '1945' => '1897'
+        bis: '1966' => '1980'
+        Entstehungszeitraum, Anm.: '1945-1946; Darin: 1945–1966' => ''
+        [Darin]
+           -A) Akten, Protokolle
+           -Zürcher Bahnhof- und Eisenbahnverkehrsfragen Referate der Konferenz der Generaldirektion und Kreisdirektion III SBB mit dem Regierungsrat des Kantons Zürich un
+           -Akten, Protokolle, Pläne, 1947, Schachtel 3
+           -Akten, Protokolle, Pläne, 1948-1950, Schachtel 4
+           -Akten, Protokolle, Pläne, 1950-1966, Schachtel 5
+           -B) Gutachten über die Erweiterung der Bahnanlagen im Raume Zürich, Schachtel 6, 1951; Anlagen; Pläne
+           +
+        Zeitraum-Quelle: 'Datumsspalte' => 'Untereinheiten'
+        Prüfhinweise: 'Untereinheiten reichen über den Zeitraum hinaus (1897–1980).' => ''
+GEÄ  V.G.c.107.:III. [ID 17, Dossier, E1, Eltern -, S.3] Generalverkehrsplan | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '20' => '20-28'
+GEÄ  V.G.c.107.:V.i. [ID 28, Dossier, E2, Eltern V.G.c.107.:V., S.4] Zwischenbericht der Architektengruppe | 
+        Stufe: 'Serie' => 'Dossier'
+        [Darin]
+           -
+           +1. Bericht
+           +2. Pläne
+           +3. Skizzen, Schachtel 42
+           +4. Anhang
+        Schachtel-Nr.: '41' => '42'
+        Prüfhinweise: 'Kein Zeitraum gefunden (auch nicht in den Untereinheiten).' => 'Kein Zeitraum gefunden.'
+GEÄ  V.G.c.107.:VI. [ID 29, Teilbestand, E1, Eltern -, S.4] Verkehrszählungen | Von/bis (>= x und <=y)
+        Stufe: 'Dossier' => 'Teilbestand'
+        von: '1951' => '1952'
+        bis: '1973' => '1956'
+        Entstehungszeitraum, Anm.: '1952; Darin: 1951–1973' => '1952; Darin: 1955–1956'
+        [Darin]
+           -1) Zollbrücke, Walcheplatz, 1953-1973
+           -Sihlporte, 1954
+           -Bellevueplatz, 1955
+           -2) Seestrasse, Schulhausstrasse, 1958
+           -Albis-Widmerstrasse, 1955-1958
+           -Morgental, Albisstrasse, 1957
+           -3) Birmensdorferstrasse Kellerweg, 1959
+           -Birmensdorferstrasse Gutstrasse, 1958
+           -Goldbrunnenplatz, 1954
+           -Bahnhof Wiedikon, 1951-1953
+           -4) Badenerstrasse, Sihlfeldstrasse, 1951
+           -Gessnerbrücke, 1963
+           -Fussgängerzählungen auf verschiedenen Sihlbrücken, 1958
+           -Fussgängerzählung Limmatplatz, 1957
+           -Autofrequenzen Sihlbrücke-Stauffacher, 1953
+           -Verkehrszählung Hardplatz, 1953
+           -5) Escher Wyss Platz Tagesbelastung, 1957
+           -Fussgängerzählung Limmatplatz, 1957
+           -Unfälle Röntgenstrasse-Josefstrasse-Fabrikstrasse, 1952-1954
+           -6) Fussgängerzählung Winterthurerstrasse Verkehrszählung Wasserwerk-Kornhaus -, 1958
+           -Rötelstrasse, 1956
+           -Belastungsplan Bucheggplatz, 1954
+           -Bucheggplatz: Herkunft und Ziel der Trolleybus Passagiere, 1951
+           -7) Kreuzplatz, 1953-1954
+           -8) Bellerive-Hornbachstrasse, 1959
+           -Fussgängerzählung Bernerstrasse-Juchstrasse, 1957-1959
+           -9) Berner-Altstetterstrasse, 1954-1955
+           -Industriestrasse-Altstetterstrasse, 1951-1953
+           -Altstetter-Viadukt, 1957
+           -10) Wipkinger-Platz, 1957
+           -Winterthurer-Berninastrasse, 1958
+           -11) Überlandstrasse-Saatlenstrasse Fussgängerunterführung, Studie Winterthurerstrasse-Berninastrasse Verkehrsbeziehungen im Raume Altstetterstrasse-Hönggerbrüc
+        Schachtel-Nr.: '50' => '50-52'
+        Prüfhinweise: '' => 'Untereinheiten reichen über den Zeitraum hinaus (1951–1973).'
+GEÄ  V.G.c.107.:VII. [ID 41, Teilbestand, E1, Eltern -, S.5] National- und Express-Strassen | Von/bis (>= x und <=y)
+        [Darin]
+           -1) Nationalstrassen, 1961; N3 Zürich-Sargans Pläne und Akten; Brunau-Süd; Ausbau Albisstrasse und Zwängiweg
+           -N3 Zürich-Sargans, 1971, Schachtel 71
+           -Verlegung der neuen Winterthurerstrasse
+           -Ausbau Überlandstrasse
+           -Fiktives Projekt Brauerei Brunau, 1966
+           -Kommentar zum Standardnetzplan (Stufe 2) für Nationalstrassen, Projektierungszonen
+           -N1 Bern-Zürich-St.Margrethen,, 1970
+           -Abschnitt N1.4.3. Milchbucktunnel Projekt, 1970, Schachtel 72
+           -Generelles Projekt N3, 1974, Schachtel 73
+           -Brunau Süd N3.1.2. Pläne, 1963-1969
+           -N.3.4.2. Brunau Nord, Verkehrsberechnungen, 1976, Schachtel 74
+           -N.3.4.2. Brunau Nord-Sihlhölzli, 1963
+           -N.3.4.2. Brunau Nord, 1963-1974
+           -N.3.4.2. Anschluss Manessestrasse, 1969-1974, Schachtel 75
+           -N.3.4.2. Anschluss Manessestrasse, alte Variante, 1966-1974
+           -N.3.1.1. Linksufrige Höhenstrasse, 1960-1966
+           -2) Express-Strassen, Schachtel 80; Protokolle, Akten und Pläne, 1956-1972
+           -Eingabe zu Variante, 1973
+           -Express-Strassen
+           -Express-Strasse Zürich-Süd
+           +
+GEÄ  V.G.c.107.:VII.2. [ID 43, Dossier, E2, Eltern V.G.c.107.:VII., S.6] Express-Strassen | Von/bis (>= x und <=y)
+        Titel: 'Ergänzungsbericht' => 'Express-Strassen'
+        Entstehungszeitraum: 'Genau (=)' => 'Von/bis (>= x und <=y)'
+        von: '1960' => '1956'
+        bis: '' => '1973'
+        Entstehungszeitraum, Anm.: '' => '1956-1972; Darin: 1957–1973'
+        [Darin]
+           -
+           +Protokolle, Akten und Pläne
+           +Eingabe zu Variante, 1973
+           +Express-Strassen
+           +Express-Strasse Zürich-Süd
+           +2. Ergänzungsbericht, 1960
+           +3. Ergänzungsbericht, 1961
+           +4. Ergänzungsbericht, 1961
+           +Einige Hoch-, Überwasser- und Unterwasserstrassen Vorschlag für die rasche Erstellung einer Schnellverkehrsstrasse in Zürich, Schachtel 82, 1957
+           +Versuchsanstalt für Wasserbau und Erdbau an der ETH Bericht über die Modellversuche für die Express-Strasse Zürich-Süd
+           +Band 1 Berichte und Planbeilagen, 1966
+           +Band 2 Fotobeilagen, 1966
+           +Bebauungsplan
+           +Konzept Y und J, 1973
+        Schachtel-Nr.: '70' => '80'
+        Nr. im PDF: '2.' => '2)'
+GEÄ  V.G.c.107.:XI. [ID 47, Dossier, E1, Eltern -, S.6] Projekt Tiefbahn Zürich | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '111' => '111-113'
+GEÄ  V.G.c.107.:XII. [ID 48, Dossier, E1, Eltern -, S.7] Projekt Unterirdische Schnellstrassenbahn inkl. Photos | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '115' => '115-116'

@@ -1,0 +1,9 @@
+### D3709: vorher 18 Einheiten, nachher 18 Einheiten
+GEÄ  VII.403.:2. [ID 15, Teilbestand, E1, Eltern -, S.2] Gegenstände | Von/bis (>= x und <=y)
+        von: '1959' => '1960'
+GEÄ  VII.403.:2.3. [ID 18, Dossier, E2, Eltern VII.403.:2., S.3] Wimpel | Genau (=)
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => 'Genau (=)'
+        von: '1959' => '1967'
+        bis: '1967' => ''
+        [Darin]
+           -Der Volleyballclub Spada Academica Zürich ist einer der ältesten Volleyballclubs von Zürich. Gegründet wurde der Verein im Jahre 1959. In den Siebzigerjahren war das Her

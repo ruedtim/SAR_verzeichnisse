@@ -1,0 +1,6 @@
+### D3774: vorher 59 Einheiten, nachher 59 Einheiten
+GEÄ  VII.47.:4.3. [ID 42, Dossier, E2, Eltern VII.47.:4., S.11] Jahresrechnungen (gem. Nr. des Archivregisters) | Von/bis (>= x und <=y)
+        [Darin]
+           -Nr. 13 1. Rechnung 1866* Nr. 13 2.-55. Rechnung, 1867-1920
+           +Nr. 13 1. Rechnung 1866*
+           +Nr. 13 2.-55. Rechnung, 1867-1920

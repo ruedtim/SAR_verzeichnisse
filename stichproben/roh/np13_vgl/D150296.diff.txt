@@ -1,0 +1,20 @@
+### D150296: vorher 153 Einheiten, nachher 153 Einheiten
+WEG  VII.298.:3.3.7. [ID 61, Dossier, E3, Eltern VII.298.:3.3., S.11] Internationale Messe für Buch und Presse in Genf, Akten | Genau (=)
+        D: Protokolle des Organisations-Komitees
+        D: Allgemeine Korrespondenz, alphabetisch geordnet, 1994 – 1995
+        D: Dossier der Pressekonferenz, Kartei der Pressemappen-Empfänger Korrespondenz betreffend die Internationale Messe für Galerien Aktueller Kunst (Europ'Art), den Literarisch
+        D: Veranstaltungsprogramm
+        D: Negative der Fotografien "Kulturzug'95"
+        D: Pressespiegel: Kulturzug'95
+        D: Pressespiegel: 9. Internationale Messe für Buch und Presse, Genf Presseberichte, Kopien der Zeitungsberichte
+NEU  VII.298.:3.4.7. [ID 68, Dossier, E3, Eltern VII.298.:3.4., S.11] Internationale Messe für Buch und Presse in Genf, Akten | Genau (=)
+        D: Protokolle des Organisations-Komitees
+        D: Allgemeine Korrespondenz, alphabetisch geordnet, 1994 – 1995
+        D: Dossier der Pressekonferenz, Kartei der Pressemappen-Empfänger Korrespondenz betreffend die Internationale Messe für Galerien Aktueller Kunst (Europ'Art), den Literarisch
+        D: Veranstaltungsprogramm
+        D: Negative der Fotografien "Kulturzug'95"
+        D: Pressespiegel: Kulturzug'95
+        D: Pressespiegel: 9. Internationale Messe für Buch und Presse, Genf Presseberichte, Kopien der Zeitungsberichte
+        H: Im Findmittel «3.3.7.» zwischen 3.4.6. und 3.4.8. – als 3.4.7. gelesen (Tippfehler?), bitte prüfen.
+GEÄ  VII.298.:3.4.8. [ID 69, Dossier, E3, Eltern VII.298.:3.4., S.12] Internationale Messe für Buch und Presse in Genf, Akten | Genau (=)
+        Prüfhinweise: 'Nummerierung springt: nach 6 folgt 8.' => ''

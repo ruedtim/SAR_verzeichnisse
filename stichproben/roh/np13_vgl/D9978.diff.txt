@@ -1,0 +1,77 @@
+### D9978: vorher 166 Einheiten, nachher 167 Einheiten
+NEU  VII.12.B.:28.3.25. [ID 47, Dossier, E2, Eltern VII.12.B.:28.3., S.11] Schema der electrischen Beleuchtung im neuen Stadttheater in Zürich undatiert, ungezeichnet | 
+        D: 37,5 x 28,5 cm
+        D: 2 Exemplare
+GEÄ  VII.12.B.:28.1.7. [ID 8, Serie, E2, Eltern VII.12.B.:28.1., S.4] Cataster-Copie. Zürich. Sect. B. | Von/bis (>= x und <=y)
+        Titel: ':1 Cataster-Copie. Zürich. Sect. B.' => 'Cataster-Copie. Zürich. Sect. B.'
+GEÄ  VII.12.B.:28.1.7./T2 [ID 9, Dossier, E3, Eltern VII.12.B.:28.1.7., S.4] Cataster-Copie. Zürich. Sect. B. | Genau (=)
+        Titel: ':2–3 Cataster-Copie. Zürich. Sect. B.' => 'Cataster-Copie. Zürich. Sect. B.'
+GEÄ  VII.12.B.:28.2.2. [ID 15, Dossier, E2, Eltern VII.12.B.:28.2., S.5] Theater auf dem Heimplatz [Mittelachse in der nördlichen Fortsetzung der Mittelachse des heutigen Schauspielhauses, Hauptfassade diesem zugewandt] undatiert (1890) | 
+        Titel: ':1–2 Theater auf dem Heimplatz [Mittelachse in der nördlichen Fortsetzung der Mittelachse des heutigen Schauspielhauses, Hauptfassade diesem zugewandt] undatiert (1890)' => 'Theater auf dem Heimplatz [Mittelachse in der nördlichen Fortsetzung der Mittelachse des heutigen Schauspielhauses, Hauptfassade diesem zugewandt] undatiert (1890)'
+GEÄ  VII.12.B.:28.3.3. [ID 23, Serie, E2, Eltern VII.12.B.:28.3., S.7] [Plan ohne Titel, Stadttheater am Dufourplatz = seeseitige Fortsetzung des Stadelhoferplatzes, heute „Theaterplatz“] | Genau (=)
+        Titel: ':1 [Plan ohne Titel, Stadttheater am Dufourplatz = seeseitige Fortsetzung des Stadelhoferplatzes, heute „Theaterplatz“]' => '[Plan ohne Titel, Stadttheater am Dufourplatz = seeseitige Fortsetzung des Stadelhoferplatzes, heute „Theaterplatz“]'
+GEÄ  VII.12.B.:28.3.3./T2 [ID 24, Dossier, E3, Eltern VII.12.B.:28.3.3., S.7] [derselbe Plan wie 8.3.3.:1] grosser, leinenkaschierter Situationsplan breites Querformat | 
+        Titel: ':2 [derselbe Plan wie 8.3.3.:1] grosser, leinenkaschierter Situationsplan breites Querformat' => '[derselbe Plan wie 8.3.3.:1] grosser, leinenkaschierter Situationsplan breites Querformat'
+GEÄ  VII.12.B.:28.3.3./T3 [ID 25, Dossier, E3, Eltern VII.12.B.:28.3.3., S.7] [Plan ohne Titel] | Genau (=)
+        Titel: ':3 [Plan ohne Titel]' => '[Plan ohne Titel]'
+GEÄ  VII.12.B.:28.3.7. [ID 29, Dossier, E2, Eltern VII.12.B.:28.3., S.8] Stadttheater Zürich. Bühnenhaus | 
+        Titel: ':1–4 Stadttheater Zürich. Bühnenhaus' => 'Stadttheater Zürich. Bühnenhaus'
+GEÄ  VII.12.B.:28.3.11. [ID 33, Dossier, E2, Eltern VII.12.B.:28.3., S.9] Situations-Plan des Theaters, sowie Kessel-, Maschinen- und Magazin-Gebäudes | 
+        Titel: ':1–4 Situations-Plan des Theaters, sowie Kessel-, Maschinen- und Magazin-Gebäudes' => 'Situations-Plan des Theaters, sowie Kessel-, Maschinen- und Magazin-Gebäudes'
+GEÄ  VII.12.B.:28.3.24. [ID 46, Dossier, E2, Eltern VII.12.B.:28.3., S.11] Theater-Actiengesellschaft Zürich | Genau (=)
+        [Darin]
+           -28.3.25:1–2 Schema der electrischen Beleuchtung im neuen Stadttheater in Zürich undatiert, ungezeichnet; 37,5 x 28,5 cm; 2 Exemplare
+GEÄ  VII.12.B.:28.3.26. [ID 48, Dossier, E2, Eltern VII.12.B.:28.3., S.11] Theater-Actiengesellschaft Zürich | 
+        [Prüfhinweise]
+           -Nummerierung springt: nach 24 folgt 26.
+GEÄ  VII.12.B.:28.4.24. [ID 74, Dossier, E2, Eltern VII.12.B.:28.4., S.15] Theater-Actiengesellschaft in Zürich | Genau (=)
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => 'Genau (=)'
+        bis: '1984' => ''
+        [Darin]
+           -Mappe 6:
+           -Bei den Nummern 28.4.25. – 29. handelt es sich um Pläne von Karl Knell und Otto Dürr. – Dürr baute 1936 an Stelle des Portikus auf der Nordseite des Opernhauses das Glas
+GEÄ  VII.12.B.:28.4.25. [ID 75, Dossier, E2, Eltern VII.12.B.:28.4., S.16] Stadttheater Zürich. Aufnahme-Plan | Von/bis (>= x und <=y)
+        Entstehungszeitraum: 'Genau (=)' => 'Von/bis (>= x und <=y)'
+        bis: '' => '1984'
+        [Darin]
+           +Bei den Nummern 28.4.25. – 29. handelt es sich um Pläne von Karl Knell und Otto Dürr.
+           +Dürr baute 1936 an Stelle des Portikus auf der Nordseite des Opernhauses das Glashaus („Aquarium“), das in der Renovation von 1982/84 wieder beseitigt wurde.
+        [Prüfhinweise]
+           +Steht im Findmittel unter dem Bereichskopf «Bei den Nummern 28.4.25. – 29. handelt es sich um Pläne von Karl Knell und Otto Dürr. –»; dessen Beschreibung hier im Darin ü
+           +Steht im Findmittel unter der Zwischenüberschrift «Mappe 6».
+GEÄ  VII.12.B.:28.6.4. [ID 102, Dossier, E2, Eltern VII.12.B.:28.6., S.20] Coulissen-Magazin für das Stadttheater Zürich | Von/bis (>= x und <=y)
+        Titel: ':1-4 Coulissen-Magazin für das Stadttheater Zürich' => 'Coulissen-Magazin für das Stadttheater Zürich'
+GEÄ  VII.12.B.:28.6.6. [ID 104, Dossier, E2, Eltern VII.12.B.:28.6., S.21] Coulissen-Magazin für das Stadttheater in Zürich | Genau (=)
+        Titel: ':1–2 Coulissen-Magazin für das Stadttheater in Zürich' => 'Coulissen-Magazin für das Stadttheater in Zürich'
+GEÄ  VII.12.B.:28.6.12. [ID 110, Dossier, E2, Eltern VII.12.B.:28.6., S.22] Coulissen-Magazin für das Stadttheater in Zürich | 
+        Stufe: 'Serie' => 'Dossier'
+        Entstehungszeitraum: 'Genau (=)' => ''
+        von: '1891' => ''
+        Zeitraum-Quelle: 'Untereinheiten (geschätzt)' => ''
+        Prüfhinweise: 'Zeitraum aus geschätzten Zeiträumen der Untereinheiten.' => 'Kein Zeitraum gefunden.'
+GEÄ  VII.12.B.:28.6.12.a. [ID 111, Dossier, E2, Eltern VII.12.B.:28.6., S.22] Coulissen-Magazin für das Stadttheater in Zürich | Genau (=)
+        Ebene: '3' => '2'
+        Übergeordnete Signatur: 'VII.12.B.:28.6.12.' => 'VII.12.B.:28.6.'
+        Eltern: 'VII.12.B.:28.6.12.' => 'VII.12.B.:28.6.'
+GEÄ  VII.12.B.:28.6.13. [ID 112, Dossier, E2, Eltern VII.12.B.:28.6., S.22] Coulissen-Magazin für das Stadttheater Zürich | Von/bis (>= x und <=y)
+        Titel: ':1–4 Coulissen-Magazin für das Stadttheater Zürich' => 'Coulissen-Magazin für das Stadttheater Zürich'
+GEÄ  VII.12.B.:28.6.14. [ID 113, Dossier, E2, Eltern VII.12.B.:28.6., S.22] Coulissen-Magazin für das Stadttheater Zürich | Von/bis (>= x und <=y)
+        Titel: ':1–2 Coulissen-Magazin für das Stadttheater Zürich' => 'Coulissen-Magazin für das Stadttheater Zürich'
+GEÄ  VII.12.B.:28.6.18. [ID 117, Dossier, E2, Eltern VII.12.B.:28.6., S.23] Coulissen Magazin (an der Seehofstrasse) | 
+        Titel: ':1–2 Coulissen Magazin (an der Seehofstrasse)' => 'Coulissen Magazin (an der Seehofstrasse)'
+GEÄ  VII.12.B.:28.6.19. [ID 118, Dossier, E2, Eltern VII.12.B.:28.6., S.23] Coulissen-Magazin für das Stadttheater Zürich | Genau (=)
+        Titel: ':1–3 Coulissen-Magazin für das Stadttheater Zürich' => 'Coulissen-Magazin für das Stadttheater Zürich'
+GEÄ  VII.12.B.:28.6.20. [ID 119, Dossier, E2, Eltern VII.12.B.:28.6., S.23] Theater Actiengesellschaft | 
+        Titel: ':1–2 Theater Actiengesellschaft' => 'Theater Actiengesellschaft'
+GEÄ  VII.12.B.:28.6.21. [ID 120, Dossier, E2, Eltern VII.12.B.:28.6., S.24] Coulissen-Magazin für das Stadttheater Zuerich [neues Kulissenmagazin] Grundriss, Vorderansicht, Seitenansicht, Querschnitt, Längenschnitt ohne Angabe des Architekten (wo | Von/bis (>= x und <=y)
+        Titel: ':1–2 Coulissen-Magazin für das Stadttheater Zuerich [neues Kulissenmagazin] Grundriss, Vorderansicht, Seitenansicht, Querschnitt, Längenschnitt ohne Angabe des Architekte' => 'Coulissen-Magazin für das Stadttheater Zuerich [neues Kulissenmagazin] Grundriss, Vorderansicht, Seitenansicht, Querschnitt, Längenschnitt ohne Angabe des Architekten (wo'
+GEÄ  VII.12.B.:28.6.29. [ID 128, Dossier, E2, Eltern VII.12.B.:28.6., S.25] Coulissen-Magazin | Genau (=)
+        Titel: ':1–2 Coulissen-Magazin' => 'Coulissen-Magazin'
+GEÄ  VII.12.B.:28.6.37. [ID 136, Dossier, E2, Eltern VII.12.B.:28.6., S.26] Coulissen-Magazin für das Stadttheater Zürich. Project 1 und 3 [Ein Project 2 fehlt.] | 
+        Titel: ':1–2 Coulissen-Magazin für das Stadttheater Zürich. Project 1 und 3 [Ein Project 2 fehlt.]' => 'Coulissen-Magazin für das Stadttheater Zürich. Project 1 und 3 [Ein Project 2 fehlt.]'
+GEÄ  VII.12.B.:28.6.40. [ID 139, Dossier, E2, Eltern VII.12.B.:28.6., S.27] Theater-Actiengesellschaft Zürich. Magazingebäude, Maschinen- und Kesselhaus ohne Angabe des Architekten undatiert | 
+        Titel: ':1–4 Theater-Actiengesellschaft Zürich. Magazingebäude, Maschinen- und Kesselhaus ohne Angabe des Architekten undatiert' => 'Theater-Actiengesellschaft Zürich. Magazingebäude, Maschinen- und Kesselhaus ohne Angabe des Architekten undatiert'
+GEÄ  VII.12.B.:28.6.47. [ID 146, Dossier, E2, Eltern VII.12.B.:28.6., S.28] Stadttheater in Zürich | 
+        Titel: ':1–2 Stadttheater in Zürich' => 'Stadttheater in Zürich'
+GEÄ  VII.12.B.:28.6.61. [ID 160, Dossier, E2, Eltern VII.12.B.:28.6., S.30] Disposition der verschiedenen Leitung in der Seehofstrasse | Genau (=)
+        Titel: ':1–2 Disposition der verschiedenen Leitung in der Seehofstrasse' => 'Disposition der verschiedenen Leitung in der Seehofstrasse'

@@ -1,0 +1,51 @@
+### D847: vorher 282 Einheiten, nachher 292 Einheiten
+NEU  V.C.c.61.:1Aa. [ID 2, Dossier, E1, Eltern -, S.1] Gemeindegut, Ordentlicher Verkehr | 
+        H: Kein Zeitraum gefunden.
+NEU  V.C.c.61.:1Ab. [ID 3, Dossier, E1, Eltern -, S.1] Gemeindegut, Ordentlicher Verkehr (Fortsetzung) | 
+        H: Kein Zeitraum gefunden.
+NEU  V.C.c.61.:1B. [ID 4, Dossier, E1, Eltern -, S.1] Gemeindegut, Korrentkasse des ordentlichen Verkehrs | 
+        H: Kein Zeitraum gefunden.
+NEU  V.C.c.61.:1C. [ID 5, Dossier, E1, Eltern -, S.1] Gemeindegut, Ausserordentlicher Verkehr | 
+        H: Kein Zeitraum gefunden.
+NEU  V.C.c.61.:1D. [ID 6, Dossier, E1, Eltern -, S.1] Gemeindegut, Korrentkasse des Ausserordentlichen Verkehrs | 
+        H: Kein Zeitraum gefunden.
+NEU  V.C.c.61.:1E. [ID 7, Dossier, E1, Eltern -, S.1] Gemeindegut, Kapitalrechnung | 
+        H: Kein Zeitraum gefunden.
+NEU  V.C.c.61.:38. [ID 50, Dossier, E1, Eltern -, S.2] 1. Legat von alt Nationalrat Fierz, Fluntern (Fr. 5000) | 
+        H: Kein Zeitraum gefunden.
+NEU  V.C.c.61.:50. [ID 62, Dossier, E1, Eltern -, S.2] 2. Legat von alt Nationalrat Fierz, Fluntern (Fr. 200) | 
+        H: Kein Zeitraum gefunden.
+NEU  V.C.c.61.:92. [ID 104, Dossier, E1, Eltern -, S.4] Orgelfonds Enge | 
+        H: Im Findmittel «9» zwischen 91 und 93 – als 92 gelesen, bitte prüfen.
+Kein Zeitraum gefunden.
+NEU  V.C.c.61.:219. [ID 234, Dossier, E1, Eltern -, S.7] 1. Jugendfestfonds Albisrieden | 
+        H: Kein Zeitraum gefunden.
+GEÄ  V.C.c.61.:1. [ID 1, Dossier, E1, Eltern -, S.1] Liste der im Gemeindegut aufgegangenen Fonds | 
+        Titel: '1 Liste der im Gemeindegut aufgegangenen Fonds' => 'Liste der im Gemeindegut aufgegangenen Fonds'
+        [Darin]
+           -1Aa Gemeindegut, Ordentlicher Verkehr
+           -1Ab Gemeindegut, Ordentlicher Verkehr (Fortsetzung)
+           -1B Gemeindegut, Korrentkasse des ordentlichen Verkehrs
+           -1C Gemeindegut, Ausserordentlicher Verkehr
+           -1D Gemeindegut, Korrentkasse des Ausserordentlichen Verkehrs
+           -1E Gemeindegut, Kapitalrechnung
+           +
+        Nr. im PDF: '' => '1'
+        [Prüfhinweise]
+           -Nummer 1 fehlt im Findmittel – die Zeilen vor der ersten Signatur «2» als Einheit 1 übernommen; bitte prüfen.
+GEÄ  V.C.c.61.:37. [ID 49, Dossier, E1, Eltern -, S.2] Stipendienstiftung für deutsche Studierende | 
+        [Darin]
+           -38 1. Legat von alt Nationalrat Fierz, Fluntern (Fr. 5000)
+           +
+GEÄ  V.C.c.61.:49. [ID 61, Dossier, E1, Eltern -, S.2] Fonds für eine Orientierungstafel | 
+        [Darin]
+           -50 2. Legat von alt Nationalrat Fierz, Fluntern (Fr. 200)
+           +
+GEÄ  V.C.c.61.:91. [ID 103, Dossier, E1, Eltern -, S.4] Handfertigkeitsunterricht Hirslanden (identisch mit Arbeitsschulfonds Hirslanden) | 
+        [Darin]
+           -9 Orgelfonds Enge
+           +
+GEÄ  V.C.c.61.:218. [ID 233, Dossier, E1, Eltern -, S.7] Solidaritäts- Fonds Oerlikon | 
+        [Darin]
+           -219 1. Jugendfestfonds Albisrieden
+           +

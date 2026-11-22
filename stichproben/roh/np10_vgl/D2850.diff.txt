@@ -1,0 +1,435 @@
+### D2850: vorher 68 Einheiten, nachher 68 Einheiten
+GEÄ  VII.109.:55. [ID 57, Dossier, E1, Eltern -, S.13] Briefe an und von Emil Klöti I A – M | Von/bis (>= x und <=y)
+        Entstehungszeitraum: '' => 'Von/bis (>= x und <=y)'
+        von: '' => '1877'
+        bis: '' => '1939'
+        [Darin]
+           -
+           +Briefsammlung Emil Klöti
+           +Diese von Emil Klöti angelegte Sammlung ist nicht vollständig, denn einerseits wurden zahlreiche belanglose Briefe ausgeschieden und zum Teil an anderer Stelle
+           +Briefe der Absender mit den Initialen A – M befinden sich in Schachtel 55, diejenigen mit Anfangsbuchstaben N – Z in 56.
+           +Abegg, Dr. jur. Wilhelm
+           +Abt, Dr. Roman, Wohlen
+           +Adler, Dr. Friedrich
+           +Aebi, Robert
+           +Allemann, Dr. med. R.
+           +Allgemeine Baugenossenschaft Zürich
+           +Allgemeine Baugenossenschaft Zürich Kolonie Herrlig
+           +Arbeitsgemeinschaft NEUE DEMOKRATIE
+           +Arbeiter der SP und KP
+           +Arbeiterturn- und -sportvereinigung der Stadt Zürich
+           +Aschmann & Scheller
+           +Anonyme Briefe
+           +Automobil- und Motoren- AG AMAG
+           +Bader, Bettina
+           +Bader, Pfarrer Hans
+           +Balsiger, Dr. Hermann, Oberrichter (Dossier)
+           +Bau- und Holzarbeiter-Verband, Bauarbeiter-Sektion Zürich
+           +Bau- und Holzarbeiter-Verband, Holzarbeiter-Sektion Zürich
+           +Baumann, Jakob, Stadtrat (Dossier)
+           +Bebel, August (Dossier)
+           +Bener, G. Chur
+           +Bercher, E.
+           +Bermann, Dr. Gottfried
+           +Bertschinger, Dr. H., Stadtschreiber
+           +Bertschmann, Simon, Stadtgeometer
+           +Betreibungsamt Zürich 1
+           +Beyeler, Frau H.
+           +Bickel, Otto
+           +Billeter, Robert, Stadtpräsident
+           +Bircher, Dr. Eugen, Nationalrat
+           +Blazek, Rudi, Basel
+           +Blocher, Dr. Eugen, Bundesrichter
+           +Bodmer, Hermann
+           +Bodmer, Martin
+           +Bollinger, Dr. Armin
+           +Bosshardt, Walter
+           +Bräm, Heinrich, Verwalter Lilienberg
+           +Brauchbar, Edmund
+           +Braun, Max, Paris]
+           +Braund, Dr. h.c., Ascona
+           +Briner, Jakob, Stadtrat
+           +Brix, Dr. J., Berlin
+           +Brüschweiler, C.
+           +Brunner, Andreas
+           +Brupbacher, Dr. Paulette
+           +Bucher, Fritz
+           +Buchmann, Paul, Winterthur
+           +Bührle, Emil
+           +Bundesanwaltschaft
+           +Bundesarchiv
+           +Buomberger, Dr. Emil, Stadtrat
+           +Buschor, Dr. G.
+           +Caminada, Christianus, Bischof von Chur
+           +Cassou, Jean, Paris
+           +Clairmont, Prof. Dr. P.
+           +Corbusier, Le
+           +Coudenhove-Kalergi
+           +Crispien, Arthur
+           +Daeniker, H.C.
+           +Danneberg, Frau Gertrud
+           +"Das Wohnen", Zeitschrift
+           +Deschanel, Paul, Paris
+           +"Die Nation", Zeitung
+           +"Die Tat", Zeitung
+           +Dittmann, Wilhelm
+           +Dub, Ella, Wien
+           +Duttweiler, Gottlieb (Migros u.a.)
+           +Egli, Fritz
+           +Ehrensperger, Dr. Friedrich
+           +Einsiedeln, Stift (Aebte Staub und Gut)
+           +Einstein, Frau Prof. Escher, Hermann, Direktor Zentralbibliothek
+           +Etter, Bundesrat
+           +Faesi, Robert
+           +Farbstein, Dr. David
+           +Finanzdepartement Basel
+           +Finanzinspektorat
+           +Finanzvorstand
+           +Flatz, Karl, Architekt
+           +Fonio, Prof. Dr. med. Antonio, Sils (Dossier)
+           +Forel, Prof. Dr. F.-A., Morges
+           +Fränkel, Prof. Dr. Jonas
+           +Frei, Hans, Wallisellen
+           +Frei, Heinrich, Gemeinderat
+           +Fretz, Gebrüder
+           +Freunde französischer Kultur
+           +Fricker, Hans, Ing. in Luzern
+           +Fürst, Robert
+           +Furrer, Albert
+           +Gemeinnützige Baugenossenschaft Waidberg
+           +Gemeinnützige Genossenschaft Krankenhaus Wollishofen
+           +Genet, Henri, Stadtrat in Lausanne
+           +Genossenschaft Hobel
+           +Gipser- und Malergenossenschaft Zürich
+           +Gewerkschaftsamt und -kartell Zürich (Dossier)
+           +Gitermann, Dr. Valentin
+           +Glaus, Otto, Architekt
+           +Greulich, Herman
+           +Grieder, H., Wallisellen
+           +Grimm, Robert, Nationalrat
+           +Grossmann, Prof. Dr. Eugen (Dossier)
+           +Grossmann, Prof. Dr. Marcel
+           +Grossmann, R.
+           +Grütliverein Zürich 1
+           +Gruner, Dr. E. (Basel/Bern)
+           +Günthard, Aloys, Regierungsrat
+           +Gubser, Dr. Ernst
+           +Guisan, Henri (General und Fondation)
+           +Haefeli, Moser und Steiger, Architekten
+           +Hämmig, Paul
+           +Hardmeyer, F.
+           +Hatt-Wiskemann, Eugen
+           +Heeb, Friedrich (Dossier)
+           +Hefti, Paul
+           +Helbling, Dr. Carl
+           +Herrmann, Otto
+           +Herzenberg, Alessandro, Mailand
+           +Heusser, Jakob, Oberrrichter
+           +Heymann, Berthold
+           +Hiltbrunner, Hermann
+           +Hirt, Frl. M.
+           +Hofmann-Schmidheiny, Eva
+           +Hubacher, Hermann
+           +Huber, Dr. Harald, St. Gallen
+           +Huber, Dr. Johannes, St. Gallen
+           +Huber, Prof. Dr. Max
+           +Hubmann, Eugen
+           +Hugues, C.J., Leicester
+           +Hungerbühler, Dr. Otto, Stadtrat
+           +Hunziker & Co., Zürich
+           +Internationale Konferenz für Asylrecht in Paris
+           +Jahrgängerverein 1877
+           +Jansen, H. und Anny, Berlin
+           +Jovanovitz, Katharina A.
+           +Joyce, James
+           +Jugoslawisch-schweizerischer Verein
+           +Kägi, Prof. Dr. Werner
+           +Kamber, Julian
+           +Kantonsrat Zürich
+           +Kaspar, A. und L., Berlin
+           +Kaufmann, Bernhard, Stadtrat
+           +Kaufmann, Willi
+           +Kautzky, Dr. Benedikt
+           +Kautzky, Karl
+           +Kautzky, Luise
+           +Kegelclub Dreilinden
+           +Keller, Ernst, Rechtsanwalt
+           +Keller, Dr. Konrad, Rechtskonsulent
+           +Kern, Hans, Stadtrat
+           +Kick, Bertha
+           +Killer, Frau Anni
+           +Kinderfreunde Zürich 6
+           +Kinderheim Rivapiana
+           +Klauser, A.
+           +Körner, Bürgermeister von Wien
+           +Kopp, W. (Arbeitskammer)
+           +Korkes aus Wien
+           +Korrodi, Dr. Eduard (Redaktor NZZ)
+           +Krayenbühl, Elsbeth und Ursula
+           +Kruck, Gustav, Stadtrat
+           +Kuntzenmüller, Dr. Albert, Freiburg i.B.
+           +Lämmel, Dr. Rudolf
+           +Landesring der Unabhängigen
+           +Landolt, Dr. Emil, Stadtpräsident
+           +Lang, Oberst D., Bern
+           +Lang, Oberrichter Otto
+           +Lanz, Ernst
+           +Lautenschlager, Stuttgart
+           +Lebensmittelverein Zürich
+           +Leibundgut, Prof. Dr. H.
+           +Löpfe-Benz, Ernst, Rorschach
+           +Löwy, Henriette
+           +Lüchinger, Frau (Witwe des Stadtpräsidenten)
+           +Lüscher-Widmer, Rudolf, Genf
+           +Lussy, A.
+           +Malaterre-Sellier, Mme., Paris
+           +Marbach, Prof. Fritz, Bern
+           +Marchand, Prof. Emile
+           +Maschinenfabrik Oerlikon
+           +Maurer, Adolf, Pfarrer
+           +Meier, Christian, Nationalrat, Netstal
+           +Meier, E., Meier, J., Lehrer in Seebach
+           +Meier, Stephan
+           +Meili, Oberst Armin (Direktor der Landesausstellung 1939)
+           +Menghetti, P.
+           +Mercier, Dr. Joachim, Glarus
+           +Meyer, Prof. Dr. Peter
+           +Meyner, Robert (Mittelpresse)
+           +Milhaud, Edgar, Genf
+           +Militärdepartement und Kriegstechnische Abteilung
+           +Militärdirektion
+           +Möri, A., Winterthur
+           +Morf-Hardmeyer, A.
+           +Moser, August
+           +Motta, Giuseppe, Bundesrat
+           +Müller, Ernst
+           +Müller, Hans
+           +Müller, Joseph G.
+           +Müller, Karl
+           +Müller, Lini (Gegenstand: Abbruch des Gutes von Rudolf Koller [Kollergut, „Hornau“] im Zürichhorn) Müller, Dr. Peter Felix, Basel Mülli, Albert
+           +Müry-Dietschy, E., Basel
+           +Munz, Paul
+           +Mussard, Charles
+           +Mussard, Jean, Biel
+           +Mustermesse Basel
+        Zeitraum-Quelle: '' => 'Darin (geschätzt)'
+        [Prüfhinweise]
+           -Kein Zeitraum gefunden.
+           +Liste nach den Anfangsbuchstaben verteilt (A – M nach Titel), bitte prüfen.
+           +Zeitraum aus den Jahreszahlen im Darin geschätzt.
+GEÄ  VII.109.:56. [ID 58, Dossier, E1, Eltern -, S.13] Briefe an und von Emil Klöti II N – Z | Genau (=)
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => 'Genau (=)'
+        von: '1877' => '1951'
+        bis: '1951' => ''
+        [Darin]
+           -Briefsammlung Emil Klöti
+           -Diese von Emil Klöti angelegte Sammlung ist nicht vollständig, denn einerseits wurden zahlreiche belanglose Briefe ausgeschieden und zum Teil an anderer Stelle
+           -Briefe der Absender mit den Initialen A – M befinden sich in Schachtel 55, diejenigen mit Anfangsbuchstaben N – Z in 56.
+           -55 Briefe an und von Emil Klöti I A – M
+           -Abegg, Dr. jur. Wilhelm
+           -Abt, Dr. Roman, Wohlen
+           -Adler, Dr. Friedrich
+           -Aebi, Robert
+           -Allemann, Dr. med. R.
+           -Allgemeine Baugenossenschaft Zürich
+           -Allgemeine Baugenossenschaft Zürich Kolonie Herrlig
+           -Arbeitsgemeinschaft NEUE DEMOKRATIE
+           -Arbeiter der SP und KP
+           -Arbeiterturn- und -sportvereinigung der Stadt Zürich
+           -Aschmann & Scheller
+           -Anonyme Briefe
+           -Automobil- und Motoren- AG AMAG
+           -Bader, Bettina
+           -Bader, Pfarrer Hans
+           -Balsiger, Dr. Hermann, Oberrichter (Dossier)
+           -Bau- und Holzarbeiter-Verband, Bauarbeiter-Sektion Zürich
+           -Bau- und Holzarbeiter-Verband, Holzarbeiter-Sektion Zürich
+           -Baumann, Jakob, Stadtrat (Dossier)
+           -Bebel, August (Dossier)
+           -Bener, G. Chur
+           -Bercher, E.
+           -Bermann, Dr. Gottfried
+           -Bertschinger, Dr. H., Stadtschreiber
+           -Bertschmann, Simon, Stadtgeometer
+           -Betreibungsamt Zürich 1
+           -Beyeler, Frau H.
+           -Bickel, Otto
+           -Billeter, Robert, Stadtpräsident
+           -Bircher, Dr. Eugen, Nationalrat
+           -Blazek, Rudi, Basel
+           -Blocher, Dr. Eugen, Bundesrichter
+           -Bodmer, Hermann
+           -Bodmer, Martin
+           -Bollinger, Dr. Armin
+           -Bosshardt, Walter
+           -Bräm, Heinrich, Verwalter Lilienberg
+           -Brauchbar, Edmund
+           -Braun, Max, Paris]
+           -Braund, Dr. h.c., Ascona
+           -Briner, Jakob, Stadtrat
+           -Brix, Dr. J., Berlin
+           -Brüschweiler, C.
+           -Brunner, Andreas
+           -Brupbacher, Dr. Paulette
+           -Bucher, Fritz
+           -Buchmann, Paul, Winterthur
+           -Bührle, Emil
+           -Bundesanwaltschaft
+           -Bundesarchiv
+           -Buomberger, Dr. Emil, Stadtrat
+           -Buschor, Dr. G.
+           -Caminada, Christianus, Bischof von Chur
+           -Cassou, Jean, Paris
+           -Clairmont, Prof. Dr. P.
+           -Corbusier, Le
+           -Coudenhove-Kalergi
+           -Crispien, Arthur
+           -Daeniker, H.C.
+           -Danneberg, Frau Gertrud
+           -"Das Wohnen", Zeitschrift
+           -Deschanel, Paul, Paris
+           -"Die Nation", Zeitung
+           -"Die Tat", Zeitung
+           -Dittmann, Wilhelm
+           -Dub, Ella, Wien
+           -Duttweiler, Gottlieb (Migros u.a.)
+           -Egli, Fritz
+           -Ehrensperger, Dr. Friedrich
+           -Einsiedeln, Stift (Aebte Staub und Gut)
+           -Einstein, Frau Prof. Escher, Hermann, Direktor Zentralbibliothek
+           -Etter, Bundesrat
+           -Faesi, Robert
+           -Farbstein, Dr. David
+           -Finanzdepartement Basel
+           -Finanzinspektorat
+           -Finanzvorstand
+           -Flatz, Karl, Architekt
+           -Fonio, Prof. Dr. med. Antonio, Sils (Dossier)
+           -Forel, Prof. Dr. F.-A., Morges
+           -Fränkel, Prof. Dr. Jonas
+           -Frei, Hans, Wallisellen
+           -Frei, Heinrich, Gemeinderat
+           -Fretz, Gebrüder
+           -Freunde französischer Kultur
+           -Fricker, Hans, Ing. in Luzern
+           -Fürst, Robert
+           -Furrer, Albert
+           -Gemeinnützige Baugenossenschaft Waidberg
+           -Gemeinnützige Genossenschaft Krankenhaus Wollishofen
+           -Genet, Henri, Stadtrat in Lausanne
+           -Genossenschaft Hobel
+           -Gipser- und Malergenossenschaft Zürich
+           -Gewerkschaftsamt und -kartell Zürich (Dossier)
+           -Gitermann, Dr. Valentin
+           -Glaus, Otto, Architekt
+           -Greulich, Herman
+           -Grieder, H., Wallisellen
+           -Grimm, Robert, Nationalrat
+           -Grossmann, Prof. Dr. Eugen (Dossier)
+           -Grossmann, Prof. Dr. Marcel
+           -Grossmann, R.
+           -Grütliverein Zürich 1
+           -Gruner, Dr. E. (Basel/Bern)
+           -Günthard, Aloys, Regierungsrat
+           -Gubser, Dr. Ernst
+           -Guisan, Henri (General und Fondation)
+           -Haefeli, Moser und Steiger, Architekten
+           -Hämmig, Paul
+           -Hardmeyer, F.
+           -Hatt-Wiskemann, Eugen
+           -Heeb, Friedrich (Dossier)
+           -Hefti, Paul
+           -Helbling, Dr. Carl
+           -Herrmann, Otto
+           -Herzenberg, Alessandro, Mailand
+           -Heusser, Jakob, Oberrrichter
+           -Heymann, Berthold
+           -Hiltbrunner, Hermann
+           -Hirt, Frl. M.
+           -Hofmann-Schmidheiny, Eva
+           -Hubacher, Hermann
+           -Huber, Dr. Harald, St. Gallen
+           -Huber, Dr. Johannes, St. Gallen
+           -Huber, Prof. Dr. Max
+           -Hubmann, Eugen
+           -Hugues, C.J., Leicester
+           -Hungerbühler, Dr. Otto, Stadtrat
+           -Hunziker & Co., Zürich
+           -Internationale Konferenz für Asylrecht in Paris
+           -Jahrgängerverein 1877
+           -Jansen, H. und Anny, Berlin
+           -Jovanovitz, Katharina A.
+           -Joyce, James
+           -Jugoslawisch-schweizerischer Verein
+           -Kägi, Prof. Dr. Werner
+           -Kamber, Julian
+           -Kantonsrat Zürich
+           -Kaspar, A. und L., Berlin
+           -Kaufmann, Bernhard, Stadtrat
+           -Kaufmann, Willi
+           -Kautzky, Dr. Benedikt
+           -Kautzky, Karl
+           -Kautzky, Luise
+           -Kegelclub Dreilinden
+           -Keller, Ernst, Rechtsanwalt
+           -Keller, Dr. Konrad, Rechtskonsulent
+           -Kern, Hans, Stadtrat
+           -Kick, Bertha
+           -Killer, Frau Anni
+           -Kinderfreunde Zürich 6
+           -Kinderheim Rivapiana
+           -Klauser, A.
+           -Körner, Bürgermeister von Wien
+           -Kopp, W. (Arbeitskammer)
+           -Korkes aus Wien
+           -Korrodi, Dr. Eduard (Redaktor NZZ)
+           -Krayenbühl, Elsbeth und Ursula
+           -Kruck, Gustav, Stadtrat
+           -Kuntzenmüller, Dr. Albert, Freiburg i.B.
+           -Lämmel, Dr. Rudolf
+           -Landesring der Unabhängigen
+           -Landolt, Dr. Emil, Stadtpräsident
+           -Lang, Oberst D., Bern
+           -Lang, Oberrichter Otto
+           -Lanz, Ernst
+           -Lautenschlager, Stuttgart
+           -Lebensmittelverein Zürich
+           -Leibundgut, Prof. Dr. H.
+           -Löpfe-Benz, Ernst, Rorschach
+           -Löwy, Henriette
+           -Lüchinger, Frau (Witwe des Stadtpräsidenten)
+           -Lüscher-Widmer, Rudolf, Genf
+           -Lussy, A.
+           -Malaterre-Sellier, Mme., Paris
+           -Marbach, Prof. Fritz, Bern
+           -Marchand, Prof. Emile
+           -Maschinenfabrik Oerlikon
+           -Maurer, Adolf, Pfarrer
+           -Meier, Christian, Nationalrat, Netstal
+           -Meier, E., Meier, J., Lehrer in Seebach
+           -Meier, Stephan
+           -Meili, Oberst Armin (Direktor der Landesausstellung 1939)
+           -Menghetti, P.
+           -Mercier, Dr. Joachim, Glarus
+           -Meyer, Prof. Dr. Peter
+           -Meyner, Robert (Mittelpresse)
+           -Milhaud, Edgar, Genf
+           -Militärdepartement und Kriegstechnische Abteilung
+           -Militärdirektion
+           -Möri, A., Winterthur
+           -Morf-Hardmeyer, A.
+           -Moser, August
+           -Motta, Giuseppe, Bundesrat
+           -Müller, Ernst
+           -Müller, Hans
+           -Müller, Joseph G.
+           -Müller, Karl
+           -Müller, Lini (Gegenstand: Abbruch des Gutes von Rudolf Koller [Kollergut, „Hornau“] im Zürichhorn) Müller, Dr. Peter Felix, Basel Mülli, Albert
+           -Müry-Dietschy, E., Basel
+           -Munz, Paul
+           -Mussard, Charles
+           -Mussard, Jean, Biel
+           -Mustermesse Basel
+           -56 Briefe an und von Emil Klöti II N – Z
+        [Prüfhinweise]
+           +Liste nach den Anfangsbuchstaben verteilt (N – Z nach Titel), bitte prüfen.

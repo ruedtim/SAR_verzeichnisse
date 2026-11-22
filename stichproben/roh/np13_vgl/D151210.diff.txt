@@ -1,0 +1,8 @@
+### D151210: vorher 3161 Einheiten, nachher 3161 Einheiten
+WEG  VII.200.:4.1.2.38. [ID 547, Dossier, E4, Eltern VII.200.:4.1.2., S.115] Allgemeine Korrespondenz der künstlerischen Direktion | Genau (=)
+        D: Tageskopien ab 19. Jan. bis 3. Juli 1990
+NEU  VII.200.:4.1.3.38. [ID 585, Dossier, E4, Eltern VII.200.:4.1.3., S.115] Allgemeine Korrespondenz der künstlerischen Direktion | Genau (=)
+        D: Tageskopien ab 19. Jan. bis 3. Juli 1990
+        H: Im Findmittel «4.1.2.38.» zwischen 4.1.3.37. und 4.1.3.39. – als 4.1.3.38. gelesen (Tippfehler?), bitte prüfen.
+GEÄ  VII.200.:4.1.3.39. [ID 586, Dossier, E4, Eltern VII.200.:4.1.3., S.115] Allgemeine Korrespondenz über das künstlerische Personal | Von/bis (>= x und <=y)
+        Prüfhinweise: 'Nummerierung springt: nach 37 folgt 39.' => ''

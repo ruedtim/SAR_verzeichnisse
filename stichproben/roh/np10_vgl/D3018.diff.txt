@@ -1,0 +1,16 @@
+### D3018: vorher 200 Einheiten, nachher 200 Einheiten
+GEÄ  VII.174.:02.3.1.25. [ID 46, Dossier, E4, Eltern VII.174.:02.3.1., S.27] Bauabrechnung A - P | 
+        Schachtel-Nr.: '12' => '12-13'
+GEÄ  VII.174.:06.6.7. [ID 145, Dossier, E3, Eltern VII.174.:06.6., S.54] Kataloge der Vertreter, Kollektionen | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '54' => '54-55'
+GEÄ  VII.174.:08.8. [ID 198, Dossier, E2, Eltern VII.174.:08., S.78] Fotoalben | Von/bis (>= x und <=y)
+        [Darin]
+           -Nicht im Detail verzeichnet (Vgl. Zusammenfassung vorn.)
+           -Bilder (z. T. gerahmt), Schachtel 76
+           -Firmengeschichte, Ausstellung, Schachtel 77
+           -Nachtrag 1, Schachtel 78
+           -Nachtrag 2, Schachtel 79
+           -(Grf.); Cakeplatte (Keramik)
+        Umfang: '1 Mappe; 1 Mappe' => ''
+GEÄ  VII.174.:08.9. [ID 199, Dossier, E2, Eltern VII.174.:08., S.10] Bilder (z.T. gerahmt) | 
+        Schachtel-Nr.: '76' => '76-77'

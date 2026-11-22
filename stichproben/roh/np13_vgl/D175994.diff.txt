@@ -1,0 +1,10 @@
+### D175994: vorher 65 Einheiten, nachher 65 Einheiten
+GEÄ  IV.A.44. [ID 44, Dossier, E1, Eltern -, S.4] Armengutsrechnung | Von/bis (>= x und <=y)
+        [Darin]
+           -Gemeindegutsrechnungen, Rechnungsbeilagen
+           -(Es wurden die Jahrgänge 1893–1900 behalten, dann alle fünf Jahre, einige Jahre zur Zeit der 2. Eingemeindung, die Kriegsjahre der beiden Weltkriege und danach, was abge
+           +
+GEÄ  IV.A.45. [ID 45, Dossier, E1, Eltern -, S.4] Gemeinde, Grosser Stadtrat (seit 1934 Gemeinderat) und Stadtrat (Beilagen A, B, C) | Von/bis (>= x und <=y)
+        [Darin]
+           +(Es wurden die Jahrgänge 1893–1900 behalten, dann alle fünf Jahre, einige Jahre zur Zeit der 2. Eingemeindung, die Kriegsjahre der beiden Weltkriege und danach, was abge
+        Prüfhinweise: '' => 'Steht im Findmittel unter der Zwischenüberschrift «Gemeindegutsrechnungen, Rechnungsbeilagen (Es wurden die Jahrgänge 1893–1900 behalten, dann alle fünf Jahre, einige Jah'

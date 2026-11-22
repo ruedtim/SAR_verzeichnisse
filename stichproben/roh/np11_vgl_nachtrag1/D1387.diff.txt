@@ -1,0 +1,76 @@
+### D1387: vorher 33 Einheiten, nachher 3 Einheiten
+WEG  V.F.c.18.:1./T2 [ID 2, Dossier, E2, Eltern V.F.c.18.:1, S.1] Inspektionsrapporte der Kostkinderinspektorin | Von/bis (>= x und <=y)
+WEG  V.F.c.18.:2. [ID 3, Dossier, E1, Eltern -, S.1] Monatsrapporte des Arbeitsamtes | Von/bis (>= x und <=y)
+WEG  V.F.c.18.:3. [ID 4, Serie, E1, Eltern -, S.1] Rapporte über die Tätigkeit des Sanitätskorps | Genau (=)
+WEG  V.F.c.18.:4. [ID 6, Dossier, E1, Eltern -, S.1] Übersicht über die im chemischen Laboratorium ausgeführten Arbeiten und Untersuchungen | Von/bis (>= x und <=y)
+WEG  V.F.c.18.:5. [ID 7, Dossier, E1, Eltern -, S.1] Quartalberichte der Fleischschauer und Monatsberichte über die Fleischpreise | Von/bis (>= x und <=y)
+WEG  V.F.c.18.:6. [ID 8, Dossier, E1, Eltern -, S.1] Rapporte über Viehseuchen | Genau (=)
+WEG  V.F.c.18.:7. [ID 9, Dossier, E1, Eltern -, S.1] Handänderungsanzeigen der Notariate (nur Oberdorf) | Von/bis (>= x und <=y)
+WEG  V.F.c.18.:8. [ID 10, Dossier, E1, Eltern -, S.1] Belege betreffend die Pockenepidemie | Genau (=)
+WEG  V.F.c.18.:9. [ID 11, Dossier, E1, Eltern -, S.1] Auflagen | Von/bis (>= x und <=y)
+WEG  V.F.c.18.:10. [ID 12, Dossier, E1, Eltern -, S.1] Verwarnungen | Von/bis (>= x und <=y)
+WEG  V.F.c.18.:11. [ID 13, Dossier, E1, Eltern -, S.1] Bussenrapporte | Von/bis (>= x und <=y)
+WEG  V.F.c.18.:12. [ID 14, Dossier, E1, Eltern -, S.1] Tagesrapporte des Notkrankenhauses | Von/bis (>= x und <=y)
+WEG  V.F.c.18.:13. [ID 15, Dossier, E1, Eltern -, S.1] Rapporte des Stadtarztes über untersuchte Dirnen | Von/bis (>= x und <=y)
+WEG  V.F.c.18.:14. [ID 16, Dossier, E1, Eltern -, S.2] Leumundszeugnisse | Von/bis (>= x und <=y)
+WEG  V.F.c.18.:15. [ID 17, Dossier, E1, Eltern -, S.2] Legitimations- und Kontrollkarten | Von/bis (>= x und <=y)
+WEG  V.F.c.18.:16. [ID 18, Dossier, E1, Eltern -, S.2] Rapporte über nicht angemeldete Kostkinder | Von/bis (>= x und <=y)
+WEG  V.F.c.18.:17. [ID 19, Dossier, E1, Eltern -, S.2] Liste verstorbener illegitimer Kinder | Von/bis (>= x und <=y)
+WEG  V.F.c.18.:18. [ID 20, Dossier, E1, Eltern -, S.2] Kontrolle über Kostkinderbesuche durch Aufsichtsmitglieder | Von/bis (>= x und <=y)
+WEG  V.F.c.18.:19. [ID 21, Dossier, E1, Eltern -, S.2] Mutationen im Kostkinderbestand | Von/bis (>= x und <=y)
+WEG  V.F.c.18.:20. [ID 22, Dossier, E1, Eltern -, S.2] Monatsrapporte über Mütter-, Kinder – und Säuglingsheime | Von/bis (>= x und <=y)
+WEG  V.F.c.18.:21. [ID 23, Dossier, E1, Eltern -, S.2] Tabeastift. Abmeldungen | Von/bis (>= x und <=y)
+WEG  V.F.c.18.:22. [ID 24, Dossier, E1, Eltern -, S.2] Ergebnis der Nachschau der im Jahre 1908/09 unterstützten Schüler durch das Kinderfürsorgeamt Zürich | Von/bis (>= x und <=y)
+WEG  V.F.c.18.:23. [ID 25, Dossier, E1, Eltern -, S.2] Auswärtige Kostorte (Offerten, Kopien) | Von/bis (>= x und <=y)
+WEG  V.F.c.18.:24. [ID 26, Dossier, E1, Eltern -, S.2] Rapporte des Zentralkontrollbureaus über Kostkinder | Von/bis (>= x und <=y)
+WEG  V.F.c.18.:25. [ID 27, Dossier, E1, Eltern -, S.2] Rapporte des Zivilstandsamtes über verstorbene illegitime Kostkinder | Von/bis (>= x und <=y)
+WEG  V.F.c.18.:26. [ID 28, Dossier, E1, Eltern -, S.2] Kostorte. Bewilligte und nicht bewilligte | Von/bis (>= x und <=y)
+WEG  V.F.c.18.:27. [ID 29, Dossier, E1, Eltern -, S.2] Schwarze Liste auswärtiger Pflegeeltern | Von/bis (>= x und <=y)
+WEG  V.F.c.18.:28. [ID 30, Dossier, E1, Eltern -, S.2] Krankentransportrapporte | Von/bis (>= x und <=y)
+WEG  V.F.c.18.:29. [ID 31, Dossier, E1, Eltern -, S.2] Rapporte der Desinfektionsanstalt | Von/bis (>= x und <=y)
+WEG  V.F.c.18.:30. [ID 32, Dossier, E1, Eltern -, S.2] Betriebsstatistiken des Sanitätskorps | Von/bis (>= x und <=y)
+WEG  V.F.c.18.:31. [ID 33, Dossier, E1, Eltern -, S.2] Sanitätspolizei: Arbeitsberichte der Desinfektionsanstalt | Von/bis (>= x und <=y)
+NEU  V.F.c.18.:2 [ID 2, Dossier, E1, Eltern -, S.2] Schachtel 2 | Von/bis (>= x und <=y)
+        D: 14. Leumundszeugnisse, 1893 – 1924
+        D: 15. Legitimations- und Kontrollkarten, 1895 – 1926
+        D: 16. Rapporte über nicht angemeldete Kostkinder, 1899 – 1900
+        D: 17. Liste verstorbener illegitimer Kinder, 1900 – 1918
+        D: 18. Kontrolle über Kostkinderbesuche durch Aufsichtsmitglieder, 1902 – 1903
+        D: 19. Mutationen im Kostkinderbestand, 1902 – 1924
+        D: 20. Monatsrapporte über Mütter-, Kinder – und Säuglingsheime, 1904 – 1925
+        D: 21. Tabeastift. Abmeldungen, 1904 – 1918
+        D: … (17 Zeilen)
+GEÄ  V.F.c.18.:1 [ID 1, Dossier, E1, Eltern -, S.1] Schachtel 1 | Von/bis (>= x und <=y)
+        Stufe: 'Serie' => 'Dossier'
+        bis: '1901' => '1932'
+        Entstehungszeitraum, Anm.: '' => '1900 – 1901; Darin: 1893–1932'
+        [Darin]
+           -
+           +1. Inspektionsrapporte der Kostkinderinspektorin, 1893
+           +2. Monatsrapporte des Arbeitsamtes, 1900 – 1901
+           +3. Rapporte über die Tätigkeit des Sanitätskorps, 1901
+           +4. Übersicht über die im chemischen Laboratorium ausgeführten Arbeiten und Untersuchungen, 1897 – 1900
+           +5. Quartalberichte der Fleischschauer und Monatsberichte über die Fleischpreise, 1896 – 1897
+           +6. Rapporte über Viehseuchen, 1897
+           +7. Handänderungsanzeigen der Notariate (nur Oberdorf), 1894 – 1895
+           +8. Belege betreffend die Pockenepidemie, 1900
+           +9. Auflagen, 1902 – 1932
+           +10. Verwarnungen, 1902 – 1910
+           +11. Bussenrapporte, 1902 – 1910
+           +12. Tagesrapporte des Notkrankenhauses, 1901 – 1912
+           +13. Rapporte des Stadtarztes über untersuchte Dirnen, 1905 – 1915
+        Zeitraum-Quelle: 'Untereinheiten' => 'Datumsspalte'
+GEÄ  V.F.c.18.:3 [ID 3, Dossier, E1, Eltern -, S.2] Mappe | Von/bis (>= x und <=y)
+        Ebene: '2' => '1'
+        Teil: '2' => ''
+        Übergeordnete Signatur: 'V.F.c.18.:3.' => 'V.F.c.18.'
+        Entstehungszeitraum: 'Genau (=)' => 'Von/bis (>= x und <=y)'
+        von: '1901' => '1936'
+        bis: '' => '1942'
+        [Darin]
+           -
+           +31. Sanitätspolizei: Arbeitsberichte der Desinfektionsanstalt, 1936 – 1942
+        Schachtel-Nr.: '2' => ''
+        Zeitraum-Quelle: 'übergeordnete Einheit' => 'Datumsspalte'
+        Prüfhinweise: 'Signatur taucht erneut auf, nachdem schon andere Signaturen folgten.' => ''
+        Eltern: 'V.F.c.18.:3.' => '-'

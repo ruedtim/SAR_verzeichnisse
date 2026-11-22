@@ -1,0 +1,33 @@
+### D152817: vorher 704 Einheiten, nachher 704 Einheiten
+WEG  VI.SB.103. [ID 543, Dossier, E1, Eltern -, S.16] Hauptbuch der Gemeindewerke | Von/bis (>= x und <=y)
+        D: 1925, 1930-1933
+NEU  VI.SB.C.103. [ID 388, Serie, E2, Eltern VI.SB.C., S.16] Hauptbuch der Gemeindewerke | Von/bis (>= x und <=y)
+        D: 1925, 1930-1933
+        H: Im Findmittel «VI.SB.103.» – als «VI.SB.C.103.» gelesen (Abschnitt C fehlt), bitte prüfen.
+GEÄ  VI.SB.C.103.:1 [ID 389, Dossier, E3, Eltern VI.SB.C.103., S.16] Band 1 | Genau (=)
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'VI.SB.C.' => 'VI.SB.C.103.'
+        Prüfhinweise: 'Übergeordnete Signatur C.103. fehlt im Findmittel; eingehängt unter C.' => ''
+        Eltern: 'VI.SB.C.' => 'VI.SB.C.103.'
+GEÄ  VI.SB.C.103.:2 [ID 390, Dossier, E3, Eltern VI.SB.C.103., S.16] Band 2 | Genau (=)
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'VI.SB.C.' => 'VI.SB.C.103.'
+        Prüfhinweise: 'Übergeordnete Signatur C.103. fehlt im Findmittel; eingehängt unter C.' => ''
+        Eltern: 'VI.SB.C.' => 'VI.SB.C.103.'
+GEÄ  VI.SB.C.103.:3 [ID 391, Dossier, E3, Eltern VI.SB.C.103., S.16] Band 3 | Genau (=)
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'VI.SB.C.' => 'VI.SB.C.103.'
+        Prüfhinweise: 'Übergeordnete Signatur C.103. fehlt im Findmittel; eingehängt unter C.' => ''
+        Eltern: 'VI.SB.C.' => 'VI.SB.C.103.'
+GEÄ  VI.SB.C.103.:4 [ID 392, Dossier, E3, Eltern VI.SB.C.103., S.16] Band 4 | Genau (=)
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'VI.SB.C.' => 'VI.SB.C.103.'
+        Prüfhinweise: 'Übergeordnete Signatur C.103. fehlt im Findmittel; eingehängt unter C.' => ''
+        Eltern: 'VI.SB.C.' => 'VI.SB.C.103.'
+GEÄ  VI.SB.C.103.:5 [ID 393, Dossier, E3, Eltern VI.SB.C.103., S.16] Band 5 | Genau (=)
+        Ebene: '2' => '3'
+        Übergeordnete Signatur: 'VI.SB.C.' => 'VI.SB.C.103.'
+        Prüfhinweise: 'Übergeordnete Signatur C.103. fehlt im Findmittel; eingehängt unter C.' => ''
+        Eltern: 'VI.SB.C.' => 'VI.SB.C.103.'
+GEÄ  VI.SB.C.104. [ID 394, Dossier, E2, Eltern VI.SB.C., S.16] Kassabuch "Binzmühle-Gewerbe" und Wasserversorgung | Von/bis (>= x und <=y)
+        Prüfhinweise: 'Nummerierung springt: nach 102 folgt 104.' => ''

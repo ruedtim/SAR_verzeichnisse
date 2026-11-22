@@ -1,0 +1,12 @@
+### D175454: vorher 78 Einheiten, nachher 78 Einheiten
+GEÄ  V.L.82.:4. [ID 74, Teilbestand, E1, Eltern -, S.6] Bildmaterial (photographische Reproduktionen) | Von/bis (>= x und <=y)
+        bis: '1971' => '1918'
+GEÄ  V.L.82.:4.4. [ID 78, Dossier, E2, Eltern V.L.82.:4., S.7] (1) | Genau (=)
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => 'Genau (=)'
+        bis: '1971' => ''
+        [Darin]
+           -Die Literatur bis 1968 ist verzeichnet bei: Willi Gautschi, Der Landesstreik 1918, Zürich/Einsiedeln/Köln 1968 [Bibliothek des Stadtarchivs Bb 1294: 1]
+           -Vgl. ferner: Dokumente zum Landesstreik 1918, herausgegeben von Willi Gautschi, Zürich/Einsiedeln/Köln 1971 [Bibliothek des Stadtarchivs Bb 1294: 2]
+           -Der Landesstreik-Prozess gegen die Mitglieder des Oltener Aktionskomitees vor dem Militärgericht 3 vom 12. März bis 9. April 1919. Mit einem Vorwort von Robert
+        [Prüfhinweise]
+           -Nach der letzten Einheit steht im Findmittel ein Absatz ohne Signatur («Die Literatur bis 1968 ist verzeichnet bei:» …) – hier im Darin übernommen, bitte prüfe

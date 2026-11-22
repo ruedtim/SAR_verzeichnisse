@@ -1,0 +1,15 @@
+### D3067: vorher 80 Einheiten, nachher 80 Einheiten
+GEÄ  VII.191.:IV.A.5. [ID 31, Dossier, E3, Eltern VII.191.:IV.A., S.9] Schreiben des Dr. Paul Schweizer, Staatsarchivar, vom 25.5.1891, das derselbe, hinter dem Rücken der Gesuchsteller, an den h. Regierungsrath gerichtet hat. | Genau (=)
+        Stufe: 'Serie' => 'Dossier'
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => 'Genau (=)'
+        von: '28.07.1891' => '25.05.1891'
+        bis: '18.08.1891' => ''
+        Zeitraum-Quelle: 'Untereinheiten' => 'Titel (Ereignisdatum)'
+GEÄ  VII.191.:IV.A.5.a. [ID 32, Dossier, E3, Eltern VII.191.:IV.A., S.9] Antwort des h. Stadtrathes von Zürich vom 28.7.1891 an den Bezirksrath, auf die Anfrage der h. Regierung | Genau (=)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.191.:IV.A.5.' => 'VII.191.:IV.A.'
+        Eltern: 'VII.191.:IV.A.5.' => 'VII.191.:IV.A.'
+GEÄ  VII.191.:IV.A.5.b. [ID 33, Dossier, E3, Eltern VII.191.:IV.A., S.9] Antwort des h. Bezirksrathes vom 13./18. August 1891 auf die Anfrage der h. Regierung, resp. der h. Direction des Innern. | Von/bis (>= x und <=y)
+        Ebene: '4' => '3'
+        Übergeordnete Signatur: 'VII.191.:IV.A.5.' => 'VII.191.:IV.A.'
+        Eltern: 'VII.191.:IV.A.5.' => 'VII.191.:IV.A.'

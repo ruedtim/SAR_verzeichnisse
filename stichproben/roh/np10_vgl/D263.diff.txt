@@ -1,0 +1,31 @@
+### D263: vorher 18 Einheiten, nachher 18 Einheiten
+GEÄ  V.A.c.39.:2. [ID 2, Dossier, E1, Eltern -, S.1] Mitspracherecht, Motion Leuenberger | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.A.c.39.:3. [ID 3, Dossier, E1, Eltern -, S.1] Aeusserungen der Personalverbände | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.A.c.39.:4. [ID 4, Dossier, E1, Eltern -, S.1] Weisungen über Taggelder, Ueberkleider | Genau (=)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.A.c.39.:5. [ID 5, Dossier, E1, Eltern -, S.1] Aeusserungen der Verwaltungs-Abteilungen und Personal-Organisationen | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.A.c.39.:6. [ID 6, Dossier, E1, Eltern -, S.1] Aeusserungen des Rechtskonsulenten | Genau (=)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.A.c.39.:7. [ID 7, Dossier, E1, Eltern -, S.1] Aeusserungen der Versicherungskasse | Genau (=)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.A.c.39.:8. [ID 8, Dossier, E1, Eltern -, S.1] Aeusserungen des Bauvorstandes II | Genau (=)
+        Schachtel-Nr.: '' => 'I'
+GEÄ  V.A.c.39.:10. [ID 10, Dossier, E1, Eltern -, S.1] Bemerkungen zum Entwurf der Personalverbände | Genau (=)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.A.c.39.:11. [ID 11, Dossier, E1, Eltern -, S.1] Anträge, Weisungen, Berichte, Berechnungen und Eingaben | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.A.c.39.:12. [ID 12, Dossier, E1, Eltern -, S.1] Notizen für die Weisung. Stenogramm | Genau (=)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.A.c.39.:13. [ID 13, Dossier, E1, Eltern -, S.1] Kommissions-Verhandlungen | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'II'
+GEÄ  V.A.c.39.:15. [ID 15, Dossier, E1, Eltern -, S.1] Weisungs-Entwurf | Genau (=)
+        Schachtel-Nr.: '' => 'III'
+GEÄ  V.A.c.39.:16. [ID 16, Dossier, E1, Eltern -, S.1] Personal-Statistik | Genau (=)
+        Schachtel-Nr.: '' => 'III'
+GEÄ  V.A.c.39.:17. [ID 17, Dossier, E1, Eltern -, S.1] Anfragen und Antworten | Genau (=)
+        Schachtel-Nr.: '' => 'III'
+GEÄ  V.A.c.39.:18. [ID 18, Dossier, E1, Eltern -, S.1] Gemeindeordnungen Basel und Bern | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => 'III'

@@ -1,0 +1,103 @@
+### D3898: vorher 102 Einheiten, nachher 102 Einheiten
+GEÄ  X.E.2. [ID 2, Dossier, E1, Eltern -, S.1] Gemeinderathskanzlei Affoltern b. Zürich Ct. Zürich | 
+        [Darin]
+           -Albisrieden
+           +
+GEÄ  X.E.3. [ID 3, Dossier, E1, Eltern -, S.1] Schulpflege Albisrieden, Wappenkreuz | 
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Albisrieden».
+GEÄ  X.E.5. [ID 5, Dossier, E1, Eltern -, S.1] Fürsorgekommission Albisrieden | 
+        [Darin]
+           -Aussersihl
+           +
+GEÄ  X.E.6. [ID 6, Dossier, E1, Eltern -, S.1] Gemeinderath Aussersihl, Wappen von Aussersihl mit vierzinniger Mauerkrone | 
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Aussersihl».
+GEÄ  X.E.12. [ID 12, Dossier, E1, Eltern -, S.1] Armenpflege für Niedergelassene Aussersihl, Wappen von Aussersihl | 
+        [Darin]
+           -Enge / Leimbach
+           +
+GEÄ  X.E.13. [ID 13, Dossier, E1, Eltern -, S.1] Gemeindeammannamt Enge - Leimbach bei Zürich, drei Könige | 
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Enge / Leimbach».
+GEÄ  X.E.17. [ID 17, Dossier, E1, Eltern -, S.2] Betreibungsamt Enge Kanton Zürich, sitzender König nach rechts schauend, Schwert in der rechten Hand | 
+        [Darin]
+           -Fluntern
+           +
+GEÄ  X.E.18. [ID 18, Dossier, E1, Eltern -, S.2] Gemeindrath Fluntern | 
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Fluntern».
+GEÄ  X.E.21. [ID 21, Dossier, E1, Eltern -, S.2] Section Fluntern | 
+        [Darin]
+           -Hirslanden
+           +
+GEÄ  X.E.22. [ID 22, Dossier, E1, Eltern -, S.2] Gemeindrathscanzley Hirslanden, zwei Hirsehalme | 
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Hirslanden».
+GEÄ  X.E.24. [ID 24, Dossier, E1, Eltern -, S.2] Armenpflege Hirslanden | 
+        [Darin]
+           -Höngg
+           +
+GEÄ  X.E.25. [ID 25, Dossier, E1, Eltern -, S.2] Gemeinderat Höngg, Wappen von Höngg | 
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Höngg».
+GEÄ  X.E.27. [ID 27, Dossier, E1, Eltern -, S.2] Sekundarschulamts-Verwaltung Höngg | 
+        [Darin]
+           -Hottingen
+           +
+GEÄ  X.E.28. [ID 28, Dossier, E1, Eltern -, S.2] Kanzlei d. Gemeindrathes Hottingen, Wappen von Hottingen mit zwei Lorbeerzweigen | 
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Hottingen».
+GEÄ  X.E.29. [ID 29, Dossier, E1, Eltern -, S.2] Kanzlei d. Gemeindrathes Hottingen, Wappen von Hottingen mit zwei Lorbeerzweigen | 
+        [Darin]
+           -Oberstrass
+           +
+GEÄ  X.E.30. [ID 30, Dossier, E1, Eltern -, S.2] Armengutsverwaltung Oberstrass | 
+        [Darin]
+           -Schwamendingen
+           +
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Oberstrass».
+GEÄ  X.E.31. [ID 31, Dossier, E1, Eltern -, S.2] Garantiecommission Schwamendingen | 
+        [Darin]
+           -Unterstrass
+           +
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Schwamendingen».
+GEÄ  X.E.32. [ID 32, Dossier, E1, Eltern -, S.2] Gemeindrath Unterstrass | 
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Unterstrass».
+GEÄ  X.E.35. [ID 35, Dossier, E1, Eltern -, S.3] Armenpflege Unterstrass Amtlich | 
+        [Darin]
+           -Wiedikon
+           +
+GEÄ  X.E.36. [ID 36, Dossier, E1, Eltern -, S.3] Gemeindrath Wiedikon | 
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Wiedikon».
+GEÄ  X.E.38. [ID 38, Dossier, E1, Eltern -, S.3] Einwohner – Armenpflege Wiedikon Ct. Zürich | 
+        [Darin]
+           -Wipkingen
+           +
+GEÄ  X.E.39. [ID 39, Dossier, E1, Eltern -, S.3] Friedensrichteramt Wipkingen, C Zürcherwappen Z | 
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Wipkingen».
+GEÄ  X.E.40. [ID 40, Dossier, E1, Eltern -, S.3] Militär-Section Wipkingen | 
+        [Darin]
+           -Wollishofen
+           +
+GEÄ  X.E.41. [ID 41, Dossier, E1, Eltern -, S.3] Gemeindeammannamt Wollishofen Ct. Zürich | 
+        [Darin]
+           -Stadt Zürich
+           +
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Wollishofen».
+GEÄ  X.E.60. [ID 42, Dossier, E1, Eltern -, S.3] Stadt Zürich, Wappen mit Lorbeerzweig, vierzinnige Mauerkrone | 
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Stadt Zürich».
+GEÄ  X.E.116. [ID 98, Dossier, E1, Eltern -, S.5] LZ N 5 | 
+        [Darin]
+           -Nachträge und Diverses
+           +
+GEÄ  X.E.117. [ID 99, Dossier, E1, Eltern -, S.5] Stadtpräsident von Zürich, Wappen mit vierzinniger Krone | 
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Zwischenüberschrift «Nachträge und Diverses».

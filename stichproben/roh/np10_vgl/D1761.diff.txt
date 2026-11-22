@@ -1,0 +1,29 @@
+### D1761: vorher 20 Einheiten, nachher 20 Einheiten
+GEÄ  V.G.c.12.:2. [ID 2, Dossier, E1, Eltern -, S.1] Kräuelstrasse | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.G.c.12.:3. [ID 3, Dossier, E1, Eltern -, S.1] Strassennetz im Kräuel | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.G.c.12.:4. [ID 4, Dossier, E1, Eltern -, S.1] Akten betr. die Überbauung des ehemaligen Hochschulareals. (Prozess mit Sprüngli / Escher) | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.G.c.12.:5. [ID 5, Dossier, E1, Eltern -, S.1] Programm für ein Strassennetz der Stadt Zürich | Genau (=)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.G.c.12.:6. [ID 6, Dossier, E1, Eltern -, S.1] Korrektion des unteren Hirschengrabens | Genau (=)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.G.c.12.:7. [ID 7, Dossier, E1, Eltern -, S.1] Strassenverbindung Zeltweg - Hirschengraben | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '1'
+GEÄ  V.G.c.12.:9. [ID 9, Dossier, E1, Eltern -, S.1] Korrektion der Lindengasse | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.G.c.12.:10. [ID 10, Dossier, E1, Eltern -, S.1] Baulinie Bärengasse. Platz hinter der ehemaligen Kaserne | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.G.c.12.:11. [ID 11, Dossier, E1, Eltern -, S.1] Vollendung des Stadelhofer- und Stadthausquartiers | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.G.c.12.:12. [ID 12, Dossier, E1, Eltern -, S.1] Baumeistersche Liegenschaft an der Seehofstrasse in Riesbach | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.G.c.12.:13. [ID 13, Dossier, E1, Eltern -, S.1] Amtshaus. Spitalquartier | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '2'
+GEÄ  V.G.c.12.:15. [ID 15, Dossier, E1, Eltern -, S.1] Rordorfsche Liegenschaft "Auf der Mauer", Weinbergstrasse | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '3'
+GEÄ  V.G.c.12.:16. [ID 16, Dossier, E1, Eltern -, S.1] Korrektion der St. Annagasse | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '3'
+GEÄ  V.G.c.12.:18. [ID 18, Dossier, E1, Eltern -, S.1] Peterstrassen-Projekt | Von/bis (>= x und <=y)
+        Schachtel-Nr.: '' => '4'

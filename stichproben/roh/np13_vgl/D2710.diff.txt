@@ -1,0 +1,48 @@
+### D2710: vorher 12 Einheiten, nachher 12 Einheiten
+GEÄ  V.L.5.:1/T2 [ID 2, Dossier, E2, Eltern V.L.5.:1, S.3] Jahresdokumentation | Von/bis (>= x und <=y)
+        [Darin]
+           +Vorbemerkungen zu den Schachteln 1 bis 5 (1803 - 1892):
+           +Die Jahrgänge vor 1874 umfassen Akten und Materialien (in meist geringerem Umfang).
+           +Die Jahresdokumentationen 1874 bis 1892 sind wie folgt aufgebaut:
+           +Doppelverzeichnisse: Doppelverzeichnisse Knabenschiessen der Stadt Zürich
+           +Doppelverzeichnisse Knaben-Frei-Schiessen
+           +Absendlisten: Absendliste Knabenschiessen der Stadt Zürich
+           +Absendliste Knaben-Frei-Schiessen
+           +Gaben und Ehrengaben: Gabenverzeichnis
+           +Ehrengaben Knabenschiessen der Stadt Zürich
+           +Ehrengaben Knaben-Frei-Schiessen
+           +Akten und Materialien
+        [Prüfhinweise]
+           +Steht im Findmittel unter der Überschrift «JAHRESDOKUMENTATION». Die Vorbemerkung «Vorbemerkungen zu den Schachteln 1 bis 5 (1803 - 1892):» steht im Findmittel vor diese
+GEÄ  V.L.5.:2 [ID 3, Serie, E1, Eltern -, S.2] Stadtratsbeschlüsse zum Knabenschiessen (Liste, 1893 bis 1928) | Von/bis (>= x und <=y)
+        [Darin]
+           -[Platzreserve für Zuwachs; vorproduzierte Mäpplein in der Schachtel] JAHRESDOKUMENTATION
+           -Vorbemerkungen zu den Schachteln 1 bis 5 (1803 - 1892):
+           -Die Jahrgänge vor 1874 umfassen Akten und Materialien (in meist geringerem Umfang).
+           -Die Jahresdokumentationen 1874 bis 1892 sind wie folgt aufgebaut:
+           -Doppelverzeichnisse: Doppelverzeichnisse Knabenschiessen der Stadt Zürich
+           -Doppelverzeichnisse Knaben-Frei-Schiessen
+           -Absendlisten: Absendliste Knabenschiessen der Stadt Zürich
+           -Absendliste Knaben-Frei-Schiessen
+           -Gaben und Ehrengaben: Gabenverzeichnis
+           -Ehrengaben Knabenschiessen der Stadt Zürich
+           -Ehrengaben Knaben-Frei-Schiessen
+           -Akten und Materialien
+           +[Platzreserve für Zuwachs; vorproduzierte Mäpplein in der Schachtel]
+GEÄ  V.L.5.:5 [ID 7, Dossier, E1, Eltern -, S.3] Jahresdokumentation | Von/bis (>= x und <=y)
+        Titel: 'Jahresdokumentation 1889 bis 1892' => 'Jahresdokumentation'
+        bis: '1899' => '1892'
+        [Darin]
+           -Vorbemerkung zu den Schachteln 6 ff. (seit 1893):
+           -Die Jahresdokumentationen seit 1893 enthalten verschiedene Materialien, Zeitungsausschnitte, z. T. auch Akten und Bildmaterial.
+           -Nach der Stadtvereinigung fand zunächst kein Knabenschiessen mehr statt (1893 bis 1898). 1899 wurde es – in veränderter Form – wiederaufgenommen, und zwar im Albisgütli 
+        Zeitraum-Quelle: 'Titel und Darin (geschätzt)' => 'Titel'
+        [Prüfhinweise]
+           -Zeitraum aus den Jahreszahlen in Titel und Darin geschätzt.
+GEÄ  V.L.5.:6 [ID 8, Dossier, E1, Eltern -, S.4] Jahresdokumentation | Von/bis (>= x und <=y)
+        [Darin]
+           +Vorbemerkung zu den Schachteln 6 ff. (seit 1893):
+           +Die Jahresdokumentationen seit 1893 enthalten verschiedene Materialien, Zeitungsausschnitte, z. T. auch Akten und Bildmaterial.
+           +Nach der Stadtvereinigung fand zunächst kein Knabenschiessen mehr statt (1893 bis 1898). 1899 wurde es – in veränderter Form – wiederaufgenommen, und zwar im Albisgütli 
+        [Prüfhinweise]
+           +Die Vorbemerkung «Vorbemerkung zu den Schachteln 6 ff. (seit 1893):» steht im Findmittel vor dieser Schachtel – hier im Darin übernommen.

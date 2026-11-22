@@ -1,0 +1,10 @@
+### D2733: vorher 3 Einheiten, nachher 3 Einheiten
+GEÄ  V.L.71.:3 [ID 3, Dossier, E1, Eltern -, S.1] Schachtel 3 | Genau (=)
+        Entstehungszeitraum: 'Von/bis (>= x und <=y)' => 'Genau (=)'
+        von: '1893' => '1912'
+        bis: '1933' => ''
+        [Darin]
+           -Verweise auf andere Bestände
+           -V.E. c. 48. Polizeivorstand; Verschiedene Akten 1893 - 1933; Nr. 7: Generalstreik 1. August 1919 [1919 - 1920]
+           -V.F. c.19. Gesundheitswesen; Verschiedene Akten 1893 ff.; Nr. 54: Akten betreffend Generalstreiks 1912 - 1919
+           -V.G. c.70. Bauamt II; Verschiedene Akten des Hochbauinspektorats; Nr. 10: Generalstreiks und Demonstrationen 1912 - 1919

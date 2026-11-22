@@ -1,0 +1,9 @@
+### D3533: vorher 15 Einheiten, nachher 16 Einheiten
+NEU  VII.328. [ID 16, Bestand, E1, Eltern -, S.1] Betriebsschlosser und Chauffeur Alfred Jud-Frei (1914-1995). Nachlass, 1914-1993 | Von/bis (>= x und <=y)
+        D: Alfred Jud-Frei, 9.7.1914 – 23.7.1995, von Stäfa, Bauschlosser und Berufschauffeur. Kurzbiografie liegt bei.
+        H: Stück ohne Nummer im Findmittel («Alfred Jud-Frei, 9.7.1914 – 23.7.1995, von Stäfa, Bauschlosser und Ber», S. 1) – hier beim Bestand übernommen (keine Signatur erfunden); in scope beim Bestand ergänzen oder von Hand als Einheit anlegen.
+GEÄ  VII.328.:3.6. [ID 15, Dossier, E2, Eltern VII.328.:3., S.1] Die Schweizer Armee in den Kriegsjahren 1939 – 1941. Herausgegeben von Oberst. I. Gst. Roger Masson | Genau (=)
+        [Darin]
+           -Alfred Jud-Frei, 9.7.1914 – 23.7.1995, von Stäfa, Bauschlosser und Berufschauffeur. Kurzbiografie liegt bei.
+           +
+        Prüfhinweise: 'Nach der letzten Einheit steht im Findmittel ein Absatz ohne Signatur («Alfred Jud-Frei, 9.7.1914 – 23.7.1995, von Stäfa, Bauschloss» …) – hier im Darin übernommen, bitte' => ''

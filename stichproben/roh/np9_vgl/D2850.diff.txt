@@ -1,0 +1,149 @@
+### D2850: vorher 71 Einheiten, nachher 68 Einheiten
+WEG  VII.109.:2.1939. [ID 3, Dossier, E2, Eltern VII.109.:2., S.12] Die Stellung der Stadt Zürich im Kanton | Von/bis (>= x und <=y)
+        D: 03.02.1939 Der Finanzhaushalt im Jahre 1939 (SP Zürich 7)
+        D: 20.07.1939 Die Selbstverwaltung der Stadt Zürich (Summer school) um 1940 Ueber Finanzfragen der Stadt (Titelblatt fehlt)
+        D: 18.02.1940 Die Wirkungen der Finanzmassnahmen des Bundes auf Kanton und Gemeinden
+        D: 03.06.1940 Finanzen der Stadt Zürich in Kriegszeit (Volkshochschule) 24.07.1940 Ruf an die Schweiz (Entwurf)
+        D: 13.08.1940 Eine Anregung (betrifft Arbeitsbeschaffung)
+        D: 1941 Was will die Sozialdemokratie?
+        D: 29.01.1941 Die Besoldungsvorlage (Gewerkschaftsdelegation)
+        D: 04.10.1941 Landsgemeinde der Zürcher Jugend
+        D: … (17 Zeilen)
+WEG  VII.109.:12.1961. [ID 14, Dossier, E2, Eltern VII.109.:12., S.12] Ein Erlebnis aus der Zeit des 2. Weltkrieges (Oerlikon) 01.06.1962 Erinnerungen aus ernster Zeit (Mitgliedschaft Zürich 7) 14.11.1962 Erinnerungen (Neuhausen) | Von/bis (>= x und <=y)
+        D: 17.12.1962 Erinnerungen (Zürich 3); "Rückblick", verschiedene Fragmente
+        D: Nachrufe
+        D: 27.10.1934 Stadtrat Gustav Kruck
+        D: 16.02.1935 Stadtrat Otto Sing
+        D: 09.01.1948 Ständerat Karl Killer in Baden
+        D: Festansprachen 1930 – 1942
+        D: Weitere Referate, die Klöti unter Sachgruppen eingereiht hatte – z.B. unter Wohnungsbau – wurden dort belassen. Waren Doppel vorhanden, so wurde ein Exemplar in diese chronolgische Sammlung eingereiht
+WEG  VII.109.:65.A. [ID 70, Dossier, E2, Eltern VII.109.:65., S.23] Engelhardt | 
+        D: Zinnteller mit Ansicht des 1886 abgebrochenen Bauhauses (“Stadthaus”), 1942 verliehen anlässlich des Rücktritts von Emil Klöti von den Dienstchefs und dem Sekretariat der Verwaltungsabteilung des Stad
+        D: Aktenmappe von Emil Klöti undatiert
+GEÄ  VII.109.:2. [ID 2, Dossier, E1, Eltern -, S.2] Eidgenössische Finanzpolitik II mit Doppelbesteuerungsabkommen 1948 – 1954 | Von/bis (>= x und <=y)
+        Stufe: 'Teilbestand' => 'Dossier'
+GEÄ  VII.109.:12. [ID 12, Dossier, E1, Eltern -, S.2] Wohnungsbaupolitik II | Von/bis (>= x und <=y)
+        Stufe: 'Teilbestand' => 'Dossier'
+        Prüfhinweise: 'Untereinheiten reichen über den Zeitraum hinaus (01.06.1962–14.11.1962).' => ''
+GEÄ  VII.109.:53. [ID 55, Dossier, E1, Eltern -, S.12] Referate und Vorträge II | Von/bis (>= x und <=y)
+        [Darin]
+           +2.1939 Die Stellung der Stadt Zürich im Kanton
+           +03.02.1939 Der Finanzhaushalt im Jahre 1939 (SP Zürich 7) 20.07.1939 Die Selbstverwaltung der Stadt Zürich (Summer school) um 1940 Ueber Finanzfragen der Stadt (Titelblatt fehlt)
+           +18.02.1940 Die Wirkungen der Finanzmassnahmen des Bundes auf Kanton und Gemeinden
+           +03.06.1940 Finanzen der Stadt Zürich in Kriegszeit (Volkshochschule) 24.07.1940 Ruf an die Schweiz (Entwurf)
+           +13.08.1940 Eine Anregung (betrifft Arbeitsbeschaffung)
+           +1941 Was will die Sozialdemokratie?
+           +29.01.1941 Die Besoldungsvorlage (Gewerkschaftsdelegation) 04.10.1941 Landsgemeinde der Zürcher Jugend
+           +1943 Nationalratswahlen 1943 (Schwanden)
+           +11.01.1944 Gemeinnütziger Wohnungsbau-Rückblick und Ausblick (GV des Schweizerischen Verbandes für Wohnungsbau in Olten)
+           +12.01.1945 Aus der Bundespolitik (Mitgliedschaft Zürich 7) 26.01.1945 Wohnungswesen und Landesplanung (Volkshochschule) 02.04.1948 Zwanzig Jahre rotes Zürich (Oerlikon)
+           +08.04.1948 Zwanzig Jahre rotes Zürich (SP Zürich 3)
+           +1948 Die politischen Verhältnisse
+           +17.10.1952 Dankworte bei der Geburtstagsfeier im Limmathaus 06.10.1955 Die politische Lage (Pensioniertenverein des VPOD) 16.09.1957 Plauderei im Suvrettahaus
+           +15.01.1958 Zur Regionalplanung Zürich (Gründungsversammlung) 21.03.1959 Das Baurecht (Sektion Zch. d. Verbandes für Wohnungswesen)
+           +12.1961 Ein Erlebnis aus der Zeit des 2. Weltkrieges (Oerlikon) 01.06.1962 Erinnerungen aus ernster Zeit (Mitgliedschaft Zürich 7) 14.11.1962 Erinnerungen (Neuhausen)
+           +17.12.1962 Erinnerungen (Zürich 3); "Rückblick", verschiedene Fragmente
+           +Nachrufe
+           +27.10.1934 Stadtrat Gustav Kruck
+           +16.02.1935 Stadtrat Otto Sing
+           +09.01.1948 Ständerat Karl Killer in Baden
+           +Festansprachen 1930 – 1942
+           +Weitere Referate, die Klöti unter Sachgruppen eingereiht hatte – z.B. unter Wohnungsbau – wurden dort belassen. Waren Doppel vorhanden, so wurde ein Exemplar in diese chronolgische Sammlung eingereih
+GEÄ  VII.109.:56. [ID 58, Dossier, E1, Eltern -, S.13] Briefe an und von Emil Klöti II N – Z | Von/bis (>= x und <=y)
+        bis: '1939' => '1951'
+        [Darin]
+           +Stadtarchiv Zürich
+           +Stadtkanzlei
+           +Stadtpräsident, Verwaltungsabteilung
+           +Stadtrat
+           +Statistisches Amt der Stadt Zürich
+           +Stauber, A.
+           +Stehli-Zweifel, Robert
+           +Steiger, Rudolf, Luzern
+           +Steiner, A.H., Stadtbaumeister
+           +Steiner, Hermann, Stadtingenieur
+           +Steuervorstand Zürich
+           +Stiftung Nietzsche-Haus in Sils-Maria
+           +Stirnemann, Erwin, Stadtrat
+           +Stocker, Dr. Werner, Zentralsekretär SPS (später Oberrichter)
+           +Stoffel, Richard, Ing.
+           +Strasser, Dr. Ch.
+           +Ströbel, Heinrich
+           +Studer, Fritz, Winterthur
+           +Sturmthal, Dr. Adolf
+           +Thalberg, Dr. Kurt
+           +Universität Zürich (Doktor-Jubiläum 1951)
+           +Verband der Handels-, Transport- und Lebensmittelarbeiter VHTL
+           +Verband des Personals öffentlicher Dienste VPOD (Dossier)
+           +Verband schweiz. Ziegel- und Steinfabrikanten VSZS
+           +Verband schweiz. Zigarrenfabrikanten, Reinach
+           +Vereinigung schweiz. Angestelltenverbände
+           +Versicherungskasse der Stadt Zürich
+           +Victor, Walter, Vanves (Seine)
+           +Vinck, E., Brüssel
+           +Volkshochschule des Kanton Zürich
+           +"Volksrecht" (Dossier)
+           +"Volksstimme", St. Gallen
+           +Volkswirtschaftsdepartement Bern
+           +Vormundschaftsbehörde der Stadt Zürich
+           +Wahlen, F. T., Bundesrat
+           +Waisenhaus Sonnenberg
+           +Waldkirch, Prof. Dr. E. von, Bern
+           +Walter, Emil
+           +Walther, Dr. H., Regierungsrat, Luzern
+           +Waser, Dr. Hans, Stadtarchivar
+           +Weber, Anton, Stadtrat, Wien
+           +Weber, Dr. Max, Bundesrat
+           +Weltliga für den Frieden
+           +Welter, Rudolf, Stadtrat
+           +Wenk, Gustav, Regierungsrat, Basel
+           +Wettstein, Jakob
+           +Wezel, F. und R.
+           +Wiesendanger, Dr. Albert, Polizeiinspektor
+           +Wille, Ulrich, Oberstkorpskommandant (Dossier)
+           +Winter, Dr. Ernst Karl
+           +Wirth, Heinrich
+           +Wirth, Otto
+           +Wohlfahrtsamt der Stadt Zürich
+           +Wolfer, Dr. med. Paul
+           +Wolodarski, B.
+           +Wyler-Brandeis, S.
+           +Wyss, Heinrich, Stadtrat
+           +Wyss-Vögtlin, Frau Dr.
+           +Zahn, Ernst
+           +Zellweger, Dr. jur. E.
+           +Ziegler, August (später Stadtrat)
+           +Ziegler, Karl, Frauenfeld
+           +Zimmerli, Stadtpräsident und Nationalrat in Luzern
+           +Zimmermann, Dr., Regierungsrat i.R.
+           +Zimmermann, Hans (Schwager von Fritz Platten)
+           +Zoologischer Garten Zürich
+           +Zürcher Eierhandelsverband
+           +Zürcher Hilfskomitee für Arbeitslose
+           +Zürcher Jugendhaus
+           +Zürcher Schauspielhaus
+           +Zürcher Vaterländischer Verband
+           +Zumstein & Co., Bern
+           +Zunftgesellschaft zum Kämbel
+GEÄ  VII.109.:65. [ID 67, Dossier, E1, Eltern -, S.23] Promotionsdiplom der Rechts- und Staatswissenschaftlichen Fakultät der Universität Zürich für Emil Klöti zum Thema “Die Proportionalwahl in der Schweiz” [Bibliothekssignatur: Bb 130] | Genau (=)
+        Stufe: 'Teilbestand' => 'Dossier'
+        [Darin]
+           -Grossformatige Eisenplakette mit Emil Klöti im Seitenprofil; Künstler: 1929
+           +Grossformatige Eisenplakette mit Emil Klöti im Seitenprofil; Künstler: 1929 A. Engelhardt
+           +Zinnteller mit Ansicht des 1886 abgebrochenen Bauhauses (“Stadthaus”), 1942 verliehen anlässlich des Rücktritts von Emil Klöti von den Dienstchefs und dem Sekretariat der Verwaltungsabteilung des Sta
+           +Koloriertes Wappen der Familie Klöti auf Holz, undatiert
+           +Aktenmappe von Emil Klöti undatiert
+GEÄ  VII.109.:66. [ID 68, Dossier, E1, Eltern -, S.24] Schweizer Armee- und Zivilschutzgasmaske in Metallbüchse mit Bezeichnung “CIVILE” (persönliches Exemplar von Emil Klöti) | Genau (=)
+        Titel: '[ohne Titel]' => 'Schweizer Armee- und Zivilschutzgasmaske in Metallbüchse mit Bezeichnung “CIVILE” (persönliches Exemplar von Emil Klöti)'
+        [Darin]
+           -Schweizer Armee- und Zivilschutzgasmaske in Metallbüchse mit Bezeichnung “CIVILE” (persönliches Exemplar von Emil Klöti)
+           -Zürich, Oktober 1976 / Dr. Paul Guyer, a. Stadtarchivar
+           -Der Nachlass von Emil Klöti wurde von Paul Guyer vom November 1974 bis Ende 1976 bearbeitet.
+           -Guyer hat ein Übersichtsinventar und fünf Spezialverzeichnisse verfasst; diese wurden in ein einziges Detailverzeichnis integriert.
+           -Eingegliederte Spezialverzeichnisse:
+           -Gutachten zur Regionalplanung u. a. (Schachtel 22)
+           -Publikationen von Emil Klöti (Schachtel 48)
+           -Schriften zum Proportionalwahlverfahren (Schachtel 49)
+           -Referate und Vorträge (Schachteln 52 und 53)
+           -Briefsammlung Emil Klöti (Schachteln 55 und 56).
+        Prüfhinweise: 'Kein Titel erkannt.' => ''

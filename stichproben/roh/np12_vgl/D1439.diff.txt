@@ -1,0 +1,5 @@
+### D1439: vorher 4 Einheiten, nachher 4 Einheiten
+GEÄ  V.F.c.77.:4. [ID 4, Dossier, E1, Eltern -, S.1] Zeitungsausschnitte | Von/bis (>= x und <=y)
+        [Darin]
+           -Ende 1995 wurde die Kommission vom Gesundheits- und Umweltdepartement dem Präsidialdepartement zugeordnet.
+        Prüfhinweise: 'Nach der letzten Einheit steht im Findmittel ein Absatz ohne Signatur («Ende 1995 wurde die Kommission vom Gesundheits- und Umweltde» …) – hier im Darin übernom' => ''

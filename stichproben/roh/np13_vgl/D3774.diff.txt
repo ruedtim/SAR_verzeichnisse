@@ -1,0 +1,9 @@
+### D3774: vorher 59 Einheiten, nachher 59 Einheiten
+GEÄ  VII.47.:6.3. [ID 58, Dossier, E2, Eltern VII.47.:6., S.13] Pläne des 20. Jahrhunderts | Von/bis (>= x und <=y)
+        [Darin]
+           -Grossformate (ausserhalb der Schachteln)
+GEÄ  VII.47.:6.4. [ID 59, Dossier, E2, Eltern VII.47.:6., S.13] ohne Datum Bestattungsplan des Privat-Kirchhofes auf der Hohen Promenade 1:50 | 
+        [Darin]
+           -neu umgebrochen ohne inhaltliche Überprüfung vor Ort: 26. 4. 97 / fle neu formatiert: 23. 6. 97 / enu
+           -S. 1 - 6 gelayoutet: / 11. 5. 99 / RD
+        Prüfhinweise: '' => 'Steht im Findmittel unter der Zwischenüberschrift «Grossformate (ausserhalb der Schachteln)».'

@@ -1,0 +1,34 @@
+### D3470: vorher 1950 Einheiten, nachher 1950 Einheiten
+WEG  VII.308.E.a.:1936.472 [ID 574, Dossier, E1, Eltern -, S.23] Rorbas Tössbrücke | Genau (=)
+WEG  VII.308.E.a.:1934.474 [ID 576, Dossier, E1, Eltern -, S.24] Olten Architekt W, Stalder, Hallenbau | Genau (=)
+WEG  VII.308.E.a.:1936.491 [ID 593, Dossier, E1, Eltern -, S.24] Medels Gemeinde, Tambobrücke | Genau (=)
+WEG  VII.308.E.a.:1936.495 [ID 597, Dossier, E1, Eltern -, S.24] Flaach Sägerei Umbau, Hr. Frei | Genau (=)
+WEG  VII.308.E.a.:1937.506 [ID 608, Dossier, E1, Eltern -, S.25] Zürich Schweizerische Bundesbahnen, Hauptbahnhof, Ueberdachung des Parkplatzes | Genau (=)
+WEG  VII.308.E.a.:1939.584 [ID 686, Dossier, E1, Eltern -, S.28] Zürich Schweizerische Landesausstellung und Tiefbauamt der Stadt Zürich, Schiffsstege | Genau (=)
+WEG  VII.308.E.a.:1947.744 [ID 844, Dossier, E1, Eltern -, S.35] Wald Zürcher Heilstätte, Mittelbau Nord und Süd | Genau (=)
+WEG  VII.308.E.a.:1943.758 [ID 857, Dossier, E1, Eltern -, S.36] Bern Baubüro 5. Division, Behandlungsbaracke | Genau (=)
+WEG  VII.308.E.a.:1947.1050 [ID 1079, Dossier, E1, Eltern -, S.43] Oberwinterthur Gebr. Sulzer AG, Logierhaus | Genau (=)
+WEG  VII.308.E.a.:1956.1577 [ID 1559, Dossier, E1, Eltern -, S.61] Stein am Rhein Rheinbrücke | Genau (=)
+WEG  VII.308.E.a.:1956.1592 [ID 1575, Dossier, E1, Eltern -, S.62] Albigna Staumauer, Baracken | Genau (=)
+NEU  VII.308.E.a.:1935.472 [ID 574, Dossier, E1, Eltern -, S.23] Rorbas Tössbrücke | Genau (=)
+        H: Im Findmittel «1936.472» zwischen 1935.471 und 1935.473 – als «1935.472» gelesen (Tippfehler im Jahr?), bitte prüfen.
+NEU  VII.308.E.a.:1935.474 [ID 576, Dossier, E1, Eltern -, S.24] Olten Architekt W, Stalder, Hallenbau | Genau (=)
+        H: Im Findmittel «1934.474» zwischen 1935.473 und 1935.475 – als «1935.474» gelesen (Tippfehler im Jahr?), bitte prüfen.
+NEU  VII.308.E.a.:1935.491 [ID 593, Dossier, E1, Eltern -, S.24] Medels Gemeinde, Tambobrücke | Genau (=)
+        H: Im Findmittel «1936.491» zwischen 1935.490 und 1935.492 – als «1935.491» gelesen (Tippfehler im Jahr?), bitte prüfen.
+NEU  VII.308.E.a.:1935.495 [ID 597, Dossier, E1, Eltern -, S.24] Flaach Sägerei Umbau, Hr. Frei | Genau (=)
+        H: Im Findmittel «1936.495» zwischen 1935.494 und 1935.496 – als «1935.495» gelesen (Tippfehler im Jahr?), bitte prüfen.
+NEU  VII.308.E.a.:1936.506 [ID 608, Dossier, E1, Eltern -, S.25] Zürich Schweizerische Bundesbahnen, Hauptbahnhof, Ueberdachung des Parkplatzes | Genau (=)
+        H: Im Findmittel «1937.506» zwischen 1936.505 und 1936.507 – als «1936.506» gelesen (Tippfehler im Jahr?), bitte prüfen.
+NEU  VII.308.E.a.:1938.584 [ID 686, Dossier, E1, Eltern -, S.28] Zürich Schweizerische Landesausstellung und Tiefbauamt der Stadt Zürich, Schiffsstege | Genau (=)
+        H: Im Findmittel «1939.584» zwischen 1938.583b und 1938.585 – als «1938.584» gelesen (Tippfehler im Jahr?), bitte prüfen.
+NEU  VII.308.E.a.:1942.744 [ID 844, Dossier, E1, Eltern -, S.35] Wald Zürcher Heilstätte, Mittelbau Nord und Süd | Genau (=)
+        H: Im Findmittel «1947.744» zwischen 1942.743 und 1942.745 – als «1942.744» gelesen (Tippfehler im Jahr?), bitte prüfen.
+NEU  VII.308.E.a.:1942.758 [ID 857, Dossier, E1, Eltern -, S.36] Bern Baubüro 5. Division, Behandlungsbaracke | Genau (=)
+        H: Im Findmittel «1943.758» zwischen 1942.757 und 1942.759 – als «1942.758» gelesen (Tippfehler im Jahr?), bitte prüfen.
+NEU  VII.308.E.a.:1946.1050 [ID 1079, Dossier, E1, Eltern -, S.43] Oberwinterthur Gebr. Sulzer AG, Logierhaus | Genau (=)
+        H: Im Findmittel «1947.1050» zwischen 1946.1049 und 1946.1051 – als «1946.1050» gelesen (Tippfehler im Jahr?), bitte prüfen.
+NEU  VII.308.E.a.:1955.1577 [ID 1559, Dossier, E1, Eltern -, S.61] Stein am Rhein Rheinbrücke | Genau (=)
+        H: Im Findmittel «1956.1577» zwischen 1955.1576 und 1955.1578 – als «1955.1577» gelesen (Tippfehler im Jahr?), bitte prüfen.
+NEU  VII.308.E.a.:1955.1592 [ID 1575, Dossier, E1, Eltern -, S.62] Albigna Staumauer, Baracken | Genau (=)
+        H: Im Findmittel «1956.1592» zwischen 1955.1591 und 1955.1593 – als «1955.1592» gelesen (Tippfehler im Jahr?), bitte prüfen.

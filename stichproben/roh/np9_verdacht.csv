@@ -1,0 +1,112 @@
+datei;geprueft;signal;befund
+D10575;ja;V;V: Vorspann 156 Zeilen, Signaturen nur im Vorspann: 38.
+D10575;ja;W;W: Text erfasst 99.95 %
+D10585;ja;N;N: 16 Zeilen nicht übernommen
+D10649;nein;N;N: 11 Zeilen nicht übernommen
+D10744;ja;N;N: 12 Zeilen nicht übernommen
+D134644;ja;V;V: Vorspann 109 Zeilen, Signaturen nur im Vorspann: 10.1.
+D1387;nein;Z;Z: 2 Einheiten ohne Zeilenanfang im PDF, z. B. V.F.c.18.:1, V.F.c.18.:3
+D140969;ja;Z;Z: 3 Einheiten ohne Zeilenanfang im PDF, z. B. VII.80.:3:1-3, VII.80.:8:1-3, VII.80.:11:1-2
+D141005;ja;W;W: Text erfasst 99.85 %
+D141062;nein;N;N: 10 Zeilen nicht übernommen
+D149622;ja;N;N: 11 Zeilen nicht übernommen
+D149634;ja;W;W: Text erfasst 99.94 %
+D149835;ja;S;S: 55 Schlussvermerk-Zeilen
+D149888;ja;Z;Z: 1 Einheiten ohne Zeilenanfang im PDF, z. B. VII.159.:13.1.
+D150296;ja;W;W: Text erfasst 99.96 %
+D150689;ja;V;V: Vorspann 140 Zeilen, Signaturen nur im Vorspann: 51., 17.
+D151150;ja;N;N: 37 Zeilen nicht übernommen
+D151210;ja;Z;Z: 2 Einheiten ohne Zeilenanfang im PDF, z. B. VII.200.:8.1.1.49., VII.200.:8.1.1.54.
+D151217;ja;W;W: Text erfasst 99.98 %
+D152781;ja;S;S: 40 Schlussvermerk-Zeilen
+D1739;ja;N;N: 30 Zeilen nicht übernommen
+D175827;nein;V;V: Vorspann 40 Zeilen, Signaturen nur im Vorspann: 2.2.
+D176151;ja;W;W: Text erfasst 99.98 %
+D176367;ja;W;W: Text erfasst 99.95 %
+D176772;nein;Z;Z: 9 Einheiten ohne Zeilenanfang im PDF, z. B. VII.192.:1., VII.192.:2.1., VII.192.:2.1.
+D1803;nein;Z;Z: 2 Einheiten ohne Zeilenanfang im PDF, z. B. V.G.c.181.:4., V.G.c.181.:4.
+D1877;ja;Z;Z: 12 Einheiten ohne Zeilenanfang im PDF, z. B. V.G.c.43.:2.1., V.G.c.43.:2.1., V.G.c.43.:3.1.
+D1924;ja;Z;Z: 83 Einheiten ohne Zeilenanfang im PDF, z. B. V.G.c.7.:1, V.G.c.7.:2, V.G.c.7.:3
+D2329;ja;N;N: 10 Zeilen nicht übernommen
+D2363;nein;Z;Z: 13 Einheiten ohne Zeilenanfang im PDF, z. B. V.J.c.65.:1, V.J.c.65.:2, V.J.c.65.:3
+D2366;ja;Z;Z: 8 Einheiten ohne Zeilenanfang im PDF, z. B. V.J.c.66.:1, V.J.c.66.:2, V.J.c.66.:3
+D2508;nein;N;N: 17 Zeilen nicht übernommen
+D2589;ja;N;N: 22 Zeilen nicht übernommen
+D2614;ja;N;N: 89 Zeilen nicht übernommen
+D2620;ja;S;S: 34 Schlussvermerk-Zeilen
+D2641;ja;W;W: Text erfasst 99.79 %
+D2710;ja;N;N: 15 Zeilen nicht übernommen
+D2776;nein;N;N: 10 Zeilen nicht übernommen
+D2828;nein;N;N: 16 Zeilen nicht übernommen
+D2839;ja;N;N: 18 Zeilen nicht übernommen
+D2839;ja;W;W: Text erfasst 99.97 %
+D2853;nein;Z;Z: 5 Einheiten ohne Zeilenanfang im PDF, z. B. VII.11.:I.5.3., VII.11.:I.5.3., VII.11.:I.5.3.
+D2894;ja;Z;Z: 1 Einheiten ohne Zeilenanfang im PDF, z. B. VII.122.:7.4.
+D2901;ja;Z;Z: 10 Einheiten ohne Zeilenanfang im PDF, z. B. VII.124.:1, VII.124.:3, VII.124.:4
+D2937;ja;N;N: 19 Zeilen nicht übernommen
+D2962;nein;Z;Z: 1 Einheiten ohne Zeilenanfang im PDF, z. B. VII.150.:6.
+D3018;ja;V;V: Vorspann 274 Zeilen, Signaturen nur im Vorspann: 02.3.l.
+D3018;ja;Z;Z: 4 Einheiten ohne Zeilenanfang im PDF, z. B. VII.174.:03.3., VII.174.:06.7.2., VII.174.:08.2.3.
+D3021;ja;Z;Z: 4 Einheiten ohne Zeilenanfang im PDF, z. B. VII.175.:C), VII.175.:C), VII.175.:C)
+D3038;ja;Z;Z: 1 Einheiten ohne Zeilenanfang im PDF, z. B. VII.181.:III.
+D3060;ja;W;W: Text erfasst 99.89 %
+D3060;ja;Z;Z: 1 Einheiten ohne Zeilenanfang im PDF, z. B. VII.189.:8
+D3063;ja;V;V: Vorspann 136 Zeilen, Signaturen nur im Vorspann: 25., 6., 40.
+D3063;ja;Z;Z: 1 Einheiten ohne Zeilenanfang im PDF, z. B. VII.190.:3.8.
+D3067;ja;N;N: 21 Zeilen nicht übernommen
+D3067;ja;Z;Z: 4 Einheiten ohne Zeilenanfang im PDF, z. B. VII.191.:V.B., VII.191.:V.B., VII.191.:V.B.
+D3089;ja;N;N: 43 Zeilen nicht übernommen
+D3089;ja;W;W: Text erfasst 99.94 %
+D3161;nein;W;W: Text erfasst 99.72 %
+D3204;ja;N;N: 11 Zeilen nicht übernommen
+D3253;ja;N;N: 24 Zeilen nicht übernommen
+D32738;nein;N;N: 19 Zeilen nicht übernommen
+D32837;ja;V;V: Vorspann 70 Zeilen, Signaturen nur im Vorspann: 1.
+D3293;nein;N;N: 23 Zeilen nicht übernommen
+D3398;ja;Z;Z: 1 Einheiten ohne Zeilenanfang im PDF, z. B. VII.282.:4.
+D3415;nein;N;N: 23 Zeilen nicht übernommen
+D3425;ja;N;N: 10 Zeilen nicht übernommen
+D3459;nein;N;N: 10 Zeilen nicht übernommen
+D3466;ja;N;N: 17 Zeilen nicht übernommen
+D3468;nein;N;N: 14 Zeilen nicht übernommen
+D3470;nein;N;N: 21 Zeilen nicht übernommen
+D3472;ja;N;N: 14 Zeilen nicht übernommen
+D3482;ja;N;N: 19 Zeilen nicht übernommen
+D3484;ja;N;N: 18 Zeilen nicht übernommen
+D3561;nein;N;N: 13 Zeilen nicht übernommen
+D3566;nein;N;N: 13 Zeilen nicht übernommen
+D3579;nein;N;N: 18 Zeilen nicht übernommen
+D3581;ja;W;W: Text erfasst 98.67 %
+D3589;ja;W;W: Text erfasst 99.93 %
+D3593;nein;N;N: 30 Zeilen nicht übernommen
+D3604;nein;Z;Z: 2 Einheiten ohne Zeilenanfang im PDF, z. B. VII.366.:1, VII.366.:2
+D3647;ja;N;N: 11 Zeilen nicht übernommen
+D3672;ja;Z;Z: 6 Einheiten ohne Zeilenanfang im PDF, z. B. VII.389.:1.2.1.-1.2.14., VII.389.:1.3.1.-1.3.49., VII.389.:2.2.1.-2.2.25.
+D3684;ja;N;N: 32 Zeilen nicht übernommen
+D3725;nein;Z;Z: 1 Einheiten ohne Zeilenanfang im PDF, z. B. VII.410.:7
+D3727;nein;V;V: Vorspann 123 Zeilen, Signaturen nur im Vorspann: 20.
+D3736;nein;N;N: 21 Zeilen nicht übernommen
+D3742;nein;N;N: 65 Zeilen nicht übernommen
+D3750;nein;N;N: 14 Zeilen nicht übernommen
+D3761;nein;N;N: 15 Zeilen nicht übernommen
+D3767;nein;N;N: 10 Zeilen nicht übernommen
+D3826;ja;S;S: 42 Schlussvermerk-Zeilen
+D4007;ja;W;W: Text erfasst 99.75 %
+D4039;ja;Z;Z: 47 Einheiten ohne Zeilenanfang im PDF, z. B. V.F.c.119.:1, V.F.c.119.:2, V.F.c.119.:3
+D4054;ja;W;W: Text erfasst 99.98 %
+D4054;ja;Z;Z: 2 Einheiten ohne Zeilenanfang im PDF, z. B. VII.151.:15.3., VII.151.:15.3.
+D4058;ja;V;V: Vorspann 40 Zeilen, Signaturen nur im Vorspann: 19.
+D406;ja;W;W: Text erfasst 99.88 %
+D4173;ja;N;N: 29 Zeilen nicht übernommen
+D4175;ja;N;N: 22 Zeilen nicht übernommen
+D512;ja;W;W: Text erfasst 99.88 %
+D537;ja;W;W: Text erfasst 99.98 %
+D73;ja;N;N: 11 Zeilen nicht übernommen
+D814;nein;Z;Z: 65 Einheiten ohne Zeilenanfang im PDF, z. B. V.C.c.208.:1, V.C.c.208.:2, V.C.c.208.:3
+D860;ja;W;W: Text erfasst 93.11 %
+D860;ja;Z;Z: 37 Einheiten ohne Zeilenanfang im PDF, z. B. V.C.c.75.:98, V.C.c.75.:99, V.C.c.75.:100
+D8947;nein;N;N: 18 Zeilen nicht übernommen
+D8949;ja;N;N: 23 Zeilen nicht übernommen
+D8952;ja;N;N: 14 Zeilen nicht übernommen
+D9978;ja;V;V: Vorspann 36 Zeilen, Signaturen nur im Vorspann: 28.
+D9978;ja;N;N: 10 Zeilen nicht übernommen

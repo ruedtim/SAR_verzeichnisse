@@ -1,0 +1,15 @@
+### D3472: vorher 1722 Einheiten, nachher 1719 Einheiten
+WEG  VII.308.F.a.:1966.19.a. [ID 944, Dossier, E2, Eltern VII.308.F.a.:1966.19, S.37] Lagerhalle Nr. 4 neue Tankbelegung | 
+WEG  VII.308.F.a.:1966.19.b. [ID 945, Dossier, E2, Eltern VII.308.F.a.:1966.19, S.37] Velounterstand | 
+WEG  VII.308.F.a.:1966.19.c. [ID 946, Dossier, E2, Eltern VII.308.F.a.:1966.19, S.37] Flaschengeschäft Zwischenbodenverstärkung | 
+GEÄ  VII.308.F.a.:1952.8/T2 [ID 485, Dossier, E2, Eltern VII.308.F.a.:1952.8, S.22] Horgen, Schweiter AG, Warenaufzug | Genau (=)
+        Prüfhinweise: '' => 'Signatur 1952.8 steht im Findmittel zweimal hintereinander mit anderem Titel – Tippfehler? Als Teil übernommen, bitte prüfen.'
+GEÄ  VII.308.F.a.:1952.14/T2 [ID 491, Dossier, E2, Eltern VII.308.F.a.:1952.14, S.22] Mauvoisin, AEBM, Kiesaufbereitung | Genau (=)
+        Prüfhinweise: '' => 'Signatur 1952.14 steht im Findmittel zweimal hintereinander mit anderem Titel – Tippfehler? Als Teil übernommen, bitte prüfen.'
+GEÄ  VII.308.F.a.:1966.19 [ID 943, Dossier, E1, Eltern -, S.37] Zürich, Hürlimann Brauerei AG, Brandschenkestrasse 150 | Genau (=)
+        Stufe: 'Teilbestand' => 'Dossier'
+        [Darin]
+           -
+           +a) Lagerhalle Nr. 4 neue Tankbelegung
+           +b) Velounterstand
+           +c) Flaschengeschäft Zwischenbodenverstärkung

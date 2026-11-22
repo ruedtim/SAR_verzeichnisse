@@ -1,0 +1,76 @@
+### D3810: vorher 21 Einheiten, nachher 8 Einheiten
+WEG  VII.67.:9. [ID 9, Dossier, E1, Eltern -, S.2] Bertschinger von Ober-Pfäffikon | 
+WEG  VII.67.:10. [ID 10, Dossier, E1, Eltern -, S.2] Briner | 
+WEG  VII.67.:11. [ID 11, Dossier, E1, Eltern -, S.2] Enderli von Unter-Illnau | 
+WEG  VII.67.:12. [ID 12, Dossier, E1, Eltern -, S.2] Furrer von Humbel-Pfäffikon | 
+WEG  VII.67.:13. [ID 13, Dossier, E1, Eltern -, S.2] Krebs von Oberwil-Pfäffikon | 
+WEG  VII.67.:14. [ID 14, Dossier, E1, Eltern -, S.2] Kuhn | 
+WEG  VII.67.:15. [ID 15, Dossier, E1, Eltern -, S.2] Maggi | 
+WEG  VII.67.:16. [ID 16, Dossier, E1, Eltern -, S.2] Rüegg | 
+WEG  VII.67.:17. [ID 17, Dossier, E1, Eltern -, S.2] Schellenberg von Oberwil-Pfäffikon | 
+WEG  VII.67.:18. [ID 18, Dossier, E1, Eltern -, S.2] Schnewli von Affoltern a.A. | 
+WEG  VII.67.:19. [ID 19, Dossier, E1, Eltern -, S.2] Weilemann | 
+WEG  VII.67.:20. [ID 20, Dossier, E1, Eltern -, S.2] Wettstein | 
+WEG  VII.67.:21. [ID 21, Dossier, E1, Eltern -, S.2] Vereinzelte genealogische Notizen | Von/bis (>= x und <=y)
+        D: Bachofer, Forster, Frey, Gubler, Gedonis, Gubler, Guyer, Jucker, Nabiloth, Nüssli, Ott, Schollenberger, Schram, Stucki, Trachsler, Zimmermann
+        D: 8. Nachträge; Ein Ordner mit vier Sammelmappen:
+        D: 1. Lindau-Dorf u. kirchliches, Eschikon
+        D: 2. Tagelswangen
+        D: 3. Winterberg, Kleimikon
+        D: 4. Grafstall
+        D: Ein Wachstuchheft
+        D: Notizen zur Famile Schenkel
+        D: … (28 Zeilen)
+GEÄ  VII.67.:7. [ID 7, Dossier, E1, Eltern -, S.1] Bericht über die Tätigkeit der Vereinigung Zürcherischer | Von/bis (>= x und <=y)
+        [Darin]
+           +8. Verschiedene Auszüge und Notizen historischen und statistischen Inhaltes
+           +9. Bertschinger von Ober-Pfäffikon
+           +10. Briner
+           +11. Enderli von Unter-Illnau
+           +12. Furrer von Humbel-Pfäffikon
+           +13. Krebs von Oberwil-Pfäffikon
+           +14. Kuhn
+           +15. Maggi
+           +16. Rüegg
+           +17. Schellenberg von Oberwil-Pfäffikon
+           +18. Schnewli von Affoltern a.A.
+           +19. Weilemann
+           +20. Wettstein
+           +21. Vereinzelte genealogische Notizen: Bachofer, Forster, Frey, Gubler, Gedonis, Gubler, Guyer, Jucker, Nabiloth, Nüssli, Ott, Schollenberger, Schram, Stucki, Trachsler, Zimmermann
+GEÄ  VII.67.:8. [ID 8, Dossier, E1, Eltern -, S.2] Nachträge | Von/bis (>= x und <=y)
+        Titel: 'Verschiedene Auszüge und Notizen historischen und statistischen Inhaltes' => 'Nachträge'
+        Entstehungszeitraum: '' => 'Von/bis (>= x und <=y)'
+        von: '' => '1926'
+        bis: '' => '1944'
+        [Darin]
+           -
+           +Ein Ordner mit vier Sammelmappen:
+           +1. Lindau-Dorf u. kirchliches, Eschikon
+           +2. Tagelswangen
+           +3. Winterberg, Kleimikon
+           +4. Grafstall
+           +Ein Wachstuchheft
+           +Notizen zur Famile Schenkel
+           +Streitigkeiten Illnau-Lindau 1943/44 betr. Giessenstrasse Abschrift des Bevölkerungsrodels EII211 von 1634
+           +a) Grafstal
+           +b) Lindau
+           +c) Tagelswangen
+           +d) Winterbergl, Kleinikon verschiedene Themen
+           +Taufregister EIII60 Illnau
+           +Eheregister EIII60 Illnau
+           +Haushaltungsrodel Ottikon 1794, Oberillnau und Bisikon 1794
+           +Kuvert: Ehepaare Ottikon 1634
+           +Horben-Mesikon-Guggenbühl 1634
+           +Unterillnau 1634
+           +Effretikon-Moosburg-Würglen-Mannenberg 1634
+           +Rikon 1634
+           +Bisikon 1634
+           +Thalmühle-Bietenholz-Kempleten-First-Agasul-Luckhausen 1634
+           +Oberillnau 1634
+           +Bericht Lehrer H. Tanner Ottikon: Ausgrabungen i. Staudenbrunnenholz
+           +Fotos vom tech. Feuerwehrstag 1926
+           +Verschiedene Notizen über Ottikon
+           +3 Kopien der Fahne vom Töchterchor Illnau
+        Schachtel-Nr.: '' => 'IV'
+        Zeitraum-Quelle: '' => 'Darin (geschätzt)'
+        Prüfhinweise: 'Kein Zeitraum gefunden.' => 'Zeitraum aus den Jahreszahlen im Darin geschätzt.'
