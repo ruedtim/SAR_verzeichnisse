@@ -1,0 +1,24 @@
+D151150_scope_import.xlsx: Zeilen 649 -> 649; Prüfhinweise 5, Signatur 3, Nr. im PDF 3, Titel 2, Darin 2
+D151210_scope_import.xlsx: Zeilen 3161 -> 3161; Darin 2, Prüfhinweise 2, Entstehungszeitraum 1, von 1, Zeitraum-Quelle 1
+D152401_scope_import.xlsx: Zeilen 6 -> 7; 
+D152817_scope_import.xlsx: Zeilen 704 -> 704; Prüfhinweise 9, Darin 8, Titel 1
+D1729_scope_import.xlsx: Zeilen 7 -> 8; 
+D175949_scope_import.xlsx: Zeilen 41 -> 41; Darin 1
+D177470_scope_import.xlsx: Zeilen 29 -> 29; Darin 4, Titel 2
+D2502_scope_import.xlsx: Zeilen 19 -> 20; 
+D2951_scope_import.xlsx: Zeilen 51 -> 51; Darin 2, Prüfhinweise 1
+D3099_scope_import.xlsx: Zeilen 161 -> 161; Prüfhinweise 9, von 3, Zeitraum-Quelle 3, Entstehungszeitraum 2, Darin 2
+D3466_scope_import.xlsx: Zeilen 1197 -> 1197; Titel 10, Darin 10, Prüfhinweise 1
+D3470_scope_import.xlsx: Zeilen 1950 -> 1950; Prüfhinweise 12, Signatur 11, von 11
+D3774_scope_import.xlsx: Zeilen 59 -> 59; Schachtel-Nr. 1
+D3793_scope_import.xlsx: Zeilen 227 -> 227; Darin 1, Prüfhinweise 1
+D49_scope_import.xlsx: Zeilen 13 -> 13; Darin 2, Prüfhinweise 2
+D65_scope_import.xlsx: Zeilen 12 -> 12; Darin 1, Prüfhinweise 1
+D67_scope_import.xlsx: Zeilen 32 -> 32; Darin 1, Prüfhinweise 1
+D69_scope_import.xlsx: Zeilen 31 -> 31; Prüfhinweise 2, Darin 2
+Dateien je Spalte: {'Signatur': 2, 'Titel': 4, 'Nr. im PDF': 1, 'Prüfhinweise': 12, 'Darin': 13, 'Entstehungszeitraum': 2, 'von': 3, 'Zeitraum-Quelle': 2, 'Schachtel-Nr.': 1}
+
+Testdaten (testdaten_excel, Runde 11 -> Runde 12):
+D151210_scope_import.xlsx: Zeilen 3161 -> 3161; Darin 2, Prüfhinweise 2, Entstehungszeitraum 1, von 1, Zeitraum-Quelle 1
+D177470_scope_import.xlsx: Zeilen 29 -> 29; Darin 4, Titel 2
+Dateien je Spalte: {'Darin': 2, 'Prüfhinweise': 1, 'Entstehungszeitraum': 1, 'von': 1, 'Zeitraum-Quelle': 1, 'Titel': 1}

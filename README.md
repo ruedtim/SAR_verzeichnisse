@@ -13,10 +13,20 @@ Excel-Dateien für den scope-Import um: eine Datei je Findmittel mit den Blätte
 - `findmittel_excel/` – die Excel-Dateien aller 715 Findmittel und die Übersicht `uebersicht_scope_import.xlsx`.
 - `testdaten_excel/` und `D151210_scope_import.xlsx` – Testdaten und das Findmittel VII.200.
 
-Die Excel-Dateien sind mit dem Skript dieses Stands erzeugt (Gliederungsrunde mit Nachtrag, 22.11.2026). Geprüft
-wurden sie in `stichproben/nachpruefung8.md`; Änderungen und offene Punkte stehen in
-`stichproben/runde7/AENDERUNGEN_RUNDE7.md`. Jede Excel-Datei enthält im Blatt «Prüfliste» die Einheiten mit
-Prüfhinweisen.
+Die Excel-Dateien sind mit dem Skript dieses Stands erzeugt (Runde 13, 22.11.2026). Diesen Stand prüft
+`stichproben/nachpruefung16.md`:
+- In der vierten Zufallsstichprobe ist keine von 60 Dateien kritisch.
+- Offen sind 11 kritische Zeilen in `stichproben/offen_kritisch.csv`: 10 bewusst offen, dazu der Grenzfall K221.
+- Mittlere Fehler (Titel, Zeitraum, Schachtel) kommen noch häufig vor, in der Stichprobe in fast jeder dritten Datei.
+
+Die Vorstände prüfen `stichproben/nachpruefung8.md` bis `stichproben/nachpruefung15.md`. Seit NP12 ist jede der 715 Dateien
+mindestens einmal ganz auf kritische Fehler geprüft. NP15 hat zudem Schluss und Blatt Info aller Dateien durchgesehen.
+Änderungen und offene Punkte stehen in `stichproben/runde7/AENDERUNGEN_RUNDE7.md` bis
+`stichproben/runde13/AENDERUNGEN_RUNDE13.md`.
+
+Jede Excel-Datei enthält im Blatt «Prüfliste» die Einheiten mit Prüfhinweisen; sie gehören in die Nachkontrolle nach dem
+Import. Stücke ohne Nummer stehen im Darin einer eigenen Zeile für den Bestand (Signatur = Bestand), es werden keine
+Signaturen erfunden.
 
 Nicht im Repository: die PDFs (Quelle: Online-Archiv des Stadtarchivs).
 

@@ -1,0 +1,33 @@
+D109666_scope_import.xlsx: Zeilen 23 -> 23; Prüfhinweise 1
+D1439_scope_import.xlsx: Zeilen 4 -> 4; Prüfhinweise 1
+D149825_scope_import.xlsx: Zeilen 273 -> 273; Prüfhinweise 2, Darin 1
+D150689_scope_import.xlsx: Zeilen 299 -> 299; Prüfhinweise 1
+D152817_scope_import.xlsx: Zeilen 704 -> 704; Signatur 156, Titel 156, Nr. im PDF 156, Parent-ID 128, bis 124, von 122, Umfang 47, Ebene 45, Übergeordnete Signatur 45, Stufe 41, Entstehungszeitraum 22, Darin 18, Prüfhinweise 18, PDF-Seite 6, Zeitraum-Quelle 6, Entstehungszeitraum, Anm. 6
+D175454_scope_import.xlsx: Zeilen 78 -> 78; Prüfhinweise 1
+D175949_scope_import.xlsx: Zeilen 16 -> 41; Zeitraum-Quelle 16, Prüfhinweise 16, Darin 15, Signatur 15, Titel 15, von 15, Nr. im PDF 15, bis 12, Parent-ID 11, Ebene 11, Übergeordnete Signatur 11, PDF-Seite 9, Entstehungszeitraum 8, Stufe 5, Entstehungszeitraum, Anm. 4
+D1759_scope_import.xlsx: Zeilen 152 -> 152; Prüfhinweise 1
+D2363_scope_import.xlsx: Zeilen 13 -> 13; Darin 6, Titel 4, Zeitraum-Quelle 3, Prüfhinweise 3, von 2, bis 2, Entstehungszeitraum 1, PDF-Seite 1
+D260_scope_import.xlsx: Zeilen 120 -> 120; Prüfhinweise 1
+D2834_scope_import.xlsx: Zeilen 2 -> 5; Signatur 2, Titel 2, bis 2, Schachtel-Nr. 2, Nr. im PDF 2, Prüfhinweise 2, Stufe 1, Parent-ID 1, Ebene 1, Teil 1, Übergeordnete Signatur 1, von 1, Entstehungszeitraum, Anm. 1, Darin 1, Umfang 1
+D2850_scope_import.xlsx: Zeilen 68 -> 68; Darin 1, Prüfhinweise 1
+D2853_scope_import.xlsx: Zeilen 14 -> 8; Schachtel-Nr. 8, Entstehungszeitraum 4, von 4, Signatur 4, Titel 4, Nr. im PDF 4, Zeitraum-Quelle 4, Prüfhinweise 4, bis 3, Übergeordnete Signatur 3, Darin 2, Parent-ID 2, Ebene 2, Stufe 1
+D2931_scope_import.xlsx: Zeilen 19 -> 19; Prüfhinweise 1
+D3018_scope_import.xlsx: Zeilen 200 -> 200; Darin 1, Prüfhinweise 1
+D3089_scope_import.xlsx: Zeilen 46 -> 48; Schachtel-Nr. 19, Signatur 19, Titel 19, Nr. im PDF 19, Darin 17, Parent-ID 17, bis 16, Prüfhinweise 16, Übergeordnete Signatur 15, von 15, Zeitraum-Quelle 14, Ebene 14, Entstehungszeitraum 12, Stufe 9, PDF-Seite 6, Entstehungszeitraum, Anm. 3, Teil 2
+D3271_scope_import.xlsx: Zeilen 120 -> 120; Darin 1, Prüfhinweise 1
+D3324_scope_import.xlsx: Zeilen 12 -> 12; Prüfhinweise 1
+D3468_scope_import.xlsx: Zeilen 852 -> 852; Parent-ID 443, Titel 443, Teil 443, Darin 438, Schachtel-Nr. 437, Nr. im PDF 429, Signatur 428, Stufe 360, Ebene 360, Übergeordnete Signatur 360, PDF-Seite 48, von 32, Prüfhinweise 6, Zeitraum-Quelle 5, Entstehungszeitraum, Anm. 4
+D3470_scope_import.xlsx: Zeilen 1950 -> 1950; Signatur 11, von 11, Prüfhinweise 11
+D3472_scope_import.xlsx: Zeilen 1722 -> 1722; Signatur 108, Titel 107, Nr. im PDF 107, Schachtel-Nr. 12, PDF-Seite 4, Entstehungszeitraum, Anm. 4, Zeitraum-Quelle 4, von 3, Prüfhinweise 3, Stufe 1, Parent-ID 1, Ebene 1, Teil 1, Übergeordnete Signatur 1
+D3533_scope_import.xlsx: Zeilen 15 -> 15; Prüfhinweise 1
+D3767_scope_import.xlsx: Zeilen 36 -> 36; Prüfhinweise 1
+D3896_scope_import.xlsx: Zeilen 80 -> 80; Darin 14, Prüfhinweise 14
+D3898_scope_import.xlsx: Zeilen 102 -> 102; Darin 15, Prüfhinweise 15
+D3943_scope_import.xlsx: Zeilen 237 -> 237; Prüfhinweise 1
+D4173_scope_import.xlsx: Zeilen 44 -> 44; Darin 1, Prüfhinweise 1
+D49_scope_import.xlsx: Zeilen 13 -> 13; Darin 1
+D67_scope_import.xlsx: Zeilen 32 -> 32; Darin 1, Prüfhinweise 1
+D814_scope_import.xlsx: Zeilen 65 -> 65; Darin 2, Titel 1, Zeitraum-Quelle 1, Prüfhinweise 1
+D847_scope_import.xlsx: Zeilen 282 -> 292; Titel 282, Nr. im PDF 282, Signatur 281, PDF-Seite 69, Prüfhinweise 12, Darin 5, Stufe 5, Parent-ID 5, Ebene 5, Teil 5, Übergeordnete Signatur 5
+D8947_scope_import.xlsx: Zeilen 2 -> 1; Signatur 1, Titel 1, Stufe 1, Übergeordnete Signatur 1, Entstehungszeitraum 1, von 1, bis 1, Darin 1, Nr. im PDF 1, Zeitraum-Quelle 1, Prüfhinweise 1
+Dateien je Spalte: {'Prüfhinweise': 31, 'Darin': 19, 'Signatur': 10, 'Titel': 11, 'Stufe': 9, 'Entstehungszeitraum': 6, 'bis': 7, 'Umfang': 2, 'Nr. im PDF': 9, 'Parent-ID': 8, 'Ebene': 8, 'Übergeordnete Signatur': 9, 'von': 10, 'PDF-Seite': 7, 'Zeitraum-Quelle': 9, 'Entstehungszeitraum, Anm.': 6, 'Schachtel-Nr.': 5, 'Teil': 5}

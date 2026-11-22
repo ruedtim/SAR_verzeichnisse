@@ -1,0 +1,15 @@
+D10675_scope_import.xlsx
+D10744_scope_import.xlsx
+D1387_scope_import.xlsx
+D175827_scope_import.xlsx
+D177460_scope_import.xlsx
+D2137_scope_import.xlsx
+D260_scope_import.xlsx
+D2828_scope_import.xlsx
+D2951_scope_import.xlsx
+D2960_scope_import.xlsx
+D3170_scope_import.xlsx
+D3470_scope_import.xlsx
+D3472_scope_import.xlsx
+D434_scope_import.xlsx
+testdaten_excel/D177460_scope_import.xlsx
